@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>La virtù indiana (1811)</title>
+      <author>Giacomo Leopardi</author>
+    </titleStmt>
+    <extent>45 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000940</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le opere</title>
+        <author>Leopardi, Giacomo</author>
+        <editor id="ed">Felici, Lucio</editor>
+        <publisher>Lexis Porgetti Editoriali</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1998</date>
+        <note>L'edizione elettronica fa riferimento al testo Giacomo Leopardi, Tutte le opere, a cura di W. Binni-E. Ghidetti, I, Firenze, Sansoni 1989.</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>858.7 - MISCELLANEA ITALIANA. 1814-1859</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-04-01T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marco Fucini e Sonia Sabelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-04-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<castList>
+<head>Interlocutori</head>
+<castItem><role>Muhamed</role> <roleDesc>Imperatore del Mogol.</roleDesc></castItem>
+<castItem><role>Amet–Schah</role> <roleDesc>Figlio di Muhamed.</roleDesc></castItem>
+<castItem><role>Nizam</role> <roleDesc>Vicerè di Golgonda.</roleDesc></castItem>
+<castItem><role>Zarak</role> <roleDesc>Confidente di Muhamed.</roleDesc></castItem>
+<castItem><role>Osnam</role> <roleDesc>Confidente di Amet–Schah.</roleDesc></castItem>
+<castItem><role>Ibraimo</role> <roleDesc>Confidente di Nizam.</roleDesc></castItem>
+<castItem><role>Guardie e Soldati.</role></castItem>
+</castList>
+<set><p>La scena è a Delly, capitale del Mogol, nel palazzo imperiale.</p></set>
+</front>
+<body>
+<div1>
+<head>Atto I</head>
+<div2>
+<head>Scena 1</head>
+<stage rend="italic">Appartamenti reali.</stage>
+<stage rend="italic">Muhamed e Nizam.</stage>
+<sp>
+<speaker rend="sc">MUHAMED</speaker>
+<l>Ah no, mio fido, del mio cuore oppresso</l>
+<l>L'affanno mitigar tu cerchi invano;</l>
+<l>Il mio regno cadrà, troppo di forze</l>
+<l>Manca, e d'ardire il popolo smarrito:</l>
+<l>In quel funesto dì, che d'armi vide</l>
+<l>Cinto e d'armati Koulikam feroce</l>
+<l>Trionfar vittorioso, e dure leggi</l>
+<l>Imporre al popol mio sconfitto e vinto.</l>
+<l>Vacillò questo trono, in fronte mia</l>
+<l>Tremò, si scosse la regal corona,</l>
+<l>E l'onta, e il danno ne risente ancora.</l>
+<l>Tutto geme il Mogol; piange la Sposa</l>
+<l>Il perduto consorte, orfano cerca</l>
+<l>Il fanciullo infelice il caro Padre;</l>
+<l>Manca aratore al suol, guerriero al campo;</l>
+<l>E qual presidio, o Numi, e qual difesa</l>
+<l>De' Maratti al valor, del cielo all'ira</l>
+<l>Oppor possiam?</l>
+</sp>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Pur non è si funesta</l>
+<l>Del tuo regno la sorte, armate schiere</l>
+<l>Fremer vedi in Delly, battaglie, e sangue</l>
+<l>Sospirare, anelar; picciolo è vero</l>
+<l>È il numero de' tuoi, ma troppo ad essi</l>
+<l>Cede ne l'opre di ladroni imbelli</l>
+<l>Lo stuol confuso, a lui ruina e morte</l>
+<l>L'esercito minaccia, al suo valore</l>
+<l>Sol si ricerca un duce.</l>
+</sp>
+<sp>
+<speaker rend="sc">MUHAMED</speaker>
+<l>Or vanne adunque,</l>
+<l>Di prode condottier e gli uffici adempi,</l>
+<l>Delle mie schiere a te consegno il freno,</l>
+<l>A te mio fido, tu le reggi, e sappi</l>
+<l>Gli animi avvalorar, lo sdegno accendi;</l>
+<l>Del gran Timur, di Tamerlan feroce</l>
+<l>Lor rammenta il valor, l'opre ricorda</l>
+<l>Del forte Aurang, che tanti regni, e tanti</l>
+<l>Popoli unì del nostro scettro al vasto</l>
+<l>Possente impero; del mio soglio infine</l>
+<l>La difesa tu sii, te miri, e tremi</l>
+<l>In mezzo a l'armi la nemica turba.</l>
+<stage rend="italic">Parte.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 2</head>
+<stage rend="italic">Nizam e Ibraimo.</stage>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Opportuno tu giungi; arride, amico,</l>
+<l>La sorte a' miei disegni, ignaro pone</l>
+<l>Il Monarca in mia man del regno intero</l>
+<l>Il fato, ed il destin, duce son io</l>
+<l>Dell'adunato stuol.</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Che narri?</l>
+</sp>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Ei stesso</l>
+<l>Pose pur or nelle mie mani il freno</l>
+<l>Dell'esercito tutto, egli confida</l>
+<l>Veder per le mie cure a' piedi suoi</l>
+<l>Chieder pace e perdon lo stuolo avverso,</l>
+<l>Ma la sua speme, o fido amico, è vana.</l>
+<l>A volger l'alme de' guerrieri armati</l>
+<l>Al nostro intento, al sospirato fine</l>
+<l>Tutto impiegar saprò, promesse, inganni,</l>
+<l>Lusinghe, e frodi, e di mie cure il frutto</l>
+<l>Vedrai ben presto; Osnam s'appressa, io parto;</l>
+<l>Di lui frattanto il cuor con arte, o amico,</l>
+<l>Tu guadagnar procura, a noi di sommo</l>
+<l>Utile ei fia se dell'arcano a parte</l>
+<l>Venga per opra tua.</l>
+<stage rend="italic">Parte.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 3</head>
+<stage rend="italic">Osnam e Ibraimo.</stage>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Dunque non erra</l>
+<l>Il volgo intimorito, e il nostro regno</l>
+<l>Dovrà dunque, Ibraim, cader di nuovo</l>
+<l>Sotto l'armi nemiche? e ancor non resta</l>
+<l>Pago del nostro sangue il rio destino?</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>No, non temer, da te dipende, amico,</l>
+<l>La tua difesa.</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>E qual difesa a l'ira</l>
+<l>Sottrar ci può delle nemiche schiere</l>
+<l>Se d'armi manca e di guerrieri il regno,</l>
+<l>Se trema il popol tutto, e ne la fuga</l>
+<l>Solo è posta ogni speme?</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>A te non manca</l>
+<l>Che voler la salvezza, e salvo sei.</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Ma qual via di salute offresi, a fronte</l>
+<l>D'armato stuol, di furibonde schiere,</l>
+<l>A inerme regno, ed a guerrieri imbelli?</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Del Monarca il perire a noi sol puote</l>
+<l>Sicurezza arrecar.</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>(Che ascolto?)</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Invano</l>
+<l>Salute altronde cercheremo, il fato</l>
+<l>Di Muhamèd, e di sua prole al regno</l>
+<l>Sarà difesa, e scampo; odi, nè l'alma</l>
+<l>Da importuna pietà turbar ti lascia.</l>
+<l>Ciò che giova, a noi lice. Il fiero stuolo,</l>
+<l>Che minaccioso in ver Delly s'innoltra</l>
+<l>Sol preda cerca, e assoggettar sol brama</l>
+<l>Al suo comando del Mogol il regno;</l>
+<l>Ei strage non desìa, del rege il fine,</l>
+<l>E del germe Regal solo è suo scopo.</l>
+<l>A ciò chi oppor si puote? il ferro indarno</l>
+<l>Contro le ostili furibonde schiere</l>
+<l>Lampeggierebbe in nostra man, di forze</l>
+<l>Troppo il nemico e di valor prevale</l>
+<l>All'esercito imbelle, in cui riposta</l>
+<l>È la speme del volgo; inutil frutto</l>
+<l>Sarian di ciò funeste stragi, e sangue,</l>
+<l>E pianti, e grida, e luttuoso orrore.</l>
+<l>Sol del Monarca il fato al nostro regno</l>
+<l>Lo scampo arrecar può: per nostra mano</l>
+<l>Egli adunque cadrà vittima, e preda</l>
+<l>D'inevitabil morte: ai Duci avversi</l>
+<l>È palese l'arcano, e tutto a noi</l>
+<l>Lice sperare, in nostra mano il freno</l>
+<l>Sarà del regno tutto, e forse il giogo</l>
+<l>Scuoter potremo un dì... ma qual sul volto</l>
+<l>Turbamento appalesi? e quale...</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Indarno</l>
+<l>Cerca il mio cuore alla smarrita mente</l>
+<l>Richiamare il dover, le sacre leggi,</l>
+<l>I diritti del giusto; indarno, io cedo.</l>
+<l>In me vedrai, non dubitar, de' tuoi</l>
+<l>Il più fido compagno, avrai me duce</l>
+<l>Ne' tuoi perigli ognor di questi a parte,</l>
+<l>Mi scorgerai tuo difensor, tua guida...</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Questi moti del cuor seconda, o amico,</l>
+<l>Mostra la sorte a noi benigno il volto;</l>
+<l>Dello stuol, che in Delly s'arma, e s'aduna</l>
+<l>Pendon dal voler nostro i moti e l'opre:</l>
+<l>De' guerrieri e di noi Nizam è duce,</l>
+<l>Nizam, che regge di Golconda il freno;</l>
+<l>Tutto è propizio ai nostri voti: io parto,</l>
+<l>Tu co' detti frattanto, e l'opre i nostri</l>
+<l>Disegni secondar procura.</l>
+<stage rend="italic">Parte.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 4</head>
+<stage rend="italic">Osnam solo.</stage>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Oh Numi</l>
+<l>Qual mai funesto orrore il cuor m'ingombra!</l>
+<l>Che ascolto, oh ciel, che vedo? è questo il suolo</l>
+<l>Che mi diè vita, in cui bambino appresi</l>
+<l>Il giusto, il dritto, ed il dover qual sia?</l>
+<l>Di belve furibonde, e tigri ircane</l>
+<l>Non è questo il ricetto? ove t'ascondi</l>
+<l>Sconosciuta virtude? ah tu fuggisti</l>
+<l>Da queste terre, ed in tua vece il trono</l>
+<l>Tra noi fondar l'ambizione, il vizio,</l>
+<l>L'empietade. Il delitto... e tanto adunque</l>
+<l>Tanto in odio a voi siam, barbari Numi?</l>
+<l>Che far degg'io? dunque svelar l'arcano,</l>
+<l>Dunque di certa morte io debbo espormi</l>
+<l>Al periglio fatal?... dunque tradire</l>
+<l>La fede, l'onestà... lungi da questo</l>
+<l>Smarrito cuor, da quest'oppresso spirto</l>
+<l>Immagini abborrite; Amet il tutto</l>
+<l>Or or saprà: Nizam s'appressa, intanto</l>
+<l>Ricuopra un doppio velo i dubbj miei.</l>
+</sp>
+</div2>
+<div2>
+<head>Scena 5</head>
+<stage rend="italic">Nizam e detto.</stage>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Amico, hai vinto; d'Ibraim le voci</l>
+<l>Noti mi fero i tuoi disegni, e in essi</l>
+<l>Ben ravvisai del tuo gran cuor l'immago;</l>
+<l>Del tuo fido il parlar trionfa in questa</l>
+<l>Incerta mente, che riscossa alfine</l>
+<l>I suoi dubbj scacciò: fedel compagno</l>
+<l>Sempre a lato mi avrai ne' tuoi perigli;</l>
+<l>Questa mia destra, e questo ferro ognora</l>
+<l>Pronti saranno al tuo volere.</l>
+</sp>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Omai</l>
+<l>Io più non bramo, o fido amico, indarno</l>
+<l>Il nostro arcano a te saria nascoso,</l>
+<l>M'è noto il tuo valor, perduto avremmo,</l>
+<l>Tacendo, ogni opra tua; vindice invitto</l>
+<l>Sarai di libertà, chè troppo, o amico,</l>
+<l>È a nobil cuor la servitù penosa.</l>
+<l>Omai quel tempo giunse, in cui cadranno</l>
+<l>Infranti i lacci alfin di vil servaggio:</l>
+<l>De' Maratti lo stuol di già s'appressa</l>
+<l>A queste mura, e di guerrieri, e d'armi</l>
+<l>Al cenno mio cinto vedrai fra poco</l>
+<l>Il palagio Regal.</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>(Cieli, che ascolto!)</l>
+</sp>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Il Monarca ed Amet or or saranno</l>
+<l>Ambi preda di morte.</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>E tanto adunque</l>
+<l>Convien l'impresa accelerare?</l>
+</sp>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Or fora</l>
+<l>Perigliosa ogni tregua; è breve, il sai,</l>
+<l>Il popolare ardor, potrìa fra poco</l>
+<l>Spenta cader delle mie schiere in petto</l>
+<l>La fiamma, che destar volli pur ora</l>
+<l>Ad esse in sen; forse potria l'arcano</l>
+<l>Trasparir de' nemici a l'occhio attento;</l>
+<l>Fatal sarebbe ogni ritardo, il vedi,</l>
+<l>A' miei disegni, e tutto a noi promette</l>
+<l>Fausto destin se ne la pronta impresa</l>
+<l>Senno, e valor s'impieghi.</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>I cenni tuoi</l>
+<l>Si eseguiscano adunque, ognor vedrai</l>
+<l>Questa man, questo ferro a te soggetti.</l>
+</sp>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Taci, il Rege s'appressa, egli tra poco</l>
+<l>Più Rege non sarà.</l>
+</sp>
+</div2>
+<div2>
+<head>Scena 6</head>
+<stage rend="italic">Muhamed e detti.</stage>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Pronto adempii,</l>
+<l>Signore, il tuo comando; arde, ed anela</l>
+<l>L'armata turba, e minacciosa attende</l>
+<l>Le squadre ostili; in campo or or vedrai</l>
+<l>Schierato il popol tuo, sconfitto, e vinto</l>
+<l>L'avverso stuolo, e in nere spoglie avvolto</l>
+<l>A te bagnar di mesti pianti il piede.</l>
+<l>S'arma, e freme la turba, a noi prepara</l>
+<l>Fausto avvenire il ciel.</l>
+</sp>
+<sp>
+<speaker rend="sc">MUHAMED</speaker>
+<l>Quanto t'imposi</l>
+<l>Eseguisti, o mio fido; or dimmi, e dove</l>
+<l>L'inimico s'asconde? è lungi ancora</l>
+<l>Da queste mura il turbine di guerra,</l>
+<l>O minaccioso inver Delly s'innoltra</l>
+<l>Il furibondo stuol?</l>
+</sp>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Giace pur anche</l>
+<l>In ozio molle il campo ostil, nè mosse</l>
+<l>Contro il Regal ricetto il passo ardito;</l>
+<l>Nemiche insidie, impreveduti assalti</l>
+<l>Ei non paventa, e a questo regno ei spera</l>
+<l>Impor fra poco vittorioso il giogo.</l>
+<l>Vano pensier! Di cheta notte oscura</l>
+<l>Al tacito silenzio, all'ombra amica</l>
+<l>N'andrem, se il brami, al campo, ivi tra il cupo</l>
+<l>Sopor tranquillo, e tra l'opaco orrore</l>
+<l>Ogni difesa inutil sia nè alcuno</l>
+<l>Pur rimarrà del campo ostil, che giunga</l>
+<l>Nunzio fatale al patrio suol.</l>
+</sp>
+<sp>
+<speaker rend="sc">MUHAMED</speaker>
+<l>Mio fido,</l>
+<l>La provvida tua mente, il tuo valore</l>
+<l>Abbastanza m'è noto, in te ravviso</l>
+<l>Degli avi tuoi la gloriosa immago,</l>
+<l>Quanto dicesti, adempi, e questo intanto</l>
+<l>Pegno ricevi del Regale affetto,</l>
+<stage rend="italic">si toglie la spada dal fianco, e la dà a Nizam</stage>
+<l>Questo in tua man degl'inimici a fronte</l>
+<l>Acciar lampeggi, di ruina, e morte</l>
+<l>All'esercito ostil nunzio egli sia:</l>
+<l>Or vanne, amico, all'adunato stuolo</l>
+<l>Sian cenni i tuoi consigli e ognun ravvisi</l>
+<l>Il mio nel tuo voler.</l>
+<stage rend="italic">Parte.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 7</head>
+<stage rend="italic">Osnam e Nizam.</stage>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>(Misero! ignora</l>
+<l>Di quest'empio i disegni)</l>
+</sp>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>In quale ei giace</l>
+<l>Ingannevole error! vedrà ben presto</l>
+<l>Balenar quest'acciaro agli occhi suoi;</l>
+<l>Nelle mie cure egli confida, e d'esse</l>
+<l>Vedrà fra poco il non bramato frutto;</l>
+<l>Tutto è compito omai l'amico stuolo,</l>
+<l>Solo un mio cenno attende, e cinte or ora</l>
+<l>Queste mura saran d'armi, e d'armati</l>
+<l>Regnar vedrai su questo suolo alfine</l>
+<l>La patria libertà, nulla s'oppone,</l>
+<l>Mio fido, ai voti miei.</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Ma come, o amico,</l>
+<l>Giunger del rege a fronte? In sulle soglie</l>
+<l>Del presidio regal come ingannare</l>
+<l>L'armi potrem, la vigil cura?</l>
+</sp>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Invano</l>
+<l>Veglia il nemico stuolo; all'urto orrendo</l>
+<l>Di mille flutti, e mille all'acque in mezzo</l>
+<l>Come resister può debil naviglio?</l>
+<l>Nò, non temer, mio fido, al cenno mio</l>
+<l>L'armi disponi, e il generoso ardire;</l>
+<l>Quel dì rammenta, in cui ti vide il fiero</l>
+<l>Tamas superbo di valor, di sdegno</l>
+<l>Acceso in volto de' suoi fidi a fronte</l>
+<l>Per la patria pugnar; quale in quel giorno</l>
+<l>Ruotasti il ferro, e qual di mille turme</l>
+<l>L'urto spezzasti, e vincitor l'acciaro</l>
+<l>Spingesti a ber degl'inimici il sangue,</l>
+<l>Il Perso il dica, e de lo stuol nemico</l>
+<l>Il valoroso duce, ei che degli avi</l>
+<l>Emulator di sue guerriere imprese</l>
+<l>D'ogn'intorno spandea la fama, il grido;</l>
+<l>Quì di sua gloria il fin, quì di sue gesta</l>
+<l>L'ultima meta, ed il confine estremo</l>
+<l>Veduto avria, se degl'ingiusti Numi</l>
+<l>La pietade, il valor placar potesse</l>
+<l>L'inesorabil cuor. Mio fido, all'uopo</l>
+<l>L'ardir richiama, che in quel dì funesto</l>
+<l>Per la patria mostrasti, il ferro tuo</l>
+<l>Vindice sia di libertade, e atterri</l>
+<l>Quanto ad essa s'oppon, trafitto cada</l>
+<l>Della patria il tiranno, e sorga alfine</l>
+<l>Su questo suol la libertà bramata.</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Quanto m'imponi adempirò; non have</l>
+<l>Uopo quest'alma all'operar di sprone,</l>
+<l>Della promessa fede ognor, mio duce,</l>
+<l>Esecutor fedele Osnam vedrai.</l>
+<stage rend="italic">Parte.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 8</head>
+<stage rend="italic">Nizam solo.</stage>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Si parta omai, nell'adunato stuolo</l>
+<l>Scintilli alfin la conceputa fiamma,</l>
+<l>Nulla s'oppon al mio desir, fra poco</l>
+<l>Nizam regnar vedrà sul patrio soglio</l>
+<l>Ministra al suo voler la turba istessa</l>
+<l>Ch'a ricovrar la libertà s'accinge.</l>
+<l>Estinto il rege, e della regia stirpe</l>
+<l>L'odiato germe, dal molesto freno</l>
+<l>Del supremo poter libera invano</l>
+<l>Esser confida l'ingannata plebe.</l>
+<l>Il mio disegno ognun frattanto ignori;</l>
+<l>Sicura al fin bramato apre la via</l>
+<l>L'arcan, che dell'autor s'asconde in petto.</l>
+<l>All'impresa io mi accingo, al rege istesso</l>
+<l>Terrore alcun non desterà ne l'alma</l>
+<l>Delle turbe il tumulto; ad arte io finsi</l>
+<l>Lungi da queste mura il campo ostile,</l>
+<l>E d'invitto valor le schiere accese</l>
+<l>Pronte al notturno assalto, incauto, ei giace</l>
+<l>Di cieca notte in tenebrìo sepolto.</l>
+<l>S'affretti il suo destin, vittima ei cada</l>
+<l>Alla sognata libertà, che invano</l>
+<l>Cerca commosso il volgo; io parto, e voi</l>
+<l>Favorite i miei passi, amici Numi.</l>
+<stage rend="italic">Parte</stage>
+</sp>
+</div2>
+<trailer rend="italic">Fine dell'atto primo.</trailer>
+</div1>
+<div1>
+<head>Atto II</head>
+<div2>
+<head>Scena 1</head>
+<stage rend="italic">Zarak solo.</stage>
+<sp>
+<speaker rend="sc">ZARAK</speaker>
+<l>Che ascolto? E tanto adunque in Regal cuore</l>
+<l>Può d'un empio oppressor l'arte, e la frode?</l>
+<l>Nizam, che di Golconda il popol tutto</l>
+<l>Gemer vede al suo piè, Nizam, che in petto</l>
+<l>Cotanta ambizion fomenta, e pasce,</l>
+<l>Nizam dunque vedrò, Nizam istesso</l>
+<l>Dell'adunato stuol reggere il freno,</l>
+<l>Ed in sua man di questo regno intero</l>
+<l>La sorte io scorgerò? Prostrato, e vinto</l>
+<l>Gl'insulti io soffrirò di lui, che sempre</l>
+<l>S'oppose al mio voler, di lui, che solo</l>
+<l>Brama ottener del regio cuor l'impero?</l>
+<l>Ah nò, che ver non fia! Nascer vedrassi</l>
+<l>Dal fausto suo destin la sua sventura.</l>
+<l>Di Muhamed nella delusa mente</l>
+<l>D'un empio ingannator l'inique frodi</l>
+<l>Svaniranno al mio dir; Nizam lontano</l>
+<l>Alle mie cure oppor nulla si puote;</l>
+<l>Il suo partir s'attenda, i miei disegni</l>
+<l>Ora tacer convien, vana ogni speme</l>
+<l>Si renderìa, se all'inimico sguardo</l>
+<l>Giungesse a traspirar.</l>
+</sp>
+</div2>
+<div2>
+<head>Scena 2</head>
+<stage rend="italic">Muhamed e detto.</stage>
+<sp>
+<speaker rend="sc">MUHAMED</speaker>
+<l>Nulla, o mio fido,</l>
+<l>A desìar mi resta; armansi a gara</l>
+<l>Le radunate turbe, a' venti esposto</l>
+<l>Brilla il regal vessillo, il segue, e freme</l>
+<l>Il minaccioso stuol, sua guida or ora</l>
+<l>Nizam sarà degl'inimici al campo,</l>
+<l>Nizam cui sol delle guerriere squadre</l>
+<l>Il valor noi dobbiamo, a cui del regno</l>
+<l>La difesa dovrem. Vedrai fra poco</l>
+<l>Vinta, e dispersa la nemica turba,</l>
+<l>Incolume il Mogol, salvo il mio trono,</l>
+<l>E forse un dì potrem di questo regno</l>
+<l>Armati oltrepassar le fisse mete,</l>
+<l>Forse il popolo ostile...</l>
+</sp>
+<sp>
+<speaker rend="sc">ZARAK</speaker>
+<l>E in Nizam dunque</l>
+<l>Tanto, o Signor, confidi?</l>
+</sp>
+<sp>
+<speaker rend="sc">MUHAMED</speaker>
+<l>In lui del regno</l>
+<l>È riposta ogni speme; alto valore</l>
+<l>A provvido consiglio in lui s'accoppia,</l>
+<l>E qual mai rinvenir duce più degno</l>
+<l>Fra' miei fidi potrei?</l>
+</sp>
+<sp>
+<speaker rend="sc">ZARAK</speaker>
+<l>Di troppo avanzi,</l>
+<l>Signor, perdona, la tua speme; il forte</l>
+<l>Armato stuolo ostil, se a noi concede</l>
+<l>Fausto destin di superar, saranno</l>
+<l>Paghi del regno i voti; indarno il ferro</l>
+<l>Spinger vorresti al suol nemico in seno;</l>
+<l>Lo spavento, il terror, l'orrore, il lutto</l>
+<l>Del tuo regno rammenta; il ferreo giogo,</l>
+<l>Che imperiosa al popol nostro impone</l>
+<l>La nemica Ispahan, come ad un tratto</l>
+<l>Scuoter potrem? de la giurata fede</l>
+<l>Come violar le stabilite leggi?</l>
+<l>Come del popol tutto?...</l>
+</sp>
+<sp>
+<speaker rend="sc">MUHAMED</speaker>
+<l>Ah nò, di questo</l>
+<l>Smarrito cuor con sì funesta immago</l>
+<l>Non accrescer, mio fido, il grave affanno;</l>
+<l>Troppo il dolor del popol mio m'è noto.</l>
+<l>De' Maratti il destin, del regno il fato</l>
+<l>Dubbioso pende dell'armate squadre</l>
+<l>Da l'opposto valor: vinto, e sconfitto</l>
+<l>L'amico stuol, fra le ruine avvolto</l>
+<l>Il mio regno sarà: dispersa, uccisa,</l>
+<l>De' Maratti la turba, al fausto raggio</l>
+<l>Di felice destin, d'amica sorte,</l>
+<l>Da le ceneri sue sorger vedrai</l>
+<l>Lo smarrito valor, l'ardir perduto</l>
+<l>D'Omar nel popol tutto; il ferro, il fuoco</l>
+<l>Spinger potremo allor de la nemica</l>
+<l>Persia guerriera in sen, fiaccar l'orgoglio,</l>
+<l>Degli alteri Sofì scuotere il giogo</l>
+<l>Che insoffribil ci opprime, e in ogni dove</l>
+<l>Lo spavento arrecar, l'orror de l'armi.</l>
+<l>Ah de' miei voti il suon propizio ascolti</l>
+<l>Benigno il ciel, di tanti mali ah giunga</l>
+<l>Il sospirato fin; cadano infranti</l>
+<l>I lacci, che di crude, aspre ritorte</l>
+<l>Stringono il popol mio...</l>
+</sp>
+</div2>
+<div2>
+<head>Scena 3</head>
+<stage rend="italic">Amet–Schah e detti.</stage>
+<sp>
+<speaker rend="sc">AMET–SCHAH</speaker>
+<l>Padre, che ascolto?</l>
+<l>De' Maratti lo stuol s'appressa omai</l>
+<l>A queste mura, e già Surate, ed Agra</l>
+<l>Preda son de' nemici, il tutto cede</l>
+<l>All'ostile furor, Bengala istessa,</l>
+<l>Bengala un dì sì forte, al fiero scontro</l>
+<l>Abbattuta cadè, stride pur anco</l>
+<l>Dell'altera Golconda intra le mura</l>
+<l>La crepitante fiamma, il popol tutto</l>
+<l>Atterrito sen corre, e cerca invano</l>
+<l>Nella fuga lo scampo, il ferro, e l'armi</l>
+<l>Abbandona il guerrier; Nizam istesso,</l>
+<l>Nizam, che sol ne' timorosi petti</l>
+<l>Il valor suscitò, l'estinto ardore,</l>
+<l>Nel comune spavento, egli puranche</l>
+<l>Attonito, confuso accoglie in petto</l>
+<l>Un indistinto orror; s'aggira, e scorre</l>
+<l>In mezzo a l'armi, ed all'altrui terrore</l>
+<l>Mal può arrecar conforto.</l>
+</sp>
+<sp>
+<speaker rend="sc">MUHAMED</speaker>
+<l>E tanto, o Numi,</l>
+<l>Dunque in odio a voi siam! dunque di questo</l>
+<l>Misero regno il rio destin cotanto</l>
+<l>Veglia infelice a' nostri danni? oh cielo,</l>
+<l>Chi ci difenderà? chi del mio trono</l>
+<l>Il sostegno sarà? l'armato stuolo</l>
+<l>Timido ci abbandona, il duce istesso,</l>
+<l>Ei, che pur ora con sicuro aspetto</l>
+<l>Salvezza promettea di questo regno</l>
+<l>Al popolo infelice, egli smarrito</l>
+<l>Al terrore si dà in preda, e cerca infido</l>
+<l>Scampo al furore ostil.</l>
+</sp>
+<sp>
+<speaker rend="sc">AMET–SCHAH</speaker>
+<l>Signore, ah quale</l>
+<l>T'ingombra il cuor di regio spirto indegna</l>
+<l>Vergognosa viltà! s'innoltra, è vero,</l>
+<l>L'armato stuol di queste mura a fronte,</l>
+<l>Ma non siam vinti ancor; nò, non si ceda</l>
+<l>Sì tosto al rio destin questo il peggiore</l>
+<l>Sarìa de' nostri mali il tutto puote</l>
+<l>Inconcusso valor, delle nemiche</l>
+<l>Armate schiere a fronte il nostro ardore;</l>
+<l>L'opre di questa destra or or vedrai.</l>
+</sp>
+</div2>
+<div2>
+<head>Scena 4</head>
+<stage rend="italic">Ibraimo e detti.</stage>
+<sp>
+<speaker rend="sc">MUHAMED</speaker>
+<l>Che mai reca Ibraim?</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Signor, s'avanza</l>
+<l>De' Maratti lo stuol ver queste mura,</l>
+<l>Armi, faci raccoglie, e or or saremo</l>
+<l>Assaliti in Delly: nunzii pur ora</l>
+<l>Giunser dal campo esploratori, e a noi</l>
+<l>Noto fèro il periglio. Il tutto a l'uopo</l>
+<l>Nizam dispose omai, ferrate sbarre</l>
+<l>Assicurar l'aenee porte a l'alte</l>
+<l>Mura difesa, e scudo in su l'eccelsa</l>
+<l>Munita torre spaventoso orrendo</l>
+<l>Sta il fulmine di guerra, in ogni dove</l>
+<l>Secura offre Delly la fronte altera</l>
+<l>A l'inimico stuol, ma incerta ancora</l>
+<l>Fra speranza, e timor dubbiosa pende</l>
+<l>La turba armata; ogni terror da l'alma</l>
+<l>Del timido guerrier solo potrìa</l>
+<l>Togliere il regio aspetto; ah gli smarriti</l>
+<l>Animi a confermar vieni tu stesso,</l>
+<l>Te brama il popol tutto.</l>
+</sp>
+<sp>
+<speaker rend="sc">MUHAMED</speaker>
+<l>Ebben si vada,</l>
+<l>S'appaghi il tuo desir.</l>
+</sp>
+<sp>
+<speaker rend="sc">ZARAK</speaker>
+<l>Seguirti anch'io</l>
+<l>Vuò ne l'utile impresa.</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>(Andiamo, è questo</l>
+<l>De' nostri voti il fin, sarà fra poco</l>
+<l>Privo di rege il regno)</l>
+<stage rend="italic">Partono Ibraimo, Zarak e Muhamed.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 5</head>
+<stage rend="italic">Osnam con spada nuda e Amet–Schah.</stage>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Ah fuggi, o Prence,</l>
+<l>Da queste mura; un tetro orror di morte</l>
+<l>Minaccia i passi tuoi, questo, che impugno</l>
+<l>Funesto acciaro del tuo sangue asperso</l>
+<l>Nizam già volle, in lui confida in vano</l>
+<l>Il genitor deluso, a l'empie turme</l>
+<l>Il varco egli aprirà, cadrà trafitto</l>
+<l>Per di lui mano il rege istesso, in preda</l>
+<l>Te pure ei brama a cruda morte acerba;</l>
+<l>A me l'impresa ei confidò, l'orrendo</l>
+<l>Attentato crudele invan cercai</l>
+<l>Di palesarti, ognor me volle allato</l>
+<l>L'iniquo traditor, l'infide schiere</l>
+<l>Ei guadagnar già seppe, ed in brev'ora</l>
+<l>In sua mano sarà del regno il freno</l>
+<l>Omai...</l>
+</sp>
+<sp>
+<speaker rend="sc">AMET–SCHAH</speaker>
+<l>Che ascolto! qual profondo abisso</l>
+<l>D'iniquità, d'orror s'apre ad un tratto</l>
+<l>D'innanzi a gli occhi miei! qual mostri asconde</l>
+<l>Nel suo seno il Mogol!... Barbaro cielo!...</l>
+<l>Misero Padre!... egli pur ora in braccio</l>
+<l>Al periglio fatal... ma dove, o Numi,</l>
+<l>Dove il valor sen fugge?... andiam, si serbi</l>
+<l>Al trono il rege, il genitore al figlio,</l>
+<l>La mia vita si sprezzi, e solo, o cieli,</l>
+<l>Solo il padre si salvi...</l>
+<stage rend="italic">Trae la spada</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 6</head>
+<stage rend="italic">Soldati in lontano e detti.</stage>
+<sp>
+<speaker rend="sc">SOLDATI</speaker>
+<l>A l'armi, a l'armi...</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Quai voci!</l>
+</sp>
+<sp>
+<speaker rend="sc">AMET–SCHAH</speaker>
+<l>Amico, andiamo, il grido è questo</l>
+<l>De l'esercito ostile; è giunta omai</l>
+<l>L'ora estrema per noi, moriam da forti,</l>
+<l>Scampo al perir non c'è, con fermo petto</l>
+<l>Il periglio s'affronti, il regno, il trono</l>
+<l>Con noi comune abbian la sorte, allato</l>
+<l>Ambi cadrem trafitti, altra salute</l>
+<l>Non resta a noi, che il non sperarne alcuna;</l>
+<l>Non più si tardi, andiamo.</l>
+<stage rend="italic">S'incammina seguito da Osnam.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 7</head>
+<stage rend="italic">Zarak con spada nuda, e detti.</stage>
+<sp>
+<speaker rend="sc">ZARAK</speaker>
+<l>trattenendoli Oh Dio, fermate,</l>
+<l>Dove il passo volgete? Ah tutto innonda</l>
+<l>L'orrore, il lutto, lo spavento, il sangue;</l>
+<l>Onor del nostro nome, il tutto cadde</l>
+<l>Allo spirar d'avversa sorte, ovunque</l>
+<l>Scorre il barbaro acciaro, armati, ed armi</l>
+<l>Versa il campo nemico, empio, e ribelle</l>
+<l>E stragi mesce, e vincitore insulta;</l>
+<l>Nizam crudele, per sua man trafitto,</l>
+<l>Giace là nel suo sangue...</l>
+</sp>
+<sp>
+<speaker rend="sc">AMET–SCHAH</speaker>
+<l>Ah taci, intendo,</l>
+<l>Il genitor perì; misero Padre!...</l>
+<l>Monarca sventurato! ah questo dunque</l>
+<l>Si riserbava a' tuoi funesti giorni</l>
+<l>Lacrimevol destin! questa di tante</l>
+<l>Sventure esser dovea la meta estrema!...</l>
+<l>Prence infelice! ah se di questo sangue</l>
+<l>Non giunse il prezzo a liberarti, avrai</l>
+<l>Da questo ferro ampia vendetta; a l'opra,</l>
+<l>Miei fidi, andiam, del nostro rege inulta</l>
+<l>Non sia l'acerba morte, a l'ombra afflitta</l>
+<l>Vittima cada il traditor crudele,</l>
+<l>Seguite i passi miei.</l>
+<stage rend="italic">Vuol partire seguito da Zarak e da Osnam. </stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 8</head>
+<stage rend="italic">Nizam con spada nuda e detti.</stage>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>trattenendoli Prence, t'arresta.</l>
+<l>L'opra è compiuta, del Mogol il regno</l>
+<l>Più tiranno non ha; vittima ei cadde</l>
+<l>Alla nascente libertade, al giusto</l>
+<l>Comun desìo, che a ricovrar ci spinge</l>
+<l>Ciò che ragion, ciò che il diritto implora;</l>
+<l>L'armi deponi, al vincitor t'arrendi,</l>
+<l>In mio poter tu sei.</l>
+</sp>
+<sp>
+<speaker rend="sc">AMET–SCHAH</speaker>
+<l>Barbaro, e tanto</l>
+<l>Ardisci in faccia al tuo Signor? nemico</l>
+<l>Al cielo, in odio al mondo, a quest'albergo,</l>
+<l>Scellerato, t'invola, il nero spettro</l>
+<l>Ch'esangue, e mesto a te s'aggira intorno</l>
+<l>Chiede vendetta, e non la chiede invano.</l>
+<l>A la pugna, miei fidi; olà, guerrieri,</l>
+<l>alle guardie Il ribelle s'atterri.</l>
+</sp>
+<sp>
+<speaker rend="sc">NIZAM</speaker>
+<l>Io non vi temo.</l>
+<stage rend="italic">Amet–Schah Osnam e Zarak vanno contro di Nizam, il quale difendendosi, dopo breve contrasto è disarmato e circondato dalle guardie.</stage>
+</sp>
+<sp>
+<speaker rend="sc">AMET–SCHAH</speaker>
+<l>T'arrendi, o traditore, a carcer tetro</l>
+<l>Costui si guidi, e voi seguite in tanto,</l>
+<l>Amici, i passi miei; mostra la sorte</l>
+<l>A noi men truce il volto, andiam, si corra</l>
+<l>Su le sue traccie, e vincitori, o vinti,</l>
+<l>A più temerci il fier nemico impari.</l>
+<stage rend="italic">Parte Nizam da un lato tra una parte delle guardie, e dall'altro Amet–Schah, Osnam e Zarak seguiti da un'altra parte delle medesime.</stage>
+</sp>
+</div2>
+<trailer rend="italic">Fine dell'atto secondo.</trailer>
+</div1>
+<div1>
+<head>Atto III</head>
+<div2>
+<head>Scena 1</head>
+<stage rend="italic">Amet–Schah ed Osnam.</stage>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Pronto adempii quanto imponesti, omai</l>
+<l>Liberata è Delly de l'armi ostili.</l>
+<l>A noi la sorte arride, il fallo suo,</l>
+<l>Poichè Nizam mirò di ferri cinto,</l>
+<l>Conobbe ed emendò lo stuol ribelle;</l>
+<l>A l'amico il nemico unito, e misto</l>
+<l>Mal potè far difesa, ovunque in preda</l>
+<l>A pavido timor trafitto cadde</l>
+<l>De' Maratti lo stuolo, insiem confuso</l>
+<l>Delle fedeli schiere, e delle ostili</l>
+<l>Scorre tra queste mura il nero sangue.</l>
+<l>Esulta il popol tuo, abborre ognuno</l>
+<l>L'iniquo traditor, di labbro in labbro</l>
+<l>Già vola il nome tuo; solo fra tanta</l>
+<l>Gioja confuso, e mesto infra l'oscure</l>
+<l>Spaventose tenebre in carcer nero</l>
+<l>Geme d'aspre catene avvolto, e stretto</l>
+<l>L'empio ribelle; ad ora ad or sul suolo</l>
+<l>Lo sguardo affissa, e nel ritrae di sdegno</l>
+<l>Acceso il cuor tra le focose vampe</l>
+<l>D'indomito furor; la terra, il cielo</l>
+<l>Malvagio accusa, e la nemica sorte</l>
+<l>Maledicendo irrita, al volto, al crine</l>
+<l>E danni arreca, ed onte, e brama ognora</l>
+<l>Fuggir sè stesso, e ove fuggir non trova.</l>
+</sp>
+<sp>
+<speaker rend="sc">AMET</speaker>
+<l>Del delitto fatal, mio fido, è questo</l>
+<l>Non insolito effetto; i rei sopporta</l>
+<l>Felici un tempo il ciel, ma orrenda piomba</l>
+<l>Sul colpevole alfin vendetta atroce.</l>
+<l>De' malvagi la speme infida, e vana</l>
+<l>Qual nembo si dilegua, e qual procella</l>
+<l>A lo spirar d'amico vento, o quale</l>
+<l>Candida neve suole allor che sparge</l>
+<l>Del liquido sereno i raggi suoi</l>
+<l>L'eccelso astro del dì; non grida invano</l>
+<l>L'oppressa alma virtude, o la violata</l>
+<l>Sincera fè, de le lor voci il suono</l>
+<l>Al ciel s'innalza, e su l'iniquo capo</l>
+<l>Piomba orribile alfin l'ira divina.</l>
+<l>Del delitto fatal vendetta atroce</l>
+<l>Ella ritrar saprà. Si parta intanto,</l>
+<l>L'opra si compia omai; Surate, ed Agra</l>
+<l>Gemon per anco a l'inimico in preda.</l>
+<l>Forse potrian del fuggitivo stuolo</l>
+<l>Farsi amico ricetto; al regno, al trono</l>
+<l>Periglioso ciò fora, i stanchi io vado</l>
+<l>Guerrieri a radunar, se a le mie cure</l>
+<l>Fausto arride il destin, de' fidi acciari</l>
+<l>Al balenar d'ostili turme or ora</l>
+<l>Scevro il Mogol vedrai.</l>
+<stage rend="italic">Parte.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 2</head>
+<stage rend="italic">Ibraimo ed Osnam.</stage>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>(Numi, pietade!</l>
+<l>Che incontro è questo mai!)</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>T'avanza, il passo</l>
+<l>Perchè confuso arresti?</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>(Oh Dei! Soccorso,</l>
+<l>Aita, oh cieli!)</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>O qual ti tinge il volto</l>
+<l>Insolito pallor? quello non sei</l>
+<l>Che con tranquillo aspetto, e sangue, e morti</l>
+<l>Mirar potesti, a cui de' regi il fato</l>
+<l>Ombra mai di pietà, d'orror, di tema</l>
+<l>Destar non seppe in cuor? quell'alma invitta</l>
+<l>Qual turbamento opprime?</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Osnam, deh taci.</l>
+<l>Non rammentarmi il mio delitto, ah basti</l>
+<l>Violata aver la fè, Nizam tradito;</l>
+<l>Omai...</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Che parli, infido? ah no, de' sacri</l>
+<l>Augusti nomi d'onestà, di fede</l>
+<l>Non abusar così! quello tradii,</l>
+<l>Che il suo Signor tradì; di fè mancai</l>
+<l>A chi del Rege suo violò la fede;</l>
+<l>Rammenta il tuo delitto; i falli tuoi</l>
+<l>In pria conosci, e quindi il mio condanna.</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Ah taci Osnam, non più; confuso io sono,</l>
+<l>La mia colpa conosco, aprirsi io miro</l>
+<l>A' piedi miei d'iniquità, d'orrore</l>
+<l>Funesto abbisso, al tuo parlare io cedo</l>
+<l>Chè risponder non sò, di quanto oprai</l>
+<l>L'empietade m'è nota; ah nel tuo petto</l>
+<l>Si celi il mio fallir, l'ascoso arcano</l>
+<l>Non palesar, se a cruda morte in preda</l>
+<l>Un misero non brami; a' piedi tuoi</l>
+<l>Supplice io son; <stage rend="italic">s'inginocchia</stage></l>
+<l>se de' miei pianti il suono</l>
+<l>Commuoverti non sà, ti muova almeno</l>
+<l>La pietà, la virtù...</l>
+</sp>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>Sorgi, Ibraimo;</l>
+<l>Mal conosci il mio cuor, fido il mio petto</l>
+<l>L'arcano serberà finchè fedele</l>
+<l>Al tuo Signor sarai, la spada ultrice</l>
+<l>Nunzia dì giorno estremo agli occhi tuoi</l>
+<l>Balenerà, se al tuo Signor malvaggio,</l>
+<l>Iniquo traditor farti ardirai</l>
+<l>De la giurata fè.</l>
+<stage rend="italic">Parte.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 3</head>
+<stage rend="italic">Ibraimo solo.</stage>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Misero! ah dove</l>
+<l>Tenti fuggir, dove involarti al nero</l>
+<l>Spaventevole orror, che d'ogn'intorno</l>
+<l>Ti circonda, t'opprime? ah questo cuore</l>
+<l>Più riposo non ha, dopo il mio fallo</l>
+<l>Pace più non ritrovo, a' sguardi altrui</l>
+<l>Ascondermi vorrei, vorrei celarmi</l>
+<l>A' Numi, al cielo, a questa terra istessa</l>
+<l>In cui l'odiate io bevo aure di vita,</l>
+<l>In cui d'ingrata luce i sensi miei</l>
+<l>L'astro del dì rischiara; ondeggia incerta</l>
+<l>Quest'alma mia tra mille affetti; ascolto</l>
+<l>Chieder vendetta il nero spettro orrendo</l>
+<l>De l'estinto monarca; il volto io miro</l>
+<l>Di squallido pallor coperto, il sangue</l>
+<l>Veggio grondar da lo squarciato petto,</l>
+<l>Brandir la destra ignita spada, orrendo</l>
+<l>L'acceso sguardo sfavillare... ah ferma...</l>
+<l>T'arresta, ombra fatale, il pianto mio</l>
+<l>Se a placarti non val, del mio delitto</l>
+<l>Questo mio cuor saprà ritrar vendetta.</l>
+<l>Ei de la colpa la funesta immago</l>
+<l>Farà presente ognora a gli occhi miei;</l>
+<l>Ei di morte l'orror, de' Numi l'ira</l>
+<l>Ritrar saprà ne la smarrita mente,</l>
+<l>Ei lacerar co' barbari rimorsi</l>
+<l>A sè stessa in orror l'alma infelice...</l>
+<l>Implacabil destin!... Misero Prence!...</l>
+<l>Sventurato Ibraimo!... Andiam, si fugga</l>
+<l>Da queste mura, e me raccolga amico</l>
+<l>L'adusto Caffro, o la deserta arena</l>
+<l>Del Libico confine, o la sassosa</l>
+<l>Araba terra, o per lioni orrenda</l>
+<l>La Numidica piaggia... Oh Numi, ah dove,</l>
+<l>Dove fuggir me stesso?... ah tronchi alfine</l>
+<l>Morte fatal così funesti giorni;</l>
+<stage rend="italic">trae la spada</stage>
+<l>Voi quest'alma accogliete, ultrici larve,</l>
+<stage rend="italic">in atto di ferirsi</stage>
+<l>E voi d'Averno orrende, atre tenebre...</l>
+<l>Oh ciel!... qualcun s'appressa, ah questo ancora</l>
+<l>A compier vi volea le mie sventure!</l>
+<stage rend="italic">Ripone la spada.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 4</head>
+<stage rend="italic">Zarak e detto.</stage>
+<sp>
+<speaker rend="sc">ZARAK</speaker>
+<l>Più non si tema, amico, a un colpo istesso</l>
+<l>Cadde abbattuto il gemino periglio;</l>
+<l>Langue da' lacci stretto in carcer nero</l>
+<l>Di Golconda il tiranno; in fuga volto</l>
+<l>Lo stuol nemico al non temuto assalto</l>
+<l>Ver Satarah s'invia. D'Amet al brando</l>
+<l>Tutto ceder mirò Delly superba;</l>
+<l>Per di lui man piagato, estinto cadde</l>
+<l>De la sconfitta avversa turba il duce,</l>
+<l>Egli al Mogol salute, al popol tutto</l>
+<l>La bramata arrecò salvezza amica,</l>
+<l>Ei de lo scosso trono, egli del regno</l>
+<l>Sovrano a un tempo, e difensor si fece;</l>
+<l>Nulla a temer ci resta Agra, e Surate</l>
+<l>Obblìa lo stuol fuggente, i passi suoi</l>
+<l>Seguir guerrieri eletti, e a noi recaro</l>
+<l>Così grata novella; alfin si mostra</l>
+<l>A noi propizio il ciel.</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Stupito io sono,</l>
+<l>Qual novo ordin di cose a un tratto io miro</l>
+<l>Cangiar del regno il deplorando aspetto!</l>
+<l>Dal feroce Persian domato, e vinto</l>
+<l>Il capo ei piega, e d'Ispahan sopporta</l>
+<l>Il duro giogo; a le ruine insulta</l>
+<l>Il Maratto guerrier del regno oppresso,</l>
+<l>E qual torrente impetuoso atterra</l>
+<l>Quanto a lui si fa innanzi, il regno intero</l>
+<l>Cede al furor ostil, Delly superba</l>
+<l>Apre a' nemici il varco, armato cerca</l>
+<l>Lo stuol ribelle il suo sovrano a morte,</l>
+<l>Cinto è il regal palagio, e mentre il tutto</l>
+<l>Contro il Mogol congiura, un colpo solo</l>
+<l>Rende al regno la pace, il rege al trono.</l>
+</sp>
+<sp>
+<speaker rend="sc">ZARAK</speaker>
+<l>Ibraimo, non più, l'unico germe</l>
+<l>De la stirpe regal sul trono avito</l>
+<l>Oggi innalzar convien; vanne, s'aduni</l>
+<l>Or de' Raja lo stuol tra queste mura;</l>
+<l>Ciò brama, e chiede il popol tutto.</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Io corro</l>
+<l>Suoi voti a secondar, sarà fra poco</l>
+<l>Pago per la mia cura il suo desìo.</l>
+<l>(Quanto costi al mio cuor cura nemica!)</l>
+<stage rend="italic">Parte.</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 5</head>
+<stage rend="italic">Zarak solo.</stage>
+<sp>
+<speaker rend="sc">ZARAK</speaker>
+<l>Tutto è compiuto; alfin per l'armi istesse,</l>
+<l>Che il suo braccio impugnò, vinto pur giacque</l>
+<l>L'infido traditor, dai lacci stretto.</l>
+<l>Ei gema in preda al cupo orror, che inspira</l>
+<l>Del delitto l'immago; ei, che pur ora</l>
+<l>In sua mano vedea del regno intero</l>
+<l>La sorte, ed il destin, sconfitto or giace</l>
+<l>Al mesto affanno, ed al terrore in braccio.</l>
+<l>Da l'oscure tenebre, ove sepolto</l>
+<l>L'infelice riman, le glorie ei vegga</l>
+<l>D'un odioso nemico, e il fren, che resse</l>
+<l>Già la sua mano un dì, reggere ei veda</l>
+<l>Con augurio miglior colui, che un giorno</l>
+<l>A sue frodi cedè l'ingiusta palma.</l>
+<l>Se tanto a le mie cure il ciel concede,</l>
+<l>Fia compiuto il trionfo; Amet s'appressa,</l>
+<l>Al desiato fin tutto s'impieghi,</l>
+<l>Cada l'orgoglio alter, veda il nemico</l>
+<l>In oltraggiato cuor l'ira, e lo sdegno</l>
+<l>Quanto possa a' suoi danni, e voi porgete</l>
+<l>Or l'adjutrice destra, eterni Numi,</l>
+<l>A sì giusto desìo.</l>
+</sp>
+</div2>
+<div2>
+<head>Scena 6</head>
+<stage rend="italic">Amet–Schah e detto.</stage>
+<sp>
+<speaker rend="sc">ZARAK</speaker>
+<l>Quanto imponesti,</l>
+<l>Pur or, Prence, eseguii, pronto a' tuoi cenni.</l>
+<l>D'Ibraim per le cure or or vedrai</l>
+<l>L'augusto stuol de' Ràja, il popol tutto</l>
+<l>Ciò richiede, e desìa, ciascuno esulta</l>
+<l>De' suoi regi in mirar l'unico germe.</l>
+<l>Fra la gioja comun sol geme afflitto</l>
+<l>Di Golconda infelice il popol mesto;</l>
+<l>Egli per man del traditor crudele</l>
+<l>D'argento spoglio, e d'oro, in preda a l'empio</l>
+<l>Inimico furor scorrer già vide</l>
+<l>Per le sue messi il sanguinoso acciaro</l>
+<l>Del Maratto guerrier, l'edaci fiamme</l>
+<l>Golconda incenerir, le patrie mura</l>
+<l>Distruggere, atterrar sul lungo solco</l>
+<l>De l'arator la speme...</l>
+</sp>
+<sp>
+<speaker rend="sc">AMET</speaker>
+<l>Or vanne adunque,</l>
+<l>Tu regger sappi di Golconda il freno,</l>
+<l>Tu ricondurre al popolo smarrito</l>
+<l>La sospirata pace; il suo conforto</l>
+<l>Ei riconosca in te; dalle ruine</l>
+<l>Surga l'arsa cittade, al campo incolto</l>
+<l>Ritorni l'arator, torni il guerriero</l>
+<l>A l'armi abbandonate, in ogni ciglio</l>
+<l>Tergasi il pianto alfin, cessi sul labbro</l>
+<l>Il dolente sospir, dai mesti petti</l>
+<l>Fugga l'affanno, e il duol...</l>
+</sp>
+</div2>
+<div2>
+<head>Scena 7</head>
+<stage rend="italic">Osnam e detti.</stage>
+<sp>
+<speaker rend="sc">OSNAM</speaker>
+<l>T'affretta, o Prence,</l>
+<l>Del regno i voti a secondar; ciascuno</l>
+<l>Te sul trono desìa, cinto è d'intorno</l>
+<l>Quest'albergo regal d'ansiose turme,</l>
+<l>De' tuoi fidi lo stuol tra queste mura</l>
+<l>Già raccolto t'attende, ogni ritardo</l>
+<l>Fora al popolo odioso.</l>
+</sp>
+<sp>
+<speaker rend="sc">AMET</speaker>
+<l>Amici, al trono</l>
+<l>Ecco io m'invio, me scorgerà fra poco</l>
+<l>Sommo Prence, e Signor l'Asia guerriera:</l>
+<l>Deh voi lieve rendete, eterni Numi,</l>
+<l>D'una corona a questa fronte il peso.</l>
+<stage rend="italic">Partono</stage>
+</sp>
+</div2>
+<div2>
+<head>Scena 8</head>
+<stage rend="italic">Gran sala riccamente addobbata, con trono in fondo, e seggi intorno: avanti a questi i Raja in piedi; Amet–Schah si asside sul trono, intorno a cui si schierano le guardie. I Raja siedono: tra di essi Ibraimo, Osnam e Zarak.</stage>
+<sp>
+<speaker rend="sc">AMET</speaker>
+<l>Anime eccelse, a sostenere elette</l>
+<l>L'onor del regno, del sovran, del trono.</l>
+<l>Della patria custodi, ecco il fatale</l>
+<l>Funesto giorno, in cui cader distrutta</l>
+<l>Dovea Delly per man ribelle al suolo.</l>
+<l>Io la serbai, dagl'inimici acciari</l>
+<l>Salvo torna il Re vostro, io rendo a voi</l>
+<l>De la stirpe regal l'unico germe;</l>
+<l>Trovar da insidie, e tradimenti stretto</l>
+<l>Altro scampo io non so, spira per anco</l>
+<l>Chi ribelle, e infedel me brama estinto.</l>
+<l>Nel periglio fatal rifugio io cerco</l>
+<l>Sol tra' sudditi miei; se fidi in petto</l>
+<l>La fè serbate ad un sovran dovuta,</l>
+<l>Soccorso, aita al vostro Re porgete.</l>
+</sp>
+<sp>
+<speaker rend="sc">IBRAIMO</speaker>
+<l>Felice regna, o prence; avrai quest'alme</l>
+<l>Ognora a te fedeli, in nostra mano</l>
+<l>Sol lampeggiar vedrassi il fido acciaro</l>
+<l>De' tuoi dritti in difesa, e mai non fia</l>
+<l>Scossa la fè, che con sincere voci</l>
+<l>Tutti al tuo scettro, al soglio tuo giuriamo.</l>
+</sp>
+<sp>
+<speaker rend="sc">AMET</speaker>
+<l>Ed io lo giuro al ciel, che m'ode; ognora</l>
+<l>A me sacri saran del regno i dritti,</l>
+<l>Dell'orfano infelice, e del pupillo</l>
+<l>Farmi padre io saprò, difesa, e scudo</l>
+<l>De l'oppresso innocente, e a l'uopo il freno</l>
+<l>Costringere, allentar.</l>
+<stage rend="italic">alle guardie</stage>
+<l>Si guidi intanto.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

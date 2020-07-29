@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>O mio cor, quanto t'inganni</title>
+    </titleStmt>
+    <extent>7 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001009</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>The Italian cantata in the seventeenth century : facsimiles of manuscripts and prints of works by leading composers including an edition of the poetic texts</title>
+        <title type="part">Cantatas</title>
+        <author>Stradella, Alessandro</author>
+        <editor id="ed">Gianturco, Carolyn</editor>
+        <publisher>Garland Publishing</publisher>
+        <pubPlace>New York ; London</pubPlace>
+        <date>1986</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>600</date>
+    </creation>
+    <langUsage><language id="codice">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2001-10-10T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Chiara Comastri</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale in SGML</item>
+    </change>
+    <change>
+      <date>2003-06-23T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione - Conversione in XML e validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<lg type="strofa">
+<l rend="indent">O mio cor, quanto t'inganni</l>
+<l>se sicur pensi in amore</l>
+<l>senza pena e gran dolore</l>
+<l>goder lieti i giorni e gl'anni!</l></lg>
+
+
+<lg type="verso-libero">
+<l n="5">Quel suo mare che costante</l>
+<l>di solcare ora procuri</l>
+<l>pria ch'all'onde t'assicuri</l>
+<l>pensa bene alle tue pene</l>
+<l>perch'il mar sempre è incostante.</l>
+<l n="10">Ogni cor che brama porto</l>
+<l>resta absorto tra quell'onde</l>
+<l>che gioconde ei pensava di solcare.</l>
+<l>Ah, che rischio di morte è sempre in mare!</l></lg>
+
+
+<lg type="strofa">
+<l rend="indent">Dure pene, acerbi affanni</l>
+<l n="15">prova un cor ch'in mar si fida</l>
+<l>e s'avvien ch'in calma rida</l>
+<l>nel suo sen cela gl'inganni.</l>
+<l rend="indent">O mio cor, quanto t'inganni</l>
+<l>se sicur pensi in amore</l>
+<l n="20">senza pena e gran dolore</l>
+<l>goder lieti i giorni e gl'anni!</l></lg>
+</body>
+</text>
+</TEI.2>

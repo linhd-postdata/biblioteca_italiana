@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Favola pastorale</title>
+      <author>Giambattista Giraldi Cinzio</author>
+    </titleStmt>
+    <extent>34 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000981</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Egle ; Lettera sovra il comporre le satire atte alla scena ; Favola pastorale</title>
+        <author>Giraldi, Giovanni Battista</author>
+        <editor id="ed">Molinari, Carla</editor>
+        <publisher>Commissione per i testi di lingua</publisher>
+        <pubPlace>Bologna</pubPlace>
+        <date>1985</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="codice">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.4 - POESIA ITALIANA. 1542-1585</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>1999-04-23T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Isabella Valenti</name>
+        <name>CIBIT - Ferrara</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>1999-04-23T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Isabella Valenti</name>
+        <name>CIBIT - Ferrara</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-04-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Valentina Gritti</name>
+        <name>CIBIT - Ferrara</name>
+      </respStmt>
+      <item>Codifica XML - Digitalizzazione e codifica sulla base del protocollo CIBIT</item>
+    </change>
+    <change>
+      <date>2003-06-03T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text><body><div1 type="atto"><head>PARTE PRIMA</head>
+<div2 type="scena"><sp><speaker><emph><name>Amore</name></emph></speaker> 
+<l>Pare cosa ben strana alla mia madre</l> 
+<l>Ch'avendo vinto <name>Giove</name> e vinti quanti</l> 
+<l>Nel ciel son dèi, sola <name>Diana</name> sia</l> 
+<l>Sì contra di me armata che mai face</l> 
+<l>Non senta del mio fuoco, né mai strale</l> 
+<l>Ch'esca da l'arco mio le passi pure</l> 
+<l>Oltre la gonna; e che non solamente</l> 
+<l>Ella sia armata contra me del gelo</l> 
+<l>Di gelata onestà, ma che le ninfe</l> 
+<l>Che seguon lei siano ribelle seco</l> 
+<l>A me et a lei. Ma certo più dolere</l> 
+<l>Non si potrà, perché infiammato ho il petto</l> 
+<l>A la più cara ninfa ch'ella avesse,</l> 
+<l>E di lei sono anche due gran pastori</l> 
+<pb n="174"/>
+<l>Così infiammati, che ciascun di loro</l> 
+<l>Cerca di avere al suo disio la ninfa.</l> 
+<l>Ma perché a due non puote una esser moglie,</l> 
+<l>Sono a tenzon fra lor di ch'ella debba</l> 
+<l>Essere; et io che non vo' che cagione</l> 
+<l>Sia di odio Amore, ho ritrovato modo</l> 
+<l>Di far che la tenzon sarà acquetata</l> 
+<l>Dal più saggio pastor di queste selve</l> 
+<l>Con letizia infinita delle parti,</l> 
+<l>Godendo l'uno <name>Irinda</name>, che tal nome</l> 
+<l>Ha quella ninfa c'ho tolta a <name>Diana</name>,</l> 
+<l>A lei già tanto cara, l'altro donna</l> 
+<l>Infiammata di lui da la mia face.</l> 
+<l>Ma veggo uscir <name>Diana</name> disdegnosa</l> 
+<l>Che levata io le abbia dallo stuolo</l>
+<l>La più leggiadra ninfa e la più cara</l> 
+<l>Che errasse mai con lei fra boschi e selve.</l> 
+<l>Ma dolgasi a sua voglia, ora mi godo</l> 
+<l>Ch'ella conosca la potenza mia.</l></sp></div2>
+<div2 type="scena"><stage><emph><name>Diana</name> con le ninfe</emph></stage> 
+<sp><speaker><emph><name>Diana</name></emph></speaker> 
+<l>Io son sì piena di giusta ira e tanto</l> 
+<l>Accesa contra Amor, che se mi desse</l> 
+<pb n="175"/><l>Ne le mani, i' farei sì gran vendetta</l> 
+<l>Del grave oltraggio che mi ha fatto, che io</l> 
+<l>Resterei paga: non gli lascerei</l> 
+<l>Una penna nel'ali e le saette</l> 
+<l>Gli spezzerei con l'arco e gli farei</l> 
+<l>Veder che per lui meglio saria stato</l> 
+<l>Starsi nel seno a la lasciva madre,</l> 
+<l>Che esser venuto a dar lascivo assalto</l> 
+<l>A la seguace mia. Ma veggo <name>Irinda</name></l> 
+<l>Che, sdegnate le sori et il cacciare</l> 
+<l>Meco ne' boschi le selvagge fiere,</l> 
+<l>Deliberata si è prender marito,</l> 
+<l>Per lo foco che gli ha nel core acceso</l> 
+<l>Questo malvagio Amor. Non so come io</l> 
+<l>Mi tenga, che non ponga una saetta</l> 
+<l>In corda e non la scocchi nel suo core</l> 
+<l>E la levi di vita. Pure io voglio</l> 
+<l>Che la servitù ch'ella insino ad ora</l> 
+<l>Usata mi ha con fé, perdon le impetri;</l> 
+<l>Ma ben raccordo a tutte quante voi</l> 
+<l>Che se alcuna sarà mai così sciocca</l> 
+<l>Che si ponga ad amar satiro od uomo,</l> 
+<l>Gliene farò portar sì grave pena</l> 
+<l>Che passerà in essempio a tutte le altre.</l></sp> 
+<sp><speaker><emph>Ninfe</emph></speaker>
+<l>Se sciocca, se lasciva si è mostrata,</l> 
+<pb n="176"/><l>Alma dea, <name>Irinda</name>, noi con cor costante,</l> 
+<l>Armate di onestà salda e vivace,</l> 
+<l>Vogliàn servarvi servitù continua</l> 
+<l>Con perpetua onestà, e indarno Amore</l> 
+<l>Scoccherà sempre in noi le sue quadrella,</l> 
+<l>Perché sicure siàn, ch'egli non vince</l> 
+<l part="I">Quelle che vinte esser non voglin.</l></sp> 
+<sp><speaker><emph><name>Diana</name></emph></speaker> 
+<l part="F">Questo</l> 
+<l>Vostro fermo proposto di onestade,</l> 
+<l>Di castità perpetua, così care</l> 
+<l>Mi farà sempre avervi, che contente</l> 
+<l>Vi rimarrete di essermi compagne.</l> 
+<l>Ora entriamo nel bosco a mover guerra</l> 
+<l>A damme, a capri et a cengiali e a cervi,</l> 
+<l>E stiasi <name>Irinda</name> nel lascivo fuoco</l> 
+<l>Che la rode e consuma a nervo a nervo.</l></sp></div2>
+<div2 type="scena"><stage><emph><name>Irinda</name>, <name>Gaia</name> madre di <name>Viaste</name></emph></stage> 
+<sp><speaker><emph><name>Irinda</name></emph></speaker>
+<l>Ohimè come mi son' io dipartita</l> 
+<l>Da lo stuol di <name>Diana</name>? Come, lassa,</l> 
+<l>Entrata son ne l'amorosa greggia?</l> 
+<l>Mentre che stata son colla mia dea</l> 
+<l>Fra l'altre ninfe e non avuto in core</l> 
+<l>Fiamma d'amor, così tranquilla vita</l> 
+<l>Ho vissa che giamai doglia né affanno</l> 
+<l>M'ingombrò il petto; ma, poi che mi accese</l> 
+<l>Questo crudel arcier con gli suoi strali,</l> 
+<pb n="177"/><l>Io non ho avuta mai vita quieta:</l> 
+<l>E hammi ingombrato il cor sì gravi cure,</l> 
+<l>Che né notte né dì trovata ho pace.</l> 
+<l>E fra tante gran cure e affanni tanti,</l> 
+<l>Mi se n'è aggiunta una sì strana e fiera,</l> 
+<l>Che ella sola bastar potrebbe a farmi</l> 
+<l>Esser via più d'ogn'altra afflitta e mesta.</l> 
+<l>Accesa i' mi ritrovo di <name>Filisio</name>,</l> 
+<l>Sì che in lui solo ho posto ogni pensiero</l> 
+<l>E con lui finir bramo i giorni miei,</l> 
+<l>Et ecco, mentre che cercato abbiamo</l> 
+<l>Condurre il nostro amore a fine onesto,</l> 
+<l>S'è interposto <name>Viaste</name> al desir nostro</l> 
+<l>E cerca di volermi per sua moglie,</l> 
+<l>Il qual ho in odio più che non ha in odio</l> 
+<l>L'agnella il lupo od i leon la lupa;</l> 
+<l>E se mestier mi fusse di pigliarlo</l> 
+<l>Per mio marito, più tosto tornare</l> 
+<l>Voglio alle selve e seguire <name>Diana</name></l> 
+<l>Che mai vedermi quel pastore a lato.</l> 
+<l>Ve' come la rea sorte regge il mondo:</l> 
+<l>Ama <name>Viaste</name> <name>Frodignisa</name>, tanto</l> 
+<l>Quanto donna può amar gentil pastore,</l> 
+<l>E questi sdegna sì vaga polcella</l> 
+<pb n="178"/><l>E si è messo ad amar me, che l'ho in odio.</l> 
+<l>Veggo che a tormentarmi esce del bosco</l> 
+<l>La madre sua e, se non che mi ha vista,</l> 
+<l>Io non l'aspetterei: ma saprà cose</l> 
+<l>Che la distorneran forse da darmi</l> 
+<l part="I">Più noia.</l></sp> 
+<sp><speaker><emph><name>Gaia</name></emph></speaker>
+<l part="F">Dio ti salvi, bella figlia,</l> 
+<l>Onor di queste selve, e ti conceda</l> 
+<l>Quel che più brami il dio di questi boschi.</l></sp>
+<sp><speaker><emph><name>Irinda</name></emph></speaker> 
+<l>Se quel che più desiro e che più bramo</l> 
+<l>Mi fia concesso, mio marito fia</l> 
+<l><name>Filisio</name>, ch'amo più che gli occhi miei.</l></sp>
+<sp><speaker><emph><name>Gaia</name></emph></speaker>
+<l>Come <name>Filisio</name>? E perché non <name>Viaste</name>,</l> 
+<l>Mio figlio, che più ti ama che non ama</l> 
+<l>La pecchia il fiore o l'agnellino il latte?</l></sp>
+<sp><speaker><emph><name>Irinda</name></emph></speaker>
+<l>Io vorrei pur che questo vostro figlio</l> 
+<l>Lasciasse di noiarmi e che attendesse</l> 
+<l>A custodir le sue gregge e ad amare</l> 
+<l>Chi l'ama e lasciar me, che non son mai</l> 
+<l>Per volger verso lui l'animo mio:</l> 
+<l>E segni tali ha già del mio volere,</l> 
+<l>Che devria pur restar di darmi noia.</l></sp>
+<sp><speaker><emph><name>Gaia</name></emph></speaker>
+<l>Figliuola mia, se tu ben conoscessi</l> 
+<pb n="179"/><l>L'utile et il ben tuo, tu muteresi</l> 
+<l>Pensiero e sdegneresti chi tu or ami,</l> 
+<l>E sarebbe <name>Viaste</name> l'amor tuo.</l> 
+<l><name>Filisio</name> è, come sai, servo a <name>Damone</name>,</l> 
+<l>Se bene ei dice esser nepote suo,</l> 
+<l>E se ne vive a la mercede altrui;</l> 
+<l>E qualora si levi dal servire,</l> 
+<l>Non ha onde possa aver latte né casio;</l> 
+<l>E il mio figliuolo ha la più bella greggia</l> 
+<l>Che in questi paschi tenera erba pasca.</l> 
+<l>E se bellezza amar ti dee far uomo,</l> 
+<l>Non fu sì bello mai fra questi campi</l> 
+<l><name>Febo</name>, mentre d'<name>Ammeto</name> pascea in terra</l> 
+<l>L'armento, né fu <name>Adoni</name> unqua sì vago,</l> 
+<l>Che l'onor fu tenuto alor de' boschi:</l> 
+<l>Sembran le belle guance un sangue, un latte;</l> 
+<l>Gli occhi paion due stelle e le sue labbra</l> 
+<l>Sono rosse vie più che acerbo moro;</l> 
+<l>Il color de i capei par fior d'alisi,</l> 
+<l>Di cui cosa non è simil più a l'oro;</l> 
+<l>Via più bianco il collo ha d'ogni ligustro</l> 
+<l>E pastore non è che pasca greggia</l> 
+<l>Di più bel corpo e di più bel sembiante.</l> 
+<l>E se l'esser in caccia ti diletta,</l> 
+<l>Aver non puoi di lui più destro in caccia,</l> 
+<l>Né valoroso più, né più sicuro;</l> 
+<l>Avanza egli nel corso il 1eggier cervo,</l> 
+<pb n="180"/><l>E contra il suo valor nulla può il dente</l> 
+<l>Di feroce cinghiale e i lupi e gli orsi</l> 
+<l>Temono lui via più che dama il veltro;</l> 
+<l>E voce ha così dolce e sì soave,</l> 
+<l>Che tra le ninfe di <name>Diana</name> alcuna</l> 
+<l>Non è che l'agguagliasse; anzi, ho veduta</l> 
+<l><name>Diana</name> stare attonita al suo canto,</l> 
+<l>Mentre egli, figlia mia, le tue bellezze</l> 
+<l>Cantava; e se pon labra a la sampogna,</l> 
+<l>Egli ardere fa <name>Pan</name> d'ira e d'invidia.</l></sp>
+<sp><speaker><emph><name>Irinda</name></emph></speaker>
+<l>Siisi quale esser voglia, a me non piace.</l></sp>
+<sp><speaker><emph><name>Gaia</name></emph></speaker> 
+<l>E perché più piacer ti dee <name>Filisio</name>,</l> 
+<l>Di cui non è il più sozzo in queste parti?</l> 
+<l>Via più che la caligine son neri</l> 
+<l>I suoi capelli, et ha simil la fronte</l> 
+<l>A quella d'un cengiale; ha gli occhi bianchi</l> 
+<l>Che paion quei della gattuccia nostra,</l> 
+<l>Schiacciato il naso che una simia pare</l> 
+<l>E gonfiate le labra e il viso nero</l> 
+<l>Che pare un etiopo, e s'egli canta</l> 
+<l>Egli sembra una rana di palude,</l> 
+<l>0 vero un corvo che su quercia gracchi;</l> 
+<l>E se si pon a i labri la sampogna.</l> 
+<pb n="181"/><l>Una cicada par che al caldo strida,</l> 
+<l>Tanta vien dal suo son noia molesta.</l></sp>
+<sp><speaker><emph><name>Irinda</name></emph></speaker>
+<l>Io non so a che mi tenga, che non faccia</l> 
+<l>Vendetta di cotesta grave ingiuria</l> 
+<l>Che mi avete ora fatta a biasimarmi</l> 
+<l>Il mio <name>Filisio</name> in così strana guisa:</l> 
+<l>Egli val più dormendo che non vale</l> 
+<l>Viaste quanto più cerca mostrarsi</l> 
+<l>Fra' pastori leggiadro. Or non siate osa</l> 
+<l>Più mai di dirmi mal del mio <name>Filisio</name>,</l> 
+<l>Ché, se non mi verran meno le mani,</l> 
+<l>I'vi farò pentir di tanto ardir.</l></sp>
+<sp><speaker><emph><name>Gaia</name></emph></speaker>
+<l>Deh <name>Irinda</name> mia, non esser così fiera,</l> 
+<l>Che non conviene a la tua gran bellezza</l> 
+<l>L'esser crudele. Ascolta, che dirotti</l> 
+<l>Cosa che ti farà rimaner lieta.</l></sp>
+<sp><speaker><emph><name>Irinda</name></emph></speaker>
+<l>Io non voglio udir più cosa veruna,</l> 
+<l>Ma voglio che diciate al vostro figlio</l> 
+<l>Che molto meglio egli faria ad amare</l> 
+<l>Chi l'ama e lasciar me, che via più tosto</l> 
+<l>Mi eleggerei morir ch'esser mai sua.</l></sp>
+<sp><speaker><emph><name>Gaia</name></emph></speaker>
+<l>Non ti partire, <name>Irinda</name>, ascolta, ch'io</l> 
+<l>Cosa non ti dirò che ti fia ingrata.</l></sp>
+<sp><speaker><emph><name>Irinda</name></emph></speaker>
+<pb n="182"/><l>Udir non vo' da voi più cosa alcuna.</l></sp></div2>
+<div2 type="scena"><stage><name>Gaia</name> sola</stage>
+<sp><speaker><emph><name>Gaia</name></emph></speaker><l>Io detto aveva bene al figlio mio</l> 
+<l>Che l'opra i'perderei: non credo mai</l> 
+<l>Che <name>Irinda</name> ad amar lui sia per piegarsi,</l> 
+<l>E non posso se non lodar la ninfa,</l> 
+<l>Poi che costante sta ne l'amor suo;</l> 
+<l>E farebbe assai meglio il figlio mio</l> 
+<l>Come <name>Irinda</name> detto ha, ad amar chi l'ama,</l> 
+<l>Che mettere in oblio la greggia sua,</l> 
+<l>Per voler al suo amor piegar chi l'odia;</l> 
+<l>E s'egli seguirà il consiglio mio,</l> 
+<l>Come seguire ad ogni modo il deve,</l> 
+<l>Lascerà questa pratica e porrassi</l> 
+<l>Ad amar <name>Frodignisa</name>, ch'ama lui,</l> 
+<l>Non meno che ami <name>Irinda</name> il suo <name>Filisio</name>.</l></sp></div2></div1> 
+<div1 type="atto"><pb n="183"/><head>PARTE QUINTA</head>
+<div2 type="scena"><stage><emph><name>Viaste</name>, <name>Dino</name></emph></stage>
+<sp><speaker><emph><name>Viaste</name></emph></speaker>
+<l>I'vo' più tosto non dirò lasciare</l> 
+<l>La greggia in preda a' lupi, ma da vita</l> 
+<l>Uscire, ch'io sostenga mai ch'<name>Irinda</name></l> 
+<l>Sia d'altri; dica pur, faccia pur quanto</l> 
+<l>Sa far <name>Montano</name>: non potrà mai tormi</l> 
+<l>Da questa voglia c'ho nel cor fondata,</l> 
+<l>Come in scelce ben dura: che sia <name>Irinda</name></l> 
+<l>Moglie a <name>Filisio</name> e ch'io ne sia contento,</l> 
+<l>Più tosto si vedran nere le nevi</l> 
+<l>E le brine caldissime, ch'io voglia</l> 
+<l>Che questo sia; o che la vita affatto</l> 
+<l>Vi lascerò o che sarà ella mia.</l></sp>
+<sp><speaker><emph><name>Dino</name></emph></speaker> 
+<l>Figliuol, non si dee l'uom così fermare</l> 
+<l>Ne le sue voglie, che non dia anche orecchio</l> 
+<l>A' buoni et amorevoli consigli</l> 
+<l>Che gli mostrino il meglio; è molto saggio</l> 
+<l><name>Montano</name> e per la lunga esperienza</l> 
+<l>Vede in ciò quel che tu, che appannato hai</l> 
+<l>Da questo tuo sfrenato desiderio</l> 
+<l>(Egli m'è forza ch'io ti dichi il vero)</l> 
+<l>Non puoi veder. Dimmi ti prego, dimmi</l> 
+<l>Che contentezza speri tu di avere</l> 
+<pb n="184"/><l>Con <name>Irinda</name>, se tua ben divenisse,</l> 
+<l>Togliendoti ella contra voglia sua?</l> 
+<l>A fatica ti dico, il mio <name>Viaste</name>,</l> 
+<l>Stan bene insieme quelle mogli e quelli</l> 
+<l>Mariti che si son concordemente,</l> 
+<l>Insiem congiunti, non che quei che contra</l> 
+<l>Loro voglia si son congiunti insieme.</l> 
+<l>Se tua venisse a questo modo <name>Irinda</name>,</l> 
+<l>Avresti teco una perpetua croce;</l> 
+<l>Però farai gran senno a non volere</l> 
+<l>Cercar di teco avere un mal continuo</l> 
+<l>Che te con la tua greggia infermi in guisa</l> 
+<l>Che disperato alor tu te ne moia.</l></sp>
+<sp><speaker><emph><name>Viaste</name></emph></speaker> 
+<l>Io vo' più tosto stare in guerra sempre</l> 
+<l>Con lei, che con qualunque altra in diletto;</l> 
+<l>Sia ella pur mia, io la farò ben fare</l> 
+<l part="I">Ciò che mi sarà a grado.</l></sp>
+<sp><speaker><emph><name>Dino</name></emph></speaker> 
+<l part="F">E che ti pensi,</l> 
+<l>Che se tu vorrai star sempre in angosci.</l> 
+<l>E tormentar quella leggiadra ninfa,</l> 
+<l>Che non men cara mi è che se mia figlia</l> 
+<l>Ella si fosse, consentir io voglia</l> 
+<l>Ch'ella, <name>Viaste</name>, tua moglie divenga,</l> 
+<pb n="185"/><l>Per non aver mai bene? Tu te inganni,</l> 
+<l><name>Viaste</name>, se ciò pensi. Però poni</l> 
+<l>L'animo tuo in riposo e pensa, pensa,</l> 
+<l>Più tosto che cotesta, ogn'altra cosa.</l> 
+<l>Sono introdotti i matrimonii a requie</l> 
+<l>De gli uomini, <name>Viaste</name>, non perché essi</l> 
+<l>Portino seco gara, odio e rancore.</l></sp>
+<sp><speaker><emph><name>Viaste</name></emph></speaker> 
+<l>Se tu, <name>Dino</name>, vorrai, se tu vorrai,</l> 
+<l><name>Dino</name> mio caro, tu potrai disporre</l> 
+<l><name>Irinda</name> che rivolga a me il pensiero,</l> 
+<l>Sì che di suo voler venga mia moglie.</l></sp>
+<sp><speaker><emph><name>Dino</name></emph></speaker> 
+<l>Io non son stato a questa ora, <name>Viaste</name>,</l> 
+<l>A tentar che pensiero ella abbia? E trovo</l> 
+<l>Ch'ella più tosto soffriria esser morta</l> 
+<l part="I">Ch'esser tua mai.</l></sp>
+<sp><speaker><emph><name>Viaste</name></emph></speaker>
+<l part="F">Tu mi hai trafitto il core.</l></sp>
+<sp><speaker><emph><name>Dino</name></emph></speaker>
+<l>E che colpa ve n'ho io, se tu vuoi</l> 
+<l>Quel che impossibil è che tu abbia mai?</l> 
+<l>Ella esser vuole di <name>Filisio</name> e in lui</l> 
+<l>Ha posti tutti quanti i suoi pensieri;</l> 
+<l>E quando ad uno di voi due dovessi</l> 
+<l>Concederla io, più ragionevol fora</l> 
+<l>Ch'a <name>Filisio</name> la dessi, ch'ama <name>Irinda</name>,</l> 
+<pb n="186"/><l>Che a te c'ha in odio. Però poi che vedi</l> 
+<l>Ogni cosa contraria al tuo disio,</l> 
+<l>Da orecchie a quel che ti ha detto <name>Montano</name>,</l> 
+<l>Levati questa cura omai dal core</l> 
+<l>E volgi ad altra donna il tuo pensiero.</l></sp>
+<sp><speaker><emph><name>Viaste</name></emph></speaker> 
+<l><name>Dino</name>, io tel vo' dir, sarà cagione</l> 
+<l>L'odio che veggo che costei mi porta</l> 
+<l>Che dia morte a <name>Filisio</name> e, morto lui,</l> 
+<l>Io faccia con un laccio anch'io quel fine</l> 
+<l>Che per la crudeltà di <name>Anassarete</name></l> 
+<l>Fe' il misero <name>Ifi</name>, e tosto ne vedrete</l> 
+<l>L'effetto tu e <name>Irinda</name>, poi che insieme</l> 
+<l>Vi sete congiurati a la mia morte.</l> 
+<l>0 stelle, o cielo, i' me ne vado, <name>Dino</name>,</l> 
+<l>Et udirai, prima che questo giorno</l> 
+<l>Giunga a la sera, che non sarà fatto</l> 
+<l>Meno di quel ch'io ho detto. Io me ne vado.</l></sp></div2>
+<div2 type="scena"><stage><emph><name>Dino</name> solo</emph></stage> 
+<sp><speaker><emph><name>Dino</name> solo</emph></speaker><l>Ve' che disaventura ha questa ninfa</l> 
+<l>Per questo sciocco; ella brama <name>Filisio</name></l> 
+<l>Et io consentirei che fusse sua,</l> 
+<l>E questo diavol di <name>Viaste</name> mette</l> 
+<pb n="187"/><l>Tanto disordine in questo maneggio,</l> 
+<l>Che non so che mi far, né che mi dire.</l> 
+<l>Non credo io già che fra pastori unquanco</l> 
+<l>Non fusse caso così strano: i' prego</l> 
+<l>Deità che cura ha de' matrimonî</l> 
+<l>Che degni di condurre a onesto fine</l> 
+<l>Questo grave disordine, sì ch'abbia</l> 
+<l><name>Filisio</name> <name>Irinda</name> e deponga <name>Viaste</name></l> 
+<l>La strana passion ch'ora lo ingombra.</l></sp></div2>
+<div2 type="scena"><stage><emph><name>Gaia</name>, madre di <name>Viaste</name>, <name>Montano</name></emph></stage>
+<sp><speaker><emph><name>Gaia</name></emph></speaker>
+<l>Gran ventura stata è che ritrovato</l> 
+<l>Si sia vivo il pastor, da cui la figlia</l> 
+<l>Di mia sorella tolse <name>Lisa</name> e molta</l> 
+<l>Prudenza ella ha mostrato nel mandare</l> 
+<l>Con la risposta insieme il pastore anco.</l> 
+<l>Anzi ad esser venuta ella con lui,</l> 
+<l>Acciò che se ti fusse anche bisogno</l> 
+<l>Cercar di racquetar questa discordia</l> 
+<l>Che fra <name>Filisio</name> è nata e fra <name>Viaste</name>,</l> 
+<l>Ella vi possi por dicevol fine.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l>Prudente veramente è stata <name>Lisa</name>,</l> 
+<l>Come tu di', né si potea pensare</l> 
+<pb n="188"/><l>Cosa più acconcia al desiderio nostro.</l> 
+<l>Fa <name>Gaia</name>, che si venga qui <name>Viaste</name>,</l> 
+<l>Che non si partirà spero da noi,</l> 
+<l>Che ogni discordia fia ridotta a pace.</l></sp>
+<sp><speaker><emph><name>Gaia</name></emph></speaker>
+<l part="I">Il voglia Dio.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l part="F">Così sarà di certo;</l> 
+<l>Lascia tu qui questa tua pastorella,</l> 
+<l>Acciò che se bisogno fia chiamare</l> 
+<l><name>Lisa</name> o il pastor ch'ella ha condotto seco,</l> 
+<l>A te la mandi, perché gli conduca</l> 
+<l>Ambidue a fede far di quel ch'è a dire</l> 
+<l part="I">Qui con <name>Viaste</name>.</l></sp>
+<sp><speaker><emph><name>Gaia</name></emph></speaker> 
+<l part="M">Resta con <name>Montano</name>.</l></sp></div2>
+<div2 type="scena"><stage><emph><name>Montano</name> solo</emph></stage> 
+<sp><speaker><emph><name>Montano</name></emph></speaker><l part="F">Ho veduto talora una tempesta</l> 
+<l>Nel mar sì grande c'ho pensato mai</l> 
+<l>Di non poter veder tranquille l'onde;</l> 
+<l>E in quanto occhio si gira, si son messe</l> 
+<l>L'onde tanto superbe in tremolare.</l> 
+<l>Una gragnola anche talora ho vista</l> 
+<l>Sì densa piover da le nubi, ch'io</l> 
+<pb n="189"/><l>Non pur pensato ho che a le gregge nostre</l> 
+<l>Debba mancare il vivere, ma a noi:</l> 
+<l>E poi così abondante ho visto l'anno,</l> 
+<l>Che parso è che più tosto la gragnuola</l> 
+<l>De l'abondanza sia stata cagione</l> 
+<l>Ch'ella dato pur ci abbia un picciol danno.</l> 
+<l>E così van le cose in questo mondo:</l> 
+<l>Chi pensato avria mai che fusse nata</l> 
+<l>Cosa sì fuor d'ogni pensiero umano</l> 
+<l>Or ne le selve nostre, che acquetare</l> 
+<l>Potuta avesse la discordia grave,</l> 
+<l>Che nata fra <name>Filisio</name> era e <name>Viaste</name>.</l> 
+<l>Questo mi mostra che mai disperare</l> 
+<l>Non si dee l'uom de la bontà divina.</l> 
+<l>Veggo <name>Viaste</name>, i' gli vo' gire incontra.</l></sp></div2>
+<div2 type="scena"><stage><emph><name>Viaste</name>, <name>Montano</name> 
+</emph></stage><sp><speaker><emph><name>Viaste</name></emph></speaker>
+<l>Io son stato, <name>Montan</name>, per non venire</l> 
+<l>A ritrovarti, ancora che mia madre,</l> 
+<l>A la qual porto quella riverenza</l> 
+<l>Che dee figliuolo buon portare a madre,</l> 
+<l>Detto me l'abbia. Perché io mi ho pensato</l> 
+<l>Che tu di quel mi vogli favellare,</l> 
+<l>Di cui pur dianzi ragionato mi hai:</l> 
+<l>E s'è così, come credo io che sia,</l> 
+<l>Ti prego e ti riprego che non vogli</l> 
+<l>Noiarmi più, perché ciò non è altro</l> 
+<pb n="190"/><l>Che più infiammarmi e raddoppiar la doglia</l> 
+<l>Et animarmi più contra <name>Filisio</name>.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l><name>Viaste</name>, i' voglio che tu sappi ch'io</l> 
+<l>Ho tanto a core ogni tuo bene e tanto</l> 
+<l>Ti amo, che più non amo i figli propri.</l> 
+<l>Però tu creder dei che non dirotti</l> 
+<l>Se non quel che ti fia d'util, d'onore;</l> 
+<l>Così mi custodisca la mia greggia</l> 
+<l>Pane, dio de' pastori, e le biade</l> 
+<l>Da' mostri de la terra mi difenda</l> 
+<l>Cerere dea, et a te ponga in core</l> 
+<l>E questa e quei di dar sì attentamente</l> 
+<l>Orecchie a le parole mie, che quindi</l> 
+<l>Ti venga quella contentezza ch'io</l> 
+<l part="I">Bramo maggior.</l></sp>
+<sp><speaker><emph><name>Viaste</name></emph></speaker>
+<l part="F">Son le parole buone</l> 
+<l>Ma non so se saran sì buoni i fatti.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l>Saranno anche migliori. I' tengo certo</l> 
+<l>Che, s'alcun ti volesse dar per moglie</l> 
+<l>Giovane che figliuola si trovasse</l> 
+<l>De la sorella di tua madre, mai</l> 
+<l>Tu non consentiressi a cosa tale.</l></sp>
+<sp><speaker><emph><name>Viaste</name></emph></speaker>
+<l>Tolga via Dio che tal pensier mi venga:</l> 
+<pb n="191"/><l>Io mi starei più tosto, e dico il vero,</l> 
+<l>Di non aver mai moglie, perché questa</l> 
+<l>Mi parerebbe una sceleratezza</l> 
+<l>Che devesse far me gire e le gregge</l> 
+<l part="I">In ultima ruina.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l part="F">E così a punto</l> 
+<l>Saria, <name>Viaste</name>. Saperai adunque</l> 
+<l>Ch'<name>Irinda</name>, de la quale ardi e sfavilli,</l> 
+<l part="I">Ti è cugina germana.</l></sp>
+<sp><speaker><emph><name>Viaste</name></emph></speaker>
+<l part="F">Deh <name>Montano</name>,</l> 
+<l>Cerca dar ad intender ciò a' fanciulli,</l> 
+<l>Che nulla non ne vuol creder <name>Viaste</name>;</l> 
+<l>Questa una favola è che tu ti hai finta,</l> 
+<l>Per distornarmi da l'amare <name>Irinda</name>,</l> 
+<l>Ma certo sii che non ti verrà fatto.</l> 
+<l>Non ebbe mai la sora di mia madre</l> 
+<l part="I">Figliuola alcuna.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker> 
+<l part="F">Anzi, <name>Viaste</name>, ella ebbe</l> 
+<l><name>Irinda</name>; e perché veggo che tu fede</l> 
+<l>A me prestar non vôi, io credo pure</l> 
+<l>Che fede presterai ad una ninfa</l> 
+<l part="I">Del coro di <name>Diana</name>.</l></sp>
+<pb n="192"/><sp><speaker><emph><name>Viaste</name></emph></speaker>
+<l part="F">Senza dubbio,</l> 
+<l>Se ninfa tal mi fesse fé di questo,</l> 
+<l>Non ardirei di contradirle punto,</l> 
+<l>Ché so che quella purità di donne</l> 
+<l part="I">Non dice mai, se non il ver.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l part="F">Va a <name>Gaia</name></l> 
+<l>E di' che meni quella ninfa seco</l> 
+<l>E quel vecchio pastor ch'or da le selve</l> 
+<l>Venuto è seco. Tu cosa udirai</l> 
+<l>Che ti farà stupir di maraviglia</l> 
+<l>Et acqueterà sì l'animo tuo</l> 
+<l>Che darai bando a le noiose cure.</l></sp>
+<sp><speaker><emph><name>Viaste</name></emph></speaker>
+<l>Tu mi fai tutto sgrizzolar, sentendo</l> 
+<l>Quel di che tu ragioni e non potrebbe</l> 
+<l>Non mi esser ciò di maraviglia grande.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l>Ecco che viene chi ti farà fede</l> 
+<l>Del vero e troverai che Dio ha voluto</l> 
+<l>Proveder che non cadi in error tale,</l> 
+<l>Quale sarebbe s'una tua germana,</l> 
+<l>Come cieco, per moglie avessi preso.</l></sp></div2>
+<div2 type="scena"><stage><emph><name>Montano</name>, Ninfa, Pastore, <name>Viaste</name>, 
+<name>Gaia</name> madre di <name>Viaste</name></emph></stage>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l>Sacrata ninfa, questo giovanetto</l> 
+<pb n="193"/><l>Et io desideriamo di sapere</l> 
+<l>Ch'<name>Irinda</name> sia, come nel coro venne</l> 
+<l>De le vergini ninfe di <name>Diana</name></l> 
+<l>E come indi partita ella si sia.</l> 
+<l>Piacciati adunque, prego, sodisfare</l> 
+<l>Al desiderio nostro: così sempre</l> 
+<l>Favorevol ti sia la tua <name>Diana</name>,</l> 
+<l>Né ti dia assalto mai satir lascivo.</l></sp>
+<sp><speaker><emph>Ninfa</emph></speaker>
+<l><name>Montan</name>, tu dei saper che ha quindici anni</l> 
+<l>Che, essendo in caccia, questo pastor vidi,</l> 
+<l>Ch'aveva una bambina a pena nata,</l> 
+<l>Su la quale ei facea dirotto pianto;</l> 
+<l>E di ciò ricercando la cagione,</l> 
+<l>Mi disse che la madre gli avea data</l> 
+<l>Quella anima innocente, accioché a i lupi</l> 
+<l>La desse a divorare; et io, commossa</l> 
+<l>A gran compassion, presi la figlia</l> 
+<l>Et a <name>Dino</name> la diedi a nutricare.</l> 
+<l>Cresciuta ch'ella fu sino all'etade</l> 
+<l>Di dieci anni, la presi per compagna</l> 
+<l>Et è stata con meco insino a tanto</l> 
+<l>Che da <name>Diana</name> si è partita, accesa</l> 
+<l>De l'amor di un pastor di queste selve;</l> 
+<l>E questo è quel che ti so dir di lei.</l> 
+<pb n="194"/><l>Rimanete con Dio, ché a la mia dea</l> 
+<l>Io voglio ritornar, ch'ella mi aspetta.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l>Vattene in pace, fortunata ninfa;</l> 
+<l>Così mai sempre favorisca il Cielo</l> 
+<l>I desiderii tuoi, come allegrezza</l> 
+<l part="I">Infinita ci hai data.</l></sp>
+<sp><speaker><emph>Ninfa</emph></speaker>
+<l part="F">Prego il Cielo</l> 
+<l>Che la faccia venir sempre maggiore.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l>E chi diè a te, pastor, quella bambina?</l></sp>
+<sp><speaker><emph>Pastore</emph></speaker>
+<l>La sorella di <name>Gaia</name> la mi diede,</l> 
+<l>Versando fuor da gli occhi un rio di pianto,</l> 
+<l>Con infinita doglia; biasimando</l> 
+<l>La tenace avarizia del marito</l> 
+<l>Che, per non le dever la dote fare,</l> 
+<l>Commesso avea a la moglie che le desse</l> 
+<l>Morte, sì tosto ch'ella nata fosse,</l> 
+<l>E che, se forse ella facea altrimente,</l> 
+<l>Proveria l'ira sua. Quella meschina,</l> 
+<l>Cui non sofferse dar morte a la figlia,</l> 
+<l>A me la diè, che la portassi a i lupi</l> 
+<pb n="195"/><l>E questa ninfa, come ella vi ha detto,</l> 
+<l>La prese, e grazia ho al Ciel vederla viva;</l> 
+<l>E vorrei volentier che la sua madre,</l> 
+<l>Che vinta da l'affanno uscì di vita,</l> 
+<l part="I">Viva si ritrovasse.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l part="F">Ora, <name>Viaste</name>,</l> 
+<l>Tu poi veder se deve esser tua moglie</l> 
+<l part="I"><name>Irinda</name>.</l></sp>
+<sp><speaker><emph><name>Viaste</name></emph></speaker>
+<l part="F">Poi che ritrovo esser vero</l> 
+<l>Quanto mi hai detto, ove solea amare</l> 
+<l><name>Irinda</name> come amante, ora l'ho cara</l> 
+<l>Come germana mia sorella: e poi</l> 
+<l>Che <name>Filisio</name> l'ama et ella lui,</l> 
+<l>I' vo' che gliele diamo per mogliera,</l> 
+<l>Ché non fu mai così beata coppia</l> 
+<l part="I">Fra pastori ha mill'anni.</l></sp>
+<sp><speaker><emph><name>Gaia</name></emph></speaker>
+<l part="F">Figliuol mio,</l> 
+<l>Perché compita sia la mia allegrezza,</l> 
+<l>Io voglio che mi facci ancor la grazia,</l> 
+<l>Poscia che tanto ti ama <name>Frodignisa</name></l> 
+<l>E non è bella men che si sia <name>Irinda</name>,</l> 
+<l part="I">Che la ti prenda per mogliera.</l></sp> 
+<pb n="196"/><sp><speaker><emph><name>Viaste</name></emph></speaker>
+<l part="F">Poi</l> 
+<l>Che <name>Irinda</name> aver non posso, io son per fare</l> 
+<l part="I">Tutto quel che vi è a grado.</l></sp>
+<sp><speaker><emph><name>Montano</name></emph></speaker>
+<l part="F">Entriamo adunque</l> 
+<l>A dar principio a così liete nozze.</l></sp><epigraph><p>IL FINE</p></epigraph>
+</div2></div1></body></text>
+</TEI.2>

@@ -1,0 +1,3205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2> 
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Satire</title>
+      <author>Ludovico Ariosto</author>
+    </titleStmt>
+    <extent>107 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000025</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Opere minori</title>
+        <author>Ariosto, Ludovico</author>
+        <editor id="ed">Segre, Cesare</editor>
+        <publisher>R. Ricciardi</publisher>
+        <pubPlace>Milano [ecc.]</pubPlace>
+        <date>1954</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.3 - POESIA ITALIANA, 1492-1542</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione - OCR</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2002-11-04T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marco Fucini</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2002-11-18T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Fabio Ciotti</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML</item>
+    </change>
+  </revisionDesc>
+</teiHeader> 
+<text>
+<body> 
+<div1 type="satira"> 
+<head><hi rend="bold">SATIRA I</hi></head> 
+<salute>A Messer Alessandro Ariosto et a Messer Ludovico da Bagno</salute> 
+<lg type="terzina"> 
+<l>Io desidero intendere da voi,</l> 
+<l>Alessandro fratel, compar mio Bagno,</l> 
+<l>s’in corte è ricordanza più di noi;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>se più il signor me accusa; se compagno</l> 
+<l>per me si lieva e dice la cagione</l> 
+<l>per che, partendo gli altri, io qui rimagno;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>o, tutti dotti ne la adulazione</l> 
+<l>(l’arte che più tra noi si studia e cole),</l> 
+<l>l’aiutate a biasmarme oltra ragione.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Pazzo chi al suo signor contradir vole,</l> 
+<l>se ben dicesse c’ha veduto il giorno</l> 
+<l>pieno di stelle e a mezzanotte il sole.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>O ch’egli lodi, o voglia altrui far scorno,</l> 
+<l>di varie voci subito un concento</l> 
+<l>s’ode accordar di quanti n’ha dintorno;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e chi non ha per umiltà ardimento</l> 
+<l>la bocca aprir, con tutto il viso applaude</l> 
+<l>e par che voglia dir: — anch’io consento. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma se in altro biasmarme, almen dar laude</l> 
+<l>dovete che, volendo io rimanere,</l> 
+<l>lo dissi a viso aperto e non con fraude.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dissi molte ragioni, e tutte vere,</l> 
+<l>de le quali per sé sola ciascuna</l> 
+<l>esser mi dovea degna di tenere.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Prima la vita, a cui poche o nessuna</l> 
+<l>cosa ho da preferir, che far più breve</l> 
+<l>non voglio che ‘l ciel voglia o la Fortuna.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ogni alterazione, ancor che leve,</l> 
+<l>ch’avesse il mal ch’io sento, o ne morei,</l> 
+<l>o il Valentino e il Postumo errar deve.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Oltra che ‘l dicano essi, io meglio i miei</l> 
+<l>casi de ogni altro intendo; e quai compensi</l> 
+<l>mi siano utili so, so quai son rei.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>So mia natura come mal conviensi</l> 
+<l>co’ freddi verni; e costà sotto il polo</l> 
+<l>gli avete voi più che in Italia intensi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E non mi nocerebbe il freddo solo;</l> 
+<l>ma il caldo de le stuffe, c’ho sì infesto,</l> 
+<l>che più che da la peste me gli involo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Né il verno altrove s’abita in cotesto</l> 
+<l>paese: vi si mangia, giuoca e bee,</l> 
+<l>e vi si dorme e vi si fa anco il resto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Che quindi vien, come sorbir si dee</l> 
+<l>l’aria che tien sempre in travaglio il fiato</l> 
+<l>de le montagne prossime Rifee?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dal vapor che, dal stomaco elevato,</l> 
+<l>fa catarro alla testa e cala al petto,</l> 
+<l>mi rimarei una notte soffocato.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E il vin fumoso, a me vie più interdetto</l> 
+<l>che ‘l tòsco, costì a inviti si tracanna</l> 
+<l>e sacrilegio è non ber molto e schietto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tutti li cibi son con pepe e canna</l> 
+<l>di amomo e d’altri aròmati, che tutti</l> 
+<l>come nocivi il medico mi danna.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Qui mi potreste dir ch’io avrei ridutti,</l> 
+<l>dove sotto il camin sedria al foco,</l> 
+<l>né piei, né ascelle odorerei, né rutti;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e le vivande condiriemi il cuoco</l> 
+<l>come io volessi, et inacquarmi il vino</l> 
+<l>potre’ a mia posta, e nulla berne o poco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dunque voi altri insieme, io dal matino</l> 
+<l>ala sera starei solo alla cella,</l> 
+<l>solo ala mensa come un certosino?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Bisognerieno pentole e vasella</l> 
+<l>da cucina e da camera, e dotarme</l> 
+<l>di masserizie qual sposa novella.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se separatamente cucinarme</l> 
+<l>vorà mastro Pasino una o due volte,</l> 
+<l>quattro e sei mi farà il viso da l’arme.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>S’io vorò de le cose ch’avrà tolte</l> 
+<l>Francesco di Siver per la famiglia,</l> 
+<l>potrò matina e sera averne molte.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>S’io dirò: — Spenditor, questo mi piglia,</l> 
+<l>che l’umido cervel poco notrisce;</l> 
+<l>questo no, che ‘l catar troppo assottiglia —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>per una volta o due che me ubidisce</l> 
+<l>quattro e sei mi si scorda, o perché teme</l> 
+<l>che non gli sia accettato, non ardisce.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Io mi riduco al pane; e quindi freme</l> 
+<l>la colera; cagion che alli dui motti</l> 
+<l>gli amici et io siamo a contesa insieme.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Mi potreste anco dir: — De li tuoi scotti</l> 
+<l>fa che ‘l tuo fante comprator ti sia;</l> 
+<l>mangia i tuoi polli alli tua alari cotti. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Io, per la mala servitude mia,</l> 
+<l>non ho dal Cardinale ancora tanto</l> 
+<l>ch’io possa fare in corte l’osteria.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Apollo, tua mercé, tua mercé, santo</l> 
+<l>collegio de le Muse, io non possiedo</l> 
+<l>tanto per voi, ch’io possa farmi un manto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— Oh! il signor t’ha dato... — io ve ‘l conciedo,</l> 
+<l>tanto che fatto m’ho più d’un mantello;</l> 
+<l>ma che m’abbia per voi dato non credo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Egli l’ha detto: io dirlo a questo e a quello</l> 
+<l>voglio anco, e i versi miei posso a mia posta</l> 
+<l>mandare al Culiseo per lo sugello.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non vuol che laude sua da me composta</l> 
+<l>per opra degna di mercé si pona;</l> 
+<l>di mercé degno è l’ir correndo in posta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>A chi nel Barco e in villa il segue, dona,</l> 
+<l>a chi lo veste e spoglia, o pona i fiaschi</l> 
+<l>nel pozzo per la sera in fresco a nona;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>vegghi la notte, in sin che i Bergamaschi</l> 
+<l>se levino a far chiodi, sì che spesso</l> 
+<l>col torchio in mano addormentato caschi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>S’io l’ho con laude ne’ miei versi messo,</l> 
+<l>dice ch’io l’ho fatto a piacere e in ocio;</l> 
+<l>più grato fòra essergli stato appresso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E se in cancellaria m’ha fatto socio</l> 
+<l>a Melan del Constabil, sì c’ho il terzo</l> 
+<l>di quel ch’al notaio vien d’ogni negocio,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>gli è perché alcuna volta io sprono e sferzo</l> 
+<l>mutando bestie e guide, e corro in fretta</l> 
+<l>per monti e balze, e con la morte scherzo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fa a mio senno, Maron: tuoi versi getta</l> 
+<l>con la lira in un cesso, e una arte impara,</l> 
+<l>se beneficii vuoi, che sia più accetta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma tosto che n’hai, pensa che la cara</l> 
+<l>tua libertà non meno abbi perduta</l> 
+<l>che se giocata te l’avessi a zara;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e che mai più, se ben alla canuta</l> 
+<l>età vivi e viva egli di Nestorre,</l> 
+<l>questa condizion non ti si muta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E se disegni mai tal nodo sciorre,</l> 
+<l>buon patto avrai, se con amore e pace</l> 
+<l>quel che t’ha dato si vorà ritorre.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>A me, per esser stato contumace</l> 
+<l>di non voler Agria veder né Buda,</l> 
+<l>che si ritoglia il suo sì non mi spiace</l> 
+</lg> 
+<lg type="terzina"> 
+<l>(se ben le miglior penne che avea in muda</l> 
+<l>rimesse, e tutte, mi tarpasse), come</l> 
+<l>che da l’amor e grazia sua mi escluda,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che senza fede e senza amor mi nome,</l> 
+<l>e che dimostri con parole e cenni</l> 
+<l>che in odio e che in dispetto abbia il mio nome.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E questo fu cagion ch’io me ritenni</l> 
+<l>di non gli comparire inanzi mai,</l> 
+<l>dal dì che indarno ad escusar mi vienni.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ruggier, se alla progenie tua mi fai</l> 
+<l>sì poco grato, e nulla mi prevaglio</l> 
+<l>che li alti gesti e tuo valor cantai,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che debbio far io qui? poi ch’io non vaglio</l> 
+<l>smembrar su la forcina in aria starne,</l> 
+<l>né so a sparvier, né a can metter guinzaglio?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non feci mai tai cose e non so farne:</l> 
+<l>alli usatti, alli spron, perch’io son grande,</l> 
+<l>non mi posso adattar per porne o trarne.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Io non ho molto gusto di vivande</l> 
+<l>che scalco io sia; fui degno essere al mondo</l> 
+<l>quando viveano gli uomini di giande.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non vo’ il conto di man tòrre a Gismondo;</l> 
+<l>andar più a Roma in posta non accade,</l> 
+<l>a placar la grande ira di Secondo;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e quando accadesse anco, in questa etade,</l> 
+<l>col mal ch’ebbe principio allora forse,</l> 
+<l>non si convien più correr per le strade.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se far cotai servigi e raro tòrse</l> 
+<l>di sua presenza de’ chi d’oro ha sete,</l> 
+<l>e stargli come Artofilace all’Orse;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>più tosto che arricchir, voglio quiete:</l> 
+<l>più tosto che occuparmi in altra cura,</l> 
+<l>sì che inondar lasci il mio studio a Lete.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il qual, se al corpo non può dar pastura,</l> 
+<l>lo dà alla mente con sì nobil ésca</l> 
+<l>che merta di non star senza cultura.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fa che la povertà meno m’incresca,</l> 
+<l>e fa che la ricchezza sì non ami</l> 
+<l>che di mia libertà per suo amor esca;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>quel ch’io non spiro aver, fa ch’io non brami,</l> 
+<l>che né sdegno né invidia me consumi</l> 
+<l>perché Marone o Celio il signor chiami;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ch’io non aspetto a mezza estade i lumi</l> 
+<l>per esser col signor veduto a cena,</l> 
+<l>ch’io non lascio accecarmi in questi fumi;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ch’io vado solo e a piedi ove mi mena</l> 
+<l>il mio bisogno, e quando io vo a cavallo,</l> 
+<l>le bisaccie gli attacco su la schiena.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E credo che sia questo minor fallo</l> 
+<l>che di farmi pagar, s’io raccomando</l> 
+<l>al principe la causa d’un vasallo;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>o mover liti in benefici, quando</l> 
+<l>ragion non v’abbia, e facciami i pievani</l> 
+<l>ad offerir pension venir pregando.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Anco fa che al ciel levo ambe le mani,</l> 
+<l>ch’ abito in casa mia commodamente,</l> 
+<l>voglia tra cittadini o tra villani;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e che nei ben paterni il rimanente</l> 
+<l>del viver mio, senza imparar nova arte,</l> 
+<l>posso, e senza rossor, far, di mia gente.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma perché cinque soldi da pagarte,</l> 
+<l>tu che noti, non ho, rimetter voglio</l> 
+<l>la mia favola al loco onde si parte.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Aver cagion di non venir mi doglio:</l> 
+<l>detto ho la prima, e s’io vuo’ l’altre dire,</l> 
+<l>né questo basterà né un altro foglio.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Pur ne dirò anco un’altra: che patire</l> 
+<l>non debbo che, levato ogni sostegno,</l> 
+<l>casa nostra in ruina abbia a venire.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>De cinque che noi siàn, Carlo è nel regno</l> 
+<l>onde cacciaro i Turchi il mio Cleandro,</l> 
+<l>e di starvi alcun tempo fa disegno;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Galasso vuol ne la città di Evandro</l> 
+<l>por la camicia sopra la guarnaccia;</l> 
+<l>e tu sei col signore ito, Alessandro.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ecci Gabriel; ma che vuoi tu ch’ei faccia?</l> 
+<l>che da fanciullo la sua mala sorte</l> 
+<l>lo impedì de li piedi e de le braccia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Egli non fu né in piazza mai, né in corte,</l> 
+<l>et a chi vuol ben reggere una casa</l> 
+<l>questo si può comprendere che importe.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ala quinta sorella che rimasa</l> 
+<l>n’era, bisogna apparecchiar la dote,</l> 
+<l>che le siàn debitori, or che se accasa.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>L’età di nostra matre mi percuote</l> 
+<l>di pietà il core; che da tutti un tratto</l> 
+<l>senza infamia lasciata esser non puote.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Io son de dieci il primo, e vecchio fatto</l> 
+<l>di quarantaquattro anni, e il capo calvo</l> 
+<l>da un tempo in qua sotto il cuffiotto appiatto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>La vita che mi avanza me la salvo</l> 
+<l>meglio ch’io so: ma tu che diciotto anni</l> 
+<l>dopo me t’indugiasti a uscir de l’alvo,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>gli Ongari a veder torna e gli Alemanni,</l> 
+<l>per freddo e caldo segui il signor nostro,</l> 
+<l>servi per amendua, rifa i miei danni.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il qual se vuol di calamo et inchiostro</l> 
+<l>di me servirsi, e non mi tòr da bomba,</l> 
+<l>digli: — Signore, il mio fratello è vostro. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Io, stando qui, farò con chiara tromba</l> 
+<l>il suo nome sonar forse tanto alto</l> 
+<l>che tanto mai non si levò colomba.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>A Filo, a Cento, in Ariano, a Calto</l> 
+<l>arriverei, ma non sin al Danubbio,</l> 
+<l>ch’io non ho piei gagliardi a sì gran salto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma se a voglier di novo avessi al subbio</l> 
+<l>li quindici anni che in servirlo ho spesi,</l> 
+<l>passar la Tana ancor non starei in dubbio.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se avermi dato onde ogni quattro mesi</l> 
+<l>ho venticinque scudi, né sì fermi</l> 
+<l>che molte volte non mi sien contesi,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>mi debbe incatenar, schiavo tenermi,</l> 
+<l>ubligarmi ch’io sudi e tremi senza</l> 
+<l>rispetto alcun, ch’io moia o ch’io me ‘nfermi,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>non gli lasciate aver questa credenza;</l> 
+<l>ditegli che più tosto ch’esser servo</l> 
+<l>torrò la povertade in pazienza.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Uno asino fu già, ch’ogni osso e nervo</l> 
+<l>mostrava di magrezza, e entrò, pel rotto</l> 
+<l>del muro, ove di grano era uno acervo;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e tanto ne mangiò, che l’epa sotto</l> 
+<l>si fece più d’una gran botte grossa,</l> 
+<l>fin che fu sazio, e non però di botto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Temendo poi che gli sien péste l’ossa,</l> 
+<l>si sforza di tornar dove entrato era,</l> 
+<l>ma par che ‘l buco più capir nol possa.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Mentre s’affanna, e uscire indarno spera,</l> 
+<l>gli disse un topolino: — Se vuoi quinci</l> 
+<l>uscir, tràtti, compar, quella panciera:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>a vomitar bisogna che cominci</l> 
+<l>ciò c’hai nel corpo, e che ritorni macro,</l> 
+<l>altrimenti quel buco mai non vinci. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Or, conchiudendo, dico che, se ‘l sacro</l> 
+<l>Cardinal comperato avermi stima</l> 
+<l>con li suoi doni, non mi è acerbo et acro</l> 
+</lg> 
+<lg> 
+<l>renderli, e tòr la libertà mia prima.</l> 
+</lg> 
+</div1> 
+<div1 type="satira"> 
+<head><hi rend="bold">SATIRA II</hi></head> 
+<salute>A messer Galasso Ariosto, suo fratello</salute> 
+<lg type="terzina"> 
+<l>Perc’ho molto bisogno, più che voglia,</l> 
+<l>d’esser in Roma, or che li cardinali</l> 
+<l>a guisa de le serpi mutan spoglia;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>or che son men pericolosi i mali</l> 
+<l>a’ corpi, ancor che maggior peste affliga</l> 
+<l>le travagliate menti de’ mortali:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>quando la ruota, che non pur castiga</l> 
+<l>Ission rio, si volge in mezzo Roma</l> 
+<l>l’anime a cruciar con lunga briga;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Galasso, appresso il tempio che si noma</l> 
+<l>da quel prete valente che l’orecchia</l> 
+<l>a Malco allontanar fe’ da la chioma,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>stanza per quattro bestie mi apparecchia,</l> 
+<l>contando me per due con Gianni mio,</l> 
+<l>poi metti un mulo, e un’altra rózza vecchia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Camera o buca, ove a stanzar abbia io,</l> 
+<l>che luminosa sia, che poco saglia,</l> 
+<l>e da far fuoco commoda, desio.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Né de’ cavalli ancor meno ti caglia;</l> 
+<l>che poco gioveria ch’avesser pòste,</l> 
+<l>dovendo lor mancar poi fieno o paglia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Sia per me un mattarazzo, che alle coste</l> 
+<l>faccia vezzi, o di lana o di cottone,</l> 
+<l>sì che la notte io non abbia ire al’oste.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Provedimi di legna secche e buone;</l> 
+<l>di chi cucini, pur così ala grossa,</l> 
+<l>un poco dòi vaccina o di montone.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non curo d’un che con sapori possa</l> 
+<l>de vari cibi suscitar la fame,</l> 
+<l>se fosse morta e chiusa ne la fossa.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Unga il suo schidon pur o il suo tegame</l> 
+<l>sin al’orecchio a ser Vorano il muso,</l> 
+<l>venuto al mondo sol per far lettame;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che più cerca la fame, perché giuso</l> 
+<l>mandi i cibi nel ventre, che, per trarre</l> 
+<l>la fame, cerchi aver de li cibi uso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il novo camerier tal cuoco inarre,</l> 
+<l>di pane et aglio uso a sfamarsi, poi</l> 
+<l>che riposte i fratelli avean le marre,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>et egli a casa avea tornati i boi;</l> 
+<l>ch’or vòl fagiani, or tortorelle, or starne,</l> 
+<l>che sempre un cibo usar par che l’annoi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Or sa che differenzia è da la carne</l> 
+<l>di capro e di cingial che pasca al monte,</l> 
+<l>da quel che l’Elisea soglia mandarne.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fa ch’io truovi de l’acqua, non di fonte,</l> 
+<l>di fiume sì, che già sei dì veduto</l> 
+<l>non abbia Sisto, né alcun altro ponte.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non curo sì del vin, non già il rifuto;</l> 
+<l>ma a temprar l’acqua me ne basta poco,</l> 
+<l>che la taverna mi darà a minuto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Senza molta acqua i nostri, nati in loco</l> 
+<l>palustre, non assaggio, perché, puri,</l> 
+<l>dal corpo tranno in giù che mi fa roco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Cotesti che farian, che son ne’ duri</l> 
+<l>scogli de Corsi ladri o d’infedeli</l> 
+<l>Greci o d’instabil Liguri maturi?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Chiuso nel studio frate Ciurla se li</l> 
+<l>bea, mentre fuori il populo digiuno</l> 
+<l>lo aspetta che gli esponga gli Evangeli;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e poi monti sul pergamo, più di uno</l> 
+<l>gambaro cotto rosso, e rumor faccia,</l> 
+<l>e un minacciar, che ne spaventi ogniuno;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>et a messer Moschin pur dia la caccia,</l> 
+<l>al fra Gualengo et a’ compagni loro,</l> 
+<l>che metton carestia ne la vernaccia;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che fuor di casa, o in Gorgadello o al Moro,</l> 
+<l>mangian grossi piccioni e capon grassi,</l> 
+<l>come egli in cella, fuor del refettoro.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fa che vi sian de’ libri, con che io passi</l> 
+<l>quelle ore che commandano i prelati</l> 
+<l>al loro uscier che alcuno entrar non lassi;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>come ancor fanno in su la terza i frati,</l> 
+<l>che non li muove il suon del campanello,</l> 
+<l>poi che si sono a tavola assettati.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— Signor,— dirò (non s’usa più fratello,</l> 
+<l>poi che la vile adulazion spagnola</l> 
+<l>messe la signoria fin in bordello)</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— signor, — (se fosse ben mozzo da spuola)</l> 
+<l>dirò — fate, per Dio, che monsignore</l> 
+<l>reverendissimo oda una parola. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>—<hi rend="italic"> Agora non si puede, et es meiore</hi></l> 
+<l><hi rend="italic">che vos torneis a la magnana</hi>. — Almeno,</l> 
+<l>fate ch’ei sappia ch’io son qui di fuore. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Risponde che ‘l patron non vuol gli siéno</l> 
+<l>fatte imbasciate, se venisse Pietro,</l> 
+<l>Pavol, Giovanni e il Mastro Nazereno.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma se fin dove col pensier penètro,</l> 
+<l>avessi, a penetrarvi, occhi lincei,</l> 
+<l>o’ muri trasparesser come vetro,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>forse occupati in cosa li vedrei</l> 
+<l>che iustissima causa di celarsi</l> 
+<l>avrian dal sol, non che da gli occhi miei.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma sia a un tempo lor agio di ritrarsi,</l> 
+<l>e a noi di contemplar sotto il camino</l> 
+<l>pei dotti libri i saggi detti sparsi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Che mi mova a veder Monte Aventino</l> 
+<l>so che voresti intendere, e dirolti:</l> 
+<l>è per legar tra carta, piombo e lino,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>sì che tener, che non mi sien tolti,</l> 
+<l>possa, pel viver mio, certi baiocchi</l> 
+<l>che a Melan piglio, ancor che non sian molti;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e proveder ch’io sia il primo che mocchi</l> 
+<l>Santa Agata, se avien ch’al vecchio prete,</l> 
+<l>supervivendogli io, di morir tocchi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dunque io darò del capo ne la rete</l> 
+<l>ch’io soglio dir che ‘l diavol tende a questi</l> 
+<l>che del sangue di Cristo han tanta sete?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma tu vedrai, se Dio vorrà che resti</l> 
+<l>questa chiesa in man mia, darla a persona</l> 
+<l>saggia e sciente e de costumi onesti,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che con periglio suo poi ne dispona:</l> 
+<l>io né pianeta mai né tonicella</l> 
+<l>né chierca vuo’ che in capo mi si pona.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Come né stole, io non vuo’ ch’anca annella</l> 
+<l>mi leghin mai, che in mio poter non tenga</l> 
+<l>di elegger sempre o questa cosa o quella.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Indarno è, s’io son prete, che mi venga</l> 
+<l>disir di moglie; e quando moglie io tolga,</l> 
+<l>convien che d’esser prete il desir spenga.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Or, perché so come io mi muti e volga</l> 
+<l>di voler tosto, schivo di legarmi</l> 
+<l>d’onde, se poi mi pento, io non mi sciolga.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Qui la cagion potresti dimandarmi</l> 
+<l>per che mi levo in collo sì gran peso,</l> 
+<l>per dover poi s’un altro scarricarmi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Perché tu e gli altri frati miei ripreso</l> 
+<l>m’avreste, e odiato forse, se offerendo</l> 
+<l>tal don Fortuna, io non l’avessi preso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Sai ben che ‘l vecchio, la riserva avendo,</l> 
+<l>inteso di un costì che la sua morte</l> 
+<l>bramava, e di velen perciò temendo,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>mi pregò ch’a pigliar venissi in corte</l> 
+<l>la sua rinuncia, che potria sol tòrre</l> 
+<l>quella speranza onde temea sì forte.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Opra feci io che si volesse porre</l> 
+<l>ne le tue mani o d’Alessandro, il cui</l> 
+<l>ingegno da la chierca non aborre;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma né di voi, né di più giunti a lui</l> 
+<l>d’amicizia fidar unqua si volle:</l> 
+<l>io fuor de tutti scelto unico fui.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Questa opinion mia so ben che folle</l> 
+<l>diranno molti, che a salir non tenti</l> 
+<l>la via ch’uom spesso a grandi onori estolle.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Questa povere, sciocche, inutil genti,</l> 
+<l>sordide, infami, ha già levato tanto,</l> 
+<l>che fatti gli ha adorar dai re potenti.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma chi fu mai sì saggio o mai sì santo</l> 
+<l>che di esser senza macchia di pazzia,</l> 
+<l>o poca o molta, dar si possa vanto?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ogniun tenga la sua, questa è la mia:</l> 
+<l>se a perder s’ha la libertà, non stimo</l> 
+<l>il più ricco capel che in Roma sia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Che giova a me seder a mensa il primo,</l> 
+<l>se per questo più sazio non mi levo</l> 
+<l>di quel ch’è stato assiso a mezzo o ad imo?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Come né cibo, così non ricevo</l> 
+<l>più quiete, più pace o più contento,</l> 
+<l>se ben de cinque mitre il capo aggrevo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Felicitade istima alcun, che cento</l> 
+<l>persone te accompagnino a palazzo</l> 
+<l>e che stia il volgo a riguardarte intento;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>io lo stimo miseria, e son sì pazzo</l> 
+<l>ch’io penso e dico che in Roma fumosa</l> 
+<l>il signore è più servo che ‘l ragazzo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non ha da servir questi in maggior cosa</l> 
+<l>che di esser col signor quando cavalchi;</l> 
+<l>l’altro tempo a suo senno o va o si posa.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>La maggior cura che sul cor gli calchi</l> 
+<l>è che Fiammetta stia lontana, e spesso</l> 
+<l>causi che l’ora del tinel gli valchi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>A questo ove gli piace è andar concesso,</l> 
+<l>accompagnato e solo, a piè, a cavallo;</l> 
+<l>fermarsi in Ponte, in Banchi e in chiasso appresso:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>piglia un mantello o rosso o nero o giallo,</l> 
+<l>e se non l’ha, va in gonnelin liggiero;</l> 
+<l>né questo mai gli è attribuito a fallo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quello altro, per fodrar di verde il nero</l> 
+<l>capel, lasciati ha i ricchi uffici e tolto</l> 
+<l>minor util, più spesa e più pensiero.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ha molta gente a pascere e non molto</l> 
+<l>da spender, che alle bolle è già ubligato</l> 
+<l>del primo e del secondo anno il ricolto;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e del debito antico uno è passato,</l> 
+<l>et uno, e al terzo termine si aspetta</l> 
+<l>esser sul muro in publico attaccato.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Gli bisogna a San Pietro andar in fretta;</l> 
+<l>ma perché il cuoco o il spenditor ci manca,</l> 
+<l>che gli sien dietro, gli è la via interdetta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fuori è la mula, o che si duol d’una anca,</l> 
+<l>o che le cingie o che la sella ha rotta,</l> 
+<l>o che da Ripa vien sferrata e stanca.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se con lui fin il guattaro non trotta,</l> 
+<l>non può il misero uscir, che stima incarco</l> 
+<l>il gire e non aver dietro la frotta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non è il suo studio né in Matteo né in Marco,</l> 
+<l>ma specula e contempla a far la spesa</l> 
+<l>sì, che il troppo tirar non spezzi l’arco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— D’uffici, di badie, di ricca chiesa</l> 
+<l>forse adagiato, alcun vive giocondo,</l> 
+<l>che né la stalla, né il tinel gli pesa. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ah! che ‘l disio d’alzarsi il tiene al fondo!</l> 
+<l>Già il suo grado gli spiace, e a quello aspira</l> 
+<l>che dal sommo Pontefice è il secondo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Giugne a quel anco, e la voglia anco il tira</l> 
+<l>al’alta sedia, che d’aver bramata</l> 
+<l>tanto, indarno San Georgio si martira.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Che fia s’avrà la catedra beata?</l> 
+<l>Tosto vorrà gli figli o li nepoti</l> 
+<l>levar da la civil vita privata.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non penserà d’Achivi o d’Epiroti</l> 
+<l>dar lor dominio; non avrà disegno</l> 
+<l>de la Morea o de l’Arta far despòti;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>non cacciarne Ottoman per dar lor regno,</l> 
+<l>ove da tutta Europa avria soccorso</l> 
+<l>e faria del suo ufficio ufficio degno;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma spezzar la Colonna e spegner l’Orso</l> 
+<l>per tòrgli Palestrina e Tagliacozzo,</l> 
+<l>e darli a’ suoi, sarà il primo discorso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E qual strozzato e qual col capo mozzo</l> 
+<l>ne la Marca lasciando et in Romagna,</l> 
+<l>trionferà, del crestian sangue sozzo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Darà l’Italia in preda a Francia o Spagna,</l> 
+<l>che sozzopra voltandola, una parte</l> 
+<l>al suo bastardo sangue ne rimagna.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>L’escomuniche empir quinci le carte,</l> 
+<l>e quindi ministrar si vederanno</l> 
+<l>l’indulgenzie plenarie al fiero Marte.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se ‘l Svizzero condurre o l’Alemanno</l> 
+<l>si dee, bisogna ritrovare i nummi,</l> 
+<l>e tutto al servitor ne viene il danno.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ho sempre inteso e sempre chiaro fummi</l> 
+<l>ch’argento che lor basti non han mai,</l> 
+<l>o veschi a cardinali a Pastor summi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Sia stolto, indòtto, vil, sia peggio assai,</l> 
+<l>farà quel ch’egli vuol, se posto insieme</l> 
+<l>avrà tesoro; e chi baiar vuol, bai.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Perciò li avanzi e le miserie estreme</l> 
+<l>fansi, di che la misera famiglia</l> 
+<l>vive affamata, e grida indarno e freme.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quanto è più ricco, tanto più assottiglia</l> 
+<l>la spesa; che i tre quarti si delibra</l> 
+<l>por da canto di ciò che l’anno piglia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Da le otto oncie per bocca a mezza libra</l> 
+<l>si vien di carne, e al pan di cui la veccia</l> 
+<l>nata con lui, né il loglio fuor si cribra.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Come la carne e il pan, così la feccia</l> 
+<l>del vin si dà, c’ha seco una puntura</l> 
+<l>che più mortal non l’ha spiedo né freccia;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>o ch’egli fila e mostra la paura</l> 
+<l>ch’ebbe, a dar volta, di fiaccarsi il collo,</l> 
+<l>sì che men mal saria ber l’acqua pura.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se la bacchetta pur levar satollo</l> 
+<l>lasciasse il capellan, mi starei cheto,</l> 
+<l>se ben non gusta mai vitel né pollo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— Questo — dirai — può un servitor discreto</l> 
+<l>patir; che quando monsignor suo accresce,</l> 
+<l>accresce anco egli, e n’ha da viver lieto. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma tal speranza a molti non riesce;</l> 
+<l>che, per dar loco alla famiglia nuova,</l> 
+<l>più d’un vecchio d’ufficio e d’onor esce.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Camarer, scalco e secretario truova</l> 
+<l>il signor degni al grado, e n’hai buon patto</l> 
+<l>che dal servizio suo non ti rimova.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quanto ben disse il mulatier quel tratto</l> 
+<l>che, tornando dal bosco, ebbe la sera</l> 
+<l>nuova che ‘l suo padron papa era fatto:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— Che per me stesse cardinal meglio era;</l> 
+<l>ho fin qui auto da cacciar dui muli,</l> 
+<l>or n’avrò tre; che più di me ne spira,</l> 
+</lg> 
+<lg> 
+<l>comperi quanto io n’ho d’aver dui iuli.</l> 
+</lg> 
+</div1> 
+<div1 type="satira"> 
+<head><hi rend="bold">SATIRA III</hi></head> 
+<salute>A Messer Annibale Malagucio</salute> 
+<lg type="terzina"> 
+<l>Poi che, Annibale, intendere vuoi come</l> 
+<l>la fo col duca Alfonso, e s’io mi sento</l> 
+<l>più grave o men de le mutate some;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>perché, s’anco di questo mi lamento,</l> 
+<l>tu mi dirai c’ho il guidalesco rotto,</l> 
+<l>o ch’io son di natura un rozzon lento:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>senza molto pensar, dirò di botto</l> 
+<l>che un peso e l’altro ugualmente mi spiace,</l> 
+<l>e fòra meglio a nessuno esser sotto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dimmi or c’ho rotto il dosso e, se ‘l ti piace,</l> 
+<l>dimmi ch’io sia una rózza, e dimmi peggio:</l> 
+<l>insomma esser non so se non verace.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Che s’al mio genitor, tosto che a Reggio</l> 
+<l>Daria mi partorì, facevo il giuoco</l> 
+<l>che fe’ Saturno al suo ne l’alto seggio,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>sì che di me sol fosse questo poco</l> 
+<l>ne lo qual dieci tra frati e serocchie</l> 
+<l>è bisognato che tutti abbian luoco,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>la pazzia non avrei de le ranocchie</l> 
+<l>fatta già mai, d’ir procacciando a cui</l> 
+<l>scoprirmi il capo e piegar le ginocchie.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma poi che figliolo unico non fui,</l> 
+<l>né mai fu troppo a’ miei Mercurio amico,</l> 
+<l>e viver son sforzato a spese altrui;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>meglio è s’appresso il Duca mi nutrico,</l> 
+<l>che andare a questo e a quel de l’umil volgo</l> 
+<l>accattandomi il pan come mendico.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>So ben che dal parer dei più mi tolgo,</l> 
+<l>che ‘l stare in corte stimano grandezza,</l> 
+<l>ch’io pel contrario a servitù rivolgo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Stiaci volentier dunque chi la apprezza;</l> 
+<l>fuor n’uscirò ben io, s’un dì il figliuolo</l> 
+<l>di Maia vorrà usarmi gentilezza.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non si adatta una sella o un basto solo</l> 
+<l>ad ogni dosso; ad un non par che l’abbia,</l> 
+<l>all’altro stringe e preme e gli dà duolo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Mal può durar il rosignuolo in gabbia,</l> 
+<l>più vi sta il gardelino, e più il fanello;</l> 
+<l>la rondine in un dì vi mor di rabbia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Chi brama onor di sprone o di capello,</l> 
+<l>serva re, duca, cardinale o papa;</l> 
+<l>io no, che poco curo questo e quello.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>In casa mia mi sa meglio una rapa</l> 
+<l>ch’io cuoca, e cotta s’un stecco me inforco,</l> 
+<l>e mondo, e spargo poi di acetto e sapa,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che all’altrui mensa tordo, starna o porco</l> 
+<l>selvaggio; e così sotto una vil coltre,</l> 
+<l>come di seta o d’oro, ben mi corco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E più mi piace di posar le poltre</l> 
+<l>membra, che di vantarle che alli Sciti</l> 
+<l>sien state, agli Indi, alli Etiopi, et oltre.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Degli uomini son varii li appetiti:</l> 
+<l>a chi piace la chierca, a chi la spada,</l> 
+<l>a chi la patria, a chi li strani liti.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Chi vuole andare a torno, a torno vada:</l> 
+<l>vegga Inghelterra, Ongheria, Francia e Spagna;</l> 
+<l>a me piace abitar la mia contrada.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Visto ho Toscana, Lombardia, Romagna,</l> 
+<l>quel monte che divide e quel che serra</l> 
+<l>Italia, e un mare e l’altro che la bagna.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Questo mi basta; il resto de la terra,</l> 
+<l>senza mai pagar l’oste, andrò cercando</l> 
+<l>con Ptolomeo, sia il mondo in pace o in guerra;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e tutto il mar, senza far voti quando</l> 
+<l>lampeggi il ciel, sicuro in su le carte</l> 
+<l>verrò, più che sui legni, volteggiando.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il servigio del Duca, da ogni parte</l> 
+<l>che ci sia buona, più mi piace in questa:</l> 
+<l>che dal nido natio raro si parte.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Per questo i studi miei poco molesta,</l> 
+<l>né mi toglie onde mai tutto partire</l> 
+<l>non posso, perché il cor sempre ci resta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Parmi vederti qui ridere e dire</l> 
+<l>che non amor di patria né de studi,</l> 
+<l>ma di donna è cagion che non voglio ire.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Liberamente te ‘l confesso: or chiudi</l> 
+<l>la bocca, che a difender la bugia</l> 
+<l>non volli prender mai spada né scudi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Del mio star qui qual la cagion si sia,</l> 
+<l>io ci sto volentier; ora nessuno</l> 
+<l>abbia a cor più di me la cura mia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>S’io fossi andato a Roma, dirà alcuno,</l> 
+<l>a farmi uccellator de benefici,</l> 
+<l>preso ala rete n’avrei già più d’uno;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>tanto più ch’ero degli antiqui amici</l> 
+<l>del papa, inanzi che virtude o sorte</l> 
+<l>lo sublimasse al sommo degli uffici;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e prima che gli aprissero le porte</l> 
+<l>i Fiorentini, quando il suo Giuliano,</l> 
+<l>si riparò ne la feltresca corte,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ove col formator del cortigiano,</l> 
+<l>col Bembo e gli altri sacri al divo Appollo,</l> 
+<l>facea l’essilio suo men duro e strano;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e dopo ancor, quando levaro il collo</l> 
+<l>Medici ne la patria, e il Gonfalone,</l> 
+<l>fuggendo del Palazzo, ebbe il gran crollo;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e fin che a Roma se andò a far Leone,</l> 
+<l>io gli fui grato sempre, e in apparenza</l> 
+<l>mostrò amar più di me poche persone;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e più volte, e Legato et in Fiorenza,</l> 
+<l>mi disse che al bisogno mai non era</l> 
+<l>per far da me al fratello suo differenza.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Per questo parrà altrui cosa leggiera</l> 
+<l>che, stando io a Roma, già m’avesse posta</l> 
+<l>la cresta dentro verde e di fuor nera.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>A chi parrà così farò risposta</l> 
+<l>con uno essempio: leggilo, che meno</l> 
+<l>leggerlo a te, che a me scriverlo, costa.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Una stagion fu già, che sì il terreno</l> 
+<l>arse, che ‘l Sol di nuovo a Faetonte</l> 
+<l>de’ suoi corsier parea aver dato il freno;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>secco ogni pozzo, secca era ogni fonte;</l> 
+<l>li rivi e i stagni e i fiumi più famosi</l> 
+<l>tutti passar si potean senza ponte.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>In quel tempo, d’armenti e de lanosi</l> 
+<l>greggi io non so s’i’ dico ricco o grave,</l> 
+<l>era un pastor fra gli altri bisognosi,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che poi che l’acqua per tutte le cave</l> 
+<l>cercò indarno, si volse a quel Signore</l> 
+<l>che mai non suol fraudar chi in lui fede have;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>et ebbe lume e inspirazion di core,</l> 
+<l>ch’indi lontano troveria, nel fondo</l> 
+<l>di certa valle, il desiato umore.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Con moglie e figli e con ciò ch’avea al mondo</l> 
+<l>là si condusse, e con gli ordegni suoi</l> 
+<l>l’acqua trovò, né molto andò profondo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E non avendo con che attinger poi,</l> 
+<l>se non un vase picciolo et angusto,</l> 
+<l>disse: — Che mio sia il primo non ve annoi;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>di mógliema il secondo; e ‘l terzo è giusto</l> 
+<l>che sia de’ figli, e il quarto, e fin che cessi</l> 
+<l>l’ardente sete onde è ciascuno adusto:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>li altri vo’ ad un ad un che sien concessi,</l> 
+<l>secondo le fatiche, alli famigli</l> 
+<l>che meco in opra a far il pozzo messi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Poi su ciascuna bestia si consigli,</l> 
+<l>che di quelle che a perderle è più danno</l> 
+<l>inanzi all’altre la cura si pigli. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Con questa legge un dopo l’altro vanno</l> 
+<l>a bere; e per non essere i sezzai,</l> 
+<l>tutti più grandi i lor meriti fanno.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Questo una gazza, che già amata assai</l> 
+<l>fu dal padrone et in delizie avuta,</l> 
+<l>vedendo et ascoltando, gridò: — Guai!</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Io non gli son parente, né venuta</l> 
+<l>a fare il pozzo, né di più guadagno</l> 
+<l>gli son per esser mai ch’io gli sia suta;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>veggio che dietro ali altri mi rimagno:</l> 
+<l>morò di sete, quando non procacci</l> 
+<l>di trovar per mio scampo altro rigagno. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Cugin, con questo essempio vuo’ che spacci</l> 
+<l>quei che credon che ‘l Papa porre inanti</l> 
+<l>mi debba a Neri, a Vanni, a Lotti e a Bacci.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Li nepoti e i parenti, che son tanti,</l> 
+<l>prima hanno a ber; poi quei che lo aiutaro</l> 
+<l>a vestirsi il più bel de tutti i manti.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Bevuto ch’abbian questi, gli fia caro</l> 
+<l>che beano quei che contra il Soderino</l> 
+<l>per tornarlo in Firenze si levaro.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>L’un dice: — Io fui con Pietro in Casentino,</l> 
+<l>e d’esser preso e morto a risco venni. —</l> 
+<l>— Io gli prestai danar —, grida Brandino.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dice un altro: — A mie spese il frate tenni</l> 
+<l>uno anno, e lo rimessi in veste e in arme,</l> 
+<l>di cavallo e d’argento gli sovenni. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se, fin che tutti beano, aspetto a trarme</l> 
+<l>la voluntà di bere, o me di sete,</l> 
+<l>o secco il pozzo d’acqua veder parme.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Meglio è star ne la solita quiete,</l> 
+<l>che provar se gli è ver che qualunque erge</l> 
+<l>Fortuna in alto, il tuffa prima in Lete.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma sia ver, se ben li altri vi sommerge,</l> 
+<l>che costui sol non accostasse al rivo</l> 
+<l>che del passato ogni memoria absterge.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Testimonio sono io di quel ch’io scrivo:</l> 
+<l>ch’io non l’ho ritrovato, quando il piede</l> 
+<l>gli baciai prima, di memoria privo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Piegossi a me da la beata sede;</l> 
+<l>la mano e poi le gote ambe mi prese,</l> 
+<l>e il santo bacio in amendue mi diede.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Di mezzo quella bolla anco cortese</l> 
+<l>mi fu, de la quale ora il mio Bibiena</l> 
+<l>espedito m’ha il resto alle mie spese.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Indi col seno e con la falda piena</l> 
+<l>di speme, ma di pioggia molle e brutto,</l> 
+<l>la notte andai sin al Montone a cena.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Or sia vero che ‘l Papa attenga tutto</l> 
+<l>ciò che già offerse, e voglia di quel seme</l> 
+<l>che già tanti anni i’ sparsi, or darmi il frutto;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>sie ver che tante mitre e diademe</l> 
+<l>mi doni, quante Iona di Cappella</l> 
+<l>ala messa papal non vede insieme:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>sia ver che d’oro m’empia la scarsella,</l> 
+<l>e le maniche e il grembio, e, se non basta,</l> 
+<l>m’empia la gola, il ventre e le budella;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>serà per questo piena quella vasta</l> 
+<l>ingordigia d’aver? rimarrà sazia</l> 
+<l>per ciò la sitibonda mia cerasta?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dal Marocco al Catai, dal Nilo in Dazia,</l> 
+<l>non che a Roma, anderò, se di potervi</l> 
+<l>saziare i desiderii impetro grazia;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma quando cardinale, o de li servi</l> 
+<l>io sia il gran Servo, e non ritrovino anco</l> 
+<l>termine i desiderii miei protervi,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>in ch’util mi risulta essermi stanco</l> 
+<l>in salir tanti gradi? meglio fòra</l> 
+<l>starmi in riposo o affaticarmi manco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Nel tempo ch’era nuovo il mondo ancora</l> 
+<l>e che inesperta era la gente prima</l> 
+<l>e non eran l’astuzie che sono ora,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>a piè d’un alto monte, la cui cima</l> 
+<l>parea toccassi il cielo, un popul, quale</l> 
+<l>non so mostrar, vivea ne la val ima;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che più volte osservando la inequale</l> 
+<l>luna, or con corna or senza, or piena or scema,</l> 
+<l>girar il cielo al corso naturale;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e credendo poter da la suprema</l> 
+<l>parte del monte giungervi, e vederla</l> 
+<l>come si accresca e come in sé si prema;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>chi con canestro e chi con sacco per la</l> 
+<l>montagna cominciar correr in su,</l> 
+<l>ingordi tutti a gara di volerla.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Vedendo poi non esser giunti più</l> 
+<l>vicini a lei, cadeano a terra lassi,</l> 
+<l>bramando in van d’esser rimasi giù.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quei ch’alti li vedean dai poggi bassi,</l> 
+<l>credendo che toccassero la luna,</l> 
+<l>dietro venian con frettolosi passi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Questo monte è la ruota di Fortuna,</l> 
+<l>ne la cui cima il volgo ignaro pensa</l> 
+<l>ch’ogni quiete sia, né ve n’è alcuna.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se ne l’onor si trova o ne la immensa</l> 
+<l>ricchezza il contentarsi, i’ loderei</l> 
+<l>non aver, se non qui, la voglia intensa;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma se vediamo i papi e i re, che dèi</l> 
+<l>stimiamo in terra, star sempre in travaglio,</l> 
+<l>che sia contento in lor dir non potrei.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se di ricchezze al Turco, e s’io me agguaglio</l> 
+<l>di dignitate al Papa, et ancor brami</l> 
+<l>salir più in alto, mal me ne prevaglio;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>convenevole è ben ch’i’ ordisca e trami</l> 
+<l>di non patire alla vita disagio,</l> 
+<l>che più di quanto ho al mondo è ragion ch’io ami.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma se l’uomo è sì ricco che sta ad agio</l> 
+<l>di quel che la natura contentarse</l> 
+<l>dovria, se fren pone al desir malvagio;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che non digiuni quando vorria trarse</l> 
+<l>l’ingorda fame, et abbia fuoco e tetto</l> 
+<l>se dal freddo o dal sol vuol ripararse;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>né gli convenga andare a piè, se astretto</l> 
+<l>è di mutar paese; et abbia in casa</l> 
+<l>chi la mensa apparecchi e acconci il letto,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che mi può dare o mezza o tutta rasa</l> 
+<l>la testa più di questo? ci è misura</l> 
+<l>di quanto puon capir tutte le vasa.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Convenevole è ancor che s’abbia cura</l> 
+<l>de l’onor suo; ma tal che non divenga</l> 
+<l>ambizione e passi ogni misura.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il vero onore è ch’uom da ben te tenga</l> 
+<l>ciascuno, e che tu sia; che, non essendo,</l> 
+<l>forza è che la bugia tosto si spenga.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Che cavalliero o conte o reverendo</l> 
+<l>il populo te chiami, io non te onoro,</l> 
+<l>se meglio in te che ‘l titol non comprendo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Che gloria ti è vestir di seta e d’oro,</l> 
+<l>e, quando in piazza appari o ne la chiesa,</l> 
+<l>ti si lievi il capuccio il popul soro;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>poi dica dietro: — Ecco che diede presa</l> 
+<l>per danari a’ Francesi Porta Giove</l> 
+<l>che il suo signor gli avea data in difesa —?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quante collane, quante cappe nuove</l> 
+<l>per dignità si comprano, che sono</l> 
+<l>publici vituperii in Roma e altrove!</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Vestir di romagnuolo et esser bono,</l> 
+<l>al vestir d’oro et aver nota o macchia</l> 
+<l>di baro o traditor sempre prepono.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Diverso al mio parere il Bomba gracchia,</l> 
+<l>e dice: — Abb’io pur roba, e sia l’acquisto</l> 
+<l>o venuto pel dado o per la macchia:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>sempre ricchezze riverire ho visto</l> 
+<l>più che virtù; poco il mal dir mi nòce:</l> 
+<l>se riniega anco e si biastemia Cristo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— Pian piano, Bomba; non alzar la voce:</l> 
+<l>biastemian Cristo li uomini ribaldi,</l> 
+<l>peggior di quei che lo chiavaro in croce;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma li onesti e li buoni dicon mal di</l> 
+<l>te, e dicon ver; che carte false e dadi</l> 
+<l>ti dànno i beni c’hai, mobili e saldi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E tu dài lor da dirlo, perché radi</l> 
+<l>più di te in questa terra straccian tele</l> 
+<l>d’oro e broccati e veluti e zendadi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quel che devresti ascondere, rivele:</l> 
+<l>a’ furti tuoi, che star dovrian di piatto,</l> 
+<l>per mostrar meglio, allumi le candele:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e dài materia ch’ogni savio e matto</l> 
+<l>intender vuol come ville e palazzi</l> 
+<l>dentro e di fuori in sì pochi anni hai fatto,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e come così vesti e così sguazzi;</l> 
+<l>e rispondere è forza, e a te è avviso</l> 
+<l>esser grande uomo, e dentro ne gavazzi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Pur che non se lo veggia dire in viso,</l> 
+<l>non stima il Borna che sia biasmo, s’ode</l> 
+<l>mormorar dietro che abbia il frate ucciso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se bene è stato in bando un pezzo, or gode</l> 
+<l>l’ereditate in pace, e chi gli agogna</l> 
+<l>mal, freme indarno e indarno se ne rode.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quello altro va se stesso a porre in gogna</l> 
+<l>facendosi veder con quella aguzza</l> 
+<l>mitra acquistata con tanta vergogna.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non avendo più pel d’una cuccuzza,</l> 
+<l>ha meritato con brutti servigi</l> 
+<l>la dignitate e ‘l titolo che puzza</l> 
+</lg> 
+<lg> 
+<l>a’ spirti umani, alli celesti e a’ stigi.</l> 
+</lg> 
+</div1> 
+<div1 type="satira"> 
+<head><hi rend="bold">SATIRA IV</hi></head> 
+<salute>A Messer Sismondo Malegucio</salute> 
+<lg type="terzina"> 
+<l>Il vigesimo giorno di febraio</l> 
+<l>chiude oggi l’anno che da questi monti,</l> 
+<l>che dànno a’ Toschi il vento di rovaio,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>qui scesi, dove da diversi fonti</l> 
+<l>con eterno rumor confondon l’acque</l> 
+<l>la Tùrrita col Serchio fra duo ponti;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>per custodir, come al signor mio piacque,</l> 
+<l>il gregge grafagnin, che a lui ricorso</l> 
+<l>ebbe, tosto che a Roma il Leon giacque;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che spaventato e messo in fuga e morso</l> 
+<l>gli l’avea dianzi, e l’avria mal condotto</l> 
+<l>se non venia dal ciel iusto soccorso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E questo in tanto tempo è il primo motto</l> 
+<l>ch’io fo alle dee che guardano la pianta</l> 
+<l>de le cui frondi io fui già così giotto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>La novità del loco è stata tanta</l> 
+<l>c’ho fatto come augel che muta gabbia,</l> 
+<l>che molti giorni resta che non canta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Maleguzzo cugin, che tacciuto abbia</l> 
+<l>non ti maravigliar, ma maraviglia</l> 
+<l>abbi che morto io non sia ormai di rabbia</l> 
+</lg> 
+<lg type="terzina"> 
+<l>vedendomi lontan cento e più miglia,</l> 
+<l>e da neve, alpe, selve e fiumi escluso</l> 
+<l>da chi tien del mio cor sola la briglia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Con altre cause e più degne mi escuso</l> 
+<l>con gli altri amici, a dirti il ver; ma teco</l> 
+<l>liberamente il mio peccato accuso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Altri a chi lo dicessi, un occhio bieco</l> 
+<l>mi volgerebbe a dosso, e un muso stretto:</l> 
+<l>— Guata poco cervel! — poi diria seco</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— degno uom da chi esser debbia un popul retto,</l> 
+<l>uom che poco lontan da cinquanta anni</l> 
+<l>vaneggi nei pensier di giovinetto! —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E direbbe il Vangel di san Giovanni;</l> 
+<l>che, se ben erro, pur non son sì losco</l> 
+<l>che ‘l mio error non conosca e ch’io nol danni.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma che giova s’io ‘l danno e s’io ‘l conosco,</l> 
+<l>se non ci posso riparar, né truovi</l> 
+<l>rimedio alcun che spenga questo tòsco?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tu forte e saggio, che a tua posta muovi</l> 
+<l>questi affetti da te, che in noi, nascendo,</l> 
+<l>natura affige con sì saldi chiovi!</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fisse in me questo, e forse non sì orrendo</l> 
+<l>come in alcun c’ha di me tanta cura</l> 
+<l>chi non può tolerar ch’io non mi emendo;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e fa come io so alcun, che dice e giura</l> 
+<l>che quello e questo è becco, e quanto lungo</l> 
+<l>sia il cimer del suo capo non misura.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Io non uccido, io non percuoto o pungo,</l> 
+<l>io non do noia altrui, se ben mi dolgo</l> 
+<l>che da chi meco è sempre io mi dilungo:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>perciò non dico né a difender tolgo</l> 
+<l>che non sia fallo il mio; ma non sì grave</l> 
+<l>che di via più non me perdoni il volgo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Con manco ranno il volgo, non che lave</l> 
+<l>maggior macchia di questa, ma sovente</l> 
+<l>titolo al vizio di virtù dato have.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ermilian sì del dannaio ardente</l> 
+<l>come d’Alessio il Gianfa, e che lo brama</l> 
+<l>ogni ora, in ogni loco, da ogni gente,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>né amico né fratel né se stesso ama:</l> 
+<l>uomo d’industria, uomo di grande ingegno,</l> 
+<l>di gran governo e gran valor si chiama.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Gonfia Rinieri, et ha il suo grado a sdegno;</l> 
+<l>esser gli par quel che non è, e più inanzi</l> 
+<l>che in tre salti ir non può si mette il segno.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non vuol che in ben vestire altro lo avanzi;</l> 
+<l>spenditor, scalco, falconiero, cuoco,</l> 
+<l>vuol chi lo scalzi, chi gli tagli inanzi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Oggi uno e diman vende un altro loco;</l> 
+<l>quel che in molti anni acquistar gli avi e i patri</l> 
+<l>getta a man piene, e non a poco a poco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Costui non è chi morda o che gli latri,</l> 
+<l>ma liberal, magnanimo si noma</l> 
+<l>fra li volgar giudici oscuri et atri.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Solonnio di facende sì gran soma</l> 
+<l>tolle a portar, che ne saria già morto</l> 
+<l>il più forte somier che vada a Roma.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tu ‘l vedi in Banchi, alla dogana, al porto,</l> 
+<l>in Camera apostolica, in Castello,</l> 
+<l>da un ponte all’altro a un volgier d’occhi sorto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Si stilla notte e dì sempre il cervello,</l> 
+<l>come al Papa ognor dia freschi guadagni</l> 
+<l>con novi dazii e multe e con balzello.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Gode fargli saper che se ne lagni</l> 
+<l>e dica ognun che all’util del padrone</l> 
+<l>non riguardi parenti né compagni.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il popul l’odia, et ha di odiar ragione,</l> 
+<l>se di ogni mal che la città flagella</l> 
+<l>gli è ver ch’egli sia il capo e la cagione.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E pur grande e magnifico se appella,</l> 
+<l>né senza prima discoprirsi il capo</l> 
+<l>il nobile o il plebeo mai gli favella.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Laurin si fa de la sua patria capo,</l> 
+<l>et in privato il publico converte;</l> 
+<l>tre ne confina, a sei ne taglia il capo;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>comincia volpe, indi con forze aperte</l> 
+<l>escie leon, poi c’ha ‘l popul sedutto</l> 
+<l>con licenze, con doni e con offerte:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>l’iniqui alzando, e deprimendo in lutto</l> 
+<l>li buoni, acquista titolo di saggio,</l> 
+<l>di furti, stupri e d’omicidi brutto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Così dà onore a chi dovrebbe oltraggio,</l> 
+<l>né sa da colpa a colpa scerner l’orbo</l> 
+<l>giudizio, a cui non mostra il sol mai raggio;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e stima il corbo cigno e il cigno corbo;</l> 
+<l>se sentisse ch’io amassi, faria un viso</l> 
+<l>come mordesse allora allora un sorbo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dica ogniun come vuole, e siagli aviso</l> 
+<l>quel che gli par: in somma ti confesso</l> 
+<l>che qui perduto ho il canto, il gioco, il riso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Questa è la prima; ma molt’altre appresso</l> 
+<l>e molt’altre ragion posso allegarte,</l> 
+<l>che da le dee m’ha tolto di Parmesso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Già mi fur dolci inviti a empir le carte</l> 
+<l>li luoghi ameni di che il nostro Reggio,</l> 
+<l>il natio nido mio, n’ha la sua parte.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il tuo Maurician sempre vagheggio,</l> 
+<l>la bella stanza, il Rodano vicino,</l> 
+<l>da le Naiade amato ombroso seggio,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>il lucido vivaio onde il giardino</l> 
+<l>si cinge intorno, il fresco rio che corre,</l> 
+<l>rigando l’erbe, ove poi fa il molino;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>non mi si può de la memoria tòrre</l> 
+<l>le vigne e i solchi del fecondo Iaco,</l> 
+<l>la valle e il colle e la ben posta tórre.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Cercando or questo et or quel loco opaco,</l> 
+<l>quivi in più d’una lingua e in più d’un stile</l> 
+<l>rivi traea sin dal gorgoneo laco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Erano allora gli anni miei fra aprile</l> 
+<l>e maggio belli, ch’or l’ottobre dietro</l> 
+<l>si lasciano, e non pur luglio e sestile.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma né d’Ascra potrian né di Libetro</l> 
+<l>l’amene valli, senza il cor sereno,</l> 
+<l>far da me uscir iocunda rima o metro.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dove altro albergo era di questo meno</l> 
+<l>conveniente a i sacri studi, vuoto</l> 
+<l>d’ogni iocundità, d’ogni orror pieno?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>La nuda Pania tra l’Aurora e il Noto,</l> 
+<l>da l’altre parti il giogo mi circonda</l> 
+<l>che fa d’un Pellegrin la gloria noto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Questa è una fossa, ove abito, profonda,</l> 
+<l>donde non muovo piè senza salire</l> 
+<l>del silvoso Apennin la fiera sponda.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>O stiami in Rocca o voglio all’aria uscire,</l> 
+<l>accuse e liti sempre e gridi ascolto,</l> 
+<l>furti, omicidii, odi, vendette et ire;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>sì che or con chiaro or con turbato volto</l> 
+<l>convien che alcuno prieghi, alcun minacci,</l> 
+<l>altri condanni, altri ne mandi assolto;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ch’ogni dì scriva et empia fogli e spacci,</l> 
+<l>al Duca or per consiglio or per aiuto,</l> 
+<l>sì che i ladron, c’ho d’ogni intorno, scacci.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Déi saper la licenzia in che è venuto</l> 
+<l>questo paese, poi che la Pantera,</l> 
+<l>indi il Leon l’ha fra gli artigli avuto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Qui vanno li assassini in sì gran schiera</l> 
+<l>ch’un’altra, che per prenderli ci è posta,</l> 
+<l>non osa trar del sacco la bandiera.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Saggio chi dal Castel poco si scosta!</l> 
+<l>Ben scrivo a chi più tocca, ma non torna</l> 
+<l>secondo ch’io vorrei mai la risposta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ogni terra in se stessa alza le corna,</l> 
+<l>che sono ottantatre, tutte partite</l> 
+<l>da la sedizion che ci soggiorna.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Vedi or se Appollo, quando io ce lo invite,</l> 
+<l>vorrà venir, lasciando Delfo e Cinto,</l> 
+<l>in queste grotte a sentir sempre lite.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dimandar mi potreste chi m’ha spinto</l> 
+<l>dai dolci studi e compagnia sì cara</l> 
+<l>in questo rincrescevol labirinto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tu déi saper che la mia voglia avara</l> 
+<l>unqua non fu, ch’io solea star contento</l> 
+<l>di quel stipendio che traea a Ferrara;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma non sai forse come uscì poi lento,</l> 
+<l>succedendo la guerra, e come volse</l> 
+<l>il Duca che restasse in tutto spento.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fin che quella durò, non me ne dolse;</l> 
+<l>mi dolse di veder che poi la mano</l> 
+<l>chiusa restò, ch’ogni timor si sciolse.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tanto più che l’ufficio di Melano,</l> 
+<l>poi che le leggi ivi tacean fra l’armi,</l> 
+<l>bramar gli affitti suoi mi facea invano.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ricorsi al Duca: — O voi, signor, levarmi</l> 
+<l>dovete di bisogno, o non vi incresca</l> 
+<l>ch’io vada altra pastura a procacciarmi. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Grafagnini in quel tempo, essendo fresca</l> 
+<l>la lor rivoluzion, che spinto fuori</l> 
+<l>avean Marzocco a procacciar d’altra ésca,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>con lettere frequenti e imbasciatori</l> 
+<l>replicavano al Duca, e facean fretta</l> 
+<l>d’aver lor capi e lor usati onori.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fu di me fatta una improvisa eletta,</l> 
+<l>o forse perché il termine era breve</l> 
+<l>di consigliar chi pel miglior si metta,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>o pur fu appresso il mio signor più leve</l> 
+<l>il bisogno de’ sudditi che il mio,</l> 
+<l>di ch’obligo gli ho quanto se gli deve.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Obligo gli ho del buon voler, più ch’io</l> 
+<l>mi contenti del dono, il quale è grande,</l> 
+<l>ma non molto conforme al mio desio.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Or se di me a questi omini dimande,</l> 
+<l>potrian dir che bisogno era di asprezza,</l> 
+<l>non di clemenzia, all’opre lor nefande.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Come né in me, così né contentezza</l> 
+<l>è forse in lor; io per me son quel gallo</l> 
+<l>che la gemma ha trovata e non l’apprezza.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Son come il Veneziano, a cui il cavallo</l> 
+<l>di Mauritania in eccellenzia buono</l> 
+<l>donato fu dal re di Portogallo;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>il qual, per aggradir il real dono,</l> 
+<l>non discernendo che mistier diversi</l> 
+<l>volger temoni e regger briglie sono,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>sopra vi salse, e cominciò a tenersi</l> 
+<l>con mani al legno e co’sproni ala pancia:</l> 
+<l>— Non vuò — seco dicea — che tu mi versi. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Sente il cavallo pungersi, e si lancia;</l> 
+<l>e ‘l buon nocchier più allora preme e stringe</l> 
+<l>lo sprone al fianco, aguzzo più che lancia,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e di sangue la bocca e il fren gli tinge:</l> 
+<l>non sa il cavallo a chi ubedire, o a questo</l> 
+<l>che ‘l torna indietro, o a quel che l’urta e spinge;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>pur se ne sbriga in pochi salti presto.</l> 
+<l>Rimane in terra il cavallier col fianco,</l> 
+<l>co la spalla e col capo rotto e pesto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tutto di polve e di paura bianco</l> 
+<l>si levò al fin, dal re mal satisfatto,</l> 
+<l>e lungamente poi si ne dolse anco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Meglio avrebbe egli, et io meglio avrei fatto,</l> 
+<l>egli il ben del cavallo, io del paese,</l> 
+<l>a dir: — O re, o signor, non ci sono atto;</l> 
+</lg> 
+<lg> 
+<l>sie pur a un altro di tal don cortese. —</l> 
+</lg> 
+</div1> 
+<div1 type="satira"> 
+<head><hi rend="bold">SATIRA V</hi></head> 
+<salute>A Messer Annibale Malegucio</salute> 
+<lg type="terzina"> 
+<l>Da tutti li altri amici, Annibale, odo,</l> 
+<l>fuor che da te, che sei per pigliar moglie:</l> 
+<l>mi duol che ‘l celi a me, che ‘l facci lodo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Forse mel celi perché alle tue voglie</l> 
+<l>pensi che oppor mi debbia, come io danni,</l> 
+<l>non l’avendo tolta io, s’altri la toglie.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se pensi di me questo, tu te inganni:</l> 
+<l>ben che senza io ne sia, non però accuso</l> 
+<l>se Piero l’ha, Martin, Polo e Giovanni.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Mi duol di non l’avere, e me ne iscuso</l> 
+<l>sopra varii accidenti che lo effetto</l> 
+<l>sempre dal buon voler tennero escluso;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma fui di parer sempre, e così detto</l> 
+<l>l’ho più volte, che senza moglie a lato</l> 
+<l>non puote uomo in bontade esser perfetto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Né senza si può star senza peccato;</l> 
+<l>che chi non ha del suo, fuor accattarne,</l> 
+<l>mendicando o rubandolo, è sforzato;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e chi s’usa a beccar de l’altrui carne,</l> 
+<l>diventa giotto, et oggi tordo o quaglia,</l> 
+<l>diman fagiani, uno altro dì vuol starne;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>non sa quel che sia amor, non sa che vaglia</l> 
+<l>la caritade: e quindi avien che i preti</l> 
+<l>sono sì ingorda e sì crudel canaglia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Che lupi sieno e che asini indiscreti</l> 
+<l>mel dovreste saper dir voi da Reggio,</l> 
+<l>se già il timor non vi tenesse cheti.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma senza che ‘l dicate, io me ne aveggio;</l> 
+<l>de la ostinata Modona non parlo,</l> 
+<l>che, tutto che stia mal, merta star peggio.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Pigliala, se la vuoi; fa, se déi farlo;</l> 
+<l>e non voler, come il dottor Buonleo,</l> 
+<l>ala estrema vecchiezza prolungarlo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quella età più al servizio di Lieo</l> 
+<l>che di Vener conviensi: si dipinge</l> 
+<l>giovane fresco, e non vecchio, Imeneo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il vecchio, allora che ‘l desir lo spinge,</l> 
+<l>di sé prosume e spera far gran cose;</l> 
+<l>si sganna poi che al paragon si stringe.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non voglion rimaner però le spose</l> 
+<l>nel danno; sempre ci è mano adiutrice</l> 
+<l>che soviene alle pover’ bisognose.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E se non fosse ancor, pur ognun dice</l> 
+<l>che gli è così: non pòn fuggir la fama,</l> 
+<l>più che del ver, del falso relatrice,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>la qual patisce mal chi l’onor ama;</l> 
+<l>ma questa passion debole e nulla,</l> 
+<l>verso un’altra maggior, ser Iorio chiama.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— Peggio è — dice — vedersi un ne la culla,</l> 
+<l>e per casa giocando ir duo bambini,</l> 
+<l>e poco prima nata una fanciulla:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>et esser di sua età giunto a’ confini,</l> 
+<l>e non aver che doppo sé lor mostri</l> 
+<l>la via del bene, e non li fraudi e uncini. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Pigliala, e non far come alcuni nostri</l> 
+<l>gentiluomini fanno, e molti féro,</l> 
+<l>ch’or giaccion per le chiese e per li chiostri:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>di mai non la pigliar fu il lor pensiero,</l> 
+<l>per non aver figliuoli che far pezzi</l> 
+<l>debbian di quel che a pena basta intiero.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quel che acerbi non fér, maturi e mézzi</l> 
+<l>fan poi con biasmo: truovan ne le ville</l> 
+<l>e ne le cucine anco a chi far vezzi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Nascono figli e crescon le faville,</l> 
+<l>et al fin, pusillanimi e bugiardi,</l> 
+<l>s’inducono a sposar villane e ancille,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>perché i figli non restino bastardi.</l> 
+<l>Quindi è falsificato di Ferrara</l> 
+<l>in gran parte il buon sangue, se ben guardi;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>quindi la gioventù vedi sì rara</l> 
+<l>che le virtudi e li bei studi, e molta</l> 
+<l>che degli avi materni i stili impara.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Cugin, fai bene a tòr moglier; ma ascolta:</l> 
+<l>pensaci prima; non varrà poi dire</l> 
+<l>di non, s’avrai di sì detto una volta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>In questo il mio consiglio proferire</l> 
+<l>ti vuo’, e mostrar, se ben non lo richiedi,</l> 
+<l>quel che tu déi cercar, quel che fuggire.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tu ti ridi di me forse, e non vedi</l> 
+<l>come io ti possa consigliar, ch’avuto</l> 
+<l>non ho in tal nodo mai collo né piedi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non hai, quando dui giocano, veduto</l> 
+<l>che quel che sta a vedere ha meglio spesso</l> 
+<l>ciò che s’ha a far, che ‘l giocator, saputo?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se tu vedi che tocchi, o vada appresso</l> 
+<l>il segno il mio parer, dàgli il consenso;</l> 
+<l>se non, riputal sciocco, e me con esso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma prima ch’io ti mostri altro compenso,</l> 
+<l>t’avrei da dir che, se amorosa face</l> 
+<l>ti fa pigliar moglier, che segui il senso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ogni virtude è in lei, s’ella ti piace:</l> 
+<l>so ben che né orator latin, né greco,</l> 
+<l>saria a dissuadertilo efficace.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Io non son per mostrar la strada a un cieco;</l> 
+<l>ma se tu il bianco e il rosso e il ner comprendi,</l> 
+<l>essamina il consiglio ch’io te arreco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tu che vuoi donna, con gran studio intendi</l> 
+<l>qual sia stata e qual sia la madre, e quali</l> 
+<l>sien le sorelle, s’al’onore attendi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>S’in cavalli, se ‘n boi, se ‘n bestie tali</l> 
+<l>guardian le razze, che faremo in questi,</l> 
+<l>che son fallaci più ch’altri animali?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Di vacca nascer cerva non vedesti,</l> 
+<l>né mai colomba d’aquila, né figlia</l> 
+<l>di madre infame di costumi onesti.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Oltre che il ramo al ceppo s’assimiglia,</l> 
+<l>il dimestico essempio, che le aggira</l> 
+<l>pel capo sempre, ogni bontà sgombiglia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se la madre ha duo amanti, ella ne mira</l> 
+<l>a quattro e a cinque, e spesso a più di sei,</l> 
+<l>et a quanti più può la rete tira:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e questo per mostrar che men di lei</l> 
+<l>non è leggiadra, e non le fur del dono</l> 
+<l>de la beltà men liberali i dèi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Saper la balia e le compagne è buono:</l> 
+<l>se appresso il padre sia nodrita o in corte,</l> 
+<l>al fuso, all’ago, o pur in canto e in suono.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non cercar chi più dote, o chi ti porte</l> 
+<l>titoli e fumi e più nobil parenti</l> 
+<l>che al tuo aver si convenga e alla tua sorte;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ché difficil sarà, se non ha venti</l> 
+<l>donne poi dietro e staffieri e un ragazzo</l> 
+<l>che le sciorini il cul, tu la contenti.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Vorrà una nana, un bufoncello, un pazzo,</l> 
+<l>e compagni da tavola e da giuoco</l> 
+<l>che tutto il dì la tengano in solazzo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Né tòr di casa il piè, né mutar loco</l> 
+<l>vorrà senza carretta; ben ch’io stimi,</l> 
+<l>fra tante spese, questa spesa poco:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che se tu non la fai, che sei de’ primi</l> 
+<l>e di sangue e d’aver ne la tua terra,</l> 
+<l>non la farà già quei che son degli imi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E se mattina e sera ondeggiando erra</l> 
+<l>con cavalli a vettura la Giannicca,</l> 
+<l>che farà chi del suo li pasce e ferra?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma se l’altre n’han dui, ne vuol la ricca</l> 
+<l>quattro; se le compiaci, più che ‘l conte</l> 
+<l>Rinaldo mio la te aviluppa e ficca;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>se le contrasti, pon la pace a monte,</l> 
+<l>e come Ulisse al canto, tu l’orecchia</l> 
+<l>chiudi a pianti, a lamenti, a gridi et onte;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma non le dir oltraggio, o t’apparecchia</l> 
+<l>cento udirne per uno, e che ti punga</l> 
+<l>più che punger non suol vespe né pecchia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Una che ti sia ugual teco si giunga,</l> 
+<l>che por non voglia in casa nuove usanze,</l> 
+<l>né più del grado aver la coda lunga.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non la vuo’ tal che di bellezze avanze</l> 
+<l>l’altre, e sia in ogni invito, e sempre vada</l> 
+<l>capo di schiera per tutte le danze.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fra bruttezza e beltà truovi una strada</l> 
+<l>dove è gran turba, né bella né brutta,</l> 
+<l>che non t’ha da spiacer, se non te aggrada.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Che quindi esce, a man ritta truova tutta</l> 
+<l>la gente bella, e dal contrario canto</l> 
+<l>quanta bruttezza ha il mondo esser ridutta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quinci più sozze, e poi più sozze quanto</l> 
+<l>tu vai più inanzi; e quindi truovi i visi</l> 
+<l>più di bellezza e più tenere il vanto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>S’ove déi tòr la tua vuoi ch’io te avisi,</l> 
+<l>o ne la strada, o a man ritta nei campi</l> 
+<l>dirò, ma non di là troppo divisi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non ti scostar, non ir dove tu inciampi</l> 
+<l>in troppo bella moglie, sì che ognuno</l> 
+<l>per lei d’amor e di desire avampi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Molti la tenteranno, e quando ad uno</l> 
+<l>repugni, o a dui, o a tre, non star in speme</l> 
+<l>che non ne abbia aver vittoria alcuno.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non la tòr brutta; che torresti insieme</l> 
+<l>perpetua noia; mediocre forma</l> 
+<l>sempre lodai, sempre dannai le estreme.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Sia di buona aria, sia gentil, non dorma</l> 
+<l>con gli occhi aperti; che più l’esser sciocca</l> 
+<l>d’ogni altra ria deformità deforma.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se questa in qualche scandalo trabocca,</l> 
+<l>lo fa palese, in modo che dà sopra</l> 
+<l>li fatti suoi facenda ad ogni bocca.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>L’altra, più saggia, si conduce all’opra</l> 
+<l>secretamente, e studia, come il gatto,</l> 
+<l>che la immondizia sua la terra copra.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Sia piacevol, cortese, sia d’ogni atto</l> 
+<l>di superbia nimica, sia gioconda,</l> 
+<l>non mesta mai, non mai col ciglio attratto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Sia vergognosa; ascolti e non risponda</l> 
+<l>per te dove tu sia; né cessi mai,</l> 
+<l>né mai stia in ozio; sia polita e monda.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>De dieci anni o di dodici, se fai</l> 
+<l>per mio consiglio, fia di te minore;</l> 
+<l>di pare o di più età non la tòr mai:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>perché passando, come fa, il megliore</l> 
+<l>tempo e i begli anni in lor prima che in noi,</l> 
+<l>ti parria vecchia, essendo anco tu in fiore.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Però vorrei che ‘l sposo avesse i suoi</l> 
+<l>trent’anni, quella età che ‘l furor cessa</l> 
+<l>presto al voler, presto al pentirse poi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tema Dio, ma che udir più d’una messa</l> 
+<l>voglia il dì non mi piace; e vuo’ che basti</l> 
+<l>s’una o due volte l’anno si confessa.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non voglio che con gli asini che basti</l> 
+<l>non portano abbia pratica, né faccia</l> 
+<l>ogni dì tórte al confessore e pasti.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Voglio che se contenti de la faccia</l> 
+<l>che Dio le diede, e lassi il rosso e il bianco</l> 
+<l>ala signora del signor Ghinaccia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fuor che lisciarsi, uno ornamento manco</l> 
+<l>d’altra ugual gentildonna ella non abbia;</l> 
+<l>liscio non vuo’, né tu credo il vogli anco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se sapesse Erculan dove le labbia</l> 
+<l>pon quando bacia Lidia, avria più a schivo</l> 
+<l>che se baciasse un cul marzo, di scabbia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non sa che ‘l liscio è fatto col salivo</l> 
+<l>de le giudee che ‘l vendon; né con tempre</l> 
+<l>di muschio ancor perde l’odor cattivo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non sa che con la merda si distempre</l> 
+<l>di circoncisi lor bambini il grasso</l> 
+<l>d’orride serpi che in pastura han sempre.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Oh quante altre spurcizie a dietro lasso,</l> 
+<l>di che s’ungono il viso, quando al sonno</l> 
+<l>se acconcia il steso fianco, e il ciglio basso!</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Sì che quei che le baciano, ben ponno</l> 
+<l>con men schivezza e stomachi più saldi</l> 
+<l>baciar lor anco a nuova luna il conno.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il sollimato e gli altri unti ribaldi,</l> 
+<l>di che ad uso del viso empion gli armari,</l> 
+<l>fan che sì tosto il viso lor s’affaldi;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>o che i bei denti, che già fur sì cari,</l> 
+<l>lascian la bocca fetida e corrotta,</l> 
+<l>o neri e pochi restano, e mal pari.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Segua le poche, e non la volgar frotta;</l> 
+<l>né sappia far la tua bianco né rosso,</l> 
+<l>ma sia del filo e de la tela dotta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se tal la truovi, consigliar ti posso</l> 
+<l>che tu la prenda; se poi cangia stile,</l> 
+<l>e che se tiri alcun gallante a dosso,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>o faccia altra opra enorme, e che simìle</l> 
+<l>il frutto, in tempo del ricor, non esca</l> 
+<l>ai molti fior ch’avea mostrato aprile;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>de la tua sorte, e non di te t’incresca,</l> 
+<l>che per indiligenza e poca cura</l> 
+<l>gusti diverso al’apetito l’ésca.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma chi va cieco a prenderla a ventura,</l> 
+<l>o chi fa peggio assai, che la conosce,</l> 
+<l>e pur la vuol, sia quanto voglia impura,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>se poi pentito si batte le cosce</l> 
+<l>altro che sé non de’ imputar del fallo,</l> 
+<l>né cercar compassion de le sue angosce.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Poi ch’io t’ho posto assai bene a cavallo,</l> 
+<l>ti voglio anco mostrar come lo guidi,</l> 
+<l>come spinger lo déi, come fermallo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tolto che moglie avrai, lascia li nidi</l> 
+<l>degli altri, e sta sul tuo; che qualche augello,</l> 
+<l>trovandol senza te, non vi si annidi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Falle carezze, et amala con quello</l> 
+<l>amor che vuoi ch’ella ami te; aggradisci,</l> 
+<l>e ciò che fa per te paiati bello.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se pur tal volta errasse, l’ammonisci</l> 
+<l>sanza ira, con amore; e sia assai pena</l> 
+<l>che la facci arrossir senza por lisci.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Meglio con la man dolce si raffrena</l> 
+<l>che con forza il cavallo, e meglio i cani</l> 
+<l>le lusinghe fan tuoi che la catena.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Questi animal, che son molto più umani,</l> 
+<l>corregger non si dén sempre con sdegno,</l> 
+<l>né, al mio parer, mai con menar de mani.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ch’ella ti sia compagna abbi disegno;</l> 
+<l>non come in comperata per tua serva</l> 
+<l>reputa aver in lei dominio e regno.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Cerca di sodisfarle ove proterva</l> 
+<l>non sia la sua domanda, e, compiacendo,</l> 
+<l>quanto più amica puoi te la conserva.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Che tu la lasci far non te commendo,</l> 
+<l>senza saputa tua, ciò ch’ella vuole;</l> 
+<l>che mostri non fidarti anco riprendo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ire a conviti e publiche carole</l> 
+<l>non le vietar, né, ali suoi tempi, a chiese,</l> 
+<l>dove ridur la nobiltà si suole:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>gli adùlteri né in piazza né in palese,</l> 
+<l>ma in case de vicini e de commatri,</l> 
+<l>balie e tal genti, han le lor reti tese.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Abbile sempre, ai chiari tempi e agli atri,</l> 
+<l>dietro il pensier, né la lasciar di vista:</l> 
+<l>che ‘l bel rubar suol far gli uomini latri.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Studia che compagnia non abbia trista:</l> 
+<l>a chi ti vien per casa abbi avvertenza,</l> 
+<l>che fuor non temi, e dentro il mal consista;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma studia farlo cautamente, senza</l> 
+<l>saputa sua; che si dorria a ragione</l> 
+<l>s’in te sentisse questa diffidenza.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Lievale quanto puoi la occasione</l> 
+<l>d’esser puttana, e pur se avien che sia,</l> 
+<l>almen che ella non sia per tua cagione.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Io non so la miglior di questa via</l> 
+<l>che già t’ho detta, per schivar che in preda</l> 
+<l>ad altri la tua donna non se dia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma s’ella n’avrà voglia, alcun non creda</l> 
+<l>di ripararci: ella saprà ben come</l> 
+<l>far ch’al suo inganno il tuo consiglio ceda.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fu già un pittor, Galasso era di nome,</l> 
+<l>che dipinger il diavolo solea</l> 
+<l>con bel viso, begli occhi e belle chiome;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>né piei d’augel né corna gli faccea,</l> 
+<l>né faccea sì leggiadro né sì adorno</l> 
+<l>l’angel da Dio mandato in Galilea.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il diavol, riputandosi a gran scorno</l> 
+<l>se fosse in cortesia da costui vinto,</l> 
+<l>gli apparve in sogno un poco inanzi il giorno,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e gli disse in parlar breve e succinto</l> 
+<l>ch’egli era, e che venia per render merto</l> 
+<l>de l’averlo sì bel sempre dipinto;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>però lo richiedesse, e fosse certo</l> 
+<l>di subito ottener le sue domande,</l> 
+<l>e di aver più che non se gli era offerto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il meschin, ch’avea moglie d’admirande</l> 
+<l>bellezze, e ne vivea geloso, e n’era</l> 
+<l>sempre in sospetto et in angustia grande,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>pregò che gli mostrasse la maniera</l> 
+<l>che s’avesse a tener, perché il marito</l> 
+<l>potesse star sicur de la mogliera.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Par che ‘l diavolo allor gli ponga in dito</l> 
+<l>uno annello, e ponendolo gli dica:</l> 
+<l>— Fin che ce ‘l tenghi, esser non puoi tradito. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Lieto ch’omai la sua senza fatica</l> 
+<l>potrà guardar, si sveglia il mastro, e truova</l> 
+<l>che ‘l dito alla moglier ha ne la fica.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Questo annel tenga in dito, e non lo muova</l> 
+<l>mai chi non vuol ricevere vergogna</l> 
+<l>da la sua donna; e a pena anco gli giova,</l> 
+</lg> 
+<lg> 
+<l>pur ch’ella voglia, e farlo si dispogna.</l> 
+</lg> 
+</div1> 
+<div1 type="satira"> 
+<head><hi rend="bold">SATIRA VI</hi></head> 
+<salute>A Messer Pietro Bembo</salute> 
+<lg type="terzina"> 
+<l>Bembo, io vorrei, come è il commun disio</l> 
+<l>de’ solliciti padri, veder l’arti</l> 
+<l>che essaltan l’uom, tutte in Virginio mio;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e perché di esse in te le miglior parti</l> 
+<l>veggio, e le più, di questo alcuna cura</l> 
+<l>per l’amicizia nostra vorrei darti.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non creder però ch’esca di misura</l> 
+<l>la mia domanda, ch’io voglia tu facci</l> 
+<l>l’ufficio di Demetrio o di Musura</l> 
+</lg> 
+<lg type="terzina"> 
+<l>(non si dànno a’ par tuoi simili impacci),</l> 
+<l>ma sol che pensi e che discorri teco,</l> 
+<l>e saper dagli amici anco procacci</l> 
+</lg> 
+<lg type="terzina"> 
+<l>s’in Padova o in Vinegia è alcun buon greco,</l> 
+<l>buono in scienzia e più in costumi, il quale</l> 
+<l>voglia insegnarli, e in casa tener seco.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dottrina abbia e bontà, ma principale</l> 
+<l>sia la bontà: che, non vi essendo questa,</l> 
+<l>né molto quella alla mia estima vale.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>So ben che la dottrina fia più presta</l> 
+<l>a lasciarsi trovar che la bontade:</l> 
+<l>sì mal l’una ne l’altra oggi s’inesta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>O nostra male aventurosa etade,</l> 
+<l>che le virtudi che non abbian misti</l> 
+<l>vici nefandi si ritrovin rade!</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Senza quel vizio son pochi umanisti</l> 
+<l>che fe’ a Dio forza, non che persuase,</l> 
+<l>di far Gomorra e i suoi vicini tristi:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>mandò fuoco da ciel, ch’uomini e case</l> 
+<l>tutto consumpse; et ebbe tempo a pena</l> 
+<l>Lot a fugir, ma la moglier rimase.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ride il volgo, se sente un ch’abbia vena</l> 
+<l>di poesia, e poi dice: — È gran periglio</l> 
+<l>a dormir seco e volgierli la schiena. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Et oltra questa nota, il peccadiglio</l> 
+<l>di Spagna gli dànno anco, che non creda</l> 
+<l>in unità del Spirto il Padre e il Figlio.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non che contempli come l’un proceda</l> 
+<l>da l’altro o nasca, e come il debol senso</l> 
+<l>ch’uno e tre possano essere conceda;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma gli par che non dando il suo consenso</l> 
+<l>a quel che approvan gli altri, mostri ingegno</l> 
+<l>da penetrar più su che ‘l cielo immenso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se Nicoletto o fra Martin fan segno</l> 
+<l>d’infedele o d’eretico, ne accuso</l> 
+<l>il saper troppo, e men con lor mi sdegno:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>perché, salendo lo intelletto in suso</l> 
+<l>per veder Dio, non de’ parerci strano</l> 
+<l>se talor cade giù cieco e confuso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma tu, del qual lo studio è tutto umano</l> 
+<l>e son li tuoi suggetti i boschi e i colli,</l> 
+<l>il mormorar d’un rio che righi il piano,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>cantar antiqui gesti e render molli</l> 
+<l>con prieghi animi duri, e far sovente</l> 
+<l>di false lode i principi satolli,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>dimmi, che truovi tu che sì la mente</l> 
+<l>ti debbia aviluppar, sì tòrre il senno,</l> 
+<l>che tu non creda come l’altra gente?</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il nome che di apostolo ti denno</l> 
+<l>o d’alcun minor santo i padri, quando</l> 
+<l>cristiano d’acqua, e non d’altro ti fenno,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>in Cosmico, in Pomponio vai mutando;</l> 
+<l>altri Pietro in Pierio, altri Giovanni</l> 
+<l>in Iano o in Iovian va riconciando;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>quasi che ‘l nome i buon giudici inganni,</l> 
+<l>e che quel meglio t’abbia a far poeta</l> 
+<l>che non farà lo studio de molti anni.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Esser tali dovean quelli che vieta</l> 
+<l>che sian ne la republica Platone,</l> 
+<l>da lui con sì santi ordini discreta;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma non fu tal già Febo, né Anfione,</l> 
+<l>né gli altri che trovaro i primi versi,</l> 
+<l>che col buon stile, e più con l’opre buone,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>persuasero agli uomini a doversi</l> 
+<l>ridurre insieme, e abandonar le giande</l> 
+<l>che per le selve li traean dispersi;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e fér che i più robusti, la cui grande</l> 
+<l>forza era usata alli minori tòrre</l> 
+<l>or mogli, or gregge et or miglior vivande,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>si lasciaro alle leggi sottoporre,</l> 
+<l>e cominciar, versando aratri e glebe,</l> 
+<l>del sudor lor più giusti frutti accòrre.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Indi i scrittor féro all’indotta plebe</l> 
+<l>creder ch’al suon de le soavi cetre</l> 
+<l>l’un Troia e l’altro edificasse Tebe;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e avesson fatto scendere le petre</l> 
+<l>dagli alti monti, et Orfeo tratto al canto</l> 
+<l>tigri e leon da le spelonche tetre.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non è, s’io mi coruccio e grido alquanto</l> 
+<l>più con la nostra che con l’altre scole,</l> 
+<l>ch’in tutte l’altre io non veggia altretanto,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>d’altra correzion che di parole</l> 
+<l>degne; né del fallir de’ suoi scolari,</l> 
+<l>non pur Quintillano è che si duole.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma se degli altri io vuo’ scoprir gli altari,</l> 
+<l>tu dirai che rubato e del Pistoia</l> 
+<l>e di Petro Aretino abbia gli armari.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Degli altri studi onor e biasmo, noia</l> 
+<l>mi dà e piacer, ma non come s’io sento</l> 
+<l>che viva il pregio de’ poeti e moia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Altrimenti mi dolgo e mi lamento</l> 
+<l>di sentir riputar senza cervello</l> 
+<l>il biondo Aonio e più leggier che ‘l vento,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che se del dottoraccio suo fratello</l> 
+<l>odo il medesmo, al quale un altro pazzo</l> 
+<l>donò l’onor del manto e del capello.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Più mi duol ch’in vecchiezza voglia il guazzo</l> 
+<l>Placidian, che gioven dar soleva,</l> 
+<l>e che di cavallier torni ragazzo,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che di sentir che simil fango aggreva</l> 
+<l>il mio vicino Andronico, e vi giace</l> 
+<l>già settant’anni, e ancor non se ne lieva.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se mi è detto che Pandaro è rapace,</l> 
+<l>Curio goloso, Pontico idolatro,</l> 
+<l>Flavio biastemator, via più mi spiace</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che se per poco prezzo odo Cusatro</l> 
+<l>dar le sentenzie false, o che col tòsco</l> 
+<l>mastro Battista mescole il veratro;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>o che quel mastro in teologia ch’al tósco</l> 
+<l>mesce il parlar fachin, si tien la scroffa,</l> 
+<l>e già n’ha dui bastardi ch’io conosco;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>né per saziar la gola sua gaglioffa</l> 
+<l>perdona a spesa, e lascia che di fame</l> 
+<l>langue la madre e va mendica e goffa;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>poi lo sento gridar, che par che chiame</l> 
+<l>le guardie, ch’io digiuni e ch’io sia casto,</l> 
+<l>e che quanto me stesso il prossimo ame.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma gli error di questi altri così il basto</l> 
+<l>di miei pensier non gravano, che molto</l> 
+<l>lasci il dormir o perder voglia un pasto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma per tornar là donde io mi son tolto,</l> 
+<l>vorrei che a mio figliuolo un precettore</l> 
+<l>trovassi meno in questi vizii involto,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che ne la propria lingua de l’autore</l> 
+<l>gli insegnasse d’intender ciò che Ulisse</l> 
+<l>sofferse a Troia e poi nel lungo errore,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ciò che Apollonio e Euripide già scrisse,</l> 
+<l>Sofocle, e quel che da le morse fronde</l> 
+<l>par che poeta in Ascra divenisse,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e quel che Galatea chiamò da l’onde,</l> 
+<l>Pindaro, e gli altri a cui le Muse argive</l> 
+<l>donar sì dolci lingue e sì faconde.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Già per me sa ciò che Virgilio scrive,</l> 
+<l>Terenzio, Ovidio, Orazio, e le plautine</l> 
+<l>scene ha vedute, guaste e a pena vive.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Omai può senza me per le latine</l> 
+<l>vestigie andar a Delfi, e de la strada</l> 
+<l>che monta in Elicon vedere il fine;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma perché meglio e più sicur vi vada,</l> 
+<l>desidero ch’egli abbia buone scorte,</l> 
+<l>che sien de la medesima contrada.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non vuol la mia pigrizia o la mia sorte</l> 
+<l>che del tempio di Apollo io gli apra in Delo,</l> 
+<l>come gli fei nel Palatin, le porte.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ahi lasso! quando ebbi al pegàseo melo</l> 
+<l>l’età disposta, che le fresche guancie</l> 
+<l>non si vedeano ancor fiorir d’un pelo,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>mio padre mi cacciò con spiedi e lancie,</l> 
+<l>non che con sproni, a volger testi e chiose,</l> 
+<l>e me occupò cinque anni in quelle ciancie.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma poi che vide poco fruttuose</l> 
+<l>l’opere, e il tempo invan gittarsi, dopo</l> 
+<l>molto contrasto in libertà mi pose.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Passar venti anni io mi truovavo, et uopo</l> 
+<l>aver di pedagogo: che a fatica</l> 
+<l>inteso avrei quel che tradusse Esopo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fortuna molto mi fu allora amica</l> 
+<l>che mi offerse Gregorio da Spoleti,</l> 
+<l>che ragion vuol ch’io sempre benedica.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Tenea d’ambe le lingue i bei secreti,</l> 
+<l>e potea giudicar se meglior tuba</l> 
+<l>ebbe il figliuol di Venere o di Teti.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma allora non curai saper di Ecuba</l> 
+<l>la rabbiosa ira, e come Ulisse a Reso</l> 
+<l>la vita a un tempo e li cavalli ruba;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ch’io volea intender prima in che avea offeso</l> 
+<l>Enea Giunon, che ‘l bel regno da lei</l> 
+<l>gli dovesse d’Esperia esser conteso;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che ‘l saper ne la lingua de li Achei</l> 
+<l>non mi reputo onor, s’io non intendo</l> 
+<l>prima il parlar de li latini miei.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Mentre l’uno acquistando, e diferrendo</l> 
+<l>vo l’altro, l’Occasion fuggì sdegnata,</l> 
+<l>poi che mi porge il crine, et io nol prendo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Mi fu Gregorio da la sfortunata</l> 
+<l>Duchessa tolto, e dato a quel figliuolo</l> 
+<l>a chi avea il zio la signoria levata.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Di che vendetta, ma con suo gran duolo,</l> 
+<l>vide ella tosto, ahimè!, perché del fallo</l> 
+<l>quel che peccò non tu punito solo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Col zio il nipote (e fu poco intervallo)</l> 
+<l>del regno e de l’aver spogliati in tutto,</l> 
+<l>prigione andar sotto il dominio gallo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Gregorio a’ prieghi d’Isabella indutto</l> 
+<l>fu a seguir il discepolo, là dove</l> 
+<l>lasciò, morendo, i cari amici in lutto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Questa iattura e l’altre cose nòve</l> 
+<l>che in quei tempi successeno, mi féro</l> 
+<l>scordar Talia et Euterpe e tutte nòve.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Mi more il padre, e da Maria il pensiero</l> 
+<l>drieto a Marta bisogna ch’io rivolga,</l> 
+<l>ch’io muti in squarci et in vacchette Omero;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>truovi marito e modo che si tolga</l> 
+<l>di casa una sorella, e un’altra appresso,</l> 
+<l>e che l’eredità non se ne dolga;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>coi piccioli fratelli, ai quai successo</l> 
+<l>ero in luogo di padre, far l’uffizio</l> 
+<l>che debito e pietà avea commesso;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>a chi studio, a chi corte, a chi essercizio</l> 
+<l>altro proporre, e procurar non pieghi</l> 
+<l>da le virtudi il molle animo al vizio.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Né questo è sol che alli miei studii nieghi</l> 
+<l>di più avanzarsi, e basti che la barca,</l> 
+<l>perché non torni a dietro, al lito leghi;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma si truovò di tanti affanni carca</l> 
+<l>allor la mente mia, ch’ebbi desire</l> 
+<l>che la cocca al mio fil fésse la Parca.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quel, la cui dolce compagnia nutrire</l> 
+<l>solea i miei studi, e stimulando inanzi</l> 
+<l>con dolce emulazion solea far ire,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>il mio parente, amico, fratello, anzi</l> 
+<l>l’anima mia, non mezza non, ma intiera,</l> 
+<l>senza ch’alcuna parte me ne avanzi,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>morì, Pandolfo, poco dopo: ah fera</l> 
+<l>scossa ch’avesti allor, stirpe Ariosta,</l> 
+<l>di ch’egli un ramo, e forse il più bello, era!</l> 
+</lg> 
+<lg type="terzina"> 
+<l>In tanto onor, vivendo, t’avria posta,</l> 
+<l>ch’altra a quel né in Ferrara né in Bologna,</l> 
+<l>onde hai l’antiqua origine, s’accosta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se la virtù dà onor, come vergogna</l> 
+<l>il vizio, si potea sperar da lui</l> 
+<l>tutto l’onor che buono animo agogna.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Alla morte del padre e de li dui</l> 
+<l>sì cari amici, aggiunge che dal giogo</l> 
+<l>del Cardinal da Este oppresso fui;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che da la creazione insino al rogo</l> 
+<l>di Iulio, e poi sette anni anco di Leo,</l> 
+<l>non mi lasciò fermar molto in un luogo,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e di poeta cavallar mi feo:</l> 
+<l>vedi se per le balze e per le fosse</l> 
+<l>io potevo imparar greco o caldeo!</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Mi maraviglio che di me non fosse</l> 
+<l>come di quel filosofo, a chi il sasso</l> 
+<l>ciò che inanzi sapea dal capo scosse.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Bembo, io ti prego insomma, pria che ‘l passo</l> 
+<l>chiuso gli sia, che al mio Virginio porga</l> 
+<l>la tua prudenza guida, che in Parnasso,</l> 
+</lg> 
+<lg> 
+<l>ove per tempo ir non seppi io, lo scorga.</l> 
+</lg> 
+</div1> 
+<div1 type="satira"> 
+<head><hi rend="bold">SATIRA VII</hi></head> 
+<salute>A Messer Bonaventura Pistofilo Ducale Secretario</salute> 
+<lg type="terzina"> 
+<l>Pistofilo, tu scrivi che, se appresso</l> 
+<l>papa Clemente imbasciator del Duca</l> 
+<l>per uno anno o per dui voglio esser messo,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ch’io te ne avisi, acciò che tu conduca</l> 
+<l>la pratica; e proporre anco non resti</l> 
+<l>qualche viva cagion che me vi induca:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che lungamente sia stato de questi</l> 
+<l>Medici amico, e conversar con loro</l> 
+<l>con gran dimestichezza mi vedesti,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>quando eran fuorusciti, e quando fòro</l> 
+<l>rimessi in stato, e quando in su le rosse</l> 
+<l>scarpe Leone ebbe la croce d’oro;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che, oltre che a proposito assai fosse</l> 
+<l>del Duca, estimi che tirare a mio</l> 
+<l>utile e onor potrei gran pòste e grosse;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che più da un fiume grande che da un rio</l> 
+<l>posso sperar di prendere, s’io pesco.</l> 
+<l>Or odi quanto acciò ti rispondo io.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Io te rengrazio prima, che più fresco</l> 
+<l>sia sempre il tuo desir in essaltarmi,</l> 
+<l>e far di bue mi vogli un barbaresco;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>poi dico che pel fuoco e che per l’armi</l> 
+<l>a servigio del Duca in Francia e in Spagna</l> 
+<l>e in India, non che a Roma, puoi mandarmi:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma per dirmi ch’onor vi si guadagna</l> 
+<l>e facultà, ritruova altro cimbello,</l> 
+<l>se vuoi che l’augel caschi ne la ragna.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Perché, quanto all’onor, n’ho tutto quello</l> 
+<l>ch’io voglio: assai mi può parer ch’io veggio</l> 
+<l>a più di sei levarmisi il capello,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>perché san che talor col Duca seggio</l> 
+<l>a mensa, e ne riporto qualche grazia</l> 
+<l>se per me o per li amici gli la chieggio.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E se, come d’onor mi truovo sazia</l> 
+<l>la mente, avessi facultà a bastanza,</l> 
+<l>il mio desir si fermeria, ch’or spazia.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Sol tanta ne vorrei, che viver sanza</l> 
+<l>chiederne altrui mi fésse in libertade,</l> 
+<l>il che ottener mai più non ho speranza,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>poi che tanti mie’ amici podestade</l> 
+<l>hanno avuto di farlo, e pur rimaso</l> 
+<l>son sempre in servitude e in povertade.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Non vuo’ più che colei che fu del vaso</l> 
+<l>de l’incauto Epimeteo a fuggir lenta</l> 
+<l>mi tiri come un bufalo pel naso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quella ruota dipinta mi sgomenta</l> 
+<l>ch’ogni mastro di carte a un modo finge:</l> 
+<l>tanta concordia non credo io che menta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Quel che le siede in cima si dipinge</l> 
+<l>uno asinello: ognun lo enigma intende,</l> 
+<l>senza che chiami a interpretarlo Sfinge.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Vi si vede anco che ciascun che ascende</l> 
+<l>comincia a inasinir le prime membre,</l> 
+<l>e resta umano quel che a dietro pende.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fin che de la speranza mi rimembre,</l> 
+<l>che coi fior venne e con le prime foglie,</l> 
+<l>e poi fuggì senza aspettar settembre</l> 
+</lg> 
+<lg type="terzina"> 
+<l>(venne il dì che la Chiesa fu per moglie</l> 
+<l>data a Leone, e che alle nozze vidi</l> 
+<l>a tanti amici miei rosse le spoglie;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>venne a calende, e fuggì inanzi agli idi),</l> 
+<l>fin che me ne rimembre, esser non puote</l> 
+<l>che di promessa altrui mai più mi fidi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>La sciocca speme alle contrade ignote</l> 
+<l>salì del ciel, quel dì che ‘l Pastor santo</l> 
+<l>la man mi strinse, e mi baciò le gote;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>ma, fatte in pochi giorni poi di quanto</l> 
+<l>potea ottener le esperienze prime,</l> 
+<l>quanto andò in alto, in giù tornò altrotanto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Fu già una zucca che montò sublime</l> 
+<l>in pochi giorni tanto, che coperse</l> 
+<l>a un pero suo vicin l’ultime cime.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Il pero una matina gli occhi aperse,</l> 
+<l>ch’avea dormito un lungo sonno, e visti</l> 
+<l>li nuovi frutti sul capo sederse,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>le disse: — Che sei tu? come salisti</l> 
+<l>qua su? dove eri dianzi, quando lasso</l> 
+<l>al sonno abandonai questi occhi tristi? —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ella gli disse il nome, e dove al basso</l> 
+<l>fu piantata mostrolli, e che in tre mesi</l> 
+<l>quivi era giunta accelerando il passo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— Et io — l’arbor soggiunse — a pena ascesi</l> 
+<l>a questa altezza, poi che al caldo e al gielo</l> 
+<l>con tutti i vènti trenta anni contesi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma tu che a un volger d’occhi arrivi in cielo,</l> 
+<l>rendite certa che, non meno in fretta</l> 
+<l>che sia cresciuto, mancherà il tuo stelo. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Così alla mia speranza, che a staffetta</l> 
+<l>mi trasse a Roma, potea dir chi avuto</l> 
+<l>pei Medici sul capo avea la cetta</l> 
+</lg> 
+<lg type="terzina"> 
+<l>o ne l’essilio avea lor sovenuto,</l> 
+<l>o chi a riporlo in casa o chi a crearlo</l> 
+<l>leon d’umil agnel gli diede aiuto.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Chi avesse avuto lo spirito di Carlo</l> 
+<l>Sosena allora, avria a Lorenzo forse</l> 
+<l>detto, quando sentì duca chiamarlo;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>et avria detto al duca di Namorse,</l> 
+<l>al cardinal de’ Rossi et al Bibiena</l> 
+<l>(a cui meglio era esser rimaso a Torse),</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e detto a Contessina e a Madalena,</l> 
+<l>ala nora, alla socera, et a tutta</l> 
+<l>quella famiglia d’allegrezza piena:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— Questa similitudine fia indutta</l> 
+<l>più propria a voi, che come vostra gioia</l> 
+<l>tosto montò, tosto sarà distrutta:</l> 
+</lg> 
+<lg type="terzina"> 
+<l>tutti morrete, et è fatal che muoia</l> 
+<l>Leone appresso, prima che otto volte</l> 
+<l>torni in quel segno il fondator di Troia. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma per non far, se non bisognan, molte</l> 
+<l>parole, dico che fur sempre poi</l> 
+<l>l’avare spemi mie tutte sepolte.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se Leon non mi diè, che alcun de’ suoi</l> 
+<l>mi dia, non spero; cerca pur questo amo</l> 
+<l>coprir d’altr’ésca, se pigliar me vuoi.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se pur ti par ch’io vi debbia ire, andiamo;</l> 
+<l>ma non già per onor né per ricchezza:</l> 
+<l>questa non spero, e quel di più non bramo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Più tosto di’ ch’io lascierò l’asprezza</l> 
+<l>di questi sassi, e questa gente inculta,</l> 
+<l>simile al luogo ove ella è nata e avezza;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>e non avrò qual da punir con multa,</l> 
+<l>qual con minaccie, e da dolermi ogni ora</l> 
+<l>che qui la forza alla ragione insulta.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dimmi ch’io potrò aver ozio talora</l> 
+<l>di riveder le Muse, e con lor sotto</l> 
+<l>le sacre frondi ir poetando ancora.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dimmi che al Bembo, al Sadoletto, al dotto</l> 
+<l>Iovio, al Cavallo, al Blosio, al Molza, al Vida</l> 
+<l>potrò ogni giorno, e al Tibaldeo, far motto;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>tòr di essi or uno e quando uno altro guida</l> 
+<l>pei sette Colli, che, col libro in mano,</l> 
+<l>Roma in ogni sua parte mi divida.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>— Qui — dica — il Circo, qui il Foro romano,</l> 
+<l>qui fu Suburra, e questo è il sacro clivo;</l> 
+<l>qui Vesta il tempio e qui il solea aver Iano. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Dimmi ch’avrò, di ciò ch’io leggo o scrivo,</l> 
+<l>sempre consiglio, o da latin quel tòrre</l> 
+<l>voglia o da tósco, o da barbato argivo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Di libri antiqui anco mi puoi proporre</l> 
+<l>il numer grande, che per publico uso</l> 
+<l>Sisto da tutto il mondo fe’ raccorre.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Proponendo tu questo, s’io ricuso</l> 
+<l>l’andata, ben dirai che triste umore</l> 
+<l>abbia il discorso razional confuso.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Et io in risposta, come Emilio, fuore</l> 
+<l>porgerò il piè, e dirò: — Tu non sa’ dove</l> 
+<l>questo calciar mi prema e dia dolore. —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Da me stesso mi tol chi mi rimove</l> 
+<l>da la mia terra, e fuor non ne potrei</l> 
+<l>viver contento, ancor che in grembo a Iove.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>E s’io non fossi d’ogni cinque o sei</l> 
+<l>mesi stato uno a passeggiar fra il Domo</l> 
+<l>e le due statue de’ Marchesi miei;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>da sì noiosa lontananza domo</l> 
+<l>già sarei morto, o più di quelli macro</l> 
+<l>che stan bramando in purgatorio il pomo.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se pur ho da star fuor, mi fia nel sacro</l> 
+<l>campo di Marte senza dubbio meno</l> 
+<l>che in questa fossa abitar duro et acro.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Ma se ‘l signor vuol farmi grazia a pieno,</l> 
+<l>a sé mi chiami, e mai più non mi mandi</l> 
+<l>più là d’Argenta, o più qua del Bondeno.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Se perché amo sì il nido mi dimandi,</l> 
+<l>io non te lo dirò più volentieri</l> 
+<l>ch’io soglia al frate i falli miei nefandi;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che so ben che diresti: — Ecco pensieri</l> 
+<l>d’uom che quarantanove anni alle spalle</l> 
+<l>grossi e maturi si lasciò l’altro ieri! —</l> 
+</lg> 
+<lg type="terzina"> 
+<l>Buon per me ch’io me ascondo in questa valle,</l> 
+<l>né l’occhio tuo può correr cento miglia</l> 
+<l>a scorger se le guancie ho rosse o gialle;</l> 
+</lg> 
+<lg type="terzina"> 
+<l>che vedermi la faccia più vermiglia,</l> 
+<l>ben che io scriva da lunge, ti parrebbe,</l> 
+<l>che non ha madonna Ambra né la figlia,</l> 
+</lg> 
+<lg type="terzina"> 
+<l>o che ‘l padre canonico non ebbe</l> 
+<l>quando il fiasco del vin gli cadde in piazza,</l> 
+<l>che rubò al frate, oltre li dui che bebbe.</l> 
+</lg> 
+<lg type="terzina"> 
+<l>S’io ti fossi vicin, forse la mazza</l> 
+<l>per bastonarmi piglieresti, tosto</l> 
+<l>che m’udissi allegar che ragion pazza</l> 
+</lg> 
+<lg> 
+<l>non mi lasci da voi viver discosto.</l> 
+</lg> 
+</div1> 
+</body> 
+</text> 
+</TEI.2>

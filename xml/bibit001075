@@ -1,0 +1,2322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Opera nova</title>
+      <author>Pietro Aretino</author>
+    </titleStmt>
+    <extent>78 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001075</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Edizione nazionale delle opere di Pietro Aretino</title>
+        <title type="part">Poesie varie</title>
+        <author>Aretino, Pietro</author>
+        <editor id="ed">Aquilecchia, Giovanni</editor>
+        <editor id="ed2">Romano, Angelo</editor>
+        <publisher>Salerno editrice</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1992</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita"/><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.3 - POESIA ITALIANA, 1492-1542</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT-Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-07-18T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Alessia Scacchi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-07-21T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+
+<front>
+
+   
+   <titlePage>
+   <titlePart type="main">Opera nova del fecundissimo giovene Pietro pictore
+arretino zoè strambotti sonetti capitoli epistole
+barzellete e una desperata</titlePart></titlePage>
+
+
+<div1 type="dedica">
+<head>L'AUCTORE A LI LEGENTI <foreign lang="lat"><emph>SALUTEM DICIT
+</emph></foreign></head>
+
+<p>Avea facto concepto, lepidissimo lettore, alquante
+cose da noi facte in uno quasi istante, a fine di
+qualche nostro o d'alcuno nostro benivolo suiecta
+materia, non divulgarle anze nasconderle, e da li
+animi de li omini al tutto toglierle, sì cognoscendo
+il stile nissuno, sì essere molti perfidi e maligni
+detractor, dai quali non tanto questi rudi, ma li
+più tersi sonno biasimati.</p>
+<p>Pure, lassate queste cause, fece proposito mandarle fore con dir ad alcuno ingegno
+pelegrino: «Si non l'opra al manco l'audacia piacerà ».
+E a uno altro nostro già comenzato opuscolo preluderemo,
+come intendo aver fatti alcuni summi auctori; bench'io
+de' quali non saria degno portar el libro e por bocca
+al nome loro; sì che han meritato i più sublimi lochi.
+Come se sia, infine, sonno toi; lègeli al meno e,
+fastidito, si non vòle te innopicheno la casa, vendeli
+a li librari per far coverti de li altri o a li
+salsamentarii per involuparci li pesciculi marini e né
+fia tuo troppo danno, e a me non seria tedioso.
+</p>
+</div1>
+</front>
+
+<body>
+
+<div1 type="parte"><head><add resp="ed">STRAMBOTTI</add></head>
+
+<div2 type="poesia">
+<head>1</head>
+<lg type="strambotto">
+
+<l>Voi ch'ascoltate il lamentabil verso,</l>
+<l>fugite amor amaro e sua facella,</l>
+<l>che per l'impio seguire ho il tempo perso</l>
+<l>e tronca la mia barca a buona stella;</l>
+<l>ad ogni ritto ho trovato riverso</l>
+<l>l'acquietar di tal navicella:</l>
+<l>fugite tutti l'amorosa voglia</l>
+<l>che dona pianti, stenti, afanni e doglia.</l>
+</lg></div2>
+<div2 type="poesia">
+<head>2</head>
+<lg type="strambotto">
+<l>Sì come vòl fortuna in qualche passo,</l>
+<l>da crudel ferro alcun spesso perisce,</l>
+<l>e sepulto in la strada il corpo lasso,</l>
+<l>ciascun per premio un sasso lo ferisce;</l>
+<l>in latro, ch'a le forche ha misso il passo,</l>
+<l>pur qualche ben per l'alma exaudisce:</l>
+<l>e io, per premio de mie tanta fede,</l>
+<l>trovo sol foco e mai nulla mercede.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>3</head>
+<lg type="strambotto">
+<l>Lasso trovossi piata&lt;r&gt; nell'inferno</l>
+<l>con risonante suon di parva cetra:</l>
+<l>e ebbe tal valor nel cavo averno</l>
+<l>che trasse un'alma giù de l'ombra tetra;</l>
+<l>e non si pò, per istar im–pianto eterno,</l>
+<l>placar un cor anzi diventa pietra:</l>
+<l>e quanto più divoto lui adoro,</l>
+<l>più presto cresce al mio crudel martoro.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>4</head>
+<lg type="strambotto">
+<l>Lo stanco pelegrin, dal camin vinto,</l>
+<l>spera a l'albergo riposarsi alquanto;</l>
+<l>el navigante, dal vento sospinto,</l>
+<l>spera bonaccia e però ciessa il pianto;</l>
+<l>il fier soldato, dal nimico cinto,</l>
+<l>spera la vita con sui preghi al santo:</l>
+<l>io che son vinto, in mar, stanco, angoscioso,</l>
+<l>spero morir sumerger, mai riposo.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>5</head>
+<lg type="strambotto">
+<l>Rompesi l'albor da' venti percosso</l>
+<l>e tronca i rami per suo' tanti fructi,</l>
+<l>l'arido sol talvolta l'ha rimosso</l>
+<l>e suo' dolci licor fa perder tutti,</l>
+<l>e io, da tanti tormenti percosso,</l>
+<l>non trovo fine a mie' gravosi lucti;</l>
+<l>né potestà ha il ciel in me né sorte,</l>
+<l>né tempesta, né sol, né impia morte.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>6</head>
+<lg type="strambotto">
+<l>Placcasi il ciel che gran furore ha mosso</l>
+<l>di piogia e venti di campane al suono,</l>
+<l>el crudel angue ha il venen rimosso</l>
+<l>sol per valor di qualche licor buono,</l>
+<l>crudel ferita ben sì drento a l'osso</l>
+<l>pur se riscalda doppo l'aspro tuono;</l>
+<l>solo io al mio gran mal non trovo loco</l>
+<l>e, più cerco guarir più cresce il foco.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>7</head>
+<lg type="strambotto">
+<l>Si fieri venti in tempestoso mare</l>
+<l>percosso han del nochier la debil barca,</l>
+<l>fatto la vela e l'albero spezzare,</l>
+<l>nelle salse acque ogni merce si scarca,</l>
+<l>spera se stesso con preci salvare</l>
+<l>e paziente soporta tal carca;</l>
+<l>però, si per martìr son quasi in sasso,</l>
+<l>ispero paziente alzar tal masso.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>8</head>
+<lg type="strambotto">
+<l>Il vilan con la zappa tutto il giorno</l>
+<l>tormenta e membri sui per premio avere,</l>
+<l>il capitan per non aver iscorno</l>
+<l>contra il nimico monstra il suo potere,</l>
+<l>e lo stanco pastor, sotto qualche orno,</l>
+<l>guarda gli armenti sui per latte bere;</l>
+<l>i' cogli armenti pugno, zappo aperto,</l>
+<l>specto doglia, martìr, per premio e merto.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>9</head>
+<lg type="strambotto">
+<l>Il dotto mago tanto specta il celo</l>
+<l>che giugne il ponto desiato e l'ora,</l>
+<l>e preso il nome del lucido stelo,</l>
+<l>alegro suo' sigilli manda fora;</l>
+<l>l'astrologo al futur pur apre il velo</l>
+<l>si ben compunti e segni vi dimora;</l>
+<l>ogn'om chi spetta qualche desio trova,</l>
+<l>e io, più spetto, più foco rinova.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>10</head>
+<lg type="strambotto">
+<l>Quanto più forte il ciel fulmina e piove</l>
+<l>e più Vulcano sforza la fucina,</l>
+<l>più alegrerà l'om se 'l viaggio move,</l>
+<l>e spera doppo sì crudel roina</l>
+<l>quiete tempo a suo orride cove,</l>
+<l>però sta lieta lor voglia tapina;</l>
+<l>e io contento, donna, al foco cedo,</l>
+<l>sperando gioglia poi, ben ch'i' nol credo.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>11</head>
+<lg type="strambotto">
+<l>Lasso in terra ogn'animal che vive</l>
+<l>pur ha riposo in qualche folto bosco,</l>
+<l>e tra fresche erbe e tra l'ombrose rive</l>
+<l>consuman l'amor lor senza alcun tosco,</l>
+<l>e son d'ogni martìr lor voglie prive</l>
+<l>senza doglia nissun e senza fosco;</l>
+<l>solo io in affanni e 'm–pena, sì angoscioso,</l>
+<l>la notte, il giorno, sto senza riposo.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>12</head>
+<lg type="strambotto">
+<l>S'alcun robato nel camin se trova</l>
+<l>gridando «Strada», ogn'om con armi corre;</l>
+<l>s'avien che 'l foco gran tempesta mova</l>
+<l>con vasi e acqua presto si socorre;</l>
+<l>s'alcun summerso nelle onde salde cova</l>
+<l>per pietà ogn'om della acqua lo vòl tòrre:</l>
+<l>solo io in te non trovo pietà alcuna,</l>
+<l>nimica ognor d'amor e di fortuna.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>13</head>
+<lg type="strambotto">
+
+
+<l>Dimostra il ciel per segni reo destino:</l>
+<l>il legno pel delfin impia fortuna,</l>
+<l>col canto il cigno il morir vicino,</l>
+<l>el rosignol la suo trista ventura,</l>
+<l>l'ucel d'Egipto suo fato meschino,</l>
+<l>l'upupa del pecato la brottura;</l>
+<l>così il volto mie mostra al colore</l>
+<l>immensa passion del fido core.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>14</head>
+<lg type="strambotto">
+<l>Il castellan ristretto in la forteza</l>
+<l>fa sua diffesa, pur alfin si rende;</l>
+<l>il fier nimico, benché pata asprezza,</l>
+<l>per tanto guerregiar la rocca prende;</l>
+<l>la Parca ispezo fortuna disprezza</l>
+<l>pur a la fin la roba in l'acqua stende:</l>
+<l>però convien che le mie ossa tenere</l>
+<l>per tanto tormentar caschino in cenere.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>15</head>
+<lg type="strambotto">
+<l>Qual om ch'al camin suo manca la luce</l>
+<l>del chiaro sole nel più folto bosco,</l>
+<l>smarito specta per su' fido duce</l>
+<l>la lucida aurora, timido e fosco,</l>
+<l>così privo di te l'obscur m'induce,</l>
+<l>né il vero camin più non cognosco;</l>
+<l>e teme il fiero mar mia navicella</l>
+<l>senza il favor di tuo splendente istella.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>16</head>
+<lg type="strambotto">
+<l>Non è Diana su negli alti poli</l>
+<l>tanto formosa quanto ognor ti veggio,</l>
+<l>non fu simile a te quella ch'a voli</l>
+<l>venne ratta ne l'onde per suo peggio;</l>
+<l>dispreza crudeltà ch'al cor imboli</l>
+<l>se brami in ciel acquistar alto seggio,</l>
+<l>discaccia ogni venen che tuo cor serra</l>
+<l>se vòli unica esser ditta in terra.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>17</head>
+<lg type="strambotto">
+<l>Parla il pittor di gesti e di disegni,</l>
+<l>il cacciator di fiere, reti e cani,</l>
+<l>l'astrologo del ciel prodisgi e segni,</l>
+<l>cerusici di colpi aspri e vilani,</l>
+<l>il navigante sol di venti e legni,</l>
+<l>di voti e pelegrin, viaggi strani,</l>
+<l>di bene e buoni, e servi di servire</l>
+<l>e io d'amor perché mi dà martìre.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>18</head>
+<lg type="strambotto">
+<l>Sonno anima&lt;l&gt; che, più oscur è notte</l>
+<l>e più men luce la frigida luna,</l>
+<l>più han piacere fuor delle lor grotte,</l>
+<l>desiando veder sempre aer bruna;</l>
+<l>e quando il sole ha tal tenebre rotte</l>
+<l>s'ascondon per dolor ad una ad una:</l>
+<l>e io, per mio destino e fato atroce,</l>
+<l>seguo quel che più m'arde e più mi noce.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>19</head>
+<lg type="strambotto">
+
+<l>Non vòle i nati suo' l'aquil nutrire</l>
+<l>se le lor luce non fermeno al sole;</l>
+<l>en fin non vede pel negro vestire</l>
+<l>il corvo e pulli sui governar vòle;</l>
+<l>la mesta in fronde mai s'usa coprire</l>
+<l>si la compagna non vede a suo scole:</l>
+<l>e io, senza veder null'altro segno,</l>
+<l>t'offersi il cibo de loco più degno.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>20</head>
+<lg type="strambotto">
+<l>Tanto va il ceco cervo al chiaro fonte</l>
+<l>che se ritrova pur alfine nel laccio,</l>
+<l>tanto veloce la lepretta al monte</l>
+<l>corre che l'ha dai cani ultimo ispaccio,</l>
+<l>tan&lt;to&gt; han le voglie gli ucelletti pronte</l>
+<l>al fischio ch'a le gabbie danno impaccio,</l>
+<l>tanto si fugge amor a poco a poco</l>
+<l>che se ritrova l'om in lacci e 'n foco.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>21</head>
+<lg type="strambotto">
+
+<argument><p><foreign lang="lat"><emph>De tempore</emph></foreign></p></argument>
+
+<l>Grotesche, spoglie, ludi, strali e armi,</l>
+<l>triumfi, archi, teatri e bel scolture,</l>
+<l>trof&lt;ei&gt;, sepulcri, epitafi e carmi,</l>
+<l>colossi, amfiteatri, gesti, picture,</l>
+<l>vittorie, tronchi, aurati marmi,</l>
+<l>arastri, zappe, vomeri e ficture:</l>
+<l>quel che non senten le mortal ruine</l>
+<l>dal tempo in brieve son condutte al fine.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>22</head>
+<lg type="strambotto">
+
+<l>Col tempo in mar sumerge il forte legno,</l>
+<l>col tempo ogni gran stato cade in basso,</l>
+<l>col tempo manca ogni terren disegno,</l>
+<l>col tempo ogni difizio va in fracasso,</l>
+<l>col tempo torna vil l'om tanto degno,</l>
+<l>col tempo si dispiana ogni gran masso,</l>
+<l>col tempo il forte fer divien in polve,</l>
+<l>col tempo el tutto in terra se risolve.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>23</head>
+<lg type="strambotto">
+<l>Torna ogni tempo a chi il tempo specta,</l>
+<l>ritorna l'om a la patria col tempo,</l>
+<l>col tempo vien ogni giusta vendecta,</l>
+<l>il fier nimico in carcer s'ha col tempo,</l>
+<l>surge de l'acqua la debil barchetta</l>
+<l>e vien tranquillo a lei spettato il tempo,</l>
+<l>col tempo torna ogni obscuro in luce,</l>
+<l>e il tempo ogni desio al fin conduce.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>24</head>
+<lg type="strambotto">
+
+<l>Si 'l tempo dà catena il tempo scioglie,</l>
+<l>si 'l tempo servitù libertà dona,</l>
+<l>si 'l tempo dà martìr il tempo gioglie,</l>
+<l>si 'l tempo mala sorte il tempo bona;</l>
+<l>si 'l tempo dona foco il tempo il toglie,</l>
+<l>si 'l tempo reo destin fama risona:</l>
+<l>si 'l tempo m'ha condutto in lacci e 'n foco,</l>
+<l>il tempo mi sciorrà a poco a poco.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>25</head>
+<lg type="strambotto">
+<l>»Or sia che vòl«, agli occhi dice il core,</l>
+<l>»da che vòl la fortuna diance pace,</l>
+<l>non per tuo fiume mi cessa l'ardore</l>
+<l>né per mio foco tuo acqua si sface;</l>
+<l>andiam la sorte placando e l'amore</l>
+<l>e, sopportando quel che più ci spiace,</l>
+<l>spettiamo tempo, miglior stella e fato:</l>
+<l>ch'a pace ogni nimico è destinato».</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>26</head>
+<lg type="strambotto">
+
+<argument><p><foreign lang="lat"><emph>De morte</emph></foreign></p></argument>
+
+<l>Offici, decemvir, consul, prefecti,</l>
+<l>tribun, patrici, augur, pretori,</l>
+<l>presul, patri, censor, Salî electi,</l>
+<l>patrati, dictator e senatori,</l>
+<l>militi, mensar, regi e lor effecti,</l>
+<l>tiran, tenenti, Fecial, questori;</l>
+<l>tutti gli ha morte privi di lor luce;</l>
+<l>che 'l tempo in nulla ogni cosa conduce.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>27</head>
+<lg type="strambotto">
+<l>Donna, dispensa or che pòi tuo beltà,</l>
+<l>che sempre morte in arco lo stral tiene,</l>
+<l>non val a dir abbi di me pietà</l>
+<l>quando l'adunca falce e 'l colpo viene;</l>
+<l>non ispectar venir a falsità,</l>
+<l>che molto invida e mortifer pene</l>
+<l>dispensa al tempo tuo formosa coma:</l>
+<l>che non val il pentir poi l'aspra soma.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>28</head>
+<lg type="strambotto">
+
+<l>Morte ogni odio terren per forza scioglie,</l>
+<l>morte ogni ver amor conduce in basso,</l>
+<l>morte ogni patrato in terra accoglie,</l>
+<l>morte il misero fa de vita casso,</l>
+<l>morte ogn'om obedisce suo voglie,</l>
+<l>morte ogn'om conduce in picol masso,</l>
+<l>morte a chi mal vive è gran desire:</l>
+<l>morte è sol requie e fin d'ogni martìre.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>29</head>
+<lg type="strambotto">
+<l>Donna, non ti fidar esser formosa,</l>
+<l>che morte sempre preparato ha 'l telo,</l>
+<l>quanto più odor ha la suave rosa</l>
+<l>più presto vien a·llei l'orrido velo;</l>
+<l>non isperar in stato esser gioiosa,</l>
+<l>che 'l destinato presto vien dal cielo,</l>
+<l>dispensa tuo beltà con miglior sorte,</l>
+<l>che semper a lieto stato invida è morte.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>30 </head>
+<lg type="strambotto">
+
+<l>Donna remira, quando il coltel prendi,</l>
+<l>la iusta morte, poi il colpo gira</l>
+<l>al fido peto, l'impio braccio stendi,</l>
+<l>e fa de l'alma e 'l cor una sol mira;</l>
+<l>che in pace portato qual più m'offende,</l>
+<l>e lieta del mi corpo l'alma spira;</l>
+<l>però remira la palida morte,</l>
+<l>poi dà al servo suo ultima sorte.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>31 </head>
+<lg type="strambotto">
+
+<l>Morte, per qual cagion retardi tanto?</l>
+<l>Deh viene a trarmi del labirinto fora,</l>
+<l>pon ormai fin al miserabil pianto,</l>
+<l>ch'a forza l'alma nel corpo dimora;</l>
+<l>prendi tuo falce a questo ultimo canto,</l>
+<l>e gira il colpo e fà brieve mie ora;</l>
+<l>divien pietoso a chi te invoca e chiama,</l>
+<l>ch'un stato di pietà regno e di fama.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>32 </head>
+<lg type="strambotto">
+<l part="I">– Ahi morte, presto vien!</l>
+<l part="F">Chi fa tal grido?</l>
+<l>– Un che spera d'uscir dal tuo pio strale.</l>
+<l>Qual reo destin ti fa bramar tal nido?</l>
+<l>– Il fier amor e le sagitte frale;</l>
+<l>però, pietosa, prendi il coltel fido</l>
+<l>e cessa l'impio foco e 'l tanto male.</l>
+<l>Taci, sopporta l'amorosa face,</l>
+<l>che sforzato morir al ciel non piace.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>33 </head>
+<lg type="strambotto">
+<l>Morte qual olocausto sacrificio</l>
+<l>fa del mio corpo e delle misere ossa,</l>
+<l>che così vòl quello ostinato vicio</l>
+<l>de l'impia diva e l'amorosa possa;</l>
+<l>sento la tuba al mio stremo iudicio</l>
+<l>e vego preparato in terra fossa;</l>
+<l>però vien presto a trarmi de tal prole,</l>
+<l>ch'uscir presto di pena assai men dole.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>34 </head>
+<lg type="strambotto">
+<l>Su presto, morte, traimi di tal carco</l>
+<l>che viver più non voglio in tanta doglia;</l>
+<l>prendi toi armi che 'l colpo te parco,</l>
+<l>che ormai la terra chiama la mia spoglia;</l>
+<l>su presto, al petto mio scocca tuo arco</l>
+<l>e poni in sepultura questa scoglia,</l>
+<l>e tal pigramma pon doppo partita:</l>
+<l>«Qui sta chi per servir prese la vita».</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>35 </head>
+<lg type="strambotto">
+
+<l>Pur ho placato chi già mai placossi</l>
+<l>con tante preci a mio tanto languire;</l>
+<l>ahi, che pur morte a gran pietà commossi</l>
+<l>e son contento e vo lieto morire;</l>
+<l>pur passaron negli amorosi fossi</l>
+<l>e moro sol per mi real servire;</l>
+<l>però non temo la mia dura sorte,</l>
+<l>ch'al voluntar morir non noce morte.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>36</head>
+<lg type="strambotto">
+<l>Per forza a duro laccio son ligato,</l>
+<l>non di ragione da dispietata donna;</l>
+<l>per forza in crudel fiamme tormentato</l>
+<l>è questo core a sì aspra colonna;</l>
+<l>per forza a servitù son destinato,</l>
+<l>per forza servo a tua formosa gonna;</l>
+<l>ma spero un giorno oscir di fiamma oscura,</l>
+<l>ch'un stato retto a forza poco dura.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>37</head>
+<lg type="strambotto">
+
+<l>S'a forza il navicante in dur catena</l>
+<l>tiene alcun servo ancor s'escie per forza,</l>
+<l>si 'l buon soldato a forza alla catena</l>
+<l>il fier nemico il laccio rompe a forza,</l>
+<l>s'a forza l'omo sta en la catena</l>
+<l>un giorno n'esce ancor per propria forza,</l>
+<l>s'a forza cinto so da crudel laccio</l>
+<l>per forza spero tòrmi ancor dal laccio.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>38</head>
+<lg type="strambotto">
+
+<l>Tantal nel cavo averno oscur e basso</l>
+<l>ha il cibo presso e, per pigliar, s'estende,</l>
+<l>e quel più s'alza; onde, il miser lasso,</l>
+<l>un'altra parte per tòr sete prende,</l>
+<l>e più si cala più gli manca il passo,</l>
+<l>e l'una e l'altra parte ognor l'offende:</l>
+<l>così a l'amor mie i' veggo expresso</l>
+<l>che più ti son lontan sendo più presso.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>39</head>
+<lg type="strambotto">
+
+<l>Donna, rimetti ormai drento il fier telo</l>
+<l>e cessa il tanto ardor che par ragione;</l>
+<l>su presto amorza il tuo calido velo</l>
+<l>e leva al servo tanta passione;</l>
+<l>dapoi tanta beltà t'ha dato il celo,</l>
+<l>abi del foco mie compassione;</l>
+<l>deh, non tardar di trarmi di dolore,</l>
+<l>che un presto pentir copre l'errore.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>40</head>
+<lg type="strambotto">
+
+<l>Donna, per qual cagion è tanto offendere,</l>
+<l>è tanta crudeltà, tanto martoro?</l>
+<l>Ahi lasso, areso son senza contendere</l>
+<l>le stanche mura e 'l mie caro tesoro;</l>
+<l>però, car diva, usa meglio spendere,</l>
+<l>e con più vera fé, l'argento e l'oro;</l>
+<l>del regno tuo è donna miglior nido,</l>
+<l>che mal pò dominar chi non è fido.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>41</head>
+<lg type="strambotto">
+
+<l>Non credi, donna, tuo formosa coma</l>
+<l>nel forte legno mai summerga in fondo;</l>
+<l>ahi, spero un giorno tòrmi da tal soma</l>
+<l>e libro uscir del regno foribondo;</l>
+<l>sappi ch'amor, ch'ogni superbo doma,</l>
+<l>trarmi dil laccio vòl ove m'ascondo:</l>
+<l>però non prezzo tuo feroze artiglio,</l>
+<l>che 'l ciel pò più ch'ogni terren consiglio.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>42</head>
+<lg type="strambotto">
+
+<l>Taccia chi dice che volubil sia</l>
+<l>lo stato di fortuna e suo favore,</l>
+<l>ch'io servito ho tal regno in gelosia,</l>
+<l>credendo tòr da me il ceco amore;</l>
+<l>così vivendo con stolta pazzia</l>
+<l>mi trovo giunto al fin delle mie ore</l>
+<l>sempre trovando qual dur scoglio il fato:</l>
+<l>che mai volubil fu il destinato.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>43</head>
+<lg type="strambotto">
+
+<l>Voi che in regno d'amor con fé servite,</l>
+<l>non isperate mai nulla mercede</l>
+<l>da l'impia sorte, e qual nochier foggite</l>
+<l>questa fortuna e sua dogliosa sede;</l>
+<l>fuggitte tutti questa stabil lite</l>
+<l>de sì reo fato che in abil speme cede;</l>
+<l>fuggite il regno senza pietà alcuna:</l>
+<l>che nuoce sempre a chi men pò fortuna.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>44 </head>
+<lg type="strambotto">
+
+<argument><p><foreign lang="lat"><emph>Di nocte</emph></foreign></p></argument>
+
+<l>Ecco la nocte, e Filomena in fronde</l>
+<l>si posa e dà principio a tersi canti,</l>
+<l>manifestando suo destin qual onde</l>
+<l>il reo delitto in miserabil pianti;</l>
+<l>così quel che nel pecto mio s'asconde</l>
+<l>io vengo a palesar a te davanti;</l>
+<l>però non ti sdegnar, sopporta in pace,</l>
+<l>che un moderato ardor raro si tace.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>45 </head>
+<lg type="strambotto">
+
+<l>Ecco la nocte preparar sol pace</l>
+<l>a l'om defesso e da exercizio stanco;</l>
+<l>ecco al pelegrin, che in silva giace,</l>
+<l>lucido il cielo al suo afritto fianco;</l>
+<l>ecco che al buon nochier Eol già tace</l>
+<l>l'onde quiete al suo timido banco;</l>
+<l>ecco la luna al suo frigido loco,</l>
+<l>ecco la nocte al mio martìr sol foco.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>46 </head>
+
+<lg type="strambotto">
+
+<l>Tu dormi senza isdegno, i' mi lamento</l>
+<l>al fredo, a l'acque, a la tempesta, ai sassi;</l>
+<l>tu requie in lecto, io grave tormento,</l>
+<l>in nuda terra posso e membri lassi;</l>
+<l>credo che sogni di dar pena e stento</l>
+<l>a quel che perde la fatica e' passi;</l>
+<l>deh lassa il sonno, e scolta mie ardore,</l>
+<l>che chi ode ragion degno è d'onore.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>47 </head>
+<lg type="strambotto">
+
+<l>O unica mie speranza il sonno lassa,</l>
+<l>e odi quel che nulla pietà trova;</l>
+<l>remira il tempo suo che indarno passa</l>
+<l>e credi il tanto ardor senza altra prova;</l>
+<l>si non che 'l miser cor oltra trapassa</l>
+<l>e l'impia morte suo armi ritrova;</l>
+<l>però movi pietà de l'alma trista</l>
+<l>che chi libra un da morte, assai acquista.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>48 </head>
+<lg type="strambotto">
+
+<l>Ahi impia, indarno mi lamento e ploro,</l>
+<l>e tu pur dormi senza nullo isdegno;</l>
+<l>al men sentissi el mio tanto martoro,</l>
+<l>e da scoltar un po' mi fessi degno;</l>
+<l>ahi celeste signor almo e decoro,</l>
+<l>non vede l'alma andar al stigio regno?</l>
+<l>Divien piatosa, concedi tal grazia,</l>
+<l>che il ciel d'un cor piatoso mai si sazia.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>49</head>
+<lg type="strambotto">
+
+<l>Quando ti veggo mi sento morire,</l>
+<l>si non ti veggo manco a poco a poco;</l>
+<l>non trovo alcun rimedio al mie languire,</l>
+<l>e manca il valor mie qual cera al foco;</l>
+<l>io sento al miser cuore nuovo martìre,</l>
+<l>né mai di riposar trovo alcun loco;</l>
+<l>ahi impio amor, perché fa' tu tal guerra</l>
+<l>a chi sol per servirti è posto in terra?</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>50</head>
+<lg type="strambotto">
+
+<l>Donna, qual leve fronde in silva ombrosa</l>
+<l>che d'ogni vento cedon son queste ossa;</l>
+<l>preparato a la doglia aspra e dogliosa,</l>
+<l>pur che in terra satisfarti possa;</l>
+<l>tengo per te drento al mio pecto ascosa</l>
+<l>fiamma e a mezo al cor aspra percossa;</l>
+<l>e si pur brami a me mortifer velo,</l>
+<l>preparato ho in la destra sempre il telo.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>51</head>
+<lg type="strambotto">
+
+<l>Tantida illustra apare a l'universo,</l>
+<l>e Febo qual più pote e destrier sprona;</l>
+<l>ne i verdi rami gli ucelletti al verso,</l>
+<l>Eol suave in silva già risona;</l>
+<l>el pastor cogli armenti canta terso,</l>
+<l>il cultor il terren con l'armi intona;</l>
+<l>ogni omo alegro a l'opra s'apresenta,</l>
+<l>e io al foco che più mi tormenta.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>52</head>
+<lg type="strambotto">
+
+<l>Innanti, donna, che a tuo duro laccio</l>
+<l>sie queste membra e queste miser ossa;</l>
+<l>voglio con impio telo e col mie braccio</l>
+<l>darmi la morte, andar presto in fossa;</l>
+<l>Amor, prima al mie cor non dar ispaccio,</l>
+<l>che io sia subiugato da tuo possa:</l>
+<l>ti lasso volentier, mondo protervo,</l>
+<l>che meglio è 'l liber morir che viver servo.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>53</head>
+<lg type="strambotto">
+
+<l>Ecco, e mei martìr ad amor s'affanno? Fanno.</l>
+<l part="I">E passi persi? Sì.</l>
+<l part="F">E l'ore? E l'ore.</l>
+<l>E si real servir su i cieli sanno? Sanno.</l>
+<l>Che premio arò del mio amore? Amore.</l>
+<l>Quanto starò in laccio, un anno? Un anno.</l>
+<l>E poi del foco sarò fore? Fore.</l>
+<l>In me il fier ardor tornerà mai? Mai.</l>
+<l>Vivarò lieto poco o assai? Assai.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>54</head>
+<lg type="strambotto">
+
+<l>Amor chi mi trarà del foco? El foco.</l>
+<l>Quanto in laccio starò, etterno? Etterno.</l>
+<l>E per amar, arò mortifer loco? Loco.</l>
+<l>Qual requie fia a me averno? Averno.</l>
+<l>Impetrarò pietà nel viver poco? Poco.</l>
+<l>Che fine ha l'alma a l'inferno? Inferno.</l>
+<l>Adonque pel mie amor arò martìr? Martìre.</l>
+<l>E impia doglia per servire? Per servire.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>55</head>
+<lg type="strambotto">
+
+<l>Se da suo clara patria alcun si parte,</l>
+<l>rimane il vero amor dentro a le mura;</l>
+<l>e sempre per più longhe e strane parte,</l>
+<l>nel fido petto il buon fuoco dura;</l>
+<l>dapoi che 'l mie destin mi sforza amarte,</l>
+<l>partendo lasso il cor a tuo figura;</l>
+<l>e si parto io, non si parte l'ardore,</l>
+<l>che non interruppe mai distanzia amore.</l>
+</lg></div2>
+
+<div2 type="poesia">
+<head>56</head>
+<lg type="strambotto">
+
+<l>Sforzato, donna, io so por fine al canto,</l>
+<l>e far partita dal tuo divo aspecto;</l>
+<l>bagnato sento la citra di pianto,</l>
+<l>trasformato la voce in vario effecto;</l>
+<l>si parte el corpo, sì, ma resta infranto</l>
+<l>con te la miglior parte del mie pecto;</l>
+<l>però, si parte il corpo, resta il core,</l>
+<l>a forza, a servitù d'impio signore.</l>
+</lg>
+
+<lg type="non-definito">
+<l>Alquante cose de uno adolescente arretino:</l>
+<l>Pietro, studioso in questa facultà e in pittura.</l>
+</lg>
+</div2>
+</div1>
+
+<div1 type="poesia">
+
+<head>57 </head>
+<lg type="sonetto">
+
+<head>Sonetto primo</head>
+
+<lg type="quartina">
+<l>Qual timido nochier nelle salse onde</l>
+<l>mette tra scogli il tremolante legno</l>
+<l>sol per l'ocio schifare e il fiero sdegno</l>
+<l>de l'impio amore a mie voglie feconde,</l></lg>
+<lg type="quartina">
+<l>non isperando laurate fronde</l>
+<l>né fare a sacri colli stampa o segno,</l>
+<l>che mal si pò di tal don farsi degno</l>
+<l>chi nanti al volto il bel lume s'asconde;</l></lg>
+<lg type="terzina">
+<l>ma sol per satisfar quel che più deggio:</l>
+<l>Francisco de Bontempi perusino,</l>
+<l>che per altr'occhi al mondo più non veggio.</l></lg>
+<lg type="terzina">
+<l>E lui fia scorta col suo terso latino,</l>
+<l>e fida tramontana, al picol seggio</l>
+<l>del rude socio suo Pietro Arretino.</l>
+</lg></lg></div1>
+
+<div1 type="poesia"><head>58 </head>
+<lg type="sonetto">
+
+
+
+<argument><p>Sonetto</p></argument>
+
+<lg type="quartina">
+<l>Quel fido inretra per superchia fede,</l>
+<l>dolce nimica? A forza questo indegno</l>
+<l>con la timida man a l'impio regno</l>
+<l>manda, dove pietà non si concede.</l></lg>
+<lg type="quartina">
+<l>Più carte ha scritto nuda di mercede,</l>
+<l>sforzando la natura e el poco ingegno</l>
+<l>per un sol verso aver: e si pur degno</l>
+<l>non son di tua beltà, tronca mie sede.</l></lg>
+<lg type="terzina">
+<l>E si del servo in coma brami lauro,</l>
+<l>ecco il ferro, illa destra non sdegnarte,</l>
+<l>che forsa fia del mio mal restauro.</l></lg>
+<lg type="terzina">
+<l>Il corpo, l'alma, il cor vòl contentarte</l>
+<l>fine a la morte e gir da l'indo al mauro:</l>
+<l>ch'un ver amor per morte sol po' lassarte.</l></lg>
+<lg>
+<l>E questa ultima parte</l>
+<l>porrai al sasso e vil stanza nocturna:</l>
+<l>«Amor non morte l'ha condotto in urna».</l></lg>
+</lg></div1>
+
+<div1 type="poesia"><head>59 </head>
+<lg type="sonetto">
+<argument><p>Sonetto</p></argument>
+
+<lg type="quartina">
+<l>Diva, quel piccol don ch'i' t'ho mandato</l>
+<l>solo apalesa tuoi ascosi errori,</l>
+<l>ché, come in quello e' sonno vari colori,</l>
+<l>così tra mille inganni tien tuo stato.</l></lg>
+<lg type="quartina">
+<l>Quel è bel pomo tucto l'aurato,</l>
+<l>la scorza è calda e drento ha freddi umori,</l>
+<l>al gusto monstra poi aspri sapori:</l>
+<l>e tu cangi agli effetti un simil fato.</l></lg>
+<lg type="terzina">
+<l>La scorza sol dinota il fido petto</l>
+<l>ch'arde nel ghiaggio, e tuo cor è per il fructo</l>
+<l>di giaccio che col mio foco è constretto.</l></lg>
+<lg type="terzina">
+<l>Che, non trovando a suo focoso lucto</l>
+<l>il mio aflicto a tuo frigido effetto,</l>
+<l>s'agiunse perché il caldo suo si' structo.</l>
+</lg></lg></div1>
+
+<div1 type="poesia"><head>60 </head>
+<lg type="sonetto">
+
+
+
+<argument><p>Sonetto</p></argument>
+
+<lg type="quartina">
+<l>In terra equali v'ha il ciel producti,</l>
+<l>d'equali effetti in medesima natura:</l>
+<l>tu pomo immoderato di fredura,</l>
+<l>e lei di ghiaccio sol produce fructi.</l></lg>
+<lg type="quartina">
+<l>Tu cresci al caldo e lì fai buon constructi,</l>
+<l>e lei inalza sol per grande arsura;</l>
+<l>e tu dài amaro per l'aurea velura,</l>
+<l>e lei per dolci sguardi gravi lucti;</l></lg>
+<lg type="terzina">
+<l>tu hai pungenti e viride le foglie,</l>
+<l>e lei di speme sol ciascun notrisce,</l>
+<l>congiunta con affanni, pianti e doglie.</l></lg>
+<lg type="terzina">
+<l>Così a stato tal non s'impedisce,</l>
+<l>anzi fato e destin lodon tal voglie:</l>
+<l>che simigliante a sé ciascun petisce.</l>
+</lg></lg></div1>
+
+<div1 type="poesia"><head>61 </head>
+<lg type="sonetto">
+
+
+
+<argument><p>Sonetto</p></argument>
+
+<lg type="quartina">
+<l>Surgite, <foreign lang="lat"><emph>eamus</emph></foreign>, non tardate più</l>
+<l>prendete l'arme, car principi e re,</l>
+<l>che sopportar ormai più non si de'</l>
+<l>chi tradito ha nello orto il buon Iesù.</l></lg>
+<lg type="quartina">
+<l>Surgite, presto, ogn'om si levi su,</l>
+<l>e siamo oniti insieme a buona fé</l>
+<l>che 'l suon della gran tuba svegliato è</l>
+<l>fa quel ch'in basso ci vòl mandar giù.</l></lg>
+<lg type="terzina">
+<l>Se l'impio gallo già partorito ha</l>
+<l>in nostre abitazioni l'uovo so,</l>
+<l>il basalisco ancor drento si sta.</l></lg>
+<lg type="terzina">
+<l>Però il parto suo romper si pò;</l>
+<l>andiam se tal venen sentir si fa:</l>
+<l>cadrà nel basso chi bene alto fo.</l>
+</lg></lg></div1>
+
+<div1 type="poesia"><head>62 </head>
+
+<lg type="sonetto">
+
+
+
+<argument><p>Sonetto</p></argument>
+
+<lg type="quartina">
+<l>Terrestre inferno ove sol Iuda regna,</l>
+<l>e Crasso e Mida possiede oggi il tucto,</l>
+<l>e solo e tristi ci fan buon constructo</l>
+<l>e d'impio Cacco si mantien l'insegna.</l></lg>
+<lg type="quartina">
+<l>Misera patria già famosa e degna,</l>
+<l>come conducta se' in sì gran lucto,</l>
+<l>ch'eri d'ogni virtù radice e fructo,</l>
+<l>e di perfidie or ti veggo pregna?</l></lg>
+<lg type="terzina">
+<l>Iustizia ha tronco la sua iusta spada,</l>
+<l>e le bilance son divenute in basso,</l>
+<l>e fede ha perso sua dritta strada,</l></lg>
+<lg type="terzina">
+<l>e giti omini veril tucti in fracasso,</l>
+<l>con scherno a torto in l'altrui masnada,</l>
+<l>da mover a pietà un cor di sasso.</l></lg>
+<lg type="terzina">
+<l>Ma se vita non casso,</l>
+<l>sentirassi in ciel un nuovo grido:</l>
+<l>che mal pò dominar chi non è fido.</l>
+</lg></lg></div1>
+
+<div1 type="poesia"><head>63 </head>
+
+<lg type="sonetto">
+
+
+
+<argument><p>Sonetto</p></argument>
+
+<lg type="quartina">
+<l>Diversa stella, abiam diverso il fato,</l>
+<l>felici i sventurati in un sol loco:</l>
+<l>a te il ghiaccio e a me noce il foco,</l>
+<l>tu ami con desio, io servo grato,</l></lg>
+<lg type="quartina">
+<l>tu cangi al freddo il suave tuo stato,</l>
+<l>i' mi disfaccio al caldo a poco a poco,</l>
+<l>tu hai quiete nel frigido e gioco,</l>
+<l>e io qual salamandra ho il caldo a grato,</l></lg>
+<lg type="terzina">
+<l>tu per palpare la candidetta mano</l>
+<l>perdi ogni tua virtù, ogni colore,</l>
+<l>e io per remirar divento insano.</l></lg>
+<lg type="terzina">
+<l>Però il caldo e il frigido umore</l>
+<l>in pace soportiam, umil e piano,</l>
+<l>che male accompagnato ha men dolore.</l>
+</lg></lg></div1>
+
+<div1 type="poesia">
+<head>64 </head>
+<lg type="sonetto">
+
+
+
+<argument><p>Sonetto</p></argument>
+
+<lg type="quartina">
+<l>Suave fior più assai di me felice</l>
+<l>se è posto in terra sotto miglior stella,</l>
+<l>tu solchi l'acque con tuo navicella</l>
+<l>senza temer di scogli o rie pendice.</l></lg>
+<lg type="quartina">
+<l>Lasso più di te ch'io son infelice,</l>
+<l>tu senza amor sentire, arco e facella,</l>
+<l>palpi quella che excede ogni altra bella:</l>
+<l>e sol di risguardarla a me non lice.</l></lg>
+<lg type="terzina">
+<l>A lei dài gioco e a me pianto grave,</l>
+<l>tu gli apri di dolceza el divo petto</l>
+<l>e a me chiude il cor con mille chiave;</l></lg>
+<lg type="terzina">
+<l>a lei odore a me calido effetto,</l>
+<l>a me dài morte a lei viver suave:</l>
+<l>ma tal fine ha l'amoroso concetto.</l>
+</lg></lg></div1>
+
+<div1 type="poesia">
+<head>65 </head>
+
+<lg type="sonetto">
+
+
+<argument><p>Sonetto</p></argument>
+
+<lg type="quartina">
+<l>Resta d'Orfeo la citra rauca e 'l verso</l>
+<l>a cantar le tuo lalde e tuo latino,</l>
+<l>non basta ingegno uman anzi divino</l>
+<l>pel vago stile risonante e terso.</l></lg>
+<lg type="quartina">
+<l>Divien per te il Pegaso summerso,</l>
+<l>il fonte e l'acque, e 'l monte Caballino,</l>
+<l>più non val Dante o il terso Serafino,</l>
+<l>ch'al parangon di te han lo stil perso.</l></lg>
+<lg type="terzina">
+<l>Fronde in coma arai netta di fralde</l>
+<l>qual preclaro poeta al divo fonte,</l>
+<l>che in vita e doppo morte è sempre lalde.</l></lg>
+<lg type="terzina">
+<l>Preparato t'ha su il Parnaso monte</l>
+<l>il vaso e l'acqua sì che excelso galde,</l>
+<l>poi che tu' opre son qual vate pronte.</l>
+</lg></lg></div1>
+
+<div1 type="poesia">
+<head>66 </head>
+<lg type="sonetto">
+
+
+<argument><p>Sonetto</p>
+<p><foreign lang="lat"><emph>Dive Magdalene dicatum</emph></foreign></p></argument>
+
+<lg type="quartina">
+<l>Quel acceso desir ch'ogn'altro excede</l>
+<l>che ti constrinse, diva Magdalena,</l>
+<l>seguir il Nazaren, pianger suo pena,</l>
+<l>meritò tòrre a Lazer d'urna il piede.</l></lg>
+<lg type="quartina">
+<l>Quel caro odor che più non si concede</l>
+<l>al van Cupido, ma grato in la pia cena</l>
+<l>sparso a' piè divi, car Maria, serena</l>
+<l>rende la sponsa a quel ch'al litto riede.</l></lg>
+<lg type="terzina">
+<l>O ciechi e stolti in mondan cure involti,</l>
+<l>contemplate l'ardente e 'l puro effecto</l>
+<l>che per tetti regal vil masse ha tolti.</l></lg>
+<lg type="terzina">
+<l>Celesti canti ormai son suo dilecto,</l>
+<l>e divin messi intorno a lei racolti</l>
+<l>van de locausti sol cibando il pecto.</l></lg>
+<lg>
+<l>O sumo e divo aspecto,</l>
+<l>miserere, ch'i' tolgo a gli occhi il velo</l>
+<l>poi ch'un presto pentir rapisce il celo.</l>
+</lg></lg></div1>
+
+<div1 type="poesia">
+<head>67 </head>
+<lg type="sonetto">
+
+
+
+<argument><p>Sonetto di Pietro pictore Arretino</p></argument>
+
+<lg type="quartina">
+<l>Ferma, gentil viator, alquanto el piede,</l>
+<l>la mano stende e lieva el picol masso,</l>
+<l>vedrai, invido cor di pietà casso,</l>
+<l>qual fia de' mortal ultima sede.</l></lg>
+<lg type="quartina">
+<l>Giovane fui di forteza, erede</l>
+<l>unico di beltà, e Mida, Crasso,</l>
+<l>d'or superai, et or putrido e lasso</l>
+<l>son poca terra né più l'occhio vede.</l></lg>
+<lg type="terzina">
+<l>Ahi miseri mortal, vedi le spoglie</l>
+<l>offerte dal victor, lo scudo e l'arco,</l>
+<l>poi sol un vetro gli dà morte e doglie:</l></lg>
+<lg type="terzina">
+<l>però el celo fie da noi iscarco,</l>
+<l>che son qual sol di verno, speme e voglie,</l>
+<l>che or è chiar e or di nube carco.</l>
+</lg></lg></div1>
+
+<div1 type="poesia">
+<head>68 </head>
+<lg type="sonetto">
+
+
+
+<argument><p>Sonetto</p></argument>
+
+<lg type="quartina">
+<l>L'orrenda tuba el gran iudicio appella,</l>
+<l>e quel che in legno invocò Elì</l>
+<l>sede <emph>pro tribunal</emph>, onde così</l>
+<l>temo fuggir la stigial facella.</l></lg>
+<lg type="quartina">
+<l>O unica del ciel nocturna stella</l>
+<l>che partoristi el ver Adonaì,</l>
+<l>presta soccorso a questo extremo dì,</l>
+<l>e tra' del mar la debil navicella.</l></lg>
+<lg type="terzina">
+<l>Dolce mie diva, nanti a poca terra</l>
+<l>sien le stanche ossa tomi d'impio scelo,</l>
+<l>che l'infernal furor sempre mi serra.</l></lg>
+<lg type="terzina">
+<l>Miserere peccavi, io non tel celo,</l>
+<l>e 'nvoco penitenzia di tanto erra</l>
+<l>sol per fruir el trionfante cielo.</l>
+</lg></lg>
+
+<p><emph>Finis</emph></p>
+</div1>
+
+<div1 type="poesia">
+<head>69 </head>
+<lg type="capitolo-ternario">
+
+<argument><p>Capitulo primo de la nocte</p></argument>
+
+<lg type="terzina">
+<l>Tacita nocte, quanto ogni mortale</l>
+<l>canton tuo lode in questo mondan giro,</l>
+<l>e 'l placido riposo al viver frale,</l>
+</lg><lg type="terzina">
+<l>tanto io grave martìr del mio cor tiro</l>
+<l>al splendor divo di tuoi scuri rai,</l>
+<l>tal che bramo sempre tuo velato miro.</l>
+</lg><lg type="terzina">
+<l>Or surge l'artigian da tanti guai,</l>
+<l>torna al riposo privando suo face</l>
+<l>da marmi, dal martel, statue e lai.</l>
+</lg><lg type="terzina">
+<l>Del stanco zappator il braccio tace</l>
+<l>e 'l gran sudor, e al suo nido torna</l>
+<l>al cibo, al fuoco, al riposo, alla pace.</l>
+</lg><lg type="terzina">
+<l>El montanar ormai più non soggiorna,</l>
+<l>con triegua lassa il verdegiante bosco,</l>
+<l>olmi, quercie, cipressi, pini e orna.</l>
+</lg><lg type="terzina">
+<l>El capitan al tuo nocturno fosco</l>
+<l>riede alle tende abandonando il campo,</l>
+<l>el mur, la pugna, el nemico, el fier tosco.</l>
+</lg><lg type="terzina">
+<l>Trova el defesso animal già lo scampo</l>
+<l>dal tuo piatoso sguardo, e schifa el laccio,</l>
+<l>el cacciator, el vischio, el can, el vampo.</l>
+</lg><lg type="terzina">
+<l>Al misero staffier togli lo 'mpaccio,</l>
+<l>el tanto caminar, el gran sentiero,</l>
+<l>el freddo, el vento, el nevicar, el ghiaccio.</l>
+</lg><lg type="terzina">
+<l>Or doni requie al buon fido corriero,</l>
+<l>e senza affanni ormai più non tocca</l>
+<l>el piano, el monte, la silva, el destriero.</l>
+</lg><lg type="terzina">
+<l>El navicante or presso al porto scocca,</l>
+<l>visto te, pia, lassa in pace e venti,</l>
+<l>la barca, el remo, la vel e la cocca.</l>
+</lg><lg type="terzina">
+<l>Ogni cultor del ciel par si contenti</l>
+<l>visto te, notte, posar ogni doglia,</l>
+<l>officii, desceplin, digiuni e stenti.</l>
+</lg><lg type="terzina">
+<l>El timido fanciul per te se spoglia,</l>
+<l>dal mastro, dalla scol, a casa riede</l>
+<l>in canto, in riso, in gaudio, en festa, en gioglia.</l>
+</lg><lg type="terzina">
+<l>El pelegrin el gran camin excede</l>
+<l>posa a l'albergo assai lieto e contento</l>
+<l>el carco, el voto, el bastone, el piede.</l>
+</lg><lg type="terzina">
+<l>Dallo exercizio più non ha spavento</l>
+<l>la pigra vecchia, e posar par non incresca</l>
+<l>la tel, la rocca, el fuso, el suo tormento.</l>
+</lg><lg type="terzina">
+<l>El latro al suo voler ormai s'adesca,</l>
+<l>con festa prende ei desiati artigli,</l>
+<l>la scala, el grimaldel, el palo e l'esca.</l>
+</lg><lg type="terzina">
+<l>L'astrologo con gioia par che pigli,</l>
+<l>per adempir del futur suo desire,</l>
+<l>compassi, sguadre, triangol, sigilli.</l>
+</lg><lg type="terzina">
+<l>Ahi notte, e prisionier più a sentire</l>
+<l>non stanno al buco temendo ogni cosa,</l>
+<l>le forche, el ferro, la taglia, el morire.</l>
+</lg><lg type="terzina">
+<l>Lievi a l'amante ogni fiamma ascosa,</l>
+<l>e tolli al fido petto l'impio ardore,</l>
+<l>e i passi, el foco, gellosia noiosa.</l>
+</lg><lg type="terzina">
+<l>Lassa el fren il caval e 'l suo furore,</l>
+<l>el giogo il bove, il patrone la terra,</l>
+<l>le mosche né puntur, el gran sudore.</l>
+</lg><lg type="terzina">
+<l>Notte, al tuo sguardo pio ogni om sferra</l>
+<l>da sé ogni martìr, ogni gran pianto,</l>
+<l>labor doglia, terror che e cori afferra:</l>
+</lg><lg>
+<l>e io pace non ho tanto né quanto.</l>
+</lg></lg></div1>
+
+<div1 type="poesia">
+<head>70 </head>
+<lg type="versi">
+
+
+
+<argument><p>Capitulo secondo</p></argument>
+
+<lg type="terzina">
+<l>Nasce da gli occhi tuoi una tal grazia</l>
+<l>e tal splendor, che 'l miser cor isface,</l>
+<l>e sempre bramo splendor con tal grazia.</l>
+</lg><lg type="terzina">
+<l>Nasce d'un sguardo tuo foco che sface</l>
+<l>el fido pecto, e par tanto suave</l>
+<l>che bramo sguardo sol che più m'isface.</l>
+</lg><lg type="terzina">
+<l>Nasce d'un riso tuo doglia suave</l>
+<l>al stanco servo, e par tanto benigna</l>
+<l>che bramo riso sol tanto suave.</l>
+</lg><lg type="terzina">
+<l>Nasce di bocca tua tanto benigna</l>
+<l>un vento lieve che mia barca smanca,</l>
+<l>e bramo vento sol da te benigna.</l>
+</lg><lg type="terzina">
+<l>Nasce d'un sospir tuo orror che esmanca</l>
+<l>el mesto core, con sì dolce effecto,</l>
+<l>che bramo sol sospir che più mi smanca.</l>
+</lg><lg type="terzina">
+<l>Nasce d'un sdegno tuo un tal effecto,</l>
+<l>e sface e membri con sì piano amore,</l>
+<l>che bramo solo isdegno e tale effecto.</l>
+</lg><lg type="terzina">
+<l>Nasce del ghiaccio tuo un tale amore</l>
+<l>che mi consuma qual amaro tosco,</l>
+<l>e sempre bramo ghiaccio e tal amore.</l>
+</lg><lg type="terzina">
+<l>Nasce del dolce tuo un amar tosco,</l>
+<l>e ha tal forza che mi manda a l'urna,</l>
+<l>e sempre bramo gustar un tal tosco.</l>
+</lg><lg type="terzina">
+<l>Nasce del tuo dur cor una oscur urna</l>
+<l>alla mesta alma, con sì grata morte,</l>
+<l>che bramo all'alma sol una tetra urna.</l>
+</lg><lg type="terzina">
+<l>Nasce di tuo beltà sì cara morte</l>
+<l>ch'a forza mi conduce al basso regno,</l>
+<l>e sempre bramo beltà con tal morte.</l>
+</lg><lg type="terzina">
+<l>Nasce de l'impio tuo focoso regno</l>
+<l>pianti, foco, sospir, affanni e doglia,</l>
+<l>e bramo sol martìr dal crudel regno.</l>
+</lg><lg type="terzina">
+<l>Nasce de tuoi effecti un'aspra doglia</l>
+<l>che me disface come cera al foco,</l>
+<l>e sempre bramo effecti con tal doglia.</l>
+</lg><lg type="terzina">
+<l>Nasce dolor da te con pioggia e foco,</l>
+<l>sospir, sguardi, venen, timor e lucto,</l>
+<l>e sempre bramo tormenti e tal foco,</l>
+</lg><lg>
+<l>e son stanco a' martìr, non sazio in tucto.</l>
+</lg></lg>
+
+<p><emph>Finis</emph></p>
+</div1>
+
+<div1 type="poesia"><head>71 </head>
+<lg type="capitolo-ternario">
+
+
+
+<argument><p><foreign lang="lat">Pietro pictore Arretino</foreign>.</p><p>Capitulo</p></argument>
+
+<lg type="terzina">
+<l>Ferma, car viator, alquanto il passo,</l>
+<l>e queste miser ossa in urna mira</l>
+<l>che forse el scelo da tuo cor fie casso.</l>
+</lg><lg type="terzina">
+<l>La morte son, che quanto in torno gira</l>
+<l>lo emisperio questa falce e arco</l>
+<l>in brieve a poca terra ciascun tira.</l>
+</lg><lg type="terzina">
+<l>Ecco quegli ch'al mondo aureo carco</l>
+<l>portorno acolti in tanti piacer vani,</l>
+<l>che son qual cechi cervi colti al varco.</l>
+</lg><lg type="terzina">
+<l>In che tanto sperar, stolti e insani,</l>
+<l>in questa debil barca, in questo legno</l>
+<l>ch'ognor fortuna ci sbatte le mani.</l>
+</lg><lg type="terzina">
+<l>Ahi, quanto è brieve ogni mondan disegno</l>
+<l>al paragon della devin salute,</l>
+<l>della qual chi ben vive solo è degno.</l>
+</lg><lg type="terzina">
+<l>Che tante speme e fatiche perdute</l>
+<l>in un momento passa ei terren scanni,</l>
+<l>infanzia, gioventù e senettute.</l>
+</lg><lg type="terzina">
+<l>Vola la nostra età, passon questi anni</l>
+<l>al voltar d'ochio, è sereno e piove,</l>
+<l>oggi in istato e doman pien d'affanni.</l>
+</lg><lg type="terzina">
+<l>Qual leve vento ch'ogni fronda move,</l>
+<l>e questa nostra vita e membri infermi,</l>
+<l>e presto in oscur terra facciàn cove.</l>
+</lg><lg type="terzina">
+<l>La desiata carne è pasto ai vermi,</l>
+<l>è divorato il corpo a un batter d'ale,</l>
+<l>et orrido fetor son nostri termi.</l>
+</lg><lg type="terzina">
+<l>El tanto afaticar, mortal, che vale,</l>
+<l>che tutto quel che avete oprato, stolti,</l>
+<l>portate sol delitto al centro frale?</l>
+</lg><lg type="terzina">
+<l>O ciechi, stolti, in mondan cure involti,</l>
+<l>contemplate, infelici, el viver poco,</l>
+<l>e le catene, e i lacci ove siàn colti.</l>
+</lg><lg type="terzina">
+<l>Spezzate le delizie e l'auro foco,</l>
+<l>foco, miser mortal, ch'ogni or ci sprona</l>
+<l>al stigio regno, al tartareo loco.</l>
+</lg><lg type="terzina">
+<l>Lassate ogni rancor che l'alma intona,</l>
+<l>togliete al cor, tollete il grave masso,</l>
+<l>ch'al gran iudicio già la tuba sona.</l>
+</lg><lg type="terzina">
+<l>Superbi, umiliate il coro di sasso,</l>
+<l>troncate a crudeltà l'orrende porte,</l>
+<l>che 'l ciel un impio cor fa da sé casso.</l>
+</lg><lg type="terzina">
+<l>S'a reo delitto pronti insta morte,</l>
+<l>mirate alquanto, cogitate el fine,</l>
+<l>che chi cogita el fin ha buona sorte.</l>
+</lg><lg type="terzina">
+<l>Quanto s'affannon le membra meschine</l>
+<l>in seguir Crasso, Mida, invidi e rei,</l>
+<l>sol per portar di là carco de spine.</l>
+</lg><lg type="terzina">
+<l>Che val tanti teatri e van trofei</l>
+<l>in el fetido mondo orrido e brutto,</l>
+<l>che causa son di far gridar omei?</l>
+</lg><lg type="terzina">
+<l>El tempo dispensate in buon costrutto,</l>
+<l>mentre servate a brieve vita il velo,</l>
+<l>che solo il poco tempo è nostro fructo.</l>
+</lg><lg type="terzina">
+<l>Spogliate il cor d'ogni nefando scelo,</l>
+<l>coprite el pecto con la diva croce,</l>
+<l>che chi ben vive sprezza mortal telo.</l>
+</lg><lg type="terzina">
+<l>Odite el Redemptore con alta voce</l>
+<l>al monte dir: «Venite, figli, a l'acque,</l>
+<l>che l'ardor spegnerò impio e atroce».</l>
+</lg><lg type="terzina">
+<l>Seguite l'orme non di quel che tacque</l>
+<l>la verità inanzi al gran motore,</l>
+<l>quando al suo fratre dar morte li piacque.</l>
+</lg><lg type="terzina">
+<l>Non crudo, iniusto, Iuda traditore,</l>
+<l>ma qual Pietro piange il gran delitto,</l>
+<l>qual iusto re del bel salter cantore.</l>
+</lg><lg type="terzina">
+<l>Non da che el vostro cor miser, aflitto,</l>
+<l>commisso ha scel, al laccio impio corrite,</l>
+<l>ma sol a penitenzia al tronco ritto.</l>
+</lg><lg type="terzina">
+<l>Ponete requie in tante mondan lite,</l>
+<l>vedete el pellican, el summo amore</l>
+<l>che stende el pecto, ormai presto pentite,</l>
+</lg><lg>
+<l>che il presto pentir copre l'errore.</l>
+</lg></lg></div1>
+
+<div1 type="poesia">
+<head>72 </head>
+
+<lg type="versi">
+
+
+<argument><p>Desperata</p></argument>
+
+<lg type="terzina">
+<l>Vego già preparar il verde amanto</l>
+<l>a primaver, e gli ucelletti in fronde</l>
+<l>di tronco in tronco far lor terso canto.</l>
+</lg><lg type="terzina">
+<l>Ecco le desiate e liquide onde,</l>
+<l>al defesso animal el chiaro fonte,</l>
+<l>saziando le lor voglie sitibonde.</l>
+</lg><lg type="terzina">
+<l>El timido pastor la gregge al monte</l>
+<l>cantando pasce sotto l'ombra d'orno,</l>
+<l>adornando di fior varii suo fronte.</l>
+</lg><lg type="terzina">
+<l>Ecco illustra auror el chiaro giorno</l>
+<l>a' membri stanchi del fido cultore,</l>
+<l>e gli arbori produre intorno intorno.</l>
+</lg><lg type="terzina">
+<l>La nuda terra allo sparso sudore,</l>
+<l>buon seme producendo, gioglia rende,</l>
+<l>restaurando ogn'om delle perse ore.</l>
+</lg><lg type="terzina">
+<l>Ahi lasso, foco al foco mie s'accende,</l>
+<l>sospir, doglia, martìr, pianti e affanni,</l>
+<l>el ciel, l'aer, la terra, el mar m'offende.</l>
+</lg><lg type="terzina">
+<l>I' veggo in vano già spesi mie' anni,</l>
+<l>né mai requie trovai al viver poco,</l>
+<l>tal che non vo' sperar più tanti danni.</l>
+</lg><lg type="terzina">
+<l>Ma sol invoco per mie canto e gioco,</l>
+<l>Pluton e 'l centro a trarmi de tal celo,</l>
+<l>ch'a chi mal vive è benefizio il foco.</l>
+</lg><lg type="terzina">
+<l>E nanti gionga al pecto l'impio telo,</l>
+<l>di morte per dispecto e per più doglia,</l>
+<l>vorrei veder arder il mondo e 'l cielo.</l>
+</lg><lg type="terzina">
+<l>Vorrei veder questa misera scoglia</l>
+<l>ligata in mezo a doi rapaci cani,</l>
+<l>e esser cibo a lor sfrenata voglia.</l>
+</lg><lg type="terzina">
+<l>Vorrei veder, fuor di paduli e chiani,</l>
+<l>saltar draghi, leon, fier, orsi e lupi,</l>
+<l>divorando per forza e semi umani.</l>
+</lg><lg type="terzina">
+<l>Vorrei veder e boschi cavi e cupi,</l>
+<l>nel mezo le città latri e spioni,</l>
+<l>discordie, risse, sempre ogn'om occupi.</l>
+</lg><lg type="terzina">
+<l>Piogge vorrei veder, baleni e toni,</l>
+<l>e fulminar dal ciel sagitte e sassi,</l>
+<l>e templi con teatri spezi e 'ntoni.</l>
+</lg><lg type="terzina">
+<l>In mar vorrei veder gli scogli e' massi</l>
+<l>urtar le barche, e mandar presto in fondo</l>
+<l>le merce coi nochier aflicti e lassi.</l>
+</lg><lg type="terzina">
+<l>Vorrei l'acque veder girar a tondo</l>
+<l>a l'universo la secunda volta,</l>
+<l>en fame, en pesta, en guerra el ciel e 'l mondo.</l>
+</lg><lg type="terzina">
+<l>Vorrei del centro la catena sciolta</l>
+<l>fussi, e fuor saltassi monstri e furie,</l>
+<l>e su del cielo ogni pietà ritolta.</l>
+</lg><lg type="terzina">
+<l>Vorrei tra il figlio e 'l patre inganni e 'ngiurie,</l>
+<l>a omicido e fratri poi insieme,</l>
+<l>spose e mariti a tosco, a rie penurie.</l>
+</lg><lg type="terzina">
+<l>Senza pietà vorrei veder né speme,</l>
+<l>morir gli omini per terra a lance e spade,</l>
+<l>el sangue fussi un mar quando più freme.</l>
+</lg><lg type="terzina">
+<l>Vorrei veder ogni clara ciptade</l>
+<l>a sacco, a fuoco, a tagli, a preda, a morte,</l>
+<l>e sol per sangue germinar le biade.</l>
+</lg><lg type="terzina">
+<l>Vorrei veder, per mie destin e sorte,</l>
+<l>e mansueti angel lupi, orsi e draghi,</l>
+<l>e calcar su del ciel ogni consorte.</l>
+</lg><lg type="terzina">
+<l>Vorrei veder per fiumi, fossi e laghi,</l>
+<l>cader gli omini per fame, orridi e brutti,</l>
+<l>e di mangiar l'un l'altro fussin brami.</l>
+</lg><lg type="terzina">
+<l>Gli albori vorrei veder produr per fructi</l>
+<l>crudel serpenti al mie viver fosco,</l>
+<l>e 'l secul sempre in foco, doglia e lucti.</l>
+</lg><lg type="terzina">
+<l>Vorrei veder la terra e ciascun bosco</l>
+<l>render per seme al fin sol fiamma e foco,</l>
+<l>e germinar le vite amaro tosco.</l>
+</lg><lg type="terzina">
+<l>Vorrei le liquide onde in ogni loco,</l>
+<l>e fiummi e fonti, el mar, paludi e rivi,</l>
+<l>correr per sangue uman con festa e gioco.</l>
+</lg><lg type="terzina">
+<l>Vorrei pesci, animal, facessin privi</l>
+<l>gli omini in terra e di vita cassi,</l>
+<l>e, messi nel sepulcro, ancor sien vivi.</l>
+</lg><lg type="terzina">
+<l>Vorrei del ciel le stelle in gran fracassi,</l>
+<l>veder pugnar insieme sol e luna</l>
+<l>e 'n terra rovinar fra tronchi e massi.</l>
+</lg><lg type="terzina">
+<l>E i ciel vorrei facessin rea fortuna,</l>
+<l>l'un verso l'altro e poi cader in terra,</l>
+<l>e diventassi polve ciascheduna.</l>
+</lg><lg type="terzina">
+<l>Gli dèi vorrei veder a trista serra,</l>
+<l>rovinar Giove e 'l foribundo Marte,</l>
+<l>e i bei pianeti tutti a l'armi, a guerra.</l>
+</lg><lg type="terzina">
+<l>L'orrendo cavo inferno e le suo parte</l>
+<l>escon del centro e sien dominatori</l>
+<l>del ciel, e li Caron tenga suo sarte.</l>
+</lg><lg type="terzina">
+<l>E poi al secul mandon presto fuori</l>
+<l>un crudel vampo, e sol s'abbi a mortare</l>
+<l>col sangue degli uman tanti furori.</l>
+</lg><lg type="terzina">
+<l>Dapoi si vegga di terra svegliare</l>
+<l>gli albor, le piante, ensiemi far bataglia,</l>
+<l>pietra con pietra e crudeltà exclamare.</l>
+</lg><lg type="terzina">
+<l>E l'impia morte poi alla schermaglia</l>
+<l>esca colla suo falce e fiero strale,</l>
+<l>e privi ognun di vitta e no gli caglia.</l>
+</lg><lg type="terzina">
+<l>Gli dèi, gli omini, le piante a fiero male,</l>
+<l>e gli animal vadin in precipizio,</l>
+<l>e manchi l'emisperio a un batter d'ale,</l>
+</lg><lg>
+<l>e vorei ogni giorno el gran iudizio.</l>
+</lg></lg>
+<p><foreign lang="lat"><emph>Finis</emph>.</foreign></p>
+<p><foreign lang="lat"><emph>Pietro pictore Arretino vale</emph>.</foreign></p>
+</div1>
+
+<div1 type="poesia"><head>73 </head>
+
+<lg type="capitolo-ternario">
+
+
+<argument><p><emph>Capitulo ad dominam</emph></p></argument>
+
+<lg type="terzina">
+<l>Privo d'ogni piacer, colmo d'affanni,</l>
+<l>cum gemi, cum suspir, lacrime e stenti,</l>
+<l>scrivo bagnando el pecto e i tristi panni.</l>
+</lg><lg type="terzina">
+<l>Ma perché hai del mio pecto i spirti spenti,</l>
+<l>non ti potrò narrar tutta la pena,</l>
+<l>che chi mort'è non puol far gran lamenti.</l>
+</lg><lg type="terzina">
+<l>Gli ochi, che dal mio cor un fiume mena,</l>
+<l>han facto a ciò ti scriva, cruda, ingiostro,</l>
+<l>temo che non vorai lezer qui apena.</l>
+</lg><lg type="terzina">
+<l>Credo che scesa sei da l'alto chiostro</l>
+<l>per far in pianto star mia verde etade,</l>
+<l>ma moro voluntier per amor vostro.</l>
+</lg><lg type="terzina">
+<l>Usammi pur ognor gran crudeltade,</l>
+<l>stracciammi pur se sciai, fammi ogni torto,</l>
+<l>ch'io ti voglio servir con fideltade.</l>
+</lg><lg type="terzina">
+<l>Mirami un poco ormai, squalido e smorto,</l>
+<l>che 'l primo dì ch'io vidi tua figura,</l>
+<l>me porgesti quel duol qual ancor porto.</l>
+</lg><lg type="terzina">
+<l>Poi che posto serò in la tomba oscura,</l>
+<l>alor a pietà invan mover vorai</l>
+<l>tuo delirante cor, ch'ognor s'indura.</l>
+</lg><lg type="terzina">
+<l>Soccorri adesso a li superflui guai,</l>
+<l>non expectar che morte s'avicina,</l>
+<l>che volendome aitar poi non potrai.</l>
+</lg><lg type="terzina">
+<l>Ascolta el mio lamento, Carandina,</l>
+<l>ho perso el cibo, el somno, el cor e l'alma,</l>
+<l>e te adoro per dea sera e matina.</l>
+</lg><lg type="terzina">
+<l>Tu sola del mio ben porti la palma,</l>
+<l>tu sola me pòi dar or vita, or morte,</l>
+<l>tu sol leticia e duol al cor m'incalma.</l>
+</lg><lg type="terzina">
+<l>Tu sola sei el mio destino e sorte,</l>
+<l>per te languisco e tu, crudel, contenti,</l>
+<l>onde s'apre per me l'enfernal porte.</l>
+</lg><lg type="terzina">
+<l>Deh stu sentissi i mei sospir cocenti,</l>
+<l>deh stu vedesse el cor che si consuma,</l>
+<l>acquietaresti alquanto i mei lamenti.</l>
+</lg><lg type="terzina">
+<l>Quel angelico guardo che mi aluma</l>
+<l>non mi celar, mia diva, s'io ti servo,</l>
+<l>che cusì vòl quel dio de leve piuma.</l>
+</lg><lg type="terzina">
+<l>Non tanto al fonte el sitibundo cervo</l>
+<l>corre comm'io ognor corro al ponto extremo,</l>
+<l>cagion del tuo voler crudo e protervo.</l>
+</lg><lg type="terzina">
+<l>Ahi Carandina cara, forte temo</l>
+<l>che tu non pigli el mio scriver a sdegno,</l>
+<l>certo per gran terror m'arosso e tremo.</l>
+</lg><lg type="terzina">
+<l>Se de servirti tu me stimi indegno,</l>
+<l>io te rispondo dandoti un exemplo</l>
+<l>che tua non è la beltà ma sol pegno.</l>
+</lg><lg type="terzina">
+<l>Fanne de notte a la luna contemplo,</l>
+<l>magior de l'altre stelle la vedrai,</l>
+<l>e questa a te, crudel, ora ti axemplo.</l>
+</lg><lg type="terzina">
+<l>Vedi tra l'altre pur spande soi rai,</l>
+<l>ma pur quel suo splendor prende dal sole:</l>
+<l>mira de giorno lei non splende mai.</l>
+</lg><lg type="terzina">
+<l>Tempo dà la beltà, tempo la tole,</l>
+<l>tempo porgie piacer, tempo dà pena,</l>
+<l>el tempo fa indurir, tempo fa mole.</l>
+</lg><lg type="terzina">
+<l>El tempo gioventù seco ne mena,</l>
+<l>col tempo n'averai più tanti amanti,</l>
+<l>che 'l tempo sciolge e speza ogni catena.</l>
+</lg><lg type="terzina">
+<l>Però tu cruda che mi tieni in pianti,</l>
+<l>se n'hai pietà di me io ti concludo</l>
+<l>col tempo umilierati s'or te avanti.</l>
+</lg><lg type="terzina">
+<l>Né te fidar de quel fanciulin nudo,</l>
+<l>che porgie ogni lusinghe e poi disserra</l>
+<l>con più magior furor quel suo stral crudo.</l>
+</lg><lg type="terzina">
+<l>Or io vivo per te in doglia e erra,</l>
+<l>aggi di me pietà pria ch'io sia in polve,</l>
+<l>che tosto questa età ne va sotterra,</l>
+</lg><lg>
+<l>e ogni edificio el tempo al fin dissolve.</l>
+</lg></lg>
+
+<p><foreign lang="lat"><emph>Finis</emph>.</foreign></p>
+</div1>
+
+<div1 type="poesia">
+<head>74 </head>
+
+<argument><p>Egloga.</p></argument>
+
+
+<stage>Interlocutori: Carmilio, Ecco, Incredulo, Amore e Calicella</stage>
+<sp><speaker>Carmilio</speaker>
+
+<lg type="egloga">
+<lg type="terzina">
+<l>Ohimè che face, ohimè qual cera strugomi,</l>
+<l>sento mancar gli spirti, e membri cascono,</l>
+<l>doi fier mordace c'han el mio cor sugomi.</l>
+</lg><lg type="terzina">
+<l>Qual stella, da che in me tal martìr nascono,</l>
+<l>io ardo, tremo, aghiaggio, moro, impalido,</l>
+<l>che sempre var pensieri el pecto pascono.</l>
+</lg><lg type="terzina">
+<l>Ora fero forte, e or timido e pavido,</l>
+<l>or libro, e or in servitute e in laccioli,</l>
+<l>or vento leve, e or focoso e calido.</l>
+</lg><lg type="terzina">
+<l>Ahi quanti laberinti, ahi quanti trappoli</l>
+<l>son tesi a questa nostra vita fragile,</l>
+<l>tal che dal viver mio al tutto islacciomi.</l>
+</lg><lg type="terzina">
+<l>Deh, vedi il mondo quanto egli è volagile,</l>
+<l>or è sereno, or si vede piovere,</l>
+<l>or è seco il terren e or erbagile.</l>
+</lg><lg type="terzina">
+<l>Ahi sento l'ossa mia tutte commovere,</l>
+<l>che farò, taccio? O ha qualcun de' scropoli</l>
+<l>tanti martìr? arò el secreto amovere.</l>
+</lg><lg type="terzina">
+<l>Or su, timido piè, frangi gli scropoli</l>
+<l>e troviamo Ecco al suo ver abitaculo,</l>
+<l>che mal tacer si può d'amor e giocoli.</l>
+</lg><lg type="terzina">
+<l>Mie fido can, prendi el zainetto, el baculo,</l>
+<l>sarai buon duce, a te gli armenti arcovero,</l>
+<l>e qual pastor soporta el grave obstaculo.</l>
+</lg><lg type="terzina">
+<l>Non più mi coprirà l'ombra del sovero,</l>
+<l>né più l'armento mio istimo o aprezzolo,</l>
+<l>che sol chi odia il ciel è oggi povero.</l>
+</lg><lg type="terzina">
+<l>Ormai del mondo ogni piacer sprezzolo,</l>
+<l>requiescite in pace, caro armento,</l>
+<l>che altro gran pensieri al cor carezzolo.</l>
+</lg><lg type="quartina">
+<l>Ecco, deh dimmi, ispavento? A vento.</l>
+<l>In vento se risolve e martìr tersi? Sì.</l>
+<l>Troverà l'amor mie non sol acento? Cento.</l>
+<l>Dimmi, vedrò la diva in questo dì? Odi.</l>
+</lg><lg type="terzina">
+<l>Un acuto martel el mio cor battime,</l>
+<l>ha Calicella tutto me destritolo,</l>
+<l>o quante nuove fiame il petto sbatime.</l>
+</lg><lg type="terzina">
+<l>Vien meco Callicella in pinguo vitulo,</l>
+<l>dentro l'albergo trovarien da edere</l>
+<l>con festa al fuoco cantando un capitulo.</l>
+</lg><lg type="terzina">
+<l>Gli agni, e castron, le capre porrai vèdere</l>
+<l>pascere a l'ombra le erbette tenere,</l>
+<l>el can custodio a chi volessi ledere.</l>
+</lg><lg type="terzina">
+<l>Il fido gregge usar latte di Venere</l>
+<l>con festa e gioco nel verde campestrico:</l>
+<l>deh, lassa il mondo ch'è sol vento e cenere.</l>
+</lg><lg type="terzina">
+<l>Ah che bel viver è in luogo silvestrico:</l>
+<l>abeti, fagi, pin, aceri e ulmini</l>
+<l>circundon le casipol all'alpestrico</l>
+</lg><lg type="terzina">
+<l>che val tanti teatri e alti culmini,</l>
+<l>e gemme, argento, or, tante delizie,</l>
+<l>che sempre son al cor pungenti fulmini?</l>
+</lg><lg type="terzina">
+<l>Non sai gl'inganni e l'ascose tristizie,</l>
+<l>e quanti povarel sempre disgombrano</l>
+<l>senza ragion per lor tante avarizie.</l>
+</lg><lg type="terzina">
+<l>Però lassa e pensier ch'al cor piombano,</l>
+<l>e fa che 'l senso la ragion non superi,</l>
+<l>che mal se pò pentir, quando e mal frombano.</l>
+</lg><lg type="terzina">
+<l>Non tardar che mai più tal or recuperi,</l>
+<l>quanto è beato chi tal gioie reputa</l>
+<l>de tal cipressi, quercie e alti sucheri.</l>
+</lg><lg type="terzina">
+<l>Noi piantaren nello orticiel la neputa,</l>
+<l>pimpinella, latuca e caccialepore,</l>
+<l>e chi ben pianta più tra noi se reputa.</l>
+</lg><lg type="terzina">
+<l>Carderini, fanelli, frenguegli e lepore</l>
+<l>col vischio piglieren, con rete e trapole</l>
+<l>barzetti, lasche en fiumicelli et equore.</l>
+</lg><lg type="terzina">
+<l>Con rastri, aratri, vomeri e zappole</l>
+<l>cultivarien la terra, e poi en le grottole</l>
+<l>cogliaren more, tartufi, fraghe e lapole.</l>
+</lg><lg type="terzina">
+<l>Cantando poi terzetti e varie frottele,</l>
+<l>renfrescandoci andren per fonti e rivoli,</l>
+<l>né più ci ca&lt;n&gt;teran civette e nottele.</l></lg></lg>
+</sp>
+
+<sp><speaker>Incredulo</speaker>
+<lg type="versi">
+<lg type="terzina">
+<l>I' sento, si ben noto o impecto scrivoli,</l>
+<l>far qua tra gli olmi una solenne predica</l>
+<l>che fia: «Fermite, piè, andrò a' rivoli ».</l>
+</lg><lg type="terzina">
+<l>Deh si' che vòl se 'l mio Carmilio predica,</l>
+<l>vedrai che festa, vedrai cosa da ridere,</l>
+<l>forse tal piaga questo baston medica.</l>
+</lg><lg type="terzina">
+<l>I' voglio e membri suoi tutti dividere,</l>
+<l>e far col mio falcin suo' membri maceri,</l>
+<l>e tutte l'osse per forza decidere.</l>
+</lg><lg type="terzina">
+<l>Ah ah Carmilio, te riposi agli aceri,</l>
+<l>e predicando vai fuor di quaresima,</l>
+<l>anzi cercando che io tutto ti laceri,</l>
+</lg><lg type="terzina">
+<l>che pensi a Calicella dar la cresima</l>
+<l>con tante tuo menzogne e finte fabule:</l>
+<l>deh come non ti scaccia lei medesima?</l>
+</lg></lg></sp>
+
+<sp><speaker>Carmilio</speaker>
+<lg type="versi">
+<lg type="terzina">
+<l> Deh taci, impio vilan, nato in le stabule,</l>
+<l>che mal pò iudicar chi el teren arolo</l>
+<l>la gran passion d'amor con sue parabule.</l>
+</lg></lg>
+</sp>
+
+<sp><speaker>Incredulo</speaker>
+<lg type="versi">
+<lg type="terzina">
+<l>Odi di vecchio gatto finto miagolo;</l>
+<l>che cosa è amor, deh chi è questa Venere,</l>
+<l>è forse la fantasma, o 'l gran diavolo?</l>
+</lg></lg></sp>
+
+<sp><speaker>Carmilio</speaker>
+<lg type="versi">
+<lg type="terzina">
+<l>Ben di robuste potaresti in tenere</l>
+<l>cambiar tuo membra, patre, a ingratitudine:</l>
+<l>che sempre ei descredenti vanno in cenere.</l>
+</lg><lg type="terzina">
+<l>Benigno amor, per tanta amaritudine</l>
+<l>del fido cor e per mia fé magnanima,</l>
+<l>fà il fier villano gusti tuo solitudine.</l>
+</lg></lg></sp>
+
+<sp><speaker>Incredulo</speaker>
+<lg type="versi">
+<lg type="terzina">
+<l> Sento già vacillar el cor e l'anima,</l>
+<l>e razolar ispesso un tra le frondole,</l>
+<l>o che novo pensier sempre me ixamina.</l>
+</lg></lg></sp>
+
+<sp><speaker>Amor</speaker>
+<lg type="versi">
+<lg type="terzina">
+<l>Salve Carmilio, più in turcasso ascondole</l>
+<l>le fier sagitte: or spreza tal vestigio,</l>
+<l>e mie fortune con temi fecondole.</l>
+</lg></lg></sp>
+
+<sp><speaker>Incredulo</speaker>
+<lg type="terzina" part="I">
+<l>Ahimè, Carmilio, ahimè che gran letiggio,</l>
+<l part="I">socorri.</l>
+</lg></sp>
+
+<sp><speaker>Carmilio</speaker>
+<lg type="terzina" part="M">
+<l part="F">Amor non vòl perché beffastilo.</l>
+</lg></sp>
+
+<sp><speaker>Incredulo</speaker>
+<lg type="terzina" part="F">
+<l part="I">L'alme se parte.</l>
+</lg></sp>
+
+<sp><speaker>Carmilio</speaker>
+<lg type="terzina" part="F">
+<l part="M">A me non dol.</l>
+</lg></sp>
+
+<sp><speaker>Incredulo</speaker>
+<lg type="terzina" part="F">
+<l part="F">Al  Stigio</l>
+</lg><lg type="terzina" part="I">
+<l part="I">or mai trapasso. </l>
+</lg></sp>
+
+<sp><speaker>Carmilio</speaker>
+<lg type="terzina" part="F">
+<l part="F">Ah, pur Amor isprezastilo:</l>
+<l>prendete exemplo, voi che stati e regni</l>
+<l>dominate, a costui che iace in sasilo.</l>
+</lg><lg type="terzina">
+<l>O quanti in mar son già summersi legni</l>
+<l>per non temer fortuna e suo favore</l>
+<l>senza auxilio, senza alcun sostegni.</l>
+</lg><lg type="terzina">
+<l>Vedete morto il superbo pastore,</l>
+<l>che tanto isprezzò me, miser lasso,</l>
+<l>e per non creder è giunto a streme ore.</l>
+</lg><lg type="terzina">
+<l>Basti a chi intende questo piccol masso;</l>
+<l>per mie onor vo' dar ultima sede</l>
+<l>al spento corpo e·ll'epitafio al sasso:</l>
+</lg><lg type="terzina">
+<l>«Incredulo qui iace, or movi el piede,</l>
+<l>el nome suo gli de' questa oscur, tetra,</l>
+<l>el disprezar d'amor ch'ogni alma excede».</l>
+</lg><lg type="terzina" part="I">
+<l>Tu, Calicella, seguita mie cetra.</l>
+</lg></sp>
+
+<sp><speaker>Calicella</speaker>
+<lg type="terzina" part="F">
+<l>Carmilio, del pastor, l'exemplo prendo,</l>
+<l>andian al gregge, ché l'amor m'aretra,</l>
+</lg><lg type="terzina">
+<l>che ben conosco e facile comprendo</l>
+<l>quanto dispiace al ciel un cor villano,</l>
+<l>però nelle tuo braccia or mai m'estendo:</l>
+</lg><lg>
+<l>che, chi del mal non prende exemplo, è insano.</l>
+</lg></sp>
+<p><foreign lang="lat"><emph>Finis</emph>.</foreign></p>
+</div1>
+
+<div1 type="poesia">
+<head>75 </head>
+<lg type="barzelletta">
+
+<argument><p>Barcelletta prima</p></argument>
+
+<lg type="strofa">
+<l>Nuove cose fa e disfà</l>
+<l>che in lei spera la Fortuna,</l>
+<l>però io sotto tal luna</l>
+<l>vo' sperar che toglie e dà.</l>
+</lg><lg type="strofa">
+<l>Sì 'l soldato in l'aspra guerra</l>
+<l>del nemico prigion resta,</l>
+<l>tolto poi da sì rea serra,</l>
+<l>di tal sorte a lui molesta,</l>
+<l>a conducta digna e presta</l>
+<l>e favor dalla Fortuna.</l>
+</lg><lg>
+<l>Però io ...</l>
+</lg><lg type="strofa">
+<l>Si tempesta e gran furore</l>
+<l>al nochier, al debil legno,</l>
+<l>e nelle acque con brieve ore,</l>
+<l>ha summerso il suo disegno,</l>
+<l>doppo tal destin vien degno</l>
+<l>e per timone ha la Fortuna.</l>
+</lg><lg>
+<l>Però io ...</l>
+</lg><lg type="strofa">
+<l>Se il ciel s'oscura e turba,</l>
+<l>e Vulcan con gran rapina,</l>
+<l>con suo' stral, ciascun conturba,</l>
+<l>cessa poi tanta roina</l>
+<l>e quiete s'avicina,</l>
+<l>e benigna vien Fortuna.</l>
+</lg><lg>
+<l>Però io ...</l>
+</lg><lg type="strofa">
+<l>Si gran tempo in crudo exilio</l>
+<l>di suo patria alcun si trova,</l>
+<l>e privato d'auxilio,</l>
+<l>il destin fato rinova</l>
+<l>e ritorna al suo cova</l>
+<l>con la scorta di Fortuna.</l>
+</lg><lg>
+<l>Però io ...</l>
+</lg><lg type="strofa">
+<l>Si amor in lacci e 'n foco</l>
+<l>tien constretto il fido pecto;</l>
+<l>s'ho tormento in ogni loco</l>
+<l>arò un dì qualche diletto,</l>
+<l>chi a reo a buono effecto,</l>
+<l>che volubil è Fortuna.</l>
+</lg><lg>
+<l>Però io ...</l>
+</lg><lg type="strofa">
+<l>Si sumersa è la mi' barca,</l>
+<l>rotta e stronca ogni suo sede,</l>
+<l>tornerà di nuovo carca</l>
+<l>di più vera e miglior fede,</l>
+<l>perché sempre non concede</l>
+<l>mala sorte la Fortuna.</l>
+</lg><lg>
+<l>Però io ...</l>
+</lg><lg type="strofa">
+<l>Se il mèl mio divien fele,</l>
+<l>tornerà suave ancora;</l>
+<l>si frapate son mi' vele</l>
+<l>in bonaccia spero un'ora,</l>
+<l>in tempesta saltar fora</l>
+<l>e sarò grato a Fortuna.</l>
+</lg><lg>
+<l>Però io ...</l>
+</lg><lg type="strofa">
+<l>S'agio pianti per servire</l>
+<l>cangerasi cotal stato;</l>
+<l>si dò gioia per martìre</l>
+<l>deverrà benigno il fato,</l>
+<l>e sarò un giorno grato</l>
+<l>a destino e Fortuna.</l>
+</lg><lg>
+<l>Però io ...</l>
+</lg><lg type="strofa">
+<l>Soportar pianti e lamenti</l>
+<l>so disposto in fine a morte,</l>
+<l>foco, affanni e rii tormenti,</l>
+<l>drento a queste stanche porte;</l>
+<l>forse un giorno fato e sorte</l>
+<l>arò meco e la Fortuna.</l>
+</lg><lg>
+<l>Però io sotto tal luna</l>
+<l>vo' sperar che toglie e dà.</l>
+</lg></lg></div1>
+
+<div1 type="poesia">
+<head>76 </head>
+<lg type="versi">
+<argument><p>Barzelletta seconda</p></argument>
+
+<lg type="strofa">
+<l>Voglio uscir presto di pena</l>
+<l>nanti senta impio martìre,</l>
+<l>che meglio è liber morire</l>
+<l>che un viver in catena.</l>
+</lg><lg type="strofa">
+<l>Come vòl destin e fato,</l>
+<l>sendo liber cade in basso</l>
+<l>uno antiquo e claro stato,</l>
+<l>rimanendo sol un sasso,</l>
+<l>ha più gloria e divo passo</l>
+<l>che in piè star a servire.</l>
+</lg><lg>
+<l>Che meglio è ...</l>
+</lg><lg type="strofa">
+<l>Il nochier, in mar opresso</l>
+<l>da corsari con stral e arco,</l>
+<l>sendo quasi sottomesso</l>
+<l>in lor man a crudel varco,</l>
+<l>prima vòl di morte il carco</l>
+<l>che ischiavo pervenire.</l>
+</lg><lg>
+<l>Che meglio è ...</l>
+</lg><lg type="strofa">
+<l>Il soldato armato in campo</l>
+<l>col nimico a fronte, a pecto,</l>
+<l>vinto al fin ogni suo vampo,</l>
+<l>naverato, il corpo enfecto,</l>
+<l>ha tetra urna prima electo</l>
+<l>che prigion vita finire.</l>
+</lg><lg>
+<l>Che meglio è ...</l>
+</lg><lg type="strofa">
+<l>L'om in carcer, vinto in bello,</l>
+<l>condennato a taglia a oro,</l>
+<l>prima vòl ogni drapello</l>
+<l>dar di sé e suo tesoro,</l>
+<l>che suggetto far dimoro</l>
+<l>sol un giorno con martìre.</l>
+</lg><lg>
+<l>Che meglio è ...</l>
+</lg><lg type="strofa">
+<l>L'ocellin in gabbia, in laccio,</l>
+<l>senza ostacul avendo esca,</l>
+<l>cerca tòrsi tal impaccio,</l>
+<l>come avien che de lì esca,</l>
+<l>soportar par non gl'incresca</l>
+<l>freddi venti, anzi ha desire.</l>
+</lg><lg>
+<l>Che meglio è ...</l>
+</lg><lg type="strofa">
+<l>Impio amor, nanti tuo strale</l>
+<l>senta al petto e tua arsura,</l>
+<l>tòrmi voglio da tal male</l>
+<l>con sagitta aspera e dura,</l>
+<l>voglio morte e sepultura</l>
+<l>per fuggir sol tuoi sospire:</l>
+</lg><lg>
+<l>che meglio è libro morire</l>
+<l>che un viver in catena.</l>
+</lg></lg>
+<p><foreign lang="lat"><emph>Finis</emph></foreign></p>
+</div1>
+
+<div1 type="poesia">
+<head>77 </head>
+<lg type="barzelletta">
+
+<argument><p>Barzelletta III.</p></argument>
+
+<lg type="strofa">
+<l>Dice il core agli occhi: «El fato</l>
+<l>soportiamo e tanta guerra,</l>
+<l>ch'ogni gran nimico in terra</l>
+<l>è a pace destinato».</l>
+</lg><lg type="strofa">
+<l>Si 'l castel con impio assedio,</l>
+<l>giorno e nocte a preda a morte,</l>
+<l>da inimici a buon rimedio</l>
+<l>difendendo va suo porte,</l>
+<l>tanto al fin con pace e sorte</l>
+<l>liberato è da tal serra.</l>
+</lg><lg>
+<l>Ch'ogni gran ...</l>
+</lg><lg type="strofa">
+<l>Tanto in pecto uno odio antico</l>
+<l>se ritien con gran roine,</l>
+<l>che ritorna l'om amico</l>
+<l>doppo l'impie discipline,</l>
+<l>tal che s'amon tanto al fine</l>
+<l>che sol morte gli disferra.</l>
+</lg><lg>
+<l>Ch'ogni gran ...</l>
+</lg><lg type="strofa">
+<l>L'om protervo, iniquo e rio,</l>
+<l>tanto la natura e 'l celo</l>
+<l>ha 'n dispecto, il mondo e Dio,</l>
+<l>che se menda di tal scelo</l>
+<l>e invoca sol con zelo:</l>
+<l>«<foreign lang="lat"><emph>miserere</emph></foreign> di tanta erra».</l>
+</lg><lg>
+<l>Ch'ogni gran ...</l>
+</lg><lg type="strofa">
+<l>Preseguendo va fortuna</l>
+<l>tanto in mar il buon mercante,</l>
+<l>senza aver mercede alcuna</l>
+<l>di suo vita, che in un stante</l>
+<l>gli concede gioie tante</l>
+<l>che più doglia non l'afferra.</l>
+</lg><lg>
+<l>Ch'ogni gran ...</l>
+</lg><lg type="strofa">
+<l>Tanto perso un gran tesoro</l>
+<l>sta in terra, che si trova,</l>
+<l>e donando va ristoro</l>
+<l>a quel prima lo discova,</l>
+<l>tal che gran gioia rinova</l>
+<l>né più pianto lo diserra.</l>
+</lg><lg>
+<l>Ch'ogni gran ...</l>
+</lg><lg type="strofa">
+<l>Per mie foco debil luce,</l>
+<l>non su essa l'acque o el rivo,</l>
+<l>né per tuo pioggia conduce</l>
+<l>gioia, il pecto o 'l fuoco è privo,</l>
+<l>sì che in foco e 'n fiume vivo;</l>
+<l>stiamo in pace con tal guerra:</l>
+</lg><lg>
+<l>ch'ogni gran nimico in terra</l>
+<l>è a pace destinato.</l>
+</lg></lg>
+</div1>
+
+<div1 type="poesia">
+<head>78 </head>
+<lg type="barzelletta">
+
+<argument><p>Barcelletta IV</p></argument>
+
+<lg type="strofa">
+<l>Mai sarò d'amarti stanco,</l>
+<l>né mi cur m'abbi in dispecto,</l>
+<l>che in reo e in buon effecto</l>
+<l>è d'ogni omo l'arbitrio franco.</l>
+</lg><lg type="strofa">
+<l>È concesso in questo mondo,</l>
+<l>su dal ciel a nostre imprese,</l>
+<l>bene, mal, reo e iocondo,</l>
+<l>e né mai se fa offese,</l>
+<l>pigli pur senza contese</l>
+<l>qual par più miglior concepto.</l>
+</lg><lg>
+<l>Che in reo ...</l>
+</lg><lg type="strofa">
+<l>Se in la dextra el crudel ferro</l>
+<l>tien alcun per suo suplizio,</l>
+<l>mal può il ciel, se io non erro,</l>
+<l>vetar questo sacrifizio,</l>
+<l>revocar se vòl iudicio</l>
+<l>ancor tòr non pò erricepto.</l>
+</lg><lg>
+<l>Che in reo ...</l>
+</lg><lg type="strofa">
+<l>Non pò il ciel al peccatore,</l>
+<l>se si menda, piange e pente,</l>
+<l>negar suo devin splendore;</l>
+<l>el contrario, se consente</l>
+<l>trovar Pluto in foco ardente,</l>
+<l>gli concede quello ha electo.</l>
+</lg><lg>
+<l>Che in reo ...</l>
+</lg><lg type="strofa">
+<l>Se mie luce sempre mira</l>
+<l>far lo pò che gli è concesso,</l>
+<l>se intorno il cor te gira</l>
+<l>per dispecto il laccio adesso,</l>
+<l>se mie lingua il tuo interesso</l>
+<l>manifesta a me è dilecto.</l>
+</lg><lg>
+<l>Che in reo ...</l>
+</lg><lg type="strofa">
+<l>S'hai in odio el tanto amare,</l>
+<l>per tuo doglia amare intendo,</l>
+<l>non mi puoi questo vetare</l>
+<l>per quanto io veggo e comprendo</l>
+<l>se col mio languire t'offendo,</l>
+<l>piangerò per tuo dispecto,</l>
+</lg><lg>
+<l>che in reo e 'n buono effecto</l>
+<l>è d'ogni om l'arbitrio franco.</l>
+</lg>
+</lg>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Sonetti</title>
+      <author>Giuseppe Parini</author>
+    </titleStmt>
+    <extent>40 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001157</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Opere di Giuseppe Parini pubblicate ed illustrate da Francesco Reina</title>
+        <title type="part">v.</title>
+        <author>Parini, Giuseppe</author>
+        <editor id="ed">Reina, Francesco</editor>
+        <publisher>presso la Stamperia e fonderia del Genio tipografico</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date>1802</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-04-19T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Valeriano Fiori</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-04-19T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="dedica"><head>Vittorio Alfieri il tragico.</head>
+<head>Francesco Reina.</head>
+<p>Io ti mando il volume delle liriche di PARINI, perché egli medesimo lo avrebbe mandato a te, cui amò ed onorò tanto, vivendo; come ne fanno assoluta fede que' versi immortali, che suonano di te per entro a questo egregio volume. Tu solo, fra viventi scrittori, sei reputato pari a lui nella poetica eccellenza, ne' liberi sensi veracemente italiani, e nell'amore di quella Patria, che le sublimi, energiche, caldissime vostre composizioni, e l'entusiasmo inspiratoci dalle circostanze nuove e dall'antica nostra grandezza invitavano già a risorgere; se i delitti della depravata razza umana nudriti del lucro servile, del fasto, e della fatale tirannide, non la avessero da' primi liberi moti impedita, ed oppressa. Le crudeli fazioni nemiche d'ogni bell'opera si perderanno fra la caligine de' tempi, né rimarrà al mondo che una terribile maraviglia delle grandi conquiste, e degli orgogliosi conquistatori: ma le belle opere di Voi due grandi, saggi, e liberi cittadini Italiani trionferanno dei delitti, e dei secoli; in nuove guise spireranno ognora maschia virtù, grazia, e leggiadria; e saranno utili e care fino agli estremi nipoti. E quando la non più avvilita Italia, in tempi che forse lontani, risorgerà a quella grandezza, cui formolla Natura; la Italia medesima vi sarà larga di quegli onori, che la Grecia rendeva al divino cantore di Achille.</p></div1>
+</front>
+<body>
+<div1 type="poesia"><head>I.</head><head>AL SONNO.</head>
+<lg type="sonetto"><lg><l>O Sonno placido che con liev'orme</l>
+<l>Vai per le tenebre movendo l'ali,</l>
+<l>E intorno a i miseri mortali</l>
+<l>Giri con agili tue varie forme;</l></lg>
+<lg><l>Là dove Fillide secura dorme</l>
+<l>Stesa su candidi molli guanciali</l>
+<l>Vanne, e un'immagine carca di mali</l>
+<l>In mente pingile trista e deforme.</l></lg>
+<lg><l>Tanto a me simili quell'ombre inventa,</l>
+<l>E al cor pallido che in me si spande,</l>
+<l>Ch'ella destandosi pietà ne senta.</l></lg>
+<lg><l>Se tu concedimi favor sì grande</l>
+<l>Con man vo' porgerti tacita e lenta</l>
+<l>Due di papaveri fresche ghirlande.</l></lg></lg>
+<note place="foot" resp="ed"><p>con l'agili ] coll'agili<lb/>
+pingile ] pignile</p></note></div1>
+<div1 type="poesia"><head>II.</head><head>PER MONACA.</head>
+<lg type="sonetto"><lg><l>Vanne, o Vergin felice, entro al romito</l>
+<l>Albergo: ivi Umiltade al fianco tieni</l>
+<l>Che la rara Concordia unita meni</l>
+<l>E il bel Silenzio che sul labbro ha il dito.</l></lg>
+<lg><l>Vedrai nel limitar sedersi ardito</l>
+<l>Amor, superbo de' feriti seni,</l>
+<l>E Invidia tinta d'orridi veleni</l>
+<l>E quel di risse eccitator Garrito.</l></lg>
+<lg><l>Tu volgi il guardo in lor nubilo e parco,</l>
+<l>Qual vincitor che su i vinti rubelli</l>
+<l>Torvo sen passa e di lor spoglie carco:</l></lg>
+<lg><l>Ma guardati da Amor: co' suoi quadrelli</l>
+<l>Aspetteratti insidíoso al varco</l>
+<l>Fra gli oziosi e striduli cancelli.</l></lg></lg>
+<note place="foot" resp="ed"><p>nel limitar ] ne' limitar</p></note></div1>
+<div1 type="poesia"><head>III.</head><head>A DIO</head>
+<lg type="sonetto"><lg><l>Virtù donasti al sol che a sé i pianeti</l>
+<l>Ognor tragge, o gran Dio, poi di tua mano</l>
+<l>Moto lor desti per l'immenso vano</l>
+<l>Che a gir gli sforzi, e unirsi a lui lor vieti:</l></lg>
+<lg><l>Ond'è che intorno al sole irrequieti</l>
+<l>Rotan mai sempre. Andran da lui lontano,</l>
+<l>Se il vigor che gli attragge un dì fia vano,</l>
+<l>O in lui cadran, se il lor moto s'acqueti.</l></lg>
+<lg><l>Oh eterno Sol che padre all'altro sei</l>
+<l>Tua grazia io sento onde ver te mi volga,</l>
+<l>E il fomite che va contrario a lei.</l></lg>
+<lg><l>Deh! fa che quando il gran nodo si sciolga</l>
+<l>Io non fugga in eterno insieme a i rei,</l>
+<l>Ma ch'entro a la tua luce alto m'avvolga.</l></lg></lg>
+<note place="foot" resp="ed"><l>Virtù donasti al sol che i sei pianeti</l>
+<l>A sé tragge, o gran Dio: poi di tua mano</l>
+<l>Lor desti un moto per l'immenso vano</l>
+<l>E in lui cadran se il lor moto s'accheti</l>
+<l>Io non fugga in eterno in un co i rei</l></note></div1>
+<div1 type="poesia"><head>IV.</head><head>PER L'ESALTAZIONE AL PONTIFICATO DI CLEMENTE XIII.</head>
+<lg type="sonetto"><lg><l>La forte Madre che mirò il suo figlio</l>
+<l>Primo seder quaggiù d'ogni mortale,</l>
+<l>Più non sperando aver letizia eguale,</l>
+<l>Sciolse lo spirto, e chiuse in pace il ciglio.</l></lg>
+<lg><l>E poi che a lei non lice in questo esiglio</l>
+<l>Guidar colui che sopra ogni altro sale,</l>
+<l>Disse: quì femmo assai: or che più vale?</l>
+<l>In cielo andiamgli ad impetrar consiglio.</l></lg>
+<lg><l>Ma di là visto il gran figliuol che il manto</l>
+<l>Di Pietro onora, e di sé il mondo bea,</l>
+<l>E tutte le Virtù ridergli accanto;</l></lg>
+<lg><l>Per lo novo piacer che in lei si crea,</l>
+<l>Maravigliando grida: io veggio or quanto</l>
+<l>Crescer mia gioja in terra ancor potea.</l></lg></lg></div1>
+<div1 type="poesia"><head>V.</head><head>PER CATERINA GABRIELLI CANTATRICE.</head>
+<lg type="sonetto"><lg><l>Quando Costei su la volubil scena</l>
+<l>Di celeste bellezza apre i portenti;</l>
+<l>E il notturno spettacolo serena</l>
+<l>Co' raggi del bel volto, Amor, che tenti?</l></lg>
+<lg><l>Entro per gli occhi a quel prodigio intenti;</l>
+<l>Scendo ne' cori; e là calmo ogni pena;</l>
+<l>Desto teneri sensi; empio a le genti</l>
+<l>Di foco soavissimo ogni vena.</l></lg>
+<lg><l>E mentre simulando i prischi lai</l>
+<l>Da i due coralli de la bella bocca</l>
+<l>Scioglie il canto amoroso, Amor, che fai?</l></lg>
+<lg><l>Volo al bel labbro onde il piacer trabocca;</l>
+<l>E grido: oh in terra fortunato assai</l>
+<l>Chi sì bel labbro ascolta o vede o tocca!</l></lg></lg>
+<note place="foot" resp="ed"><p>mentre ] quando</p></note></div1>
+<div1 type="poesia"><head>VI.</head><head>PER RISCATTO DI SCHIAVI INSUBRI.</head>
+<lg type="sonetto"><lg><l>Queste incallite man, queste carni arse</l>
+<l>D'Africa al sol, questi piÈ rosi e stanchi</l>
+<l>Di servil ferro, questi ignudi fianchi</l>
+<l>Donde sangue e sudor largo si sparse,</l></lg>
+<lg><l>Toccano al fin la patria terra; apparse</l>
+<l>Sovr'essi un raggio di pietade, e franchi</l>
+<l>Mostransi a i figli, a le consorti, a i bianchi</l>
+<l>Padri che ogni lor duol senton calmarse.</l></lg>
+<lg><l>O cara Patria! o care leggi! o sacri</l>
+<l>Riti! Noi vi piangemmo alle Meschite</l>
+<l>Empie d'intorno, e a i barbari lavacri.</l></lg>
+<lg><l>Salvate voi queste cadenti vite,</l>
+<l>E questi spirti estenuati e macri</l>
+<l>Col sangue del divino agno nodrite.</l></lg></lg></div1>
+<div1 type="poesia"><head>VII.</head><head>MALI CAGIONATI ALL'EUROPA DALLE CONQUISTE</head>
+<lg type="sonetto"><lg><l>Ecco la Reggia, ecco de' prischi Incassi</l>
+<l>Le tombe insanguinate, ecco le genti</l>
+<l>Di tre parti dell'orbe intorno a i massi</l>
+<l>Ancor di scellerato oro lucenti.</l></lg>
+<lg><l>Tu America piagnendo gl'innocenti</l>
+<l>Occhi sull'arco tuo spezzato abbassi;</l>
+<l>Tu sudi Affrica serva; e co i tormenti</l>
+<l>Sopr'ambe minacciando Europa stassi.</l></lg>
+<lg><l>Ma la vostra tiranna ecco attraversa</l>
+<l>Il mar con sue rapine; ed ecco io veggio</l>
+<l>Vostri demoni da le triste prore</l></lg>
+<lg><l>Discender seco; ed ecco in sen si versa</l>
+<l>Col rapito venen rabbia e furore</l>
+<l>E guerra e morte. Or qual di voi sta peggio?</l></lg></lg></div1>
+<div1 type="poesia"><head>VIII.</head><head>PER NOZZE.</head>
+<lg type="sonetto"><lg><l>Scendi propizia dall'ardente sfera</l>
+<l>Ove tu brilli a i fortunati amanti</l>
+<l>Figlia del mar che co' tuoi lumi santi</l>
+<l>Ami spesso bear Pafo e Citera.</l></lg>
+<lg><l>Vieni e corona il caldo amor, la intera</l>
+<l>Fede di queste due alme costanti:</l>
+<l>Non sai quanti sospir sparsero e quanti</l>
+<l>Nel desiar questa beata sera?</l></lg>
+<lg><l>Profano già de gli uomini consiglio</l>
+<l>Non è il bel nodo. Ah! di sua man, gioconda</l>
+<l>Madre, lo strinse il tuo celeste figlio.</l></lg>
+<lg><l>Vieni e t'assidi su la destra sponda</l>
+<l>Del talamo felice; e dal bel ciglio</l>
+<l>Versando i dolci rai l'ardi e feconda.</l></lg></lg>
+<note place="foot" resp="ed"><l>Spesso rallegri ancor Pafo e Citera</l></note></div1>
+<div1 type="poesia"><head>IX.</head><head>LA PIETÀ DIVINA.</head>
+<lg type="sonetto"><lg><l>L'arbor son io, Signor, che tu ponesti</l>
+<l>Ne la tua vigna; e a coltivar lo prese</l>
+<l>Misericordia i cui pensier fur desti</l>
+<l>Sempre a guardarlo da nemiche offese.</l></lg>
+<lg><l>Ma il tronco ingrato che sì caro avesti</l>
+<l>Frutto finora al suo cultor non rese;</l>
+<l>E dell'ampie superbo ombroso vesti</l>
+<l>Sol con sterili braccia in alto ascese.</l></lg>
+<lg><l>Però tosto che il vide arse di sdegno</l>
+<l>Tua Giustizia: e perchè, disse, il terreno</l>
+<l>Occupa indarno? Omai si tagli ed arda.</l></lg>
+<lg><l>Ma Pietà pose al tuo furor ritegno</l>
+<l>Gridando: un anno attendi, un anno al meno.</l>
+<l>Arbor che fia se il tuo fruttar più tarda?</l></lg></lg></div1>
+<div1 type="poesia"><head>X.</head><head>PER GIROLAMO MIANI.</head>
+<lg type="sonetto"><lg><l>O Povertà che dal natio soggiorno</l>
+<l>Fai le dolenti turbe errar lontane,</l>
+<l>E per somma dell'uomo ingiuria e scorno</l>
+<l>Le costringi affamate a cercar pane;</l></lg>
+<lg><l>Quante volte al MÌAN farai ritorno</l>
+<l>Non udrai chiuder porta o latrar cane,</l>
+<l>Sien pur le vesti che tu hai d'intorno</l>
+<l>E le parole tue diverse e strane:</l></lg>
+<lg><l>Ma con pronto soccorso a le tue brame</l>
+<l>Egli offrirà la sua povera mensa,</l>
+<l>E vorrà parte aver ne la tua fame:</l></lg>
+<lg><l>Però che tutti con affetto eguale</l>
+<l>Sa gli uomini abbracciar quell'alma immensa;</l>
+<l>E fa suo cittadino ogni mortale.</l></lg></lg></div1>
+<div1 type="poesia"><head>XI.</head><head>PEL GIORNO NATALIZIO DI MARIA TERESA IMPERADRICE.</head>
+<lg type="sonetto"><lg><l>Io vidi il tempo che lo sguardo acuto</l>
+<l>Su le ruine sue lento pascea,</l>
+<l>E schierati al suo piè quasi a tributo</l>
+<l>I dì famosi annoverar godea.</l></lg>
+<lg><l>Poi questo giorno e quel maligno e muto</l>
+<l>D'una negra caligine tingea;</l>
+<l>Onde questo e quel dì misto e perduto</l>
+<l>Nel silenzio de' secoli scendea.</l></lg>
+<lg><l>Venne quel giorno al fin che tu sereno</l>
+<l>Festi, Augusta, nascendo, e al vecchio Dio</l>
+<l>Gli occhi ferì d'insolito baleno.</l></lg>
+<lg><l>Si scosse allora, e al suo ministro Obblìo:</l>
+<l>Scostati, disse, che de gli anni in seno</l>
+<l>Questo sol giorno rispettar degg'io.</l></lg></lg></div1>
+<div1 type="poesia"><head>XII.</head><head>PER CATERINA DA PALANZA.</head>
+<lg type="sonetto"><lg><l>La Verginella che dal Ciel condotta</l>
+<l>Fuggissi al monte a viver casto e pio,</l>
+<l>Non di cantici ognor l'ermo pendìo</l>
+<l>O di sospiri de' sonar la grotta:</l></lg>
+<lg><l>Ma quando il sol più scalda e quando annotta</l>
+<l>A lavorar suo campicello uscìo;</l>
+<l>E non mai di sé grave al suol natìo</l>
+<l>A ben orare e a bene oprar fu dotta:</l></lg>
+<lg><l>E poi de' poverelli asciugò il pianto</l>
+<l>Con acqua e pane, e li raccolse al seno</l>
+<l>Utile a gli altri, e al suo Signor più cara.</l></lg>
+<lg><l>Popol che a lei consagri incenso e canto,</l>
+<l>Fa che gl'inni e l'odor soli non sièno;</l>
+<l>Ma ad imitar le sue bell'opre impara.</l></lg></lg></div1>
+<div1 type="poesia"><head>XIII.</head><head>PER GIAN GALEAZZO SERBELLONI.</head>
+<lg type="sonetto"><lg><l>Mentre fra le pompose urne e i trofei</l>
+<l>Figlio, t'aggiri onde va il Tebro altero</l>
+<l>L'ombre forse vedrai de gli avi miei</l>
+<l>Ch'ebber quì primi gradi o sommo impero.</l></lg>
+<lg><l>Ah! se ammirando i tuoi costumi bei</l>
+<l>Di te mai chiede od Alessandro o Piero,</l>
+<l>Non celar la mia gloria; e dì che sei</l>
+<l>Nato di me lor sangue in suol straniero.</l></lg>
+<lg><l>E dì ch'io non raccolsi altro che i danni</l>
+<l>Di loro alta fortuna ond'ebbi assorto</l>
+<l>In fiere soglie il cor molti e molt'anni:</l></lg>
+<lg><l>Ma che al fin dal tuo amor giudata in porto</l>
+<l>Io vivo; e dolce ho de i passati affanni</l>
+<l>Sol ne la tua virtù premio e conforto.</l></lg></lg>
+<note place="foot" resp="ed"><p>loro ] lor</p></note></div1>
+<div1 type="poesia"><head>XIV.</head><head>PER L'ENTRATA DI GIUSEPPE II IMPERADORE A ROMA.</head>
+<lg type="sonetto"><lg><l>Quando il Nume improvviso al suol Latino,</l>
+<l>Benché celando i rai, sentir si feo,</l>
+<l>Scosse Roma i gran fianchi, e il cor s'empieo</l>
+<l>Di speme, e volse in mente altro destino.</l></lg>
+<lg><l>Mugghiò l'urna del Tebro, e al mar vicino</l>
+<l>Più minaccioso il suo fragor cadeo:</l>
+<l>Balzaro i sette colli; e dal Tarpeo</l>
+<l>Vibraron l'aste lor Marte e Quirino.</l></lg>
+<lg><l>Ma la Superstizion col cieco morso</l>
+<l>Frenò gl'impeti arditi a Roma in petto;</l>
+<l>E grave le pesò sul senil dorso.</l></lg>
+<lg><l>Quella infelice ripiombò nel letto</l>
+<l>Di sue vergogne, e disperò soccorso;</l>
+<l>E il momento miglior sparve negletto.</l></lg></lg>
+<note place="foot" resp="ed"><p>sentir ] veder<lb/>
+minaccioso ] rovinoso<lb/>
+nel ] sul</p></note></div1>
+<div1 type="poesia"><head>XV.</head><head>FELICITÀ DELL'INNOCENZA.</head>
+<lg type="sonetto"><lg><l>Sì, fuggi pur le glebe e il vomer duro</l>
+<l>Ch'io ti die' in pena dell'antico fallo:</l>
+<l>Credi però dell'oro ergerti un vallo</l>
+<l>Ove tra gli ozj tuoi viver securo?</l></lg>
+<lg><l>Tristo! non sai ch'io 'l mio furor maturo,</l>
+<l>Ma non l'obblio giammai? che piedestallo</l>
+<l>Mal fermo ha la tua sorte? E che in van dallo</l>
+<l>Stento t'invola impenetrabil muro?</l></lg>
+<lg><l>Dio così parla; e ratto move a danno</l>
+<l>De' possenti le cure atre, e quel crudo</l>
+<l>Laniator de gli uman petti affanno.</l></lg>
+<lg><l>Bella Innocenza in tanto il braccio ignudo</l>
+<l>Sul vomer posa; e fra sé dice: ond'hanno</l>
+<l>Tal dolcezza le stille auree ch'io sudo?</l></lg></lg>
+<note place="foot" resp="ed"><l>Credi però dell'or formarti un vallo</l>
+<l>Tristo! non sai che il mio furor maturo,</l></note></div1>
+<div1 type="poesia"><head>XVI.</head><head>IL LAMENTO DI ORFEO.</head>
+<lg type="sonetto"><lg><l>Qual fra quest'erme inculte orride rupi</l>
+<l>Che han di nevi e di ghiaccio eterno manto,</l>
+<l>Echeggiando per entro a gli antri cupi</l>
+<l>S'ode accostar melodìoso pianto?</l></lg>
+<lg><l>Ah! ti conosco al volto al plettro al canto,</l>
+<l>Giovin di Tracia che il bel core occupi</l>
+<l>Sol di tua doglia, e d'ammansare hai vanto</l>
+<l>Gli uomini atroci e gli stess'orsi e i lupi.</l></lg>
+<lg><l>Deh un momento ti arresta; e il caro oggetto</l>
+<l>Come perdesti, e gl'infortunj tuoi</l>
+<l>Canta; e ne inonda di pietade il petto.</l></lg>
+<lg><l>Quì Baccanti non son; ma Ninfe a cui</l>
+<l>L'alma è gentile: e più d'ogni altro affetto</l>
+<l>È dolce il palpitare a i casi altrui.</l></lg></lg>
+<note place="foot" resp="ed"><l>C'han di nevi e di ghiacci eterno manto</l>
+<l>Odo accostar melodìoso pianto?</l>
+<p>d'ogni altro ] d'ognaltro</p></note></div1>
+<div1 type="poesia"><head>XVII.</head><head>L'ESTRO.</head>
+<lg type="sonetto"><lg><l>Qual cagion qual virtù qual foco innato,</l>
+<l>Signore, è quel che la tua mente accende,</l>
+<l>Quando ogni core a i versi tuoi beato,</l>
+<l>Da i labbri tuoi meravigliando pende?</l></lg>
+<lg><l>È spirito? È materia? È Dio che scende</l>
+<l>L'una e l'altro agitando oltre l'usato?</l>
+<l>Come l'<emph>Estro</emph> in te nasce; e come stende</l>
+<l>In noi sue forze imperioso e grato?</l></lg>
+<lg><l>Tu l'arcano ch'io cerco esponi al giorno:</l>
+<l>E mentre il ver da le tue labbra espresso</l>
+<l>Splenda di grazie e di bellezze adorno,</l></lg>
+<lg><l>Crederò di veder lungo il Permesso,</l>
+<l>Fra il coro de le Muse accolte intorno,</l>
+<l>Parlar de le sue doti Apollo istesso.</l></lg></lg>
+<note place="foot" resp="ed"><l>Qual virtù qual cagion qual moto innato,</l>
+<l>Quando ogni cor da i versi tuoi beato</l>
+<l>Da i versi tuoi meravigliando pende...</l>
+<l>Da' labbri tuoi...</l>
+<l>L'uno e l'altra agitando oltre l'usato?</l></note></div1>
+<div1 type="poesia"><head>XVIII.</head><head>L'AMOR VERACE.</head>
+<lg type="sonetto"><lg><l>Ah colui non amò; colui avversi</l>
+<l>Ebbe i labbri al pensier; perfido inganno</l>
+<l>Ordì colui che d'amoroso affanno</l>
+<l>Parlò primiero a la sua donna in versi.</l></lg>
+<lg><l>I carmi, o Nice, di lusinghe aspersi</l>
+<l>Spesso imitano il ver, ma il ver non fanno.</l>
+<l>Son arte i carmi; ed arte aver non sanno</l>
+<l>Gli affetti che dal core escon diversi.</l></lg>
+<lg><l>Un sospir chiuso a forza, uno agitato,</l>
+<l>Un tronco favellare, un pertinace</l>
+<l>Ora languido sguardo, ora infocato,</l></lg>
+<lg><l>Questa è la lingua dell'amor verace:</l>
+<l>A questa credi, a questa il core è nato;</l>
+<l>E Febo pèra e il suo cantar fallace.</l></lg></lg>
+<note place="foot" resp="ed"><l>Parlar fu ardito a la sua donna in versi.</l>
+<l>È un'arte il verso: ed arte aver non sanno</l>
+<p>uno ] un</p></note></div1>
+<div1 type="poesia"><head>XIX.</head><head>PER NOZZE.</head>
+<lg type="sonetto"><lg><l>Precorre Imene, e rende luminosa</l>
+<l>La sacra stanza de' piacer novelli;</l>
+<l>E rugiada freschissima odorosa</l>
+<l>Da le rose gli piove su i capelli.</l></lg>
+<lg><l>Amore armato sol d'aurei quadrelli</l>
+<l>Guida la Verginella paurosa:</l>
+<l>Ed ella, chini i suoi due occhi belli,</l>
+<l>Sopra lui mollemente si riposa.</l></lg>
+<lg><l>Amor sorride, e le accenna col dito</l>
+<l>Il loco ove sarà madre d'eroi:</l>
+<l>Ella a quel cenno palpita ed arrossa.</l></lg>
+<lg><l>Serba quel bel pudor, Vergin commossa,</l>
+<l>Se il letto geniale ognor gradito</l>
+<l>Al caro sposo, e a te serbar tu vuoi.</l></lg></lg>
+<note place="foot" resp="ed"><l>Sopra lui mollemente la man posa.</l></note></div1>
+<div1 type="poesia"><head>XX.</head><head>PER NOZZE.</head>
+<lg type="sonetto"><lg><l>O tardi alzata dal tuo novo letto</l>
+<l>Lieta sposa a lo speglio in van ritorni,</l>
+<l>E di fiori e di gemme in vano adorni</l>
+<l>E di candida polve il crin negletto.</l></lg>
+<lg><l>La Diva che al tuo sposo accende in petto</l>
+<l>Fervide brame onde bear suoi giorni</l>
+<l>Vuol che più volte oggi lo speglio torni</l>
+<l>A rinnovare il tuo cambiato aspetto.</l></lg>
+<lg><l>Ecco a la bella Madre Amore addita</l>
+<l>L'ombra che ad or ad or sul crin ti viene</l>
+<l>La dissipata polvere seguendo:</l></lg>
+<lg><l>E pur contando su le bianche dita,</l>
+<l>E fiso nelle tue luci serene</l>
+<l>Guarda vezzosamente sorridendo.</l></lg></lg>
+<note place="foot" resp="ed"><p>cambiato ] cangiato</p></note></div1>
+<div1 type="poesia"><head>XXI.</head><head>PER NOZZE.</head>
+<lg type="sonetto"><lg><l>O bella Venere per cui s'accende</l>
+<l>La vergin timida al primo invito</l>
+<l>D'Amore, e il giovane caldo ed ardito</l>
+<l>A la dolcissima palma contende:</l></lg>
+<lg><l>Questa a te candida zona sospende</l>
+<l>Nice or che al talamo vien del marito</l>
+<l>Male opponendosi; e sul fiorito</l>
+<l>Letto con trepido ginocchio ascende.</l></lg>
+<lg><l>Tu in cambio donale l'amabil cinto</l>
+<l>Caro a' bei giovani e a le donzelle</l>
+<l>Onde il tuo morbido fianco è distinto.</l></lg>
+<lg><l>In esso e i fervidi baci e le belle</l>
+<l>Carezze e i teneri susurri e il vinto</l>
+<l>Pudor di querule spose novelle.</l></lg></lg>
+<note place="foot" resp="ed"><l>La dubbia vergine al primo invito</l>
+<l>Letto con trepidi ginocchi ascende.</l>
+<l>Onde il tuo roseo fianco è distinto...</l>
+<l>Onde il tuo morbido fianco è succinto</l></note></div1>
+<div1 type="poesia"><head>XXII.</head><head>SULL'ABOLIZIONE DE' GESUITI.</head>
+<lg type="sonetto"><lg><l>L'arbor fatale che di rami annosi</l>
+<l>Tanta parte del ciel coperta avea;</l>
+<l>L'arbor che impuro asil d'augei schifosi</l>
+<l>Atra e mortal d'intorno ombra spandea;</l></lg>
+<lg><l>L'arbor che pregne di veleni ascosi</l>
+<l>Ma lusinghiere poma altrui porgea;</l>
+<l>L'arbor sotto del qual lieti riposi</l>
+<l>Prender sicura l'Empietà solea,</l></lg>
+<lg><l>Pur cadde al fin! Dell'aspra doglia insano</l>
+<l>Il Re d'Averno con immonde trame</l>
+<l>Tentò impedir la sua rovina in vano.</l></lg>
+<lg><l>Bello il veder con pronte accese brame</l>
+<l>L'alme Virtudi e il gran Pastor Romano</l>
+<l>I lor colpi alternar sul tronco infame.</l></lg></lg></div1>
+<div1 type="poesia"><head>XXIII.</head><head>L'AUGURIO.</head>
+<lg type="sonetto"><lg><l>Garzon bellissimo a cui con gli anni</l>
+<l>Crescon le grazie cresce il vigore;</l>
+<l>Tal che con Venere tu sembri Amore,</l>
+<l>E sol ti mancano la benda e i vanni:</l></lg>
+<lg><l>Ah! il tuo buon Genio da i folli inganni</l>
+<l>Te de lo spirito guardi e del core;</l>
+<l>E su per l'arduo sentier d'onore</l>
+<l>A grandi movati illustri affanni.</l></lg>
+<lg><l>Così nel riedere questo bel giorno</l>
+<l>O sii tu giovane o adulto o veglio</l>
+<l>Ognor più vedati di pregi adorno:</l></lg>
+<lg><l>E l'altro secolo, serbato al meglio</l>
+<l>Di tue bell'opere, a te d'intorno</l>
+<l>Di tue bell'opere si faccia speglio.</l></lg></lg>
+<note place="foot" resp="ed"><l>A illustri movati sublimi affanni</l>
+<p>vedati ] veggati</p></note></div1>
+<div1 type="poesia"><head>XXIV.</head><head>LA SORPRESA.</head>
+<lg type="sonetto"><lg><l>Che spettacol gentil che vago oggetto</l>
+<l>Fu il veder la mia Nice all'improvviso,</l>
+<l>Quando sorpresa in abito negletto</l>
+<l>M'apparve innanzi ed arrossì nel viso?</l></lg>
+<lg><l>Come il candido velo al sen ristretto</l>
+<l>I bei membri avvolgea? Come indeciso</l>
+<l>Celava e non celava i fianchi e il petto</l>
+<l>Che sorger si vedeva in due diviso?</l></lg>
+<lg><l>Quali forme apparian sotto a la veste!</l>
+<l>Paga era l'alma, e vivo era il desìo;</l>
+<l>E il piacer del mirarla era celeste.</l></lg>
+<lg><l>Deh! mi concedi, Amor, che questa cruda</l>
+<l>Tal mi si mostri anco un momento; ed io</l>
+<l>Più non invidio chi vedralla ignuda.</l></lg></lg>
+<note place="foot" resp="ed"><p>questa ] quella</p></note></div1>
+<div1 type="poesia"><head>XXV.</head><head>LA GELOSIA.</head>
+<lg type="sonetto"><lg><l>Più non invidio chi vedralla ignuda?</l>
+<l>Ah come? Ohimé! se immaginando ancora</l>
+<l>Quella sera fatale o quell'aurora</l>
+<l>Trema quest'alma sbigottita e suda?</l></lg>
+<lg><l>Come soffrir che al mio rival si schiuda</l>
+<l>Ciò che velato ancor m'arde e innamora?</l>
+<l>Come soffrir che a mille baci allora</l>
+<l>Quel bel labbro ch'è mio s'apra e si chiuda?</l></lg>
+<lg><l>E ch'altri faccia al bel corpo catena</l>
+<l>De le sue braccia; e spiri altri quel fiato;</l>
+<l>E ch'altri, oh Dio! che il suo fedele amante...</l></lg>
+<lg><l>Togli togli da me l'orrida scena</l>
+<l>Scaldata fantasia; o disperato</l>
+<l>Col morir preverrò sì atroce istante.</l></lg></lg></div1>
+<div1 type="poesia"><head>XXVI.</head><head>DI SE STESSO.</head>
+<lg type="sonetto"><lg><l>Quell'io che già con lungo amaro carme</l>
+<l>Amor derisi, e il suo regno potente;</l>
+<l>E tutta osai chiamar l'Itala gente</l>
+<l>Col mio riso maligno ad ascoltarme;</l></lg>
+<lg><l>Or sento anch'io sotto a le indomit'arme</l>
+<l>Tra la folla del popolo imminente</l>
+<l>Dietro a le rote del gran carro lente</l>
+<l>Dall'offeso tiranno strascinarme.</l></lg>
+<lg><l>Ognun per osservar l'infame multa</l>
+<l>Preme urta e grida al suo propinquo: è quei;</l>
+<l>E il beffator comun beffa ed insulta.</l></lg>
+<lg><l>Io scornato abbassando gli occhi rei</l>
+<l>Seguo il mio fato; e il fier nemico esulta.</l>
+<l>Imparate a deridere gli Dei.</l></lg></lg></div1>
+<div1 type="poesia"><head>XXVII.</head><head>PER LA MACCHINA AEROSTATICA.</head>
+<lg type="sonetto"><lg><l>Ecco del mondo e meraviglia e gioco</l>
+<l>Farmi grande in un punto e lieve io sento;</l>
+<l>E col fumo nel grembo e al piede il foco</l>
+<l>Salgo per l'aria e mi confido al vento.</l></lg>
+<lg><l>E mentre aprir novo cammino io tento</l>
+<l>All'uom cui l'onda e cui la terra è poco,</l>
+<l>Fra i ciechi moti e l'ancor dubbio evento</l>
+<l>Alto gridando la Natura invoco:</l></lg>
+<lg><l>O madre de le cose! Arbitrio prenda</l>
+<l>L'uomo per me di questo aereo regno,</l>
+<l>Se ciò fia mai che più beato il renda.</l></lg>
+<lg><l>Ma se nocer poi dee, l'audace ingegno</l>
+<l>Perda l'opra e i consigli; e fa ch'io splenda</l>
+<l>Sol di stolta impotenza eterno segno.</l></lg></lg>
+<note place="foot" resp="ed"><p>questo aereo regno ] ...quest'aereo regno<lb/>
+Sol di stolta ] D'una stolta...</p></note></div1>
+<div1 type="poesia"><head>XXVIII.</head><head>PER GIUSEPPE II IMPERADORE.</head>
+<lg type="sonetto"><lg><l>Scorre Cesare il mondo, e tutto ei splende</l>
+<l>Sol d'egregia virtude, e il fasto sdegna;</l>
+<l>E fra i popoli avvolto il vero apprende,</l>
+<l>E dall'alto de i troni il giusto insegna.</l></lg>
+<lg><l>Indi a stranio poter limiti segna;</l>
+<l>Quì de le genti la ragion difende;</l>
+<l>E all'oppresso mortal da forza indegna</l>
+<l>Or la mente ora il piè liberi rende.</l></lg>
+<lg><l>Toglie a la frode e all'ignoranza il velo;</l>
+<l>Fonda l'util comune; e ovunque ei giri,</l>
+<l>Veglia suda contende arde di zelo;</l></lg>
+<lg><l>E fa che il mondo in lui rinati ammiri</l>
+<l>Quei che la prisca età pose nel cielo</l>
+<l>Teseo Alcide Giason Bacco ed Osiri.</l></lg></lg>
+<note place="foot" resp="ed"><p>fra ] tra<lb/>
+de i ] de'<lb/>
+Indi ] Ivi</p></note></div1>
+<div1 type="poesia"><head>XXIX.</head><head>PER LO STESSO.</head>
+<lg type="sonetto"><lg><l>Teseo Osiri Giason Bacco ed Alcide</l>
+<l>Scorrer la terra e il mare anime ardenti</l>
+<l>E portar guerra a gli uomini nocenti,</l>
+<l>E al debole apprestar le braccia fide;</l></lg>
+<lg><l>E poner leggi e condur l'arti e guide</l>
+<l>Far de la copia il suolo e l'onda e i venti;</l>
+<l>E offrir se stessi a stabilir le genti</l>
+<l>La prisca età meravigliando vide.</l></lg>
+<lg><l>Ben de' lor fatti la beltà decora</l>
+<l>Contaminò finger profano e stolto</l>
+<l>Onde il vulgo s'inganna e il vero ignora:</l></lg>
+<lg><l>Ma chi dotto all'età scoprir sa il volto</l>
+<l>In quelli eroi mille virtudi onora</l>
+<l>Che poi Cesare solo ha in sé raccolto.</l></lg></lg>
+<note place="foot" resp="ed"><p>a ] e</p></note></div1>
+<div1 type="poesia"><head>XXX.</head><head>A VITTORIO ALFIERI IL TRAGICO.</head>
+<lg type="sonetto"><lg><l>Tanta già di coturni, altero ingegno,</l>
+<l>Sovra l'Italo Pindo orma tu stampi,</l>
+<l>Che andrai, se te non vince o lode o sdegno,</l>
+<l>Lungi dell'arte a spaziar fra i campi.</l></lg>
+<lg><l>Come dal cupo ove gli affetti han regno</l>
+<l>Trai del vero e del grande accesi lampi:</l>
+<l>E le poste a' tuoi colpi anime segno</l>
+<l>Pien d'inusato ardir scuoti ed avvampi!</l></lg>
+<lg><l>Per che dell'estro a i generosi passi</l>
+<l>Fan ceppo i carmi? E dove il pensier tuona</l>
+<l>Non risponde la voce amica e franca?</l></lg>
+<lg><l>Osa contendi; e di tua man vedrassi</l>
+<l>Cinger l'Italia omai quella corona</l>
+<l>Che al suo crin gloríoso unica manca.</l></lg></lg>
+<note place="foot" resp="ed"><p>Sovra ] Sopra...</p>
+<l>Su l'Italico Pindo orma tu stampi</l>
+<l>Come felice poi li guidi al segno</l>
+<l>Quando il terrore o la pietade accampi!</l>
+<l>Perchè del genio tuo sublime a i passi</l>
+<l>Ostano i carmi; e dove il pensier tuona</l>
+<l>La voce non risponde amica e franca?</l></note></div1>
+<div1 type="poesia"><head>XXXI.</head><head>A CLORI INSPIRATRICE DELL'ESTRO.</head>
+<lg type="sonetto"><lg><l>Volgi un momento sol, volgi un momento</l>
+<l>Clori divina sul mio stato acerbo</l>
+<l>L'onnipotente tuo occhio superbo,</l>
+<l>E calma in parte il mio crudel tormento:</l></lg>
+<lg><l>E vedrai tosto, a quel girar, lo spento</l>
+<l>Estro avvivarsi; e quel che in mente io serbo</l>
+<l>Foco menar gran vampa; e acquistar nerbo</l>
+<l>L'ingegno per la doglia stanco e lento;</l></lg>
+<lg><l>E qual torrente giù precipitarmi</l>
+<l>Dal labbro i versi; e al mio piè l'Astio nero</l>
+<l>Prosternarsi; e la Gloria incoronarmi;</l></lg>
+<lg><l>E la Terra devota al Tempio altero</l>
+<l>Offerir del tuo Nume e bronzi e marmi,</l>
+<l>Dicendo: <emph>a te che ravvivasti Omero</emph>.</l></lg></lg>
+<note place="foot" resp="ed"><p>Prosternarsi ] Prosternersi</p></note></div1>
+<div1 type="poesia"><head>XXXII.</head><head>PER MARIA BEATRICE DA ESTE.</head>
+<lg type="sonetto"><lg><l>Ardono, il giuro, al tuo divino aspetto</l>
+<l>Alma Sposa di Giove anco i mortali:</l>
+<l>Tai da le bianche braccia e dal bel petto</l>
+<l>E da i grandi occhi tuoi partono strali:</l></lg>
+<lg><l>E ben farsi oserìen a i numi eguali</l>
+<l>Fuor dimostrando il lor celato affetto,</l>
+<l>Se al fervido desìre il volo e l'ali</l>
+<l>Non troncasser la tema ed il rispetto.</l></lg>
+<lg><l>Issìon che nel cor la vìolenta</l>
+<l>Fiamma non seppe contenere or giace</l>
+<l>Sopra la rota e i voti altrui spaventa.</l></lg>
+<lg><l>Ma se il caso di lui frena ogni audace,</l>
+<l>Non è però che i pregi tuoi non senta</l>
+<l>Più d'un'alma gentil che adora e tace.</l></lg></lg>
+<note place="foot" resp="ed"><l>Ardono, il credi, al tuo divino aspetto...</l>
+<l>Scende il poter del tuo divino aspetto</l>
+<l>Alma sposa di Giove anche a i mortali;</l>
+<l>Tal dall'eburnee braccia, e dal bel petto,</l>
+<l>E da' begli occhi tuoi parton gli strali:</l>
+<l>Manifestando il mal celato affetto,</l>
+<l>Se a' fervidi lor voti il volo e l'ali</l>
+<l>Non tarpasse la tema ed il rispetto.</l>
+<l>Issìon che nel cor la vìolenta</l>
+<l>Fiamma non seppe trattenere or giace</l>
+<l>Ma se il suo caso affrena ogn'alma audace,</l></note></div1>
+<div1 type="poesia"><head>XXXIII.</head><head>PER CECILIA TRON VENEZIANA.</head>
+<lg type="sonetto"><lg><l>Grato scarpel su questo marmo incidi</l>
+<l>Il fausto dì quando a' miei Lari apparse</l>
+<l>Colei che Diva de gli Adriaci lidi</l>
+<l>Chiara fama di sé nel mondo sparse.</l></lg>
+<lg><l>Scrivi qual di virtù di grazie io vidi</l>
+<l>D'ingegno di saper luce spiegarse;</l>
+<l>E quanta in me di puri sensi e fidi</l>
+<l>Subita fiamma inestinguibil'arse.</l></lg>
+<lg><l>Scrivi che, se da gli occhi miei fu pronta</l>
+<l>Gli alti pregi a rapir, pur mi consola</l>
+<l>Dolce speranza che al partir mi diede.</l></lg>
+<lg><l>Ma, se poi le promesse il vento invola</l>
+<l>D'Adria pel mar, taci i miei danni; e l'onta</l>
+<l>Non eternar de la mancata fede.</l></lg></lg>
+<note place="foot" resp="ed"><l>Grato scarpel su questa pietra incidi</l>
+<p>poi ] mai</p></note></div1>
+<div1 type="poesia"><head>XXXIV.</head><head>PEL RITRATTO DI MARIA BEATRICE DA ESTE.</head>
+<lg type="sonetto"><lg><l>Ben ti conosco al venerando aspetto</l>
+<l>A i tratti egregi onde sorprendi e bei,</l>
+<l>Augusta madre mia che fosti e sei</l>
+<l>Somma del mio pensier gloria e diletto.</l></lg>
+<lg><l>Ma dove i baci, ove il soave al petto</l>
+<l>Stringermi e il suon dell'alma voce e i bei</l>
+<l>Detti e i consigli che guidàro i miei</l>
+<l>Primi sensi e desiri al vero e al retto?</l></lg>
+<lg><l>Ove il continuo folgorar potente</l>
+<l>De' grandi esempi che rendean sì presto</l>
+<l>L'animo a gir sull'orma tua lucente?</l></lg>
+<lg><l>Ah vaneggiai! Subitamente desto</l>
+<l>Dall'arte il cor fe' lusingar la mente.</l>
+<l>Madre sei lungi: e un falso marmo è questo.</l></lg></lg></div1>
+<div1 type="poesia"><head>XXXV.</head><head>PER MONACA.</head>
+<lg type="sonetto"><lg><l>Non a voi sorde mura esposte al danno</l>
+<l>E del tempo e de' casi ov'io già il piede</l>
+<l>Libera posi, or dopo volto un anno</l>
+<l>I giuramenti miei sacro e la fede:</l></lg>
+<lg><l>A Dio ben sì che mai non pate inganno</l>
+<l>Che nel profondo cor penetra e vede</l>
+<l>E dovunque sieno in vario albergo e in panno</l>
+<l>Le già devote a lui anime chiede.</l></lg>
+<lg><l>Così la Vergin saggia. E dal bel velo</l>
+<l>Le luci alzando a la sacr'ara fisse</l>
+<l>Tutta nel volto fiammeggiò di zelo.</l></lg>
+<lg><l>E allor l'Eterno in adamante scrisse</l>
+<l>Il nobil detto che sembrò nel cielo</l>
+<l>Novo d'astri fulgore a i guardi aprisse.</l></lg></lg>
+<note place="foot" resp="ed"><p>sacro ] lego</p></note></div1>
+<div1 type="poesia"><head>XXXVI.</head><head>PER MONACA.</head>
+<lg type="sonetto"><lg><l>Quanti celibi e quanti al mar consegna</l>
+<l>La cupidigia de' mortali! Quanti</l>
+<l>Ne spinge in guerra all'altrui danno e a i pianti</l>
+<l>Crudele ambizíon quando si sdegna!</l></lg>
+<lg><l>Quanti ne le città la turpe insegna</l>
+<l>Seguon d'ozio inimico a i nodi santi!</l>
+<l>E tu perversa età quei lodi e vanti;</l>
+<l>E noi sol gravi di calunnia indegna?</l></lg>
+<lg><l>Noi poche Verginelle a cui la face</l>
+<l>Di caritade accende il divin lume;</l>
+<l>E penitenza e solitudin piace?</l></lg>
+<lg><l>Noi che supplici ognor davanti al Nume</l>
+<l>Sul popolo invochiam dovizia e pace,</l>
+<l>E custode a le leggi aureo costume?</l></lg></lg></div1>
+<div1 type="poesia"><head>XXXVII.</head><head>PER UN TE DEUM.</head>
+<lg type="sonetto"><lg><l>Viva, o Signor, viva in eterno, viva</l>
+<l>L'alta stirpe regal ch'ami e proteggi</l>
+<l>Per lei nel popol tuo stan le tue leggi,</l>
+<l>E il sacro foco sul tuo altar si avviva.</l></lg>
+<lg><l>Pari al cedro, o Signor, pari all'oliva</l>
+<l>Lo scettro salutare onde ne reggi</l>
+<l>E fiorisca e si spanda e in novi seggi</l>
+<l>Germini altero ovunque il sole arriva.</l></lg>
+<lg><l>Odi propizio. A te preghiam Signore</l>
+<l>Non per superbia no che al sol tuo fiato</l>
+<l>Va qual polvere vil dispersa a i venti:</l></lg>
+<lg><l>Ma per che il mondo al par di noi beato</l>
+<l>De' beneficj tuoi provi il maggiore,</l>
+<l>E il santo nome tuo cantin le genti.</l></lg></lg></div1>
+<div1 type="poesia"><head>XXXVIII.</head><head>A SILVIA VERZA CURTONI.</head>
+<lg type="sonetto"><lg><l>Silvia immortal, ben che da i lidi miei</l>
+<l>Lontana il patrio fiume illustri e coli;</l>
+<l>E ben che dentro a i gorghi atri letei</l>
+<l>Ogni dolce memoria il tempo involi:</l></lg>
+<lg><l>Pur con lo ingegno onde tant'alto voli</l>
+<l>E con le vaghe forme e i lumi bei,</l>
+<l>Dopo sì lungo varíar di soli,</l>
+<l>Viva e presente nel mio cor tu sei.</l></lg>
+<lg><l>E spesso in me la fantasia si desta,</l>
+<l>Tal che al dì chiaro e ne la notte bruna</l>
+<l>Te veggio, e il guardo a contemplar si arresta.</l></lg>
+<lg><l>Né ben credendo ancor tanta fortuna</l>
+<l>Palpito e grido: o l'alma Silvia è questa</l>
+<l>O de le Grazie o de le Muse alcuna.</l></lg></lg></div1>
+<div1 type="poesia"><head>XXXIX.</head><head>A TERESA BANDETTINI.</head>
+<lg type="sonetto"><lg><l>Poi che tu riedi a vagheggiar dell'etra</l>
+<l>Inclita Saffo ancor gli almi splendori,</l>
+<l>E così dolce ancor fiedi la cetra</l>
+<l>Ove gli antiqui tuoi spiran calori:</l></lg>
+<lg><l>Se la immagin crudel te non arretra,</l>
+<l>Dinne tu stessa i disperati amori</l>
+<l>Onde nel mar da la Leucadia pietra</l>
+<l>Cadesti, odiando i già sì grati allori.</l></lg>
+<lg><l>Ché se i duri tuoi casi uditi altronde</l>
+<l>Fan che tu sei tanto lodata e pianta,</l>
+<l>Che fia l'udirli dal tuo sacro ingegno?</l></lg>
+<lg><l>Ma già l'estro la invade. Ampia diffonde</l>
+<l>Fiamma da gli occhi; e di piacer dà segno.</l>
+<l>Ecco: l'inclita Saffo ecco già canta.</l></lg></lg>
+<note place="foot" resp="ed"><p>piacer ] tacer<lb/>
+Ecco: l'inclita ] Zitti. L'inclita</p></note></div1>
+<div1 type="poesia"><head>XL.</head><head>PER NOZZE.</head>
+<lg type="sonetto"><lg><l>Fingi un'ara, o Pittor. Viva e festosa</l>
+<l>Fiamma sopra di lei s'innalzi e strida:</l>
+<l>E l'un dell'altro degni e Sposo e Sposa</l>
+<l>Quì congiungan le palme: e il Genio arrida.</l></lg>
+<lg><l>Sorga Imeneo tra loro; e giglio e rosa</l>
+<l>Cinga loro a le chiome. Amor si assida</l>
+<l>Su la faretra dove l'arco ei posa;</l>
+<l>E i bei nomi col dardo all'ara incida.</l></lg>
+<lg><l>Due belle Madri al fin, colme di pura</l>
+<l>Gioia, stringansi a gara il petto anelo,</l>
+<l>Benedicendo lor passata cura.</l></lg>
+<lg><l>E non venal Cantor sciolga suo zelo</l>
+<l>A lieti annunci per l'età ventura:</l>
+<l>E tuoni a manca in testimonio il Cielo.</l></lg></lg>
+<note place="foot" resp="ed"><l>Su la faretra, e mentre l'arco ei posa</l>
+<l>I bei nomi col dardo all'ara incida.</l>
+<p>annunci] annunzi</p></note></div1>
+<div1 type="poesia"><head>XLI.</head><head>PER MARIA DI CASTELBARCO.</head>
+<lg type="sonetto"><lg><l>Rapì de' versi miei picciol libretto</l>
+<l>Amor non sazio mai di furti e prede;</l>
+<l>E me schernendo a seguitarlo inetto</l>
+<l>Fuggissi a volo; e a Citerea lo diede.</l></lg>
+<lg><l>E disse: o Madre a te sia il dono accetto,</l>
+<l>Ben che non molta in questi carmi ho fede:</l>
+<l>Se non mentisce del cantor l'aspetto</l>
+<l>E l'usurpata chioma e il debil piede.</l></lg>
+<lg><l>E tu ben sai che la tua bella face</l>
+<l>Tardo inspirò di poesia furore</l>
+<l>Di Teo sol tanto al vecchiarel vivace.</l></lg>
+<lg><l>Rise la Dea: di vago almo colore</l>
+<l>Si tinse; e replicò: tutto a me piace</l>
+<l>Quel che mi vien da le tue mani Amore.</l></lg></lg>
+<note place="foot" resp="ed"><p>sazio ] stanco</p>
+<l>Fuggissi a volo; e all'alma Cipri il diede...</l>
+<l>Fuggì volando</l>
+<l>Mal mi predice del cantor l'aspetto...</l>
+<l>Se del cantor m'è testimon l'aspetto</l>
+<p>Tardo ] Grato</p>
+<l>Solo di Teo al vecchierel vivace.</l>
+<l>Rise l'amabil Dea; vago colore</l>
+<l>La tinse; e replicò: tutto a me piace</l></note></div1>
+<div1 type="poesia"><head>XLII.</head><head>LA VITTORIA.</head>
+<lg type="sonetto"><lg><l>Predàro i Filistei l'Arca di Dio</l>
+<l>Tacquero i canti e l'arpe de' Leviti</l>
+<l>E il Sacerdote innanzi a Dagon rio</l>
+<l>Fu costretto a celar gli antiqui riti.</l></lg>
+<lg><l>Ma al fin di Terebinto in sul pendio</l>
+<l>Vinse Davidde; e stimolò gli arditi:</l>
+<l>E il popol sorse; e gli empj al suol natio</l>
+<l>Fe' dell'orgoglio lor andar pentiti.</l></lg>
+<lg><l>Or Dio lodiamo. Il Tabernacol Santo,</l>
+<l>E l'arca è salva; e si propone il Tempio</l>
+<l>Che di Gerusalem fia gloria e vanto.</l></lg>
+<lg><l>Ma splendan la giustizia e il retto esempio</l>
+<l>Tal che Israel non torni a novo pianto</l>
+<l>A novella rapina e a novo scempio.</l></lg></lg>
+<note place="foot" resp="ed"><l>E il Sacerdote oppresso, e il popol pio</l>
+<l>Celò il decoro de gli antiqui riti.</l>
+<l><emph>Al fin di Terebinto in sul pendio</emph></l>
+<l><emph>Davide vinse; e stimolò gli arditi...</emph></l>
+<l>Cadde il gran mostro che gli fea sì arditi:</l>
+<l>E le sue forze Israele al fin sentìo</l>
+<l>Sì che gli empi fugò vinti e puniti.</l>
+<p>propone ] <emph>dispone</emph></p>
+<l><emph>A novella rapina a novo scempio</emph>.</l></note></div1>
+</body>
+</text>
+</TEI.2>

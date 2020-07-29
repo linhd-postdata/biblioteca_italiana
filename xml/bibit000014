@@ -1,0 +1,2304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Agide</title>
+      <author>Vittorio Alfieri</author>
+    </titleStmt>
+    <extent>92 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000014</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tragedie</title>
+        <title type="part">Don Garzia ; Saul ; Agide ; Sofonisba ; Bruto primo ; Mirra ; Bruto secondo</title>
+        <author>Alfieri, Vittorio</author>
+        <editor id="ed">Toschi, Luca</editor>
+        <publisher>Sansoni</publisher>
+        <pubPlace>Firenze</pubPlace>
+        <date>1985</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>700</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>852.6 - Letteratura drammatica italiana. 1748-1814.</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione - OCR</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-04-22T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Ilenia Sabelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2003-05-05T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 n="Dedica">
+<opener><salute>ALLA MAESTÀ DI CARLO PRIMO RE D'INGHILTERRA</salute></opener>
+	<p>Parmi, che senza viltà né arroganza, ad un re infelice e morto io possa dedicare il mio Agide.</p>
+	<p>Questo re di Sparta ebbe con voi comune la morte, per giudizio iniquo degli efori; come voi, per quello d´un ingiusto parlamento. Ma quanto fu simile l´effetto, altrettanto diversa n´era la cagione. Agide, col ristabilire l´uguaglianza e la libertà, volea restituire a Sparta le sue virtù, e il suo splendore; quindi egli pieno di gloria moriva, eterna di sé lasciando la fama. Voi, col tentare di rompere ogni limite all´autorità vostra, falsamente il privato vostro bene procacciarvi bramaste: nulla quindi rimane di voi; e la sola inutile altrui compassione vi accompagnò nella tomba.</p>
+	<p>I disegni d´Agide, generosi e sublimi, furono poi da Cleomène suo successore, che il tutto trovò preparato, felicemente e con grande sua gloria eseguiti. I vostri, comuni al volgo dei regnanti, da molti altri principi furono e sono tuttavia tentati, ed anche a compimento condotti, ma senza fama pur sempre. Della vostra tragica morte, non essendone sublime la cagione, in nessun modo, a mio avviso, se ne potrebbe fare tragedia: della morte d´Agide (ancorché tentata io non l´avessi) crederei pure ancora, attesa la grandezza vera dello spartano re, che tragedia tortissima ricavarsene potrebbe.</p>
+	<p>Sì l´uno che l´altro, ai popoli foste e sarete un memorabile esempio, e un terribile ai re: ma, colla somma differenza tra voi, che de´ simili alla MAESTÀ VOSTRA, molti altri re ne sono stati e saranno; ma de´ simili ad Agide, nessuno giammai.</p>
+<closer>
+<dateline>Martinsborgo, 9 Maggio 1786</dateline>
+<signed>VITTORIO ALFIERI</signed>
+</closer>
+</div1>
+<castList>
+<head>PERSONAGGI</head>
+<castItem type="role"><role>AGIDE</role></castItem>
+<castItem type="role"><role>LEONIDA</role></castItem>
+<castItem type="role"><role>AGESISTRATA</role></castItem>
+<castItem type="role"><role>AGIZIADE</role></castItem>
+<castItem type="role"><role>ANFARE</role></castItem>
+<castItem type="role"><role>Efori</role></castItem>
+<castItem type="role"><role>Senatori</role></castItem>
+<castItem type="role"><role>Popolo</role></castItem>
+<castItem type="role"><role>Soldati di Leonida</role></castItem>
+</castList>
+<set><p><emph>Scena, il foro, poi la prigione, di Sparta</emph></p></set>
+</front>
+<body>
+<div1 type="atto">
+<head>ATTO I</head>
+<div2 type="scena">
+<head>SCENA I</head>
+<stage>LEONIDA, ANFARE</stage>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Ecco, or di nuovo sul regal tuo seggio</l>
+<l>stai, Leonida, assiso. Intera Sparta,</l>
+<l>o d´essa almen la miglior parte, i veri</l>
+<l>maturi savi, e gli amator dell´almo</l>
+<l>pubblico bene, a te rivolti han gli occhi,</l>
+<l>per ottener dei lunghi affanni pace.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Di Sparta il re non io perciò mi estimo,</l>
+<l>finché rimane Agide in vita. Ei vive</l>
+<l>non pur, ma ei regna in cor de' molti. Asilo</l>
+<l>gli è questo tempio, il cui vicino foro</l>
+<l>empie ogni dì tumultuante ardita</l>
+<l>plebe, che re lo vuol pur anco, e in trono</l>
+<l>un'altra volta a me compagno il grida.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>E temi tu d'esserne or vinto? Io 'l giuro,</l>
+<l>e gli altri efori tutti il giuran meco;</l>
+<l>Agide mai non fia più re. Ma, vuolsi</l>
+<l part="I">oprar destrezza or, più che forza...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Egli era</l>
+<l>da tanto già, che co' raggiri suoi,</l>
+<l>con le sue nuove mal sognate leggi,</l>
+<l>tutto sossopra a forza aperta porre,</l>
+<l>e me cacciarne ardia del soglio in bando:</l>
+<l>ed io, da' miei fidi Spartani al soglio</l>
+<l>richiamato, or dovrò con vie coperte</l>
+<l part="I">la vendetta pigliarne?</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Un velo è forza</l>
+<l>porvi: ei genero t'è. Quel dì, che in crudo</l>
+<l>esiglio, solo, abbandonato, e privo</l>
+<l>del regio serto, fuor di Sparta andavi,</l>
+<l>umano ei t'era. Ai percussor feroci</l>
+<l>che Agesilào crudel su l'orme tue</l>
+<l>a svenarti inviava, Agide a viva</l>
+<l>forza si oppose; e di Tegèa (il rimembri)</l>
+<l>salvo al confin ti trasse: in ciò soltanto</l>
+<l>non figlio ei d'Agesìstrata, ed avverso</l>
+<l>apertamente al rio di lei fratello.</l>
+<l>Sol del pubblico bene or puoi far dunque</l>
+<l part="I">a tua vendetta velo.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Infame dono</l>
+<l>ei mi fea della vita, il dì ch'espulso</l>
+<l>m'ebbe dal seggio; e a vie più grande oltraggio</l>
+<l>recar mel debbo. Ei mi credea nemico</l>
+<l>da non più mai temersi? oggi nel voglio</l>
+<l>disingannare appieno. In me raddoppia</l>
+<l>l'esser egli mio genero il dispetto.</l>
+<l>Genero a me? deh! quale error fu il mio,</l>
+<l>d'avere a lui donna dissimil tanto</l>
+<l>data in consorte? Ammenda omai null'altra,</l>
+<l>che lo spegnerlo, resta. Unica figlia,</l>
+<l>Agizìade diletta, a me compagna,</l>
+<l>sostegno a me nel duro esiglio l'ebbi.</l>
+<l>Abbandonava ella il suo amato sposo,</l>
+<l>perché al padre nemico; ella i legami</l>
+<l>di natura tenea più sacri ancora</l>
+<l>che quei d'amore: e al fianco mio trar vita</l>
+<l>misera volle errante, anzi che al fianco</l>
+<l>del mio indegno offensore in trono starsi.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Pur, per quanto sia giusto in te io sdegno,</l>
+<l>premilo in petto, se sbramarlo or vuoi.</l>
+<l>Io men di te non odio Agide altero;</l>
+<l>e la sua pompa di virtudi antiche,</l>
+<l>finta in biasmo di noi. Sparta ridurre</l>
+<l>qual già la fea Licurgo, è al par crudele,</l>
+<l>che ambiziosa stolidezza: è tale</l>
+<l>pure il disegno suo; quindi ebbe ei quasi</l>
+<l>la città nostra all'ultimo ridotta:</l>
+<l>e, sconvolta pur anco, in risse e affanni</l>
+<l>egra ella sta. Ma, van cangiando i tempi:</l>
+<l>quei traditori, efori allor, che schiavi</l>
+<l>eran d'Agesilào, più a lui venduti</l>
+<l>che ad Agide, con esso ora sbanditi</l>
+<l>son tutti, o spenti; e sta in noi soli Sparta.</l>
+<l>Ma il popol rio, mendico, e ognor di nuove</l>
+<l>cose voglioso, Agide ancora elegge</l>
+<l>mezzo a sue mire ingiuste. A schietta forza,</l>
+<l>mal frenare il potremmo; ogni novello</l>
+<l>governo erra adoprandola. Deluso,</l>
+<l>pria che sforzato, il popol sia. Tal cura</l>
+<l>che a cor mi sta non men che a te, mi lascia.</l>
+<l>Ecco la madre d'Agide: gran donna</l>
+<l>ogni dì più degli Spartani in core</l>
+<l>si fa costei: temer si debbe anch'ella.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA II</head>
+<stage>AGESISTRATA, LEONIDA, ANFARE</stage>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l>Chi ne' miei passi trovo? oh! mentre io vado</l>
+<l>di Sparta al re, cui sacro asil racchiude,</l>
+<l>qui intorno io veggo irsi aggirando or l'altro</l>
+<l part="I">re di Sparta novello?</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">E il fero giorno,</l>
+<l>ch'io, re di Sparta, esul di Sparta usciva,</l>
+<l>ebbi al mondo un asilo? Assai gran tempo</l>
+<l>dal trono io vissi in bando; e reo, ch'è il peggio,</l>
+<l>in apparenza io vissi. Avriami ucciso</l>
+<l>il duol, se in un coll'usurpato seggio</l>
+<l>restituita la innocenza mia</l>
+<l>non m'era appieno da un miglior consiglio</l>
+<l>di Sparta istessa. Il mio rival cacciato,</l>
+<l>quel Cleòmbroto iniquo, a chi il mio scettro</l>
+<l>signor del tutto allora Agide dava,</l>
+<l>già mie discolpe ei fece. A far le sue,</l>
+<l>che tarda Agide più? Collega ei fummi</l>
+<l>sul trono; ancor mi è genero; e nemico</l>
+<l>mi sia, se il vuole. — Ma, cagion qual altra,</l>
+<l>che il suo fallir, chiuso or nel tempio il tiene?</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l>A Sparta, e a me, Leonida, sei noto:</l>
+<l>quai sieno i tuoi, quai sien d'Agide i falli,</l>
+<l>è brevissimo a dirsi, Agide volle</l>
+<l>libera Sparta; i cittadini uguali,</l>
+<l>forti, arditi, terribili; Spartani</l>
+<l>in somma: e a nullo sovrastare ei volle,</l>
+<l>che in ardire e in virtude. In ozio vile,</l>
+<l>ricca, serva, divisa, imbelle, quale</l>
+<l>appunto ell'è, Leonida la volle.</l>
+<l>Falli son l'opre d'Agide, perch'havvi</l>
+<l>copia di rei, più che di buoni, in Sparta:</l>
+<l>di Leonida l'opre or son virtudi,</l>
+<l>perch'elle son dei tempi. Oggi rimembra</l>
+<l>tu almen, se il puoi, che il mio figliuol mostrossi</l>
+<l>nemico aperto del regnar tuo solo,</l>
+<l>non di te mai; ch'or non vivresti, pensa,</l>
+<l>se cittadino ei più che re, tua vita</l>
+<l>non ti serbava, ed in suo danno forse.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Vero è; nel dì, che il tuo crudo fratello</l>
+<l>a trucidarmi gli assassin suoi vili</l>
+<l>mandava, Agide, forse a tuo dispetto,</l>
+<l>per altri suoi satelliti mi fea</l>
+<l>vivo e illeso serbar: ma un re sbandito,</l>
+<l>cui l'onor, l'innocenza, il soglio tolto</l>
+<l>vien dal rival, fia ch'a pietade ascriva</l>
+<l part="I">la mal concessa vita?</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Al par che grande</l>
+<l>era imprudente il dono: Agide stesso</l>
+<l>tale il credea; ma innata è in quel gran core</l>
+<l>ogni magnanim'opra. Agide eccelso</l>
+<l>contaminar non volle col tuo sangue</l>
+<l>la generosa ed inaudita impresa</l>
+<l>di un re, che in piena libertà sua gente</l>
+<l>restituir, spontaneo, si accinge.</l>
+<l>Dal perdonarti io nol distolsi; e forse</l>
+<l>tentato invano lo avrei: d'Agide madre,</l>
+<l>mostrarmi io mai potea di cor minore</l>
+<l>a quel di un tanto figlio? È ver; mi nacque</l>
+<l>Agesilào fratello: or di un tal nome</l>
+<l>indegno egli è. Con libera eloquenza,</l>
+<l>e con finte virtù suoi vizi veri</l>
+<l>adombrando, ei deluse Agide, Sparta,</l>
+<l part="I">e me con essi...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Ma, non me, giammai.</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l>Noto e simile ei t'era. — A tor per sempre</l>
+<l>dei creditori e debitor, de' ricchi</l>
+<l>e de' mendici, i non spartani nomi,</l>
+<l>Agesilào, più ch'altri, Agide spinse.</l>
+<l>Vistosi poi dal nostro esemplo astretto</l>
+<l>di accomunar le sue ricchezze, ei vinto</l>
+<l>dall'avarizia brutta, il sacro incarco</l>
+<l>contaminando d'eforo, impediva</l>
+<l>la sublime uguaglianza. Il popol quindi,</l>
+<l>sconvolto e oppresso più, dubbio, tremante</l>
+<l>fra il servir non estinto e la sturbata</l>
+<l>sua libertade rinascente appena,</l>
+<l>te richiamava al seggio: e te stromento</l>
+<l>degno ei sceglieva al rincalzare i molli</l>
+<l>non cangiabili in lui guasti costumi.</l>
+<l>Il popol stesso, avvinto in man ti dava</l>
+<l>qual Cleòmbroto re pur dianzi eletto:</l>
+<l>e il popol stesso alla custodia or sola</l>
+<l>di un asilo abbandona il già sì amato</l>
+<l>Agide, il riverito idolo suo.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Più custodito è dalle leggi assai,</l>
+<l>che da questo suo asilo. Ei delle leggi</l>
+<l>sovvertitore, annullator, pur debbe</l>
+<l>ad esse e a noi la sua salvezza. E a noi</l>
+<l>efori veri, a Sparta tutta innanzi,</l>
+<l>ei darà di sé conto: ove non reo</l>
+<l>vaglia a chiarirsi, ei non del re, né d'altri</l>
+<l part="I">temer de' mai.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">S'egli in suo cor se stesso</l>
+<l>reo non stimasse, a che l'asilo? al giusto</l>
+<l>giudizio aperto popolar me pria</l>
+<l part="I">perché non trarre?</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Perché d'armi e d'oro</l>
+<l>tu ti fai scudo, ei di virtude ignuda:</l>
+<l>perché tu pieno di vendetta riedi,</l>
+<l>ed ei neppure la conosce: in somma,</l>
+<l>perché i tuoi, non di Sparta, efori nuovi</l>
+<l>suonan ben altro, che terror di leggi.</l>
+<l>Nulla paventa Agide mio; ma torsi</l>
+<l>vuol dalla infamia; e darla, ancor che breve,</l>
+<l>altrui può sempre chi il poter si usurpa.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Che farà dunque Agide tuo? più a lungo</l>
+<l>racchiuso starsi omai non può, s'ei teme</l>
+<l part="I">la infamia vera.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">E molto men può Sparta</l>
+<l>nelle presenti sue strane vicende</l>
+<l>d'un de' suoi re star priva. Agide il nome</l>
+<l>tuttor ne serba; e il necessario incarco</l>
+<l>pur non ne adempie: mal sicura intanto</l>
+<l>e dentro e fuori è la città; sossopra</l>
+<l part="I">gli ordini tutti; e manca...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Agide manca;</l>
+<l>e con lui tutto. Al par di noi ciò sanno</l>
+<l>i nemici di Sparta, in cui novello</l>
+<l>fea rinascer terror dell'armi nostre</l>
+<l>Agide solo. Sì, gli Etoli feri,</l>
+<l>cui disfar non sapea canuto duce</l>
+<l>il grande Aràto co' suoi prodi Achei,</l>
+<l>tremar d'Agide imberbe; antico tanto</l>
+<l>spartano egli era. — A non imprender cosa</l>
+<l>or contro a lui, Leonida, ti esorto:</l>
+<l>che se pur anco, ingiusto spesso, il fato</l>
+<l>palma or ten desse, onta non lieve un giorno</l>
+<l>ne trarresti dal tempo, e danno espresso</l>
+<l>della patria. Non so, se patria un nome</l>
+<l>sacro a te sia: ma primo, e forte tanto</l>
+<l>nome è fra noi, che se in mio cor sorgesse</l>
+<l>un leggier dubbio mai, ch'anco i pensieri,</l>
+<l>non che d'Agide l'opre, al ben di Sparta</l>
+<l>non fosser volti tutti, io madre, io prima,</l>
+<l>il rigor pieno delle sante leggi</l>
+<l>implorerei contra il mio figlio. — Or dunque</l>
+<l>opra a tuo senno tu: tremar non ponno</l>
+<l>Agide mai, né chi a lui diè la vita,</l>
+<l>che per la patria lor: tu, benché in armi</l>
+<l>ed in prospera sorte, entro al tuo core</l>
+<l>conscio di te, sol per te stesso tremi.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Donna, sei madre; e d'uom ch'ebbe già scettro,</l>
+<l>il sei; quind'io ti escuso. In voi temenza</l>
+<l>non è; di' tu? meglio per voi: ma Sparta,</l>
+<l>gli efori, ed io, vi diam sol uno intero</l>
+<l>giorno, a mostrar questa innocenza vostra,</l>
+<l>sempre esaltata e non provata mai.</l>
+<l>Esca al fin egli, e sé difenda; e accusi</l>
+<l>me stesso ei pur, se il vuol: tranne l'asilo</l>
+<l>tutto or gli sta. Ma, se a celarsi ei segue,</l>
+<l>digli, che al nuovo dì né Sparta il tien</l>
+<l>più per suo re, né per collega io 'l tengo.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA III</head>
+<stage>AGESISTRATA, ANFARE</stage>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Dal fresco esiglio inacerbito ei parla:</l>
+<l>ma, non ha Sparta l'ira sua. — Dovresti,</l>
+<l>tu cui son cari Agide e Sparta, il figlio</l>
+<l part="I">piegare ai tempi alquanto, e indurlo...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">A farsi</l>
+<l>vile, non io, né voi, né Sparta indurlo</l>
+<l>mai non potremmo. Che del re lo sdegno</l>
+<l>non sia sdegno di Sparta, assai mel dice</l>
+<l>l'immenso stuolo di Spartani in folla</l>
+<l>presso all'asilo d'Agide ogni giorno</l>
+<l>adunati, che il chiamano con fere</l>
+<l>libere grida ad alta voce padre,</l>
+<l>cittadin re, liberator secondo,</l>
+<l>nuovo Licurgo. Assai pur alta e vera</l>
+<l>esser de' in lui la sua virtù, poich'osa</l>
+<l>laudarla ancor con suo periglio Sparta;</l>
+<l>poiché, più del terror dell'armi vostre,</l>
+<l>può in Sparta ancor la maraviglia d'essa.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Si affolla e grida il popolo; ma nulla</l>
+<l>opra ei perciò: né i ribellanti modi</l>
+<l>altro faran, che inacerbir più sempre</l>
+<l>contra il tuo figlio i buoni. Assai tu puoi,</l>
+<l>d'Agide madre, entro a spartani petti,</l>
+<l>e sovr'Agide più: quelli (a me il credi)</l>
+<l>al cessar dai tumulti, e questo or traggi,</l>
+<l>per poco almeno, all'adattarsi ai tempi.</l>
+<l>Se il ben di tutti e il ben del figlio brami,</l>
+<l>fra violenze e rabide contese,</l>
+<l>mal si ritrova, il sai. Se in ciò tu nieghi</l>
+<l>caldamente adoprarti, e Sparta, ed io,</l>
+<l>e Leonida, a dritto allor nemici</l>
+<l>crederem voi di Sparta; allor parranno,</l>
+<l>a certa prova, i vostri ampi tesori</l>
+<l>malignamente accomunati in prezzo,</l>
+<l>non di uguaglianza, di comun servaggio.</l>
+<l>Dell'alte imprese, ottima o trista, pende</l>
+<l>dall'evento la fama. All'opre vostre</l>
+<l>generose, magnanime (se il sono)</l>
+<l>macchia non rechi il rio sospetto altrui,</l>
+<l>che giustamente voi pentiti accusa</l>
+<l>del tanto dono; e del volerne infame</l>
+<l>traffico far, vi accusa. Io tutto appieno,</l>
+<l>qual cittadin, qual eforo, ti espongo;</l>
+<l>non qual nemico: a voi l'oprar poi spetta.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA IV</head>
+<stage>AGESISTRATA</stage>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l>— Tempo acquistar voglion costoro; e tempo</l>
+<l>dar lor non vuolsi. Ah! di costui la finta</l>
+<l>dolcezza, e di Leonida la rabbia</l>
+<l>repressa a stento, indizi a me (pur troppo!)</l>
+<l>son del destino e d'Agide, e di Sparta.</l>
+<l>Tutto si tenti or per salvarli; e s'anco</l>
+<l>irati i Numi della patria vonno</l>
+<l>sol placarsi col sangue, Agide, ed io,</l>
+<l>per la patria morremo; a lei siam nati. —</l>
+<l>Pur che risorga dal mio sangue Sparta.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="atto">
+<head>ATTO II</head>
+<div2 type="scena">
+<head>SCENA I</head>
+<stage>AGIDE</stage>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Pietosi Numi, a cui finora piacque</l>
+<l>dal furor di Leonida sottrarre</l>
+<l>l'innocenza mia nota, omai non posso</l>
+<l>più rimaner nel vostro tempio. Asilo</l>
+<l>volli appo voi, perché la patria inferma</l>
+<l>più violenze, e più tumulti, e stragi</l>
+<l>a soffrir non avesse: or v'ha chi ardisce</l>
+<l>a' miei delitti ascriverlo, al terrore</l>
+<l>di giusta pena? ecco, l'asilo io lascio. —</l>
+<l>Oh Sparta, oh Sparta!... esser fatal dei sempre</l>
+<l>ai veri tuoi liberatori? Ah! data</l>
+<l>fosse a me pur la sorte, che al tuo primo</l>
+<l>padre eccelso toccò! più che il perenne</l>
+<l>bando, a se stesso da Licurgo imposto,</l>
+<l>morte non degna anco scerrei, se al mio</l>
+<l>cader vedessi almen rinascer teco</l>
+<l>il vigor prisco di tue sacre leggi!...</l>
+<l>Ma, chi sì ratto a questa volta?... Oh cielo!</l>
+<l>Chi mai veggio? Agizìade? La figlia</l>
+<l>di Leonida? oimè!... la mia già dolce</l>
+<l>moglie, che pur mi abbandonò pel padre?</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA II</head>
+<stage>AGIDE, AGIZIADE</stage>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l>Che veggo! Agide mio, fuor dell'asilo</l>
+<l>tu stai? ratta a trovarviti veniva...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Qual che ver me tu fossi, amata sempre</l>
+<l>consorte mia, perché i tuoi passi or volgi</l>
+<l part="I">verso un misero sposo?...</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Agide;... appena...</l>
+<l>parlare io posso;... io riedo a te con l'aspra</l>
+<l>mutata sorte: il tuo stato infelice</l>
+<l>staccarmi sol potea dal padre. Il core</l>
+<l>io strappar mi sentia, nel dì che i nostri</l>
+<l>figli, e te, sposo, abbandonar dovea,</l>
+<l>per non lasciar nel misero suo esiglio</l>
+<l>irne solo il mio padre: né più vista</l>
+<l>tu mai mi avresti in Sparta, or tel confesso,</l>
+<l>se ai crudi strali di fortuna avversa</l>
+<l>ei rimanea pur segno. In alto ei torna,</l>
+<l>tu nel periglio stai: chi, chi potrebbe</l>
+<l>tormi or da re? teco ritorno io tutta:</l>
+<l>e te scongiuro, per l'amor mio vero;</l>
+<l>(pel tuo, non so s'io l'abbia ancor) pe' figli</l>
+<l>che tanto amavi, e per la patria tua,</l>
+<l>(amor che tu tanto altamente intendi)</l>
+<l>io ti scongiuro, almen per ora, a porre</l>
+<l>tue nuove leggi in tregua. Amor di pace,</l>
+<l>dei beni il primo, a ciò t'induca: il freno</l>
+<l>ripigliar con Leonida ti piaccia</l>
+<l>della città, qual per l'addietro ell'era...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Donna, d'amare il padre tuo, chi puote</l>
+<l>biasmarten mai? conoscerlo, nol puoi;</l>
+<l>l'arte tua non è questa: ottima ognora,</l>
+<l>e costumata, e pia, tu raro esemplo</l>
+<l>fra' guasti tempi di verace antico</l>
+<l>e filiale e coniugale amore,</l>
+<l>altro non sai, magnanima, che farti</l>
+<l>fida compagna a chi più avverso ha il fato.</l>
+<l>Se mai cara mi fosti, oggi il vederti</l>
+<l>a me tornar, quando me lascian tutti,</l>
+<l>certo più assai mi ti fa cara. Io meno</l>
+<l>dal tuo gran cor non mi aspettai; null'altro</l>
+<l>temea, fuorch'ebro di sua lieta sorte</l>
+<l>Leonida non forse or ti vietasse</l>
+<l part="I">il ritornarne a me.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Tu ben temesti.</l>
+<l>Tre giorni or son, ch'ei vincitore in Sparta</l>
+<l>riposto ha il piè; tre giorni or son, ch'io seco</l>
+<l>pugno per te. Né, per negar ch'ei fesse</l>
+<l>a me l'assenso, era io perciò men ferma</l>
+<l>di ritrovarti ad ogni costo. Ei stesso,</l>
+<l>cangiato al fine, or dianzi a te mi volle</l>
+<l>messo inviar di pace: ei, per mia bocca,</l>
+<l>piena or te l'offre; e supplica, e scongiura,</l>
+<l>che tu, lasciato omai l'asilo, in opra</l>
+<l>vogli con lui porre ogni mezzo, ond'abbia</l>
+<l>Sparta una volta e intera pace e salda.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Ei mi t'invia? sperare a me non lascia</l>
+<l>nulla di lieto il suo cangiar sì ratto.</l>
+<l>Ma, che dich'io? sperar, se in sé non spera,</l>
+<l>Agide può? ch'altro a temer mi resta,</l>
+<l>quando è più sempre la mia patria serva?</l>
+<l>quando è più sempre dal poter suo prisco,</l>
+<l>dalle già tante sue virtù lontana? —</l>
+<l>Io spontaneo (tu il vedi) avea l'asilo</l>
+<l>abbandonato già: ragion tutt'altra</l>
+<l>le astute brame or prevenir mi fea</l>
+<l>di Leonida... Ah! sì: fia questo un giorno</l>
+<l>grande a Sparta, ed a me; funesto forse</l>
+<l>per te, se m'ami... O fida mia consorte,</l>
+<l>dubitar non ne posso... Ma, se fede</l>
+<l>presti al mio schietto dir, tu d'altro padre</l>
+<l>degna, deh! invan non lo irritar; ten prego.</l>
+<l>Serbati ai figli nostri; ad essi scudo</l>
+<l>contro alla rabbia sii del padre fero:</l>
+<l>gli alti pensieri, ond'io ti posi a parte,</l>
+<l>e che sì ben sentivi, aggiunti agli alti</l>
+<l>innati tuoi, che dell'amor di figlia</l>
+<l>son la essenza sublime, in lor trasfondi</l>
+<l>sì, ch'ei crescano a Sparta e al padre a un tempo.</l>
+<l>Non assetato di vendetta io moro,</l>
+<l>ma di virtù Spartana; ancor che tarda,</l>
+<l>purch'ella un dì dai figli miei rinasca,</l>
+<l part="I">ne sarà paga l'ombra mia...</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Mi squarci</l>
+<l part="I">il core... Oimè!... perché di morte...?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">O donna;</l>
+<l>Spartana sei, d'Agide moglie; il pianto</l>
+<l>raffrena. Il sangue mio giovar può a Sparta;</l>
+<l>non il mio pianto a te. Rasciuga il ciglio;</l>
+<l part="I">non mi sforzare a lagrimar...</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">So tutte</l>
+<l>del tuo sublime, umano, ottimo core</l>
+<l>l'atre tempeste; i generosi tuoi</l>
+<l>retti disegni entro alla mente io porto</l>
+<l>forte scolpiti; e se, a compirgli appieno,</l>
+<l>del mio padre la intera alta rovina</l>
+<l>d'uopo non era, ad eseguirli presta</l>
+<l>me prima avevi, e del mio sangue a costo...</l>
+<l>Oh quante volte il padre, sì diverso</l>
+<l>da te, m'increbbe! oh quante volte io piansi</l>
+<l>d'essergli figlia! ed io pur l'era; e il sono,</l>
+<l>ahi lassa!... e fra voi due stommi infelice:</l>
+<l>e fra voi debbo esser di pace io 'l mezzo,</l>
+<l part="I">o perir deggio.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Esser di Sparta figlia,</l>
+<l>e di Spartani madre esser dovresti,</l>
+<l>se in altri tempi e d'altro sangue nata</l>
+<l>tu fossi in Sparta. Il non spartano padre</l>
+<l>non io però voglio a delitto apporti.</l>
+<l>L'indole tua ben nata, ottima, ed alta,</l>
+<l>ma non diretta, udia di padre e sposo</l>
+<l>sol ricordar, non della patria, i nomi:</l>
+<l>qual fia stupor, se tu più figlia e sposa,</l>
+<l>che cittadina, sei? Ma, qual sei, t'amo;</l>
+<l>né al tuo pensar niente spartano io volli</l>
+<l>forza usar niuna, che il mio esemplo, mai.</l>
+<l>Pel nostro amor quindi ti prego, e, s'uopo</l>
+<l>fia, tel comando; oggi a mostrar ti appresta,</l>
+<l>che madre sei più ancor che sposa o figlia. —</l>
+<l>Ma, qual si appressa orribile tumulto?</l>
+<l>Qual folla è questa? oh! quali grida? Oh cielo!</l>
+<l>La madre? e in armi immenso stuol di plebe</l>
+<l part="I">segue i suoi passi?</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA III</head>
+<stage>AGIDE, AGESISTRATA, AGIZIADE, <emph>Popolo</emph></stage>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Figlio, e che? già fuori</l>
+<l>stai dell'asilo? in chi t'affidi? in questa</l>
+<l>rea figlia di Leonida? Ben io</l>
+<l>più certo asilo, ecco, ti adduco; ognora</l>
+<l part="I">costor fien presti...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">O madre, Agide meglio</l>
+<l>tu conoscer dovresti: o in me mi affido,</l>
+<l>o in nulla omai. Questa, che figlia appelli</l>
+<l>di Leonida, è moglie, è amante, è parte</l>
+<l>del figliuol tuo. — Spartani, ove pur tali</l>
+<l>vi siate voi, che minacciosi in armi</l>
+<l>tumultuar qui di mia fama a danno</l>
+<l>veggio; Spartani, or parla Agide a voi. —</l>
+<l>Io, contro a Sparta, in mio favor, non voglio</l>
+<l>armi nessune; asil nessuno io cerco;</l>
+<l>null'uomo io temo. A dimostrar la mia</l>
+<l>piena innocenza, io basto: a vincitrice</l>
+<l>farla davver della malizia altrui,</l>
+<l>coll'arme no, ma con più fermi sensi,</l>
+<l>potuto avreste un dì voi stessi darmi</l>
+<l>giusto un soccorso: ma fia tardo, e vano,</l>
+<l>e reo (ch'è il peggio) ogni presente aiuto.</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l>E inerme esporti alla maligna rabbia</l>
+<l>d'un Leonida vuoi? d'efori compri</l>
+<l>agl'iniqui raggiri? Ah! no, nol soffro;</l>
+<l>né il soffriran questi Spartani veri,</l>
+<l>che qui son presti a dar la vita or tutti</l>
+<l part="I">pel loro re.</l>
+</sp>
+<sp><speaker><emph>Popolo</emph></speaker>
+<l part="F">Per Agide, noi tutti</l>
+<l part="I">presti a morir veniamo.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Agide e Sparta</l>
+<l>fur già sola una cosa; or ben distinti</l>
+<l>gli ha in due la sorte; or, che a far salva Sparta,</l>
+<l>forse è mestier ch'Agide pera. Il sangue</l>
+<l>sparger non vuolsi mai; vie men, qualora</l>
+<l>rigenerar virtù non puote il sangue.</l>
+<l>Per me morir, voi nol potreste omai,</l>
+<l>senza uccider molti altri: e in un le vostre</l>
+<l>e le altrui vite in Sparta, al par son tutte</l>
+<l>della patria, non vostre. Havvi, nol niego,</l>
+<l>de' traviati cittadini molti:</l>
+<l>ma, per ritrargli al dritto, alto un esemplo</l>
+<l>memorabile appresto. A lor far forza</l>
+<l>potrò con esso; e vie più sempre voi</l>
+<l>farò con esso di fortezza amanti.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l>Misera me! tremar mi fai. Che dunque</l>
+<l part="I">disegni?...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Donna; or per chi tremi? parla;</l>
+<l part="I">pel marito, o pel padre?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Ah! tu non sai,</l>
+<l>madre, qual rechi a me dolor, l'udirti</l>
+<l>trafigger la mia sposa! Ella, più cara</l>
+<l>che mai nol fosse, appunto a me si è fatta,</l>
+<l>per la sua vera filial pietade.</l>
+<l>Madre, consorte, popolo, mi udite. —</l>
+<l>Ho fermo in core di convincer oggi</l>
+<l>anco i maligni, e gli invidi, e i più rei,</l>
+<l>ch'io della patria sono amator vero.</l>
+<l>Ai cittadini, io cittadino e padre,</l>
+<l>io cittadino e re, null'altro apparvi;</l>
+<l>se non m'inganno io pur: ma in altri forse</l>
+<l>da pria destai, con violenze, io stesso,</l>
+<l>dubbio alcuno di me: fui quindi ascritto,</l>
+<l>non a saviezza, a coscienza rea,</l>
+<l>e a vil timor di meritata pena,</l>
+<l>questo mio scelto asilo. Agide n'ebbe</l>
+<l>di volgar re la insopportabil taccia?</l>
+<l>Qual sia 'l mio core, oggi il vedranno. Oh dolce</l>
+<l>periglio a me, quel che affrontar m'è d'uopo,</l>
+<l>per ischiarir qual bene io far tentassi,</l>
+<l>e l'empia invidia di chi il ben non brama!</l>
+<l>Per la pubblica causa io re mostrarmi</l>
+<l>seppi, ed osai; per la privata mia,</l>
+<l>oso anch'esser privato: e, non ch'io creda</l>
+<l>convincer ora i tanti iniqui; in core</l>
+<l>essi già il son pur troppo; ma coprirli,</l>
+<l>di Sparta tutta alla presenza, io deggio</l>
+<l>di vergogna e d'infamia. Essi vorranno</l>
+<l>accusar me, lo spero: io più coll'opre,</l>
+<l>che non co' detti, a discolparmi imprendo:</l>
+<l>soltanto a Sparta i miei disegni esporre</l>
+<l>vo' schiettamente pria, soggiacer poscia...</l>
+</sp>
+<sp><speaker><emph>Popolo</emph></speaker>
+<l>Tu soggiacer? no, mai non fia. Noi tutti</l>
+<l>farem prestarti da quei vili orecchio...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Non voi, deh! no: sol per mia bocca il vero</l>
+<l>farà prestarmi orecchio. E, se a voi cale</l>
+<l>punto il mio onor; se presso a voi mai nulla</l>
+<l>io meritai; se nulla in me, se nulla</l>
+<l>nella memoria almen dell'opre mie</l>
+<l>sperate poi, pregovi, esorto, impongo</l>
+<l>di depor l'armi, e meco sottoporvi,</l>
+<l>quai che sien essi, agli efori. Il tiranno</l>
+<l>di Persia, allor che apertamente insorti</l>
+<l>entro il suo regno a sé nemici ei trova,</l>
+<l>col dispotico brando a lor favella:</l>
+<l>ma il re di Sparta, a lor di sé dà conto;</l>
+<l>e alla calunnia egli da pria ragioni</l>
+<l>oppon; se invano, imperturbabil alma</l>
+<l>vi oppon di re. — Duolmi, e dorrammi ognora,</l>
+<l>che lo stesso Leonida che assale</l>
+<l>or me così, dalla cittade vostra</l>
+<l>espulso andava, e inascoltato. Ei forse</l>
+<l>mal di sé dato avria ragion; né il volle</l>
+<l>pure tentar; ma glien doveva io 'l mezzo</l>
+<l>ampio prestare. Agesilào la forza</l>
+<l>volle adoprarvi; io mi v'opposi indarno:</l>
+<l>non tutti il sanno: Agesilào vien quindi</l>
+<l>meco indistinto. Io da quel dì, ma tardi,</l>
+<l>vedea, ch'egli era uno Spartan mentito:</l>
+<l>ma mi stringeano il tempo, e l'alta brama</l>
+<l>d'oprare il bene, a cui l'ostacol tolto</l>
+<l>di Leonida fero, il campo apriva.</l>
+<l>Quindi l'esiglio suo, giusto, ma inflitto</l>
+<l>in modo ingiusto, a pro di Sparta usai.</l>
+</sp>
+<sp><speaker><emph>Popolo</emph></speaker>
+<l>E chi non sa, che a lui la vita hai salva?...</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l>Sì, per lui sol l'aure di vita ancora</l>
+<l>spira il mio padre. Io nel crudel periglio,</l>
+<l>io stessa, il vidi; agli inumani messi</l>
+<l>d'Agesilào già in mano ei stava quasi,</l>
+<l>quando opportuni d'Agide gli amici</l>
+<l>gli ebber fugati, e noi ritratti illesi</l>
+<l part="I">in securtà.</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Quindi pagar nel vuole</l>
+<l>Leonida oggi, a lui togliendo, iniquo,</l>
+<l part="I">non che la vita, anco la fama...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">E questa</l>
+<l>mai non sta nel tiranno: in me, nel mio</l>
+<l part="I">solo operar, sta la mia fama.</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">E nasce</l>
+<l>sol dal tuo oprar l'altrui livore, e il fermo</l>
+<l>empio pensier di opprimerti. Ma, viene</l>
+<l>Anfare a noi? degno consiglio e amico</l>
+<l part="I">di Leonida...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="M">Udiamlo.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Oh cielo! io tremo...</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA IV</head>
+<stage>AGIDE, AGESISTRATA, AGIZIADE, ANFARE, <emph>Popolo</emph></stage>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Fuor del tuo sacro asilo, Agide, in mezzo</l>
+<l>d'una tal turba io non credea trovarti.</l>
+<l>Ma pur, più grati testimon di questi</l>
+<l>io bramar non potea. Vengo ad esporti</l>
+<l part="I">di Sparta i sensi.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="M">E son?...</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="M">Di pace.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">E quale?</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Vera: ove pace alle tue mire avversa</l>
+<l>non sia pur troppo; ove in tumulti e risse</l>
+<l>securtà tu non cerchi e in un grandezza.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Io discolparmi or presso a te non deggio:</l>
+<l>forse il farò presso a chi il deggio. Udiamo,</l>
+<l>di Leonida udiam la pace intanto.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Son io messo del re? Di Sparta io sono</l>
+<l>eforo; e a te parlo di Sparta in nome.</l>
+<l>Ove piegarti ai cittadin tu vogli,</l>
+<l>(ai veri e saggi) e la città tranquilla</l>
+<l>rifar, dannando ogni tua nuova legge</l>
+<l>tu stesso; il seggio, onde scaduto sei</l>
+<l>col tuo fuggirne, Sparta oggi ti rende.</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="I">Agide...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Madre, a te son figlio; or posa</l>
+<l>secura in me. — Tu, che di Sparta in nome,</l>
+<l>pur ch'io indegno men renda, il trono m'offri;</l>
+<l>pregoti, al re Leonida in risposta</l>
+<l>reca, ch'io seco favellar vorrei,</l>
+<l>pria che in giudicio a Sparta innanzi io parli.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l>Io pur ten prego, Anfare, vanne al padre,</l>
+<l>e a ciò lo induci: a lui ritorna in mente,</l>
+<l>che senz'Agide in vita ei non sarebbe.</l>
+<l>ch'ei la diletta unica figlia sua</l>
+<l part="I">diede ad Agide in moglie...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">A lui null'altro</l>
+<l>non rammentar, fuorché di Sparta entrambi</l>
+<l>siam cittadini; e che il comun vantaggio</l>
+<l part="I">vuol, ch'ei mi ascolti.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">È dubbio assai, s'ei possa,</l>
+<l>o venir voglia ad abboccarsi teco,</l>
+<l>fin ch'ei non sa, se tu i proposti patti</l>
+<l part="I">nieghi, od accetti.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">In guisa niuna ei puote</l>
+<l>negar d'udirmi, e nol vorrà. L'asilo</l>
+<l>io per sempre abbandono; a me dintorno</l>
+<l>corteggio nullo io vo'. — Spartani, ad alta</l>
+<l>voce vel grido; io rimaner qui voglio,</l>
+<l>solo, ed inerme, ed innocente. —<note resp="aut" place="foot" anchored="yes">Il popolo si va allontanando, e disperdesi.</note> Il vedi,</l>
+<l>Anfare, il vedi; il tempo, il loco, il modo,</l>
+<l>opportuno or fia tutto. Io fra brev'ora</l>
+<l>tornerò in questo foro; e qui non sdegni</l>
+<l>venirne il re. Solo sarovvi; egli abbia</l>
+<l>al fianco i suoi satelliti: veduti</l>
+<l>sarem da quanti cittadini ha Sparta,</l>
+<l>ma non sarem da nessun d'essi uditi.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Poiché tu il vuoi, tosto a recarne avviso</l>
+<l part="I">a Leonida volo.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA V</head>
+<stage>AGIDE, AGESISTRATA, AGIZIADE</stage>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Io ben sapea</l>
+<l>con qual esca allettarlo. — Or, donne, intanto</l>
+<l>io con voi riedo alla magione, e ai figli.</l>
+<l>Godrò fra voi brevi momenti estremi</l>
+<l>d'alcun privato dolce, infin ch'io torni</l>
+<l part="I">al fatal parlamento.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="M">Oh cielo!...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">O figlio,</l>
+<l part="I">che speri tu dall'empio re?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">La sorte</l>
+<l>di Sparta ei tiene; e tu mi chiedi, o madre,</l>
+<l>quel che da lui sperare Agide possa?</l>
+</sp>
+</div2>
+</div1>
+<div1 type="atto">
+<head>ATTO III</head>
+<div2 type="scena">
+<head>SCENA I</head>
+<stage>AGIDE</stage>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Non giunge ancor Leonida: l'invito</l>
+<l>sdegna fors'ei? non l'ardiria: qui 'l debbe</l>
+<l>trar, se non altro, or la vergogna. Udiva</l>
+<l>il popol dianzi il generoso prego,</l>
+<l>ch'io gl'inviai per Anfare: riguardi</l>
+<l>possenti, e molti, ancor lo stringon; molto</l>
+<l>timor si annida entro il suo cor, bench'egli</l>
+<l>vIncitor sia. Potessi, ah! pur potessi</l>
+<l>dal suo temer l'util di Sparta io trarre!...</l>
+<l>Ma al fin vien egli: oh! di regal corteggio</l>
+<l part="I">si adorna? e ben gli sta. S'incontri.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA II</head>
+<stage>AGIDE, LEONIDA, <emph>Soldati</emph></stage>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">A udirmi</l>
+<l part="I">ne vieni, o re, pria che ad altr'opre?...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">A udirti</l>
+<l part="I">or vengo io, sì...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Dunque, a te solo io chieggo</l>
+<l part="I">di favellar...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Traetevi in disparte. —</l>
+<l part="I">Eccomi solo: io t'odo.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">A te non parlo,</l>
+<l>quale a suocero genero; ancor ch'io</l>
+<l>oltre ogni dire una consorte adori,</l>
+<l part="I">ch'è delle figlie esemplo.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Alto legame</l>
+<l>ell'era, è ver, fra noi, pria che di Sparta</l>
+<l part="I">tu mi cacciassi in bando.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Il so; né debbo</l>
+<l>parlarten ora, poiché allor tel tacqui.</l>
+<l>Non ch'io allor l'obliassi, e il sai; ma in core</l>
+<l>Sparta allor favellavami, al cui grido</l>
+<l>ogni altro affetto in me taceasi, e tace. —</l>
+<l>Di Sparta il re, di me il nemico sei:</l>
+<l>ma, se nol sei di Sparta, oggi dai Numi</l>
+<l>già protettori della patria chieggio,</l>
+<l>e impetrar spero, un sì verace e forte</l>
+<l>alto parlar, che da me stesso or vogli</l>
+<l>apprender tu pronto e sicuro il modo,</l>
+<l>onde ottenere oltre tue brame forse...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Oltre mie brame? E ciò ch'io bramo, il sai?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Di me vendetta, a tutte cose innanzi,</l>
+<l>brami, e l'avrai; dartela piena io voglio.</l>
+<l>Durevol possa, è il tuo desir secondo;</l>
+<l>e additar ten vogl'io la vera base.</l>
+<l>Né basta; io t'offro alto infallibil mezzo,</l>
+<l>onde acquistar cosa ben altra, a cui</l>
+<l>forse il pensier mai non volgesti; e tale,</l>
+<l>che pur (dov'ella ad acquistar sia lieve)</l>
+<l>tu sprezzarla non puoi. Perenne, immensa</l>
+<l part="I">procacciartela ancora...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="M">E fia?...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">La fama.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>— Meglio sai torla, che insegnarla altrui. —</l>
+<l>Meco il trono occupasti; al ben di Sparta</l>
+<l>meco tu allor, per comun gloria nostra,</l>
+<l>concorrer mai non assentivi: al tuo</l>
+<l>privato ben tu sol pensavi, e a farti</l>
+<l>su la rovina del mio nome un nome.</l>
+<l>Quindi all'esiglio me, Sparta al suo rogo,</l>
+<l>spingevi tu. Non io perciò disegno</l>
+<l>far mie vendette; io ben di Sparta afflitta</l>
+<l>farle or dovrei; ma il vieta a me di vera</l>
+<l>pace l'amor: pace, cui presti ancora</l>
+<l>sono a sturbare (abbenché invano) i tuoi</l>
+<l>pessimi tanti. Amor di pace, in somma,</l>
+<l>di Sparta a nome ora ad offrirti trammi</l>
+<l part="I">perdono intero...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Intero? è troppo. — Or via,</l>
+<l>nessun qui c'ode; il simular, che giova?</l>
+<l>Ch'io non ti legga in cor, tu già nol credi;</l>
+<l>che tu il cangiassi, creder nol mi fai.</l>
+<l>Cred'io bensì, che il tormi e scettro e possa,</l>
+<l>per or non basti a far sul trono appieno</l>
+<l>securo te. Ben sai, che infin ch'io vivo,</l>
+<l>un altro re collega tuo crearti</l>
+<l>ligio non puoi: ma, né pur osi a un tempo</l>
+<l>uccider me, perché dei molti in core</l>
+<l>sai che tuttora io regno. Ecco i veraci</l>
+<l>tuoi più ascosi pensieri: odi ora i miei. —</l>
+<l>Io, mal mio grado, entro all'asil mi chiusi;</l>
+<l>spontaneo n'esco; e oppor poss'io, se il voglio,</l>
+<l>alla forza la forza: all'arte opporre</l>
+<l>l'arte, né il so, né il voglio. Omai convinto</l>
+<l>esser tu dei, che in mio favor né stilla</l>
+<l>versare io vo' di cittadino sangue.</l>
+<l>Solo or mi vedi; in tuo poter mi pongo;</l>
+<l>supplice me per la mia patria miri:</l>
+<l>non che la vita, io son per essa presto</l>
+<l part="I">a darti la mia fama.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">E intatta l'hai,</l>
+<l>questa tua fama che offerirmi ardisci?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Intatta, sì, del tutto; e non indegna</l>
+<l>d'Agide; e troppa, agl'invidi tuoi sguardi. —</l>
+<l>Me tu abborrisci; adoro io Sparta: or odi</l>
+<l>come al mio amor, e all'odio tuo, potresti</l>
+<l>servire a un tempo. Io libertà, grandezza,</l>
+<l>virtude impresi a ricondurre in Sparta,</l>
+<l>col pareggiarne i cittadin fra loro.</l>
+<l>Tu, coi più rei, di opporviti, ma indarno,</l>
+<l>mai non cessasti; e non, che vero e immenso</l>
+<l>tu non vedessi in ciò il comun vantaggio;</l>
+<l>non, che virtù co' suoi divini raggi</l>
+<l>via non s'aprisse entro il tuo chiuso petto,</l>
+<l>senza pure infiammarlo: ma in tuo petto</l>
+<l>l'amor dell'oro, e di soverchia ingiusta</l>
+<l>possa, vincea d'assai l'util di Sparta,</l>
+<l>di veritade il grido, e il folgorante</l>
+<l>scintillar di virtù. Pubblica, e vera</l>
+<l>Spartana voce dal tuo seggio allora</l>
+<l>te rimovea, chiamandoti nemico</l>
+<l>di Sparta: e tu la insopportabil taccia</l>
+<l>né smentir pur tentavi. In bando poscia,</l>
+<l>proscritto, errante (il sai) vilmente ucciso</l>
+<l>stato saresti; io nol soffria: né il dico</l>
+<l>per rinfacciartel ora; ma per darti</l>
+<l>prova non dubbia, ch'io base posava</l>
+<l>ai disegni alti miei l'alte spartane</l>
+<l>opre bensì, non la rovina tua.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>E in ciò pur, mal accorto, error non lieve</l>
+<l part="I">tu salvandomi festi.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">E chiara ammenda</l>
+<l>tu ne farai, me trucidando. I mezzi</l>
+<l>sol ne impara da me. — Sparta più inclina</l>
+<l>a libertà, che a tirannia: per certo</l>
+<l>tienlo, ancorché per ora imposto il freno</l>
+<l>aspro di re tu le abbi. Un breve sdegno</l>
+<l>dei più contro all'infame Agesilào,</l>
+<l>or ti ha riposto in trono, e lui cacciato</l>
+<l>d'eforo: or me de' suoi delitti a parte</l>
+<l>havvi chi pone, e non a torto affatto,</l>
+<l>finch'io pur taccio. A disgombrar del tutto</l>
+<l>su me tal dubbio, or tu non trarmi; è lieve</l>
+<l>troppo il mostrar, che Agesilào tradiva</l>
+<l>Agide e Sparta a un tratto; ove ciò chiaro</l>
+<l>a tutti io faccia, allor tu forza usarmi</l>
+<l part="I">non puoi, senza a te nuocere.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Tu il credi?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Tu il sai. Ma, non temere. Io di Spartani</l>
+<l>Spartano re volli essere; te lascio</l>
+<l>re di costoro. A far me reo non basta</l>
+<l>niuna tua forza: in faccia a Sparta, io voglio,</l>
+<l>io, colpevole farmi; io darti intera</l>
+<l>palma di me; pur che tu stesso farti</l>
+<l>grande ti attenti, e di grandezza vera,</l>
+<l part="I">contra tua voglia.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="M">Invan mi oltraggi...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Adempi</l>
+<l>tu stesso, or sì, quant'io già audace impresi</l>
+<l>a pro di Sparta e di sua gloria. In seggio</l>
+<l>riponi or tu, non le mie, no, ma l'alte,</l>
+<l>libere, maschie, sacrosante leggi</l>
+<l>del gran Licurgo: povertà sbandisci</l>
+<l>in un coll'oro; ella dell'oro è figlia:</l>
+<l>del tuo ti spoglia: i cittadin pareggia:</l>
+<l>te fa' Spartano, e in un, Spartani crea:...</l>
+<l>Ciò far voll'io; tu il compi, e a me ne involi</l>
+<l>la gloria eterna. — Ove ciò far mi giuri,</l>
+<l>a Sparta innanzi or mi puoi trar qual reo;</l>
+<l>e dir, ch'io velo a mie private mire</l>
+<l>fea del pubblico bene; e dir, che iniquo</l>
+<l>era il mio fin, non le mie leggi. A questo</l>
+<l>aggiungerai, che rinnovar tu stesso</l>
+<l>vuoi con mente migliore e cor più schietto,</l>
+<l>di tua città la gloria. Intera Sparta</l>
+<l>udrammi allor di meritata morte</l>
+<l>accusar reo me stesso; e dir, che mie</l>
+<l>eran le ingiurie e violenze usate</l>
+<l>da Agesilào; dirò, ch'io in lui creava</l>
+<l>un precursor di tirannia; che un saggio</l>
+<l>voll'io per lui della viltà Spartana.</l>
+<l>Ciò basterà, cred'io. Morte, che darmi</l>
+<l>or tu non puoi, che a tradimento, (il vedi)</l>
+<l>l'avrò così dai cittadini miei,</l>
+<l>e parrà lor giustissima. La fama,</l>
+<l>che in me ti offende, e che a me tor non puoi,</l>
+<l>io me la tolgo, e a te la dono. Io moro,</l>
+<l>tu regni; ambo contenti: a te non toglie</l>
+<l>fama il regnare; a me l'infamia in tomba</l>
+<l>portar pur lascia l'unica mia speme,</l>
+<l>che a nuova vita abbia a risorger Sparta.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="I">— Vil m'estimi così?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Grande t'estimo;</l>
+<l>poich'atto a compier la mia grande impresa</l>
+<l part="I">te credo...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">A' tuoi disegni empi, dannosi,</l>
+<l part="I">io por mano?...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Me spento, appien tu scarco</l>
+<l>d'invidia resti: e gli alti miei disegni,</l>
+<l>con tuo vantaggio, e in un, con quel di Sparta,</l>
+<l>puoi compier tu. Di mia grandezza ardisci</l>
+<l>grande apparir tu stesso: invido fosti;</l>
+<l>or, col mio sangue la viltà tua prisca</l>
+<l>tu ammanti appieno. A non sperata altezza</l>
+<l>l'animo estolli, e al trono tuo ti agguaglia.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Maggior di te, dei cittadini il grido</l>
+<l>già abbastanza mi fea; ma il perdonarti,</l>
+<l>se a me il concede Sparta, assai darammi</l>
+<l>piena palma di te. Ch'io a Sparta intanto</l>
+<l>ti appresenti, m'è d'uopo. — Altro hai che dirmi?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>A dirti ho sol, ch'esser non sai tu iniquo,</l>
+<l part="I">né sai fingerti buono.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Or, che i tuoi sensi</l>
+<l>tutti esponesti, anzi che a Sparta involi</l>
+<l>te di bel nuovo il tempio, in carcer stimo</l>
+<l part="I">doverti io trarre. — Olà, soldati...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Io vado</l>
+<l>securo in carcere, qual non sei tu in trono.</l>
+<l>Sparta entrambi ci udrà; né meco a fronte</l>
+<l>star potrai tu. — Se in carcere mi uccidi,</l>
+<l>te stesso perdi; e il sai. Pensa, e ripensa;</l>
+<l>a te salvare, a uccider me, niun mezzo,</l>
+<l>che quel ch'io dianzi t'additai, ti resta.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA III</head>
+<stage>LEONIDA</stage>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Io 'l tengo al fine. Inciampi molti, è vero,</l>
+<l>e gran perigli incontro: eppur, vogl'io</l>
+<l>quest'orgoglioso insultator modesto,</l>
+<l>spegnere il voglio, anco in mio danno espresso.</l>
+<l>Ma il trucidarlo è nulla, ove la fama</l>
+<l>non gli si tolga pria: ciò sol può darmi</l>
+<l>securo regno. — Ah! che pur troppo io 'l sento!</l>
+<l>Né so dir come; anche al mio core un raggio</l>
+<l>vero divino al suo parlar traluce,</l>
+<l>e mel conquide quasi... Ah! no: mi squarcia,</l>
+<l>mi sbrana il cuor, quella insoffribil pompa</l>
+<l>di abborrita virtù. Pera ei: si uccida;...</l>
+<l>s'anco è mestier, per spegner lui, ch'io pera.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA IV</head>
+<stage>AGIZIADE, LEONIDA, AGESISTRATA</stage>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l>Padre, e fia vero?... a tradimento... Oh cielo!</l>
+<l part="I">Infra soldati il mio consorte?...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">È questa</l>
+<l part="I">la tua fede, o Leonida?</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Qual fede?</l>
+<l>Che promisi? Giurato a Sparta ho fede,</l>
+<l part="I">non ad Agide mai.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Deh! padre amato,</l>
+<l part="I">alla tua figlia,... oimè!</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Spontaneo forse</l>
+<l>non uscia dell'asilo? e solo, e inerme,</l>
+<l>e di sua voglia, ei non venìa di pace</l>
+<l>a parlamento or teco? E tu, dagli empi</l>
+<l>tuoi sgherri il fai nel carcer trarre? e contra</l>
+<l>il decoro di re, contra il volere</l>
+<l part="I">di Sparta stessa?... Iniquo...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">E pianti, e oltraggi,</l>
+<l>vani del par sono a piegarmi, o donne.</l>
+<l>Il primo io son de' magistrati in Sparta,</l>
+<l>non di Sparta il tiranno. Agide reo,</l>
+<l>gli efori e Sparta giudicarne or denno;</l>
+<l>innocente, tornarlo al seggio prisco</l>
+<l>gli efori e Sparta il ponno. Ov'ei si fesse</l>
+<l>del tempio asilo, o della plebe scudo,</l>
+<l>né innocente né reo possibil fora</l>
+<l>chiarirlo mai. Tempo è, ben parmi, tempo,</l>
+<l>che Sparta esca dall'orrido travaglio</l>
+<l>del non saper s'ella ha due re, qual debbe,</l>
+<l part="I">o s'un glien manca.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Ah padre!... Agide in vita</l>
+<l>ti serba, e tu in catene Agide traggi?</l>
+<l>Gli dai tua figlia, e torgli vuoi sua fama?</l>
+<l>Anco reo, (ch'ei non l'è) tu ne dovresti</l>
+<l>pigliar, tu primo, or le difese. Io diedi</l>
+<l>non dubbia a te dell'amor mio la prova,</l>
+<l>nell'avversa tua sorte; or, nell'avversa</l>
+<l>d'Agide, a lui nulla può tormi: o in ceppi</l>
+<l>col tuo genero porre anco tua figlia,</l>
+<l>o trarne lui, ti è forza: abbandonarlo</l>
+<l>per preghi mai, né per minacce io mai</l>
+<l>non vo'. Di lui non piglierai vendetta,</l>
+<l>che sopra me del par non caggia: il sangue</l>
+<l>versar tu dei di quella figlia istessa,</l>
+<l>che abbandonava, per seguirti in bando,</l>
+<l>la patria, e il trono, ed il marito, e i figli.</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l>Oh vera figlia mia, non di costui!...</l>
+<l>Spartana figlia e moglie, a non spartano</l>
+<l>padre indarno tu parli. — Invidia vile,</l>
+<l>vil desio di vendetta il cor gli chiude,</l>
+<l>e il labro a un tempo. — E che diresti?... In core</l>
+<l>tu giurasti, o Leonida, l'intero</l>
+<l>scempio d'Agide, il so; tutti conosco</l>
+<l>gli empi raggiri tuoi. Ma, se pur darci</l>
+<l>morte potrai, (che la mia vita e quella</l>
+<l>del mio figlio son una) invan tu speri</l>
+<l>torre a noi nostra fama. A te la tua...</l>
+<l>Ma, che dich'io? l'hai tu? — Scopo non altro</l>
+<l>fu in te giammai, che di serbar col regno</l>
+<l>le tue ricchezze, e accrescerle. Dell'oro</l>
+<l>l'arte imparasti di Seleuco in corte,</l>
+<l>e l'arte in un di sparger sangue. In Sparta</l>
+<l>persian tu regni; e la uguaglianza quindi</l>
+<l>dei cittadin paventi, onde ben tosto</l>
+<l>ne sorgeria virtute; onde dal trono</l>
+<l>di nuovo espulso appien per sempre andresti:</l>
+<l>né il tuo cor osa a più che al trono alzarsi.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Né le tue ingiurie l'animo innasprirmi,</l>
+<l>né le tue giuste lagrime ammollirlo</l>
+<l>possono omai. Sparta, non io, si duole</l>
+<l>d'Agide, e a darle di sé conto il chiama.</l>
+<l>Forza non altra usar gli vo', (né s'anco</l>
+<l>il volessi, il potrei) fuorché di torgli</l>
+<l>ogni via di sottrarsi al meritato</l>
+<l part="I">giusto gastigo...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Giusto? — Oserai, dimmi,</l>
+<l>qui appresentarlo, in questo foro, a Sparta</l>
+<l>tutta adunata, e libera dal fiero</l>
+<l part="I">terror dell'armi tue?</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Noto finora</l>
+<l part="I">non m'è il voler degli efori; ma...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Noto</l>
+<l>mi è dunque il tuo, pur troppo! Agide innanzi,</l>
+<l>non agli efori compri, a Sparta intera</l>
+<l>tratto esser debbe; o verrà Sparta a lui.</l>
+<l>Ciò ti prometto, ancor che inerme donna;</l>
+<l>se pria del figlio me svenar non fai.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA V</head>
+<stage>LEONIDA, AGIZIADE</stage>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l>Io dal tuo fianco non mi stacco, o padre;</l>
+<l>non cesso io, no, di atterrarmi a' tuoi piedi,</l>
+<l>non tue ginocchia d'abbracciar, se pria</l>
+<l>lo sposo a me non rendi; o se con esso</l>
+<l part="I">me di tua man tu non uccidi.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">O figlia</l>
+<l>diletta mia; deh! sorgi; a me dal fianco</l>
+<l>non ti partir, null'altro io bramo. Hai meco</l>
+<l>generosa diviso i tanti oltraggi</l>
+<l>di rea fortuna, è ben dover, che a parte</l>
+<l>della prospera sii: niun più possente</l>
+<l>sarà di te sovra il mio cor: te voglio,</l>
+<l>sotto il mio nome, arbitra far di Sparta:</l>
+<l part="I">né cosa mai...</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Che parli? Agide chieggo;</l>
+<l>null'altro io voglio. A me tu il desti; e torre,</l>
+<l>no, non mel puoi, se vita a me non togli;</l>
+<l>né torlo a Sparta, senza orribil taccia</l>
+<l>d'ingiusto re, d'uom snaturato e atroce.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Come acciecarti or tanto puoi? Non vedi,</l>
+<l>ch'Agide è reo? ma fosse anche innocente;</l>
+<l>non vedi, ch'egli in mio poter non stassi?</l>
+<l>Gli efori udirlo, giudicare il denno</l>
+<l>gli efori: nulla io per me sol non posso,</l>
+<l part="I">né a pro, né a danno suo.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Sei padre; m'ami;</l>
+<l>a fera prova il filial mio amore</l>
+<l>hai conosciuto; e simular vuoi pure</l>
+<l>con la tua figlia? — A tradimento, or dianzi,</l>
+<l>il potevi tu solo al carcer trarre,</l>
+<l>e innocente salvarlo or non potresti?</l>
+<l part="I">Deh! non sforzarmi a crederti...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Che vale?</l>
+<l>Nulla in ciò posso: anzi, è mestier ch'io tosto</l>
+<l>d'Agide conto, e del mio oprar a un tempo,</l>
+<l part="I">renda agli efori.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Ah, no! più non ti lascio:</l>
+<l>né crudo ordin puoi dar, che in parte anch'egli</l>
+<l part="I">su la tua figlia non ricada...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Or cessa;</l>
+<l part="I">torna alla reggia mia...</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Teco men vengo.</l>
+<l>Tutto farai, tutto dei fare, o padre,</l>
+<l>pel tuo innocente genero, che salva</l>
+<l>t'ebbe la vita... Ah! no, svenar nol puoi,</l>
+<l>se la tua propria figlia non uccidi.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="atto">
+<head>ATTO IV</head>
+<div2 type="scena">
+<head>SCENA I</head>
+<stage><emph>Limitare del carcere di Sparta</emph> LEONIDA, ANFARE, <emph>Popolo che si va introducendo</emph></stage>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="I">Tardo assai giungi; e il tempo stringe.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Al padre</l>
+<l>l'indugio dona: mi fu forza or dianzi</l>
+<l>fin nella reggia accompagnar la figlia.</l>
+<l>Io dal fianco spiccarmela a gran pena</l>
+<l>potea, sì forte ella in pianto stempravasi</l>
+<l>per lo suo sposo. Assai gran doglia in core</l>
+<l part="I">il suo pianto mi lascia.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">E che? turbato,</l>
+<l>commosso sei? Più della figlia forse</l>
+<l part="I">ti cal, che non di tua vendetta?</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Abborro</l>
+<l>Agide più, che non m'è caro il trono:</l>
+<l>ma pure, i detti della figlia, e i pianti,</l>
+<l>duri a me sono. — Eccomi all'opra: il tutto</l>
+<l part="I">disposto hai tu?</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Nol vedi? In questo vasto</l>
+<l>limitar delle carceri mi parve</l>
+<l>fosser da porsi i seggi nostri; il loco,</l>
+<l>men capace che il foro, assai men feccia</l>
+<l>ragunerà di plebe: ma pur tanta</l>
+<l>introdur qui sen può, quanta n'è d'uopo</l>
+<l>a nostre mire. Havvi all'entrar chi veglia,</l>
+<l>e in copia ammette i nostri fidi. — Or mira;</l>
+<l>già più che mezzo è riempiuto il loco;</l>
+<l>né alcun v'ha quasi degli avversi a noi.</l>
+<l>Per anco il grido non s'è sparso appieno</l>
+<l>del gran giudizio: e spero, anzi che giunga</l>
+<l>a intorbidarlo con sua fera scorta</l>
+<l>l'ardita madre, avrem compito il tutto.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Ma, sei tu certo, che tornarne a danno</l>
+<l part="I">or non possa tal fretta?</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Oltre la nostra</l>
+<l>dignità, stan per noi forze non poche.</l>
+<l>Grande accortezza, or nell'espor le accuse,</l>
+<l>vuolsi; e giusti mostrarci ai nostri stessi</l>
+<l>dobbiamo, e del lor ben, più che del nostro,</l>
+<l>caldi amatori. Alcun tumulto forse</l>
+<l>insorger può; previsto è già. Ma basta</l>
+<l>per noi, che più non esca Agide vivo</l>
+<l>di queste mura. Al primo impeto audace</l>
+<l>della plebe far fronte i tuoi soldati,</l>
+<l>e i cittadini nostri appien potranno,</l>
+<l>e degli efori il nome, e l'ardir tuo.</l>
+<l>Tempo intanto si acquista; e avrem dal tempo</l>
+<l part="I">piena poi la vittoria...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Ecco il senato;</l>
+<l>ecco gli efori tutti: il popol molto</l>
+<l>li segue, e par non torbido in aspetto;</l>
+<l>lieto anzi par di assistere all'accusa</l>
+<l>di un re sovvertitore. Ardire, ardire.</l>
+<l>Mentr'io gli animi lor, con opportune</l>
+<l>lusinghe adesco, al carcer entra, e in breve</l>
+<l>Agide a noi ben custodito traggi.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA II</head>
+<stage>LEONIDA, <emph>Popolo, Efori, Senatori, ciascuno collocato ordinatamente</emph></stage>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>— Lode agli Dei! qui radunarsi veggio</l>
+<l>cittadini veri; e non frammisti</l>
+<l>con la torbida, audace, e sozza plebe,</l>
+<l>che col numero suo voi ne strascina</l>
+<l>negli error suoi, mal grado vostro. — A Sparta</l>
+<l>inaudito spettacolo si appresta;</l>
+<l>il maggior, che ad uom libero mai possa</l>
+<l>appresentarsi: un vostro re, dai vostri</l>
+<l>efori tratto, ed accusato, innanzi</l>
+<l>a voi. Gli error ne udrete, e le discolpe,</l>
+<l>e il giudizio, di cui voi stessi parte</l>
+<l>sarete, spero. Io, benché re, con gioia</l>
+<l>pur ve l'annunzio. Ah! non ebb'io tal sorte</l>
+<l>in quel funesto a me, non fausto a Sparta,</l>
+<l>orribil giorno, in cui dal trono in bando</l>
+<l>cacciato, in forse della vita io stetti.</l>
+<l>Non accusato, e non udito, a ria</l>
+<l>forza soggiacqui allora; eppur, più doglia</l>
+<l>che l'ingiusto mio esiglio, erami al core</l>
+<l>il sovvertito ordin di leggi, e il fero</l>
+<l>periglio in cui lasciava io Sparta. Instrutti</l>
+<l>voi stessi al fin dai vostri danni appieno,</l>
+<l>me richiamaste, e in un le leggi, in trono:</l>
+<l>Agesilào, Cleòmbroto, e i lor fidi</l>
+<l>efori, a Sparta traditori, in bando</l>
+<l>cacciaste. Agide resta: havvi chi reo</l>
+<l>nol vuole; e forse, ei reo non è. Ma intanto,</l>
+<l>io preso il volli, e ad altro fin nol tengo,</l>
+<l>che per chiarirlo in faccia a voi. S'ei fosse</l>
+<l>reo convinto pur mai, primier mi udreste</l>
+<l>implorar pel mio genero perdono:</l>
+<l>che agli occhi vostri, e ai miei, sua giovinezza</l>
+<l>nol rende affatto or di pietade indegno. —</l>
+<l>Efori, senatori, cittadini,</l>
+<l>la vera vostra maestà non sorse</l>
+<l>a dritto mai più nobile di questo:</l>
+<l>conoscer oggi, e perdonare i falli</l>
+<l>dei vostri re: che sottopongo io pure</l>
+<l>oggi a voi l'opre mie. Prova non lieve</l>
+<l>del cor mio puro, e del regnar mio giusto,</l>
+<l>parmi, fia questa; ed io di darla anelo.</l>
+<l>A tremar delle leggi Agide insegni</l>
+<l>a Leonida re. — Ma, già si appressa</l>
+<l>Agide al vostro tribunale: ed ecco</l>
+<l>ch'io taccio, e seggo; io, cittadino, attendo</l>
+<l>dai cittadin dell'alta lite il fine.</l>
+<l>Ben sostener d'ogni mia forza io giuro,</l>
+<l>qual ch'esser possa, la immutabil santa</l>
+<l>libera vostra unanime sentenza.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA III</head>
+<stage>ANFARE, AGIDE <emph>fra guardie</emph>, LEONIDA, <emph>Popolo</emph>, <emph>Efori</emph>, <emph>Senatori</emph></stage>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Spartani, efori, re, costui ch'io traggo</l>
+<l>davanti al vero tribunal di Sparta,</l>
+<l>Agide egli è d'Eudàmida. Già il regno</l>
+<l>con Leonida ei tenne; il cacciò poscia</l>
+<l>dal trono, a cui nuovo collega assunse</l>
+<l>Cleòmbroto. A voi piacque, indi a non molto,</l>
+<l>ridomandar Leonida, che il seggio</l>
+<l>ritoglieva a Cleòmbroto. Nel sacro</l>
+<l>asilo allor quest'Agide fuggiva:</l>
+<l>perché fuggisse, ei vel dirà. Fin ch'egli</l>
+<l>là ricovrava, ei re non era; il trono</l>
+<l>abbandonato avea: ma non privato</l>
+<l>era ei perciò; che non avea deposta</l>
+<l>sua dignità, né stata eragli tolta:</l>
+<l>non innocente, poiché asil sceglieva;</l>
+<l>non reo, poiché niun l'accusava. In vostra</l>
+<l>possanza il diero oggi di Sparta i Numi,</l>
+<l>senza che violato il santo asilo</l>
+<l>fosse da alcun di noi. Lo accuso io quindi</l>
+<l>ora, a voi tutti, di mutate, infrante,</l>
+<l>tradite leggi; di tiranniche armi</l>
+<l>in Leonida e gli efori adoprate;</l>
+<l>di tiranniche mire, a cui fea base</l>
+<l>la ribellante compra infima plebe:</l>
+<l>e, per stringere in fin tutti i suoi tanti</l>
+<l>delitti in un, di aver tradita e lesa</l>
+<l>la maestà di Sparta, a voi lo accuso.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>— Solenne in vero, e dignitosa pompa</l>
+<l>questa fia: ma, perché di affar tant'alto</l>
+<l>Sparta non è qui testimonio intera?</l>
+<l>Perché, qual suolsi ogni accusato, al foro</l>
+<l>non son io tratto? — È ver, gli efori veggio,</l>
+<l>e un re qui stassi, e del senato un ombra:</l>
+<l>ma pur per quanto l'occhio intorno io giri,</l>
+<l>non vegg'io cittadini, altri che pochi,</l>
+<l>potenti, e misti infra gli armati sgherri.</l>
+<l>La maestà del popolo di Sparta</l>
+<l>fia questa or forse? Io, non che Sparta tutta,</l>
+<l>Grecia vorrei qui tutta a udire intenta</l>
+<l>e le tue accuse, e le discolpe mie.</l>
+<l>Or, poiché tanta è in voi de' miei delitti</l>
+<l>l'ampia certezza, or dite: a che pur tormi,</l>
+<l>con sì gran parte d'ascoltanti, a un tempo</l>
+<l>della vergogna mia così gran parte?</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Per quanto il soffra il loco, assai gran folla</l>
+<l>di cittadini or vedi, Agide, accolta.</l>
+<l>Trarti dal limitar del carcer tuo,</l>
+<l>tu il sai, che fora un cimentar pur troppo</l>
+<l>la dignità degli efori, e la stessa</l>
+<l>tua innocenza, ove l'abbi. Udiati Sparta,</l>
+<l>del tuo asilo in discolpa, addur finora,</l>
+<l>che tor così tu stesso alla tua plebe</l>
+<l>de' tumulti volevi ogni pretesto,</l>
+<l>e ogni mezzo di sangue: infra sue grida,</l>
+<l>come or vorresti al suo cospetto andarne,</l>
+<l>e un giudicio ottener libero e queto?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Questo giudicio, e il men dannoso a voi,</l>
+<l>stato sarebbe il percussor mandarmi</l>
+<l>tosto al carcer: ma questo, assai men queto</l>
+<l>fia di quel che sperate. In me non parla</l>
+<l>il timor, no; del mio destin già certo,</l>
+<l>securo qui, del par che al foro io vengo.</l>
+<l>Già la sentenza mia so senza udirla:</l>
+<l>ma, non ne avrò pur danno altro giammai,</l>
+<l>che quel ch'io da gran tempo ho fermo in core</l>
+<l>di aver da voi. — Giudici; e, quai che siate,</l>
+<l>voi spettatori; io vi prevengo or tutti,</l>
+<l>ch'io, condannato in queste mura e ucciso,</l>
+<l>non perciò pace col morir vi rendo,</l>
+<l>com'io il vorrei: né voi, col trarmi a morte,</l>
+<l>in sicurtà vi rimanete. — Or sia</l>
+<l part="I">ciò ch'esser vuole. Udiam le accuse.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">In nome</l>
+<l>io ti parlo degli efori; me ascolta. —</l>
+<l>Agide, hai tu, senza né udirlo, astretto</l>
+<l part="I">all'esiglio Leonida?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Chiamato</l>
+<l part="I">ei fu in giudicio; e sen fuggia.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Chiamato</l>
+<l>io fui, nol niego, ma davanti a fera</l>
+<l>tumultuante plebe. Esser potea</l>
+<l part="I">giudicio, quello?...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Al par di questo, almeno.</l>
+<l>Ma, il fuggir ti fu dato: in carcer dunque</l>
+<l>non eri tu. Mezzi a me pur di fuga</l>
+<l>non mancavan finora; e al carcer venni,</l>
+<l>ed in giudicio stommi: e, qual ch'ei fia,</l>
+<l>no, nol pavento. Io 'l desiava, e godo</l>
+<l>di udire al fin; di farmi udire io godo.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="I">Infrante hai tu le patrie leggi?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Intere</l>
+<l>restituir le sacre leggi io volli</l>
+<l>del gran Licurgo: elle non fur mai tolte,</l>
+<l>ma inosservate, or da gran tempo. Opporsi</l>
+<l>volle a sì giusta e generosa impresa</l>
+<l>Leonida: pria l'arte, indi la forza</l>
+<l>oprava in ciò; ma entrambe invano: allora</l>
+<l>vinto ei più dalla propria sua vergogna,</l>
+<l>che dalla forza altrui, per minor pena</l>
+<l>ei s'imponea l'esiglio. Ei stesso il dica,</l>
+<l>se danno io poscia, o securtade e vita</l>
+<l>a lui recassi. Al suo fuggir, sol uno,</l>
+<l>di Sparta un grido, ogni oprar suo biasmava,</l>
+<l>ogni mio benediva. Allora spenti</l>
+<l>eran gl'iniqui crediti; comuni</l>
+<l>feansi allor le ricchezze; allora in bando</l>
+<l>uscian di Sparta il lusso, e i vizi insieme,</l>
+<l>e il torpid'ozio: e risorgeano, in somma,</l>
+<l>virtude allora, e libertade. Avreste</l>
+<l>voi di negarlo ardire? — Ecco i delitti</l>
+<l>del mio breve regnar, dopo la fuga</l>
+<l part="I">di Leonida vostro.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Osi tu forse</l>
+<l>negare ancor, che di tai beni all'esca</l>
+<l>colti e delusi i cittadini, in breve</l>
+<l>non fosser tratti a fero strazio? I campi</l>
+<l>promessi ognora, e non divisi mai;</l>
+<l>fatti i ricchi, mendici; entrambi oppressi;</l>
+<l>negherai tu, che a trasgredite leggi,</l>
+<l>quai tu nomi le nostre, allor la cruda</l>
+<l>tirannia di te sol non sottentrasse?</l>
+<l>E tirannide, in ciò più ria di tanto,</l>
+<l>che a sé di leggi fea mendace velo.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Mentr'io per voi di Sparta in campo usciva,</l>
+<l>mentre agli Etoli in armi io pur mostrava,</l>
+<l>con danno lor, nuovi Spartani in armi;</l>
+<l>d'eforo fatto Agesilào tiranno,</l>
+<l>ei commettea molt'opre in Sparta inique.</l>
+<l>Volete voi del suo fallir me reo?</l>
+<l>Io la pena ne accetto; ove pur colga</l>
+<l>d'alcune mie virtudi il frutto Sparta:</l>
+<l>virtù, che voi, di mal talento pieni,</l>
+<l>pur negar non mi ardite. — Offeso v'hanno,</l>
+<l>non di Licurgo le tornate leggi,</l>
+<l>(tant'io feci, e non più) ma i crudi modi</l>
+<l>d'Agesilào? che fare altro vi resta,</l>
+<l>che me svenare, e proseguir mie imprese?</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>E a disfar Sparta Agesilào ti mosse?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>A rifar Sparta, io da me sol mi mossi,</l>
+<l part="I">perché Spartan son io.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Di'; riconosci</l>
+<l part="I">per vero re Leonida?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Conosco</l>
+<l>un spartano Leonida, che cadde</l>
+<l>in Termopile morto, con trecento</l>
+<l part="I">Spartani, a pro di Sparta.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">In cotal guisa</l>
+<l>rispondi tu? La maestà sì poco</l>
+<l>del senato e degli efori rispetti?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>La maestà di Sparta osservo, e adoro,</l>
+<l part="I">nel risponder così.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Colpevol dunque</l>
+<l part="I">tu ti confessi?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">E me colpevol tieni</l>
+<l>tu, che mi accusi? — Omai si ponga, omai</l>
+<l>fine si ponga al simulato gioco.</l>
+<l>Discolpe io do pari all'accuse. Io venni</l>
+<l>qui, per mostrare anco ai nemici miei,</l>
+<l>ch'io cittadino re, per quanto il possa</l>
+<l>soffrir l'altezza d'animo innocente,</l>
+<l>spontaneo me sottomettea pur anco</l>
+<l>delle leggi all'abuso. — Or, quai che siate,</l>
+<l>udite, o voi, le mie parole estreme.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="I">A udir, che resta?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Assai, ma in brevi detti.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="I">Nulla dei dire...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Eforo tu, le leggi</l>
+<l>non rimembri, o non sai? Parlano a Sparta</l>
+<l>gli accusati, se il vonno. Odimi dunque</l>
+<l>tu stesso, e taci. — E voi, Spartani, udite. —</l>
+<l>In error sete or da più cose indotti:</l>
+<l>d'Agesilào l'oprar, d'Anfare i gridi,</l>
+<l>di Leonida l'arte, il tacer mio,</l>
+<l>tutto a gara ingannovvi. A tal siam giunti</l>
+<l>noi tutti omai, che a trar d'error ciascuno,</l>
+<l>egli è mestier ch'Agide pera. Io stesso</l>
+<l>già potea di mia mano a me dar morte</l>
+<l>libera e degna; ma, il fuggir di vita,</l>
+<l>reo presso voi fatto mi avria. Ben certo</l>
+<l>era, e sono, in mio cor, che infamia nulla,</l>
+<l>bench'io soggiaccia a giudici qualunque,</l>
+<l>mai non fia per tornarmene. Lasciarmi</l>
+<l>trar vivo io quindi a' miei nemici innanzi</l>
+<l>sceglieva, e stovvi. Che il morir non temo,</l>
+<l>vedretel voi: ch'io vendervi ancor cara</l>
+<l>potrei mia vita ove il volessi, noto</l>
+<l>faravvel tosto di adirata plebe</l>
+<l>il terribile grido: in fin, ch'io tengo</l>
+<l>più in pregio assai, che non me stesso, Sparta,</l>
+<l>ven farà certi il morir mio. — Vi esorto,</l>
+<l>e vi scongiuro, a trarre dal mio sangue</l>
+<l>l'util di Sparta, e il vostro. I campi, e l'oro,</l>
+<l>che la mente or vi acciecano, e di pochi</l>
+<l>in man ridotti, ai possessori al pari</l>
+<l>fan danno, e a chi n'è privo; i campi, e l'oro,</l>
+<l>per non voler dividerli coi vostri</l>
+<l>concittadini, a voi fian tolti, e in breve,</l>
+<l>dai nemici. La plebe, a voi sì vile</l>
+<l>perché mendìca; la spartana plebe,</l>
+<l>che abborre voi ricchi possenti e forti</l>
+<l>più delle leggi, è molta; aspra la stringe</l>
+<l>necessità feroce. Ove a voi giovi</l>
+<l>rimembrar, che di Sparta e di Licurgo</l>
+<l>figli son essi al par di voi, ben ponno</l>
+<l>splendor di Sparta esser costoro ancora,</l>
+<l>e in un, di voi salvezza. In altra guisa,</l>
+<l>Sparta e se stessi annulleranno, e voi.</l>
+<l>Maturo è omai, credete a me, maturo</l>
+<l>è il cangiamento: il ciel non vuol ch'io 'l vegga;</l>
+<l>ma vuol ch'ei segua: ad affrettarlo è d'uopo</l>
+<l>d'Agide il sangue, e il sangue Agide dona.</l>
+<l>Di voi pietà, non di me, sento: e queste,</l>
+<l>parole son d'uom che morir sol brama,</l>
+<l>e che non reca altro desire in tomba,</l>
+<l>che di salvar la patria sua. Già posto</l>
+<l>d'Agide in salvo il nome: a far me grande,</l>
+<l>ch'altri ad effetto i miei disegni adduca</l>
+<l>non fia mestier; anzi, gran parte invola</l>
+<l>a me di gloria il riuscir d'altrui,</l>
+<l>dopo il tentar mio vano. Ultimo sfogo</l>
+<l>di vostra rabbia, il mio morir sia dunque;</l>
+<l>di vostra invidia spenta il frutto primo</l>
+<l>sia la virtù ripatriata, e l'alte</l>
+<l>divine leggi di Licurgo in forza</l>
+<l>tornate, e la spartana eccelsa gara</l>
+<l>di patrio amor, di libertade, e d'armi.</l>
+</sp>
+<sp><speaker><emph>Popolo</emph></speaker>
+<l>Grande è l'animo d'Agide: ingannati</l>
+<l part="I">forse noi fummo...</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Il sete, ora, da questi</l>
+<l part="I">sediziosi detti...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Efori, or quanto</l>
+<l>vi avanza a dir, m'è noto. — Appien compito</l>
+<l>ho di un re cittadin l'ufficio estremo.</l>
+<l>Io riedo al carcer mio, dalle cui mura</l>
+<l>nulla uscirà d'Agide omai, che il nome.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA IV</head>
+<stage>LEONIDA, ANFARE, <emph>Popolo</emph>, <emph>Efori</emph>, <emph>Senatori</emph></stage>
+<sp><speaker><emph>Popolo</emph></speaker>
+<l>Ei qual reo non favella: è forza averne</l>
+<l part="I">maraviglia, e pietade.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">È ver, Spartani:</l>
+<l>sedotto ei fui da Agesilào; par degno</l>
+<l>di perdono il suo errore. Il chieggo io stesso</l>
+<l>da voi, per lo mio genero; per quello,</l>
+<l part="I">che la vita salvommi...</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Or stai davanti</l>
+<l>al senato ed agli efori: con essi</l>
+<l>parlar tu dei, Leonida. Le tue</l>
+<l>ragion private ai pubblici delitti</l>
+<l>non tolgon pena; né il perdon precede</l>
+<l part="I">mai la condanna.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Io, non che darla, udirla</l>
+<l>né pur vo' dunque. Agide a morte porre</l>
+<l>non volli io, no, benché morire ei merti.</l>
+<l>Trarlo fuor dell'asilo, udirlo, e innanzi</l>
+<l>ai giudici convincerlo; ciò solo</l>
+<l>importava, ed io 'l feci: altro non resta</l>
+<l>a far contr'esso. — Ah! se del popol voce,</l>
+<l>se del re preghi vagliono al cospetto</l>
+<l>del senato e degli efori, da loro</l>
+<l>vedrassi (io spero) di clemenza, in breve,</l>
+<l>nobile al par che memorando esemplo.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA V</head>
+<stage>ANFARE, <emph>Popolo</emph>, <emph>Efori</emph>, <emph>Senatori</emph></stage>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Generoso nemico, ottimo padre,</l>
+<l>buon cittadin, Leonida; compiute</l>
+<l>egli ha sue parti tutte: a noi le nostre</l>
+<l>di compier resta. — Agide è reo convinto</l>
+<l>di maestade lesa: a lui, qual pena</l>
+<l part="I">giusta si aspetti, efori, il dite.</l>
+</sp>
+<sp><speaker>EFORI</speaker>
+<l part="F">Morte.</l>
+</sp>
+<sp><speaker><emph>Popolo</emph></speaker>
+<l>Efori, ah! grazia or vi chieggiam noi tutti:</l>
+<l part="I">purch'ei lo stato omai non turbi...</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Udite?...</l>
+<l>Lo udite voi, questo fragor tremendo,</l>
+<l>che a noi si appressa? In suo favor di nuovo</l>
+<l>già tumultua la plebe. Agide vivo,</l>
+<l>e queta Sparta? ella è lusinga stolta.</l>
+</sp>
+<sp><speaker>EFORI</speaker>
+<l>A morte, a morte il traditor ribelle;</l>
+<l part="I">Agide muoia...</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Ei morto fia, vel giuro. —</l>
+<l>Con la rea sozza plebe ogni aspro incontro</l>
+<l>sfuggite intanto, o cittadini. E noi,</l>
+<l>efori, noi la maestà di Sparta</l>
+<l>con giusto ardir mostriamo. — Olà, schiudete,</l>
+<l>soldati, il passo. Andiam; né vil, né altero</l>
+<l>sia il nostro aspetto. Il non temer la plebe,</l>
+<l>tosto in se stessa a rientrar la sforza.</l>
+</sp>
+</div2>
+</div1>
+<div1 type="atto">
+<head>ATTO V</head>
+<div2 type="scena">
+<head>SCENA I</head>
+<stage><emph>Interno del carcere di Sparta</emph> AGIDE</stage>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Fere urla io sento, e un immenso frastuono</l>
+<l>intorno al carcer mio. — Numi di Sparta,</l>
+<l>deh! salvatela voi. — Duolmi, che un ferro</l>
+<l>io non serbava, onde troncare a un tempo</l>
+<l>con la mia vita ogni tumulto. A lungo</l>
+<l>pur tardar non dovrian quei che a svenarmi</l>
+<l>mandati avrà Leonida. — Consorte,...</l>
+<l>diletti figli,... amata madre,... addio...</l>
+<l>Più non vedrovvi!... A voi, memoria cara</l>
+<l>lascio di me... Ma, per la madre io tremo:</l>
+<l>sta in poter di Leonida... Che ascolto?</l>
+<l>Chi vien? Si schiude il carcere!... Che miro?...</l>
+<l part="I">O mia sposa...</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA II</head>
+<stage>AGIDE, AGIZIADE</stage>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Son teco, Agide amato...</l>
+<l>Dalla reggia del padre or mi sottraggo,</l>
+<l>ove a custodia ei mi tenea. La plebe,</l>
+<l>del tuo carcer la strada hammi disgombra;</l>
+<l>e di vietarmen l'adito i soldati</l>
+<l>non ebber core. — Al fin son teco. — Io vengo,</l>
+<l>sposo, a salvarti, ove salvarti io possa;</l>
+<l part="I">o a morir teco io vengo.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Oh dolce sposa!...</l>
+<l>Il cor mi squarci... Oh quanto il rivederti</l>
+<l>mi è gioia,... e pena!... A conservar mia vita,</l>
+<l>(ch'io 'l potrei, se il volessi, con la morte</l>
+<l>di cittadini assai) l'amor tuo vero</l>
+<l>trarmi or solo potria. Ma, il sai, che amarti</l>
+<l>più che la patria mia, donna, nol deggio,</l>
+<l>e tu stessa nol vuoi. Me dunque lascia</l>
+<l>morire; e tu, serbati in vita; i cari</l>
+<l part="I">pegni tu salva, i figli nostri...</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Invano</l>
+<l>di Leonida al fero odio sottrargli</l>
+<l>io tenterei: barbaro padre; appieno</l>
+<l>nella prospera sorte ora il conosco;</l>
+<l>nell'avversa ingannommi. A me null'arme</l>
+<l>riman, che il pianto; egli nol cura: i nostri</l>
+<l>figli salvar dalla sua rabbia, o il puote</l>
+<l>Sparta con l'armi, o nulla il può. — Ma padre</l>
+<l>dovresti almen mostrarti; e, pe' tuoi figli,</l>
+<l part="I">serbar tua vita...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Oh ciel! qual mai mi porti</l>
+<l>terribil guerra in questo punto estremo?</l>
+<l>Amo i figli, e tu il sai: ma, non ben certo</l>
+<l>è il morir loro; e certo fia, che a rivi</l>
+<l>dei cittadini scorrerebbe il sangue,</l>
+<l>s'io di forza mi armassi. E questi, e quelli,</l>
+<l>son figli miei; ma i cittadini sono</l>
+<l>di un giusto re figli primieri. — O donna,</l>
+<l>meglio di me, se sopravviver m'osi,</l>
+<l>tu puoi salvarli. Quel sublime, a un tempo</l>
+<l>tenero ardir, con cui seguivi il padre;</l>
+<l>quello, con cui del mio destin ti eleggi</l>
+<l>farti or compagna; quell'ardir sia scorta</l>
+<l>a te, per porre i figli nostri in salvo.</l>
+<l>Per quanto reo Leonida e crudele</l>
+<l>esser possa, ei t'è padre: ove i tuoi figli</l>
+<l>fra tue braccia tu stringa; ove il tuo petto</l>
+<l>agli innocenti miseri sia scudo;</l>
+<l>cuor non avrà di trucidarli. Ah! corri</l>
+<l>vola al lor fianco, in lor difesa veglia;</l>
+<l>per essi vivi, o sol con essi muori;</l>
+<l>che al viver più, nulla ti sforza allora.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l>Lassa me!... che farò?... S'io te lasciassi,...</l>
+<l>serbarmi a forza il duro padre in vita</l>
+<l>vorria;... qual vita! orba di te... Ma, s'anco</l>
+<l>vivi ei pur lascia i figli nostri,... il trono</l>
+<l>a lor fia tolto... Ah! morir teco io voglio...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Donna, deh! m'odi, e acquetati... Saresti</l>
+<l>madre or men forte, che già figlia t'eri?</l>
+<l>L'ira mia non temevi, il dì che il padre</l>
+<l>seguivi; e i figli, e il tuo consorte amato</l>
+<l>per lui lasciavi; or, di quel padre istesso</l>
+<l>tremerai tu, quando pe' figli il lasci?</l>
+<l>Fuggir tu puoi con essi: assai grand'arme</l>
+<l>hai contra lui; la tua virtude: hai mille</l>
+<l>mezzi a tentar, pria di morire. Ah sposa!</l>
+<l>te ne scongiuro, tentali; ripiglia</l>
+<l>l'alto tuo core, e non mi torre il mio,</l>
+<l>coi non maschi lamenti. Or, deh! vorresti</l>
+<l>ch'io morissi piangendo? ah! no. — Se degna</l>
+<l>d'Agide sei, non mi sforzare a cosa</l>
+<l part="I">che sia d'Agide indegna.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">E di qual padre</l>
+<l>fu indegno mai l'amar suoi figli, il porgli</l>
+<l part="I">a sé medesmo innanzi?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Ai figli innanzi</l>
+<l>la patria va. Sacro il mio sangue ad essa</l>
+<l>ho da gran tempo; ai nostri figli amati</l>
+<l>tu dei, s'è d'uopo, il tuo donar: ma prova</l>
+<l>d'amor ben altro ad essi e a me tu dai,</l>
+<l>se a lor ti serbi in vita. Ancor può molto,</l>
+<l>più che nol pensi, il pianger tuo: la plebe,</l>
+<l>se Leonida no, pietade avranne;</l>
+<l>e senza spander sangue, a lei fia lieve</l>
+<l>porre in salvo i miei figli. In somma, pensa,</l>
+<l>che, te viva, non muore Agide intero.</l>
+<l>In volgar donna ammirerei, qual prova</l>
+<l>d'amore immenso e di valor sublime,</l>
+<l>il non voler sorvivere al consorte;</l>
+<l>ma da te spero, e da te chieggio, e il dei</l>
+<l>d'Agide moglie, ad infelice vita</l>
+<l>tu dei serbarti, intrepida, pe' figli...</l>
+<l>Piangendo io 'l chieggo; e ti rimanga in core</l>
+<l>questo mio pianto... Ah! per te sola al fine,</l>
+<l>e pe' fanciulli nostri, Agide hai visto</l>
+<l part="I">lagrimar oggi.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Irrevocabil dunque</l>
+<l part="I">fia il tuo morir?...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">La mia innocenza è certa. —</l>
+<l>Prendi l'ultimo amplesso; e ai cari pegni</l>
+<l>recalo, in nome mio. Di' lor, ch'io moro</l>
+<l>per la patria; di' lor, ch'ove al mio seggio</l>
+<l>pervenissero adulti, altra vendetta</l>
+<l>non faccian mai della morte del padre,</l>
+<l>che rinnovar su l'orme sue le leggi</l>
+<l>del gran Licurgo: e se in ciò pur, com'io,</l>
+<l>hanno avverso il destin, com'io da forti,</l>
+<l>nell'alta impresa perdano la vita.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="I">Parlar non posso... Io... di lasciarti...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Un fido</l>
+<l>consiglio avrai, nella mia degna madre;...</l>
+<l>s'ella pur resta! — Or via; lasciami; vanne.</l>
+<l>Moglie, regina, madre, cittadina,</l>
+<l>Spartana sei; tuoi dover tutti adempi.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="I">Per sempre?... oh ciel!...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="M">Deh! cessa.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Il piè tremante</l>
+<l part="I">mal mi regge...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Deh! vieni: uscita appena,</l>
+<l part="I">troverai scorta, e appoggio.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Oimè!... Si schiude</l>
+<l part="I">la ferrea porta...</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Guardie, a voi la figlia</l>
+<l part="I">del vostro re consegno.</l>
+</sp>
+<sp><speaker><emph>Agiziade</emph></speaker>
+<l part="F">Agide... Ah crudi!...</l>
+<l part="I">Lasciar nol voglio... Agide!... addio...</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA III</head>
+<stage>AGIDE</stage>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">— Me lasso!...</l>
+<l>Misero me!... quante mai morti in una</l>
+<l>aver degg'io?... Dolor qual mai si agguaglia</l>
+<l>al duol di padre, e di marito? — O Sparta,</l>
+<l>quanto mi costi!... Eppur, Leonid'anco</l>
+<l>è padre: in cor grato un presagio accolgo,</l>
+<l>che alla sua figlia ei donerà i miei figli. —</l>
+<l>Or basta il pianto. — Al mio morir mi appresso:</l>
+<l>da re innocente, e da Spartano, io deggio</l>
+<l>morire... Oh come vien lenta la morte! —</l>
+<l>Ma un'altra volta, ecco, ch'io strider sento</l>
+<l>del mio carcer la porta?... e raddoppiarsi</l>
+<l>odo anco gli urli a queste mura intorno?...</l>
+<l part="I">Che mai sarà?... Chi veggio?</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA IV</head>
+<stage>AGESISTRATA, AGIDE</stage>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">O madre... Oh cielo!...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l>Figlio, mancarti all'ultim'uopo mai</l>
+<l>non ti potea la madre. Io qui ti arreco</l>
+<l>libertà, di noi degna. — In altra guisa</l>
+<l>dartela volli; ma quand'era il tempo,</l>
+<l>ogni mezzo tu stesso a me n'hai tolto.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>E che? vuoi tu con le spartane grida?...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l>Sparta invan grida. Il traditor tiranno</l>
+<l>sì ben munito ha di soldati il loco,</l>
+<l>che nulla or ponno i fidi nostri: indarno</l>
+<l>tentan sforzarli; perditor respinti</l>
+<l>sono, ed inerti, ed avviliti. Innanzi</l>
+<l>io mi spingeva a' rei soldati in mezzo;</l>
+<l>fere voci suonavanmi da tergo,</l>
+<l>per me gridando: «Empi, alla madre ardite</l>
+<l>tor l'accesso?». Mi vide Anfare allora;</l>
+<l part="I">loco fe' darmi, e qui son tratta.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Iniquo!</l>
+<l>Te pur fra lacci ei volle. Ahi madre! a quale</l>
+<l part="I">rischio inutil per me?...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Rischio? che parli?</l>
+<l>Appo il mio figlio, a certa morte io vengo.</l>
+<l part="I">Vedine, in prova, il don ch'io reco.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Un ferro? —</l>
+<l>Oh madre vera! — Altro desio, che un ferro,</l>
+<l>per salvar Sparta, e me sottrarre al colpo</l>
+<l>d'infame man, non accogliea nel petto:</l>
+<l part="I">e tu mel rechi? oh gioia! — Or dammi...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Scegli:</l>
+<l>due ferri son; quel che tu lasci, è il mio.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="I">Oh cielo!... E vuoi?...</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Donna mi estimi, o madre</l>
+<l>d'Agide, tu? Pochi mi avanzan gli anni</l>
+<l>di vita: Sparta, che invan salva speri,</l>
+<l>serva è già: la tua madre, ov'ella resti,</l>
+<l>di Leonida è serva. Or parla; io t'odo:</l>
+<l>osi tu dirmi, che a tai patti io viva?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l>Che posso io dir? son figlio. — O madre, almeno</l>
+<l>soffri che primo io pera: ancor che serva,</l>
+<l>Sparta estinta non è; quindi ancor salva,</l>
+<l>altri può farla. In libertà il mio sangue</l>
+<l>potrà ridurla forse: ma s'io, vile,</l>
+<l>per non versare il mio, lasciato avessi</l>
+<l>sparger per me dei cittadini il sangue,</l>
+<l part="I">già più Sparta or non fora.</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">In te (pur troppo!)</l>
+<l>Sparta or si estingue. — Ed alla patria, al figlio</l>
+<l>sopravviver vorrà spartana madre? —</l>
+<l part="I">Figlio, abbracciami.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Oh madre!... Anco m'avanzi</l>
+<l>nell'altezza dei sensi. — Or dammi, e prendi</l>
+<l>l'ultimo amplesso. Io lagrimar non oso</l>
+<l>nell'abbracciarti; che il tuo pianto io veggo</l>
+<l>da viril forza raffrenato starsi</l>
+<l part="I">sopra il tuo ciglio.</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Agide mio,... sei degno</l>
+<l>di Sparta in vero;... ed io di te son degna.</l>
+<l part="I">Ch'io ancor ti abbracci... Oh! qual fragore?...</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>SCENA V</head>
+<stage>LEONIDA, ANFARE, <emph>Soldati col brando ignudo</emph>, AGIDE, AGESISTRATA</stage>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Al fine</l>
+<l part="I">vinto abbiam noi.</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="M">Che fia?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Deh! non scostarti</l>
+<l part="I">da me.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">Soldati, ucciso Agide sia,</l>
+<l part="I">pria della madre.<note resp="aut" place="foot" anchored="yes">I soldati si muovono contr'Agide.</note></l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Il tuo pugnal nascondi,</l>
+<l>com'io, per poco; ed aspettiamgli; e taci.<note resp="aut" place="foot" anchored="yes">I soldati vedendo Agide immobile che gli aspetta, a un tratto tutti si arrestano.</note></l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l>Or, chi v'arresta? a che indugiate? A forza</l>
+<l part="I">disgiungeteli tosto.</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">In noi por mano</l>
+<l>qual di voi, qual, si attenterebbe? — Il vedi,</l>
+<l>re Leonida, il vedi? anco i tuoi stessi</l>
+<l>compri soldati, instupiditi stanno</l>
+<l>d'Agide a fronte immobili. — Ma, voglio</l>
+<l>trarti tosto d'angoscia. A te sol'una</l>
+<l part="I">cosa richieggo.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="M">E fia?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Che intento vegli</l>
+<l>su la tua figlia, affin che me non segua.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="I">T'ama ella tanto?</l>
+</sp>
+<sp><speaker><emph>Agide</emph></speaker>
+<l part="F">Più che non mi abborri. —</l>
+<l>Ma te pur ama, e ten diè prova; e in somma,</l>
+<l>tu sei pur padre: i detti ultimi miei</l>
+<l>fur questi.<note resp="aut" place="foot" anchored="yes">Brandisce in alto il ferro, e si uccide.</note> — Io moro. — Pur... che... a Sparta giovi.</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="I">Un ferro egli ha?</l>
+</sp>
+<sp><speaker><emph>Agesistrata</emph></speaker>
+<l part="F">Due ne recai.<note resp="aut" place="foot" anchored="yes">Palesa anch'ella il suo ferro, e si uccide.</note> — Ti seguo,...</l>
+<l>o figlio;... e morta... sul tuo... corpo... io cado.</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l>Di maraviglia, e di terror son pieno...</l>
+<l part="I">Che dirà Sparta?...</l>
+</sp>
+<sp><speaker><emph>Anfare</emph></speaker>
+<l part="F">I corpi lor si denno</l>
+<l part="I">alla plebe sottrarre...</l>
+</sp>
+<sp><speaker><emph>Leonida</emph></speaker>
+<l part="F">Ah! mai sottrarli,</l>
+<l>mai non potrem, dagli occhi nostri, noi.</l>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

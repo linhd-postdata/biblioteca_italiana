@@ -1,0 +1,3380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Giambi ed Epodi</title>
+      <author>Giosue Carducci</author>
+    </titleStmt>
+    <extent>101 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000132</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le poesie</title>
+        <author>Carducci, Giosue</author>
+        <editor id="ed">Del Grande, Carlo</editor>
+        <publisher>Bietti</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date>1967</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="fra">Francese</language><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.8 - POESIA ITALIANA. 1859-1900</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-05-30T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Sonia Sabelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-06-07T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+<prologue>
+<head>PROLOGO</head>
+<lg type="non-definito">
+<lg>
+<l>No, non son morto. Dietro me cadavere</l>
+<l>Lasciai la prima vita. Sopra i vólti</l>
+<l>Che m'arrideano impallidîr le rose,</l>
+<l>Moriro i sogni de la prima età.</l>
+<l>I miei più santi amori io gli ho sepolti,</l>
+<l>Sepolti ho nel mio cuore i desii sterili.</l>
+<l>Ad altri le ghirlande gloriose</l>
+<l>E i tuoi premii divini, o Libertà.</l>
+</lg>
+<lg>
+<l>O Lete, o Lete, la tua pia corrente</l>
+<l>Sol dunque ne l'inferno o in eden è?</l>
+<l>Fiorisce sol nel verso il pio nepente</l>
+<l>Ond'Elena infondea le tazze a i re?</l>
+<l>Io vo' fuggir del turbine co 'l volo</l>
+<l>Dove una torre ruinata so:</l>
+<l>Là come lupo ne la notte solo</l>
+<l>Io co 'l vento e co 'l mare ululerò.</l>
+</lg>
+<lg>
+<l>Ululerò le lugubri memorie</l>
+<l>Che mi fasciano l'alma di dolore,</l>
+<l>Ululerò gl'insonni accidiosi</l>
+<l>Tedi che fuman da la guasta età,</l>
+<l>Invidiando il rorido fulgore</l>
+<l>De' miei giovani sogni e i desii splendidi</l>
+<l>De le infrante catene e gli animosi</l>
+<l>Vostri richiami, o Gloria, o Libertà.</l>
+</lg>
+<lg>
+<l>Tutto che questo mondo falso adora</l>
+<l>Co 'l verso audace lo schiaffeggerò:</l>
+<l>Ei mi tese le frodi in su l'aurora,</l>
+<l>A mezzogiorno io le calpesterò.</l>
+<l>Che se i delùbri crollano e i tempietti</l>
+<l>Ove l'ideal vostro, o vulghi, sta,</l>
+<l>Che importa a me? Non fo madrigaletti</l>
+<l>Che voi mitriate d'immortalità.</l>
+</lg>
+<lg>
+<l>Oh, pria ch'io giaccia, altri e più forti e fulgidi</l>
+<l>Colpi da l'arco liberar vogl'io,</l>
+<l>E su le penne de gli ardenti strali</l>
+<l>Mandare io voglio il vampeggiante cor.</l>
+<l>Chi sa che su dal ciel la Musa o Dio</l>
+<l>Non l'accolga sanando e sovra il torpido</l>
+<l>Padule de l'oblio non gli dia l'ali</l>
+<l>Da rivolare a gli sperati amor?</l>
+</lg>
+</lg>
+</prologue>
+</front>
+
+<body>
+<div1 type="libro">
+<head>LIBRO I</head>
+<div2 type="poesia">
+<head>I</head>
+<head>AGLI AMICI DELLA VALLE TIBERINA</head>
+<lg type="non-definito">
+<lg>
+<l>Pur da queste serene erme pendici</l>
+<l>D'altra vita al rumor ritornerò;</l>
+<l>Ma nel memore petto, o nuovi amici,</l>
+<l>Un desio dolce e mesto io porterò.</l>
+</lg>
+<lg>
+<l>Tua verde valle ed il bel colle aprico</l>
+<l>Sempre, o Bulcian, mi pungerà d'amor;</l>
+<l>Bulciano, albergo di baroni antico,</l>
+<l>Or di libere menti e d'alti cor.</l>
+</lg>
+<lg>
+<l>E tu che al cielo, Cerbaiol, riguardi</l>
+<l>Discendendo da i balzi d'Apennin,</l>
+<l>Come gigante che svegliato tardi</l>
+<l>S'affretta in caccia e interroga il mattin,</l>
+</lg>
+<lg>
+<l>Tu ancor m'arridi. E, quando a i freschi venti</l>
+<l>Di su l'aride carte anelerà</l>
+<l>L'anima stanca, a voi, poggi fiorenti,</l>
+<l>Balze austere e felici, a voi verrà.</l>
+</lg>
+<lg>
+<l>Fiume famoso il breve piano inonda;</l>
+<l>Ama la vite i colli; e, a rimirar</l>
+<l>Dolce, fra verdi querce ecco la bionda</l>
+<l>Spiga in alto a l'alpestre aura ondeggiar.</l>
+</lg>
+<lg>
+<l>De i vecchi prepotenti in su gli spaldi</l>
+<l>Pasce la vacca e mira lenta al pian;</l>
+<l>E de le torri, ostello di ribaldi,</l>
+<l>Crebbe l'utile casa al pio villan.</l>
+</lg>
+<lg>
+<l>Dove il bronzo de' frati in su la sera</l>
+<l>Solo rompeva, od accrescea, l'orror,</l>
+<l>Croscia il mulino, suona la gualchiera</l>
+<l>E la canzone del vendemmiator.</l>
+</lg>
+<lg>
+<l>Coraggio, amici. Se di vive fonti</l>
+<l>Córse, tócco dal santo, il balzo alpin,</l>
+<l>A voi saggi ed industri i patrii monti</l>
+<l>Iscaturiscan di fumoso vin;</l>
+</lg>
+<lg>
+<l>Del vin ch'edùca il forte suolo amico</l>
+<l>Di ferro e zolfo con natia virtù:</l>
+<l>Co 'l quale io libo al padre Tebro antico,</l>
+<l>Al Tebro tolto al fin di servitù.</l>
+</lg>
+<lg>
+<l>Fiume d'Italia, a le tue sacre rive</l>
+<l>Peregrin mossi con devoto amor</l>
+<l>Il tuo nume adorando, e de le dive</l>
+<l>Memorie l'ombra mi tremava in cor.</l>
+</lg>
+<lg>
+<l>E pensai quando i tuoi clivi Tarconte</l>
+<l>Coronato pontefice salì,</l>
+<l>E, fermo l'occhio nero a l'orizzonte,</l>
+<l>Di leggi e d'armi il popol suo partì;</l>
+</lg>
+<lg>
+<l>E quando la fatal prora d'Enea</l>
+<l>Per tanto mar la foce tua cercò,</l>
+<l>E l'aureo scudo de la madre dea</l>
+<l>In su l'attonit'onde al sol raggiò;</l>
+</lg>
+<lg>
+<l>E quando Furio e l'arator d'Arpino,</l>
+<l>Imperador plebeo, tornava a te,</l>
+<l>E coprivan l'altar capitolino</l>
+<l>Spoglie di galli e di tedeschi re.</l>
+</lg>
+<lg>
+<l>Fiume d'Italia, e tu l'origin traggi</l>
+<l>Da questa Etruria ond'è ogni nostro onor;</l>
+<l>Ma, dove nasci tra gli ombrosi faggi,</l>
+<l>L'agnel ti salta e tùrbati il pastor.</l>
+</lg>
+<lg>
+<l>Meglio così, che tra marmoree sponde</l>
+<l>Patir l'oltraggio de' chercuti re.</l>
+<l>E con l'orgoglio de le tumid'onde</l>
+<l>L'orme lambire d'un crociato piè.</l>
+</lg>
+<lg>
+<l>Volgon, fiume d'Italia, omai tropp'anni</l>
+<l>Che la vergogna dura: or via, non più.</l>
+<l>Ecco, un grido io ti do – Morte a' tiranni –;</l>
+<l>Portalo, o fiume, a Ponte Milvio, tu.</l>
+</lg>
+<lg>
+<l>Portal con suono ch'ogni suon confonda,</l>
+<l>Portal con le procelle d'Apennin,</l>
+<l>Portalo, o fiume; e un'eco ti risponda</l>
+<l>Dal gran monte plebeo, da l'Aventin.</l>
+</lg>
+<lg>
+<l>Tende l'orecchio Italia e il cenno aspetta:</l>
+<l>Allor chi fia che la vorrà infrenar?</l>
+<l>Cento schiere di prodi a la vendetta</l>
+<l>Da le tue valli verran teco al mar.</l>
+</lg>
+<lg>
+<l>Risplendi, o fausto giorno. Ahi, se più tardi,</l>
+<l>Romito e taumaturgo esser vorrò:</l>
+<l>Da la faccia de' rei figli codardi</l>
+<l>Ne le tombe de' padri io fuggirò.</l>
+</lg>
+<lg>
+<l>Con l'arti vo' che cielo o inferno insegna</l>
+<l>Da questi monti il foco isprigionar,</l>
+<l>E fiamme in vece d'acqua a Roma indegna,</l>
+<l>Al Campidoglio vile io vo' mandar.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>II</head>
+<head lang="lat">MEMINISSE HORRET</head>
+<lg type="non-definito">
+<lg>
+<l>Sbarrate la soglia, chiudete ogni varco,</l>
+<l>Gittatemi intorno densissimo un vel!</l>
+<l>D'orribile sogno mi preme l'incarco:</l>
+<l>Ho visto di giallo rifulgere il ciel.</l>
+</lg>
+<lg>
+<l>Un lezzo nefando d'avello e di fogna</l>
+<l>Uscia dal palagio che a fronte ci sta:</l>
+<l>Le vecchie campane sonavano a gogna</l>
+<l>Di Piero Capponi per l'ampia città,</l>
+</lg>
+<lg>
+<l>E giù da' bei colli che a' dì del cimento</l>
+<l>Tonavan la morte su 'l fulvo stranier</l>
+<l>Un suon di letane scendea lento lento</l>
+<l>E pallide torme dicean – Miserer. –</l>
+</lg>
+<lg>
+<l>Con giunte le mani prostrato il Ferruccio</l>
+<l>Al reo Maramaldo chiedeva mercé,</l>
+<l>E Gian de la Bella levato il cappuccio</l>
+<l>Mostrava lo schiaffo che Berto gli diè.</l>
+</lg>
+<lg>
+<l>E Dante Alighieri vestito da zanni</l>
+<l>Laggiù in Santa Croce facea 'l ciceron.</l>
+<l>Diceva – Signori, badatevi a' panni!</l>
+<l>Entrate, signori: voi siete i padron.</l>
+</lg>
+<lg>
+<l>Che importa se l'onta più, meno, ci frutti?</l>
+<l>Io sono poeta, né so mercantar.</l>
+<l>Il ghetto d'Italia dischiuso è per tutti.</l>
+<l>Al popol d'Italia chi un calcio vuol dar? –</l>
+</lg>
+<lg>
+<l>E dietro una tomba vid'io Machiavello</l>
+<l>De gli occhi ammiccare con un che passò</l>
+<l>E dir sotto voce – Crin morbido e bello,</l>
+<l>Sen largo ha mia madre; né dice mai no.</l>
+</lg>
+<lg>
+<l>Son fòri fulgenti di dorie colonne</l>
+<l>I talami aperti di sue voluttà:</l>
+<l>Su 'l gran Campidoglio si scigne le gonne</l>
+<l>E nuda su l'urna di Scipio si dà. –</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>III</head>
+<head>PER EDUARDO CORAZZINI</head>
+<head rend="sc">MORTO DELLE FERITE RICEVUTE NELLA CAMPAGNA ROMANA DEL MDCCCLXVII</head>
+<lg type="non-definito">
+<lg>
+<l>Dunque d'Europa nel servil destino</l>
+<l>Tu il riso atroce e santo,</l>
+<l>O di Ferney signore, e, cittadino</l>
+<l>Tu di Ginevra, il pianto</l>
+</lg>
+<lg>
+<l>Messaggeri inviaste, onde gioioso</l>
+<l>Abbatté poi Parigi</l>
+<l>E la nera Bastiglia e il radioso</l>
+<l>Scettro di san Luigi;</l>
+</lg>
+<lg>
+<l>Dunque, tra 'l ferro e 'l fuoco, al piano, al monte,</l>
+<l>Cantando in fieri accenti,</l>
+<l>Co' piedi scalzi e la vittoria in fronte</l>
+<l>E le bandiere a' venti,</l>
+</lg>
+<lg>
+<l>Vide il mondo passar le tue legioni,</l>
+<l>O repubblica altera,</l>
+<l>E spazzare a sé innanzi altari e troni,</l>
+<l>Come fior la bufera;</l>
+</lg>
+<lg>
+<l>Perché, su via di sangue e di tenèbre</l>
+<l>Smarriti i figli tuoi</l>
+<l>E mutata ad un'upupa funèbre</l>
+<l>L'aquila de gli eroi,</l>
+</lg>
+<lg>
+<l>Là ne' colli sabini, esercitati</l>
+<l>Dal piè de l'immortale</l>
+<l>Storia, tu distendessi i neri agguati,</l>
+<l>Masnadiera papale,</l>
+</lg>
+<lg>
+<l>E, lui servendo che mentisce Iddio,</l>
+<l>Francia, a le madri annose</l>
+<l>Tu spegnessi i figliuoli et il desio</l>
+<l>Di lor vita a le spose,</l>
+</lg>
+<lg>
+<l>E noi per te di pianto e di rossore</l>
+<l>Macchiassimo la guancia,</l>
+<l>Noi cresciuti al tuo libero splendore,</l>
+<l>Noi che t'amammo, o Francia?</l>
+</lg>
+<lg>
+<l>Ahi lasso! ma de' tuoi monti a l'aprico</l>
+<l>Aer e nel chiostro ameno</l>
+<l>Più non ti rivedrò, mio dolce amico,</l>
+<l>Come al tempo sereno.</l>
+</lg>
+<lg>
+<l>Per l'alpestre cammino io ti seguia;</l>
+<l>E 'l tuo fucil di certi</l>
+<l>Colpi il silenzio ad or ad or ferìa</l>
+<l>De' valloni deserti.</l>
+</lg>
+<lg>
+<l>L'alta Roma io cantava in riva al fiume</l>
+<l>Famoso a l'universo:</l>
+<l>E il can latrando a le cadenti piume</l>
+<l>Rompeva a mezzo il verso,</l>
+</lg>
+<lg>
+<l>O a te accennando usciva impaziente</l>
+<l>Fuor de la macchia bruna;</l>
+<l>Or raspa su la tua fossa recente,</l>
+<l>E piagnesi a la luna.</l>
+</lg>
+<lg>
+<l>Squallidi or sono i monti: ma l'aprile</l>
+<l>Roseo nel ciel natio</l>
+<l>Tornerà, che doveva una gentile</l>
+<l>Ghirlanda al tuo desio:</l>
+</lg>
+<lg>
+<l>E in vece condurrà l'allegra schiera</l>
+<l>De gli augelli in amore</l>
+<l>Su l'erba ch'alta andrà crescendo e nera</l>
+<l>Dal tuo giovenil core.</l>
+</lg>
+<lg>
+<l>Perché i bei colli di vendemmia lieti,</l>
+<l>Perché lasciasti, amico,</l>
+<l>Sfuggendo a' pianti de l'amor segreti</l>
+<l>Sur un volto pudico?</l>
+</lg>
+<lg>
+<l>Perché la madre tua lasciasti? Oh, quando</l>
+<l>A mensa ella sedea,</l>
+<l>Il tuo loco guardava, e lacrimando</l>
+<l>Il viso rivolgea.</l>
+</lg>
+<lg>
+<l>Madre, perdona. A un cenno tuo la testa,</l>
+<l>La balda testa ei piega;</l>
+<l>Ma il suo duce prigion bandì la gesta,</l>
+<l>E la gran Roma prega.</l>
+</lg>
+<lg>
+<l>Egli su' trionfali archi diritta</l>
+<l>Vide, nel ciel del Lazio,</l>
+<l>Di Roma vide l'alta imago, afflitta</l>
+<l>D'inverecondo strazio.</l>
+</lg>
+<lg>
+<l>Ella che tien del nostro patto l'arca,</l>
+<l>L'ara del nostro dritto;</l>
+<l>Per cui Dante gemé, fremé il Petrarca,</l>
+<l>E 'l Machiavelli ha scritto;</l>
+</lg>
+<lg>
+<l>Austera e pia ne la materna faccia</l>
+<l>Con lagrimoso ciglio</l>
+<l>Lo riguardava, e gli tendea le braccia,</l>
+<l>E gli diceva: O figlio.</l>
+</lg>
+<lg>
+<l>Ed ei, questo predone (ascolta, o greggia</l>
+<l>Turpe di schiavi, ascolta),</l>
+<l>Questo predon cui l'Apennin verdeggia</l>
+<l>Di lieti paschi e folta</l>
+</lg>
+<lg>
+<l>Mèsse, questo feroce a cui nel core</l>
+<l>Ridea queto un desire,</l>
+<l>Per lei lasciava il suo solingo amore,</l>
+<l>Per lei corse a morire.</l>
+</lg>
+<lg>
+<l>Ed or ne' luoghi, ove fra sé ristretta</l>
+<l>È la gente de i morti</l>
+<l>Per forza, e chiama a Dio la gran vendetta</l>
+<l>Che il mondo riconforti,</l>
+</lg>
+<lg>
+<l>Or co' i caduti là nel giugno ardente</l>
+<l>De l'alta Roma a fronte</l>
+<l>E co' i caduti nel decembre algente</l>
+<l>De' martiri su 'l monte</l>
+</lg>
+<lg>
+<l>Parla, e Nemesi al suo ferreo registro</l>
+<l>Guarda con muto orrore,</l>
+<l>Parla di lui, del Cesare sinistro,</l>
+<l>Del bieco imperatore.</l>
+</lg>
+<lg>
+<l>Le madri intanto accusano ne' pianti</l>
+<l>Del viver tardo i fati</l>
+<l>E con le man che gli addormian lattanti</l>
+<l>Compongono gli occhi a' nati,</l>
+</lg>
+<lg>
+<l>In vece di ghirlande le fanciulle</l>
+<l>Vestonsi i neri panni,</l>
+<l>Mancan le vite a le aspettanti culle...</l>
+<l>Maledetti i tiranni!</l>
+</lg>
+<lg>
+<l>Ma io per man torrommi questa madre</l>
+<l>Vedova, questa sposa</l>
+<l>Vedova; e, dove fra sue turbe ladre</l>
+<l>Quel prete empio riposa,</l>
+</lg>
+<lg>
+<l>E sogna d'armi e ad un selvaggio agguato</l>
+<l>Pare che frema e rugga,</l>
+<l>E su 'l capo gli penzola inchiodato</l>
+<l>Gesù perché non fugga,</l>
+</lg>
+<lg>
+<l>Là me n'andrò, là sorgerò, per vie</l>
+<l>A tutt'altri secrete,</l>
+<l>Come una larva del supremo die</l>
+<l>Lento, e dirògli – O prete,</l>
+</lg>
+<lg>
+<l>Godi. Di larga strage il breve impero</l>
+<l>Empisti e le tue brame.</l>
+<l>Trionfa nel tuo splendido San Piero,</l>
+<l>O vecchio prete infame.</l>
+</lg>
+<lg>
+<l>Con le tremule palme al ciel levate</l>
+<l>Canta – Osanna, Dio forte –:</l>
+<l>L'organo manda per le volte aurate</l>
+<l>Un rantolo di morte.</l>
+</lg>
+<lg>
+<l>Quando al popol ti volgi, ed – il Signore,</l>
+<l>Mormori, sia con voi, –</l>
+<l>Come adultera donna a l'amatore,</l>
+<l>Guardi a gli sgherri tuoi.</l>
+</lg>
+<lg>
+<l>Su le canne d'acciaio in mezzo a' ceri</l>
+<l>L'omicidio scintilla:</l>
+<l>Tu 'l vedi, e 'l gaudio vela di sinceri</l>
+<l>Pianti la tua pupilla.</l>
+</lg>
+<lg>
+<l>China su 'l pio mister che si consuma,</l>
+<l>China il tuo viso tristo:</l>
+<l>Di sangue, mira, il tuo calice fuma;</l>
+<l>E non è quel di Cristo.</l>
+</lg>
+<lg>
+<l>Ahi, d'italiche vene è sangue schietto,</l>
+<l>Nobile sangue e caro!</l>
+<l>E una stilla ve n'ha pur di quel petto</l>
+<l>Che queste donne amâro;</l>
+</lg>
+<lg>
+<l>Queste donne che dièro a' tuoi decreti</l>
+<l>Umile il cuor, l'orecchio</l>
+<l>Prono; e pregaron anche in lor secreti</l>
+<l>Per te, feroce vecchio!</l>
+</lg>
+<lg>
+<l>Io, per le grige chiome de la madre</l>
+<l>E per le chiome bionde</l>
+<l>De la sposa che sciolte or sotto l'adre</l>
+<l>Pieghe un sol vel confonde;</l>
+</lg>
+<lg>
+<l>Io, per Gesù che a gli uccisor compianse;</l>
+<l>Io, per le donne sante,</l>
+<l>Maddalena che amò, Maria che pianse,</l>
+<l>O vecchio sanguinante;</l>
+</lg>
+<lg>
+<l>Te ch'oro e ferro e bronzo mendicando</l>
+<l>Te ne vai per la terra,</l>
+<l>Che gridi contro a la tua patria il bando</l>
+<l>De l'universa guerra;</l>
+</lg>
+<lg>
+<l>Te che il lor sangue chiedi con parole</l>
+<l>Soavi a' fidi tuoi,</l>
+<l>Ed il sangue di chi re non ti vuole</l>
+<l>Ferocemente vuoi;</l>
+</lg>
+<lg>
+<l>Te da la pietà che piange e prega.</l>
+<l>Te da l'amor che liete</l>
+<l>Le creature ne la vita lega,</l>
+<l>Io scomunico, o prete;</l>
+</lg>
+<lg>
+<l>Te pontefice fosco del mistero,</l>
+<l>Vate di lutti e d'ire,</l>
+<l>Io sacerdote de l'augusto vero,</l>
+<l>Vate de l'avvenire.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>IV</head>
+<head>NEL VIGESIMO ANNIVERSARIO</head>
+<head rend="sc">DELL'VIII AGOSTO MDCCCXLVIII</head>
+<lg type="non-definito">
+<lg>
+<l>Ma non così, quando superbo apriva</l>
+<l>L'ali e ne' raggi di vittoria adorno</l>
+<l>Almo rise d'Italia in ogni riva</l>
+<l>Il tuo gran giorno,</l>
+</lg>
+<lg>
+<l>Ma non così sperai, Bologna, il canto</l>
+<l>Recar votivo a l'urna de' tuoi forti.</l>
+<l>Oggi insegna la Musa iroso il pianto.</l>
+<l>Fremono i morti</l>
+</lg>
+<lg>
+<l>Abbandonati a' retici dirupi,</l>
+<l>Il verde Mincio flebile risponde;</l>
+<l>E lunge ne gl'issèi pelaghi cupi</l>
+<l>Rimugghian l'onde,</l>
+</lg>
+<lg>
+<l>Se per l'azzurro ciel la gialla insegna</l>
+<l>Passa a gl'itali zefiri ventando</l>
+<l>E lieto lo stranier da poppa segna</l>
+<l>Il sen nefando.</l>
+</lg>
+<lg>
+<l>Ahi, come punto da mortifer angue,</l>
+<l>Ahi, di veleno il cor ferve e ribolle!</l>
+<l>Fumate ancor d'invendicato sangue,</l>
+<l>Romane zolle!</l>
+</lg>
+<lg>
+<l>O forti di Bologna, a voi la fuga</l>
+<l>De' nemici irraggiava il guardo estinto;</l>
+<l>E, mentre posa ed il sudor s'asciuga,</l>
+<l>– Abbiamo vinto –</l>
+</lg>
+<lg>
+<l>Disse, chinato sopra il sen trafitto</l>
+<l>Del compagno, il compagno. A le parole</l>
+<l>Pallido ei rise, e su i cubiti ritto</l>
+<l>Salutò il sole</l>
+</lg>
+<lg>
+<l>Occidente e l'Italia. E la mattina</l>
+<l>Lo stranier, come lupo arduo che agogna,</l>
+<l>Ululato avea su da la collina:</l>
+<l>– Odi, o Bologna.</l>
+</lg>
+<lg>
+<l>Le mie vittoriose aquile io voglio</l>
+<l>Piantar dove moriva il tuo Zamboni</l>
+<l>A i tre color pensando; e vo' l'orgoglio</l>
+<l>De' tuoi garzoni</l>
+</lg>
+<lg>
+<l>Pestar sì come il piè de' miei cavalli</l>
+<l>Pesta il fien de' tuoi campi. A Dio gradito,</l>
+<l>Empier di San Petronio io vo' gli stalli</l>
+<l>Del lor nitrito.</l>
+</lg>
+<lg>
+<l>Vo' il tuo vin pe' miei prodi ed i sorrisi</l>
+<l>De le donne: a la mia staffa prostrati</l>
+<l>Ne la polvere io vo' gli antichi visi</l>
+<l>De' tuoi magnati.</l>
+</lg>
+<lg>
+<l>Odi, Bologna. Stride ampia la rossa</l>
+<l>Ala del foco su' miei passi: l'ira</l>
+<l>Porto e il ferro ed il sal di Barbarossa:</l>
+<l>Sermide mira. –</l>
+</lg>
+<lg>
+<l>Lo stranier così disse. Ed un umìle</l>
+<l>Dolor prostrò per l'alte case il gramo</l>
+<l>Cuor de' magnati. Ma la plebe vile</l>
+<l>Gridò: Moriamo.</l>
+</lg>
+<lg>
+<l>E tra 'l fuoco e tra 'l fumo e le faville</l>
+<l>E 'l grandinar de la rovente scaglia</l>
+<l>Ti gittasti feroce in mezzo a i mille,</l>
+<l>Santa canaglia.</l>
+</lg>
+<lg>
+<l>Chi pari a te, se ne le piazze antiche</l>
+<l>De' tuoi padri guerreggi? Al tuo furore,</l>
+<l>Sì come solchi di mature spiche</l>
+<l>Al mietitore,</l>
+</lg>
+<lg>
+<l>Cedon le file; e via per l'aria accesa</l>
+<l>La furia del rintocco ulula forte</l>
+<l>Contro i tamburi e in vetta d'ogni chiesa</l>
+<l>Canta la morte.</l>
+</lg>
+<lg>
+<l>Da gli odi fiamma d'olocausti santi,</l>
+<l>Da i vapori del sangue alito pio</l>
+<l>Sale: o martire plebe, a te davanti</l>
+<l>Folgora Dio.</l>
+</lg>
+<lg>
+<l>Ecco, su' corpi de' mal noti eroi</l>
+<l>Erge la patria i suoi color festiva;</l>
+<l>Ed i vecchi e le donne e i figli tuoi</l>
+<l>Gridano: Viva.</l>
+</lg>
+<lg>
+<l>Il tuo sangue a la patria oggi: a la legge</l>
+<l>Il sangue e il pan domani. E pur non fai</l>
+<l>Tu leggi, o plebe, e, diredato gregge,</l>
+<l>Patria non hai.</l>
+</lg>
+<lg>
+<l>Ma quei che a te niegan la patria, quelli</l>
+<l>Che per sangue e sudor ti dànno oltraggio,</l>
+<l>Ne' giorni del conflitto orridi e belli,</l>
+<l>Quando al gran raggio</l>
+</lg>
+<lg>
+<l>De l'estate si muore e incontro al rombo</l>
+<l>De' cannoni le picche ondanti vanno</l>
+<l>E co' le pietre si risponde al piombo,</l>
+<l>Ove, ove stanno?</l>
+</lg>
+<lg>
+<l>Oh qui non le tediose alme trastulla</l>
+<l>De' giuochi la vicenda e de le dame!</l>
+<l>La santa Libertà non è fanciulla</l>
+<l>Da poco rame;</l>
+</lg>
+<lg>
+<l>Marchesa ella non è che in danza scocchi</l>
+<l>Da' tondeggianti membri agil diletto,</l>
+<l>Il cui busto offre il seno ed offron gli occhi</l>
+<l>Tremuli il letto:</l>
+</lg>
+<lg>
+<l>Dura virago ell'è, dure domanda</l>
+<l>Di perigli e d'amor pruove famose:</l>
+<l>In mezzo al sangue de la sua ghirlanda</l>
+<l>Crescon le rose.</l>
+</lg>
+<lg>
+<l>Dormono ancora i fior dolce fiammanti</l>
+<l>Ne' bocci verdi; ma il soave e puro</l>
+<l>April verrà. D'agosto ombre aspettanti.</l>
+<l>Per voi lo giuro.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>V</head>
+<head>IL CESARISMO</head>
+<head><add resp="ed"><hi rend="sc">LEGGENDO LA INTRODUZIONE ALLA VITA DI CESARE SCRITTA DA NAPOLEONE III</hi></add></head>
+<div3 type="poesia">
+<head>I</head>
+<lg type="sonetto">
+<lg>
+<l>Giove ha Cesare in cura. Ei dal delitto</l>
+<l>Svolge il diritto, e dal misfatto il fato.</l>
+<l>Se un erario al bisogno è scassinato</l>
+<l>O un cittadino per error trafitto,</l>
+</lg>
+<lg>
+<l>Tutto si sanerà con un editto.</l>
+<l>A sua gloria e per forza ei ci ha salvato.</l>
+<l>Chi ebbe tenga, e quel ch'è stato è stato.</l>
+<l>Nuovo ordine di cose in cielo è scritto. –</l>
+<l>Così diceva, senator da ieri,</l>
+<l>Il ladro fuggitivo servo Mena;</l>
+<l>E la plebe a Labien sassi gittava.</l>
+</lg>
+<lg>
+<l>Ma la legione undecima cantava:</l>
+<l>– Trionfo! quattro nivei destrieri,</l>
+<l>Divin trionfo, al divin Giulio infrena! –</l>
+</lg>
+</lg>
+</div3>
+<div3 type="poesia">
+<head>II</head>
+<lg type="sonetto">
+<lg>
+<l>Quattro al dio Giulio, o dio Trionfo, infrena,</l>
+<l>Come al buon Furio già, nivei cavalli:</l>
+<l>Leghi al carro d'avorio aurea catena</l>
+<l>L'Egitto e il Ponto e gli Africani e i Galli.</l>
+</lg>
+<lg>
+<l>Gracco, la plebe tua straniere valli</l>
+<l>Ari a un suo cenno; e tu curva la schiena,</l>
+<l>Sangue Cornelio, e a' senator da' gialli</l>
+<l>Crin la via mostra che a la curia mena.</l>
+</lg>
+<lg>
+<l>Dittatore universo, anche la vaga</l>
+<l>Lingua d'Ennio ei fermò; l'anno ha costretto</l>
+<l>Errante già per la siderea plaga.</l>
+</lg>
+<lg>
+<l>Ma fra tant'inni il mondo ode su 'l petto</l>
+<l>Santo di Cato stridere la piaga</l>
+<l>E scricchiolar di Nicomede il letto.</l>
+</lg>
+</lg>
+</div3>
+</div2>
+
+<div2 type="poesia">
+<head>VI</head>
+<head>PER GIUSEPPE MONTI E GAETANO TOGNETTI</head>
+<head rend="sc">MARTIRI DEL DIRITTO ITALIANO</head>
+<div3 type="poesia">
+<head>I</head>
+<lg type="non-definito">
+<lg>
+<l>Torpido fra la nebbia ed increscioso</l>
+<l>Esce su Roma il giorno:</l>
+<l>Fiochi i suon de la vita, un pauroso</l>
+<l>Silenzio è d'ogn'intorno.</l>
+</lg>
+<lg>
+<l>Novembre sta del Vatican su gli orti</l>
+<l>Come di piombo un velo:</l>
+<l>Senza canti gli augei da' tronchi morti</l>
+<l>Fuggon pe 'l morto cielo.</l>
+</lg>
+<lg>
+<l>Fioccano d'un cader lento le fronde</l>
+<l>Gialle, cineree, bianche;</l>
+<l>E sotto il fioccar tristo che le asconde</l>
+<l>Paion di vita stanche</l>
+</lg>
+<lg>
+<l>Fin quelle, che d'etadi e genti sparte</l>
+<l>Mirar tanta ruina</l>
+<l>In calma gioventù, forme de l'arte</l>
+<l>Argolica e latina.</l>
+</lg>
+<lg>
+<l>Il gran prete quel dì svegliossi allegro,</l>
+<l>Guardò pe' vaticani</l>
+<l>Vetri dorati il cielo umido e negro,</l>
+<l>E si fregò le mani.</l>
+</lg>
+<lg>
+<l>Natura par che di deforme orrore</l>
+<l>Tremi innanzi a la morte:</l>
+<l>Ei sente de le piume anco il tepore</l>
+<l>E dice – Ecco, io son forte.</l>
+</lg>
+<lg>
+<l>Antecessor mio santo, anni parecchi</l>
+<l>Corser da la tua gesta:</l>
+<l>A te, Piero, bastarono gli orecchi;</l>
+<l>Io taglierò la testa.</l>
+</lg>
+<lg>
+<l>A questa volta son con noi le squadre,</l>
+<l>Né Gesù ci scompiglia:</l>
+<l>Egli è in collegio al Sacro Cuore, e il padre</l>
+<l>Curci lo tiene in briglia.</l>
+</lg>
+<lg>
+<l>Un forte vecchio io son; l'ardor de i belli</l>
+<l>Anni in cuor mi ritrovo:</l>
+<l>La scure che aprì 'l cielo al Locatelli</l>
+<l>Arrotatela a novo.</l>
+</lg>
+<lg>
+<l>Sottil, lucida, acuta, in alto splenda</l>
+<l>Ella come un'idea:</l>
+<l>Bello il patibol sia: l'oro si spenda</l>
+<l>Che mandò Il Menabrea.</l>
+</lg>
+<lg>
+<l>I francesi, posato il <title>Maometto</title></l>
+<l>Del Voltèr da l'un canto,</l>
+<l>Diano una man, per compiere il gibetto,</l>
+<l>Al tribunal mio santo.</l>
+</lg>
+<lg>
+<l>Si esponga il sacramento a San Niccola</l>
+<l>Con le indulgenze usate,</l>
+<l>Ed in faccia a l'Italia mia figliuola</l>
+<l>Due teste insanguinate. –</l>
+</lg>
+</lg>
+</div3>
+
+<div3 type="poesia">
+<head>II</head>
+<lg type="non-definito">
+<lg>
+<l>E pur tu sei canuto: e pur la vita</l>
+<l>Ti rifugge dal corpo inerte al cuor,</l>
+<l>E dal cuore al cervel, come smarrita</l>
+<l>Nube per l'alpi solvesi in vapor.</l>
+</lg>
+<lg>
+<l>Deh, perdona a la vita! A l'un vent'anni</l>
+<l>Schiudon, superbi araldi, l'avvenir;</l>
+<l>E in sen, del carcer tuo pur tra gli affanni.</l>
+<l>La speme gli fiorisce et il desir.</l>
+</lg>
+<lg>
+<l>Crescean tre fanciulletti a l'altro intorno,</l>
+<l>Come novelli del castagno al piè;</l>
+<l>Or giaccion tristi, e nel morente giorno</l>
+<l>La madre lor pensa tremando a te.</l>
+</lg>
+<lg>
+<l>Oh, allor che del Giordano a i freschi rivi</l>
+<l>Traea le turbe una gentil virtù</l>
+<l>E ascese a le città liete d'ulivi</l>
+<l>Giovin messia del popolo Gesù,</l>
+</lg>
+<lg>
+<l>Non tremavan le madri; e Naim in festa</l>
+<l>Vide la morte a un suo cenno fuggir</l>
+<l>E la piangente vedovella onesta</l>
+<l>Tra il figlio e Cristo i baci suoi partir.</l>
+</lg>
+<lg>
+<l>Sorridean da i cilestri occhi profondi</l>
+<l>I pargoletti al bel profeta umìl;</l>
+<l>Ei lacrimando entro i lor ricci biondi</l>
+<l>La mano ravvolgea pura e sottil.</l>
+</lg>
+<lg>
+<l>Ma tu co 'l pugno di peccati onusto</l>
+<l>Calchi a terra quei capi, empio signor,</l>
+<l>E sotto al sangue del paterno busto</l>
+<l>De le tenere vite affoghi il fior.</l>
+</lg>
+<lg>
+<l>Tu su gli occhi de i miseri parenti</l>
+<l>(E son tremuli vegli al par di te)</l>
+<l>Scavi le fosse a i figli ancor viventi,</l>
+<l>Chierico sanguinoso e imbelle re.</l>
+</lg>
+<lg>
+<l>Deh, prete, non sia ver che dal tuo nero</l>
+<l>Antro niun salvo a l'aure pure uscì;</l>
+<l>Polifemo cristian, deh non sia vero</l>
+<l>Che tu nudri la morte in trenta dì.</l>
+</lg>
+<lg>
+<l>Stringili al petto, grida – Io del ciel messo</l>
+<l>Sono a portar la pace, a benedir –</l>
+<l>E sentirai dal giovanile amplesso</l>
+<l>Nuovo sangue a le tue vene fluir...</l>
+</lg>
+<lg>
+<l>In sua mente crudel (volgonsi inani</l>
+<l>Le lacrime ed i prieghi) egli si sta:</l>
+<l>Come un fallo gittò gli affetti umani</l>
+<l>Ei solitario ne l'antica età.</l>
+</lg>
+</lg>
+</div3>
+
+<div3 type="poesia">
+<head>III</head>
+<lg type="non-definito">
+<lg>
+<l>Meglio così! Sangue dei morti, affretta</l>
+<l>I rivi tuoi vermigli</l>
+<l>E i fati; al ciel vapora, e di vendetta</l>
+<l>Inebria i nostri figli.</l>
+</lg>
+<lg>
+<l>Essi, nati a l'amore, a cui l'aurora</l>
+<l>De l'avvenir sorride</l>
+<l>Ne le limpide fronti, odiino ancora,</l>
+<l>Come chi molto vide.</l>
+</lg>
+<lg>
+<l>Mirate, udite, o avversi continenti.</l>
+<l>O monti al ciel ribelli,</l>
+<l>Isole e voi ne l'oceàn fiorenti</l>
+<l>Di boschi e di vascelli;</l>
+</lg>
+<lg>
+<l>E tu che inciampi, faticosa ancella,</l>
+<l>Europa, in su la via;</l>
+<l>E tu che segui pe' i gran mar la stella</l>
+<l>Che al Penn si discovria;</l>
+</lg>
+<lg>
+<l>E voi che sotto i furiosi raggi</l>
+<l>Serpenti e re nutrite,</l>
+<l>Africa ed Asia, immani, e voi selvaggi,</l>
+<l>Voi, pelli colorite;</l>
+</lg>
+<lg>
+<l>E tu, sole divino: ecco l'onesto</l>
+<l>Veglio, rosso le mani</l>
+<l>Di sangue e 'l viso di salute: è questo</l>
+<l>L'angel de gli Sciuani.</l>
+</lg>
+<lg>
+<l>Ei, prima che il fatale esecutore</l>
+<l>Lo spazzo abbia lavato,</l>
+<l>Esce raggiante a delibar l'orrore</l>
+<l>Del popolo indignato.</l>
+</lg>
+<lg>
+<l>Ei, di demenza orribile percosso,</l>
+<l>Com'ebbro il capo scuote,</l>
+<l>E vorria pur vedere un po' di rosso</l>
+<l>Ne l'òr de le sue ruote.</l>
+</lg>
+<lg>
+<l>Veglio! son pompe di ferocie vane</l>
+<l>In che il tuo cor si esala,</l>
+<l>E in van t'afforza a troncar teste umane</l>
+<l>Quei che salvò i La Gala.</l>
+</lg>
+<lg>
+<l>Due tu spegnesti; e a la chiamata pronti</l>
+<l>Son mille, ancor più mille.</l>
+<l>I nostri padiglion splendon su i monti,</l>
+<l>Ne' piani e per le ville,</l>
+</lg>
+<lg>
+<l>Dovunque s'apre un'alta vita umana</l>
+<l>A la luce a l'amore:</l>
+<l>Noi siam la sacra legion tebana,</l>
+<l>Veglio, che mai non muore.</l>
+</lg>
+<lg>
+<l>Sparsa è la via di tombe, ma com'ara</l>
+<l>Ogni tomba si mostra:</l>
+<l>La memoria de i morti arde e rischiara</l>
+<l>La grande opera nostra.</l>
+</lg>
+<lg>
+<l>Savi, guerrier, poeti ed operai,</l>
+<l>Tutti ci diam la mano:</l>
+<l>Duro lavor ne gli anni, e lieve omai</l>
+<l>Minammo il Vaticano.</l>
+</lg>
+<lg>
+<l>Splende la face, e il sangue pio l'avviva;</l>
+<l>Splende siccome un sole:</l>
+<l>Sospiri il vento, e su l'antica riva</l>
+<l>Cadrà l'orrenda mole.</l>
+</lg>
+<lg>
+<l>E tra i ruderi in fior la tiberina</l>
+<l>Vergin di nere chiome</l>
+<l>Al peregrin dirà: Son la ruina</l>
+<l>D'un'onta senza nome.</l>
+</lg>
+</lg>
+</div3>
+</div2>
+
+<div2 type="poesia">
+<head>VII</head>
+<head lang="fra">HEU PUDOR!</head>
+<div3 type="poesia">
+<head>I</head>
+<lg type="sonetto">
+<lg>
+<l>Mènte chi dice ch'ove il core avvampa</l>
+<l>Secondi l'aura de l'acceso ingegno.</l>
+<l>Avrei ben io d'infame eterna stampa</l>
+<l>Segnato in fronte questo gregge indegno.</l>
+</lg>
+<lg>
+<l>Feroce forse come il tuo m'accampa,</l>
+<l>Dante padre, nel cuore odio e disdegno;</l>
+<l>Ma chiusa rugge la vorace vampa</l>
+<l>Me distruggendo, e mai non giunge al segno.</l>
+</lg>
+<lg>
+<l>Altri laghi di pegola, addensata</l>
+<l>Di serpenti di mostri e dimon duri</l>
+<l>Altra e duplice bolgia avrei scavata;</l>
+</lg>
+<lg>
+<l>E v'avrei co' suoi monti e co' suoi muri,</l>
+<l>Come uno straccio lurido, gettata</l>
+<l>Questa terra di Fucci e di Bonturi.</l>
+</lg>
+</lg>
+</div3>
+
+<div3 type="poesia">
+<head>II</head>
+<lg type="sonetto">
+<lg>
+<l>No. Vanni Fucci in faccia a Dio rubava</l>
+<l>Con la bestemmia in bocca e in fronte il riso,</l>
+<l>Ribadito di serpi egli squadrava</l>
+<l>Da l'inferno le fiche al paradiso:</l>
+</lg>
+<lg>
+<l>Il poco pan che del suo pianto lava</l>
+<l>Ed è nel sangue de' suoi figli intriso</l>
+<l>Voi rubate a la patria, e poi con brava</l>
+<l>Lingua sputate a lei virtù su 'l viso.</l>
+</lg>
+<lg>
+<l>Le case de' nemici al sol lucente,</l>
+<l>Con la face a una man, ne l'altra i dardi,</l>
+<l>Vanni Fucci cercò superbamente:</l>
+</lg>
+<lg>
+<l>Voi, ne la chiusa notte, a passi tardi,</l>
+<l>Ferite al canto; voi da l'aurea lente</l>
+<l>Piccioletti ladruncoli bastardi.</l>
+</lg>
+</lg>
+</div3>
+
+<div3 type="poesia">
+<head>III</head>
+<lg type="sonetto">
+<lg>
+<l>Da le tombe del pian che aprile infiora</l>
+<l>E da i monti che batte il verno immite</l>
+<l>E da quelle che il mar cuopre e colora,</l>
+<l>Morti d'Italia, venite, venite!</l>
+</lg>
+<lg>
+<l>Mirate, o morti: il sangue vostro irrora,</l>
+<l>Ricadendo aureo nembo, a lor le vite;</l>
+<l>Empie a' lenoni il ventre e rincolora</l>
+<l>Le rose a' ludi de l'amor sfiorite.</l>
+</lg>
+<lg>
+<l>Mirate, o morti: ei fûr che la vittoria</l>
+<l>Vi contesero un giorno, e, candid'ossa,</l>
+<l>Sol del martirio avvolge voi la gloria:</l>
+</lg>
+<lg>
+<l>Ora di lor viltà ne l'ardua possa,</l>
+<l>Ora sfidando i popoli e la storia,</l>
+<l>Ora barattan su la vostra fossa.</l>
+</lg>
+</lg>
+</div3>
+</div2>
+
+<div2 type="poesia">
+<head>VIII</head>
+<head>LE NOZZE DEL MARE</head>
+<head rend="sc">ALLORA E ORA</head>
+<lg type="non-definito">
+<lg>
+<l>Quando ritto il doge antico</l>
+<l>Su l'antico bucentauro</l>
+<l>L'anel d'oro dava al mar,</l>
+<l>E vedeasi, al fiato amico</l>
+<l>De la grande sposa cerula,</l>
+<l>Il crin bianco svolazzar;</l>
+</lg>
+<lg>
+<l>Sorrideva nel pensiero</l>
+<l>Ne le fronti a' padri tremuli</l>
+<l>De' forti anni la virtù,</l>
+<l>E gittava un guardo altero,</l>
+<l>Muta, a l'onde, al cielo, a l'isole,</l>
+<l>La togata gioventù.</l>
+</lg>
+<lg>
+<l>Ma rompea superbo un canto</l>
+<l>Da l'ignudo petto ed ispido</l>
+<l>De gli adusti remator,</l>
+<l>Ch'oggi, vivono soltanto,</l>
+<l>Tizian, ne le tue tavole,</l>
+<l>Ignorati vincitor.</l>
+</lg>
+<lg>
+<l>Ei cantavano San Marco,</l>
+<l>I Pisan, gli Zeni, i Dandoli,</l>
+<l>Il maggior de i Morosin;</l>
+<l>E pe' i sen lunati ad arco</l>
+<l>Lunghi gli echi minacciavano</l>
+<l>Sino al Bosforo e a l'Eussin.</l>
+</lg>
+<lg>
+<l>Ne la patria del Goldoni</l>
+<l>Dopo il dramma lacrimevole</l>
+<l>La commedia oggi si dà:</l>
+<l>De i grandi avi i padiglioni</l>
+<l>Son velari, onde una femmina</l>
+<l>Il mar d'Adria impalmerà.</l>
+</lg>
+<lg>
+<l>Le carezze fien modeste:</l>
+<l>Consumare il matrimonio</l>
+<l>I due sposi non potran:</l>
+<l>Paraninfa, da Trieste</l>
+<l>L'Austria ride; e i venti illirici</l>
+<l>L'imeneo fischiando van.</l>
+</lg>
+<lg>
+<l>Fate al Lido un po' di chiasso</l>
+<l>E su a bordo un po' di musica!</l>
+<l>Le signore hanno a danzar.</l>
+<l>Ma, per dio, sonate basso:</l>
+<l>Qualcheduno a Lissa infracida,</l>
+<l>Che potrebbesi svegliar.</l>
+</lg>
+<lg>
+<l>Bah! qui porgono la mano</l>
+<l>Vaghe donne, a sprizzi fervidi</l>
+<l>Lo sciampagna esulta qui.</l>
+<l>Conte Carlo di Persano,</l>
+<l>Oggi a festa i bronzi rombano:</l>
+<l>Non mancate al lieto dì.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>IX</head>
+<head>VIA UGO BASSI</head>
+<lg type="sonetto">
+<lg>
+<l>Quando porge la man Cesare a Piero,</l>
+<l>Da quella stretta sangue umano stilla:</l>
+<l>Quando il bacio si dan Chiesa e Impero,</l>
+<l>Un astro di martirio in ciel sfavilla.</l>
+</lg>
+<lg>
+<l>Ma nel cuor de le genti il chiuso vero</l>
+<l>Con un guizzo d'amor risponde e brilla:</l>
+<l>Ne la notte l'amor e nel mistero</l>
+<l>Le folgori de l'ira dissigilla.</l>
+</lg>
+<lg>
+<l>Di ghirlande votive or questa via</l>
+<l>Nel solenne suo dì Bologna adombra</l>
+<l>D'un prete sconsacrato a l'alma pia.</l>
+</lg>
+<lg>
+<l>Ma lascia tu nel gran concilio sgombra,</l>
+<l>Roma, una sedia: a te Bologna invia</l>
+<l>Tra' carnefici suoi del Bassi l'ombra.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>X</head>
+<head>ONOMASTICO</head>
+<lg type="sonetto">
+<lg>
+<l>Ugo il poeta, allor che Italia in forse</l>
+<l>Di vita ne' servili ozi giacea,</l>
+<l>Co 'l verbo ardente il secolo percorse,</l>
+<l>Scossel con l'ira che virtù ricrea.</l>
+</lg>
+<lg>
+<l>Allor che Italia dal giaciglio sorse</l>
+<l>Giovenilmente e libertà chiedea,</l>
+<l>Lei lo zel d'Ugo martire precorse</l>
+<l>E poi co 'l sangue suggellò l'idea.</l>
+</lg>
+<lg>
+<l>Ov'è dissidio tra il pensiero e l'opra</l>
+<l>E larva la parola è del pensiero</l>
+<l>E la parvenza a l'essere va sopra:</l>
+</lg>
+<lg>
+<l>O giovinetto, il bel nome severo,</l>
+<l>Tuo domestico vanto, la via scopra:</l>
+<l>Intera libertà vuol l'uomo intero.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XI</head>
+<head>LA CONSULTA ARALDICA</head>
+<lg type="non-definito">
+<lg>
+<l>Cercate pur se il pio siero che stagna</l>
+<l>Nel cor d'un paolotto ignoto al dì,</l>
+<l>Da i reni d'un ladron de l'Alemagna</l>
+<l>Sangue cavalleresco un giorno uscì,</l>
+</lg>
+<lg>
+<l>Se ne la tabe che da gli avi nacque</l>
+<l>E strugge ai figli l'ultimo polmon</l>
+<l>Vive la colpa d'una rea che piacque</l>
+<l>Adultera latina al biondo Otton.</l>
+</lg>
+<lg>
+<l>Deh dite: quante belve a cui le spade</l>
+<l>Affondar ne la carne era virtù,</l>
+<l>Quanti marchesi che assalian le strade,</l>
+<l>Quanti mitrati che vendean Gesù,</l>
+</lg>
+<lg>
+<l>Quanti storici gradi di peccato</l>
+<l>Occorron dunque, dite in vostra fé</l>
+<l>Per poter la camicia di bucato</l>
+<l>Porger la mane al dormiglioso re?</l>
+</lg>
+<lg>
+<l>Per quante aule di barbari signori</l>
+<l>Vigilate dal pubblico terror</l>
+<l>Bisogna aver contaminato i cuori</l>
+<l>Ed i ginocchi, e quante volte ancor</l>
+</lg>
+<lg>
+<l>Rinnegata la misera latina</l>
+<l>Patria e del suo comun le libertà,</l>
+<l>Per poter di diritto a la regina</l>
+<l>Tener la coda quando a messa va?</l>
+</lg>
+<lg>
+<l>Oh non per questo dal fatal di Quarto</l>
+<l>Lido il naviglio de i mille salpò,</l>
+<l>Né Rosolino Pilo aveva sparto</l>
+<l>Suo gentil sangue che vantava Angiò.</l>
+</lg>
+<lg>
+<l>Ma voi da l'arche, voi da gli scaffali,</l>
+<l>Invidiando a i vermi ombra e sopor,</l>
+<l>Corna di cervi e teschi di cignali</l>
+<l>Ed ugnoli d'arpie mettete fuor;</l>
+</lg>
+<lg>
+<l>Ed a gli scheltri de le ree castella</l>
+<l>Che foscheggian pe 'l verde ermo Apennin,</l>
+<l>Poi che l'austero e pio Gian de la Bella</l>
+<l>Trasse i baroni a pettinare il lin</l>
+</lg>
+<lg>
+<l>(E allora il pugno già contratto al brando</l>
+<l>Ne l'opera plebea ben si spianò,</l>
+<l>E su le labbra tumide il comando</l>
+<l>In lusinga servile iscivolò),</l>
+</lg>
+<lg>
+<l>A quegli scheltri voi chiedete ancora</l>
+<l>Le targhe colorate e il pennoncel;</l>
+<l>E vorreste veder l'antica aurora</l>
+<l>Arrider mesta a un gotico bertel.</l>
+</lg>
+<lg>
+<l>O dormenti nel giorno, il gallo canta,</l>
+<l>Ferve il lavoro e cedon l'ombre al ver;</l>
+<l>L'azzurro oltremarin di Terra santa</l>
+<l>È bava di lumaca in suo sentier.</l>
+</lg>
+<lg>
+<l>Rendete pur, rendete a i vecchi scudi</l>
+<l>Il pallid'oro che l'ebreo raschiò</l>
+<l>Ed a gli elmi le corna: io questi ludi</l>
+<l>A la vecchiezza invidiar non so.</l>
+</lg>
+<lg>
+<l>E aspettate così ne le supreme</l>
+<l>Gran gale, o morituri, il funeral:</l>
+<l>La libertà tocca il tamburo, e insieme</l>
+<l>Dileguan medio evo e carneval.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XII</head>
+<head>NOSTRI SANTI E NOSTRI MORTI</head>
+<lg type="non-definito">
+<lg>
+<l>A i dì mesti d'autunno il prete canta</l>
+<l>I morti in terra ed i suoi santi in ciel,</l>
+<l>E muta il suon de' bronzi, e l'are ammanta</l>
+<l>Oggi di lieto e doman d'atro vel.</l>
+</lg>
+<lg>
+<l>Noi d'un cuor solo e con un solo rito</l>
+<l>A' tuoi santi e a' tuoi morti, o libertà,</l>
+<l>Libiamo il vin del funeral convito,</l>
+<l>Come la Grecia ne le antiche età.</l>
+</lg>
+<lg>
+<l>Ahi, ma libando a' gloriosi estinti</l>
+<l>Ne i dì fausti la greca gioventù</l>
+<l>Rammemorava i regi uccisi e i vinti,</l>
+<l>E in Atene regnavi unica tu.</l>
+</lg>
+<lg>
+<l>De' nostri morti in su le fosse erbose</l>
+<l>Pasce il crociato belga il suo destrier:</l>
+<l>Il vostro sangue, o eroi, nudrì le rose</l>
+<l>Di tiranni lascivi a l'origlier.</l>
+</lg>
+<lg>
+<l>Da i monti al mar la bianca turba, eretta</l>
+<l>In su le tombe, guarda, attende e sta:</l>
+<l>Riposeranno il dì de la vendetta,</l>
+<l>De la giustizia e de la libertà.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XIII</head>
+<head>IN MORTE DI GIOVANNI CAIROLI</head>
+<lg type="non-definito">
+<lg>
+<l>O Villagloria, da Crèmera, quando</l>
+<l>La luna i colli ammanta,</l>
+<l>A te vengono i Fabi, ed ammirando</l>
+<l>Parlan de' tuoi settanta.</l>
+</lg>
+<lg>
+<l>Tinto del proprio e del fraterno sangue</l>
+<l>Giovanni, ultimo amore</l>
+<l>De la madre, nel seno almo le langue,</l>
+<l>Caro italico fiore.</l>
+</lg>
+<lg>
+<l>Il capo omai da l'atra morte avvolto</l>
+<l>Levasi; ed improvviso</l>
+<l>Trema su 'l bianco ed affilato volto</l>
+<l>L'aleggiar d'un sorriso,</l>
+</lg>
+<lg>
+<l>L'occhio ne l'infinito apresi, il fere</l>
+<l>Da l'avvenire un raggio:</l>
+<l>Vede allegre sfilar armi e bandiere</l>
+<l>Per un gran pian selvaggio,</l>
+</lg>
+<lg>
+<l>E in mezzo il duce glorioso: ondeggia</l>
+<l>La luminosa chioma</l>
+<l>A l'aure del trionfo: il sol dardeggia</l>
+<l>Laggiù in fondo su Roma.</l>
+</lg>
+<lg>
+<l>Apri, Roma immortale, apri le porte</l>
+<l>Al dolce eroe che muore:</l>
+<l>Non mai, non mai ti consacrò la morte,</l>
+<l>Roma, un più nobile core.</l>
+</lg>
+<lg>
+<l>Del cor suo dal bordel venda un fallito</l>
+<l>Cetégo la parola,</l>
+<l>Eruttando che il tuo gran nome è un mito</l>
+<l>Per le panche di scola:</l>
+</lg>
+<lg>
+<l>Al divieto straniero adagi Ciacco</l>
+<l>L'anima tributaria</l>
+<l>Su l'altro lato, e dica – Io son vigliacco,</l>
+<l>E poi c'è la mal'aria –:</l>
+</lg>
+<lg>
+<l>Per te in seno a le madri, ecco, la morte</l>
+<l>Divora altri figliuoli:</l>
+<l>Apri, Roma immortale, apri le porte</l>
+<l>A Giovan Cairoli.</l>
+</lg>
+<lg>
+<l>Egli, ombra vigilante a i dì novelli,</l>
+<l>Il tuo silenzio antico</l>
+<l>Abiterà co' Gracchi e co' Marcelli</l>
+<l>E co 'l suo forte Enrico.</l>
+</lg>
+<lg>
+<l>L'ali un dì spiegherà su 'l Campidoglio</l>
+<l>La libertà regina:</l>
+<l>Groppello, allor da ogni ultimo scoglio</l>
+<l>De la terra latina,</l>
+</lg>
+<lg>
+<l>E giù da l'Alpi e giù da gli Apennini,</l>
+<l>Garzoni e donne a schiera</l>
+<l>Verranno a te, fiorite i lunghi crini</l>
+<l>D'aulente primavera.</l>
+</lg>
+<lg>
+<l>E con lor sarà un vate, radioso</l>
+<l>Ne la fronte divina,</l>
+<l>Come Sofocle già nel glorioso</l>
+<l>Trofeo di Salamina:</l>
+</lg>
+<lg>
+<l>Ei toccherà le corde, e de i fratelli</l>
+<l>Dirà la santa gesta;</l>
+<l>Né mai la canzon ionia a' dì più belli</l>
+<l>Risonò come questa.</l>
+</lg>
+<lg>
+<l>Groppello, a te co 'l solitario canto</l>
+<l>Nel mesto giorno io vegno,</l>
+<l>E m'accompagna de l'Italia il pianto</l>
+<l>E, nube atra, lo sdegno:</l>
+</lg>
+<lg>
+<l>Nel mesto giorno che la quarta volta</l>
+<l>Te visitò la Parca,</l>
+<l>E sott'essa la tua funerea volta</l>
+<l>Batte il martel su l'arca</l>
+</lg>
+<lg>
+<l>Del giovinetto, la cui mite aurora</l>
+<l>Empiva i clivi tuoi</l>
+<l>Di roseo lume. Oh come sola è ora</l>
+<l>La casa de gli eroi!</l>
+</lg>
+<lg>
+<l>De le sue stanze pe 'l deserto strano</l>
+<l>S'incontran due viventi:</l>
+<l>Tristi echi rende il sepolcreto vano</l>
+<l>Sotto i lor passi lenti:</l>
+</lg>
+<lg>
+<l>Avvalla il figlio de la madre in faccia</l>
+<l>Il viso e gli occhi muti,</l>
+<l>Che non rivegga in lui la cara traccia</l>
+<l>De' suoi quattro perduti.</l>
+</lg>
+<lg>
+<l>O madre, o madre, a i dì de la speranza</l>
+<l>Dal tuo grembo fecondo</l>
+<l>Cinque valenti uscieno: ecco, t'avanza</l>
+<l>Oggi quest'uno al mondo.</l>
+</lg>
+<lg>
+<l>L'alma benigna nel sereno viso</l>
+<l>Splendea di que' gagliardi,</l>
+<l>Come del sol di giugno il vasto riso</l>
+<l>Sovra i laghi lombardi.</l>
+</lg>
+<lg>
+<l>Ahi, ahi! de gli stranier tutte le spade</l>
+<l>La carne tua gustaro!</l>
+<l>Ahi, ahi! d'Italia tutte le contrade</l>
+<l>Del cor tuo sanguinaro!</l>
+</lg>
+<lg>
+<l>Qual cor fu il tuo, quando l'estremo spiro.</l>
+<l>O madre de gli eroi,</l>
+<l>Di lui ti rinnovò tutto il martiro</l>
+<l>Di tutti i figli tuoi!</l>
+</lg>
+<lg>
+<l>Or su le tombe taciturne siedi,</l>
+<l>O donna de i dolori,</l>
+<l>E i dì estremi volar sopra ti vedi</l>
+<l>Come liberatori.</l>
+</lg>
+<lg>
+<l>Qui cinque addur nuore dovevi a' nati,</l>
+<l>Madre gentile e altera;</l>
+<l>Cara speme di prole a' tuoi penati</l>
+<l>Ed a la patria: e nera</l>
+</lg>
+<lg>
+<l>Suoi segni stende per le avite stanze</l>
+<l>La morte. Ma d'augùri</l>
+<l>Rifulgon liete e suonano di danze</l>
+<l>Le case de' Bonturi.</l>
+</lg>
+<lg>
+<l>Corre ivi a fiotti il vino, e sangue sembra;</l>
+<l>L'orgia a le fami insulta;</l>
+<l>De le adultere ignude in su le membra</l>
+<l>La libidine esulta.</l>
+</lg>
+<lg>
+<l>I barcollanti amori, in mal feconde</l>
+<l>Scosse, d'obliqua prole</l>
+</lg>
+<lg>
+<l>Seminan tutte queste serve sponde,</l>
+<l>Ed oltraggiano il sole.</l>
+<l>E il tradimento e la vigliaccheria,</l>
+<l>Sì come cani in piazza,</l>
+<l>Ivi s'accoppian anche: ebra la ria</l>
+<l>Ciurma intorno gavazza,</l>
+</lg>
+<lg>
+<l>E i viva urla a l'Italia. Maledetta</l>
+<l>Sii tu, mia patria antica,</l>
+<l>Su cui l'onta de l'oggi e la vendetta</l>
+<l>De i secoli s'abbica!</l>
+</lg>
+<lg>
+<l>La pianta di virtù qui cresce ancora,</l>
+<l>Ma per farsene strame</l>
+<l>I muli tuoi: qui la viola odora</l>
+<l>Per divenir letame.</l>
+</lg>
+<lg>
+<l>Oh, risvegliar che val l'ira de i forti,</l>
+<l>Di Dante padre l'ira?</l>
+<l>Solingo vate, in su l'urne de' morti</l>
+<l>Io vo' spezzar la lira.</l>
+</lg>
+<lg>
+<l>Accoglietemi, udite, o de gli eroi</l>
+<l>Esercito gentile:</l>
+<l>Triste novella io recherò fra voi:</l>
+<l>La nostra patria è vile.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XIV</head>
+<head>PER LE NOZZE DI CESARE PARENZO</head>
+<lg type="non-definito">
+<lg>
+<l>– Superbo! e lui non tocca</l>
+<l>Gentil senso d'amore:</l>
+<l>Motto di rosea bocca</l>
+<l>A lui non scende in core.</l>
+<l>Ei per la via de gli anni</l>
+<l>Tutt'i soavi inganni</l>
+</lg>
+<lg>
+<l>Gittò, gittò la soma</l>
+<l>De le memorie pie;</l>
+<l>E con la mente doma</l>
+<l>Da torve fantasie,</l>
+<l>Solitario, aggrondato,</l>
+<l>Va pe 'l divin creato.</l>
+</lg>
+<lg>
+<l>Amor covava in petto</l>
+<l>Al buon veglio di Teo:</l>
+<l>In lui l'ira e 'l dispetto</l>
+<l>Albergo e nido feo,</l>
+<l>E la Furia pon l'ova,</l>
+<l>E la Musa le cova;</l>
+</lg>
+<lg>
+<l>E guizzan viperette</l>
+<l>Da i sanguinosi vani,</l>
+<l>E fischian su le vette</l>
+<l>De' versi orridi e strani,</l>
+<l>E lingueggiano al sole</l>
+<l>Tra rovi di parole. –</l>
+</lg>
+<lg>
+<l>E pur (m'udite, o voi</l>
+<l>Che un dì mi amaste) ancora</l>
+<l>Dischiude i color suoi</l>
+<l>E in mezzo al cor m'odora</l>
+<l>Più soave che pria</l>
+<l>Il fior di poesia.</l>
+</lg>
+<lg>
+<l>E ne vo' far ghirlande</l>
+<l>Per le fronti severe</l>
+<l>Ove suoi raggi spande</l>
+<l>L'onor et il dovere,</l>
+<l>E per le fronti belle</l>
+<l>Di pudiche donzelle.</l>
+</lg>
+<lg>
+<l>O monti, o fiumi, o prati:</l>
+<l>O amori integri e sani;</l>
+<l>O affetti esercitati</l>
+<l>Fra una schiatta d'umani</l>
+<l>Alta gentile e pura;</l>
+<l>O natura, o natura;</l>
+</lg>
+<lg>
+<l>Da questo reo mercato</l>
+<l>Di falsitadi, anelo</l>
+<l>A voi, come piagato</l>
+<l>Augello al proprio cielo</l>
+<l>Dal fango ond'è implicata</l>
+<l>L'ala al sereno usata.</l>
+</lg>
+<lg>
+<l>Dolci sonate e molli</l>
+<l>Aleggiate, o miei versi,</l>
+<l>Qual d'Imetto da i colli</l>
+<l>Di roseo lume aspersi</l>
+<l>Mormoravan giulivi</l>
+<l>Del bel Cefiso a i rivi</l>
+</lg>
+<lg>
+<l>Gli sciami de le attee</l>
+<l>Api, ed allora inchino</l>
+<l>Libava a le tre dee</l>
+<l>Il tragico divino</l>
+<l>Meditando i secreti</l>
+<l>Di Colono oliveti.</l>
+</lg>
+<lg>
+<l>Dolci sonate e puri</l>
+<l>De la candida festa</l>
+<l>Fra i domestici augùri:</l>
+<l>Parenzo oggi a la onesta</l>
+<l>Tua legge affida, o amore,</l>
+<l>Il prode ingegno e il core.</l>
+</lg>
+<lg>
+<l>E ride la donzella</l>
+<l>A l'amator marito,</l>
+<l>Lei che tacita e bella</l>
+<l>L'attese, ed a l'ardito</l>
+<l>Guerrier di nostra fede</l>
+<l>Serbò questa mercede.</l>
+</lg>
+<lg>
+<l>Oh dolce oblio profondo</l>
+<l>De le lotte anelanti!</l>
+<l>Oh divisi dal mondo</l>
+<l>Susurri de gli amanti,</l>
+<l>Che l'aura pia diffonde</l>
+<l>Tra l'ombre e tra le fronde,</l>
+</lg>
+<lg>
+<l>Ma in ciel par che gl'intenda</l>
+<l>Espero amico lume</l>
+<l>E soave risplenda</l>
+<l>Con fraterno costume</l>
+<l>A la fronte levata</l>
+<l>De la fanciulla amata!</l>
+</lg>
+<lg>
+<l>Se non che dietro rugge</l>
+<l>La marea de la vita,</l>
+<l>E l'anima che fugge</l>
+<l>Chiama a la via smarrita:</l>
+<l>In su l'aspro sentiero</l>
+<l>Tornate, o sposi, e al vero.</l>
+</lg>
+<lg>
+<l>Da i vostri amori, o prode</l>
+<l>Gioventù di mia terra,</l>
+<l>A la forza e a la frode</l>
+<l>Esca perenne guerra,</l>
+<l>Esca a l'italo sole</l>
+<l>Una robusta prole;</l>
+</lg>
+<lg>
+<l>E il sano occhio nel giorno</l>
+<l>Del ver fisi giocondo,</l>
+<l>E tutto a lei d'intorno</l>
+<l>Rida libero il mondo.</l>
+<l>Non è divino fato</l>
+<l>Il dolore e il peccato.</l>
+</lg>
+<lg>
+<l>A l'armi, a l'armi, o amore!</l>
+<l>Tu puoi, tu sol, cotanto!</l>
+<l>Se questa speme in core</l>
+<l>Io porti, ancora il canto</l>
+<l>Da l'anima ferita</l>
+<l>Gitterò ne la vita;</l>
+</lg>
+<lg>
+<l>E su 'l ginocchio, come</l>
+<l>Il gladiator tirreno,</l>
+<l>Poggiato, io, fra le chiome</l>
+<l>E nel riarso seno</l>
+<l>La fresc'aura sentendo,</l>
+<l>Morirò combattendo.</l>
+</lg>
+</lg>
+</div2>
+</div1>
+
+<div1 type="libro">
+<head>RIPRESA</head>
+<div2 type="poesia">
+<head>XV</head>
+<head>AVANTI! AVANTI!</head>
+<div3 type="poesia">
+<head>I</head>
+<lg type="non-definito">
+<lg>
+<l>Avanti avanti, o sauro destrier de la canzone!</l>
+<l>L'aspra tua chioma porgimi, ch'io salti anche in arcione,</l>
+<l>Indomito destrier.</l>
+<l>A noi la polve a l'ansia del corso, e i rotti vènti,</l>
+<l>E il lampo de le selici percosse, e de i torrenti</l>
+<l>L'urlo solingo e tier.</l>
+</lg>
+<lg>
+<l>I bei ginnetti italici han pettinati crini,</l>
+<l>Le constellate e morbide aiuole de' giardini</l>
+<l>Sono il lor dolce agon:</l>
+<l>Ivi essi caracollano in faccia a i loro amori,</l>
+<l>La giuba a tempo fluttua vaga tra i nastri e i fiori</l>
+<l>De le fanfare al suon;</l>
+</lg>
+<lg>
+<l>E, se lungi la polvere scorgon del nostro corso,</l>
+<l>Il picciol collo inarcano e masticando il morso</l>
+<l>Par che rignino – Ohibò! –</l>
+<l>Ma l'alfana che strascica su l'orlo de la via</l>
+<l>Sotto gualdrappe e cingoli la lunga anatomia</l>
+<l>D'un corpo che invecchiò,</l>
+</lg>
+<lg>
+<l>Ripensando gli scalpiti de' corteggi e le stalle</l>
+<l>De' tepid'ozi e l'adipe de la pasciuta valle,</l>
+<l>Guarda con muto orror.</l>
+<l>E noi corriamo a' torridi soli, a' cieli stellati,</l>
+<l>Per note plaghe e incognite, quai cavalier fatati,</l>
+<l>Dietro un velato amor.</l>
+</lg>
+<lg>
+<l>Avanti, avanti, o sauro destrier, mio forte amico!</l>
+<l>Non vedi tu le parie forme del tempo antico</l>
+<l>Accennarne colà?</l>
+<l>Non vedi tu d'Angelica ridente, o amico, il velo</l>
+<l>Solcar come una candida nube l'estremo cielo?</l>
+<l>Oh gloria, oh libertà!</l>
+</lg>
+</lg>
+</div3>
+
+<div3 type="poesia">
+<head>II</head>
+<lg type="non-definito">
+<lg>
+<l>Ahi, da' prim'anni, o gloria, nascosi del mio cuore</l>
+<l>Ne' superbi silenzii il tuo superbo amore.</l>
+<l>Le fronti alte del lauro nel pensoso splendor</l>
+<l>Mi sfolgorâr da' gelidi marmi nel petto un raggio,</l>
+<l>Ed obliai le vergini danzanti al sol di maggio</l>
+<l>E i lampi de' bianchi omeri sotto le chiome d'òr.</l>
+</lg>
+<lg>
+<l>E tutto ciò che facile allor prometton gli anni</l>
+<l>Io 'l diedi per un impeto lacrimoso d'affanni,</l>
+<l>Per un amplesso aereo in faccia a l'avvenir.</l>
+<l>O immane statua bronzea su dirupato monte,</l>
+<l>Solo i grandi t'aggiungono, per declinar la fronte</l>
+<l>Fredda su 'l tuo fredd'omero e lassi ivi morir.</l>
+</lg>
+<lg>
+<l>A più frequente palpito di umani odii e d'amori</l>
+<l>Meglio il petto m'accesero ne' lor severi ardori</l>
+<l>Ultime dee superstiti giustizia e libertà;</l>
+<l>E uscir credeami italico vate a la nuova etade,</l>
+<l>Le cui strofe al ciel vibrano come rugghianti spade,</l>
+<l>E il canto, ala d'incendio, divora i boschi e va.</l>
+</lg>
+<lg>
+<l>Ahi, lieve i duri muscoli sfiora la rima alata!</l>
+<l>Co 'l tuon de l'arma ferrea nel destro pugno arcata,</l>
+<l>Gentil leopardo, lanciasi Camillo Demulèn,</l>
+<l>E cade la Bastiglia. Solo Danton dislaccia,</l>
+<l>Per rivelarti a' popoli, con le taurine braccia,</l>
+<l>O repubblica vergine, l'amazonio tuo sen.</l>
+</lg>
+<lg>
+<l>A noi le pugne inutili. Tu cadevi, o Mameli,</l>
+<l>Con la pupilla cerula fisa e gli aperti cieli,</l>
+<l>Tra un inno e una battaglia cadevi; e come un fior</l>
+<l>Ti rideva da l'anima la fede, allor che il bello</l>
+<l>E biondo capo languido chinavi, e te, fratello</l>
+<l>Copria l'ombra siderea di Roma e i tre color;</l>
+</lg>
+<lg>
+<l>Ed al fuggir de l'anima su la pallida faccia</l>
+<l>Protendea la repubblica santa le aperte braccia</l>
+<l>Diritta in fra i romulei colli e l'occiduo sol.</l>
+<l>Ma io d'intorno premere veggo schiavi e tiranni,</l>
+<l>Ma io su 'l capo stridere m'odo fuggenti gli anni:</l>
+<l>– Che mai canta, susurrano, costui torbido e sol?</l>
+</lg>
+<lg>
+<l>Ei canta e culla i queruli mostri de la sua mente,</l>
+<l>E quel che vive e s'agita nel mondo egli non sente. –</l>
+<l>O popolo d'Italia, vita del mio pensier,</l>
+<l>O popolo d'Italia, vecchio titano ignavo,</l>
+<l>Vile io ti dissi in faccia, tu mi gridasti: Bravo;</l>
+<l>E de' miei versi funebri t'incoroni il bicchier.</l>
+</lg>
+</lg>
+</div3>
+
+<div3 type="poesia">
+<head>III</head>
+<lg type="non-definito">
+<lg>
+<l>Avanti, avanti, o indomito destrier de gl'inni alato!</l>
+<l>Obliar vo' nel rapido corso l'inerte fato,</l>
+<l>I gravi e oscuri dì.</l>
+<l>Ricordi tu, bel sauro, quando al tuo primo salto</l>
+<l>I falchi salutarono augurando ne l'alto</l>
+<l>E il bufolo muggì?</l>
+</lg>
+<lg>
+<l>Ricordi tu le vedove piagge del mar toscano,</l>
+<l>Ove china su 'l nubilo inseminato piano</l>
+<l>La torre feudal</l>
+<l>Con lunga ombra di tedio da i colli arsicci e foschi</l>
+<l>Veglia de le rasenie cittadi in mezzo a' boschi</l>
+<l>Il sonno sepolcral.</l>
+</lg>
+<lg>
+<l>Mentre tormenta languido sirocco gli assetati</l>
+<l>Caprifichi che ondeggiano su i gran massi quadrati</l>
+<l>Verdi tra il cielo e il mar,</l>
+<l>Su i gran massi cui vigile il mercator tirreno</l>
+<l>Saliva, le fenicie rosse vele nel seno</l>
+<l>Azzurro ad aspettar?</l>
+</lg>
+<lg>
+<l>Ricordi Populonia, e Roselle, e la fiera</l>
+<l>Torre di Donoratico a la cui porta nera</l>
+<l>Conte Ugolin bussò</l>
+<l>Con lo scudo e con l'aquile a la Meloria infrante,</l>
+<l>Il grand'elmo togliendosi da la fronte che Dante</l>
+<l>Ne l'inferno ammirò?</l>
+</lg>
+<lg>
+<l>Or (dolce a la memoria) una quercia su 'l ponte</l>
+<l>Levatoio verdeggia e bisbiglia, e del conte</l>
+<l>Novella il cacciator</l>
+<l>Quando al purpureo vespero su la bertesca infida</l>
+<l>I falchetti famelici empiono il ciel di strida</l>
+<l>E il can guarda al clamor.</l>
+</lg>
+<lg>
+<l>Là tu crescesti, o sauro destrier de gl'inni, meco;</l>
+<l>E la pietra pelasgica ed il tirreno speco</l>
+<l>Fûro il mio solo altar;</l>
+<l>E con me nel silenzio meridian fulgente</l>
+<l>I lucumoni e gli àuguri de la mia prima gente</l>
+<l>Veniano a conversar.</l>
+</lg>
+<lg>
+<l>E tu pascevi, o alivolo corridore, la biada</l>
+<l>Che ne' solchi de i secoli aperti con la spada</l>
+<l>Dal console roman</l>
+<l>Dante, etrusco pontefice redivivo, gettava;</l>
+<l>Onde al cielo il tuo florido terzo maggio esultava,</l>
+<l>Comune italian,</l>
+</lg>
+<lg>
+<l>Tra le germane faide e i salmi nazareni</l>
+<l>Esultava nel libero lavoro e ne i sereni</l>
+<l>Canti de' mietitor.</l>
+<l>Chi di quell'orzo pascesi, o nobile corsiero,</l>
+<l>Ha forti nervi e muscoli, ha gentile ed intero</l>
+<l>Nel sano petto il cor.</l>
+</lg>
+<lg>
+<l>Dammi or dunque, apollinea fiera, l'alato dorso:</l>
+<l>Ecco tutte le redini io ti libero al corso:</l>
+<l>Corriam, fiera gentil.</l>
+<l>Corriam de gli avversarii sovra le teste e i petti,</l>
+<l>De' mostri il sangue imporpori i tuoi ferrei garetti;</l>
+<l>E a noi rida l'april,</l>
+</lg>
+<lg>
+<l>L'april de' colli italici vaghi di mèssi e fiori,</l>
+<l>L'april santo de l'anima piena di nuovi amori,</l>
+<l>L'aprile del pensier.</l>
+<l>Voliam sin che la folgore di Giove tra la rotta</l>
+<l>Nube ci arda e purifichi, o che il torrente inghiotta</l>
+<l>Cavallo e cavalier,</l>
+</lg>
+<lg>
+<l>O ch'io discenda placido dal tuo stellante arcione,</l>
+<l>Con l'occhio ancora gravido di luce e visione,</l>
+<l>Su 'l toscano mio suol,</l>
+<l>Ed al fraterno tumolo posi da la fatica,</l>
+<l>Gustando tu il trifoglio da una bell'urna antica</l>
+<l>Verso il morente sol.</l>
+</lg>
+</lg>
+</div3>
+</div2>
+</div1>
+
+<div1 type="libro">
+<head>LIBRO II</head>
+<div2 type="poesia">
+<head>XVI</head>
+<head>A CERTI CENSORI</head>
+<lg type="non-definito">
+<lg>
+<l>No, le luci non ha di Maddalena</l>
+<l>Molli e del pianger vaghe;</l>
+<l>No, balsami non ha la mia Camena</l>
+<l>Per le fetenti piaghe.</l>
+</lg>
+<lg>
+<l>Né Cristi siete voi: per ogni fòro</l>
+<l>L'anima vostra impura</l>
+<l>Fornicò; se v'ha conci il reo lavoro,</l>
+<l>Ci pensi la questura.</l>
+</lg>
+<lg>
+<l>Ma Fulvia, in quel che la persona bella</l>
+<l>Rileva su 'l divano</l>
+<l>Ravviando al crin fulgido le anella</l>
+<l>Con la tremante mano</l>
+</lg>
+<lg>
+<l>E le pieghe a la vesta, tutta in viso</l>
+<l>Vermiglia e di piacere</l>
+<l>Spumante, con un guardo e con un riso</l>
+<l>Ove tutta Citere</l>
+</lg>
+<lg>
+<l>Lampeggia e a cui Laide erudita avria</l>
+<l>Aggiudicato il mirto,</l>
+<l>– Odio – dice – la triste poesia</l>
+<l>Che rinnega lo spirto. –</l>
+</lg>
+<lg>
+<l>E il buffon Mena, ch'empie d'inodora</l>
+<l>Corruzion la pancia</l>
+<l>E via co 'l guanto profumato sfiora</l>
+<l>Gli schiaffi de la guancia,</l>
+</lg>
+<lg>
+<l>Dice – A me giova tra un bicchier di Broglio</l>
+<l>E l'altro metter l'ale.</l>
+<l>Io mi sento meschino, e a cena voglio</l>
+<l>Del soprannaturale</l>
+</lg>
+<lg>
+<l>E de i tartufi... Via, dopo l'arrosto</l>
+<l>Fa bene un po' d'azzurro:</l>
+<l>Apri, poeta: il cielo, il cielo, a costo</l>
+<l>Di pigliare un cimurro!</l>
+</lg>
+<lg>
+<l>Nel cospetto del ciel l'ebrezza casca</l>
+<l>Del senso riscaldato.</l>
+<l>Il canto è fede. – E s'accarezza in tasca</l>
+<l>Il soldo ruffianato.</l>
+</lg>
+<lg>
+<l>Ecco Pomponio, a le cui false chiome</l>
+<l>E al giallo adipe arguto,</l>
+<l>Dolce Pimplea, tu splendi in vista come</l>
+<l>Un grosso angel paffuto</l>
+</lg>
+<lg>
+<l>Che ne le chiese del Gesù stuccate</l>
+<l>Su le nubi s'adagia,</l>
+<l>Su le nubi dorate e inargentate</l>
+<l>Che paion di bambagia.</l>
+</lg>
+<lg>
+<l>– Amore, amore! – ei sbuffa – il mondo nuota</l>
+<l>Tutto nel latt'e miele:</l>
+<l>Le rane come me lasciar la mota</l>
+<l>E le vipere il fiele.</l>
+</lg>
+<lg>
+<l>Vero; un asino crepa a quando a quando</l>
+<l>Di martirio o di fame:</l>
+<l>Ma il listino a la borsa va montando</l>
+<l>E a Pegaso lo strame.</l>
+</lg>
+<lg>
+<l>Ho de' valori pubblici, un'amante</l>
+<l>Paolotta e un giornale</l>
+<l>Del centro che mi paragona a Dante:</l>
+<l>Io canto l'ideale.</l>
+</lg>
+<lg>
+<l>Seguo l'arte che l'ali erge e dilata</l>
+<l>A più sublimi sfere:</l>
+<l>Lungi le Muse de la barricata,</l>
+<l>Le Grazie petroliere! –</l>
+</lg>
+<lg>
+<l>Così le belle e i vati e i savi in coro</l>
+<l>Mi vietano con gesto</l>
+<l>Di drammatico orrore il sacro alloro...</l>
+<l>Deh via, chi ve l'ha chiesto?</l>
+</lg>
+<lg>
+<l>Quand'io salgo de' secoli su 'l monte</l>
+<l>Triste in sembianti e solo,</l>
+<l>Levan le strofe intorno a la mia fronte,</l>
+<l>Siccome falchi, il volo.</l>
+</lg>
+<lg>
+<l>Ed ogni strofe ha un'anima; ed a valle</l>
+<l>Precipita e rimbomba,</l>
+<l>Come fuga d'indomite cavalle,</l>
+<l>Con la spada e la tromba;</l>
+</lg>
+<lg>
+<l>E con la spada alto volando prostra</l>
+<l>I mostri ed i giganti,</l>
+<l>E con la tromba a la suprema giostra</l>
+<l>Chiama i guerrier festanti.</l>
+</lg>
+<lg>
+<l>Al passar de le aeree fanciulle</l>
+<l>Fremon per tutti i campi</l>
+<l>L'ossa de' morti, e i tumoli a le culle</l>
+<l>Mandan saluti e lampi.</l>
+</lg>
+<lg>
+<l>E il giovinetto pallido, a cui cade</l>
+<l>Su gli occhi umido un velo,</l>
+<l>Sogna la morte per la libertade</l>
+<l>In faccia al patrio cielo.</l>
+</lg>
+<lg>
+<l>Avanti, avanti, o messaggere armate</l>
+<l>Di fede e di valore!</l>
+<l>Su l'ali vostre a più felice etate</l>
+<l>Lancio il mio vivo cuore.</l>
+</lg>
+<lg>
+<l>A voi la vita mia: me ignota fossa</l>
+<l>Accolga innanzi gli anni:</l>
+<l>Pugnate voi contro ogni iniqua possa,</l>
+<l>Contro tutti i tiranni!</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XVII</head>
+<head>PER IL LXXVIII ANNIVERSARIO</head>
+<head rend="sc">DALLA PROCLAMAZIONE DELLA REPUBBLICA FRANCESE</head>
+<lg type="non-definito">
+<lg>
+<l>Sol di settembre, tu nel cielo stai</l>
+<l>Come l'uom che i migliori anni finì</l>
+<l>E guarda triste innanzi: i dolci rai</l>
+<l>Tu stendi verso i nubilosi dì.</l>
+</lg>
+<lg>
+<l>Mesto è sereno, limpido e profondo,</l>
+<l>Per l'ampia terra il tuo sorriso va:</l>
+<l>Tu maturi su i colli il vino, e al mondo</l>
+<l>Riporti i fasti de la libertà.</l>
+</lg>
+<lg>
+<l>Mescete, o amici, il vino. Il vin fremente</l>
+<l>Scuota da i molli nervi ogni torpor,</l>
+<l>Purghi le nubi de l'afflitta mente,</l>
+<l>Affoghi il tedio accidioso in cor.</l>
+</lg>
+<lg>
+<l>Vino e ferro vogl'io come a' begli anni</l>
+<l>Alceo chiedea nel cantico immortal:</l>
+<l>Il ferro per uccidere i tiranni,</l>
+<l>Il vin per festeggiarne il funeral.</l>
+</lg>
+<lg>
+<l>Ma il ferro e il bronzo è de' tiranni in mano;</l>
+<l>E Kant aguzza con la sua <title>Ragion</title></l>
+<l><title>Pura</title> il fredd'ago del fucil prussiano,</l>
+<l>Korner strascica il bavaro cannon.</l>
+</lg>
+<lg>
+<l>Cavalca intorno a l'avel tuo, Voltèro,</l>
+<l>Il diletto di Dio Guglielmo re,</l>
+<l>Che porta sopra l'elmo il sacro impero,</l>
+<l>Sotto l'usbergo la crociata fé,</l>
+</lg>
+<lg>
+<l>E ne la man che in pace tra il sacrato</l>
+<l>Calice ed il boccal pia tentennò</l>
+<l>Porta l'acciar che feudal soldato</l>
+<l>Ne le stragi badesi addottrinò,</l>
+</lg>
+<lg>
+<l>E crolla eretta al ciel la bianca testa...</l>
+<l>O repubblica antica, ov'è il tuo tuon?</l>
+<l>Il cavallo del re, senti, ti pesta,</l>
+<l>E dormi ne la tua polve, o Danton?</l>
+</lg>
+<lg>
+<l>Mescete vino e oblio. La morta gente,</l>
+<l>O epigoni, fra noi non torna più!</l>
+<l>Il turbin ne la voce e nel possente</l>
+<l>Braccio egli avea la muscolar virtù</l>
+</lg>
+<lg>
+<l>Del popol tutto. Oh, il dì più non ritorna</l>
+<l>Ch'ei tauro immane le strambe spezzò,</l>
+<l>E mugghiò ne l'arena, e su le corna</l>
+<l>I regi i preti e gli stranier portò!</l>
+</lg>
+<lg>
+<l>Mescete vino, amici. E sprizzò allora</l>
+<l>Da i cavi di Marat occhi un balen</l>
+<l>Di riso: ei sollevò da l'antro fuora</l>
+<l>La terribile fronte al dì seren.</l>
+</lg>
+<lg>
+<l>Matura ei custodìa nel sen profondo</l>
+<l>L'onta di venti secoli e il terror:</l>
+<l>Quanto di più feroce e di più immondo</l>
+<l>Patîr le plebi a lui stagnava in cor.</l>
+</lg>
+<lg>
+<l>Le stragi sotto il sol disseminate,</l>
+<l>I martìr d'ogni sesso e d'ogni età,</l>
+<l>I corpi infranti e l'alme violate</l>
+<l>E le stalle del conte d'Artoà,</l>
+</lg>
+<lg>
+<l>Tutto ei sentia presente: il sanguinoso</l>
+<l>Occhio rotava in quel vivente orror,</l>
+<l>E chiedea con funèbre urlo angoscioso</l>
+<l>Mille vendette ed un vendicator.</l>
+</lg>
+<lg>
+<l>De l'odio e del dolor l'esperimento</l>
+<l>Il cor gli ottuse e il senso gli acuì:</l>
+<l>Ei fiutò come un cane il tradimento,</l>
+<l>E come tigre ferita ruggì.</l>
+</lg>
+<lg>
+<l>Ma quel che su da l'avvenir salia</l>
+<l>D'orror fremito udì Massimilian,</l>
+<l>E come falciator per la sua via,</l>
+<l>L'occhio ebbe al cielo ed al lavor la man.</l>
+</lg>
+<lg>
+<l>De' solchi pareggiati in su 'l confino</l>
+<l>Il turbine vi attende, o mietitor:</l>
+<l>O mietitori foschi del destino,</l>
+<l>Non fornirete voi l'atro lavor.</l>
+</lg>
+<lg>
+<l>Maledetto sia tu per ogni etade,</l>
+<l>O del reo termidor decimo sol!</l>
+<l>Tu sanguigno ti affacci, e fredda cade</l>
+<l>La bionda testa di Saint–Just al suol.</l>
+</lg>
+<lg>
+<l>Maledetto sia tu da quante sparte</l>
+<l>Famiglie umane ancor piegansi a i re!</l>
+<l>Tu suscitasti in Francia il Bonaparte,</l>
+<l>Tu spegnesti ne i cor virtude e fé.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XVIII</head>
+<head>PER VINCENZO CALDESI</head>
+<head rend="sc">OTTO MESI DOPO LA SUA MORTE</head>
+<lg type="non-definito">
+<lg>
+<l>Dormi, avvolto nel tuo mantel di gloria,</l>
+<l>Dormi, Vincenzio mio:</l>
+<l>De' subdoli e de' fiacchi oggi è l'istoria</l>
+<l>E de i forti l'oblio.</l>
+</lg>
+<lg>
+<l>Deh non conturbi te questo ronzare</l>
+<l>Di menzogne e di vanti!</l>
+<l>No, s'anco le tue zolle attraversare</l>
+<l>Potessero i miei canti</l>
+</lg>
+<lg>
+<l>E su 'l disfatto cuor sonarti come</l>
+<l>La favolosa tromba,</l>
+<l>No, gridar non vorrei di Roma il nome</l>
+<l>Su la tua sacra tomba.</l>
+</lg>
+<lg>
+<l>Pur, se chino su 'l tumolo romito</l>
+<l>Io con gentile orgoglio</l>
+<l>Dir potessi – Vincenzio, risalito</l>
+<l>Abbiamo il Campidoglio, –</l>
+</lg>
+<lg>
+<l>Tu scuoteresti via da le fredde ossa</l>
+<l>Il torpor che vi stagna,</l>
+<l>Tu salteresti su da la tua fossa,</l>
+<l>O leon di Romagna,</l>
+</lg>
+<lg>
+<l>Per rivederla ancor, Roma, a cui 'l verbo</l>
+<l>Di libertà gittasti,</l>
+<l>Per difenderla ancor, Roma, a cui 'l nerbo</l>
+<l>De la vita sacrasti.</l>
+</lg>
+<lg>
+<l>Dormi, povero morto. Ancor la soma</l>
+<l>Ci grava del peccato:</l>
+<l>Impronta Italia domandava Roma,</l>
+<l>Bisanzio essi le han dato.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XIX</head>
+<head>FESTE ED OBLII</head>
+<lg type="non-definito">
+<lg>
+<l>Urlate, saltate, menate gazzarra,</l>
+<l>Rompete la sbarra – del muto dover;</l>
+<l>Da ville e da borghi, da valli e pendici,</l>
+<l>Plaudite a i felici – di oggi e di ier.</l>
+</lg>
+<lg>
+<l>Su, vergini e spose, bramose, baccanti,</l>
+<l>Spogliate l'Italia di lauri e di fior,</l>
+<l>Coprite di serti, di sguardi fiammanti</l>
+<l>Le glorie in parata de i nostri signor.</l>
+</lg>
+<lg>
+<l>Deh come cavalca su gli omeri fieri</l>
+<l>De' baldi lancieri – la vostra virtù!</l>
+<l>O sole di luglio, tra i marmi latini</l>
+<l>A gli aurei spallini – lusinghi anche tu.</l>
+</lg>
+<lg>
+<l>E mobili flutti di fanti e cavalli</l>
+<l>Risuonan pe 'l clivo su 'l fòro latin,</l>
+<l>E il canto superbo di trombe e timballi</l>
+<l>Insulta i silenzi del sacro Aventin.</l>
+</lg>
+<lg>
+<l>Ahi sola de' voti d'un dì la severa</l>
+<l>Mia musa, o Caprera, – riparla con te,</l>
+<l>E, sola e sdegnosa, de l'orgia romana,</l>
+<l>Deserta Mentana, – ti chiede mercé.</l>
+</lg>
+<lg>
+<l>Là il vino, la luce, la nota che freme,</l>
+<l>Ne i nervi, nel sangue risveglian l'ardor:</l>
+<l>Qui trema a la luna con l'aura che geme</l>
+<l>Lo stelo riarso d'un pover fior.</l>
+</lg>
+<lg>
+<l>E altrove la luna del raggio suo puro</l>
+<l>Illumina il giuro – rianima il sì,</l>
+<l>Che mormora a un altro languente vezzosa</l>
+<l>La vedova sposa – del morto ch'è qui,</l>
+</lg>
+<lg>
+<l>O empie insolente la camera mesta</l>
+<l>Svegliando a le cure del dubbio diman</l>
+<l>La madre che in questo bel giorno di festa</l>
+<l>In vano pe' trivi chiedeva del pan.</l>
+</lg>
+</lg>
+</div2>
+
+
+<div2 type="poesia">
+<head>XX</head>
+<head lang="fra">IO TRIUMPHE!</head>
+<lg type="non-definito">
+<lg>
+<l>Dice Furio – Facciam largo a i Camilli</l>
+<l>Che vengon dopo un anno.</l>
+<l>Io de le trombe galliche a gli squilli</l>
+<l>Ritorno, ei fuggiranno. –</l>
+</lg>
+<lg>
+<l>E Mario – Spegner l'oste entro i confini</l>
+<l>Patrii è barbara cosa.</l>
+<l>Trionfo a i nuovi imperador latini,</l>
+<l>a i vinti di Custosa! –</l>
+</lg>
+<lg>
+<l>E Duilio – Tre zattere di legno</l>
+<l>Ed il valor romano</l>
+<l>Bastava. Or fuggo: ci vuol troppo ingegno</l>
+<l>A essere Persano. –</l>
+</lg>
+<lg>
+<l>E Virginio – Che far? Non ho figliuole</l>
+<l>Altre da dare agli Appi.</l>
+<l>Questo mio ferro vecchio or niun lo vuole</l>
+<l>Né men per cavatappi. –</l>
+</lg>
+<lg>
+<l>E Tullio – L'orazion mia per costoro</l>
+<l>È troppo larga o stretta.</l>
+<l>Lasciamo a Stanislao Pasquale il fòro,</l>
+<l>E il senato al Pancetta. –</l>
+</lg>
+<lg>
+<l>E Tacito – O mie storie ispide e tese,</l>
+<l>O mio duro latino,</l>
+<l>Cediamo il posto a l'orvietan marchese</l>
+<l>Al Bianchi e a Pasqualino. –</l>
+</lg>
+<lg>
+<l>E Bruto – Via da questa plebe stolta!</l>
+<l>Mi faria com'a un cane</l>
+<l>Ne' suoi circensi. Almeno ella una volta</l>
+<l>Voleva ancora il pane! –</l>
+</lg>
+<lg>
+<l>E Marc'Aurelio – Con questo po' d'oro</l>
+<l>Che avanza, io non son gonzo.</l>
+<l>Fuggiam, fuggiam, non aspettiam costoro,</l>
+<l>O mio caval di bronzo. –</l>
+</lg>
+<lg>
+<l>Così gli spirti magni entro il latino</l>
+<l>Ciel, di lor fuga mesto.</l>
+<l>Trionfa la Suburra, urla Pasquino</l>
+<l>– Viva l'Italia! io resto.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XXI</head>
+<head>VERSAGLIA</head>
+<head rend="sc">NEL LXXIX ANNIVERSARIO DELLA REPUBBLICA FRANCESE</head>
+<lg type="non-definito">
+<lg>
+<l>Fu tempo, ed in Versaglia un proclamava:</l>
+<l>– Mio quanto cresce in terra e guizza in mar</l>
+<l>E in aer vola. – E il prete seguitava:</l>
+<l>– Popolo, dice Dio: Tu non rubar. –</l>
+</lg>
+<lg>
+<l>E i boschi verdi, e le argentine linfe</l>
+<l>Ridenti in lago o trepide tra i fior,</l>
+<l>E il tuo marmoreo popolo di ninfe,</l>
+<l>Ed i palagi sfolgoranti d'òr,</l>
+</lg>
+<lg>
+<l>Versaglia, sepper quanto in servitude</l>
+<l>Quanto d'infame in signoria si può.</l>
+<l>– Vo' il tuo campo e la donna e la virtude</l>
+<l>Tua – disse un uomo, e niun ripose: No.</l>
+</lg>
+<lg>
+<l>Veniano i giovinetti e le donzelle</l>
+<l>A inginocchiarsi con l'infamia in man,</l>
+<l>E del suo bruto sangue un volgo imbelle</l>
+<l>Murò il parco de' cervi al re cristian.</l>
+</lg>
+<lg>
+<l>Quand'ei dormia, poggiato a un bianco seno,</l>
+<l>Co 'l pugno a l'elsa e in su le teste il piè,</l>
+<l>Tutta la Francia da l'Oceano al Reno</l>
+<l>Era superba di vegliare il re.</l>
+</lg>
+<lg>
+<l>Versaglia, e allor che da un macchiato letto</l>
+<l>Ei procedeva a un addobbato altar,</l>
+<l>Tu d'orgoglio fremevi, e di rispetto</l>
+<l>Vedevi Europa innanzi a lui tremar.</l>
+</lg>
+<lg>
+<l>Ei la gloria e il valore, egli le scuole</l>
+<l>E l'armi, ei l'arte ed ei la verità,</l>
+<l>Egli era tutto in tutti: egli era il sole</l>
+<l>Che il mondo illustra, e non s'accorge e sta.</l>
+</lg>
+<lg>
+<l>Se Dio lui sostenesse o s'ei sostenne</l>
+<l>Dio, non fermaro i suoi sacri orator:</l>
+<l>Lo sanno i vostri morti, o pie Cevenne,</l>
+<l>Che non credevano al suo confessor.</l>
+</lg>
+<lg>
+<l>Il re dal suo lascivo Occhio di bue</l>
+<l>Guardava il mondo, piccolo al suo piè;</l>
+<l>E Dio, mezzan de le nequizie sue,</l>
+<l>Benedicea da l'aureo dòmo il re,</l>
+</lg>
+<lg>
+<l>Benedicea le violette ascose</l>
+<l>Nel velo virginal de la Vallier,</l>
+<l>Benedicea le maritali rose</l>
+<l>Nel petto de la Montespan altier,</l>
+</lg>
+<lg>
+<l>Benedicea d'Engaddi i freschi gigli</l>
+<l>Vedovi in seno de la Maintenon:</l>
+<l>E d'un sorriso il re facea vermigli</l>
+<l>I neri panni del fedele Aron.</l>
+</lg>
+<lg>
+<l>L'ere da le sottane e da i cappelli</l>
+<l>La corte e la cittade allor segnò;</l>
+<l>Il popol, da le fami e da i flagelli;</l>
+<l>Poi da la morte, quando si rizzò.</l>
+</lg>
+<lg>
+<l>E il giorno venne: e ignoti, in un desio</l>
+<l>Di veritade, con opposta fé,</l>
+<l>Decapitaro, Emmanuel Kant, Iddio,</l>
+<l>Massimiliano Robespierre, il re.</l>
+</lg>
+<lg>
+<l>Oggi i due morti sovra il monumento</l>
+<l>Co 'l teschio in mano chiamano pietà,</l>
+<l>Pregando, in nome l'un del sentimento,</l>
+<l>L'altro nel nome de l'autorità.</l>
+</lg>
+<lg>
+<l>E Versaglia a le due carogne infiora</l>
+<l>L'ara ed il soglio de gli antichi dì...</l>
+<l>Oh date pietre a sotterrarli ancora,</l>
+<l>Nere macerie de le Tuglierì.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XXII</head>
+<head>CANTO DELL'ITALIA CHE VA IN CAMPIDOGLIO</head>
+<lg type="non-definito">
+<lg>
+<l>itte, zitte! Che è questo frastuono</l>
+<l>Al lume de la luna?</l>
+<l>Oche del Campidoglio, zitte! Io sono</l>
+<l>L'Italia grande e una.</l>
+</lg>
+<lg>
+<l>Vengo di notte perché il dottor Lanza</l>
+<l>Teme i colpi di sole:</l>
+<l>Ei vuol tener la debita osservanza</l>
+<l>In certi passi, e vuole</l>
+</lg>
+<lg>
+<l>Che non si sbracci in Roma da signore</l>
+<l>Oltre certi cancelli:</l>
+<l>Deh, non fate, oche mie, tanto rumore,</l>
+<l>Che non senta Antonelli.</l>
+</lg>
+<lg>
+<l>Fate più chiasso voi, che i fondatori</l>
+<l>De la prosa borghese,</l>
+<l>Paulo il forte ed Edmondo da i languori</l>
+<l>Il capitan cortese.</l>
+</lg>
+<lg>
+<l><emph>Qua, qua, qua</emph>. Che volete voi? Chiamate</l>
+<l>Il fratel Bertoldino</l>
+<l>O Bernardino? Ei cova, ei ponza, il vate,</l>
+<l>Lo stil nuovo latino.</l>
+</lg>
+<lg>
+<l>S'ell'è per Brenno, o paperi, sprecata</l>
+<l>È omai la guardia. Brava</l>
+<l>Io fui tanto e sottil, che sono entrata</l>
+<l>Quand'egli se ne andava.</l>
+</lg>
+<lg>
+<l>Sì, sì, portavo il sacco a gli zuavi</l>
+<l>E battevo le mani</l>
+<l>Ieri a' Turcòs: oggi i miei bimbi gravi</l>
+<l>Si vestono da ulani.</l>
+</lg>
+<lg>
+<l>Al cappellino, o a l'elmo, in ginocchione</l>
+<l>Sempre: ma lesta e scaltra</l>
+<l>Scoto la polve di un'adorazione</l>
+<l>Per cominciarne un'altra.</l>
+</lg>
+<lg>
+<l>Così da piede a piè figlia di Roma</l>
+<l>I miei baci io trascino,</l>
+<l>E giù nel fango la turrita chioma</l>
+<l>Con l'astro annesso inchino</l>
+</lg>
+<lg>
+<l>Per raccattar quel che sventura o noia</l>
+<l>Altrui mi lascia andare.</l>
+<l>Così la eredità vecchia di Troia</l>
+<l>Potei raccapezzare</l>
+</lg>
+<lg>
+<l>A frusto a frusto, via tra una pedata</l>
+<l>E l'altra, su bel bello:</l>
+<l>Il sangue non è acqua; e m'ha educata</l>
+<l>Nicolò Machiavello.</l>
+</lg>
+<lg>
+<l>Ora, se date il passo a la gran madre,</l>
+<l>Oche, io vo in Campidoglio.</l>
+<l>Cittadino roman vo' fare il padre</l>
+<l>Cristoforo; e mi voglio</l>
+</lg>
+<lg>
+<l>Cingere i lombi di valore, e torte</l>
+<l>In rassegnazione,</l>
+<l>Oche, io voglio soffrir sino a la morte</l>
+<l>Per la mia salvazione.</l>
+</lg>
+<lg>
+<l>Voglio soffrire i Taicùn e i Lami,</l>
+<l>E il talamo e la culla</l>
+<l>Aurea de' muli, e le contate fami,</l>
+<l>E i motti del Fanfulla.</l>
+</lg>
+<lg>
+<l>Vo' alloggiar co 'l possibile decoro</l>
+<l>La gloria del Cialdini,</l>
+<l>Cantar l'idillio de l'età de l'oro</l>
+<l>Di Saturno Bombrini;</l>
+</lg>
+<lg>
+<l>E vo' l'umiltà mia gualdrappare</l>
+<l>Di stil manzoniano,</l>
+<l>E recitar l'uffizio militare</l>
+<l>D'Edmondo il capitano</l>
+</lg>
+<lg>
+<l>Per non cader in tentazion. La prosa</l>
+<l>Di Paulo Fambri, il grosso</l>
+<l>Voltèr de le lagune, è spiritosa</l>
+<l>Troppo per il mio dosso:</l>
+</lg>
+<lg>
+<l>Gli analfabeti miei, che la lettura</l>
+<l>Di poco han superato,</l>
+<l>Preferiscon d'assai la dicitura</l>
+<l>Più svelta del cognato.</l>
+</lg>
+<lg>
+<l>E così d'anno in anno, e di ministro</l>
+<l>In ministro, io mi scarco</l>
+<l>Del centro destro su 'l centro sinistro,</l>
+<l>E 'l mio lunario sbarco:</l>
+</lg>
+<lg>
+<l>Fin che il Sella un bel giorno, al fin del mese,</l>
+<l>Dato un calcio a la cassa,</l>
+<l>Venda a un lord archeologo inglese</l>
+<l>L'augusta mia carcassa.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XXIII</head>
+<head>GIUSEPPE MAZZINI</head>
+<lg type="sonetto">
+<lg>
+<l>Qual da gli aridi scogli erma su 'l mare</l>
+<l>Genova sta, marmoreo gigante,</l>
+<l>Tal, surto in bassi dì, su 'l fluttuante</l>
+<l>Secolo, ei grande, austero, immoto appare.</l>
+</lg>
+<lg>
+<l>Da quelli scogli, onde Colombo infante</l>
+<l>Nuovi pe 'l mar vedea mondi spuntare,</l>
+<l>Egli vide nel ciel crepuscolare</l>
+<l>Co 'l cuor di Gracco ed il pensier di Dante</l>
+</lg>
+<lg>
+<l>La terza Italia; e con le luci fise</l>
+<l>A lei trasse per mezzo un cimitero,</l>
+<l>E un popol morto dietro a lui si mise.</l>
+</lg>
+<lg>
+<l>Esule antico, al ciel mite e severo</l>
+<l>Leva ora il volto che giammai non rise,</l>
+<l>– Tu sol – pensando – o ideal, sei vero.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XXIV</head>
+<head>ALLA MORTE DI GIUSEPPE MAZZINI</head>
+<lg type="non-definito">
+<lg>
+<l>Quando – Egli è morto – dissero,</l>
+<l>Io, che qui sola eterna</l>
+<l>Credo la morte, un fremito</l>
+<l>Correr sentii l'interna</l>
+<l>Vita ed al cuore assiderarmi un gel.</l>
+<l>Immortal lui credeva. E gli occhi torbidi</l>
+<l>Volsi, chiedendo e dubitando, al ciel.</l>
+</lg>
+<lg>
+<l>Ei che d'Italia a l'anime</l>
+<l>Fu quel ch'a i corpi il sole,</l>
+<l>Del quale udiva io parvolo</l>
+<l>Mirabili parole</l>
+<l>Sì come d'un fatidico</l>
+<l>Spirito tra il passato e l'avvenir,</l>
+<l>Egli il cui nome appresermi</l>
+<l>Con quei d'Italia, ei non potea morir.</l>
+</lg>
+<lg>
+<l>Guardai. D'Italia stavano</l>
+<l>Le ville i templi i fòri,</l>
+<l>Da le sue torri a l'aure</l>
+<l>Splendeano i tre colori,</l>
+<l>Fremeano i fiumi i popoli</l>
+<l>Ed i pensier con onda alterna, il sol</l>
+<l>Rideva a l'alpi al doppio mare a l'isole</l>
+<l>Come pur ieri... Ed era morto ei sol.</l>
+</lg>
+<lg>
+<l>Passato era de i secoli</l>
+<l>Nel dì trasfigurante,</l>
+<l>A i mondi onde riguardano</l>
+<l>Camillo e Gracco e Dante,</l>
+<l>Grandi ombre con immobili</l>
+<l>Occhi di stelle a le fluenti età,</l>
+<l>E riposa Cristoforo</l>
+<l>Colombo e Galileo contempla e sta.</l>
+<l><add resp="ed">....................</add></l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XXV</head>
+<head>A UN HEINIANO D'ITALIA</head>
+<lg type="non-definito">
+<lg>
+<l>Quando a i piaceri in mezzo od a i tormenti</l>
+<l>Arrigo Heine crollava</l>
+<l>La bionda chioma ed a i tedeschi venti</l>
+<l>Le sue strofe gittava,</l>
+</lg>
+<lg>
+<l>E le furie e le grazie de la prosa</l>
+<l>Folli feroci e schiette</l>
+<l>Ei liberava da la man nervosa</l>
+<l>Qual gruppo di saette,</l>
+</lg>
+<lg>
+<l>L'ombra del suo pensiero, ombra di morte,</l>
+<l>Da i suon balzava fuora,</l>
+<l>E con la scure in man battea le porte</l>
+<l>Gridando – È l'ora, è l'ora! –</l>
+</lg>
+<lg>
+<l>Dal viso del poeta atroce e bello</l>
+<l>Pendea, ridendo, il dio</l>
+<l>Thor, e chiedea, brandendo il gran martello,</l>
+<l>– Ch'io picchi, o figliuol mio?</l>
+</lg>
+<lg>
+<l>Sotto il vento de' cantici immortali</l>
+<l>Piegavano croscianti</l>
+<l>Le selve de le vecchie cattedrali</l>
+<l>Con le lor guglie e i santi:</l>
+</lg>
+<lg>
+<l>Rintoccava, da i culmini ondeggiando,</l>
+<l>A morto ogni campana,</l>
+<l>E Carlo Magno s'avvolgea tremando</l>
+<l>Nel lenzuol d'Aquisgrana.</l>
+</lg>
+<lg>
+<l>Quando toccate, o tisicuzzo, voi</l>
+<l>Il chitarrin cortese,</l>
+<l>Mugghian d'assenso tutti i serbatoi</l>
+<l>Del mio dolce paese.</l>
+</lg>
+<lg>
+<l>Le canzonette, assettatuzze e matte,</l>
+<l>Ed isgrammaticate</l>
+<l>Borghesemente, fan cagliare il latte</l>
+<l>E tremar le giuncate.</l>
+</lg>
+<lg>
+<l>Deh, come erra fantastico il belato</l>
+<l>Vostro via per l'acerba</l>
+<l>Primavera! O montone, al prato, al prato!</l>
+<l>O agnello, a l'erba, a l'erba!</l>
+</lg>
+<lg>
+<l>Il garofolo giallo e la viola</l>
+<l>Vi sorridon gl'inviti:</l>
+<l>Ah ghiottoncello, a voi fanno più gola</l>
+<l>I cavoli fioriti?</l>
+</lg>
+<lg>
+<l>Brucate, ruminate, meriggiate</l>
+<l>E belate a i pastori;</l>
+<l>E, se potete, i bei cornetti armate</l>
+<l>Pe' i lascivetti amori.</l>
+</lg>
+<lg>
+<l>Con due scambietti poi l'ebete grifo</l>
+<l>Ponete, oh voi beato!,</l>
+<l>Su le ginocchia a Cloe, se non ha schifo</l>
+<l>Del puzzo di castrato:</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XXVI</head>
+<head>PER IL QUINTO ANNIVERSARIO DELLA BATTAGLIA DI MENTANA</head>
+<lg type="non-definito">
+<lg>
+<l>Ogni anno, allor che lugubre</l>
+<l>L'ora de la sconfitta</l>
+<l>Di Mentana su' memori</l>
+<l>Colli volando va,</l>
+<l>I colli e i pian trasalgono</l>
+<l>E fieramente dritta</l>
+<l>Su i nomentani tumuli</l>
+<l>La morta schiera sta.</l>
+</lg>
+<lg>
+<l>Non son nefandi scheletri;</l>
+<l>Sono alte forme e belle,</l>
+<l>Cui roseo dal crepuscolo</l>
+<l>Ondeggia intorno un vel:</l>
+<l>Per le ferite ridono</l>
+<l>Pie le virginee stelle,</l>
+<l>Lievi a le chiome avvolgonsi</l>
+<l>Le nuvole del ciel.</l>
+</lg>
+<lg>
+<l>– Or che le madri gemono</l>
+<l>Sovra gl'insonni letti,</l>
+<l>Or che le spose sognano</l>
+<l>Il nostro spento amor,</l>
+<l>Noi rileviam dal Tartaro</l>
+<l>I bianchi infranti petti,</l>
+<l>Per salutarti, o Italia,</l>
+<l>Per rivederti ancor.</l>
+</lg>
+<lg>
+<l>Qual ne l'incerto tramite</l>
+<l>Gittava il cavaliero</l>
+<l>Il verde manto serico</l>
+<l>De la sua donna al piè,</l>
+<l>Per te gittammo l'anima</l>
+<l>Ridenti al fato nero;</l>
+<l>E tu pur vivi immemore</l>
+<l>Di chi moria per te.</l>
+</lg>
+<lg>
+<l>Ad altri, o dolce Italia,</l>
+<l>Doni i sorrisi tuoi;</l>
+<l>Ma i morti non obliano</l>
+<l>Ciò che più in vita amâr;</l>
+<l>Ma Roma è nostra, i vindici</l>
+<l>Del nome suo siam noi:</l>
+<l>Voliam su 'l Campidoglio,</l>
+<l>Voliamo a trionfar. –</l>
+</lg>
+<lg>
+<l>Va come fósca nuvola</l>
+<l>La morta compagnia,</l>
+<l>E al suo passare un fremito</l>
+<l>Gl'itali petti assal;</l>
+<l>Ne le auree veglie tacciono</l>
+<l>La luce e l'armonia,</l>
+<l>E sordo il tuon rimormora</l>
+<l>Su l'alto Quirinal.</l>
+</lg>
+<lg>
+<l>Ma i cavalier d'industria,</l>
+<l>Che a la città di Gracco</l>
+<l>Trasser le pance nitide</l>
+<l>E l'inclita viltà,</l>
+<l>Dicon – Se il tempo brontola,</l>
+<l>Finiam d'empire il sacco;</l>
+<l>Poi venga anche il diluvio:</l>
+<l>Sarà quel che sarà.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XXVII</head>
+<head>A MESSER CANTE GABRIELLI DA GUBBIO</head>
+<head rend="sc">PODESTÀ DI FIRENZE NEL MCCCI</head>
+<lg type="sonetto">
+<lg>
+<l>Molto mi meraviglio, o messer Cante,</l>
+<l>Podestà venerando e cavaliero,</l>
+<l>Non v'abbia Italia ancor piantato intiero</l>
+<l>In marmo di Carrara e dritto stante</l>
+</lg>
+<lg>
+<l>Sur una piazza, ove al bel ceffo austero</l>
+<l>Vostro passeggi il popolo d'avante,</l>
+<l>O primo, o solo ispirator di Dante,</l>
+<l>Quando ladro il dannaste e barattiero.</l>
+</lg>
+<lg>
+<l>I ceppi per a lui la man tagliare</l>
+<l>Voi tenevate presti; ei ne l'inferno</l>
+<l>Scampò, gloria e vendetta a ricercare.</l>
+</lg>
+<lg>
+<l>Spongon or birri e frati il suo quaderno,</l>
+<l>E quel povero veltro ha un bel da fare</l>
+<l>A cacciar per la chiesa e pe 'l governo.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XXVIII</head>
+<head>LA SACRA DI ENRICO QUINTO</head>
+<lg type="non-definito">
+<lg>
+<l>Quando cadono le foglie, quando emigrano gli augelli</l>
+<l>E fiorite a' cimiteri son le pietre de gli avelli,</l>
+</lg>
+<lg>
+<l>Monta in sella Enrico quinto il delfin da' capei grigi,</l>
+<l>E cavalca a grande onore per la sacra di Parigi.</l>
+</lg>
+<lg>
+<l>Van con lui tutt'i fedeli, van gli abbati ed i baroni:</l>
+<l>Quanta festa di colori, di cimieri e di pennoni!</l>
+</lg>
+<lg>
+<l>Monta Enrico un caval bianco, presso ha il bianco suo stendardo</l>
+<l>Che coprì morenti in campo San Luigi e il pro' Baiardo.</l>
+</lg>
+<lg>
+<l>Viva il re! Ma il ciel di Francia non conosce il sacro segno;</l>
+<l>E la seta vergognosa si ristringe intorno al legno.</l>
+</lg>
+<lg>
+<l>Più che mai su gli aurei gigli bigio il cielo e freddo appare:</l>
+<l>Con la pace de gli scheltri stanno gli alberi a guardare;</l>
+</lg>
+<lg>
+<l>E gli augelli, senza canto, senza rombo, tristi e neri,</l>
+<l>Guizzan come frecce stanche tra i pennoni ed i cimieri.</l>
+</lg>
+<lg>
+<l>Viva il re! Ma i lieti canti ne le trombe e ne le gole</l>
+<l>Arrochiscono ed aggelano su le bocche le parole.</l>
+</lg>
+<lg>
+<l>Arrochiscono; ed un rantolo faticoso d'agonia</l>
+<l>Par che salga su dai petti de l'allegra compagnia.</l>
+</lg>
+<lg>
+<l>Cresce l'ombra de le nubi, si distende su la terra,</l>
+<l>Ed un'umida tenèbra quel corteggio avvolge e serra.</l>
+</lg>
+<lg>
+<l>Dan di sprone i cavalieri, i cavalli springan salti:</l>
+<l>Sotto l'ugne percotenti suon non rendono i basalti.</l>
+</lg>
+<lg>
+<l>Manca l'aria; e, come attratti i cavalli e le persone</l>
+<l>Ne la plumbea d'un sogno infinita regione,</l>
+</lg>
+<lg>
+<l>Arrembando ed arrancando per gli spazi sordi e bigi</l>
+<l>Marcian con le immote insegne per entrar a San Dionigi.</l>
+</lg>
+<lg>
+<l>Viva il re! Giù da i profondi sotterranei de la chiesa</l>
+<l>Questa voce di saluto come un brontolo fu intesa:</l>
+</lg>
+<lg>
+<l>E da l'ossa che in quei campi la repubblica disperse</l>
+<l>Una nube di fumacchi si formava, e fuori emerse</l>
+</lg>
+<lg>
+<l>Uno stuolo di fantasmi: donne, pargoli, vegliardi,</l>
+<l>Conti, vescovi, marchesi, duchi, monache, bastardi;</l>
+</lg>
+<lg>
+<l>Tutti principi del sangue: tronchi, mózzi, cincischiati,</l>
+<l>I zendadi a fiordiligi stranamente avvoltolati.</l>
+</lg>
+<lg>
+<l>Entro i teschi aguzzi e mondi che parean d'avorio fino</l>
+<l>Luccicavano le occhiaie d'un sottil fuoco azzurrino.</l>
+</lg>
+<lg>
+<l>Qual brandiva, salutando, un cappel bianco piumato</l>
+<l>Con un gracil moncherino che solo eragli avanzato;</l>
+</lg>
+<lg>
+<l>Qual con una tibia sola disegnava un minuetto;</l>
+<l>Qual con mezza una mascella digrignava un sorrisetto.</l>
+</lg>
+<lg>
+<l>Tutt'a un tratto quel movente di maligni ossami stuolo</l>
+<l>Scricchiolando e sgretolando si levò per l'aria a volo;</l>
+</lg>
+<lg>
+<l>Ed intorno a l'orifiamma dispiegante i gigli gialli</l>
+<l>Sgambettando e cianchettando intessea carole e balli,</l>
+</lg>
+<lg>
+<l>Ed intorno a l'orifiamma sventolante i gigli d'oro</l>
+<l>Sibilando e bofonchiando intonava questo coro.</l>
+</lg>
+<lg>
+<l>– Ben ne venga il delfin grigio nel reame ove a' Borboni</l>
+<l>Né pur morte guarentisce fide o pie le sue magioni.</l>
+</lg>
+<lg>
+<l>Passerem dal Ponte Nuovo. Venga a sciôr la sua promessa</l>
+<l>Co 'l re grande che Parigi guadagnò per una messa,</l>
+</lg>
+<lg>
+<l>E nel marmo anche par senta co' mustacchi intirizziti</l>
+<l>Caldo il colpo e freddo il ghiaccio del pugnal de' gesuiti.</l>
+</lg>
+<lg>
+<l>Marceremo a Nostra Donna. Mitriati e porporati</l>
+<l>Tre arcivescovi i lor sonni per accoglierne han lasciati.</l>
+</lg>
+<lg>
+<l>Su l'entrata sta solenne con l'asperges d'oro in pugno</l>
+<l>Quel che tinse del suo sangue gli arsi lastrici di giugno.</l>
+</lg>
+<lg>
+<l>In disparte ginocchioni veglia a dire le secrete</l>
+<l>Quel che spento fu in sacrato per le mani d'un suo prete.</l>
+</lg>
+<lg>
+<l>Benedice la corona del figliuol di San Luigi</l>
+<l>Quel che giacque sotto il piombo del comune di Parigi.</l>
+</lg>
+<lg>
+<l>Tristi cose. Al men tuo padre (son cortesi i giacobini)</l>
+<l>Nel palchetto d'un teatro morì al suon de' violini.</l>
+</lg>
+<lg>
+<l>Coprì l'onda de l'orchestra la real confessione,</l>
+<l>Salì Cristo in sacramento tra le maschere al veglione.</l>
+</lg>
+<lg>
+<l>Farem gala a quel teatro noi borbonica tregenda:</l>
+<l>Da quel palco (Iddio ti salvi!) muove, o re, la tua leggenda. –</l>
+</lg>
+<lg>
+<l>Così strilla sghignazzando via pe'l grigio aere la scorta.</l>
+<l>Ma cavalca il quinto Enrico dritto e fermo in vèr la porta.</l>
+</lg>
+<lg>
+<l>Su la porta di Parigi co 'l bacile d'oro in mano</l>
+<l>A l'omaggio de le chiavi sta parato un castellano.</l>
+</lg>
+<lg>
+<l>Ei non guarda, non fa cenno di saluto, non procede:</l>
+<l>Un'antica e fatal noia su le grosse membra siede.</l>
+</lg>
+<lg>
+<l>Erto il capo e 'l guardo teso, ma l'orgoglio non vi raggia:</l>
+<l>Una tenue per il collo striscia rossa gli viaggia.</l>
+</lg>
+<lg>
+<l>Non pare ordine o collare che il re doni al suo fedele:</l>
+<l>Non è quel di San Luigi, non è quel di San Michele.</l>
+</lg>
+<lg>
+<l>Al passar d'Enrico, ei muove a test'alta e regalmente;</l>
+<l>Fende in mezzo il gran corteggio: ciascun vede e niun lo sente.</l>
+</lg>
+<lg>
+<l>È a la staffa già d'Enrico; ma non piega ad atto umìle,</l>
+<l>E tien dritto e fermo il collo mentre leva su il bacile.</l>
+</lg>
+<lg>
+<l>– Ben ne venga mio nipote, l'ultim'uom de la famiglia!</l>
+<l>Queste chiavi ch'io ti porgo fur catene a la Bastiglia.</l>
+</lg>
+<lg>
+<l>Tali al Tempio io le temprava. – Con l'offerta fa l'inchino</l>
+<l>Ed il capo de l'offrente rotolava nel bacino;</l>
+</lg>
+<lg>
+<l>Ed il capo di Luigi con l'immobile occhio estinto</l>
+<l>Boccheggiante nel bacino riguardava Enrico quinto.</l>
+</lg>
+</lg>
+</div2>
+
+<div2 type="poesia">
+<head>XXIX</head>
+<head>A PROPOSITO DEL PROCESSO FADDA</head>
+<div3 type="poesia">
+<head>I</head>
+<lg type="non-definito">
+<lg>
+<l>Da i gradi alti del circo ammantellati</l>
+<l>Di porpora, esse ritte</l>
+<l>Ne i lunghi bissi, gli occhi dilatati</l>
+<l>Le pupille in giù fitte,</l>
+</lg>
+<lg>
+<l>Abbassavano il pollice nervoso</l>
+<l>De la mano gentile.</l>
+<l>Ardea tra bianche nuvole estuoso</l>
+<l>Il sol primaverile</l>
+</lg>
+<lg>
+<l>Su le superbe, e ne la nera chioma</l>
+<l>Mettea lampeggiamenti.</l>
+<l>Fremea la lupa nutrice di Roma</l>
+<l>Ne i lor piccoli denti,</l>
+</lg>
+<lg>
+<l>Bianchi, affilati, tra le labbra rosse</l>
+<l>Contratte in fiero ghigno.</l>
+<l>Un selvatico odor su da le fosse</l>
+<l>Vaporava maligno.</l>
+</lg>
+<lg>
+<l>Era il sangue del mondo che fervea</l>
+<l>Con lievito mortale,</l>
+<l>Su cui provava già Nemesi dea</l>
+<l>Al vol prossimo l'ale.</l>
+</lg>
+<lg>
+<l>E le nipoti di Camilla, pria</l>
+<l>Di cedere le mani</l>
+<l>A i ferri, assaporavan l'agonia</l>
+<l>De' cerulei Germani.</l>
+</lg>
+</lg>
+</div3>
+
+<div3 type="poesia">
+<head>II</head>
+<lg type="non-definito">
+<lg>
+<l>Voi sgretolate, o belle, i pasticcini</l>
+<l>Tra il palco e la galera;</l>
+<l>Ed intente a fornir di cittadini</l>
+<l>La nuova italica èra,</l>
+</lg>
+<lg>
+<l>Studiate, e gli occhi mobili dan guizzi</l>
+<l>Di feroce ideale,</l>
+<l>Gli abbracciamenti de' cavallerizzi</l>
+<l>Tra i colpi di pugnale;</l>
+</lg>
+<lg>
+<l>E palpate con gli occhi abbracciatori</l>
+<l>Le schiene ed i toraci,</l>
+<l>Mentre rei gerghi tra sucidi odori</l>
+<l>Testimonian su i baci.</l>
+</lg>
+<lg>
+<l>Poi, se un puttin di marmo avvien che mostri</l>
+<l>Qualcosellina al sole,</l>
+<l>Protesterete con furor d'inchiostri,</l>
+<l>Con fulmin di parole.</l>
+</lg>
+<lg>
+<l>E pur ieri cullaste il figliuoletto</l>
+<l>Tra i notturni fantasmi</l>
+<l>Co 'l piè male proteso fuor del letto</l>
+<l>Ne gli adulteri spasmi.</l>
+</lg>
+<lg>
+<l>Ma voi siete cristiane, o Maddalene!</l>
+<l>Foste da' preti a scuola.</l>
+<l>Siete moderne! avete ne le vene</l>
+<l>L'Aretino e il Loiola.</l>
+</lg>
+
+</lg>
+</div3>
+</div2>
+
+<div2 type="poesia">
+<head>XXX</head>
+<head>IL CANTO DELL'AMORE</head>
+<lg type="non-definito">
+<lg>
+<l>Oh bella a' suoi be' dì Rocca Paolina</l>
+<l>Co' baluardi lunghi e i sproni a sghembo!</l>
+<l>La pensò Paol terzo una mattina</l>
+<l>Tra il latin del messale e quel del Bembo.</l>
+</lg>
+<lg>
+<l>– Quel gregge perugino in tra i burroni</l>
+<l>Troppo volentier – disse – mi si svia.</l>
+<l>Per ammonire, il padre eterno ha i tuoni,</l>
+<l>Io suo vicario avrò l'artiglieria.</l>
+</lg>
+<lg>
+<l><foreign lang="lat">Coelo tonantem</foreign> canta Orazio, e Dio</l>
+<l>Parla tra i nembi sovra l'aquilon.</l>
+<l>Io dirò co' i cannoni: O gregge mio,</l>
+<l>Torna a i paschi d'Engaddi e di Saron.</l>
+</lg>
+<lg>
+<l>Ma, poi che noi rinnovelliamo Augusto,</l>
+<l>Odi, Sangallo: fammi tu un lavoro</l>
+<l>Degno di Roma, degno del tuo gusto,</l>
+<l>E del ponteficato nostro d'oro. –</l>
+</lg>
+<lg>
+<l>Disse; e il Sangallo a la fortezza i fianchi</l>
+<l>Arrotondò qual di fiorente sposa:</l>
+<l>Gittolle attorno un vel di marmi bianchi,</l>
+<l>Cinse di torri un serto a l'orgogliosa.</l>
+</lg>
+<lg>
+<l>La cantò il Molza in distici latini;</l>
+<l>E il paracleto ne la sua virtù</l>
+<l>Con più che sette doni a i perugini</l>
+<l>In bombe e da' mortai pioveva giù.</l>
+</lg>
+<lg>
+<l>Ma il popolo è, ben lo sapete, un cane,</l>
+<l>E i sassi addenta che non può scagliare,</l>
+<l>E specialmente le sue ferree zane</l>
+<l>Gode ne le fortezze esercitare;</l>
+</lg>
+<lg>
+<l>E le sgretola; e poi lieto si stende</l>
+<l>Latrando su le pietre ruinate,</l>
+<l>Fin che si leva e a correr via riprende</l>
+<l>Verso altri sassi ed altre bastonate.</l>
+</lg>
+<lg>
+<l>Così fece in Perugia. Ove l'altera</l>
+<l>Mole ingombrava di vasta ombra il suol</l>
+<l>Or ride amore e ride primavera,</l>
+<l>Ciancian le donne ed i fanciulli al sol.</l>
+</lg>
+<lg>
+<l>E il sol nel radiante azzurro immenso</l>
+<l>Fin de gli Abruzzi al biancheggiar lontano</l>
+<l>Folgora, e con desio d'amor più intenso</l>
+<l>Ride a' monti de l'Umbria e al verde piano.</l>
+</lg>
+<lg>
+<l>Nel roseo lume placidi sorgenti</l>
+<l>I monti si rincorrono tra loro,</l>
+<l>Sin che sfumano in dolci ondeggiamenti</l>
+<l>Entro i vapori di viola e d'oro.</l>
+</lg>
+<lg>
+<l>Forse, Italia, è la tua chioma fragrante</l>
+<l>Nel talamo, tra' due mari, seren,</l>
+<l>Che sotto i baci de l'eterno amante</l>
+<l>Ti freme effusa in lunghe anella al sen?</l>
+</lg>
+<lg>
+<l>Io non so che si sia, ma di zaffiro</l>
+<l>Sento ch'ogni pensiero oggi mi splende,</l>
+<l>Sento per ogni vena irmi il sospiro</l>
+<l>Che fra la terra e il ciel sale e discende.</l>
+</lg>
+<lg>
+<l>Ogni aspetto novel con una scossa</l>
+<l>D'antico affetto mi saluta il core,</l>
+<l>E la mia lingua per sé stessa mossa</l>
+<l>Dice a la terra e a al cielo, Amore, amore.</l>
+</lg>
+<lg>
+<l>Son io che il cielo abbraccio, o da l'interno</l>
+<l>Mi riassorbe l'universo in sé?...</l>
+<l>Ahi, fu una nota del poema eterno</l>
+<l>Quel ch'io sentiva e picciol verso or è.</l>
+</lg>
+<lg>
+<l>Da i vichi umbri che foschi tra le gole</l>
+<l>De l'Apennino s'amano appiattare;</l>
+<l>Da le tirrene acròpoli che sole</l>
+<l>Stan su i fioriti clivi a contemplare;</l>
+</lg>
+<lg>
+<l>Da i campi onde tra l'armi e l'ossa arate</l>
+<l>La sventura di Roma ancor minaccia;</l>
+<l>Da le ròcche tedesche appollaiate</l>
+<l>Sì come falchi a meditar la caccia;</l>
+</lg>
+<lg>
+<l>Da i palagi del popol che sfidando</l>
+<l>Surgon neri e turriti incontro a lor;</l>
+<l>Da le chiese che al ciel lunghe levando</l>
+<l>Marmoree braccia pregano il Signor;</l>
+</lg>
+<lg>
+<l>Da i borghi che s'affrettan di salire</l>
+<l>Allegri verso la cittade oscura,</l>
+<l>Come villani ch'hanno da partire</l>
+<l>Un buon raccolto dopo mietitura;</l>
+</lg>
+<lg>
+<l>Da i conventi tra i borghi e le cittadi</l>
+<l>Cupi sedenti al suon de le campane</l>
+<l>Come cucùli tra gli alberi radi</l>
+<l>Cantanti noie ed allegrezze strane;</l>
+</lg>
+<lg>
+<l>Da le vie, da le piazze gloriose,</l>
+<l>Ove, come del maggio ilare a i dì</l>
+<l>Boschi di querce e cespiti di rose,</l>
+<l>La libera de' padri arte fiorì;</l>
+</lg>
+<lg>
+<l>Per le tenere verdi mèssi al piano,</l>
+<l>Pe' vigneti su l'erte arrampicati,</l>
+<l>Pe' laghi e' fiumi argentei lontano,</l>
+<l>Pe' boschi sopra i vertici nevati,</l>
+</lg>
+<lg>
+<l>Pe' casolari al sol lieti fumanti</l>
+<l>Tra stridor di mulini e di gualchiere,</l>
+<l>Sale un cantico solo in mille canti,</l>
+<l>Un inno in voce di mille preghiere:</l>
+</lg>
+<lg>
+<l>– Salute, o genti umane affaticate!</l>
+<l>Tutto trapassa e nulla può morir.</l>
+<l>Noi troppo odiammo e sofferimmo. Amate.</l>
+<l>Il mondo è bello e santo è l'avvenir. –</l>
+</lg>
+<lg>
+<l>Che è che splende su da' monti, e in faccia</l>
+<l>Al sole appar come novella aurora?</l>
+<l>Di questi monti per la rosea traccia</l>
+<l>Passeggian dunque le madonne ancora?</l>
+</lg>
+<lg>
+<l>Le madonne che vide il Perugino</l>
+<l>Scender ne' puri occasi de l'aprile,</l>
+<l>E le braccia, adorando, in su 'l bambino</l>
+<l>Aprir con deità così gentile?</l>
+</lg>
+<lg>
+<l>Ell'è un'altra madonna, ell'è un'idea</l>
+<l>Fulgente di giustizia e di pietà:</l>
+<l>Io benedico chi per lei cadea,</l>
+<l>Io benedico chi per lei vivrà.</l>
+</lg>
+<lg>
+<l>Che m'importa di preti e di tiranni?</l>
+<l>Ei son più vecchi de' lor vecchi dèi.</l>
+<l>Io maledissi al papa or son dieci anni,</l>
+<l>Oggi co 'l papa mi concilierei.</l>
+</lg>
+<lg>
+<l>Povero vecchio, chi sa non l'assaglia</l>
+<l>Una deserta volontà d'amare!</l>
+<l>Forse ei ripensa la sua Sinigaglia</l>
+<l>Sì bella a specchio de l'adriaco mare.</l>
+</lg>
+<lg>
+<l>Aprite il Vaticano. Io piglio a braccio</l>
+<l>Quel di sé stesso antico prigionier.</l>
+<l>Vieni: a la libertà brindisi io faccio:</l>
+<l>Cittadino Mastai, bevi un bicchier!</l>
+</lg>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

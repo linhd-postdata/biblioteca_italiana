@@ -1,0 +1,3636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Alcune poesie di Ripano Eupilino</title>
+      <author>Giuseppe Parini</author>
+    </titleStmt>
+    <extent>132 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000102</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le poesie...</title>
+        <author>Parini, Giuseppe</author>
+        <editor id="ed">Mazzali, Ettore</editor>
+        <publisher>Ceschina</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date>1968</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>700</date>
+    </creation>
+    <langUsage><language id="ita"/><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.6 - POESIA ITALIANA. 1748-1814</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-07-08T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Gabriele Masini</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-07-14T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 type="introduzione">
+<head>A' LEGGITORI</head>
+<p>Io parrò forse troppo arrischiato mandando al Pubblico
+questa piccola parte delle mie Rime in tempo che, essendo
+ogni maniera di letteratura al suo colmo venuta, ogni
+leggier macchia che in un libro si trovi vien da giudiziosi
+uomini conosciuta e ripresa. Ma chiunque vorrà por mente al
+fine ch'io mi son proposto e alla cautela da me usata
+pubblicandole, credo che non potrà di soverchia arditezza o
+temerità ragionevolmente accusarmi. Perciocché né sciocca
+pompa di comparir tra' saggi né vano disio di lode né verun
+altro mio consimil pensiere mi ha confortato a dar fuori
+questo picciol libretto; ma puramente una cotal mia
+vaghezza, di saper dal Pubblico, siccome io penso, giusto e
+sincero estimator dell'opere altrui, quale io sia per
+riuscir nel poetico mestiere, mi ha stimolato a far ciò.
+Perocché, leggendo gli amatori degli ameni studii queste
+Poesie, e ora per l'un capo biasimandole cortesemente, e ora
+per l'altro graziosamente commendandole, e le lodi o i
+biasimi loro pervenendomi all'orecchio, io potrò, ove gli
+uni all'altre sopravanzino, lo incominciato cammin
+tralasciare, e dare alle Muse un eterno addio, e ove al
+contrario questi sieno soperchiati da quelle, animarmi a
+salir con più vigore il sacro giogo e procacciarmi qualche
+fronda di lauro in Parnaso. Per tal motivo io ho voluto
+scêrre, da' miei poetici lavori, varii di vario argomento e
+di varie spezie; acciocché, veggendoli, il Pubblico mi
+sappia poi dire a qual maniera di comporre io debba
+appigliarmi, e quale intralasciare. Voi ci troverete
+addunque nel presente volumetto componimenti e sacri e
+morali e amorosi e pastorali e pescatorii e piacevoli e
+satirici e di molte altre guise, i quali, ove di poco valor
+fossero, colla loro varietà almeno sarannovi di noia minore.
+La qual noia medesima io mi sono studiato a mio poter di tôr
+via, con lo scêrre sì poco numero di componimenti, non
+volendo colla moltitudine de' miei pessimi versi il secolo
+nostro incomodare. Senzaché io non sento poi così bassamente
+di me medesimo, che non confidi poterci essere in questo
+libro parecchi lavori che, qual colla limatezza, alcuno
+colla novità, tale coll'evidenza, e tal altro col
+particolare e nuovo suo gusto, in vece di noia, diletto vi
+porgeranno. Il che quantunque sia per negarmisi da certi
+matti abbaiatori che o per astio o per altra cotal loro
+passione vorranno che io non ci abbia nulla di buono; spero
+che voi, onesti e discreti lettori, confesserete esser vero,
+siccome alla prova potete conoscer leggendo. Al quale
+effetto io, senza più aggiugner, vi lascio. State sani.
+</p>
+<p>Tutte l'espressioni, che a qualunque orecchio più
+delicato possano sonar male, si attribuiscano alla libertà
+della Poesia, sia Amorosa che Satirica, Berniesca o di
+qual'altra specie essa sia, e non già a' sentimenti
+dell'animo dell'Autore, che crede da buon cattolico, e in
+ogni luogo e tempo vuol essere figliuolo ubbidiente della
+Santa Chiesa.
+</p></div1>
+<div1 type="poesia">
+<head>I</head>
+<lg type="sonetto">
+<lg>
+<l>Voi, che sparsi ascoltate in rozzi accenti</l>
+<l>i pregi eccelsi della Donna mia,</l>
+<l>non istupite, se tra questi fia</l>
+<l>cosa ch'avanzi 'l creder delle genti;</l>
+</lg>
+<lg>
+<l>poichè, sebbene per laudarla i' tenti</l>
+<l>le penne alzar per ogni alpestre via,</l>
+<l>quel che meglio però dir si devria,</l>
+<l>riman coperto alle terrene menti.</l></lg>
+<lg>
+<l>Nè sia chi dall'esterno mio dolore,</l>
+<l>onde in pianti mi struggo a poco a poco,</l>
+<l>misuri la pietà dentro al suo core:</l></lg>
+<lg>
+<l>perchè, quantunque in ogni tempo e loco</l>
+<l>far mostra i' soglia del mio grande ardore,</l>
+<l>assai maggior, ch'i' non dispiego, è 'l foco.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>II</head>
+<lg type="sonetto">
+<lg>
+<l>Candido in Cielo e di be' raggi adorno</l>
+<l>splendeva il Sole oltre l'usato stile,</l>
+<l>e vestivas'il colle e 'l prato umìle</l>
+<l>d'ogni fior più leggiadro intorno intorno:</l></lg>
+<lg>
+<l>qual su' rami d'un faggio e qual d'un orno,</l>
+<l>ogni augel più canoro e più gentile</l>
+<l>s'udia cantar, sicchè 'l più oscuro e vile</l>
+<l>facea col canto a Filomena scorno:</l></lg>
+<lg>
+<l>per le frondi degli alberi battea</l>
+<l>Zefiro l'ali, e ogni ruscel più mondo</l>
+<l>saltellando tra' sassi al mar correa:</l></lg>
+<lg>
+<l>e con più dolce volto e più giocondo</l>
+<l>ridea Cupido e l'amorosa Dea,</l>
+<l>il dì che nacque la mia Donna al mondo.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>III</head>
+<lg type="sonetto">
+<lg>
+<l>Il dì che nacque la mia Donna al mondo,</l>
+<l>dal lavoro immortal stupida sorse</l>
+<l>la Madre delle cose, e 'l guardo torse</l>
+<l>a mirar lo spettacolo giocondo.</l></lg>
+<lg>
+<l>Indi, volgendo il grave ciglio a tondo,</l>
+<l>fisò le luci nell'età trascorse:</l>
+<l>di poi, sorpresa e di sè stessa in forse,</l>
+<l>fin del suo centro le calò nel fondo.</l></lg>
+<lg>
+<l>Poi disse: — E qual sì nobile fattura</l>
+<l>dell'antiche bellezze e delle nove</l>
+<l>gl'illustri pregi alteramente oscura?</l></lg>
+<lg>
+<l>E di qual parte sì gran Donna move,</l>
+<l>che coll'alta beltà vince Natura?</l>
+<l>Se nel Ciel non è fatta, i' non so dove. —</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>IV</head>
+<lg type="sonetto">
+<lg>
+<l>Donna, se tu scorgessi il grande ardore</l>
+<l>che nel mio sen per tua beltà s'apprese,</l>
+<l>ben diresti che tal mai non accese</l>
+<l>in cor gentil d'innamorato Amore.</l></lg>
+<lg>
+<l>Qui star vedresti quel divin Signore</l>
+<l>temperando gli strali ond'ei m'offese,</l>
+<l>ed a' colpi di lui senza difese</l>
+<l>servir d'incude il mio medesmo core;</l></lg>
+<lg>
+<l>e vedresti siccome mi divora</l>
+<l>dolcemente del petto in ogni loco</l>
+<l>la bella fiamma che vi cresce ognora;</l></lg>
+<lg>
+<l>e tutti i miei pensieri a poco a poco,</l>
+<l>come fanciulli timidetti ancora,</l>
+<l>scaldars'intorno a sì leggiadro foco.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>V</head>
+<lg type="sonetto">
+<lg>
+<l>O pellegrin, che non vedesti mai</l>
+<l>la donna mia, deh su vieni a vedella,</l>
+<l>ch'io ti giuro che mai altra più bella</l>
+<l>nel tuo lungo girar vista non hai.</l></lg>
+<lg>
+<l>D'esser uomo non più ti penserai</l>
+<l>poichè sii giunto alla presenza d'ella,</l>
+<l>tanto al su' aspetto e tanto a la favella</l>
+<l>dolce in seno piacer ti sentirai.</l></lg>
+<lg>
+<l>Vien, che nulla varrammi aver parlato,</l>
+<l>quando tu nel bel guardo e nel bel riso</l>
+<l>mille cose più grandi avrai mirato.</l></lg>
+<lg>
+<l>Vieni, e in partir da quel benigno viso,</l>
+<l>e mai cèrcati alcun dove se' stato,</l>
+<l>tu rispondigli tosto: — In Paradiso. —</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>VI</head>
+<lg type="sonetto">
+<lg>
+<l>Spesso mi torna il dolce tempo a mente,</l>
+<l>quando, seduto con la donna mia,</l>
+<l>io le narrava dolorosamente</l>
+<l>la pena del mio core intensa e ria.</l></lg>
+<lg>
+<l>Ella, bassando gli occhi dolcemente,</l>
+<l>il volto d'un rossor dolce copria,</l>
+<l>e, per le labbra a consolarmi intente,</l>
+<l>a' dolcissimi accenti il varco apria:</l></lg>
+<lg>
+<l>e tanta gioia aveva nel seno accolta,</l>
+<l>ch'all'udir le parole alme e gioconde</l>
+<l>l'alma sen giva pellegrina e sciolta.</l></lg>
+<lg>
+<l>Or nullo, fuorchè i sassi, i tronchi e l'onde,</l>
+<l>il mio sì lungo sospirare ascolta;</l>
+<l>e a consolarmi, oimè, chi mi risponde?</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>VII</head>
+<lg type="sonetto">
+<lg>
+<l>Udrammi dunque Amor tristi e dogliosi</l>
+<l>condur sempre in lamenti e giorni ed anni,</l>
+<l>senza volger giammai gli occhi pietosi</l>
+<l>a mirar le mie pene ed i miei danni?</l></lg>
+<lg>
+<l>Dunque in vedere da' pensier tiranni</l>
+<l>girsen tant'altri alfin vittoriosi,</l>
+<l>io solo, in mezzo a disperati affanni,</l>
+<l>invidiando andrò gli altrui riposi?</l></lg>
+<lg>
+<l>Ma stolto! a che le volontarie offese</l>
+<l>i' vo piangendo e quegli amati guai,</l>
+<l>onde l'alma non mai volle disciorse?</l></lg>
+<lg>
+<l>E quante volte la Ragion cortese</l>
+<l>per sottometterne pur la man mi porse,</l>
+<l>io strinsi le catene, e la scacciai?</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>VIII</head>
+<lg type="sonetto">
+<lg>
+<l>Dunque, Manzon, scorgesti i vaghi rai</l>
+<l>e 'l bel volto, e la man bianca e gentile,</l>
+<l>cui riveder col suo perverso stile</l>
+<l>a me 'l fiero destin non lascia mai?</l></lg>
+<lg>
+<l>O te beato, se comprender sai</l>
+<l>quanto piacere a null'altro simìle</l>
+<l>vien dal mirar donna sì altera e umìle,</l>
+<l>ch'uomo può trar fuore da' più tristi guai!</l></lg>
+<lg>
+<l>Perchè allora il mio cor tu non avesti,</l>
+<l>che più nove bellezze in volto a lei,</l>
+<l>colla scorta d'Amor vedute avresti!</l></lg>
+<lg>
+<l>Anzi, perchè cangiarme i' non potei</l>
+<l>tutto in te stesso! e quel che tu godesti</l>
+<l>io medesimo e più goduto avrei.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>IX</head>
+<lg type="sonetto">
+<lg>
+<l>E pur ten riedi già, dolce pensiero,</l>
+<l>dal vago aspetto del divin mio sole;</l>
+<l>e 'l volto mi descrivi e le parole</l>
+<l>dolci e leggiadre, ond'io pur ardo e spero.</l></lg>
+<lg>
+<l>Deh pietoso mi di' per qual sentiero</l>
+<l>sì breve alla mia donna ognor tu vole;</l>
+<l>ch'anch'io vo' gir là 've quell'alte e sole</l>
+<l>bellezze un giorno prigionier mi fèro.</l></lg>
+<lg>
+<l>Anzi teco verrò; nè del desio</l>
+<l>temi, che la penna men veloce e snella</l>
+<l>m'abbia punto a tardar del volo mio;</l></lg>
+<lg>
+<l>però che Amor, coll'aurea sua facella,</l>
+<l>d'ogni peso terren purgommi; ond'io</l>
+<l>quale accesa mi muovo agil fiammella.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>X</head>
+<lg type="sonetto">
+<lg>
+<l>Ecco 'l grand'arco in alto e la saetta</l>
+<l>dell'antico Signor, che mi spaventa;</l>
+<l>e come l'alma il suo poter ne senta</l>
+<l>tutta stammi dubbiosa in sen ristretta.</l></lg>
+<lg>
+<l>Ahi che 'l crudo tiranno aspra vendetta</l>
+<l>fa dell'essermi sciolto, e mi tormenta!</l>
+<l>Nè sol di rilegarmi or si contenta,</l>
+<l>ma in prigion mi rinchiude anco più stretta:</l></lg>
+<lg>
+<l>e lontan dal bel cibo ond'io vivrei</l>
+<l>vuol, per somma fierezza e crudeltate,</l>
+<l>ch'io finisca per fame i giorni miei.</l></lg>
+<lg>
+<l>O te felice, te cento fiate,</l>
+<l>Tirsi, che presso alla tua donna sei</l>
+<l>e viver puoi delle sembianze amate!</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XI</head>
+<lg type="sonetto">
+<lg>
+<l>— Quando fia mai quel dì che tu ti sciolga</l>
+<l>— i' dico all'alma — da un sì basso affetto?</l>
+<l>Oh qual viltate, ch'ad amar si volga</l>
+<l>l'alma, cosa immortal, mortale obbietto! —</l></lg>
+<lg>
+<l>Ella risponde: — Allor fia ch'io disciolga</l>
+<l>il bel nodo ch'è intorno a me ristretto,</l>
+<l>quando il Signor dell'universo accolga</l>
+<l>niun amore in vêr me dentro al suo petto;</l></lg>
+<lg>
+<l>poichè, com'ei con immortal desio</l>
+<l>ama me, ch'appo lui son ombra vile,</l>
+<l>sì rivolto a un bel corpo è l'amor mio.</l></lg>
+<lg>
+<l>E s'egli in me, vil creatura umìle,</l>
+<l>ama d'un Dio l'immago, in quello anch'io</l>
+<l>amo l'idea d'un'alma alta e gentile. —</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XII</head>
+<lg type="sonetto">
+<lg>
+<l>Qual dolce spiritello entro alle dita,</l>
+<l>Amarilli gentil, nascoso avete,</l>
+<l>che tanta, ognor ch'al suon voi le movete,</l>
+<l>gioia versa ne' cori alma e gradita?</l></lg>
+<lg>
+<l>Certo Amor, e non altri, è che v'incìta</l>
+<l>la mano in cui tanto piacer chiudete;</l>
+<l>ond'ella poi, senza trovar mai quiete,</l>
+<l>così lieve passeggia e sì spedita.</l></lg>
+<lg>
+<l>Sì certo, è Amor, che in un cor voi pur tocca</l>
+<l>l'ebano che col fil d'oro si connette,</l>
+<l>perchè divino è 'l suon ch'indi trabocca:</l></lg>
+<lg>
+<l>e mentre avvien che l'armonia ci allette,</l>
+<l>ei dall'avorio della man ne scocca</l>
+<l>le invisibili sue crude saette.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XIII</head>
+<lg type="sonetto">
+<lg>
+<l>Filli, qualor con un bel nastro appeso</l>
+<l>lo strumento gentil dal sen vi pende,</l>
+<l>e la candida man, ch'or sale, or scende,</l>
+<l>il suon tragge dal fil tremulo e teso,</l></lg>
+<lg>
+<l>d'esser mi par sovra le stelle asceso,</l>
+<l>lo cui girar tant'armonia comprende,</l>
+<l>o che qui, dove il vostro suon ne accende,</l>
+<l>sia di là qualche spirto a noi disceso.</l></lg>
+<lg>
+<l>E sì cred'io; poichè, non men che 'l suono,</l>
+<l>celeste avete anco il sembiante, in cui</l>
+<l>quel bel fuoco riluce, ond'arso i' sono.</l></lg>
+<lg>
+<l>Ed oh beato ben sarìa colui</l>
+<l>che di vosco finire avesse in dono</l>
+<l>a sì dolce concento i giorni sui!</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XIV</head>
+<lg type="sonetto">
+<lg>
+<l>Fra gl'impeti d'Amore e di Fortuna,</l>
+<l>or da quella balzato, or da quest'onda,</l>
+<l>non ch'io mai giunga ad afferrar la sponda,</l>
+<l>pur non veggio un chiaror di speme alcuna.</l></lg>
+<lg>
+<l>Ma irato maggiormente il ciel s'imbruna</l>
+<l>e la tempesta sovra me più inonda;</l>
+<l>sicch'io non trovo parte ove m'asconda</l>
+<l>dal gran furor che intorno a me s'aduna.</l></lg>
+<lg>
+<l>S'i' n'esco mai, di Libertate al tempio</l>
+<l>le rotte spoglie vo' sacrare, e voglio</l>
+<l>ch'elle ad ogni mortal servan d'esempio:</l></lg>
+<lg>
+<l>e s'alcuno fia poi di tanto orgoglio</l>
+<l>che si fidi ad un mar sì crudo ed empio,</l>
+<l>deh sommergasi, o rompa in uno scoglio!</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XV</head>
+<lg type="sonetto">
+<lg>
+<l>Ecco Bromio, pastori, ecco Lieo</l>
+<l>col tirso in mano e co' fanciulli accanto:</l>
+<l>udite il suon medesmo, udite il canto</l>
+<l>col qual già in Tebe il grande ingresso ei feo.</l></lg>
+<lg>
+<l>Ecco Sileno, che di vin s'empieo</l>
+<l>l'irsuta barba e 'l setoloso manto,</l>
+<l>e percotendo va di tanto in tanto</l>
+<l>l'asin che sol di sua vecchiezza è reo.</l></lg>
+<lg>
+<l>Tirsi, quel bel monton che t'addit'io</l>
+<l>presso quell'elce, con un colpo atterra,</l>
+<l>indi sacralo allegro al grasso Dio;</l></lg>
+<lg>
+<l>e tu, Damon, che se' robusto, afferra</l>
+<l>Sileno e l'asinel pigro e restìo;</l>
+<l>che va 'l cavallo e 'l cavaliere a terra.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XVI</head>
+<lg type="sonetto">
+<lg>
+<l>Questo biondo covon di bica or tolto,</l>
+<l>penda innanzi al tu' altar, santa Vacuna:</l>
+<l>poichè felicemente oggi raccolto</l>
+<l>dal campo abbiam le spighe ad una ad una.</l></lg>
+<lg>
+<l>Ecco che noi giacciam col sen disciolto,</l>
+<l>or che s'alza la notte umida e bruna:</l>
+<l>tu 'l sudore ne tergi, e intorno al volto</l>
+<l>colla dolce quiete i sogni aduna. —</l></lg>
+<lg>
+<l>Tai cose i mietitor, da le fatiche</l>
+<l>del dì tornati, poichè 'l sol cadea,</l>
+<l>dicevano sdraiati in su le biche:</l></lg>
+<lg>
+<l>e in tanto il bue, che 'l dì trainato avea,</l>
+<l>in disparte pascevasi di spiche,</l>
+<l>e lo stanco drappel non v'attendea.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XVII</head>
+<lg type="sonetto">
+<lg>
+<l>Poichè ciascun vendemmiator si sente,</l>
+<l>mentre toglie alla vite i pondi suoi,</l>
+<l>tra gli scherzi e le risa, inni altamente</l>
+<l>cantare al Domator de' liti eoi,</l></lg>
+<lg>
+<l>togli, Graspin, la cesta ed il tagliente</l>
+<l>picciolo ferro adunco, e andiam pur noi</l>
+<l>tra le viti colà; ma tieni a mente</l>
+<l>di non tanto mangiar, se bèr tu vuoi.</l></lg>
+<lg>
+<l>Vedi come quel tralcio il palo fasci?</l>
+<l>Quivi con Filli a sgrappolar ti metti,</l>
+<l>dove l'uva mi par legata a fasci.</l></lg>
+<lg>
+<l>Ma non far poi che sì colei t'alletti</l>
+<l>co' cenni o col gracchiar, che tu ne lasci</l>
+<l>sotto l'avare frasche i grappoletti.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XVIII</head>
+<lg type="sonetto">
+<lg>
+<l>Ahi quante, ahi quante di pietate ignudi</l>
+<l>fan prede i lupi de le fresche agnelle;</l>
+<l>sì che non val ch'a vigilar su quelle</l>
+<l>il povero pastor fatichi e sudi!</l></lg>
+<lg>
+<l>Questa felice è ben che i denti crudi</l>
+<l>de le belve non teme ingorde e felle;</l>
+<l>poi che dal branco de le pecorelle,</l>
+<l>almo pastor, la togli e la rinchiudi.</l></lg>
+<lg>
+<l>Qui non la guasteran fascini o incanti;</l>
+<l>ma vedrai come bella senza scabbia</l>
+<l>di più candide lane ognor s'ammanti:</l></lg>
+<lg>
+<l>e fia che 'l lupo indarno giri, ed abbia</l>
+<l>in fine a starsi all'ovil chiuso innanti,</l>
+<l>alto ululando per disdegno e rabbia.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XIX</head>
+<lg type="sonetto">
+<lg>
+<l>Sì vaga pianta e sì gentil avea</l>
+<l>con mie lunghe fatiche a tal ridutta,</l>
+<l>che le sue fronde invidiar parea</l>
+<l>ogni arboscello, anzi la selva tutta;</l></lg>
+<lg>
+<l>nè più di borea o d'aquilon temea</l>
+<l>contra i be' rami suoi l'orrida lutta;</l>
+<l>ma lieto alla sua dolce ombra sedea,</l>
+<l>pur cogliendone alfin le prime frutta:</l></lg>
+<lg>
+<l>quando Giove improvviso ecco disserra</l>
+<l>fulmine, che col colpo i rami adorni</l>
+<l>in uno e me con lo spavento atterra.</l></lg>
+<lg>
+<l>Or giace il parto di sì lunghi giorni;</l>
+<l>ed io stommi guardando in su la terra</l>
+<l>ch'alcun germoglio a pullular ritorni.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XX</head>
+<lg type="sonetto">
+<lg>
+<l>Quella pianta gentil, ch'avea battuta</l>
+<l>con le folgori Giove in sul terreno,</l>
+<l>così rapidamente era cresciuta</l>
+<l>ch'i' n'avea colmo di dolcezza il seno.</l></lg>
+<lg>
+<l>Ma 'l mio compagno agricoltor veduta</l>
+<l>non prima l'ebbe che, d'invidia pieno,</l>
+<l>sentì pungersi il cor d'aspra feruta,</l>
+<l>sol volendo indiviso arbor sì ameno.</l></lg>
+<lg>
+<l>Con ascosa pertanto ignobil arte</l>
+<l>i be' frutti m'invola, e pien di duolo</l>
+<l>me 'l tronco ad adorar lascia in disparte.</l></lg>
+<lg>
+<l>Torna, o Giove, a cacciar l'arbore al suolo;</l>
+<l>chè, chi niun vuol de' suoi piaceri a parte,</l>
+<l>ben non merta costui di goder solo.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXI</head>
+<lg type="sonetto">
+<lg>
+<l>Accendi il foco, Elpin, mentr'io mi bendo</l>
+<l>de le candide fasce il crine e 'l petto;</l>
+<l>e non temer del mio cangiato aspetto,</l>
+<l>or che 'l magico Nume in sen comprendo.</l></lg>
+<lg>
+<l>Ecco la mano alla sacr'ara io stendo,</l>
+<l>e 'l vergin zolfo in su la fiamma getto,</l>
+<l>e tre grani d'incenso indi vi metto,</l>
+<l>il suono alzando de' miei versi orrendo.</l></lg>
+<lg>
+<l>Già dall'acceso altar par che si sciolga</l>
+<l>il fumo inverso il ciel salendo, e parmi</l>
+<l>che 'l ciel commosso le mie preci accolga.</l></lg>
+<lg>
+<l>Or quella fiera, che non vuol mirarmi</l>
+<l>per continuo pregare, a me si volga</l>
+<l>almen per forza de' possenti carmi.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXII</head>
+<lg type="sonetto">
+<lg>
+<l>I' muoio alfine; alfine, o cruda Eumolpi,</l>
+<l>su quest'umide reti entro a la barca</l>
+<l>giacer mi vedi, e te non fia ch'io incolpi,</l>
+<l>che d'un freddo sospir mi se' ancor parca.</l></lg>
+<lg>
+<l>Non temer più del mio tridente i colpi,</l>
+<l>squamoso gregge; alfin colui sen varca</l>
+<l>ad altro lito, che di tenie e polpi</l>
+<l>ogni nassa traea dall'onde carca.</l></lg>
+<lg>
+<l>Toglietevi, o compagni, or le mie canne</l>
+<l>(ah mille volte le lor cime a voi</l>
+<l>veder curve sia dato!) e le mie reti.</l></lg>
+<lg>
+<l>Questo legnetto sol meco verranne,</l>
+<l>per varcare, atra Stige, i gorghi tuoi,</l>
+<l>quando Caronte a un sì infelice il vieti.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXIII</head>
+<lg type="sonetto">
+<lg><l>Pendi, mia cetra umìl, da questo salce</l>
+<l>senza man che ti svegli e senza corde;</l>
+<l>poichè a calmar le cure inique e sorde</l>
+<l>il tuo tenero suon punto non valce.</l></lg>
+<lg>
+<l>Già presso è Morte coll'orribil falce,</l>
+<l>e 'l Veglio che le cose atterra e morde;</l>
+<l>nè avvien, bench'i' col mio gridar gli assorde,</l>
+<l>ch'ognor di loro non mi segua e incalce.</l></lg>
+<lg>
+<l>Miser n'andrò fra gli amorosi mirti,</l>
+<l>e risonar farovvi ogni pendice,</l>
+<l>mescendo il pianto mio con gli altri spirti.</l></lg>
+<lg>
+<l>E tu ti rimarrai, se tanto lice,</l>
+<l>tra' pastor d'este selve incolti ed irti,</l>
+<l>d'una picciol conforto ombra infelice.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXIV</head>
+<lg type="sonetto">
+<lg>
+<l>Lungo 'l Sagrin, mentre i pastor le gote</l>
+<l>gonfiando van su le ineguali canne,</l>
+<l>amico, i' so ch'assai più dolce andranne</l>
+<l>lor suon congiunto a le tue dolci note.</l></lg>
+<lg>
+<l>E intanto che 'l commosso aere percote</l>
+<l>l'opposte rupi, da le sue capanne</l>
+<l>ogni Ninfa silvestre a udir verranne</l>
+<l>tuo canto, che le fère addolcir puote.</l></lg>
+<lg>
+<l>O te felice, al quale il destro Fato</l>
+<l>tant'ozio dona, e a rustical concento</l>
+<l>dentro al paterno suol vivi beato!</l></lg>
+<lg>
+<l>Ahi! me non già, infin ch'a forza intento</l>
+<l>a sè mi tenga il dubitoso piato</l>
+<l>che nel Fòro usar suol garrulo e lento.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXV</head>
+<lg type="sonetto">
+<lg>
+<l>Da questo cerchio, che sul lito io segno</l>
+<l>colla verga tremenda, e in cui ti metto,</l>
+<l>non partirti, o Damone, e tieni in petto</l>
+<l>le sillabe possenti ch'io t'insegno.</l></lg>
+<lg>
+<l>Ecco son già presenti, a un picciol segno</l>
+<l>della mia man, Tesifone ed Aletto,</l>
+<l>e d'Ecate triforme il vario aspetto,</l>
+<l>e gli altri numi dello stigio regno.</l></lg>
+<lg>
+<l>Ecco io gl'invoco: — O degli oscuri e bui</l>
+<l>fiumi d'Averno abitatrice schiera,</l>
+<l>Damone ascolta, o me in vece di lui.</l></lg>
+<lg>
+<l>Fa, per la forza della mia preghiera,</l>
+<l>che la donna, ch'un tempo amò costui,</l>
+<l>a poco a poco si distrugga e pèra.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXVI</head>
+<lg type="sonetto">
+<lg>
+<l>Tirsi, non tel diss'io ch'all'aere fosco</l>
+<l>noi l'aremmo trovata? Or vedi come</l>
+<l>l'infame strega con le sciolte chiome</l>
+<l>va dell'erbe cogliendo intorno al bosco.</l></lg>
+<lg>
+<l>Tirsi, certo ella è dessa; i' la conosco:</l>
+<l>ecco m'ascondo, e chiamo lei per nome:</l>
+<l>vedi, vedi, com'ella si dischiome,</l>
+<l>come spiri dagli occhi acceso tosco!</l></lg>
+<lg>
+<l>Ahi ch'ella udimmi! ah già n'ha scorti! Or senti</l>
+<l>ch'all'orrende bestemmie ha sciolto il freno.</l>
+<l>Ah noi meschini, ahi sventurati armenti!</l></lg>
+<lg>
+<l>Deh, tre volte sputiamci, o Tirsi, in seno;</l>
+<l>che se 'l gregge da lei ci viene or spento,</l>
+<l>ah, Tirsi, ah noi possiam salvarci almeno!</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXVII</head>
+<lg type="sonetto">
+<lg>
+<l>Sciogli, Fillide, il crin e meco t'ungi</l>
+<l>d'esto liquor, che nelle man ti spargo;</l>
+<l>poi quest'osso più stretto a quel più largo,</l>
+<l>che d'uom son, con le verbene aggiungi.</l></lg>
+<lg>
+<l>Indi accendi l'altar dal rio non lungi</l>
+<l>che lento va tra l'uno e l'altro margo:</l>
+<l>e mentre io d'acqua il sacro altar cospargo,</l>
+<l>a questa cerea immago il cor tu pungi.</l></lg>
+<lg>
+<l>Ecco, l'ombre d'Averno al sacro loco</l>
+<l>vengon scotendo l'atre faci; e 'l sole</l>
+<l>per lo fumo s'oscura a poco a poco.</l></lg>
+<lg>
+<l>Tu non temer; ma di' queste parole:</l>
+<l>— La pace che tra loro han l'acqua e 'l foco</l>
+<l>abbian gli amanti ancor Licida e Iole. —</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXVIII</head>
+<lg type="sonetto">
+<lg>
+<l>Già s'odon per lo cielo alti rimbombi</l>
+<l>dei fulmini sonanti, e vanno preste</l>
+<l>l'oscure nubi a radunar tempeste.</l>
+<l>Volgete, amiche, pur volgete i rombi.</l></lg>
+<lg>
+<l>Tu dispògliati, o Nisa, infino ai lombi,</l>
+<l>siccome i' faccio ancor, d'ogni tua veste:</l>
+<l>e mentre i' parlo alle ner'ombre e meste,</l>
+<l>volgete, amiche, pur volgete i rombi.</l></lg>
+<lg>
+<l>Ecco, cercan ricovro che gli scampi</l>
+<l>greggi e pastor sotto le querce antiche,</l>
+<l>e paventan le ninfe i tuoni e i lampi.</l></lg>
+<lg>
+<l>L'uve di Tirsi e di Damon le spiche</l>
+<l>son pèste e tronche per le vigne e i campi.</l>
+<l>Fermate pur, fermate i rombi, amiche.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXIX</head>
+<lg type="sonetto">
+<lg>
+<l>Colei, Damon, colei che più d'un angue</l>
+<l>intorno al crine scapigliato intesse</l>
+<l>e con note ora chiare ed or sommesse</l>
+<l>può trar fuor de la tomba un corpo esangue;</l></lg>
+<lg>
+<l>colei ch'ugne di caldo e vivo sangue</l>
+<l>l'uova di rospo ancor fumanti e spesse,</l>
+<l>e una penna funèbre aggiunge ad esse</l>
+<l>d'una strige che ancor palpita e langue;</l></lg>
+<lg>
+<l>costei l'erbe che in Colco ed in Campagna</l>
+<l>Circe oprâro e Medea, con l'ossa incende</l>
+<l>di bocca tolte a una digiuna cagna,</l></lg>
+<lg>
+<l>e con queste il mio gregge infermo rende</l>
+<l>sì ch'errando sen va per la campagna,</l>
+<l>nè d'erba nè di rio vaghezza prende.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXX</head>
+<lg type="sonetto">
+<lg>
+<l>Nè d'erba nè di rio vaghezza prende</l>
+<l>il mio gregge svenuto, e si rimbosca;</l>
+<l>e par che 'l suo pastor più non conosca,</l>
+<l>tanto nè i cenni nè le grida intende.</l></lg>
+<lg>
+<l>Or su le balze perigliose ascende,</l>
+<l>or entra in tana insidiosa e fosca;</l>
+<l>e giurerei che più non riconosca</l>
+<l>qual dell'erbette giova e quale offende.</l></lg>
+<lg>
+<l>Lasso! ben il diss'io quel dì, che alzarse</l>
+<l>vidi l'infame strega alta sei spanne</l>
+<l>da terra con le chiome orride e sparse,</l></lg>
+<lg>
+<l>ch'ella mandò fuor delle sozze canne</l>
+<l>terribil voce; e allor la luna sparse</l>
+<l>raggio di sangue in vêr le mie capanne.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXXI</head>
+<lg type="sonetto">
+<lg>
+<l>Deposta un giorno l'orrida facella</l>
+<l>e quell'arco crudel che i petti schiaccia,</l>
+<l>prese Amore in ispalla una bisaccia</l>
+<l>e un pugnitoio in cambio di quadrella:</l></lg>
+<lg>
+<l>e posta sotto il giogo una vitella,</l>
+<l>o un giovenco che fosse, o due, li caccia</l>
+<l>per lo incolto terren con una faccia</l>
+<l>d'un villan che si stizza ed arrovella.</l></lg>
+<lg>
+<l>Quasi 'l bellico a' Numi si sconficca</l>
+<l>d'Amor ridendo, che l'aratro muove</l>
+<l>e la semenza per le zolle ficca;</l></lg>
+<lg>
+<l>quand'e', rivolto al ciel grida: — Ser Giove,</l>
+<l>o fa di messe questa terra ricca,</l>
+<l>o ch'io di nuovo ti converto in bove. —</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXXII</head>
+<lg type="sonetto">
+<lg>
+<l>Io di Lidia il gran Re non mi rammento,</l>
+<l>ma, spregiator di ricche gemme e d'ori,</l>
+<l>della mia sorte umìl vivo contento,</l>
+<l>e non invidio a' Re gli ampi tesori.</l></lg>
+<lg>
+<l>Sol concesso a me sia la guancia e 'l mento</l>
+<l>cosparger d'odoriferi liquori,</l>
+<l>ed allo specchio d'un buon fonte intento</l>
+<l>cinger il crin di porporini fiori.</l></lg>
+<lg>
+<l>L'oggi m'importa, e l'avvenir non curo:</l>
+<l>perciò questi miei dì labili, o tu</l>
+<l>Bacco, fien tuoi; ch'a te bevendo il giuro,</l></lg>
+<lg>
+<l>prima ch'un qualche mal mi dica: — Orsù,</l>
+<l>Anacreonte, andiamo al regno scuro;</l>
+<l>getta 'l bicchier; non hassi a bever più. —</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXXIII</head>
+<lg type="sonetto">
+<lg>
+<l>S'io mi credessi che con or la Morte</l>
+<l>si potesse tener lontan da noi,</l>
+<l>vorrei ben, dall'occaso a' liti eoi,</l>
+<l>ir cercandomi ognor più amica sorte;</l></lg>
+<lg>
+<l>e quand'ella picchiasse alle mie porte,</l>
+<l>le direi: — Piglia, e va pe' fatti tuoi! —</l>
+<l>Ma, se fuggir non posso i colpi suoi,</l>
+<l>a che piangendo far l'ore più corte?</l></lg>
+<lg>
+<l>Dunque, poichè così fatal destino</l>
+<l>io non posso evitar, mia cura sia</l>
+<l>conversar con gli amici, e ber del vino;</l></lg>
+<lg>
+<l>o su le piume, colla donna mia,</l>
+<l>passar scherzando i dì felici, infino</l>
+<l>che la Parca ne sciolga ingorda e ria.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXXIV</head>
+<lg type="sonetto">
+<lg>
+<l>Se di Bacco il liquor nel mio cervello</l>
+<l>coll'ammirabil suo poter penètra,</l>
+<l>ogni cura sen va noiosa e tetra;</l>
+<l>già mi par d'esser ricco e d'esser bello:</l></lg>
+<lg>
+<l>e vo' cantando or questo carme or quello,</l>
+<l>or sedendo su l'erba or s'una pietra,</l>
+<l>e col pensier calco la terra e l'etra,</l>
+<l>dominando il destin secondo e 'l fello.</l></lg>
+<lg>
+<l>Stia fra l'arme a pugliar pure il guerriere,</l>
+<l>ch'io sol questo desio nel cor mi porto,</l>
+<l>di contender tra 'l fiasco e tra 'l bicchiere.</l></lg>
+<lg>
+<l>Dammi una tazza pur, fanciullo accorto;</l>
+<l>poichè, involto in un dolce almo piacere,</l>
+<l>meglio è certo giacere ebbro che morto.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXXV</head>
+<lg type="sonetto">
+<lg>
+<l>Rondinella garruletta,</l>
+<l>se non taci, un giorno affè</l>
+<l>io vo' far sopra di te</l>
+<l>un'asprissima vendetta.</l></lg>
+<lg>
+<l>Vo' pigliarti stretta stretta,</l>
+<l>e legarti per un piè;</l>
+<l>poi far quel che Tereo fe'</l>
+<l>con codesta tua linguetta.</l></lg>
+<lg>
+<l>L'alba in ciel non anco appare,</l>
+<l>che con querula favella</l>
+<l>tu ne vieni a risvegliare.</l></lg>
+<lg>
+<l>Or che dorme la mia bella,</l>
+<l>guarda ben, non la destare,</l>
+<l>garruletta rondinella.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXXVI</head>
+<lg type="sonetto">
+<lg>
+<l>Per molte genti e molti mar condotto,</l>
+<l>o mio germano, finalmente io sono</l>
+<l>a quest'esequie miserande addotto,</l>
+<l>per far l'ultimo a te funebre dono.</l></lg>
+<lg>
+<l>E poichè te medesmo a me non buono</l>
+<l>destino ahi! tolse, e 'l tuo bel stame ha rotto</l>
+<l>indegnamente, oimè! vo' dir qui prono</l>
+<l>su la tacita polve un vano motto.</l></lg>
+<lg>
+<l>Questi doni però tu accogli intanto</l>
+<l>che ne' funèbri sacrificii offrìo</l>
+<l>de' maggiori il costume antico e santo.</l></lg>
+<lg>
+<l>Questi accogli pur tu; ch'assai del mio</l>
+<l>sono grondanti ancor fraterno pianto;</l>
+<l>e addio per sempre, o mio germano, addio.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXXVII</head>
+<lg type="sonetto">
+<lg>
+<l>O del vetro più chiaro, ameno fonte</l>
+<l>degno di dolce vin, cinto di fiori,</l>
+<l>domane avrai un caprettin, cui fuori</l>
+<l>spuntan le prime corna in su la fronte.</l></lg>
+<lg>
+<l>Indarno ei mostra le sue voglie pronte</l>
+<l>ora a l'aspre tenzoni, or agli amori,</l>
+<l>poichè avverrà che i gelidi liquori</l>
+<l>del suo sangue vermiglio esso t'impronte.</l></lg>
+<lg>
+<l>Te l'ore atroci dell'ardente Cane</l>
+<l>non san toccar; tu doni a' tauri, lassi</l>
+<l>d'arare, amabil fresco, e al vago armento.</l></lg>
+<lg>
+<l>Però tra l'altre andrai chiare fontane;</l>
+<l>ch'io l'elce canterò ch'ombreggia i sassi</l>
+<l>cavi, onde scorre il tuo loquace argento.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXXVIII</head>
+<lg type="sonetto">
+<lg>
+<l>Là dove Pindo al ciel tanto s'innalza,</l>
+<l>che le due corna infra le nubi asconde,</l>
+<l>e giù per quello van di balza in balza</l>
+<l>con dolce mormorìo le placid'onde,</l></lg>
+<lg>
+<l>i' fui, Manzoni, e le fiorite sponde</l>
+<l>osai calcar, dove succinta e scalza</l>
+<l>erra la schiera ognor delle gioconde</l>
+<l>figlie di Giove, carolando, e balza.</l></lg>
+<lg>
+<l>E visto appena, elle mi fûro accanto</l>
+<l>di te chiedendo; e di quell'onda lieve</l>
+<l>una bell'aureo vaso attinse intanto;</l></lg>
+<lg>
+<l>indi: — Questo a lui porgi, e d'ogni greve</l>
+<l>morbo il sollevi, e lo risvegli al canto. —</l>
+<l>Disse, e mel porse colla man di neve.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XXXIX</head>
+<lg type="sonetto">
+<lg>
+<l>Manzon, s'io vedrò mai l'aspro flagello</l>
+<l>dell'irata fortuna un dì posarse,</l>
+<l>e il cielo che sinor nuvolo apparse,</l>
+<l>tornar sopra di me sereno e bello,</l></lg>
+<lg>
+<l>udraimi, acceso di furor novello,</l>
+<l>versi cantar, e al canto mio placarse</l>
+<l>ogni fera crudele, e cheti starse</l>
+<l>i fiumi, e a me condurse ogni arboscello.</l></lg>
+<lg>
+<l>Ridi? Non sai quanto Anfion poteo</l>
+<l>su le pietre tebane e quanto impero</l>
+<l>nelle selve di Tracia usava Orfeo?</l></lg>
+<lg>
+<l>Ah, così s'ammollisca il destin fiero;</l>
+<l>chè quanto il trace e quel teban già feo,</l>
+<l>di far tanto, e più ancora, i' non dispero.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XL</head>
+<lg type="sonetto">
+<lg>
+<l>Per l'aspro calle ond'a Parnaso uom giunge,</l>
+<l>io mossi 'l piede insin da' più verd'anni,</l>
+<l>e già contando i miei sì lunghi affanni</l>
+<l>fra me diceva: — Or non puot'esser lunge. —</l></lg>
+<lg>
+<l>Ma, Fortunata, ahi che 'l tuo vol raggiunge</l>
+<l>il lento passo mio co' presti vanni;</l>
+<l>e lungi ancor da que' beati scanni</l>
+<l>lo tuo sommo valor m'insulta e punge!</l></lg>
+<lg>
+<l>Or vanne lieta pur, chè 'n su la via</l>
+<l>attendon le Sorelle alme e divine.</l>
+<l>la tua venuta assai più che la mia.</l></lg>
+<lg>
+<l>Quivi non aspettar ch'io giunga al fine</l>
+<l>del mio cammin sì ratto; assai mi fia</l>
+<l>quando neve mi copra il fosco crine.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XLI</head>
+<lg type="sonetto">
+<lg>
+<l>O Sonno placido che, con liev'orme,</l>
+<l>vai per le tenebre movendo l'ali,</l>
+<l>e intorno ai miseri lassi mortali</l>
+<l>giri coll'agili tue varie forme;</l></lg>
+<lg>
+<l>là dove Fillide secura dorme</l>
+<l>stesa su candidi molli guanciali</l>
+<l>vanne, e un'immagine carca di mali</l>
+<l>in mente pignile trista e deforme.</l></lg>
+<lg>
+<l>Tanto a me simili quell'ombre inventa</l>
+<l>e al color pallido che in me si spande,</l>
+<l>ch'ella, destandosi, pietà ne senta.</l></lg>
+<lg>
+<l>Se tu concedimi favor sì grande,</l>
+<l>con man vo porgerti tacita e lenta</l>
+<l>due di papaveri fresche ghirlande.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XLII</head>
+<lg type="sonetto">
+<lg>
+<l>Endecasillabi, cui porgerete</l>
+<l>col vostro tenero suono conforto?</l>
+<l>Al mio certissimo Manzon, che smorto</l>
+<l>mirate e languido gir presso a Lete.</l></lg>
+<lg>
+<l>Su, richiamatelo; su, lo scuotete,</l>
+<l>prima che l'abbiano le cure assorto!</l>
+<l>Questi è quel giovane saggio ed accorto,</l>
+<l>che delle lettere giunge alle mete.</l></lg>
+<lg>
+<l>Alla sua cetera vid'io sovente</l>
+<l>tendere i satiri l'orecchie acute</l>
+<l>e le selvatiche vergini attente.</l></lg>
+<lg>
+<l>Endecasillabi, dunque le argute</l>
+<l>corde svegliategli, se di repente</l>
+<l>cose udir piàcevi dal ciel venute.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XLIII</head>
+<lg type="sonetto">
+<lg>
+<l>Oimè che turbine rivoltuoso</l>
+<l>di cure asprissime mi turba il sen!</l>
+<l>Porgimi, o Fillide, di vin spumoso</l>
+<l>un orcio o un ciotolo, ma che sia pien.</l></lg>
+<lg>
+<l>Quest'è 'l dolcissimo caro e gioioso</l>
+<l>al cor dei miseri contravelen:</l>
+<l>per questo a ridere torna giocoso</l>
+<l>l'imbriachissimo vecchio Silen.</l></lg>
+<lg>
+<l>Chi fu che 'l barbaro fiero dolor</l>
+<l>frenò dell'esule vergine a Nasso,</l>
+<l>se non quest'unico dolce liquor?</l></lg>
+<lg>
+<l>Chi fia che reggaci sul fianco lasso,</l>
+<l>fugando il gelido senile orror,</l>
+<l>presso a quell'ultimo dolente passo?</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XLIV</head>
+<lg type="sonetto">
+<lg>
+<l>Col guardo i' vo su per l'aereo calle</l>
+<l>fra le nubi cercando e tra i pianeti:</l>
+<l>e veggio, d'ogni stella entro a' secreti</l>
+<l>lati, Dio ch'ora quiete or moto dàlle.</l></lg>
+<lg>
+<l>Scendo di poi le nevose spalle</l>
+<l>de' monti, ed essi quai freschi arieti</l>
+<l>veggio esultar di lui superbi e lieti,</l>
+<l>ch'abita ogni antro loro, ogni lor valle.</l></lg>
+<lg>
+<l>Cerco la terra tutta, e l'onda, e fuore</l>
+<l>caccio lo sguardo ancor, ch'appena il regga,</l>
+<l>e veggio come, in quell'immenso orrore,</l></lg>
+<lg>
+<l>solo non già ma con se stesso ei segga.</l>
+<l>Torno coll'occhio alfin dentro al mio core;</l>
+<l>e solo nel mio cor par che nol vegga.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XLV</head>
+<lg type="sonetto">
+<lg>
+<l>Carca di merci preziose e rare,</l>
+<l>coll'aure amiche intorno, agile e presta</l>
+<l>girsen ved'io, senza curar tempesta,</l>
+<l>una nave superba in mezzo al mare.</l></lg>
+<lg>
+<l>E per l'onde vicine al lito, chiare,</l>
+<l>col remo, il qual di faticar non resta,</l>
+<l>di due tavole appena insiem contesta</l>
+<l>un'umile barchetta i' vidi andare.</l></lg>
+<lg>
+<l>Sorse vento improvviso, e l'una tosto</l>
+<l>alla ripa vicina in braccio corse,</l>
+<l>e 'l legno altier cadde tra l'onde assorto.</l></lg>
+<lg>
+<l>Così 'l miser, diss'io, ch'al basso è posto,</l>
+<l>presto si salva; e chi più in alto sorse</l>
+<l>miracol è se può ritrarsi al porto.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XLVI</head>
+<lg type="sonetto">
+<lg>
+<l>Su queste pallid'ossa, e già da cento</l>
+<l>anni sepolte in quest'oscuro avello,</l>
+<l>qual già lusse color vermiglio e bello,</l>
+<l>ch'or sciolto in polve se ne porta il vento?</l></lg>
+<lg>
+<l>Qui, superbe fanciulle, il guardo intento</l>
+<l>fisate, a rimirar l'aspro flagello</l>
+<l>che fa 'l Tempo e la Parca intorno a quello</l>
+<l>splendor, cui tanto commendar vi sento.</l></lg>
+<lg>
+<l>Ecco i candidi avori, ecco le rose</l>
+<l>che sì pregiano in voi gli stolti amanti,</l>
+<l>misero avanzo di beltà famose.</l></lg>
+<lg>
+<l>Anzi quaggiù voi vi specchiate innanti,</l>
+<l>folli, cui 'l vero un cieco Amor nascose,</l>
+<l>quel che riman di tanti pregi e tanti.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XLVII</head>
+<lg type="sonetto">
+<lg>
+<l>Poichè, dal braccio del Signor guidate,</l>
+<l>fuor dell'Egitto uscîr l'ebraiche genti,</l>
+<l>fuggì timido il mare, e le frementi</l>
+<l>onde volse il Giordan là 'v'eran nate.</l></lg>
+<lg>
+<l>E qual, veggendo le caprette amate,</l>
+<l>fanno i capri lascivi ed insolenti,</l>
+<l>saltâro i monti e i colli soggiacenti,</l>
+<l>come i saturi agnei per l'erbe usate.</l></lg>
+<lg>
+<l>Perchè fuggisti, o mare, e tu Giordano,</l>
+<l>perchè indietro tornasti? O colli, o monti,</l>
+<l>qual vi mosse a saltare impeto strano?</l></lg>
+<lg>
+<l>E monti e colli e flutti, umili e pronti</l>
+<l>chinârsi a lui, che col poter sovrano</l>
+<l>fa, di selci e di rupi, e stagni e fonti.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XLVIII</head>
+<lg type="sonetto">
+<lg>
+<l>Filli, questo splendor che con tant'arte</l>
+<l>fregi e nodrisci, leggier fumo ed ombra</l>
+<l>è certamente, cui morte disgombra,</l>
+<l>o van gli anni struggendo a parte a parte.</l></lg>
+<lg>
+<l>Volgi le greche e le latine carte,</l>
+<l>ove di gran beltà donna le ingombra,</l>
+<l>e scorgerai come la terra sgombra</l>
+<l>ne fu ben tosto, e l'arse membra sparte.</l></lg>
+<lg>
+<l>Ov'è l'Egizia che cotanto piacque</l>
+<l>al roman duce? Ov'è colei che mosse</l>
+<l>Argo tutta a seguirla in mezzo all'acque?</l></lg>
+<lg>
+<l>Anzi, chi 'l corpo sol, chi le nud'osse,</l>
+<l>chi la tomba m'addita ov'ella giacque,</l>
+<l>poichè 'l filo di lei breve troncosse?</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XLIX</head>
+<lg type="sonetto">
+<lg>
+<l>Gira l'alta Donzella, e in mille modi</l>
+<l>tesse i teneri balli, e, più ch'ai vasti</l>
+<l>musici cori, attende alle sue lodi,</l>
+<l>onde avvien che ad ogn'altra ella sovrasti.</l></lg>
+<lg>
+<l>E in tanto il re, preso ai soavi modi</l>
+<l>cui non è sì gran core il qual contrasti,</l>
+<l>dice: — Chiedi a me quel di che più godi,</l>
+<l>benchè mezzo il mio regno anco non basti. —</l></lg>
+<lg>
+<l>Ella: — Se tanto di tua grazia abbondo,</l>
+<l>dammi, — disse, — Giovanni. — E tosto un riso</l>
+<l>fe' sul volto apparir vago e giocondo.</l></lg>
+<lg>
+<l>Già non rise il Signor, dal duol conquiso;</l>
+<l>pur: — Si faccia, — rispose. Ahi mondo, ahi mondo,</l>
+<l>quanta legge t'impone un dolce viso!</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>L</head>
+<lg type="sonetto">
+<lg>
+<l>— Chi è costui, che nell'umìl suo letto</l>
+<l>steso, passa dal mondo e par che rida? —</l>
+<l>— Egli è quell'uom sì giusto e a Dio diletto,</l>
+<l>del divino Figliuol custodia e guida. —</l></lg>
+<lg>
+<l>— Chi son que' duo, cui con sì dolce affetto</l>
+<l>par che 'l guardo languente ancor divida? —</l>
+<l>— L'uno è lo Dio, cui fu per padre eletto,</l>
+<l>e l'altra è la sua sposa onesta e fida. —</l></lg>
+<lg>
+<l>— E come mai fra così dolci aspetti</l>
+<l>osa Morte por piè franca ed ardita,</l>
+<l>ond'uom sì grande al suo poter soggetti?</l></lg>
+<lg>
+<l>— Stolto, che pensi? Di niun stral fornita</l>
+<l>non è la Parca, onde costui saetti;</l>
+<l>ma un'estasi d'amor lo trae di vita. —</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>LI</head>
+<lg type="sonetto">
+<lg>
+<l>Che val ch'entro a' gemmati aurei palagi,</l>
+<l>per le splendide sale uomo s'inoltre,</l>
+<l>e, coperto di bisso e d'aurea coltre,</l>
+<l>su le morbide piume il corpo adagi?</l></lg>
+<lg>
+<l>Che val, ch'ognor fuggendo i rei disagi,</l>
+<l>viva contento a regia mensa, ed oltre</l>
+<l>ad umano dover non mai si spoltre</l>
+<l>dalla gola e dal sonno, empi e malvagi?</l></lg>
+<lg>
+<l>Se morte alfin nel più bel corso arresta</l>
+<l>ogni dolce piacer, volgendo i passi</l>
+<l>l'alma verso Acheronte ignuda e mesta?</l></lg>
+<lg>
+<l>Ed ivi a pochi giorni in cener vassi</l>
+<l>il cadaver superbo, e non ci resta</l>
+<l>che l'onor vano degli scritti sassi?</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>LII</head>
+<lg type="sonetto">
+<lg>
+<l>Egli è pur vero, Elpin, ch'altra donzella</l>
+<l>vie più vaga di Nice Iddio far puote:</l>
+<l>dunque perchè in lei posi, ed altre ignote</l>
+<l>beltà non cerchi assai miglior di quella?</l></lg>
+<lg>
+<l>E poichè vista o nell'idea tua snella</l>
+<l>donna pinto hai di più vermiglie gote,</l>
+<l>di più begli occhi e più soavi note,</l>
+<l>vuo' tu dir che costei sia la più bella?</l></lg>
+<lg>
+<l>No certamente; chè la man di Dio</l>
+<l>non s'abbrevia giammai; e in infinito</l>
+<l>meta non troveresti al tuo disio.</l></lg>
+<lg>
+<l>Dunque, s'esser non puote un bel compito,</l>
+<l>di cui l'alma gentil solo ha desio,</l>
+<l>in Dio lo cerca, ove ogni bel sta unito.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>LIII</head>
+<lg type="sonetto">
+<lg>
+<l>Qual fu, qual fu la scellerata mano</l>
+<l>che le sacre di Pindo alme parole</l>
+<l>ardì di violare, e 'l dritto e sano</l>
+<l>pensier volgere in torte insulse fole?</l></lg>
+<lg>
+<l>Chi fu colui che 'l calamo profano</l>
+<l>osò condurre in su l'elette e sole</l>
+<l>pure voci del bel fiume toscano,</l>
+<l>d'onde tanto piacer scorrer ne suole?</l></lg>
+<lg>
+<l>O Muse, voi che le sorelle audaci</l>
+<l>cangiaste in piche, a che stavate intente,</l>
+<l>quando costui venne a turbar vostr'acque?</l></lg>
+<lg>
+<l>E tu, Febo, il gran telo ove si giacque,</l>
+<l>che le zanne confisse un dì mordaci</l>
+<l>al figliuol della Terra empio serpente?</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>LIV</head>
+<lg type="sonetto">
+<lg>
+<l>Io son nato in Parnaso, e l'alme Suore</l>
+<l>tutte furon presenti al nascer mio;</l>
+<l>e mi lavâro in quel famoso rio,</l>
+<l>mercè solo del quale altri non muore.</l></lg>
+<lg>
+<l>Però mi scalda sì divin furore,</l>
+<l>sebben giovine d'anni ancor son io,</l>
+<l>che d'Icaro non temo il caso rio,</l>
+<l>mentre compro co' versi eterno onore.</l></lg>
+<lg>
+<l>So che turba di sciocchi ìnvida e bieca</l>
+<l>ognor mi guarda, e con grida e lamenti</l>
+<l>sì bel valore a troppo ardir mi reca.</l></lg>
+<lg>
+<l>Ma non perciò mio corso avvien ch'allenti,</l>
+<l>nè l'età verde alcun timor m'arreca;</l>
+<l>ch'anco Alcide fanciul vinse i serpenti.</l></lg>
+</lg>
+</div1>
+<div1 type="parte">
+<head>POESIE PIACEVOLI</head>
+<div2 type="poesia">
+<head>LV</head>
+<lg type="nc">
+<lg>
+<l>Stava a l'ombra gentil di un gran cotale</l>
+<l>col suo germano un badial. . . . . . . . . .;</l>
+<l>costui contra 'l dover, contra ragione</l>
+<l>pigliò briga con uno, e gli andò male.</l></lg>
+<lg>
+<l>Perciò rivolto al suo fratel carnale,</l>
+<l>con gran rispetto e grande sommessione:</l>
+<l>— Frate, — disse, — se m'hai compassione,</l>
+<l>mi vendica d'un uom così bestiale. —</l></lg>
+<lg>
+<l>Allor l'altro . . . . . . . , mosso a pietate</l>
+<l>del fratel che morìa, scese in arena,</l>
+<l>invitando il nemico a pugnalate.</l></lg>
+<lg>
+<l>Ma il poverin, che aveva poca lena,</l>
+<l>rimase vinto dalle gran stoccate,</l>
+<l>che gli passavan fino per la stiena.</l></lg>
+<lg>
+<l rend="align: center">La miserabil scena</l>
+<l>vide il cotal dei due . . . . . . . . , e disse:</l>
+<l>— Ecco che ognun di voi morì qual visse. —</l></lg>
+<lg>
+<l rend="align: center">Indi s'un marmo scrisse:</l>
+<l>— O sciocchi, perchè entrate in tai quistioni,</l>
+<l>sapendo ch'eravate due . . . . . .. . .?</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LVI</head>
+<lg type="nc">
+<lg>
+<l>Colui che fece di “grembiul” “grembiale”,</l>
+<l>e di “candide” ancor “sacrate” ha fatto,</l>
+<l>io mi vo' tôrre, quand'e' voglia, a patto</l>
+<l>di mostrargli ch'egli è un animale,</l></lg>
+<lg>
+<l>un animal che tutto intende male</l>
+<l>anzi che intende quanto intende un matto,</l>
+<l>e di lingua non sa niente affatto.</l>
+<l>bench'e' faccia il saccente e 'l ser cotale.</l></lg>
+<lg>
+<l>Già sparso è già per Elicona il caso,</l>
+<l>e le Muse sdegnate in modo strano</l>
+<l>voglion mostrargli dov'e' metta il naso:</l></lg>
+<lg>
+<l>e gli scrittori del parlar toscano</l>
+<l>l'aspettan sulla strada di Parnaso,</l>
+<l>ciascun di loro colla frusta in mano;</l></lg>
+<lg>
+<l>e, acciò non prenda invano</l>
+<l>persone ad emendar di lui più pratiche,</l>
+<l>voglion dargli un cavallo in su le natiche.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LVII</head>
+<lg type="nc">
+<lg>
+<l>Su, signor correttore, in sul nasaccio</l>
+<l>mettetevi l'occhial del Galileo,</l>
+<l>e guardate un po' qui questo libraccio.</l>
+<l>se vi par ch'e' sia buono o che sia reo.</l></lg>
+<lg>
+<l>L'avete visto questo scartafaccio?</l>
+<l>Egli è, se nol sapete, il Galateo,</l>
+<l>che può giovare al vostro cervellaccio,</l>
+<l>quanto ad uno ammalato un buon cristeo.</l></lg>
+<lg>
+<l>Su via studiate ed imparate a mente!</l>
+<l>Studiatelo, vi dico, alla malora,</l>
+<l>se voi bramate d'imparar niente.</l></lg>
+<lg>
+<l>Orsù, avete imparato? Oh ditemi ora,</l>
+<l>se un asino d'Arcadia onnipotente</l>
+<l>può giudicar di voce alta e canora.</l></lg>
+<lg>
+<l rend="align: center">E poi mi dite ancora,</l>
+<l>se un Correttor pedante come vui</l>
+<l>è incivile, ignorante, o ambidui.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LVIII</head>
+<lg type="nc">
+<lg>
+<l>Portate in una madia la civaia</l>
+<l>al nostro miccio, che ha ragliato bene,</l>
+<l>e dappoi gli montate in sulle stiene</l>
+<l>voi altre mona Berta e mona Baia.</l></lg>
+<lg>
+<l>Fatelo correr su e giù per l'aia,</l>
+<l>frugandolo ben ben dietro alle rene;</l>
+<l>crescetegli dell'acqua e delle vene;</l>
+<l>e viva il nostro ciuco e la ciucaia.</l></lg>
+<lg>
+<l>Guata, com'egli al suon di que' frugoni</l>
+<l>che gli passano in fin drento al midollo,</l>
+<l>sgambetta bene e drizza gli orecchioni.</l></lg>
+<lg>
+<l>Or su, fra tutte vel recate in collo,</l>
+<l>e a suon di ribecacce e pifferoni</l>
+<l>conducetelo innanzi a mastro Apollo,</l></lg>
+<lg>
+<l rend="align: center">che gli vuol bene, e vuollo,</l>
+<l>poi ch'egli è dotto e così ben corregge,</l>
+<l>addottorar nell'una e l'altra legge.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LIX</head>
+<lg type="nc">
+<lg>
+<l>Perchè sono un fanciullo, un garzoncello,</l>
+<l>volete dir ch'io sono un ignorante?</l>
+<l>Oh! guata conseguenza da pedante,</l>
+<l>che sopra la berretta abbia 'l cervello.</l></lg>
+<lg>
+<l>Dove avete studiato? in un tinello,</l>
+<l>in una galeazza di levante,</l>
+<l>voi che fate di Pindo l'amostante,</l>
+<l>e non ne siete pur fante o bidello?</l></lg>
+<lg>
+<l>Voi misurate a canna le persone.</l>
+<l>Se la barba per voi forma il sapiente,</l>
+<l>chi sarà più sapiente d'un caprone?</l></lg>
+<lg>
+<l>Io vi concedo che non so niente;</l>
+<l>ma benchè siate così gran barbone,</l>
+<l>voi non siete, alla fe', troppo valente.</l></lg>
+<lg>
+<l rend="align: center">E benchè poi la gente</l>
+<l>vi stimi un bacalar di gran scienza,</l>
+<l>tra l'essere e 'l parer c'è differenza.</l></lg>
+<lg>
+<l rend="align: center">Direte: — Conoscenza</l>
+<l>non hai di me. — Ma piano, andate adagio,</l>
+<l>ch'anch'io so bene a quanti dì è san Biagio.</l></lg>
+<lg>
+<l rend="align: center">Ma poi ch'io non ho agio,</l>
+<l>non vo' stare a dir cosa che v'annoi;</l>
+<l>chè quel prete il fe' già ne' versi suoi.</l></lg>
+<lg>
+<l rend="align: center">O Nanni, io l'ho con voi;</l>
+<l>che non credeste che 'l mio gran furore</l>
+<l>fosse tutto rivolto al correttore.</l></lg>
+<lg>
+<l rend="align: center">Voi siete il protettore,</l>
+<l>ch'avete tolto senza alcun motivo</l>
+<l>a difendere un bufol vero e vivo.</l></lg>
+<lg>
+<l rend="align: center">Or non abbiate a schivo</l>
+<l>ch'io v'abbia detto quel che vi si deve.</l>
+<l>Qual asin dà in parete, tal riceve.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LX</head>
+<lg type="nc">
+<lg>
+<l>Che si scortica l'asino alla prova,</l>
+<l>dice un proverbio, messer Nanni mio.</l>
+<l>Finor credei che in sen madonna Clio</l>
+<l>e l'altre Muse vi covasser l'uova;</l></lg>
+<lg>
+<l>ma or m'avete dato una gran prova</l>
+<l>che voi siete un . . . . . . .  come son io;</l>
+<l>e sì vi giuro, per lo vero Iddio,</l>
+<l>che ben poco cervello in voi si trova,</l></lg>
+<lg>
+<l>poichè, contra ogni legge, ogni ragione,</l>
+<l>pensier voi fate di patrocinare</l>
+<l>questo vostro solenne animalone.</l></lg>
+<lg>
+<l>Io vi consiglio a non inschiccherare</l>
+<l>più il vostro scartabel per tal cagione,</l>
+<l>se non volete farvi cuculiare.</l></lg>
+<lg>
+<l rend="align: center">Vi par di sopportare</l>
+<l>ch'altri su' versi miei faccia del dotto,</l>
+<l>senza farmene pure un picciol motto?</l></lg>
+<lg>
+<l rend="align: center">E io dovrò star chiotto,</l>
+<l>vedendo con maniera da pedante</l>
+<l>lacerar le mie cose un ignorante?</l></lg>
+<lg>
+<l rend="align: center">Questo di tante e tante</l>
+<l>rime che ho fatto per servir quel tristo,</l>
+<l>io dico, questo guiderdone acquisto?</l></lg>
+<lg>
+<l rend="align: center">O cieli, o santi, o C. . . . . . . . . .</l>
+<l>e dove mai si ritrovâr tai leggi?</l>
+<l>E tu, cielo, il difendi, e tu 'l proteggi?</l></lg>
+<lg>
+<l rend="align: center">O dottor storcileggi...</l>
+<l>Ma voi, ser Nanni, fate quel ch'io dico;</l>
+<l>non v'impacciate più pel vostro amico</l></lg>
+<lg>
+<l rend="align: center">il qual non vale un fico,</l>
+<l>nè vi movete più a nostro danno,</l>
+<l>se non volete aver qualche malanno:</l></lg>
+<lg>
+<l rend="align: center">imperocchè quest'anno,</l>
+<l>a dirla chiaramente qui tra noi,</l>
+<l>è un anno climaterico per voi.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXI</head>
+<lg type="sonetto">
+<lg>
+<l>Nencia, ti mando questo mio sonetto,</l>
+<l>per narrarti uno strano pensieraccio</l>
+<l>che m'è venuto d'impiccarmi a un laccio,</l>
+<l>per amor dell'amore maladetto.</l></lg>
+<lg>
+<l>Io te lo dico spiattellato e schietto:</l>
+<l>se non mi togli fuor da questo impaccio,</l>
+<l>dentro un calappio la mia testa caccio,</l>
+<l>e ti fo quel bel gioco netto netto.</l></lg>
+<lg>
+<l>Gnaffe tel dico, ve', Nencia, e tu 'l sai:</l>
+<l>mentre son vivo, non vuoi farmi lieto,</l>
+<l>e dopo morto tu mi cercherai.</l></lg>
+<lg>
+<l>Ma s'io tiro alla fin l'ultimo peto,</l>
+<l>non varratti il picchiare, oppur potrai</l>
+<l>picchiarmi allora all'usciolin di dreto.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXII</head>
+<lg type="sonetto">
+<lg>
+<l>Nencia, te l'ho pur detto cento volte;</l>
+<l>nol vo' veder quel gaveggin di Beco:</l>
+<l>gnen'ho pur date delle busse molte,</l>
+<l>eppur vol far del cascamorto teco.</l></lg>
+<lg>
+<l>Che sì, che s'io mi stizzo un giorno seco,</l>
+<l>alle guagnel che gli fo dar le volte</l>
+<l>con quel buon bacchio che di notte reco:</l>
+<l>e di' che gli sien poi dal papa tolte.</l></lg>
+<lg>
+<l>Sai pur che, s'io mi ficco un capricciaccio,</l>
+<l>non mi va fuora dalla testa piùe:</l>
+<l>l'ha' tu ben visto il dì di Berlingaccio,</l></lg>
+<lg>
+<l>quand'io fei tanto piato con quel bue</l>
+<l>in casa tuo cugino Menicaccio.</l>
+<l>Di', allor chi corse meglio di noi due?</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXIII</head>
+<lg type="sonetto">
+<lg>
+<l>Io, Nencia, sono stat'ieri a Fiorenza,</l>
+<l>e t'ho comprato un bel gammurin bianco;</l>
+<l>e, se tu arai un po' di pazienza,</l>
+<l>un gonnellino i' vo' comprartel'anco.</l></lg>
+<lg>
+<l>Ormai di crazie son rimasto senza,</l>
+<l>perciocch'io compro e pago come un banco;</l>
+<l>ma ho nascosto uno staio di semenza,</l>
+<l>e quattro lire chiapperolle almanco.</l></lg>
+<lg>
+<l>Per san Giovanni adunque il gonnellino</l>
+<l>tu l'averai indosso senza fallo,</l>
+<l>che tu proprio parrai un angiolino.</l></lg>
+<lg>
+<l>Ma ricordati, ve', di conservallo</l>
+<l>per la memoria del tuo gaveggino,</l>
+<l>che ti vuol bene, al corpo di cristallo!</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXIV</head>
+<lg type="nc">
+<lg>
+<l>Ah, Tofan, quella Gora, quella Gora,</l>
+<l>tu non la vuo' lasciare, sguaiataccio!</l>
+<l>Che sì, che s'io l'affilo un coltellaccio,</l>
+<l>quell'animaccia te la cavo fuora!</l></lg>
+<lg>
+<l>Oh che tu poss'andare alla malora!</l>
+<l>Che diacin ha' tu seco, impiccataccio?</l>
+<l>S'io ti sbarro uno schioppo nel mostaccio,</l>
+<l>che sì che le starai lontano allora?</l></lg>
+<lg>
+<l>Io vo' che tu lasci pe' suo' fatti;</l>
+<l>se no, le voglion essere percosse:</l>
+<l>e sarem sempre come cani e gatti.</l></lg>
+<lg>
+<l>Fa ch'io ti vegga, che ti rompo l'osse</l>
+<l>con un baston ch'alle spalle s'adatti;</l>
+<l>ch'io non posso più star saldo alle mosse.</l></lg>
+<lg>
+<l rend="align: center">E ben che il Duca fosse,</l>
+<l>quando mi salta, ve', il moscerino,</l>
+<l>lo vorrei sbusecchiar per un quattrino.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXV</head>
+<lg type="sonetto">
+<lg>
+<l>O anima bizzarra del Burchiello,</l>
+<l>che componesti tante belle cose,</l>
+<l>sicchè s'odono ancora in versi e in prose</l>
+<l>l'eccelse lodi del tuo gran cervello,</l></lg>
+<lg>
+<l>deh! volgi da quel seggio aurato e bello,</l>
+<l>ove siedi coll'altre alme famose,</l>
+<l>volgi, dico, le due luci amorose</l>
+<l>a questo nostro poeta novello.</l></lg>
+<lg>
+<l>Guatalo bene; e quando che la zanna</l>
+<l>della Morte il rapisce al vulgo ignaro,</l>
+<l>gli darai la man ritta in sulla scranna.</l></lg>
+<lg>
+<l>O per mostrare a certe genti strambe</l>
+<l>quanto lo stimi e quanto l'abbi caro,</l>
+<l>ti starà bene in mezzo delle gambe.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXVI</head>
+<lg type="sonetto">
+<lg>
+<l>Se costui fosse nato allor che i vati</l>
+<l>si stavan spidocchiando al sollione,</l>
+<l>aremmo visto tutte le persone</l>
+<l>a fargli degli onori sterminati:</l></lg>
+<lg>
+<l>e visto arebbon certi sciagurati</l>
+<l>che finor lo stimarono un babbione,</l>
+<l>a mezzo giorno ed a settentrione</l>
+<l>andar la fama de' suoi versi ornati.</l></lg>
+<lg>
+<l>Il meno onor che gli avesson fatto</l>
+<l>sarebbe stato il metterlo a cavallo</l>
+<l>d'un liofante grosso tanto fatto:</l></lg>
+<lg>
+<l>e, giunto in Campidoglio, coronallo,</l>
+<l>gridando il popolazzo allegro e matto</l>
+<l>— Ecco il novo poeta Baraballo. —</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXVII</head>
+<lg type="nc">
+<lg>
+<l>Ho visto i geroglifici d'Egitto</l>
+<l>la sfinge e l'arsmagna ed il caosse,</l>
+<l>che tutt'infuriati in un conflitto</l>
+<l>si davan delle sudice percosse.</l></lg>
+<lg>
+<l>Chi sosteneva che 'l presente scritto</l>
+<l>contien drento i giudizi di Minosse,</l>
+<l>e chi diceva che propio descritto</l>
+<l>il <foreign lang="lat">lapis</foreign> filosofico ci fosse.</l></lg>
+<lg>
+<l>Facevano un rumore, un chiasso, un frullo,</l>
+<l>battendosi gli scudi e le loriche,</l>
+<l>ch'egli era proprio a vedergli un trastullo.</l></lg>
+<lg>
+<l>A soccorrere ognun le parti amiche</l>
+<l>son corsi i libri di Raimondo Lullo</l>
+<l>e le iscrizioni e le medaglie antiche;</l></lg>
+<lg>
+<l rend="align: center">colle sciocche e mendiche</l>
+<l>carte di tali che l'antiquario fanno,</l>
+<l>e interpretan le cose che non sanno.</l></lg>
+<lg>
+<l rend="align: center">E armate ancor vi vanno</l>
+<l>tutte unite le mummie in un museo</l>
+<l>e la romana guglia e 'l culiseo,</l></lg>
+<lg>
+<l rend="align: center">con dietro un gran corteo</l>
+<l>di tumuli, obelischi, archi e colonne</l>
+<l>e simulacri d'uomini e di donne</l></lg>
+<lg>
+<l rend="align: center">coll'armi e colle gonne.</l>
+<l>Ma poichè disputato ebbono un pezzo,</l>
+<l>non trovando a capir nè via nè mezzo,</l></lg>
+<lg>
+<l rend="align: center">conchiusono al da sezzo</l>
+<l>ch'è d'uopo, per capir opra sì bella,</l>
+<l>che cavinsi all'autore le cervella.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXVIII</head>
+<lg type="sonetto">
+<lg>
+<l>Ti sono schiavo, ti son servitore</l>
+<l>Cecco, che se' 'l mio bene solo solo.</l>
+<l>Deh lascial ir quel ragazzo d'Amore</l>
+<l>ch'egli è una forca, ch'egli è un mariuolo.</l></lg>
+<lg>
+<l>I' te lo dico, ve', proprio col core:</l>
+<l>tu vai pel bucolin dell'acquaiolo;</l>
+<l>e, alle guagnele, ch'i' ho un gran timore</l>
+<l>che tu non tiri alfine anche l'aiuolo.</l></lg>
+<lg>
+<l>Uh tristo me, se steso in sul cassone,</l>
+<l>belle e tirate ahi poverin! le cuoia,</l>
+<l>avessi un dì a veder il mio Ceccone;</l></lg>
+<lg>
+<l>e scritto sopra per maggior mia noia:</l>
+<l>“Qui giace un tale che morì poltrone,</l>
+<l>come i gatti per fregola e per foia”.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXIX</head>
+<lg type="sonetto">
+<lg>
+<l>Ch'io possa diventare una ghiandaia</l>
+<l>o vero un barbajanni o un alocco,</l>
+<l>s'io sono un'altra volta sì balocco</l>
+<l>da star tanto menando il can per l'aia!</l></lg>
+<lg>
+<l>La prima occasion che buona paia,</l>
+<l>dimmi un furbo, ser Cecco, e uno scrocco,</l>
+<l>s'io non carico l'arco e non iscocco,</l>
+<l>e non do dentro alla pietra focaia.</l></lg>
+<lg>
+<l>Non v'ha a esser più ragion nessuna;</l>
+<l>ch'i' non vo' sentir altro brulichio</l>
+<l>che mi frughi pel ventre in su e in giùe.</l></lg>
+<lg>
+<l>L'occasion è come la fortuna.</l>
+<l>Se nolla chiappi in men che nol dich'io,</l>
+<l>tu puoi ben correr, nolla grappi piùe.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXX</head>
+<lg type="nc">
+<lg>
+<l>Voi avete a saper, buone persone,</l>
+<l>come il nostro ser Cecco è innamorato,</l>
+<l>io dico il nostro ser Cecco Ceccone;</l>
+<l>doh pover'uomo! ch'egli è un peccato.</l></lg>
+<lg>
+<l>Egli è venuto maghero e spolpato,</l>
+<l>che gli traluce il fegato e 'l polmone,</l>
+<l>e se gli vede andar per ogni lato</l>
+<l>tututto il budellame a processione.</l></lg>
+<lg>
+<l>E caccia fuor quegli occhi, e fa una cera</l>
+<l>ch'e' per ch'egli abbia visto Satanasso</l>
+<l>e l'orco e la beffana e la Versiera;</l>
+<l>e va gridando in istrada: — Oimè lasso! —</l>
+<l>come fece il Petrarca quella sera</l>
+<l>o mattina, ch'e' fu tratto in conquasso:</l></lg>
+<lg>
+<l rend="align: center">però che, giunto al passo</l>
+<l>u' quel furbo d'Amor tendeva il laccio,</l>
+<l>fu preso come un merlo, il cristianaccio!</l></lg>
+<lg>
+<l rend="align: center">Io dico: — Avaccio avaccio,</l>
+<l>noi vedremo ser Cecco ad ammalare</l>
+<l>e non poter nè bere nè mangiare,</l></lg>
+<lg>
+<l rend="align: center">e le calze tirare;</l>
+<l>però che Amor gli ha fatto una ferita</l>
+<l>ch'è larga almeno quattro o cinque dita!</l></lg>
+<lg>
+<l rend="align: center">Onde d'aver più vita</l>
+<l>non ci sperare più, ser Cecco mio,</l>
+<l>se non per un miracolo di Dio. —</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXI</head>
+<lg type="sonetto">
+<lg>
+<l>In man d'essecutori e di notai,</l>
+<l>che vuol dir di guidoni e di furfanti,</l>
+<l>io son ridotto a tale stato omai</l>
+<l>ch'io non confido più nè in Dio nè in santi.</l></lg>
+<lg>
+<l>Non so di qual religion sien mai,</l>
+<l>se turchi, ebrei, gentili o protestanti;</l>
+<l>ma mi fo creder che questi cotai</l>
+<l>sien affatto ateisti tutti quanti.</l></lg>
+<lg>
+<l>Oh che bestie, oh che bestie son, per Dio!</l>
+<l>E' voglion pur del sangue mio cibarsi,</l>
+<l>e dicon ch'egli è lor quello ch'è mio.</l></lg>
+<lg>
+<l>Voi principi, cui dato a governarsi</l>
+<l>fu 'l mondo da messer Domeneddio,</l>
+<l>son questi, questi i ladri da impiccarsi.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXII</head>
+<lg type="nc">
+<lg>
+<l>Da un tal che pare una mummia d'Egitto,</l>
+<l>ma più fiero dei draghi e i coccodrilli,</l>
+<l>che va via per istrada ritto ritto</l>
+<l>sì che pare appuntato sugli spilli,</l></lg>
+<lg>
+<l>deh! guardatevi, o genti, chè 'l suo vitto</l>
+<l>è di quel dei legati e de' pupilli:</l>
+<l>e non va poi nell'operar sì dritto,</l>
+<l>ma è pien d'invenzioni e di cavilli.</l></lg>
+<lg>
+<l>Ei non istima coscienza un'acca,</l>
+<l>e pur ch'egli arricchisca la sua schiatta,</l>
+<l>cerca render l'altrui povera e fiacca.</l></lg>
+<lg>
+<l>Ei mi s'appicca come una mignatta,</l>
+<l>e dal mio sangue mai non si distacca</l>
+<l>s'io v'adoprassi l'ugne d'una gatta.</l></lg>
+<lg>
+<l rend="align: center">Per me la cosa è fatta.</l>
+<l>Se mai non viene un diavol che lo grappe</l>
+<l>direttamente in mezzo delle chiappe,</l></lg>
+<lg>
+<l rend="align: center">sicch'egli non iscappe,</l>
+<l>e dar gli faccia un maledetto crollo,</l>
+<l>finchè si rompa un dì l'osso del collo.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXIII</head>
+<lg type="nc">
+<lg>
+<l>O Fortuna, Fortuna crudelaccia,</l>
+<l>che se' fatta per mia disperazione;</l>
+<l>Fortuna non più no, ma Fortunaccia,</l>
+<l>ha a durare un pezzo sta canzone?</l></lg>
+<lg>
+<l>Vogliam finirla, e volger quella faccia</l>
+<l>un poco ancora alle buone persone?</l>
+<l>Che sì che mi daresti roba a braccia</l>
+<l>s'io t'avessi la ciera d'un briccone?</l></lg>
+<lg>
+<l>S'io fossi, verbigrazia, una puttana</l>
+<l>o un castrato o una cantatrice</l>
+<l>o un bel marmocchio ovvero una ruffiana?</l></lg>
+<lg>
+<l>Allora sì diventerei felice.</l>
+<l>Ma perchè osservo la legge cristiana,</l>
+<l>ognun mi scaccia, ognun mi maledice,</l></lg>
+<lg>
+<l rend="align: center">e son sempre infelice.</l>
+<l>Ma vivrò, sguaiataccia, al tuo dispetto;</l>
+<l>e se ti grappo un dì per quel ciuffetto,</l></lg>
+<lg>
+<l rend="align: center">te lo strappo di netto:</l>
+<l>sicchè i ragazzi, a vederti sì bella,</l>
+<l>t'abbian a gridar dietro: — Vella, vella!</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXIV</head>
+<lg type="nc">
+<lg>
+<l>Molti somari ho scritto in una lista,</l>
+<l>che pretendon saper di poesia,</l>
+<l>e ne san tanto quanto un ateista</l>
+<l>ne può sapere di teologia.</l></lg>
+<lg>
+<l>Se t'incontran talotta per la via,</l>
+<l>tosto di non vederti fanno vista;</l>
+<l>e pur se chiedi lor Dante chi sia,</l>
+<l>dicon che Dante gli era un secentista.</l></lg>
+<lg>
+<l>Ti citano il rimario del Ruscelli,</l>
+<l>come farebbe un turco l'Alcorano,</l>
+<l>e ne san quanto i gufi e i falimbelli.</l></lg>
+<lg>
+<l>E, se ti leggono un sonetto strano,</l>
+<l>si van ringalluzzando, e si fan belli,</l>
+<l>e dicon ch'è di stile alto e sovrano.</l></lg>
+<lg>
+<l rend="align: center">Or questa lista in mano</l>
+<l>io dòtti, o Nume che in Parnaso imperi,</l>
+<l>acciocchè gli conoschi questi Seri</l></lg>
+<lg>
+<l rend="align: center">fuor dei poeti veri;</l>
+<l>e tu, Pegaso, se ti montan suso,</l>
+<l>rompi pur loro con un calcio il muso.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXV</head>
+<lg type="nc">
+<lg>
+<l>M'ha invitato a ballar ieri ser Nanni</l>
+<l>in cima quattro scale sotto un tetto.</l>
+<l>Dall'una banda era appoggiato un letto,</l>
+<l>e dall'altra un armadio con tre scanni.</l></lg>
+<lg>
+<l>Da un'altra parte v'erano de' panni</l>
+<l>sur un appiccatoio, e a dirimpetto</l>
+<l>il focolar, la pentola, il soffietto,</l>
+<l>le stoviglie e uno spiedo che ti scanni.</l></lg>
+<lg>
+<l>In un cantuccio v'erano de' piatti</l>
+<l>posti s'un acquaiuol mezzo distrutto,</l>
+<l>uno sgabello e due cenci disfatti.</l></lg>
+<lg>
+<l>Del resto v'era luogo dappertutto</l>
+<l>di saltare in un mucchio come i gatti,</l>
+<l>v'era il bisogno, vi mancava tutto.</l></lg>
+<lg>
+<l rend="align: center">I sonatori a lutto</l>
+<l>suonavan una razza di strumenti</l>
+<l>che ti metteva i brividi ne' denti.</l></lg>
+<lg>
+<l rend="align: center">Ambidue gli occhi spenti</l>
+<l>aveva l'uno, e l'altro era storpiato,</l>
+<l>e un, che come un ladro era stracciato,</l></lg>
+<lg>
+<l rend="align: center">ci vedeva sol da un lato.</l>
+<l>Le sonate ch'avean in mente fitte,</l>
+<l>eran di quelle che facea Davitte.</l></lg>
+<lg>
+<l rend="align: center">Stavano ritte ritte</l>
+<l>in sulle panche che parean steccate,</l>
+<l>certe brutte fanciulle indiavolate.</l></lg>
+<lg>
+<l rend="align: center">Eran tutte malate:</l>
+<l>chi aveva 'l cacasangue e chi la tosse,</l>
+<l>chi non cacava e chi avea le mosse:</l></lg>
+<lg>
+<l rend="align: center">e la meno che fosse</l>
+<l>avea la rogna, avea il mal franzese,</l>
+<l>e 'l benefizio non avea del mese.</l></lg>
+<lg>
+<l rend="align: center">Un scopator di chiese,</l>
+<l>un beccamorto, un zaffo, un ciabattino,</l>
+<l>un gabelliere, un lanzo ed un facchino</l></lg>
+<lg>
+<l rend="align: center">ed anche un chierichino</l>
+<l>de que' che in chiesa servono alle monache,</l>
+<l>un oste, un cuoco e, per finir le cronache,</l></lg>
+<lg>
+<l rend="align: center">due frati senza tonache,</l>
+<l>con certi visi di bertucce o monne</l>
+<l>facean conversazion con quelle donne,</l></lg>
+<lg>
+<l rend="align: center">a cui putìan le gonne</l>
+<l>d'un odor d'ogni sorta di malanni.</l>
+<l>Oh i begli inviti che mi fa ser Nanni.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXVI</head>
+<lg type="sonetto">
+<lg>
+<l>Nanni s'ha messo un mantellaccio in dosso</l>
+<l>che, s' tu 'l vedessi, ti parrebbe un matto;</l>
+<l>credo che se 'l facesse il re Minosse</l>
+<l>quando giudice <foreign lang="lat">ad Inferos</foreign> fu fatto.</l></lg>
+<lg>
+<l>Egli è cencioso, rattoppato e grosso,</l>
+<l>ne cola il brodo e l'unto liquefatto:</l>
+<l>era già nero, ed or diventa rosso</l>
+<l>per la vergogna d'esser così fatto.</l></lg>
+<lg>
+<l>Fa Nanni in somma sì trista figura</l>
+<l>con quello straccio in sulle spalle storto,</l>
+<l>ch'io ne disgrado la mala ventura.</l></lg>
+<lg>
+<l>Il primo dì che in tal foggia l'ho scorto,</l>
+<l>io ebbi a spiritar della paura,</l>
+<l>temendo ch'e' non fosse il beccamorto.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXVII</head>
+<lg type="sonetto">
+<lg>
+<l>Nanni mi sbircia prima e quindi arrappa</l>
+<l>ogni via per fuggirmi, o manca o destra,</l>
+<l>e s'imbavaglia dentro della cappa</l>
+<l>quel musin da colpir colla balestra.</l></lg>
+<lg>
+<l>Che sì, che un giorno tanto si rattrappa</l>
+<l>e s'imbacucca ch'egli s'incapestra!</l>
+<l>Deh corri, Farfanicchio, e poi la grappa,</l>
+<l>e lo disvogli con maniera destra.</l></lg>
+<lg>
+<l>E col puntel de' cozzi un buon sommesso</l>
+<l>gli rileva dal suol quel pa' d'occhiacci,</l>
+<l>e fa ch'e' guardi ben s'io son quel desso.</l></lg>
+<lg>
+<l>Poi diragli pian pian, senza minacci:</l>
+<l>se lo noia vedermi così spesso,</l>
+<l>che tu coll'ugne lo torrai d'impacci.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXVIII</head>
+<lg type="sonetto">
+<lg>
+<l>Se scorto pria t'avessi, o d'una gogna</l>
+<l>degno, dell'altrui opre usurpatore,</l>
+<l>io t'are' fatto tanto disonore,</l>
+<l>che ne saresti morto di vergogna.</l></lg>
+<lg>
+<l>Oh! va, cacciati adesso entro una fogna,</l>
+<l>se tu non vuoi provar di che tenore</l>
+<l>sia la mia penna, quand'ell'è in furore,</l>
+<l>bue, piluccone, asinaccio, carogna.</l></lg>
+<lg>
+<l>Io non so chi mi tien, corpo di. . . . . .</l>
+<l>ch'io non ti sforzi or ora a dispogliarti</l>
+<l>di tutto quanto ha' tu del fatto mio;</l></lg>
+<lg>
+<l>e ch'io non pongami a perseguitarti,</l>
+<l>con verseggiar sì attossicato e rio</l>
+<l>che di tua man tu vada ad impiccarti.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXIX</head>
+<lg type="sonetto">
+<lg>
+<l>Signori cari, fate di star sani,</l>
+<l>almeno almen finchè non vi malate,</l>
+<l>e per amor del cielo vi guardate</l>
+<l>di non ire a ingrassare i petronciani.</l></lg>
+<lg>
+<l>E voi, Piovano, quelle vostre mani</l>
+<l>non le tenete mica scioperate;</l>
+<l>ma a scriver belle cose le adoprate</l>
+<l>in versi ora latini ora toscani.</l></lg>
+<lg>
+<l>Così, coll'arte ch'ogni orgoglio placa,</l>
+<l>non temerete quella vecchia piùe</l>
+<l>che tira colpi da matta imbriaca.</l></lg>
+<lg>
+<l>E chiaro il vostro nome ognora piùe</l>
+<l>n'andrà persino in India Pastinaca,</l>
+<l>là dove l'acque corron all'ingiùe.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXX</head>
+<lg type="nc">
+<lg>
+<l>Ser Cecco mio, voi siete spiritato</l>
+<l>sì, per santa Nafissa, a dir ch'io muoio,</l>
+<l>per che son d'una donna imbertonato</l>
+<l>più che d'una carogna un avvoltoio.</l></lg>
+<lg>
+<l>Voi mi fate un supposto sgangherato</l>
+<l>a dire che perciò mi spolpo e scuoio;</l>
+<l>ch'io non son mica come voi bruciato,</l>
+<l>tenero di calcagna, cascatoio.</l></lg>
+<lg>
+<l>Cancher vi mangi: il vo' pur dir; gli è vero</l>
+<l>sì, ch'egli è ver ch'io son proprio disfatto</l>
+<l>d'una ragazza che vale un impero,</l></lg>
+<lg>
+<l>e vo' giuocar, che se 'l vedeste un tratto</l>
+<l>quel visin che m'ha fatto prigioniero,</l>
+<l>voi n'andreste in frega come un gatto.</l></lg>
+<lg>
+<l rend="align: center">Ma pur non m'han mai tratto</l>
+<l>in sì sciocco pensiero due luci belle</l>
+<l>di voler per amor tormi la pelle.</l></lg>
+<lg>
+<l rend="align: center">E non stimo covelle</l>
+<l>il mal d'amore, s'io ne son guerito</l>
+<l>solamente con polli e pambollito.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXXI</head>
+<lg type="sonetto">
+<lg>
+<l>Voi me ne avete fatti tanti e tanti</l>
+<l>di questi vostri attacci arcipoltroni,</l>
+<l>che se tornate a rompermi i. . . . . . . .</l>
+<l>vi tratterò da birbe e da furfanti.</l></lg>
+<lg>
+<l>Voi siete una tormaccia di pedanti,</l>
+<l>che non volete intender le ragioni;</l>
+<l>e perchè fate i saggi e i dottoroni</l>
+<l>stimate gli altri goffi ed ignoranti.</l></lg>
+<lg>
+<l>Che c'è egli drento in que' vostri libracci</l>
+<l>a non volere che sien letti mai</l>
+<l>quando voi nol volete, ignorantacci?</l></lg>
+<lg>
+<l>Il diavol, credo, che vi salti omai</l>
+<l>su que' vostri muffati granellacci,</l>
+<l>e vi faccia gridare: — Ahi ahi ahi ahi! —</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXXII</head>
+<lg type="sonetto">
+<lg>
+<l>Andate alla malora, andate, andate,</l>
+<l>e non mi state a rompere i . . . . . . . . .</l>
+<l>Io non vo' più sentir queste sonate.</l>
+<l>Che vestizioni, che professioni?</l></lg>
+<lg>
+<l>Doh maladette usanze indiavolate!</l>
+<l>Possibil che dottor non s'incoroni,</l>
+<l>non si faccia una monaca o un frate,</l>
+<l>senza i sonetti, senza le canzoni?</l></lg>
+<lg>
+<l>Che debb'io dire? che costei le spalle</l>
+<l>ardita volge ai tre nemici armati,</l>
+<l>ch'alla cella sen va per dritto calle!</l></lg>
+<lg>
+<l>Ch'amor disperasi, e gl'innamorati?...</l>
+<l>E dàlle e dàlle e dàlle e dàlle e dàlle,</l>
+<l>con questi cavolacci riscaldati!</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXXIII</head>
+<lg type="nc">
+<lg>
+<l>O monachine mie, questa fanciulla</l>
+<l>è una fanciulla tutta bella e buona;</l>
+<l>bella e diritta della sua persona,</l>
+<l>che, come a donna, non le manca nulla.</l></lg>
+<lg>
+<l>Ella poppava quand'ell'era in culla;</l>
+<l>poi, per forza di Cerere e Pomona,</l>
+<l>è venuta una bella pollastrona</l>
+<l>che finor dette al mondo erba trastulla.</l></lg>
+<lg>
+<l>Ella ha poi un cervel non dal suo sesso,</l>
+<l>chè mai non fece una minchioneria,</l>
+<l>se a sorte mai non la facesse adesso.</l></lg>
+<lg>
+<l>Ella è inoltre così divota e pia</l>
+<l>ch'ella, sera e mattina, dice spesso</l>
+<l>il paternostro e l'avemmaria.</l></lg>
+<lg>
+<l rend="align: center">In fine ella sarìa,</l>
+<l>se Iddio daralle grazia ch'ella viva,</l>
+<l>proprio il caso per la contemplativa;</l></lg>
+<lg>
+<l rend="align: center">e per la vita attiva,</l>
+<l>poichè a far berricuocoli e ciambelle</l>
+<l>non c'è un paio di man come son quelle.</l></lg>
+<lg>
+<l rend="align: center">Ei bisogna vedelle;</l>
+<l>ch'io vi so dir che non varrìa danaio</l>
+<l>appetto a lei il miglior ciambellaio</l></lg>
+<lg>
+<l rend="align: center">o berricuocolaio:</l>
+<l>e s'ella vale un mezzo mondo a falle,</l>
+<l>ne val più di millanta a manucalle.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXXIV</head>
+<lg type="nc">
+<lg>
+<l>Son le Furie d'Averno, a quel ch'io sento,</l>
+<l>tre: Megera, Tesifone ed Aletto;</l>
+<l>ma al mondo se ne contan per portento</l>
+<l>infino a sei sotto un medesmo tetto.</l></lg>
+<lg>
+<l>Son sei sorelle tutte d'un aspetto:</l>
+<l>il ciel ne guardi s'elle fusson cento!</l>
+<l>Cacolle la Natura per dispetto</l>
+<l>un dì ch'ella si messe un argomento.</l></lg>
+<lg>
+<l>C'è ancor chi dice ch'elle usciron fuora</l>
+<l>prima di tutti quanti gli altri mali</l>
+<l>dal maladetto vaso di Pandora.</l></lg>
+<lg>
+<l>Chi volesse fondar cento spedali</l>
+<l>o lazzeretti lo farebbe ognora</l>
+<l>ch'egli potesse aver queste cotali</l></lg>
+<lg>
+<l rend="align: center">veraci e naturali</l>
+<l>immagini del morbo e della peste,</l>
+<l>fatte senza livello e senza seste</l></lg>
+<lg>
+<l rend="align: center">dalle veloci e preste</l>
+<l>mani della Natura esterrefatta</l>
+<l>da quella materiaccia contrafatta,</l></lg>
+<lg>
+<l rend="align: center">la qual par proprio fatta</l>
+<l>per far le tentazioni a Sant'Antonio</l>
+<l>in forma di fantasma o di demonio.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXXV</head>
+<lg type="nc">
+<lg>
+<l>Muse pitocche, andatene al bordello,</l>
+<l>poichè da questo vostro mestieraccio,</l>
+<l>mentre per soddisfare a ognun m'avaccio,</l>
+<l>io non ne cavo un marcio quattrinello.</l></lg>
+<lg>
+<l>M'ho io dunque a beccar sempre il cervello</l>
+<l>sopra qualche sguaiato suggettaccio,</l>
+<l>che, innanzi che l'onor ch'io gli procaccio,</l>
+<l>merterìa di remar sopra un vascello?</l></lg>
+<lg>
+<l>Eccoti, Apollo mio, la tua ghirlanda!</l>
+<l>Io te ne incaco ch'ella sia immortale,</l>
+<l>poichè frutto nessun non mi tramanda.</l></lg>
+<lg>
+<l>Almen ci fosse ancor qualche cotale</l>
+<l>de' prischi eroi! Ma qual ragion comanda</l>
+<l>d'ingrandir co' miei versi uno animale,</l></lg>
+<lg>
+<l rend="align: center">un sciocco, uno stivale</l>
+<l>che s'acconventi? ovvero una bagascia</l>
+<l>che per colpa de' padri il mondo lascia,</l></lg>
+<lg>
+<l rend="align: center">e d'un velo si fascia,</l>
+<l>e, giunta in munister, po' po' in quel fondo</l>
+<l>fa forse peggio che non fece al mondo?</l></lg>
+<lg>
+<l rend="align: center">Ah, l'uno e l'altro pondo</l>
+<l>mi sia strappato via con le tanaglie,</l>
+<l>piuttosto che lodar queste canaglie!</l></lg>
+<lg>
+<l rend="align: center">Un asino che raglia</l>
+<l>sia ben degno cantor di quella gente</l>
+<l>che a chi canta per lor non dan mai niente.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXXVI</head>
+<lg type="nc">
+<lg>
+<l>Sì vivi pur così . . . . . . . vecchia,</l>
+<l>con questi tuoi . . . . . . . . . . sciocchi.</l>
+<l>Sì, nelle sceleraggini, sì, invecchia,</l>
+<l>ove tu fai cotenna e ti balocchi.</l></lg>
+<lg>
+<l>Mi poss'esser tagliato via un'orecchia,</l>
+<l>e cavati di testa ambedue gli occhi,</l>
+<l>e gelosia mi punge o mi morsecchia</l>
+<l>o mi trapassa il cor con degli stocchi.</l></lg>
+<lg>
+<l>Mi vergogno del ben che t'ho voluto,</l>
+<l>e, s'io ne sento una favilla in petto,</l>
+<l>poss'io essere un gran . . . . . . . . . . .  </l></lg>
+<lg>
+<l>S' tu mai pigli marito, io gli prometto</l>
+<l>che in men d'un mese, sia pur egli astuto,</l>
+<l>a portare il cimier sarà costretto.</l></lg>
+<lg>
+<l rend="align: center">E finalmente aspetto</l>
+<l>di vederti venir fuor del bordello</l>
+<l>in mezzo alla sbirraglia ed al bargello</l></lg>
+<lg>
+<l rend="align: center">con al collo il cartello</l>
+<l>e la mitera in capo in sur un miccio,</l>
+<l>e 'l boia dreto a dartene un carpiccio.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXXVII</head>
+<lg type="nc">
+<lg>
+<l>Masin, cotesto tuo calonacaccio</l>
+<l>che ruba i versi e l'opere stampate,</l>
+<l>poi dice ch'egli stesso le ha inventate,</l>
+<l>bench'ei di poetar non ne sa straccio;</l></lg>
+<lg>
+<l>oh! va, digli ch'egli è un bell'asinaccio,</l>
+<l>vestito delle pelli che ha rubate;</l>
+<l>ma che tu lo conosci alle ragliate:</l>
+<l>oh! va, digliene pure in sul mostaccio!</l></lg>
+<lg>
+<l>Digli ch'e' vada tra la gente sciocca</l>
+<l>a fare il dotto, e colla cera brusca</l>
+<l>nomi ed aggiunti, satire gli scocca!</l></lg>
+<lg>
+<l>Ma no, ch'ogn'altro pregio un solo offusca:</l>
+<l>dàgli soltanto il titol che gli tocca.</l>
+<l>Sa' tu quel ch'e' vuol dire in lingua etrusca?</l></lg>
+<lg>
+<l rend="align: center">Va, leggila la Crusca,</l>
+<l>e troverai che, in buona locuzione,</l>
+<l>calonaco vuol dir propio. . . . . . .</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXXVIII</head>
+<lg type="terza-rima">
+<lg>
+<l>Oh poffare! ser Cecco, i' son rimasto</l>
+<l>proprio come s'io fossi senza un corno:</l>
+<l>non mi sa buono nè dormir, nè pasto.</l></lg>
+<lg>
+<l>Io vo pur dietro a sbirciare d'intorno,</l>
+<l>per vederti una volta, vezzo mio;</l>
+<l>ma in van io guato e di notte e di giorno,</l></lg>
+<lg>
+<l>tu se' scappato senza dirmi addio;</l>
+<l>e starai lieto, e farai buona ciera,</l>
+<l>mentr'io ti cerco a oriente, a bacìo.</l></lg>
+<lg>
+<l>Doh! che gli venga un orco, una versiera,</l>
+<l>e se lo portin via quel can, quel tristo,</l>
+<l>cagion che tu ne desti buona sera.</l></lg>
+<lg>
+<l>Giuro sul berrettin dell'Anticristo</l>
+<l>ch'i' vorre' proprio colle man sbranallo,</l>
+<l>se 'l conoscessi, se l'avessi visto.</l></lg>
+<lg>
+<l>Al corpo, al sangue, ch'i' vorre' cacciallo</l>
+<l>dentro 'n un cesso, dentro 'n una fogna,</l>
+<l>a far co' vermi e colle bòtte un ballo.</l></lg>
+<lg>
+<l>Non ti par egli degno d'una gogna,</l>
+<l>d'un cartoccio turchin, d'un asinello</l>
+<l>e d'una frusta, e d'una gran vergogna?</l></lg>
+<lg>
+<l>Ma ritorniamo a te, ser Cecco bello:</l>
+<l>come va la faccenda? E la signora</l>
+<l>ti fruga nel pensier, di dà martello?</l></lg>
+<lg>
+<l>Vatt'ella consumando ad ora ad ora,</l>
+<l>povero meschinello, poveraccio,</l>
+<l>oppure ti dà sosta una qualch'ora?</l></lg>
+<lg>
+<l>Tu senti tu del caldo, oppur del ghiaccio?</l>
+<l>Se' vivo, sano, verde come un aglio?</l>
+<l>Oppure se' ravvolto in uno straccio?</l></lg>
+<lg>
+<l>I' ho tanta paura che mi quaglio</l>
+<l>allor ch'io penso a cotesto tuo stato,</l>
+<l>e mi pare d'avere addosso un maglio.</l></lg>
+<lg>
+<l>Ma spero che rimedio arai trovato</l>
+<l>a questo rodimento maladetto,</l>
+<l>e quel gran ruzzo te l'avrai cavato.</l></lg>
+<lg>
+<l>Se no, cerca di trarre alcun diletto</l>
+<l>da qualche foresozza ben tarchiata</l>
+<l>ch'elle sono, per Dio, di core schietto.</l></lg>
+<lg>
+<l>Falle col chittarrin la serenata,</l>
+<l>ch'e' non c'è ristio di pigliar l'acceggia:</l>
+<l>dàlle la ben venuta e ben trovata.</l></lg>
+<lg>
+<l>E quando che la zappa o la marreggia,</l>
+<l>va a ritrovarla, e presso le ti metti,</l>
+<l>e lì ciarla e singhiozza e cuccuveggia.</l></lg>
+<lg>
+<l>Dàlle de' nastri, dàlle de' merletti,</l>
+<l>e qualche stringa, e qualche coreggiuolo,</l>
+<l>e de' bigheri ancor, degli spilletti.</l></lg>
+<lg>
+<l>E così passeratti il tempo a volo,</l>
+<l>senza pensare alle ribalderie,</l>
+<l>senz'alcun dispiacere, senza duolo.</l></lg>
+<lg>
+<l>Legger potràle delle poesie</l>
+<l>nuove, bizzarre, chiare ed allegrocce,</l>
+<l>come sarebbe, a un mo' di dir, le mie;</l></lg>
+<lg>
+<l>e poi farle le dolci carezzocce,</l>
+<l>e qualche baciolino anche appiccarle</l>
+<l>in su quelle gotuzze vermigliocce.</l></lg>
+<lg>
+<l>Ma sta'! dove vo io con queste ciarle?</l>
+<l>Son elle cose da dirle al Ceccone</l>
+<l>che saprà ben da sè stesso cercarle?</l></lg>
+<lg>
+<l>Eh via! che gli è proprio un dottorone</l>
+<l>in questo mestieraccio così fatto,</l>
+<l>e la sa tutte meglio che un Nasone.</l></lg>
+<lg>
+<l>E io son pur sì scimunito e matto?</l>
+<l>Gli è come portar cavolo a Legnaia</l>
+<l>a insegnare a ser Cecco in questo fatto.</l></lg>
+<lg>
+<l>Desso è una fonte, desso è una ceppaia</l>
+<l>di be' trovati, e voler dirne a lui</l>
+<l>gli è giusto come metter stoppia in aia.</l></lg>
+<lg>
+<l>Ma queste cose le non fan per nui:</l>
+<l>lascianle andar, e discorriamo adesso</l>
+<l>d'altri affari che fanno per noi dui.</l></lg>
+<lg>
+<l>Deh! fatt'in qua, deh! fatt'un po' più presso,</l>
+<l>e senti due parole nell'orecchio</l>
+<l>intorno a quel passato tuo successo.</l></lg>
+<lg>
+<l>Quel messer lo calonaco, quel vecchio,</l>
+<l>il qual vuol farti una pedina, il quale</l>
+<l>vuol fartela vedere in uno specchio;</l></lg>
+<lg>
+<l>quello sguaiato tristo facimale,</l>
+<l>quel disgraziato, quel sciaguratello</l>
+<l>che gli venga un gavocciolo, un cassale</l></lg>
+<lg>
+<l>s'è tolto quel pensiero del cervello?</l>
+<l>oppur v'è ancora dentro incaponito?</l>
+<l>Chiamalo in giostra, chiamalo in duello.</l></lg>
+<lg>
+<l>E s'egli accetta così fatto invito</l>
+<l>statti lieto, Ceccon, chè 'l tuo gran guaio</l>
+<l>in una mezz'oretta gli è fornito.</l></lg>
+<lg>
+<l>Io getto anch'io 'n un canto questo saio,</l>
+<l>e armato tutto come un paladino</l>
+<l>tra sè e me ne farem giusto un paio.</l></lg>
+<lg>
+<l>E lì colpi da Orlando e da Zerbino</l>
+<l>gli menerem sul capo e sulle braccia,</l>
+<l>fin che disteso l'abbiamo supino.</l></lg>
+<lg>
+<l>Oh ve' che spaventosa figuraccia</l>
+<l>faremo noi con quegli stocchi in mano!</l>
+<l>Affè ch'alle persone il cor s'addiaccia.</l></lg>
+<lg>
+<l>Tu parrai un bargello, uno scherano;</l>
+<l>perchè quel tuo visin gli è propio buono</l>
+<l>da spiritare un povero cristiano.</l></lg>
+<lg>
+<l>Oh via lasciamo, perch'io stanco sono,</l>
+<l>di scriver giù di queste tantafere</l>
+<l>che farebbon scoppiar di verno il tuono.</l></lg>
+<lg>
+<l>E voi intanto, il mio buon messere</l>
+<l>state allegro, e aspettatevi che presto</l>
+<l>fo conto di venirvi a rivedere.</l></lg>
+<lg>
+<l>E se mai quella birba, quel capresto</l>
+<l>d'Amor mi dona un becco d'un contento,</l>
+<l>non mi vedrete più doglioso e mesto;</l></lg>
+<lg>
+<l>ma dentro nelle risa infino al mento,</l>
+<l>negli spassi, ne' gusti, ne' piaceri</l>
+<l>vo' sempre che ci stiam ficcati drento.</l></lg>
+<lg>
+<l>E lasciamo gracchiare a questi Sèri</l>
+<l>che gl'impicci si prendono del Rosso,</l>
+<l>a questi sciocchi veri, veri, veri,</l></lg>
+<lg>
+<l>che 'l canchero gli roda infin sull'osso.</l></lg>
+<gap/>
+<lg>
+<l>Proscritta. Ser Finocchio ha ricevuto</l>
+<l>le lettere, al barbiere da voi lasciate,</l>
+<l>ed ancor egli vi fa un bel saluto,</l></lg>
+<lg>
+<l>cogli altri amici delle passeggiate.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>LXXXIX</head>
+<lg type="terza-rima">
+<lg>
+<l>Signor curato, mi son pure accorto,</l>
+<l>e l'ho sentito del sicuro a dire,</l>
+<l>che, s'io non fossi vivo, sare' morto;</l></lg>
+<lg>
+<l>e che, se noi abbiamo da spedire</l>
+<l>qualche nostro affaruzzo di presente,</l>
+<l>bisogna farlo prima di morire;</l></lg>
+<lg>
+<l>perchè m'ha detto ancor di molta gente,</l>
+<l>che quando un uomo ha tirato le calze,</l>
+<l>e' non c'è modo di far più niente.</l></lg>
+<lg>
+<l>Però conviene ch'io mi sbracci e scalze,</l>
+<l>e ch'io venga con quattro miei versacci</l>
+<l>a trovarvi costì fra queste balze.</l></lg>
+<lg>
+<l>E intanto ch'io son vivo e fuor d'impacci,</l>
+<l>meni le mani come i berrettai,</l>
+<l>e ch'io faccia ben presto e ch'io mi spacci,</l></lg>
+<lg>
+<l>prima che tornin più fitti che mai,</l>
+<l>e mi vengano sopra difilato,</l>
+<l>e m'empiano d'un fregolo di guai.</l></lg>
+<lg>
+<l>Perchè, se voi lo sapeste il mio stato,</l>
+<l>parrìa ch'io vi contassi delle baie,</l>
+<l>e vi direi il ver, signor curato.</l></lg>
+<lg>
+<l>Ma queste ciarle sieno le sezzaie:</l>
+<l>ne parleremo poi, quando non ci abbia</l>
+<l>dell'altre cose più gioconde e gaie.</l></lg>
+<lg>
+<l>E perch'io paio un gufo in una gabbia,</l>
+<l>o in su la gruccia a far rider gli uccelli,</l>
+<l>mi rincresce scoprirmi, e monto in rabbia.</l></lg>
+<lg>
+<l>Intanto io vi ringrazio di que' belli</l>
+<l>saluti, che di spesso voi mi fate,</l>
+<l>or per bocca di questi ed or di quelli.</l></lg>
+<lg>
+<l>Ma certo, signor caro, v'ingannate</l>
+<l>a tenermi per un virtuosaccio,</l>
+<l>a darmi quelle lodi sperticate;</l></lg>
+<lg>
+<l>ch'io veramente sono un suggettaccio</l>
+<l>che studio solamente il <hi rend="italic">Pecorone</hi>,</l>
+<l>e in altre cose non vaglio uno straccio.</l></lg>
+<lg>
+<l>Io sono, verbigrazia, un compagnone</l>
+<l>che mi piace di ridere e gracchiare</l>
+<l>co' miei amici in conversazione.</l></lg>
+<lg>
+<l>Io non mi curo molto di studiare,</l>
+<l>perchè mi dicon che chi studia troppo</l>
+<l>va a rischio di morire o d'impazzare.</l></lg>
+<lg>
+<l>Io, che vi corro, come di galoppo,</l>
+<l>verso la casa di Monna Pazzia,</l>
+<l>per Dio che vi cadrei senz'altro intoppo.</l></lg>
+<lg>
+<l>E poi perchè volete ch'io mi dia</l>
+<l>allo studiar, ch'or non si stima un'acca,</l>
+<l>e sol si stima la poltroneria?</l></lg>
+<lg>
+<l>E dappoi che la nuca ti si stracca</l>
+<l>in sur i libri, infine a capo d'anno</l>
+<l>tu fai l'avanzo che facea 'l Cibacca.</l></lg>
+<lg>
+<l>Togliamoci, signor, da questo inganno</l>
+<l>di volere studiar fino alla morte,</l>
+<l>e mandiamogli i libri al lor malanno.</l></lg>
+<lg>
+<l>Oggi co' libri non si fa più sorte;</l>
+<l>non è più 'l tempo che Berta filava;</l>
+<l>e le genti dabbene sono morte.</l></lg>
+<lg>
+<l>Non è più 'l tempo che si regalava</l>
+<l>di scudacci lampanti e di fiorini</l>
+<l>un sonettuzzo che finisse in “ava”.</l></lg>
+<lg>
+<l>Adesso se ne van sbrici e meschini</l>
+<l>involti dentro a un piccolo tabarro</l>
+<l>i poeti ch'un tempo eran divini:</l></lg>
+<lg>
+<l>e forz'è che uno spirito bizzarro</l>
+<l>si pasca sol di fumo e invano aspetti</l>
+<l>di pigliare la lepre con il carro.</l></lg>
+<lg>
+<l>Oh sieno delle volte benedetti</l>
+<l>più di millanta color ch'hanno il mondo</l>
+<l>dentro a' loro preteriti perfetti!</l></lg>
+<lg>
+<l>E fra questi voi siete, il mio giocondo</l>
+<l>signor curato, il quale non avete</l>
+<l>adesso d'altri un bisognino al mondo;</l></lg>
+<lg>
+<l>e vi godete la vostra quiete,</l>
+<l>e mangiate, e beete, e poi dormite,</l>
+<l>quando n'avete voglia, e che potete.</l></lg>
+<lg>
+<l>Voi ne farete pur delle stampite</l>
+<l>in su quel chitarrone alto e sonoro</l>
+<l>che potrebbe trar l'anime da Dite.</l></lg>
+<lg>
+<l>E sempre intorno il leggiadretto coro</l>
+<l>avrete delle Muse, che lontane</l>
+<l>se ne stan dagli strepiti del fòro:</l></lg>
+<lg>
+<l>e scriverete con ambe le mane</l>
+<l>in prosa e in versi roba sì squisita,</l>
+<l>da mangiarsela tutta senza pane,</l></lg>
+<lg>
+<l>e leccarsene ancor l'ugne e le dita.</l>
+<l>Oimè che versi, oimè che dolci prose,</l>
+<l>oimè che roba, corpo di mia vita!</l></lg>
+<lg>
+<l>Quand'io ci vo pensando a queste cose,</l>
+<l>mi sdilinquisce dentro al petto il core,</l>
+<l>come s'io fossi in mezzo a un pa' di spose,</l></lg>
+<lg>
+<l>e ch'ambedue mi amassono d'amore,</l>
+<l>e facesson tra loro a chi più bene</l>
+<l>mi vuole, e 'l dimostrassono di fuore.</l></lg>
+<lg>
+<l>La parità qui non ci calza bene:</l>
+<l>ma io l'ho detta pe un verbigrazia,</l>
+<l>per una cosa che in bocca mi viene.</l></lg>
+<lg>
+<l>Che non credeste, già, per mia digrazia,</l>
+<l>ch'io me le andassi così nominando,</l>
+<l>perchè le donne mi fossero in grazia:</l></lg>
+<lg>
+<l>ch'io vi giuro per la spada d'Orlando</l>
+<l>e per lo 'ncanto di madonna Tessa,</l>
+<l>ch'io le vorre' vedere tutte in bando.</l></lg>
+<lg>
+<l>Ma sta quistion lasciamola soppressa,</l>
+<l>acciò, col dire, scorger non mi faccia;</l>
+<l>perchè tal burla che poi si confessa.</l></lg>
+<lg>
+<l>Io vo scrivendo giù questa cosaccia,</l>
+<l>senza considerar quel ch'io mi faccio</l>
+<l>e ci do drento a forza delle braccia.</l></lg>
+<lg>
+<l>E voi direte: — Guata cervellaccio,</l>
+<l>che non sa nè men e' quel che si dica,</l>
+<l>che vuol far del saccente, ed è un babaccio.</l></lg>
+<lg>
+<l>E forse monterete in sulla bica</l>
+<l>ch'io v'assordi con questi noncovelle</l>
+<l>e direte: — Oh che 'l ciel ti maledica!</l></lg>
+<lg>
+<l>Ma, poter della luna e delle stelle!</l>
+<l>chi cercherebbe di tenere a segno</l>
+<l>un cervel ch'abbia in capo le girelle?</l></lg>
+<lg>
+<l>Orsù, frenate un micolin lo sdegno,</l>
+<l>e lasciate ch'io empia questo vano</l>
+<l>ch'io non v'aggiungo, se mi dessi un regno.</l></lg>
+<lg>
+<l>Se vedeste il signor prete. . . . . . . .</l>
+<l>il quale sta a . . . . . . . . .  ed è mio zio,</l>
+<l>fategli da mia parte un baciamano.</l></lg>
+<lg>
+<l>E ditegli ch'io son vivo ancor io</l>
+<l>e ch'e' farebbe il meglio a ricordarsi</l>
+<l>alcuna volta un po' del fatto mio;</l></lg>
+<lg>
+<l>e ch'ei farebbe bene a dimostrarsi</l>
+<l>che non sol di parole ei m'è parente:</l>
+<l>ma e' dirà che i tempi sono scarsi.</l></lg>
+<lg>
+<l>E intanto che mi cade nella mente,</l>
+<l>vi raccomando ancora quel vanerello</l>
+<l>dell'Antognin che si farà valente.</l></lg>
+<lg>
+<l>Egli è un ragazzo virtuoso e bello;</l>
+<l>ma s'ho a dirla propio spiattellata,</l>
+<l>egli è un po' leggerino di cervello.</l></lg>
+<lg>
+<l>Bisogna fargli una buona lavata;</l>
+<l>ch'io vi prometto da quell'uom che sono</l>
+<l>che non gli sarà mica una sassata.</l></lg>
+<lg>
+<l>Egli ha portato giù dal cielo in dono</l>
+<l>un grande ingegno, e se 'l coltiverà,</l>
+<l>certo ch'ei si farà molto più buono.</l></lg>
+<lg>
+<l>Convien dirgli che s'e' non studierà</l>
+<l>la logica, sportel d'ogni scienza,</l>
+<l>ch'egli non saprà mai quel che dirà:</l></lg>
+<lg>
+<l>e s'e' non pianterà buona semenza,</l>
+<l>che delle frutte ne ricorrà poche,</l>
+<l>come gl'insegnerà la sperienza.</l></lg>
+<lg>
+<l>Ma sento che gridate: — <foreign lang="lat">O quid est hoche?</foreign></l>
+<l>Saprò ben dir, senza che tu m'insegni:</l>
+<l>Hanno a menare i paperi a ber l'oche? —</l></lg>
+<lg>
+<l>Per questo io pianto qui d'Ercole i segni,</l>
+<l>e dico: — <foreign lang="lat">Non plus ultra</foreign>, o Musa mia,</l>
+<l>chè gli uditori ne son pregni pregni: —</l></lg>
+<lg>
+<l>e sono stiavo di Vossignoria.</l></lg>
+</lg></div2>
+<div2 type="poesia">
+<head>XC</head>
+<lg type="terza-rima">
+<lg>
+<l>Manzon, s'i' te l'ho detto, tu lo sai,</l>
+<l>e s'i' non te l'ho detto, tel vo' dire:</l>
+<l>quand'i' te l'arò detto, il saperai.</l></lg>
+<lg>
+<l>Son risoluto di voler morire,</l>
+<l>e non ci voglio metter tempo in mezzo:</l>
+<l>guarda capricci che soglion venire!</l></lg>
+<lg>
+<l>I' mi volea morire sino a un pezzo:</l>
+<l>ma non ci ho mai potuto trovar modo,</l>
+<l>ch'a questa cosa non ci sono avvezzo.</l></lg>
+<lg>
+<l>Ho attaccato un bel capresto a un chiodo,</l>
+<l>e delle volte diece sono stato</l>
+<l>per cacciare la testa drento al nodo:</l></lg>
+<lg>
+<l>ma, prima di far questo, ci ho pensato</l>
+<l>ch'egli è una morte da furbo, da baro,</l>
+<l>cioè a dir quel morire impiccato.</l></lg>
+<lg>
+<l>Chè già c'ho a fare questo passo amaro,</l>
+<l>i' non vorre' po' poi che le persone</l>
+<l>m'avessono a stimare un bel somaro,</l></lg>
+<lg>
+<l>perch'i' non abbia fatto elezione</l>
+<l>di qualche morte almen da galantuomo,</l>
+<l>non mica da furfante e da briccone.</l></lg>
+<lg>
+<l>Se ci fusse stampato qualche tomo</l>
+<l>il qual mostrasse tutte le maniere</l>
+<l>di far tirar le calze a un pover'uomo,</l></lg>
+<lg>
+<l>io men vorre' di fatto provvedere,</l>
+<l>e ci vorre' poi tanto studiar suso,</l>
+<l>ch'io ne trovassi alcuna a mia piacere.</l></lg>
+<lg>
+<l>Quel povero Bertoldo i' non l'accuso,</l>
+<l>che non trovò mai pianta da impiccarsi:</l>
+<l>gli ebbe ragione di restar confuso.</l></lg>
+<lg>
+<l>Perocchè, quando si tratta di farsi</l>
+<l>del male, dicon que' che provat'hanno,</l>
+<l>ch'egli è molto difficil contentarsi.</l></lg>
+<lg>
+<l>E' non è già che rechi loro affanno</l>
+<l>quella paura del morire: a quella</l>
+<l>i disperati non vi baderanno.</l></lg>
+<lg>
+<l>Ciò che ti fa beccar ben le cervella</l>
+<l>gli è quel cercarla bella; chè di morti</l>
+<l>se ne stenta a trovare alcuna bella.</l></lg>
+<lg>
+<l>E benchè ce ne sieno di più sorti,</l>
+<l>le sono però certe porcherie,</l>
+<l>da fare disonore a tutti i morti.</l></lg>
+<lg>
+<l>E questo è il caso che, di tante vie</l>
+<l>che ci ha d'andare a veder ballar l'orso,</l>
+<l>in bilico tu stai tra 'l no e 'l sie,</l></lg>
+<lg>
+<l>ove al contradio, senza far discorso,</l>
+<l>s'ella fusse una morte che piacesse,</l>
+<l>te la beresti come bere un sorso.</l></lg>
+<lg>
+<l>Ma, verbi grazia, se qualcun ti desse</l>
+<l>nel petto d'un pugnale, o nelle stiene,</l>
+<l>o con un ciotto il capo ti rompesse,</l></lg>
+<lg>
+<l>ti par egli una cosa che stia bene,</l>
+<l>sporcarti la camicia e 'l giubberello</l>
+<l>dal sangue che vien fuora delle vene?</l></lg>
+<lg>
+<l>E' m'è venuto ancora entro al cervello</l>
+<l>ch'i' mi potre' andare ad annegare;</l>
+<l>e questo mi parrebbe un modo bello:</l></lg>
+<lg>
+<l>ma quel doversi poi tutto bagnare</l>
+<l>que' pochi panni che tu hai indosso</l>
+<l>non mi finisce ben di contentare.</l></lg>
+<lg>
+<l>Mi si potrebbe risponder ch'io posso,</l>
+<l>se pure ho di morir pensier veruno,</l>
+<l>innanzi tratto trarmeli di dosso:</l></lg>
+<lg>
+<l>ma cotesto non m'entra in conto alcuno;</l>
+<l>perch'i' sono un cotale innocentino</l>
+<l>che non vorre' scandolezzar nessuno.</l></lg>
+<lg>
+<l>Ci sarebbe un segreto pellegrino;</l>
+<l>cioè ch'i' mi cacciassi un palo dreto;</l>
+<l>ma questo è un morir da saracino:</l></lg>
+<lg>
+<l>oltrecchè mi parrebbe un po' indiscreto</l>
+<l>quel non peter mai più per quella via</l>
+<l>trarre un sospir che somigliasse a un peto.</l></lg>
+<lg>
+<l>Un altro bel segreto ci sarìa</l>
+<l>che mi potrebbe tôrre d'ogn'impaccio;</l>
+<l>e l'abbruciarmi credo che ciò sia:</l></lg>
+<lg>
+<l>s'e' no fosse che qualche ignorantaccio</l>
+<l>sarebbe, che direbbe che quel foco</l>
+<l>fusse in pena di qualche peccataccio.</l></lg>
+<lg>
+<l>Ma questa cosa monterebbe poco,</l>
+<l>che, se di fummo ci fusse un po' meno,</l>
+<l>non ti so dir se sarebbe un bel giuoco.</l></lg>
+<lg>
+<l>E quantunque alcun dica che 'l veleno</l>
+<l>sia la più bella morte che si faccia,</l>
+<l>nè anche questa mi contenta appieno.</l></lg>
+<lg>
+<l>E la ragion, perch'ella mi dispiaccia,</l>
+<l>è che per che tu sii morto perduto;</l>
+<l>tanto diforme ti rende la faccia.</l></lg>
+<lg>
+<l>Perchè 'l vederti nero divenuto,</l>
+<l>e gonfio, agli occhi reca tanta noia</l>
+<l>che si vorrebbe piuttosto esser muto.</l></lg>
+<lg>
+<l>Or tu, che se' staggito già per boia,</l>
+<l>Manzoni, vorre' mo' che mi dicessi</l>
+<l>qualche bel modo di tirar le cuoia,</l></lg>
+<lg>
+<l>ma qualche modo che non mi spiacessi;</l>
+<l>e se fusse possibil cosa ancora</l>
+<l>che a chi l'adopra mal non gli facessi.</l></lg>
+<lg>
+<l>Sovviemmi ch'allor quando la signora</l>
+<l>non ti volea veder vivo nè morto,</l>
+<l>che tu n'andavi in cerca molto allora.</l></lg>
+<lg>
+<l>A quanto però io mi sono accorto,</l>
+<l>non potesti far pago il tuo disio,</l>
+<l>dappoi ch'i' vedo che non se' ancor morto.</l></lg>
+<lg>
+<l>Ora, Manzoni, che debb'io fare, io,</l>
+<l>posciacchè dopo tanto affaticarmi</l>
+<l>io non trovo una morte a modo mio?</l></lg>
+<lg>
+<l>Sa' tu quel ch'i' vo' far? Voglio chetarmi</l>
+<l>e soprastare pazientemente,</l>
+<l>finchè la morte vengh'ella a trovarmi.</l></lg>
+<lg>
+<l>Chi sa che, s'ella la mia brama sente,</l>
+<l>non provvegga da sezzo a' fatti miei,</l>
+<l>meglio ch'i' non fare' forse al presente?</l></lg>
+<lg>
+<l>D'arte sì fatta ella ne sa per sei:</l>
+<l>in queste cose tiene il principato.</l>
+<l>Vo' far così; voglio aspettarla lei.</l></lg>
+<lg>
+<l>In tanto, per mostrar che ti son grato,</l>
+<l>quel bel capresto te lo dono a tene;</l>
+<l>i' dico quel ch'avevo apparecchiato;</l></lg>
+<lg>
+<l>o ad alcun altro che mi voglia bene.</l></lg>
+</lg></div2>
+</div1>
+<div1 type="poesia">
+<head>XCI</head>
+<head>PISTOLA</head>
+<lg type="endecasillabo-sciolto">
+<lg>
+<l>Oh oh vedete s'i' son pronto a scrivere</l>
+<l>a' cari amici miei, signor Fantastico?</l>
+<l>Quattro corsi di luna ancor non compiono</l>
+<l>dacchè voi ne lasciaste inconsolabile,</l>
+<l>ch'io son tosto da voi con una pìstola.</l>
+<l>— O buon! — direte: — che maniera nobile</l>
+<l>di scusarti gli è questa, Astratto amabile? —</l>
+<l>Ma pian, barbier; chè, se vorrete intendere</l>
+<l>quel chi' vo' dir, son certo scuseretemi.</l>
+<l><foreign lang="lat" rend="italic">In primis&gt;</foreign>, quel cotal che preso avevasi</l>
+<l>lo 'mpegno di cercar quel prete eccetera,</l>
+<l>è andato tutto giorno abbindolandomi</l>
+<l>e di oggi in doman sempre traendola,</l>
+<l>ch'i' n'era quasi divenuto sazio.</l>
+<l>Pure alla fine spiattellato dissemi</l>
+<l>che 'l prete era impegnato, ed altre chiacchiere,</l>
+<l>da far morir di stizza un uom che supplica.</l>
+<l>Onde pensar potrete quanti cancheri,</l>
+<l>quanti malanni e quante pesti e fistoli</l>
+<l>i' gli agurassi in sulla testa subito.</l>
+<l>Allor m'accorsi io ben di quel proverbio</l>
+<l>che dice che costor che troppo abbaiano,</l>
+<l>solo di vento il corpo si riempiono.</l>
+<l>Quest'è una vera escusazion legittima,</l>
+<l>che val per quante mai potessi addurvene.</l></lg>
+<lg>
+<l>Ma perchè voi siete un ser tal difficile</l>
+<l>a credere alle prime cacabaldole,</l>
+<l>ce ne vorrebbe al meno un'altra simile,</l>
+<l>ma, diacin, dove mai la debb'io prendere?</l>
+<l>Eh via! che risoluto son di dirvela.</l></lg>
+<lg>
+<l>Dunque sappiate che Monna Pigrizia</l>
+<l>mi s'è fatta sì amica ed amorevole,</l>
+<l>che lontano da quella io mai non trovomi;</l>
+<l>ed è così vezzosa e carezzevole,</l>
+<l>che mi fa tutto imbietolir e struggere.</l>
+<l>Oh se voi la vedeste quando giacesi</l>
+<l>in letto meco, come stretto pigliami,</l>
+<l>e al collo mi s'attacca ed aggavignasi,</l>
+<l>ch'e' non c'è modo ch'i' mi possa movere!</l>
+<l>Talor mi grappa stanco in s'una seggiola,</l>
+<l>e così forte per le braccia stringemi,</l>
+<l>sì che mi scappa di studiar la voglia.</l>
+<l>Di mezzo giorno sur un letto sdraiomi</l>
+<l>a gambe aperte col civile all'aria,</l>
+<l>ed ella pronta al lato mio si corica,</l>
+<l>e mi fa certe carezzoccie amabili</l>
+<l>ch'i' sento andarmi tutto il core in succhio.</l>
+<l>In sulla sera poi ella dilettasi</l>
+<l>di venirsene meco a pigliar aria</l>
+<l>verso la porta che conduce a Bergomo:</l>
+<l>onde n'andiamo adagio adagio, dandole</l>
+<l>io 'l braccio, e lietamente discorrendola.</l>
+<l>E vi so dir ch'ell'è una bella giovane,</l>
+<l>ben tarchiata, ritonda e sì vermiglia</l>
+<l>che la pare una mela propio propio.</l>
+<l>Oh se vedeste come gnene pèrdono</l>
+<l>dietro gli occhi coloro che la guatano!</l>
+<l>Principalmente que' che sempre stannosi</l>
+<l>il giorno intero a scriver negli studii,</l>
+<l>e tutti gli artigian che s'affaticano</l>
+<l>nelle botteghe a far loro opre varie!</l>
+<l>Nè solo i ricchi mercatanti e gli orafi,</l>
+<l>ma i facchini, i mugnai, i pizzicagnoli</l>
+<l>e tutte queste razze la vorrebbono.</l>
+<l>Or s'io n'ho la ragion, consideratelo,</l>
+<l>e se con una compagnia sì nobile</l>
+<l>poss'io trovar una buon'otta a scrivere.</l>
+<l>Or ch'io son certo che perdoneretemi,</l>
+<l>non occor ch'io mi fermi in altre chiacchiere,</l>
+<l>chè già fatta ho un'agliata arcigrandissima.</l>
+<l>Ma gnaffe, messer no, tacer non voglio,</l>
+<l>e intanto che la Musa in testa frugami,</l>
+<l>vo' cicalar finchè mi pare e piacemi,</l>
+<l>poichè alla fine tanto se ne sa</l>
+<l>a mangiarne uno spicchio quanto un aglio.</l></lg>
+<lg>
+<l>Or dite, signor mio, come passatela?</l>
+<l>Si va a spasso, si gode, o pur si studia?</l>
+<l>Sopra i libri ci vien suso la polvere,</l>
+<l>o si rompon leggendoli o si strappano?</l></lg>
+<lg>
+<l>Ho inteso dire che l'Avvento prossimo</l>
+<l>ha a toccare a voi a far le prediche.</l>
+<l>Bravo bravo, studiate, affaticatevi</l>
+<l>e 'l sapere ch'avete in quel cocuzzolo</l>
+<l>mettetelo in palese, dimostratelo,</l>
+<l>e sgridate i villani, e convertiteli.</l>
+<l>Ma l'ora è tarda, e 'l nostro messer Pagolo</l>
+<l>m'aspetta presto a casa colla lettera.</l>
+<l>Iddievidielbondie, signor Fantastico;</l>
+<l>vi fo una sberrettata profondissima,</l>
+<l>e vi bacio la mano dottorevole.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>XCII</head>
+<head>EGLOGA PESCATORIA</head>
+<sp>
+<speaker><hi rend="sc">LICONE</hi></speaker>
+<lg type="egloga">
+<lg>
+<l>Dunque, Ninfa crudel, dunque a' miei versi</l>
+<l>non vuoi porgere orecchio, e vuoi ch'io pèra</l>
+<l>con tanto pianto onde il mio volto aspersi?</l></lg>
+<lg>
+<l>Ben di natura sì maligna e fiera</l>
+<l>son pesci in mar fra i ceti e le balene,</l>
+<l>che allor senton piacer quand'uom dispera.</l></lg>
+<lg>
+<l>Ben cantan più gioconde le sirene,</l>
+<l>mentre s'avveggon che l'incauto pino</l>
+<l>allettato dal canto a lor sen viene.</l></lg>
+<lg>
+<l>E va tanto correndo il bue marino</l>
+<l>sopra 'l veloce notator, che 'l vede</l>
+<l>provar nell'acque l'ultimo destino.</l></lg>
+<lg>
+<l>Ma come tanta crudeltà risiede,</l>
+<l>ninfa, in te che non sei di squame cinta,</l>
+<l>e non hai fesso in doppia coda il piede?</l></lg>
+<lg>
+<l>Al men t'avesse il tuo furore sospinta</l>
+<l>a saziarti un dì del sangue mio</l>
+<l>e a lasciar questa vita un giorno estinta.</l></lg>
+<lg>
+<l>Ma, lasso, il core hai sì crudele e rio,</l>
+<l>che, più spietata dei marini mostri,</l>
+<l>conceder non mi vuoi quel che desio.</l></lg>
+<lg>
+<l>Alfin andrò negl'infernali chiostri,</l>
+<l>quando sii sazia de' tormenti miei,</l>
+<l>e fia ch'a dito allora ognun ti mostri.</l></lg>
+<lg>
+<l>— Costei, — diranno i pescator, — costei</l>
+<l>fece morire il misero Licone;</l>
+<l>punitela dal cielo, o sommi dèi. —</l></lg>
+<lg>
+<l>Vedi Mopso, Dameta e Celadone</l>
+<l>ch'amati essendo dalle ninfe loro,</l>
+<l>cantan pe' liti ognor dolci canzone.</l></lg>
+<lg>
+<l>Son io forse men bello di costoro?</l>
+<l>Ho pur le luci al color dell'onde,</l>
+<l>ho pur le chiome del color dell'oro.</l></lg>
+<lg>
+<l>E se nel volto mio non si diffonde</l>
+<l>quel bel vermiglio che la guancia tinge,</l>
+<l>per la tua crudeltate egli s'asconde.</l></lg>
+<lg>
+<l>Pur nessuno di loro i flutti cinge,</l>
+<l>com'io, con tante e sì diverse reti;</l>
+<l>nè contra i pesci tanti ferri stringe.</l></lg>
+<lg>
+<l>E sai ben tu se 'l padre mio mi vieti</l>
+<l>d'andar col pesce alla città sovente;</l>
+<l>onde i giorni trarrei felici e lieti,</l></lg>
+<lg>
+<l>poich'io compro or un fiasco, ora un tridente;</l>
+<l>e se 'l denaro il genitor mi chiede,</l>
+<l>tosto cento e più scuse io volgo in mente;</l></lg>
+<lg>
+<l>e gli vo raccontando, ed ei se 'l crede,</l>
+<l>o che 'l perdei, nel ritornar per via,</l>
+<l>o che mancante il comprator mel diede.</l></lg>
+<lg>
+<l>E se non fosse così cruda e ria</l>
+<l>qual meco è sempre, la mia pescatrice,</l>
+<l>spesso qualche bel dono anch'ella avrìa.</l></lg>
+<lg>
+<l>Ma come mai, come sperar ciò lice,</l>
+<l>se questa fèra impietosir non ponno</l>
+<l>tanti sospiri che 'l mio petto elice?</l></lg>
+<lg>
+<l>Quando fia mai quel dì che in lieto sonno</l>
+<l>riposar mi sia dato, e in me si posi</l>
+<l>colui ch'è del mio cor signore e donno?</l></lg>
+<lg>
+<l>Ahi! che prima vedrò gl'impetuosi</l>
+<l>carabi pace aver colla murena,</l>
+<l>e l'anzie andar co' labraci spinosi,</l></lg>
+<lg>
+<l>pria di state vedrò bianca la Mena,</l>
+<l>ch'io possa dire un dì: — Quest'è quel giorno,</l>
+<l>quest'è l'ora ch'io debba uscir di pena. —</l></lg>
+<lg>
+<l>Ben diece volte ha rinnovato il corno</l>
+<l>Cinzia dal cominciar de' miei lamenti;</l>
+<l>eppur mai sempre a querelarmi io torno,</l></lg>
+<lg>
+<l>e se co' remi faticosi e lenti</l>
+<l>guidando vo la piccoletta barca,</l>
+<l>o se distendo la mia rete ai venti.</l></lg>
+<lg>
+<l>E non è ninfa così al pianger parca</l>
+<l>che, nell'udirmi sospirar, non abbia</l>
+<l>di lagrime la guancia umida e carca.</l></lg>
+<lg>
+<l>Talor mi getto in sulla nuda sabbia,</l>
+<l>e vo la dura terra e i duri sassi</l>
+<l>per lo dolor mordendo e per la rabbia.</l></lg>
+<lg>
+<l>Nè val che un qualche pescator che passi</l>
+<l>pietoso mi sollevi e dia conforto,</l>
+<l>perchè accrescendo il mio dolor più vassi.</l></lg>
+<lg>
+<l>L'altrier, pensando al mal che in seno io porto,</l>
+<l>ahi disperato! fui per affogarmi,</l>
+<l>s'un mio compagno non si fosse accorto,</l></lg>
+<lg>
+<l>che, veggendomi all'onde avvicinarmi</l>
+<l>in viso smorto e nel guardar travolto,</l>
+<l>non so dove lontan venne a menarmi.</l></lg>
+<lg>
+<l>E di certo, o crudel, non andrà molto</l>
+<l>che in fondo all'acqua estinto mi vedrai,</l>
+<l>comunque io siami o disperato o stolto.</l></lg>
+<lg>
+<l>E forse allor qualche pietate avrai</l>
+<l>del mio misero caso, alfin bagnando</l>
+<l>di qualche lagrimetta i tuoi be' rai.</l></lg>
+<lg>
+<l>Ma v'è nel Nilo un fier dragon che, quando</l>
+<l>ha divorato l'uomo, al fin sen giace</l>
+<l>sopra l'ossa spolpate lagrimando.</l></lg>
+<lg>
+<l>Nè piange, no, la belva aspra e rapace</l>
+<l>per pietà; ma perchè più non ritrova</l>
+<l>ond'empiere la bocca aspra e vorace.</l></lg>
+<lg>
+<l>Tal s'avverrà ch'a te dagli occhi piova</l>
+<l>stilla di pianto sul mio caso amaro,</l>
+<l>ciò non fia per pietà che 'l cor ti mova;</l></lg>
+<lg>
+<l>ma perchè del mio strazio a te sì caro</l>
+<l>non potrai saziar quel fiero petto,</l>
+<l>in crudeltà sì mostruoso e raro.</l></lg>
+<lg>
+<l>Sotto qual clima e sotto quale aspetto</l>
+<l>di fiera stella il primo dì vedesti,</l>
+<l>e qual tana ti diè la culla e 'l tetto?</l></lg>
+<lg>
+<l>Certo in mezzo del mare, empia, nascesti</l>
+<l>fra l'orche e le balene e le pistrìci,</l>
+<l>e dalle poppe loro il latte avesti;</l></lg>
+<lg>
+<l>e fra i pesci dell'uomo i più nemici</l>
+<l>conversasti mai sempre, e l'ariete,</l>
+<l>la tuli e lo scorpion ti fûro amici.</l></lg>
+<lg>
+<l>Ma poss'io perder la più bella rete,</l>
+<l>se non ti penti un dì di tanta asprezza,</l>
+<l>poichè andate saran l'ore più liete.</l></lg>
+<lg>
+<l>Allor maledirai la tua fierezza,</l>
+<l>e ti dorrai di non avere il frutto</l>
+<l>goduto a tempo della tua bellezza.</l></lg>
+<lg>
+<l>Empia, ma che farai, poichè distrutto</l>
+<l>fia lo splendor che subito si strugge,</l>
+<l>fuori che consumarti in rabbia e 'n lutto?</l></lg>
+<lg>
+<l>Siccome acciuga al foco, si distrugge</l>
+<l>vostra frale beltà, donne superbe,</l>
+<l>e com'onda del mar sen passa e fugge.</l></lg>
+<lg>
+<l>Abbi dunque pietà delle mi' acerbe</l>
+<l>pene, o leggiadra pescatrice e bella,</l>
+<l>e vienne meco a riposar sull'erbe.</l></lg>
+<lg>
+<l>Così non ti dirò più cruda e fella,</l>
+<l>nè delle fiere o dei marini pesci</l>
+<l>più dura, più spietata e più rubella.</l></lg>
+<lg>
+<l>Prendi l'esca e la canna, o bella, ed esci</l>
+<l>qui dove io giaccio in su la mia barchetta,</l>
+<l>e in quest'acqua i tuo' rai confondi e mesci.</l></lg>
+<lg>
+<l>Qui l'onda pura, cristallina e schietta,</l>
+<l>a far preda di lucci e di carpioni</l>
+<l>le pescatrici e i pescatori alletta.</l></lg>
+<lg>
+<l>Vieni: ho serbato un cestellin d'agoni</l>
+<l>ch'in una tratta ho presi stamattina,</l>
+<l>e vo' che sien, se qui verrai, tuoi doni.</l></lg>
+<lg>
+<l>Ma lasso! a che pregar? Costei s'ostina</l>
+<l>tanto contra di me, quant'io mi doglio;</l>
+<l>e sono i preghi miei l'onda marina,</l></lg>
+<lg>
+<l>che in van batte e ribatte in uno scoglio.</l></lg>
+</lg>
+</sp>
+</div1>
+<div1 type="poesia">
+<head>XCIII</head>
+<head>EGLOGA PESCATORIA</head>
+<sp>
+<speaker><hi rend="sc">SEBETO</hi></speaker>
+<lg type="egloga">
+<lg>
+<l>Or che già la stagion fiorita e bella</l>
+<l>fa tutte intorno rallegrar le cose,</l>
+<l>e i pesci e i pescatori allegri e pronti</l>
+<l>correndo vanno in questa parte e in quella,</l>
+<l>e le lor ninfe di ligustri e rose</l>
+<l>sulla riva del mar cingon le fronti;</l></lg>
+<lg>
+<l>ora ch'ogni animal lieto s'abbraccia</l>
+<l>col suo compagno in su le verdi erbette,</l>
+<l>e la tenera vite dell'uomo appresso</l>
+<l>stretto lo tien con amorose braccia,</l>
+<l>e di soavi e belle lagrimette</l>
+<l>per lo dolce piacer il bagna spesso;</l></lg>
+<lg>
+<l>sol io, lontan da' conosciuti liti,</l>
+<l>mesto, dolente, abbandonato e solo,</l>
+<l>la mia perdita piango e la mia ninfa.</l>
+<l>Qual altro pescator fia che s'additi</l>
+<l>che tante abbia cagion d'amaro duolo,</l>
+<l>sia pur di questa o di remota linfa?</l></lg>
+<lg>
+<l>Son io Sebeto, il pescator sì vivo,</l>
+<l>che in su la spiaggia de la gran sirena</l>
+<l>così lieto garzon fui già creduto?</l>
+<l>Quel che, col suono e col cantar giulivo,</l>
+<l>fuori dell'onda in su la secca arena</l>
+<l>i più timidi pesci avrìa tenuto?</l></lg>
+<lg>
+<l>Son colui che in pescatorii giochi</l>
+<l>sovr'ogn'altro compagno il pregio ottenni</l>
+<l>e ch'a ingannar coll'esca e colla rete</l>
+<l>i semplicetti pesci avea sì pochi</l>
+<l>uguali in sulla riva ond'io qua venni?</l>
+<l>O canne, o reti mie, non più vedrete</l></lg>
+<lg>
+<l>il vostro pescatore, e, se 'l vedeste,</l>
+<l>non credereste mai che desso i' fia!</l>
+<l>Or vengan pur le grosse tinche a riva</l>
+<l>coi lascivetti lucci, e colle preste</l>
+<l>occhiate i persici, ora la mia</l>
+<l>fiocina giace irruginita e priva</l></lg>
+<lg>
+<l>d'una man che la spinga, e 'l mio tridente,</l>
+<l>fitto laggiù nell'arenoso fondo,</l>
+<l>d'alga e di musco si ricopre intorno.</l>
+<l>Ahi misero Sebeto, e chi ti sente</l>
+<l>alleviar colla voce il grave pondo</l>
+<l>di quel mal che ti preme e notte e giorno?</l></lg>
+<lg>
+<l>Questo lito, quest'onda e queste piante</l>
+<l>non t'odon già; chè se potesse udirti</l>
+<l>una cosa insensata, udresti ancora</l>
+<l>le scabre selci alla tua foce infrante,</l>
+<l>e l'onde algenti, e quest'incolti ed irti</l>
+<l>alber aspri ululati mandar fuora,</l></lg>
+<lg>
+<l>accompagnando i tuoi tristi lamenti.</l>
+<l>Ma voi, veloci pesci e leggiadretti,</l>
+<l>che per quest'acque ognor scherzando andate,</l>
+<l>se mai vi fece andar più tardi e lenti</l>
+<l>Amor che incende ancora i vostri petti,</l>
+<l>abbiate voi del mio dolor pietate.</l></lg>
+<lg>
+<l>Quell'io ch'un tempo mi credei felice</l>
+<l>sovr'ogni pescator che 'n onda peschi,</l>
+<l>or sono a tal colpa d'Amor, ch'io stimo</l>
+<l>uom non esser in riva od in pendice,</l>
+<l>cui peggio Amor colla sua pania inveschi</l>
+<l>dal principio del core infino all'imo.</l></lg>
+<lg>
+<l>Ove son iti que' felici giorni,</l>
+<l>quando soletto nella mia barchetta</l>
+<l>la rete a' pesci in sul mattin tendea,</l>
+<l>senza ch'un labbro o due begli occhi adorni</l>
+<l>mi ferissero il cor d'aspra saetta?</l>
+<l>Ben sciolto allora a mio piacer godea,</l></lg>
+<lg>
+<l>lieto cantando in su le rive amene,</l>
+<l>e dolci balli colle ninfe bionde</l>
+<l>e co' leggiadri pescator tessendo</l>
+<l>al suon di corde e d'incerate avene.</l>
+<l>Ma poichè Amore il suo velen m'infonde,</l>
+<l>fin dentro al sen i' vo sempre piangendo;</l></lg>
+<lg>
+<l>sicch'io non spero di trovar riposo</l>
+<l>perfin ch'i pesci di quest'onde fuori</l>
+<l>uscir non veggia, e gir volando intorno.</l>
+<l>Poichè i begli occhi e 'l bel volto amoroso</l>
+<l>più non riveggio, onde n'uscian splendori</l>
+<l>che rendean da per tutto un chiaro giorno.</l></lg>
+<lg>
+<l>Ben ebbe un cor di fiera tigre o d'orso</l>
+<l>colui ch'al mondo quel bel lume tolse</l>
+<l>che nel mio cor sì dolce stral confisse.</l>
+<l>Deh perchè non correste in suo soccorso,</l>
+<l>belle ninfe del mar? Perchè non volse</l>
+<l>Nettuno il ferro, e l'uccisor trafisse?</l></lg>
+<lg>
+<l>Ma lasso! indarno il mio dolor mortale</l>
+<l>vo disfogando ai duri sassi e all'onda,</l>
+<l>i quai nè senso nè pietà non hanno:</l>
+<l>e 'l mio nemico Amor vieppiù m'assale,</l>
+<l>e con vista più lieta e più gioconda</l>
+<l>par che si rida del crudel mio danno.</l></lg>
+<lg>
+<l>Io starò qui su quest'ignota piaggia</l>
+<l>sol fra me rammentando il rio destino,</l>
+<l>finchè l'aspra mia vita il duol mi tolga:</l>
+<l>e se fia mai ch'un dì qui a giugner aggia</l>
+<l>qualche buon pescator d'altro confino,</l>
+<l>fra poche pietre il cener mio raccolga.</l></lg>
+<lg>
+<l>Così non fia che in riva d'Acheronte</l>
+<l>andar mi faccia il rigido nocchiere,</l>
+<l>vagando ancor nel sempiterno orrore;</l>
+<l>e 'l mio cadaver sottoposto all'onte</l>
+<l>qui non rimanga dell'ingorde fiere,</l>
+<l>miserando spettacolo d'amore.</l></lg>
+</lg>
+</sp>
+</div1>
+<div1 type="poesia">
+<head>XCIV</head>
+<head>EGLOGA PESCATORIA</head>
+<stage><hi rend="sc">NILALGA, ALCEO, TELGONE</hi></stage>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>O sciocco pescatore, e che stoltezza</l>
+<l>meco ti spinge a far tenzon col canto,</l>
+<l>con quella voce che gli orecchi spezza?</l></lg>
+</lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>O sublime cantore, e perchè tanto</l>
+<l>or t'abbassi a venir meco in contesa,</l>
+<l>tu che riporti sovr'ogni altro il vanto?</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l> Il ver tu di', e s'a te sol vien resa</l>
+<l>da' rozzi pescator la palma, è solo</l>
+<l>perch'or l'insania per virtute è presa.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Il ver tu di'; poichè se in questo suolo</l>
+<l>è chi è ranocchio, ed usignol si stima,</l>
+<l>tu se', per verità, di quello stuolo.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Or non se' tu che d'uno scoglio in cima</l>
+<l>l'altr'ier cantasti così dolcemente</l>
+<l>che mi parevi una stridente lima?</l></lg>
+<lg>
+<l>Ben mi sovvien che, sendovi presente</l>
+<l>una schiera di rane, sbigottite</l>
+<l>saltâr tutte nell'acqua prestamente.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Or' non se' tu che, le tue voci udite,</l>
+<l>ogni canoro augel presto si tacque,</l>
+<l>sendo le piche a cantar teco uscite?</l></lg>
+<lg>
+<l>Ben mi sovvien che 'l dolce canto piacque</l>
+<l>tanto alle dive che nell'onde stanno,</l>
+<l>che crepavan di riso in fondo all'acque.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="trzina">
+<lg>
+<l>Sì, mi sovvien, e non è mica un anno,</l>
+<l>che tu togliesti al giovine Licone</l>
+<l>due belle canne con aperto inganno.</l></lg>
+<lg>
+<l>E perch'ei volea dir la sua ragione,</l>
+<l>tu saltasti di barca, ed adirato</l>
+<l>gli corresti vicin con un bastone.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Anzi io quelle da lui avea comprato,</l>
+<l>e mi ricordo ben che in pagamento</l>
+<l>a lui dieci ami ed una lenza ho dato;</l></lg>
+<lg>
+<l>ma perchè poi non si trovò contento,</l>
+<l>non mi voleva dar le canne; ond'io</l>
+<l>gli corsi addosso, e lo colpii sul mento.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">TELGONE.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>O giovinetti, e qual folle desio</l>
+<l>vi conduce a piatir? Non delle risse</l>
+<l>ma del canto esser debbe il parer mio.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Taci, amico: Telgone il ver ci disse;</l>
+<l>sien d'altro i nostri versi, e guadagniamo</l>
+<l>il bel dono che Cromi a noi prescrisse.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Taci pure, Nilalga, e rivolgiamo</l>
+<l>i nostri canti a dir l'alma beltate</l>
+<l>della tua ninfa e di colei ch'io bramo.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>La pescatrice mia le chiome aurate</l>
+<l>propio ha dell'or onde la salpa splende,</l>
+<l>e gli occhi rilucenti ha dell'orate.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l> La pescatrice mia le gote accende</l>
+<l>della porpora vaga, e 'l suo bel seno</l>
+<l>dell'ombrina il color candido rende.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Per côrre i pesci mai non mi vien meno</l>
+<l>qualche froda ed astuzia; eppur son stretto</l>
+<l>al girar di quel ciglio almo e sereno.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Da quel dì ch'a nuotare i' fui costretto,</l>
+<l>mai timore non ebbi; eppur m'annego</l>
+<l>nel dolce latte di quel bianco petto.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Vien', pescatrice mia, vieni, ti prego;</l>
+<l>io vo' farti un ben don di due fiscelle:</l>
+<l>vedi che i giunchi io vo torcendo e piego.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Vien', pescatrice mia, vieni: due belle</l>
+<l>canne vo darti tremule e leggiere:</l>
+<l>vedi, son secche, ed han bionda la pelle.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Io vo' darti un bel vaso, ove le schiere</l>
+<l>degli animali mansueti e domi</l>
+<l>dipinti sono, e delle crude fiere.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Io vo' darti un bel vaso ove già Cromi,</l>
+<l>il vecchio e saggio pescatore, incise</l>
+<l>di cento pesci sconosciuti i nomi.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="nc">
+<lg>
+<l>Qui meco un dì la donna mia s'assise,</l>
+<l>e mi fe' cerchio del bel braccio al fianco,</l>
+<l>e poi mi diede un dolce bacio, e rise.</l></lg>
+<lg>
+<l>Allora i pesci al destro lito e al manco</l>
+<l>invidiosi corsero, e tornâro</l>
+<l>traendo il dorso faticoso e stanco.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="nc">
+<lg>
+<l>Qui un dì che insiem le ninfe si lavâro</l>
+<l>vidi le membra della donna mia</l>
+<l>trasparir nell'umor lucido e chiaro.</l></lg>
+<lg>
+<l>Allor le dive dell'ondosa via</l>
+<l>stavan sospese rimirando, e poi</l>
+<l>ognuna tinta di rossor partia.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l> Perciò se lieti, o bianchi liti, a voi</l>
+<l>tornan le tenie molli e i melanuri,</l>
+<l>sì a quest'ombre torniam lieti ancor noi.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Perciò se i gorghi limpidetti e puri</l>
+<l>piacciono al luccio e al presto ghiozzo i sassi,</l>
+<l>piacete a noi, bei liti ombrosi e oscuri.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Sante Muse, i miei versi incolti e bassi</l>
+<l>ergete sì col vostro almo furore,</l>
+<l>sicchè cantando il mio compagno io passi.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">ALCEO.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Sante Muse, col vostro almo splendore</l>
+<l>sì 'l mio canto guidate oscuro e vile,</l>
+<l>ch'io porti sol di vincitor l'onore.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">TELGONE.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Sien lodi al ciel, che nell'età senile</l>
+<l>udir mi fa per queste piagge amene</l>
+<l>uno sì tenero canto e sì gentile!</l></lg>
+<lg>
+<l>O quai candidi cigni, o quai sirene</l>
+<l>s'ascoltâro ne' fiumi oppur nel mare</l>
+<l>cantar tai versi con sì dolci vene?</l></lg>
+<lg>
+<l>Dovresti pur le glauche luci alzare,</l>
+<l>o Nereo, padre delle limpid'onde,</l>
+<l>e ben superbo di tai carmi andare.</l></lg>
+<lg>
+<l>Deh chi mi presta un'onorata fronde</l>
+<l>ond'io cinga le chiome ai pescatori</l>
+<l>in cui tal spirto il santo Apollo infonde?</l></lg>
+<lg>
+<l>Felici voi, che i vostri lieti amori</l>
+<l>vedransi scritti per gli scogli, e d'alga</l>
+<l>orneragli ogni ninfa, e di bei fiori!</l></lg>
+<lg>
+<l>E i pescator mirando a quanto salga</l>
+<l>anche in povero lito il canto e i versi:</l>
+<l>— Qui scrisse Alceo, — diranno, — e qui Nilalga. —</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">NILALGA.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Or su, Telgone, omai dovrìa sapersi</l>
+<l>a qual di noi la prima lode apporti</l>
+<l>il cantar carmi più leggiadri e tersi.</l></lg></lg></sp>
+<sp>
+<speaker><hi rend="sc">TELGONE.</hi></speaker>
+<lg type="terzina">
+<lg>
+<l>Combattete ambidue sì alteri e forti</l>
+<l>nella lotta gentil, ch'io non saprei</l>
+<l>qual sopra l'altro il maggior pregio porti.</l></lg>
+<lg>
+<l>Ma perchè senza premio andar non dèi,</l>
+<l>Alceo si tenga il destinato vaso;</l>
+<l>chè tu n'avrai, Nilalga, uno de' miei.</l></lg>
+<lg>
+<l>Nè ti pensar che 'l minor don rimaso,</l>
+<l>o pescator, ti sia; perchè vedrai</l>
+<l>che forse ancor hai migliorato il caso.</l></lg>
+<lg>
+<l>Un picciol nappo di corallo avrai</l>
+<l>che viene infin dall'indica marina,</l>
+<l>se 'l ver mi disse quegli onde 'l comprai.</l></lg>
+<lg>
+<l>Questo l'ebbe già in don la mia Lucrina,</l>
+<l>e mi ricordo ancor, bench'ei sia molto</l>
+<l>ch'io gliel diedi sul lito una mattina.</l></lg>
+<lg>
+<l>Scorger ben puoi che per man dotta è scolto,</l>
+<l>poichè tant'opra e tanto studio vedi</l>
+<l>in sì piccolo spazio essere accolto.</l></lg>
+<lg>
+<l>Qui sta intagliato un pescator che in piedi</l>
+<l>d'un alto scoglio i bei guizzanti armenti</l>
+<l>colla canna e coll'amo avvien che predi.</l></lg>
+<lg>
+<l>Son tre fanciulli appresso a lui ridenti</l>
+<l>che la preda raccolgono sul lito,</l>
+<l>e poi stanno a scherzare seco intenti.</l></lg>
+<lg>
+<l>Ed eccon'un, che intrepido ed ardito</l>
+<l>un suo compagno stringe pe' capelli:</l>
+<l>perocchè innanzi un pesce gli ha rapito.</l></lg>
+<lg>
+<l>Qui poscia i piedi candidetti e belli</l>
+<l>si stan lavando quattro giovinette,</l>
+<l>all'ombra d'una schiera d'arboscelli.</l></lg>
+<lg>
+<l>Sono sedute sulle molli erbette,</l>
+<l>e colla gonna oltre il ginocchio alzata,</l>
+<l>mostran le gambe alabastrine e schiette.</l></lg>
+<lg>
+<l>Intanto di Tritoni una brigata</l>
+<l>del mal cauto drappello ed inesperto</l>
+<l>si sta ridendo dopo un sasso, e guata.</l></lg>
+<lg>
+<l>Or questo vaso, da maestro esperto</l>
+<l>sì ben scolpito, o pescator, ti dono;</l>
+<l>se non egual delle due voci al merto,</l></lg>
+<lg>
+<l>almen egual del tuo compagno al dono.</l></lg>
+</lg>
+</sp>
+</div1>
+</body>
+</text>
+</TEI.2>

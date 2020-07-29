@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Laudes creaturarum</title>
+      <author>Francesco d'Assisi</author>
+    </titleStmt>
+    <extent>3 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001268</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Poeti del duecento</title>
+        <editor id="ed">Contini, Gianfranco</editor>
+        <publisher>Ricciardi</publisher>
+        <pubPlace>Milano [etc]</pubPlace>
+        <date>stampa 1960</date>
+        <note>2 v.</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>200</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.1 - POESIA ITALIANA, PRIMO PERIODO FINO AL 1375</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-07-03T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-07-14T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<head>Laudes</head>
+
+<lg type="non-definito">
+<lg><l>Altissimu, onnipotente, bon Signore,</l>
+<l>tue so' le laude, la gloria e l'honore et onne benedictione.</l>
+</lg><lg><l>Ad te solo, Altissimo, se konfano,</l>
+<l>et nullu homo ène dignu te mentovare.</l>
+</lg><lg><l>Laudato sie, mi' Signore, cum tucte le tue creature,</l>
+<l>spetialmente messor lo frate sole,</l>
+<l>lo qual'è iorno, et allumini noi per lui.</l>
+<l>Et ellu è bellu e radiante cum grande splendore:</l>
+<l>de te, Altissimo, porta significatione.</l>
+</lg><lg><l>Laudato si', mi' Signore, per sora luna e le stelle:</l>
+<l>in celu l'ài formate clarite et pretiose et belle.</l>
+</lg><lg><l>Laudato si', mi' Signore, per frate vento</l>
+<l>et per aere et nubilo et sereno et onne tempo,</l>
+<l>per lo quale a le tue creature dài sustentamento.</l>
+</lg><lg><l>Laudato si', mi' Signore, per sor'aqua,</l>
+<l>la quale è multo utile et humile et pretiosa et casta.</l>
+</lg><lg><l>Laudato si', mi' Signore, per frate focu,</l>
+<l>per lo quale ennallumini la nocte:</l>
+<l>ed ello è bello et iocundo et robustoso et forte.</l>
+</lg><lg><l>Laudato si', mi' Signore, per sora nostra matre terra,</l>
+<l>la quale ne sustenta et governa,</l>
+<l>et produce diversi fructi con coloriti flori et herba.</l>
+</lg><lg><l>Laudato si', mi' Signore, per quelli ke perdonano per lo tuo amore</l>
+<l>et sostengo infirmitate et tribulatione.</l>
+</lg><lg><l>Beati quelli ke 'l sosterrano in pace,</l>
+<l>ka da te, Altissimo, sirano incoronati.</l>
+</lg><lg><l>Laudato si', mi' Signore, per sora nostra morte corporale,</l>
+<l>da la quale nullu homo vivente pò skappare:</l>
+<l>guai a·cquelli ke morrano ne le peccata mortali;</l>
+<l>beati quelli ke trovarà ne le tue sanctissime voluntati,</l>
+<l>ka la morte secunda no 'l farrà male.</l>
+</lg><lg><l>Laudate e benedicete mi' Signore et rengratiate</l>
+<l>e serviateli cum grande humilitate.</l>
+</lg>
+</lg>
+</body>
+</text>
+</TEI.2>

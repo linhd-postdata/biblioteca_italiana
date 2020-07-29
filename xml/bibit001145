@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Per sua Em. Guido Calcagnini</title>
+      <author>Vincenzo Monti</author>
+    </titleStmt>
+    <extent>18 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001145</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Canti e poemi di Vincenzo Monti</title>
+        <title type="part">v.</title>
+        <author>Monti, Vincenzo</author>
+        <editor id="ed">Carducci, Giosue</editor>
+        <publisher>G. Barbera</publisher>
+        <pubPlace>Firenze</pubPlace>
+        <date>1886</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>700</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.6 - Poesia italiana. Periodo del rinnovamento, 1748-1814.</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-04-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-04-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 n="Dedica"><opener><salute>AL CARD. GUIDO CALCAGNINI.</salute></opener>
+
+<salute>Eminenza.</salute>
+<p>I sommi onori delle repubbliche non han così riguardo al privato lustro di chi li sostiene come al vantaggio di tutta la società. Perciò, nel ripartirsi dall'avvedutezza del sovrano le prime dignità dello stato, il sodo merito della prescelta è alla ragione sempre dell'utile che ne ritraggono i cittadini; talchè sia lo splendor delle cariche, piucchè un premio de' passati servigi, un accrescimento d'autorità per meglio giovare alla specie umana. Ecco, eminentissimo signore, nel vedervi ormai adorno di porpora, la ferma ragione del general compiacimento che ride sul volto di tutti i buoni. L'onor dell'ostro e qualunque siasi luminosa dignità non è più nuova per la nobilissima vostra famiglia. È bensì tutto vostro quel costante giubilo che sentimmo al faustissimo avviso svegliarci nel petto, perchè l'ottimo incomparabil pontefice, nel far crescere d'un nuovo ornamento il porporato collegio, assai più che il vostro risguardato avesse il comun bene e la migliore felicità de' sui sudditi e poichè la sperienza aveaci bene avvertiti che al par degli anni e delle magistrature crebbe in voi sempre il gentil genio di giovare a' vostri simili, fummo allora costretti non così con voi stesso come con noi rallegrarci del felice vostro esaltamento. Ma piucchè mai ebbe di che compiacersi la mia famiglia fra mille domestici argomenti di parzialissima beneficenza. Son tali, clementissimo signore, i sommi eletti favori, di cui va ella debitrice al patrocinio del vostro cognome, che, disperando di trovarne quaggiù una qualche immagine, fu costretto il mio estro poetico e sollevarsi in fin su le sfere, per rintracciarne nel cielo stesso il vero fonte e l'origine. Che se nel mostrarvene una qualche sensibilità, vorrete meco dolervi che sian questi poetici trasporti di gran lunga minori a' beneficii vostri; vi risovvenga signore, che il più glorioso tratto della beneficenza è il gradir nelle offerte più l'ossequio che il dono. Compiacetevi anzi della stessa mia debolezza, perchè resti così èiù magnanimo il compatimento del vostro cuore, ed io vegga crescermi di giorno in giorno le forti ragioni per dovermi credere col più profondo ed ossequioso rispetto</p>
+
+<p>Di Vostra Eminenza,</p>
+<closer><date>Ferrara, li 2 luglio 1776.</date>
+<signed>Umil.mo Dev.mo Obb.mo Servo
+Vincenzo Monti.</signed></closer></div1>
+
+<div1 n="Per Sua Em. Guido Calcagnini"><head>PER SUA EM. GUIDO CALCAGNINI
+de' marchesi di Fusignano, delle Alfonsine ec., vescovo di Osimo, promosso alla sacra porpora.</head>
+
+<lg>
+<l>Nell'ora che dell'altre è più vicina</l>
+<l>All'ultima del giorno, allor che il sole</l>
+<l>Già corre nell'atlantica marina;</l>
+<l>Come guidarmi spesse volte suole</l>
+<l>La fantasia patetica, che gode</l>
+<l>Recarsi in parti taciturne e sole;</l>
+<l>Verso la porta orîental, che s'ode</l>
+<l>Nomar da quel profeta a cui di spada</l>
+<l>Fe la testa troncar l'iniquo Erode,</l>
+<l>Io l'erculea lasciando ampia contrada</l>
+<l>Incerto e a capo basso il piè traea</l>
+<l>Per la cheta del muro ombrosa strada.</l>
+<l>Ivi i miei passi ad incontrar si fea</l>
+<l>Il romito silenzio, onde su l'alma</l>
+<l>La pace malinconica scendea.</l>
+<l>Ma dolce era il pensier, dolce la calma</l>
+<l>De' miei spirti; e piovea dolce riposo</l>
+<l>Ristorator dell'agitata salma.</l>
+<l>Dunque tacito in vista e pensieroso</l>
+<l>Dopo breve cammin sopra la sponda</l>
+<l>Col fianco io m'adagiai d'un margo erboso.</l>
+<l>Il sottoposto tremolar dell'onda,</l>
+<l>Il fresc'orezzo, e dell'auretta il fioco</l>
+<l>Placido sussurrar tra fronda e fronda,</l>
+<l>L'opache piante, il solitario loco,</l>
+<l>Sul ciglio mi fermâr languido e lento</l>
+<l>Involontario il sonno a poco a poco.</l>
+<l>Cadea poggiato su la manca il mento.</l>
+<l>Quando alle braccia non so chi mi piglia,</l>
+<l>Scuotendo il capo chino e sonnolento;</l>
+<l>E una voce all'orecchio (oh meraviglia!)</l>
+<l>— Dormi, gridò, figliuol d'inerzia? omai</l>
+<l>Apri, io son che ti chiamo, apri le ciglia. —</l>
+<l>All'urto al grido le pupille alzai;</l>
+<l>E un alato garzon mi vidi innante</l>
+<l>Ch'avea del sole su la fronte i rai.</l>
+<l>Io dalle chiome al piè tutto tremante</l>
+<l>Rizzai le membra; e — Non temer, diss'egli</l>
+<l>In gentil soavissimo sembiante.</l>
+<l>Grande e bella cagion vuol ch'io ti svegli:</l>
+<l>Alzati, e vola. — Al fin di questi accenti</l>
+<l>Mi ravvolse la mano entro i capegli;</l>
+<l>E le forti battendo ale lucenti</l>
+<l>Ratto si spinse, come stral dall'arco</l>
+<l>Che lascia indietro men veloci i venti.</l>
+<l>O aure, o nubi, col gravoso incarco</l>
+<l>Del mio fral non vi prenda onta e disdegno</l>
+<l>Se per la vostra regione io varco.</l>
+<l>Dall'ima terra spettator qua vegno</l>
+<l>D'ammirabili cose: e al mondo chiare</l>
+<l>Andranno, se il mio dir di fede è degno.</l>
+<l>Tratto in aria pel crin, lungi mancare</l>
+<l>E fuggir mi vedea l'erte montagne</l>
+<l>Le cittadi le valli e l'ampio mare.</l>
+<l>Le nuvole fan largo e le compagne</l>
+<l>Nebbie pendenti, ovunque alzo la faccia</l>
+<l>Per l'immense del ciel vuote campagne.</l>
+<l>Del fulmine passai sopra la traccia;</l>
+<l>E tacque il cupo rimugghiar de' tuoni</l>
+<l>Di spaventi ministri e di minaccia.</l>
+<l>Si chetarono i nembi e le tenzoni</l>
+<l>Dell'irate procelle e il tempestoso</l>
+<l>Terribile furor degli aquiloni.</l>
+<l>Ma pur sentía di zolfo e di nitroso</l>
+<l>Bitume odor sì gravi e sì fetenti,</l>
+<l>Che mi divenne il respirar penoso.</l>
+<l>Ivi caldo di sdegni onnipossenti</l>
+<l>Scende il padre de' numi in sua virtude</l>
+<l>A fabbricarsi le saette ardenti:</l>
+<l>Ira e Vendetta colle braccia ignude</l>
+<l>Gli stanno al fianco; e orribili rimbombi</l>
+<l>Getta d'intorno la percossa incude:</l>
+<l>All'alternar de' spaventosi rombi</l>
+<l>Tremano i monti per timor che presto</l>
+<l>La ruinosa folgore giù piombi.</l>
+<l>Pien di ribrezzo valicai per questo</l>
+<l>Sentier sparso d'orrori e di paura;</l>
+<l>Finchè il fosco lasciando aere funesto</l>
+<l>In parte giunsi più serena e pura,</l>
+<l>Onde tosto d'olimpo ogni confine</l>
+<l>Luminoso m'apparve oltre misura.</l>
+<l>Mia guida il volo in su la cima alfine</l>
+<l>Fermò di bianca nuvoletta, e intanto</l>
+<l>Dalla man forte sprigionommi il crine.</l>
+<l>Io gittava pur gli occhi in ogni canto</l>
+<l>Impazîente omai per lo desío</l>
+<l>Di saper perchè ascesi alto cotanto:</l>
+<l>Quando un batter di palme, un mormorío</l>
+<l>D'ale commosse, un sibilar di manti,</l>
+<l>E tal voce dal sol scender s'udìo:</l>
+<l>— Fate plauso, o comete, o mondi erranti;</l>
+<l>Fate plauso al gran Guido, o cherubini,</l>
+<l>O superne potenze, o troni, o santi. —</l>
+<l>— Odi come fra gaudi almi e divini,</l>
+<l>Disse il mio duca, del tuo Guido in cielo</l>
+<l>Suona il nome sul labbro ai serafini.</l>
+<l>Leva su gli occhi, e vedi: il denso velo</l>
+<l>Che lo sguardo mortal tienti impedito</l>
+<l>Già ti sgombro davanti, e già ti svelo</l>
+<l>L'insolito chiaror dell'infinito. —</l>
+<l>Così dicendo, sopra le pupille</l>
+<l>Di croce un segno mi formò col dito,</l>
+<l>Poscia d'incontro alla gran luce aprille:</l>
+<l>E dentro vi trascorse un chiaro fiume</l>
+<l>Di vibrate ardentissime faville.</l>
+<l>Io possente di vista oltre il costume</l>
+<l>Allor lo sguardo avvalorato e forte</l>
+<l>Fissai nel centro dell'immenso lume.</l>
+<l>E dall'ampie di cieli eccelse porte</l>
+<l>Calar di forme angeliche io vedea</l>
+<l>Splendente innumerabile coorte;</l>
+<l>E seggio adamantino, in cui sedea</l>
+<l>Un che l'aspetto di diaspro in guisa</l>
+<l>E il piè simìle all'oricalco avea.</l>
+<l>Dal suo volto seren spinta e divisa</l>
+<l>Faceagli al capo un'iride contorno</l>
+<l>D'alma luce che gli occhi imparadisa.</l>
+<l>— Santo, — gridâr gli Eletti a lui d'intorno</l>
+<l>E Santo Santo — replicar sentissi</l>
+<l>Per ogni parte; e raddoppiossi il giorno.</l>
+<l>Mentr'io ben ferme in quei fiammanti abissi</l>
+<l>Tenea le ciglia, col fragor del vento</l>
+<l>Uscir dal trono un'altra voce udissi:</l>
+<l>— Scendi, Spirto di Dio, dal firmamento;</l>
+<l>E al magnanimo Guido alfin s'appresti</l>
+<l>Delle porpore sacre il vestimento. —</l>
+<l>Al gran cenno tremar gli archi celesti;</l>
+<l>E lo Spirto di Dio tosto si mosse</l>
+<l>Alto recando le purpuree vesti.</l>
+<l>Al cospetto di tutti egli le scosse,</l>
+<l>E apparver dell'agnel puro innocente</l>
+<l>Del vivo sangue colorite e rosse.</l>
+<l>Gli angeli allor la faccia riverente</l>
+<l>Incurvaro dall'uno e l'altro lato;</l>
+<l>E tai sciolse parole il gran sedente:</l>
+<l>— Chi sarà che l'eroe del meritato</l>
+<l>Manto ricopra ancor tinto e vermiglio</l>
+<l>Del sangue sparso dall'agnel svenato? —</l>
+<l>Surse a quei detti dell'eterno figlio</l>
+<l>La più amabil virtude, e tutta umìle</l>
+<l>Si trasse in mezzo del divin consiglio.</l>
+<l>Bella più che mai fosse, in dolce stile</l>
+<l>Così prese a parlar questa soave</l>
+<l>Di pacifico amor madre gentile.</l>
+<l>— Se non è il mio pregar molesto e grave,</l>
+<l>Coll'ostro il merto io fregerò di Guido,</l>
+<l>Io che del cuor di lui tengo la chiave.</l>
+<l>Non chieder s'ei mi sia tenero e fido:</l>
+<l>Alma sì mansueta, alma sì cara</l>
+<l>Dio gli donò per mia delizia e nido.</l>
+<l>Da me, gli dissi, o mio diletto, impara</l>
+<l>Ch'io son nell'umiltà fonte d'amore,</l>
+<l>Fonte d'affetti avvivatrice e chiara.</l>
+<l>Ei tosto alle mie voci aperse il core;</l>
+<l>E lietissima dentro io vi calai</l>
+<l>Come su l'erbe il mattutino umore.</l>
+<l>La tranquilla nel volto io gli spirai</l>
+<l>Schietta soavità di paradiso,</l>
+<l>Finchè tutto in me stessa il trasformai.</l>
+<l>Così pur seppi di Francesco al viso</l>
+<l>Sommi accoppiar di gentilezza i pregi,</l>
+<l>Onde fosse ogni cor vinto e conquiso;</l>
+<l>E l'oneste maniere e gli atti egregi</l>
+<l>Che il fer caro ai Camauri e al transalpino</l>
+<l>Genio guerrier d'imperatori e regi:</l>
+<l>Per tacer che buon padre e cittadino</l>
+<l>Vide un giorno fidate alla sua mano</l>
+<l>Della patria le leggi ed il dominio.</l>
+<l>Ma oh quanto grata io resi al Vaticano</l>
+<l>E a voi partenopée rive gioconde</l>
+<l>L'interezza e il candor del suo germano!</l>
+<l>Sorga il Sebeto dalle placid'onde,</l>
+<l>E narri che per lui sempre più bella</l>
+<l>La pace germogliò su le sue sponde.</l>
+<l>A lunghe cure io l'avvezzai per quella:</l>
+<l>E l'invitto Fernando e Carolina</l>
+<l>De' suoi saggi pensieri ancor favella.</l>
+<l>Carco di glorie poi la tiberina</l>
+<l>Spiaggia il ritolse in mezzo alla speranza</l>
+<l>Di rubiconda porpora latina.</l>
+<l>Ei c'ha tutta di me la somiglianza,</l>
+<l>Ei che fu mansueto, ei che felice</l>
+<l>Oggi dell'ostro allo splendor s'avanza,</l>
+<l>Mi richiama al suo fianco: e a me non lice,</l>
+<l>A me che l'esaltai, di questo dono</l>
+<l>Farmi una volta a lui dispensatrice? —</l>
+<l>Così parlava: dalle labbra il suono</l>
+<l>Dolce qual mele uscìa d'ogni suo detto:</l>
+<l>E l'altro nume che sedea sul trono,</l>
+<l>Poichè sospinto da increato affetto</l>
+<l>L'ebbe sul volto mille baci impressi,</l>
+<l>Con un sorriso se la strinse al petto.</l>
+<l>Più innamorati i serafini anch'essi</l>
+<l>Alternar gareggiando amabilmente</l>
+<l>Santissimi fra lor baci ed amplessi.</l>
+<l>A sì tenere cose anch'io presente</l>
+<l>Mi scossi: e oh quale nel mio sen si sparse</l>
+<l>D'ineffabili gaudi almo torrente!</l>
+<l>Ecco frattanto un gran silenzio farse;</l>
+<l>Ecco un'altra virtude, e rispettosi</l>
+<l>Gli angeli indietro al suo passar tirarse.</l>
+<l>Affabil vista avea, sguardi amorosi,</l>
+<l>Sette stelle sul petto, e l'ignea faccia</l>
+<l>Di tre vivaci ardea raggi focosi.</l>
+<l>A lui che incontro le stendea le braccia,</l>
+<l>— Ah, disse, insiem cogli altri il pregar mio,</l>
+<l>Clementissimo padre, udir ti piaccia.</l>
+<l>Ti parla la Pietà: quella son io</l>
+<l>Ch'ai mortali laggiù larga proveggio</l>
+<l>Le grazie i premi della man di Dio;</l>
+<l>Ed or che a Guido prepararsi io veggio</l>
+<l>Conveniente al merto aura mercede,</l>
+<l>A parte d'onor tanto entrar ben deggio.</l>
+<l>Pargoletto era ancor, che alla mia fede</l>
+<l>Tu il consegnasti: e dietro i passi miei</l>
+<l>Sul cammin di tue leggi ei mosse il piede.</l>
+<l>Prova sovente del suo core io fei;</l>
+<l>Lo passai per le fiamme irrequiete,</l>
+<l>E scoprirne una macchia io non potei.</l>
+<l>A lui per le notturne ombre secrete</l>
+<l>Venìa furtiva: ed egli orando intanto</l>
+<l>Togliea dagli occhi il sonno e la quiete.</l>
+<l>Oh quante volte mi chiamò, col pianto</l>
+<l>Mescolando i sospiri! e non sapea</l>
+<l>Che invisibile ognor m'avea d'accanto.</l>
+<l>Io da lontano il suo pensier vedea,</l>
+<l>Io gli purgai la lingua: e al cor sincero</l>
+<l>Sempre il labbro fedel corrispondea.</l>
+<l>Lusinga a lui gl'illustri avi non fero:</l>
+<l>Chi seguace di Cristo e d'umiltate</l>
+<l>Sprezza l'ambizion del sangue altero.</l>
+<l>Lungi, fumose immagini pregiate:</l>
+<l>Di queste invece io gli additai le belle</l>
+<l>Della gran genitrice opre onorate.</l>
+<l>Parlo di Caterina, a cui le stelle</l>
+<l>La mente sollevar sì, che lontana</l>
+<l>Fu dai confini di natura imbelle.</l>
+<l>Vedila or come al ciel la via si spiana,</l>
+<l>E calpesta fra' chiostri ogni fallace</l>
+<l>Gloria, flagel della superbia umana.</l>
+<l>Onde romita e in radunar sagace</l>
+<l>I tesori celesti attende il giorno</l>
+<l>Di salir gli astri e chiuder gli occhi in pace.</l>
+<l>Ma scritto è in ciel che i sacri omeri adorno</l>
+<l>Delle lane di Tiro il figlio amato</l>
+<l>Dal Tevere al suo sen faccia ritorno.</l>
+<l>E questo è il dì laggiù tanto aspettato,</l>
+<l>Del figlio i pregi e della madre alfine</l>
+<l>I caldi voti a coronar serbato.</l>
+<l>Veggo i monti esultarne e le colline,</l>
+<l>Veggo più vaghi delle sfere i rai</l>
+<l>Scintillar per le pure aure turchine.</l>
+<l>E me col desío spesso affrettai</l>
+<l>Queste a giunger sì lente ore gradite</l>
+<l>Tacita nel comun plauso vedrai?</l>
+<l>Venga la bella emula mia: venite</l>
+<l>Meco, o virtudi più sublimi e conte,</l>
+<l>E omai la generosa opra compite. —</l>
+<l>Qui tacque: e tutte festeggianti e pronte</l>
+<l>Corsero le virtudi, e in gentil atto</l>
+<l>Tre volte e quattro si baciaro in fronte.</l>
+<l>Corse la Carità, che un cor già tratto</l>
+<l>Dalle sue fibre nella man si stringe</l>
+<l>Da vivissime fiamme arso e disfatto.</l>
+<l>Corse la Speme, che le terga accinge</l>
+<l>D'infaticabil'ale e verso il cielo</l>
+<l>Gli sguardi confidenti ognor sospinge.</l>
+<l>Corse la Fè, che sotto bianco velo</l>
+<l>Della faccia ricopre i bei candori</l>
+<l>Ed innalza la croce ed il vangelo.</l>
+<l>Dietro a queste seguìan l'altre minori,</l>
+<l>Venerabil corteggio; e in dolci gare</l>
+<l>Venían fastose de' secondi onori.</l>
+<l>Rise il gran nume in riguardar le care</l>
+<l>Figlie del suo chiarissimo intelletto;</l>
+<l>E fatto cenno di voler parlare,</l>
+<l>— Ecco, lor disse, il vestimento eletto:</l>
+<l>Voi recatelo al giusto, al mansueto,</l>
+<l>A lui che tutte vi racchiude in petto.</l>
+<l>E giunge ai piedi del buon Pio; che lieto</l>
+<l>Fa di sua vista il Tebro, e che prescritto</l>
+<l>Al sacro impero dal divin decreto</l>
+<l>Per pietà per giustizia e core invitto</l>
+<l>Di me solo minor mostrasi, e fido</l>
+<l>Della mia sposa custodisce il dritto;</l>
+<l>Dite che prima io gli accomando e affido</l>
+<l>L'eredità di Cristo, e poi che chiede</l>
+<l>Amplo ristoro il faticar di Guido.</l>
+<l>Dite che così brama il Dio che siede</l>
+<l>Sul seggio adamantin, Dio che sembiante</l>
+<l>Ha di diaspro e d'oricalco il piede. —</l>
+<l>Tal parlò l'infallibile tonante;</l>
+<l>E parve a udirsi la sua voce un prono</l>
+<l>Cader di strepitosa onda sonante.</l>
+<l>Allor di lampi e folgori dal trono</l>
+<l>Un improvviso nembo si disciolse,</l>
+<l>Misto al fragor di procelloso tuono.</l>
+<l>Ohimè! qui troppa luce i rai m'avvolse;</l>
+<l>Ohimè! qui sparve il cielo; e su lo stesso</l>
+<l>Margo d'onde l'ignoto angel mi tolse,</l>
+<l>Dalla beata visione oppresso,</l>
+<l>Steso fra l'erbe mi trovai qual era.</l>
+<l>Vidi il sol moribondo; e a lui d'appresso</l>
+<l>Volea la notte uscir tacita e nera.</l></lg></div1></body></text></TEI.2>

@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Selva</title>
+      <author>Giovanni Vendramin</author>
+    </titleStmt>
+    <extent>23 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2006</date>
+      <idno>bibit000541</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Una Selva di Giovanni Vendramini a Muzio Sforza (1550). Per la poesia manieristica a Milano.</title>
+        <author>Albonico, Simone</author>
+        <publisher>Fondation Barbier-Mueller</publisher>
+        <pubPlace>Genève</pubPlace>
+        <date>1999</date>
+        <note>Estratto da: Italique : poesie italienne de la Renaissance, (1999).</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2005-09-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Simona Casciano</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML</item>
+    </change>
+    <change>
+      <date>2005-09-26T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 n="Titolo">
+<head>SELVA DEL CAVALIER VENDRAMINI, NELLA 
+QUALE SI CELEBRA IL NASCIMENTO DEL 
+FIGLIUOL PRIMOGENITO DELLO ILLUSTRISS. 
+SIGNOR MUTIO SFORZA</head>
+<p/>
+</div1>
+<div1 n="Dedica I">
+<p><hi rend="italic">Al molto magnifico et valoroso signor capitano 
+Pietro Piantanido, il Cavalier Vendramini.</hi></p>
+
+<p>Vi mando, Signor mio, quella Selva che io questi 
+giorni passati fra continui travagli scrissi sopra il 
+nascimento del figliuolo primogenito dello Ill.mo 
+Signor Mutio Sforza, quella che voi mi comandaste che 
+io in cotal suggetto scrivessi, et che voi con tanta 
+instantia al presente mi richiedete;
+et la vi mando volentieri, sì come colui che a molto 
+maggior biasimo mi arreco il non obidire a voi (a cui io 
+sono, mentre mi vivo, di obidire tenuto) che lo essere 
+da gli huomini letterati reputato nello scrivere assai 
+male accorto e poco prudente.
+Ben vi prego strettamente a non voler far parte ad 
+altrui di questa mia compositione che a voi stesso solo, 
+conciò sia cosa che, essendo essa mia Selva fatica di 
+pochissimi giorni, non può avenire che io mi creda che 
+ella di tutti quegli errori non si ritruovi ripiena che per 
+lo più suole seco apportare la prestezza, non mai di 
+tutti avertimenti bastevolmente aveduta;
+oltre che, facendo voi altramente, fareste non 
+mediocre pregiudicio allo havermi io a' vostri affettuosi 
+comandamenti obedito.
+Ricordandovi, Signor mio, appresso di ciò, che se voi 
+nella disciplina delle arme havete dato tal generoso 
+saggio del vostro coraggioso valore che altri facilmente 
+promettere di voi si può ogni cosa, per grande et 
+honorata che ella si sia, io non così in quella delle 
+lettere,
+per non essere io nella poesia a quel chiaro segno 
+arrivato al quale voi nelle opere di cavalleria hoggimai 
+giunto sete: acciò siate a' nostri giorni alla vostra 
+chiarissima patria <hi rend="italic">Qual Bacco, Alcide, Epaminonda 
+a Thebe.</hi></p>
+</div1>
+<div1 n="Dedica II">
+<p><hi rend="italic">Allo illustrissimo s.or Mutio Sforza, il Cavalier 
+Vendramini.</hi></p>
+<p>Da poi che io primieramente vidi et conobbi V. S. 
+Illu. così di subito per lo continuo affettuosamente 
+l'amai et riverentemente la osservai, sforzato a ciò fare 
+da quelle bellissime conditioni che ella con tanta 
+felicità ha con esso lei recato dal suo nascimento.
+Queste si veggono in lei (da chi con giudicioso occhio 
+le rimira) così fattamente acconce et composte di una 
+certa temperata auttorità, dolce affabilità, gratiosa 
+bellezza et costumata creanza, che sforzano chiunque la 
+vede et conosce a rimanerle immortalmente 
+affettionatissimo.
+Perlaqual cosa io, che fra gli altri infiniti infinitamente 
+affettionatissimo le sono, desiderando sopra modo di 
+renderla con alcuna chiara dimostratione hoggimai 
+accorta di questo mio così affettuoso buon animo, ho 
+voluto col mezo di questa mia Selva (con la quale mi 
+sono accostato di celebrare il felicissimo nascimento 
+del suo primogenito figliuolo) cominciare a scoprirle 
+quello che insino ad hora le è stato modestissimamente 
+da me coperto:
+e questo è lo amore, la observanza et la servitù che 
+io così affettuosamente le porto et porterò mentre mi 
+vivo;
+et così etiandio la grande allegrezza et il sommo 
+contento che io a gran ragione ho sentito della venuta al 
+mondo di questo suo tanto desiderato figliuolo.
+V. S. Ill. adunque sia contenta di accettare 
+gratiosamente in dono questa mia picciol fatica, la 
+quale quando d'altra parte non le habbia a piacere sì le 
+doverà ella da questa gradire, che essa in sé contiene 
+l'affettione mia verso di lei et l'aventurosa felicità che 
+il benigno cielo largamente promette a questo suo 
+fortunatissimo fanciullo.
+Et a V. S. Ill.ma bascio inchinevolmente le mani con 
+tutta l'affettione del core.</p>
+</div1>
+</front>
+<body>
+<div1 n="Selva">
+<l>Voi meco, voi, sante compagne et suore</l>
+<l>Del biondo Dio, figliuole alme di Giove, </l>
+<l>Muse, per cui de l'huom la gloria vive, </l>
+<l>Che de l'onde et de' lauri il sacro freno</l>
+<l>Del bipartito monte in mano havete; </l>
+<l>Voi meco, o Dive, celebrate voi, </l>
+<l>Lasciando di Parnaso i lauri et l'onde, </l>
+<l>Del felice fanciullo il nobil parto</l>
+<l>E 'l fortunato nascimento altiero, </l>
+<l>Per cui di gioia et pien d'alto diletto</l>
+<l>Si vede il reverito et santo Tebro</l>
+<l>Portar superbo al suo Tirrheno in seno</l>
+<l>Più che mai l'acque sue lucenti et chiare, </l>
+<l>E i sette colli suoi famosi e aprici, </l>
+<l>Non men di glorie che di piante adorni, </l>
+<l>Splender di lucidissime faville, </l>
+<l>Et tutti insieme alteramente lieti, </l>
+<l>Con plauso, gaudio, giubilo et favore, </l>
+<l>D'herbette et fiori, d'oro intesto et d'ostro, </l>
+<l>Pomposi far meravigliosa mostra; </l>
+<l>Dite voi, meco voi dolce cantate</l>
+<l>Del ben nato fanciullo il parto illustre, </l>
+<l>E 'l nascimento fortunato et chiaro</l>
+<l>Per cui la bella et sontuosa Insubria</l>
+<l>Colma di nobil speme sen' va altera, </l>
+<l>Triomphante, festosa, alta et superba, </l>
+<l>Con la città che 'l freno allenta et stringe</l>
+<l>A i magnanimi spirti, a i regni Insubri. </l>
+<l>Voi questo et quel, castissime sorelle, </l>
+<l>Cantate voi, che dal sacrato monte</l>
+<l>Porgete a le mortal' lingue sovente</l>
+<l>Pietosa aita, et forz'alta e 'mmortale, </l>
+<l>Voi Dive illustri, voi, che lui che uscìo</l>
+<l>Del nobilissimo utero fecondo</l>
+<l>De la Donna che 'l mondo in dubbio tiene</l>
+<l>Qual ella sia maggior tra casta et bella, </l>
+<l>Accoglieste nel vostro santo grembo</l>
+<l>Et lusingaste ne le vostre braccia, </l>
+<l>Cingendo a lui la pargoletta fronte</l>
+<l>D'hedere nove et giovinetti allori. </l>
+<l>Né sol voi veramente, o Dee, veniste</l>
+<l>De la gran Donna a gli honorati tetti, </l>
+<l>Né foste sole a tanto ben presenti, </l>
+<l>Ma con voi parimente al felice orto</l>
+<l>Vi fu Lucina la pietosa, et porse</l>
+<l>L'amica mano al gran bisogno intesa, </l>
+<l>Ungendo di salubri succhi d'herbe</l>
+<l>La real Donna, acciò che 'l sì gravoso</l>
+<l>Fero dolor da le sue vaghe membra</l>
+<l>Scacciasse, e dal bel corpo ogni passione. </l>
+<l>Così vi venne dall'Idalio colle</l>
+<l>La bella et santa Dea madre d'Amore</l>
+<l>Per veder lei, di tutte l'altre il pregio: </l>
+<l>Al cui festo venir giocondo et lieto</l>
+<l>Onde gioisce et si rallegra il mondo, </l>
+<l>L'aurate chiome sue vaghe et lascive</l>
+<l>Sovra i candidi avori a l'aura sparse</l>
+<l>Spirar' soave, et l'aura et l'aria empiero</l>
+<l>Di grato Arabo odor, Sirio e Pancheo; </l>
+<l>Et spogliate l'amene piaggie apriche</l>
+<l>Del vario honor che 'l lor bel verde ingombra, </l>
+<l>Con soavi et dolcissimi concenti</l>
+<l>Dolce ingombrando il ciel del suo bel nome, </l>
+<l>Sparsero l'aria i pargoletti Amori. </l>
+<l>Venner le Gratie a le leggiadre et lievi</l>
+<l>Carole intese, e fur preste d'intorno</l>
+<l>Al gran bambino, et di celeste ambrosia</l>
+<l>Tutto 'l lavaro, et ne l'aurate culle</l>
+<l>Gl'Hinni dolce cantando, apparechiaro</l>
+<l>Letto de molli et candidi ligustri; </l>
+<l>Venne da gli antri suoi spumosi anchora</l>
+<l>De gli altri il Re superbo et nobil fiume</l>
+<l>Po, pien di riverenza annosa et grave, </l>
+<l>Colmo di gioia et di letitia il volto, </l>
+<l>L'humido ventre, il petto ondoso e 'l tergo, </l>
+<l>Con l'ondeggianti et molli tempie, adorno</l>
+<l>Di musco, d'alga et di pallida salce; </l>
+<l>Cui seguian con gioioso applauso et grido, </l>
+<l>Per l'amene et fruttifere contrade</l>
+<l>Che fur sì amiche al buon seme Lombardo, </l>
+<l>Adda feconda, Ambro lucente, e 'l chiaro</l>
+<l>Tesin, col buon fratel da l'onde gravi</l>
+<l>E gli altri cento suoi di gaudio colmi</l>
+<l>Cerulei, molli et liquidi seguaci; </l>
+<l>A cui d'appresso il bel virginal choro</l>
+<l>De le nimphe leggiadre habitatrici</l>
+<l>Di lor humidi alberghi, con la vaga, </l>
+<l>Superba et lieta Insubria, i grembi carchi</l>
+<l>Di mille varii fior' portavan liete, </l>
+<l>Con ghirlande di caltha et d'amaranti, </l>
+<l>Di bianchi gigli et di purpuree rose. </l>
+<l>Le qua' poscia che l'aureo albergo tutto</l>
+<l>Sparser de' fiori et d'ogni parte empiero</l>
+<l>Diffusamente di soavi odori, </l>
+<l>Ecco repente dal celeste regno, </l>
+<l>Da l'alta soglia del gran padre eterno</l>
+<l>Le sante Parche, a cui l'antiche membra</l>
+<l>Veste un vel bianco, et le canute tempie</l>
+<l>Cinge di Giove la Chaonia quercia. </l>
+<l>Queste, poi che co stretti et santi amplessi</l>
+<l>Abbracciar' la gran madre, et con serena</l>
+<l>Fronte basciaro il pargoletto infante, </l>
+<l>Volgendo intorno a l'indorato fuso</l>
+<l>Gli aventurosi et bei candidi stami, </l>
+<l>Sciolsero in tai certissime parole, </l>
+<l>Mirando fisso il bel fanciul, la sempre</l>
+<l>Veracissima lor lingua divina: </l>
+<l>"O nato sotto a i più benigni segni</l>
+<l>Del ciel propitio, e a' più cortesi lumi</l>
+<l>Che mai scaldasse, da che 'l mondo alluma, </l>
+<l>Phebo col foco suo vivace et chiaro, </l>
+<l>Cresci, ben nato e aventuroso figlio, </l>
+<l>E i tuoi gran' genitor' crescendo adempi</l>
+<l>Di certo gaudio et d'infallibil speme, </l>
+<l>Et de l'alte et votive tue venture</l>
+<l>Ti rallegra et gioisci. Et tu, sì illustre</l>
+<l>Madre, a cui nulla son quante mai furo, </l>
+<l>Et tu, di tanto figlio inclito padre, </l>
+<l>I quai con destro et favorevol cielo</l>
+<l>Amor pudico et già casto Himeneo</l>
+<l>Congiunse al letto genïale et sacro, </l>
+<l>Serbate dentro a i lieti animi vostri, </l>
+<l>Sì come Peleo et Tethi il ben futuro</l>
+<l>Serbaro già de l'animoso Achille, </l>
+<l>Quanto di par concordia liete a voi</l>
+<l>Veridiche diciamo; né vogliate</l>
+<l>Già temer ch'a fraudar v'habbia giamai</l>
+<l>Ciò ch'udirete, coppia alma et reale, </l>
+<l>Da noi del vostro generoso seme. </l>
+<l>Sì come suole in ben aprico et culto</l>
+<l>Giardin crescere l'amàraco odorato, </l>
+<l>Cui vergine amorosa, bella et saggia</l>
+<l>Nutre con ogni accorto studio solo</l>
+<l>A sue delitie, et d'humor chiaro lieve-</l>
+<l>Mente sera et matina irriga et bagna; </l>
+<l>Quello ad ognihor più bello a poco a poco</l>
+<l>Vago s'inalza a le piacevol' aure, </l>
+<l>Spargendo il grato odor lunge et d'appresso</l>
+<l>De le sue vaghe et delicate spoglie; </l>
+<l>Così crescerà più, di giorno in giorno, </l>
+<l>Il fanciul felicissimo et gentile, </l>
+<l>Leggiadro, bello et d'ogni gratia pieno, </l>
+<l>Né fra quegli anni semplicetti et puri</l>
+<l>Ritroverà, tra quanto spira et vive, </l>
+<l>Chi di gratia et beltà gli vada eguale. </l>
+<l>Ma poi, sì tosto ch'ei verrà vicino, </l>
+<l>Fuor de gli anni infantil' teneri e acerbi, </l>
+<l>Al breve dolce tempo ove altri indora</l>
+<l>De' primi aurati fior' le guancie e 'l mento, </l>
+<l>Così ratto i bei studi et le sacre arti</l>
+<l>Gl'insegneran le Muse e Apollo, il saggio</l>
+<l>Principe del sacrato Aonio choro, </l>
+<l>Et del liquor che versa et non pur stilla</l>
+<l>Di Cirra et d'Aganippe i sacri fonti</l>
+<l>A ber larghe et cortesi a lui daranno, </l>
+<l>E apriran liete d'ogni parte a quello</l>
+<l>Di Pindo e d'Hemo i reveriti boschi, </l>
+<l>C'hanno al più breve dì le fronde e i fiori. </l>
+<l>Così anchor presto il fero et crudo Dio</l>
+<l>Per cui tanti et sì horribili trophei</l>
+<l>S'ergono a l'empia et dispietata morte, </l>
+<l>Con la feroce vergine Bellona, </l>
+<l>A lui, che 'n esser coraggioso et forte</l>
+<l>Ognialtro avanzerà prisco et moderno, </l>
+<l>Insegneranno ogni militia d'arme, </l>
+<l>Acciò ch'egli habbia ad ogni impresa ardito, </l>
+<l>Pratico, industre, armato et disarmato, </l>
+<l>A piedi, in sella, in chiuso e aperto campo, </l>
+<l>Quanta eccellentia in arme haver si possa. </l>
+<l>Nessun saprà di lui più forte o destro</l>
+<l>Ferir di stocco, et con la lancia in resta</l>
+<l>Colpir con maggior forza il suo nemico, </l>
+<l>Et così in l'altre sorti d'arme anchora</l>
+<l>Più svelto et fiero e audace adoperarsi, </l>
+<l>Né maneggiar con arte et con più core</l>
+<l>Animoso corsier feroce, a cui</l>
+<l>Alto, basso, a sinistra e a destra mano, </l>
+<l>Stretto, largo, a gran' salti, a corso e a giro</l>
+<l>Premerà il dorso sì leggiero et pronto</l>
+<l>Et con tanta eccellentia indietro e 'nanti, </l>
+<l>Ch'ei fuor del suo voler non movrà piede. </l>
+<l>Oh, quante volte ne' maggior' conflitti</l>
+<l>De l'aspre, dure et sanguinose guerre, </l>
+<l>Tutto ripien di generoso sdegno</l>
+<l>Si vedrà sol, di molto sangue asperso, </l>
+<l>Fra le nemiche et numerose schiere</l>
+<l>Far sopra humane et incredibil' prove! </l>
+<l>E ovunque il volto et l'animosa spada</l>
+<l>Drizzerà formidabile et tremendo</l>
+<l>In volta e 'n fuga por gli huomini et l'arme, </l>
+<l>E con molto valor, senno et fortuna, </l>
+<l>Dopo gran strage et grave eterno danno, </l>
+<l>Spezzar l'averse schiere e a morte porre</l>
+<l>Chiunque gli verrà dinanzi a gli occhi. </l>
+<l>Qual rapido torrente, a cui le pioggie</l>
+<l>De l'aspro verno rio cresciute han l'acque, </l>
+<l>Escie fremendo minaccioso et fiero</l>
+<l>Dal cavo fondo, et con ruinoso corso</l>
+<l>Rompe le rive e i forti argini, et svelle</l>
+<l>L'opposte piante, et con horribil suono</l>
+<l>A molte miglia d'ognintorno inonda</l>
+<l>I campi e i paschi, et trahe seco ne l'acque</l>
+<l>Ciò ch'ei rincontra col cruccioso humore, </l>
+<l>Fortunato fanciullo, a te fia dato</l>
+<l>Dal cielo, a i voti tuoi benigno et largo, </l>
+<l>Di Marte non spiegar giamai l'insegne</l>
+<l>Contra i nemici senza gloria haverne, </l>
+<l>Però che quante volte andrai lor contra</l>
+<l>Tante darai vittorïoso a quelli</l>
+<l>Chiare sconfitte e memorabil' rotte. </l>
+<l>Né pur co i tuoi gran' fatti andrai di paro</l>
+<l>De l'Avo tuo d'immortal lode degno</l>
+<l>E del gran padre, in cui non minor raggio</l>
+<l>Splende d'alto valor et di bontade, </l>
+<l>Di cui, bench'ei sia giovinetto, et fatto</l>
+<l>Anchor non habbia esperïentia alcuna, </l>
+<l>Perché occorso non gli è, del suo valore, </l>
+<l>Cosa non è però tanto ardua et grande</l>
+<l>Ch'altri facil prometter non si possa</l>
+<l>Del giovenil ardir de' suoi verdi anni; </l>
+<l>Ma i coraggiosi e i sì mirabil' fatti</l>
+<l>De gli altri avoli tuoi famosi e illustri, </l>
+<l>Mutii, Sforzi, Franceschi et Alessandri, </l>
+<l>Ludovici, Galeazzi, Ascani et Buosi, </l>
+<l>Di molto spatio a i tuoi rimarran dopo. </l>
+<l>Ché se l'Avo tuo fece a gli Alamanni, </l>
+<l>Scesi da gl'erti, alpestri et duri monti</l>
+<l>Supra d'Insubria a guisa di tempesta</l>
+<l>Dietro al furor del temerario Duca, </l>
+<l>Lodi sembrar cotanto amara et acra</l>
+<l>Che di lor corpi i grassi et lieti campi</l>
+<l>Restar' coperti sì che d'ognintorno</l>
+<l>Ne fer' gli avidi augei secure prede, </l>
+<l>E 'l vago fiume a la città vicino</l>
+<l>Dimostrò l'acque sue tutte di sangue; </l>
+<l>Et se 'l buon padre tuo, molto più degno</l>
+<l> (Et ben si converrebbe a' suoi gran' merti), </l>
+<l>Veramente più degno assai d'Impero</l>
+<l>Che de l'humile stato in ch'ei si trova, </l>
+<l>Empierà de' suoi fatti arditi quanto</l>
+<l>Ch'Appennin parte e 'l mar circonda et l'alpe, </l>
+<l>Sol per ripor la misera et dolente</l>
+<l>Italia et la sua patria in libertade; </l>
+<l>Così se gli altri antichi tuoi Sforzeschi, </l>
+<l>Sovrano honor de gl'Italici chiostri, </l>
+<l>I quai di singular pregio et virtute</l>
+<l>Et di tante eccellentie Europa ornaro, </l>
+<l>Dopo lunghe fatiche et lunghi affanni</l>
+<l>Guerriggiando acquistar' qualche paese; </l>
+<l>Tu la sì bella et sfortunata parte, </l>
+<l>Ch'un tempo diede imperïosa al mondo</l>
+<l>Le sacre et sante leggi et l'aurea pace, </l>
+<l>Hor dal discorde nostro invido seme</l>
+<l>Così divisa, travagliata et guasta, </l>
+<l>C'hoggi 'l bel nome a gran pena le resta, </l>
+<l>Tu solo renderai libera, solo, </l>
+<l>Dal troppo grave et miserabil giogo</l>
+<l>De la nostra et di lei nimica gente, </l>
+<l>Cacciando fuor del suo fiorito nido</l>
+<l>Ne gli antri loro latebrosi et cupi</l>
+<l>I famelici, ingordi et strani mostri</l>
+<l>A nostri danni d'Occidente usciti, </l>
+<l>Facendo di lor sangue horribil stagno. </l>
+<l>Et quanto fia dal tuo sì nobil padre, </l>
+<l>In cui abonda virtù, manca fortuna, </l>
+<l>Ah! per più non poter lasciato adietro</l>
+<l> (Ché spesso suole a i bei nostri disegni</l>
+<l>Mostrarsi il cielo invidïoso et rio), </l>
+<l>Sarà da te con sempre eterne note, </l>
+<l>Con arme et prudentissimo consiglio</l>
+<l>Condotto a lieto et terminato fine. </l>
+<l>Et se quegli altri tuoi, quegli altri dico</l>
+<l>Magnanimi Signor' di tua famiglia, </l>
+<l>Sudar' nel ferro et travagliar' ne l'arme</l>
+<l>Per viver vita gloriosa, et farsi</l>
+<l>Al secondo morir schermo et riparo, </l>
+<l>Et de gli heroici lor sudori al fine</l>
+<l>Tenir' con giusto et riposato scettro</l>
+<l>Ne l'Italico suolo alcuno stato, </l>
+<l>Tu, la feroce gente a cui la Senna</l>
+<l>I campi irriga, et quella che si lava</l>
+<l>Nel freddo Rhen, con l'altra che bee l'onde</l>
+<l>D'ambe le rive del famoso Ibèro</l>
+<l>Naturalmente al nostro stratio intese, </l>
+<l>Cacciate lunge da l'Ausonio clima</l>
+<l>Dopo lunga fatica industre et santa</l>
+<l> (Dhe! homai si creda a le divine Parche), </l>
+<l>Reso il suo antico et usurpato Impero</l>
+<l>Al nostro invitto et glorïoso Latio, </l>
+<l>Vestirai de gl'Insubri il ducal manto</l>
+<l>Già per molt'anni a' tuoi debito prima. </l>
+<l>Né sol possederai l'ameno stato</l>
+<l>De le sì altere et populose mura</l>
+<l>D'Insubria nostra, ma 'l dominio appresso</l>
+<l>Havrai d'ogni città che di qua seggia</l>
+<l>Da l'Alpi insino al bel Felsineo Rheno. </l>
+<l>Quinci portando l'animoso ferro, </l>
+<l>Lontan dal suolo tuo patrio e natio, </l>
+<l>Fra l'esterne et barbariche nationi, </l>
+<l>Empierai de' tuoi frutti audaci il mondo, </l>
+<l>Perché d'Ausonia il quasi estinto pregio</l>
+<l>A questi giorni et l'oscurata gloria</l>
+<l> (Così ordinato ha 'l cielo) allumerai</l>
+<l>Co i raggi ardenti del tuo gran valore. </l>
+<l>Reveriran le tue famose insegne</l>
+<l>Del nostro mondo l'universe genti, </l>
+<l>Di volti et lingue et d'habiti diverse, </l>
+<l>Il fosco Ibèro et l'odorato Gange, </l>
+<l>L'algente Scitha et l'Etiòpe adusto, </l>
+<l>Con ciò che d'ogni lato a l'universo</l>
+<l>Il gran padre Ocean circonda et bagna. </l>
+<l>Così tu al fin di spoglie et glorie carco, </l>
+<l>Lieto, contento et fortunato a pieno, </l>
+<l>Il ferro solo a le vittorie ascritto</l>
+<l>Deporrai stanco; poi chiudendo Marte, </l>
+<l>Ov'ei non veggia per molt'anni luce, </l>
+<l>Al Furor empio legherai le mani, </l>
+<l>Et la dura e 'mplacabile Discordia</l>
+<l>Relegherai tu in parte oscura et cava. </l>
+<l>Alhor si vederà forse per sempre</l>
+<l>Il ferrugineo ferro nostro farsi</l>
+<l>Di forbit'oro, et del figliuol di Celo</l>
+<l>A noi tornar co i buon' tempi migliori</l>
+<l>I semplici anni et la innocente etade: </l>
+<l>L'alm'aurea Pace scenderà dal sommo</l>
+<l>Stellante chiostro, et la celeste Astrea</l>
+<l>Terrà il suo santo et benedetto seggio, </l>
+<l>Con la suora santissima, fra quelli</l>
+<l>Beati et non più miseri mortali, </l>
+<l>Però che i loro dì contenti et queti, </l>
+<l>Senza doglia, desir, speme o timore</l>
+<l>Meneran sotto a le sì amiche stelle; </l>
+<l>Alhora il Vitio abominoso et brutto, </l>
+<l>Con tutti i morbi, i quai languendo usciro</l>
+<l>Per comun mal da l'odiato vaso, </l>
+<l>Fia dal mondo scacciato et posto in bando; </l>
+<l>Patiranno alhor scempio illustre et chiaro</l>
+<l>I tersi bronzi et gl'indorati marmi</l>
+<l>Per lasciar a' futuri eterna fede</l>
+<l>De' fatti eccelsi et tue mirabil' opre, </l>
+<l>Et de' più chiari et celebrati ingegni</l>
+<l>Le più belle et leggiadre et dotte penne, </l>
+<l>Lasciando i famosissimi suggetti</l>
+<l>Di Troia et d'Argo, e 'n un d'Athene et Roma, </l>
+<l>Solo de' gesti tuoi grandi et sublimi</l>
+<l>Ordiran con memoria eterna et grido</l>
+<l>Historie, commentari, annali et libri. </l>
+<l>O tre volte beati, quattro et sei, </l>
+<l>Voi, di fruire a cui fia dato in sorte</l>
+<l>Del fortunato et buon secol migliore</l>
+<l>I così allegri et riposati giorni, </l>
+<l>Da la divina providentia eletti</l>
+<l>A tanto, non più mai veduto, honore: </l>
+<l>Dhe, ch'altri veggia sol per gratia tante</l>
+<l>Rare eccellentie in un petto raccolte! </l>
+<l>Et tu, sovra d'ognialtra inclita terra</l>
+<l>Cotanto al sommo ben cara et gradita, </l>
+<l>A cui largir l'alto voler divino</l>
+<l>Voluto ha così raro et nobil spirto, </l>
+<l>Tu le feconde et ondeggianti biade, </l>
+<l>Le fruttifere piante et gli altri arbusti, </l>
+<l>Con tutto ciò che ben culto terreno, </l>
+<l>Morbido e aprico può qua giù produrre, </l>
+<l>Col tuo prodigo ventre in ogni loco, </l>
+<l>Da te medesma, senz'altrui fatica, </l>
+<l>Senza vomeri, aratri, innesti et marre, </l>
+<l>La tua mercede a i buon' secol' darai; </l>
+<l>In te suderan mel l'humil' ginestre, </l>
+<l>Sovra le spine fioriranno i gigli, </l>
+<l>Gli ameni fiori et l'hodorate herbette, </l>
+<l>Quando 'l sol Libra et quando 'l Tauro scalda, </l>
+<l>Al ciel più ardente e a la più algente bruma</l>
+<l>Pingeranno il tuo vago et lieto ammanto; </l>
+<l>I fiumi l'acque havran di puro latte, </l>
+<l>Et del mar l'onde, hor sì turbate et salse, </l>
+<l>Da sommo ad imo fien tranquille et dolci".</l>
+<l>Così disser le Parche. Alhor repente</l>
+<l>L'invisibil fattor de l'universo</l>
+<l>Tuonò da l'alto suo mirabil throno: </l>
+<l>Dal destro lato intorno et d'ogni parte</l>
+<l>Del ciel, più che mai fosse anchor sereno, </l>
+<l>Fulse con chiaro et luminoso lampo. </l>
+</div1>
+<trailer>Il Fine.</trailer>
+</body>
+</text>
+</TEI.2>

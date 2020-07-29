@@ -1,0 +1,3529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>La Sereide</title>
+      <author>Alessandro Tesauro</author>
+    </titleStmt>
+    <extent>169 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001577</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>La Sereide</title>
+        <author>Tesauro, Alessandro</author>
+        <editor id="ed">Chiodo, Domenico</editor>
+        <publisher>RES</publisher>
+        <pubPlace>San Mauro Torinese</pubPlace>
+        <date>1994</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.4 - POESIA ITALIANA, 1542-1585</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-03-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-03-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="dedica"><head>Dedica</head>
+<opener><salute>Alla Serenissima Donna Caterina d'Austria Infante di Spagna, mia Signora benignissima</salute></opener>
+<p>Nell'universale applauso di questi popoli, che fanno a gara per onorare la tanto desiata e felice venuta di Vostra Altezza, ho preso ardire anch'io, non d'ergerle archi e colossi, né d'offerirle regali doni, ma di renderle tributo dell'acerbe et immature primizie dell'intelletto mio: confidato che sì come fu molti anni a dietro gradita dagli invittissimi suoi avo e padre la servitù de' miei maggiori, così ella, con l'altezza dell'umanità sua, mirando più la devozione et affetto del tributario che la bassezza dell'opera, condescenderà co' raggi della sua gloria ad illustrare le tenebre di questa mia fatica; e patirà che per essere la Sereide più cara alle nobili e virtuose damigelle, come per se stessa troppo vil gemma, sia legata e fregiata dalla ricchezza del suo gran nome: onde, con l'accrescersi al mondo il grido della clemenza di Vostra Altezza, mi s'aggiunghino pungentissimi stimuli di rendermi più degno sogetto a servirla. E con ogni umiltà facendole la dovuta riverenza, le prego dal Signore il colmo d'ogni suo contento.</p>
+<closer><dateline>Di Turino il X d'Agosto, MDLXXXV.</dateline>
+<salute>Di Vostra Altezza Serenissima
+Umilissimo e devotissimo servo</salute>
+<signed>Alessandro Tessauro</signed></closer></div1></front>
+<body>
+<div1 type="parte"><head>Libro primo</head>
+<lg type="non-definito">
+<l>Con qual cura e saper da un picciol verme</l>
+<l>Alto lavor si colga, onde fia adorno</l>
+<l>Di nuove pompe e nobil fregi il mondo,</l>
+<l>Leggiadre donne, a discoprir m'accingo</l>
+<l>In questi carmi: e come in luce ei saglia,</l>
+<l>Si nodrisca, fecondi, e l'aureo frutto</l>
+<l>Porti, e da schiera di perigli scampi;</l>
+<l>Come surga dal suol l'amica pianta</l>
+<l>Che li dà 'l cibo; e come a l'opra antica</l>
+<l>De la gran madre or pronta in varie guise</l>
+<l>L'arte soccorra, onde lo stame incolto</l>
+<l>Fia vago, oltre il natio, d'altri colori;</l>
+<l>E quindi serva a ricche tele e drappi,</l>
+<l>Ch'altrui man dotta intesse, o l'ago industre</l>
+<l>Stampa di mille variate forme.</l>
+<l>Voi degne Ninfe, a cui concesse il cielo</l>
+<l>Di questo verme il carco e 'l degno impero,</l>
+<l>Aprite il varco ond'io l'asciutte labbia</l>
+<l>Ne l'onda d'Aganippe immerga e bagni,</l>
+<l>Se non al proprio loco, ov'altri beve,</l>
+<l>Almen nei discorrenti ed umil rivi,</l>
+<l>Perché con voce assai men fioca io vaglia</l>
+<l>Spiegar sonando i vostri eccelsi onori.</l>
+<l>E tu suprema sopra ogn'altra Ninfa,</l>
+<l>Scesa da' più famosi invitti eroi</l>
+<l>Che fosser mai, d'un sommo rege figlia,</l>
+<l>Il cui superbo manto adombra e copre</l>
+<l>Più che non vinse o resse ogn'altro braccio</l>
+<l>Nel greco scettro e ne l'ausonio regno,</l>
+<l>Spira al mio petto ardor, rischiara il canto,</l>
+<l>Ond'io possa narrar cose alte e rare,</l>
+<l>Cui Natura produce, e l'arte illustra.</l>
+<l>Tu d'alta stirpe e seme eccelso nata,</l>
+<l>Del sangue austriaco onore, e pregio, e gloria,</l>
+<l>CATERINA clemente, e saggia, e bella,</l>
+<l>Figlia regal, cui dato ha 'l cielo in sorte</l>
+<l>D'essere in maritale amor congiunta</l>
+<l>Al mio Signor, che, d'alti regi nato,</l>
+<l>Anzi dal tuo famoso antico stelo,</l>
+<l>Non ha chi di virtù, d'alto valore,</l>
+<l>Tra gli altri eroi, il suo valore avanzi:</l>
+<l>Ei di te degno, e tu degna di lui,</l>
+<l>Gentil coppia amorosa a cui simile</l>
+<l>Altra non copre il ciel, né cinge il mare:</l>
+<l>A te dunque mi volgo, a te m'inchino,</l>
+<l>Te sola invoco, mia novella Musa,</l>
+<l>Mia Caliope, mia Clio, a te consacro</l>
+<l>Quest'opra mia, questo mio primo parto;</l>
+<l>Forse che un giorno in più canori accenti</l>
+<l>Dirò degli avi, e padre, e del consorte</l>
+<l>I fatti di memoria eterna degni,</l>
+<l>E farò con miei versi in più alto stile</l>
+<l>Loro immortali, e me d'onor più degno</l>
+<l>(Poiché in difficil prove l'ardir solo</l>
+<l>Lodato è sempre) e di più chiara fama,</l>
+<l>Ch'abbi a sì alto poggiar alzato i vanni,</l>
+<l>E sollevato da la bassa plebe</l>
+<l>Ito sia vincitor fra i spirti egregi.</l>
+<l>Ne la stagion che 'l sol novo dispensa</l>
+<l>A le campagne e a' colli il grato onore,</l>
+<l>Quando scende da' monti alti et incolti</l>
+<l>La strutta neve in dilatate falde,</l>
+<l>E non si veggon, da pruine algenti,</l>
+<l>Nei prati biancheggiar le molli erbette,</l>
+<l>Né più si cura de l'ovile il gregge,</l>
+<l>Né più 'l cultore avaro il foco apprezza,</l>
+<l>Ma stanno a Citerea sparti d'intorno</l>
+<l>Amori e Grazie e vezzosette Ninfe</l>
+<l>Pronte a formar dolci carole e liete:</l>
+<l>Allor s'affretti ogni leggiadra e pura</l>
+<l>Giovine e verginella, e s'armi a l'opra,</l>
+<l>Opra che insieme a lor diletta e giova;</l>
+<l>E, se con dotta mano e pronto ingegno</l>
+<l>Le spinge a sì onorata e degna impresa</l>
+<l>Fermo desio, tratto che avranno il seme</l>
+<l>Dal luogo ove da lor fu a tal bisogno</l>
+<l>Serbato e chiuso, in puro velo avolto</l>
+<l>Lor non fia noia caramente accorlo</l>
+<l>Tra le morbide mamme, e nel bel seno</l>
+<l>Caldo talor d'amor, ma più cocente</l>
+<l>Ne la stagion che per costume appella</l>
+<l>Gli amanti al pianto, et a penosa vita.</l>
+<l>E quando a riposar le membra astringe</l>
+<l>Il grave sonno a le cadenti stelle</l>
+<l>Sul pigro letto, anco fra voi si ponga,</l>
+<l>Donne gentili, il seme, e come al giorno</l>
+<l>Del vostro cor fu secretario, ancora</l>
+<l>Di vaga mente, a l'aria oscura e queta,</l>
+<l>Senta sotto il guanciale i pensier dolci,</l>
+<l>I vani insogni, e l'amorose cure,</l>
+<l>Ché del seno e del letto il calor move</l>
+<l>Virtute occulta, che feconda e sveglia</l>
+<l>La nobil prole, e da la chiusa scorza</l>
+<l>A l'alma vita i cari vermi adduce;</l>
+<l>E Febo a pena avrà con la sua lampa</l>
+<l>Dal duro volto de l'antica madre</l>
+<l>Tre volte scosso il velo umido e denso</l>
+<l>De l'atra notte, e, quella in fuga volta,</l>
+<l>Desti i mortali ai gran travagli, quando</l>
+<l>Vedrassi il seme aprirsi, e 'n varie guise</l>
+<l>I picciol vermi uscirne: e fia stupore</l>
+<l>Vederne alcuni, ergendo il capo al cielo,</l>
+<l>Chieder sostegno a' nuovi spirti; et altri</l>
+<l>Tratti da naturale instinto, andarsi</l>
+<l>Cercando l'esca fra la torma; e molti</l>
+<l>(Non bene ancor dal chiuso speco usciti)</l>
+<l>Tirarsi dietro pallida et essangue</l>
+<l>La mal capace stanza, e aver gran parte</l>
+<l>Di quelli il capo sol dal letto esposto;</l>
+<l>Et infiniti, a l'uscir tardi e lenti,</l>
+<l>Starsen pigri, e lasciar l'albergo intatto.</l>
+<l>Cari e dolci animai, che invidia fate</l>
+<l>Di vostra vista sì leggiadra e bella</l>
+<l>A' vaghi prati, et ai giardini adorni,</l>
+<l>Ove simil fra lor concento fanno</l>
+<l>I candidi ligustri e i bei giacinti,</l>
+<l>E mille fior di che va Flora altera,</l>
+<l>Molli dal pianto ancor, che sempre versa</l>
+<l>Per il morto Mennon la mesta Aurora</l>
+<l>Di preziosa manna e di rugiada:</l>
+<l>Chi asconde il bel, chi parcamente l'apre,</l>
+<l>Chi di sé glorioso e largo spande</l>
+<l>Quanto di ben natura e 'l ciel v'accolse.</l>
+<l>Or dunque in mezzo a sì confuso e vago</l>
+<l>Ordin di seme ancor intiero e vermi,</l>
+<l>Quai non ben nati, e quai fra schiere erranti,</l>
+<l>Convien frapor da gentil mano scelte</l>
+<l>Dal moro nuove gemme e saporite,</l>
+<l>Ché 'l popol tosto che la luce ha scorta</l>
+<l>Ratto suole assalirle avido e ingordo,</l>
+<l>E col frequente e lieve morso empirne</l>
+<l>Il picciol corpo; e, mentre intento pasce</l>
+<l>Le frondi, ove securo e queto posa,</l>
+<l>Tu quelle allor, fanciulla, accorta prendi,</l>
+<l>Et in disparte ponle in altri alberghi</l>
+<l>Di sottil legni ad arte fatti, in modo</l>
+<l>Ch'a portarsi leggier sieno, e dal fondo</l>
+<l>Poco alta sponda intorno intorno sorga:</l>
+<l>Questo fora il lor letto, ove star dènno</l>
+<l>Sino a più fermo e più sicuro tempo</l>
+<l>Da l'aria ascosi, onde improviso algore</l>
+<l>Non nuoca col soffiar d'Euro e di Coro.</l>
+<l>Ma s'avvien poi ch'a sì pregiato e degno</l>
+<l>Lavor con l'ali del desio si muova</l>
+<l>Onesta donna, a cui l'età matura</l>
+<l>A l'occidente di sua vita inchini,</l>
+<l>E ne le colme vene in parte spento</l>
+<l>Abbi il vital fervore, e de' begli occhi</l>
+<l>Il già sì vago lume in nube volto,</l>
+<l>E 'l biondo crine inargentato, e 'l petto</l>
+<l>Agli amorosi ardor chiuso abbia il varco,</l>
+<l>Prenda (qual già descritta abbiam) di legni</l>
+<l>Picciol arca commessa, in cui si ponga</l>
+<l>Eletta quantità del pregno seme;</l>
+<l>Indi candida carta apra con l'ago</l>
+<l>Del cribro a guisa, aspro tormento a quelle</l>
+<l>Che fur, per ubidire al rio precetto</l>
+<l>Del padre, ai sposi lor sì crude et empie,</l>
+<l>E sopra il seme in modo tal l'adatti</l>
+<l>Che de la sponda il mezzo intorno intorno</l>
+<l>Il margin suo circondi, e de la sponda</l>
+<l>Il lembo ecceda, onde un ricetto resti,</l>
+<l>Quando si serra, a le fraposte gemme,</l>
+<l>Ove dai fori i nati vermi uscendo</l>
+<l>L'esca ritrovin pronta; et in tal forma</l>
+<l>Rinchiuso nel bel vaso il seme, al raggio</l>
+<l>Del gran pianeta il tenga; e com'ei volge</l>
+<l>In ver la sera l'infiammate ruote,</l>
+<l>Il vaso ponga in parte ove del foco</l>
+<l>Il vicino calor sottentri, in vece</l>
+<l>De l'eccelsa virtù che 'l sole infonde,</l>
+<l>Da cui vigor nei spirti occulti scende,</l>
+<l>Che l'animal dal tenebroso sonno</l>
+<l>Spinge a la luce, e rotto il carcer, sale</l>
+<l>Per la forata carta al cibo amato.</l>
+<l>Soviemmi aver, fra molte annose donne,</l>
+<l>Visto nobil matrona il tolto seme</l>
+<l>Mergere in un cristallo illustre, e colmo</l>
+<l>Di puro umor di generoso bacco,</l>
+<l>Che 'l monte Ideo nel fruttuoso autunno</l>
+<l>In Creta stilla, e a meraviglia abbonda;</l>
+<l>E quindi scòrsine del vetro al fondo</l>
+<l>Parte del seme gire, e parte al sommo</l>
+<l>Di quel sacro liquor nuotare a galla:</l>
+<l>E questa come inutil cosa al suolo</l>
+<l>Gettò negletta; e quella (poi che tanto</l>
+<l>Goduto ebbe il vapor, quanto uom tre volte</l>
+<l>Vibrar potrebbe, e caricar la fromba)</l>
+<l>Fuor trasse, e sparsa in un leggiadro velo,</l>
+<l>Ad asciugar la pose a la dolce aura</l>
+<l>Del salubre Solan, né al caldo raggio</l>
+<l>Del sol, né in vista al foco por la volse:</l>
+<l>Nel resto poi seguio del cieco legno</l>
+<l>E del foglio lo stil commune usato.</l>
+<l>Et io, com'un di quei che sempre vago</l>
+<l>Fui di quest'arte, e che felice stimo</l>
+<l>Chi può del tutto investigar le cause,</l>
+<l>Del nuovo effetto a la cagion mi volsi</l>
+<l>Col pensier fiso; e quella chiesta, intesi:</l>
+<l>Che dove a l'animal manca il favore</l>
+<l>Di più propizio cielo, allor succede</l>
+<l>Il divino liquor, che quasi ambrosia</l>
+<l>E nettar pasce gl'immaturi spirti,</l>
+<l>Et a formar le salme aita porge</l>
+<l>Quel sacro umor, che ciascun altro avanza</l>
+<l>Di bontade e virtù: ch'a le chiare acque</l>
+<l>Fatto consorte, a l'uom non pur restaura</l>
+<l>L'ardir, la forza in ogni etade, e 'l corpo</l>
+<l>Soavemente nutre, ma le parti</l>
+<l>Che de l'animo son, risveglia e rende</l>
+<l>(Se moderato vien) più dotte e pronte,</l>
+<l>E quelle inalza ove le Muse e Febo</l>
+<l>Cose dettarli ponno eccelse e rare.</l>
+<l>Così fa i seri ancor securi e lieti</l>
+<l>Spiegare al ciel le vaghe lor ricchezze</l>
+<l>Del serico lavoro, e quando il clima</l>
+<l>Fosse noioso al natural lor corso,</l>
+<l>L'interrotto vigor rinfranca e sana;</l>
+<l>O ver, come ne l'acque per cu' invano</l>
+<l>Temon li Dei giurar tuffato Achille</l>
+<l>Fu per levarli al corpo onta di ferro,</l>
+<l>Così prescrive ogn'ira, et ogn'oltraggio</l>
+<l>Libero scampa il quindi uscito verme;</l>
+<l>E che tant'oltre l'accompagna e 'l segue</l>
+<l>L'imbevuta virtù, che giunto al segno</l>
+<l>Di dar con l'opre sue grata mercede</l>
+<l>A le fatiche altrui, più degno e caro</l>
+<l>Frutto vome et aggira, e tutti a un tempo</l>
+<l>Mutan le spoglie, a un tempo al sonno in preda</l>
+<l>Tutti si danno, e sale ognuno i rami.</l>
+<l>Ancor cercai per qual fine ebbe in prezzo</l>
+<l>La parte sol di maggior pondo, e quella</l>
+<l>Lieve curar non volle, anzi la sparse:</l>
+<l>Mostrommi ella, cortese, aver ciò fatto</l>
+<l>Perché quel seme che con l'altro grave</l>
+<l>Non preme al fondo era imperfetto e vano,</l>
+<l>O il porti il tempo o 'l loco, o ch'a produrlo</l>
+<l>Manchi il vital umore, o 'l vigor manchi.</l>
+<l>Di più mi disse, et io 'l notai, che l'uso</l>
+<l>Fatta certa l'avea più d'una volta,</l>
+<l>Dal seme il popol nato in vino immerso</l>
+<l>Vita assai più de l'altro aver felice,</l>
+<l>E di frutto abondar più assai di quello</l>
+<l>Ch'in pari quantità, senza quest'arte,</l>
+<l>Da l'uno istesso seme era prodotto:</l>
+<l>Tanta ha 'l liquor virtù, vigore, e forza!</l>
+<l>Ma non fia mai vigor, forza, o virtude</l>
+<l>Tanta in Febo e Volcan, né tanta in Bacco,</l>
+<l>Quanto è 'l calor, quanto è 'l favor che spira</l>
+<l>D'Amor la bella madre ai seri industri,</l>
+<l>Il cui germe si pasce e si feconda</l>
+<l>Nel vago petto di donzella amante</l>
+<l>Di doppio foco pregno: un di vergogna,</l>
+<l>Ch'onestà ha seco, e in un giova et offende</l>
+<l>Casti pensier; l'altro d'affetto ardente,</l>
+<l>Ch'or dolce scuote e crucia, inganna e strugge,</l>
+<l>Or fero alletta e molce, affida e sana:</l>
+<l>Ivi Amor tempra i strali, ivi più ferve</l>
+<l>L'accesa fiamma, ov'ella meno essala,</l>
+<l>Ivi quel foco spiritale è pieno</l>
+<l>Di celeste vigor, che sveglia e move</l>
+<l>Di freddo e poco umore alme sì degne.</l>
+<l>Né meraviglia, o donne, al cuor vi giunga</l>
+<l>Di sì stupendi effetti, avendo i seri</l>
+<l>Vigor soprano, alto principio e vita</l>
+<l>Da chi raccende ognor benigni ardori</l>
+<l>Nei petti umani, e d'amorosi ardori</l>
+<l>Là su nel terzo cielo ha impero eterno.</l>
+<l>Già per mirar l'ampio suo regno un giorno</l>
+<l>D'Amatunta scendea gli amati colli</l>
+<l>La dea di Gnido e Pafo, alta e possente,</l>
+<l>Allor che con sue luci il sol più chiare</l>
+<l>D'erbe e di fiori il mondo adorna e veste,</l>
+<l>Mentre Teti e Giunon tranquille e quete</l>
+<l>Scorgean lontana ancor la vaga Aurora:</l>
+<l>E tratta ne venìa sul carro aurato</l>
+<l>D'ostro guernito, e preziose gemme,</l>
+<l>Che l'asse avea d'oro splendente, e 'l seggio</l>
+<l>Di scolpito diamante, e di topazi</l>
+<l>Tutte commesse le volubil ruote,</l>
+<l>Di smeraldi e rubin le sponde inteste,</l>
+<l>Da cui pendean d'orientali e rare</l>
+<l>Perle ricchi lavori, e intorno intorno</l>
+<l>Avea di vezzosetti Amori e ignudi</l>
+<l>Parte, e parte ne gìa volando in giro,</l>
+<l>E stava ognuno a qualche ufficio intento:</l>
+<l>Chi tenea l'arco, e chi reggea il bel manto,</l>
+<l>Chi ventillava l'aure al divin volto</l>
+<l>Lievi e soavi, e chi appendea un bel velo;</l>
+<l>Scherzando altri fra loro in leggiadri atti,</l>
+<l>Movean riso a la dea lor duce e madre,</l>
+<l>Che in cotal guisa per l'aperto cielo</l>
+<l>Scorta da cari augelli e bianchi cigni,</l>
+<l>Senza toccar de' campi salsi l'onde,</l>
+<l>Lasciò l'amato Cipro; e sovra l'acque</l>
+<l>D'Eleutro scorsa, fra gli opposti monti</l>
+<l>Libano e Casio, si dilegua e vola,</l>
+<l>Sotto lasciando a destra Arabia infausta,</l>
+<l>Lidia a sinistra e di Calcidia il regno,</l>
+<l>Con l'ampia Anthobarite; e varcò il fiume</l>
+<l>D'Eufrate allor che Febo avea già sparti</l>
+<l>I raggi fuor del suo celeste albergo,</l>
+<l>E di fin oro e puro argento a' monti</l>
+<l>Fregiava intorno l'elevate cime;</l>
+<l>E giunse dove è la città famosa</l>
+<l>D'eccelsa torre, e di stupende mura,</l>
+<l>Seggio d'un regno il cui potente scettro</l>
+<l>Retto gran tempo da donnesca mano</l>
+<l>Fu con mentito d'uom fallace aspetto:</l>
+<l>Da quella man, d'alto valore armata,</l>
+<l>Che vinse tanti regi, e tante palme</l>
+<l>Portò di genti debellate, e agl'Indi</l>
+<l>Osò far cruda guerra, onde immortale</l>
+<l>Fora il suo nome al mondo, illustre, e chiaro,</l>
+<l>Se d'illicito amore il nobil grido</l>
+<l>Oltraggio non avea, con crudo scempio</l>
+<l>Di lei, del figlio, e de l'antico regno.</l>
+<l>Quivi dunque a mirar, sospesa in alto,</l>
+<l>Stando la Dea la gran città, le genti,</l>
+<l>E 'l popol più d'ogn'altro a lei devoto,</l>
+<l>Parvele udir, né fu 'l parer poi vano,</l>
+<l>Un flebil suon di feminil lamento</l>
+<l>Misto di voci e pianti; e tosto il guardo</l>
+<l>Volse a un ampio giardin, più adorno e vago</l>
+<l>Di quanti unqua fioriro; e nel suo centro</l>
+<l>Del gran Nino giacea famosa tomba,</l>
+<l>Di bianchi marmi strutta e d'altre pietre,</l>
+<l>Con sì bell'arte effigiate e sculte,</l>
+<l>Che vinta ogni materia era da l'opra;</l>
+<l>Et avea il campo intorno un nobil cinto</l>
+<l>D'opachi gelsi, i cui candidi frutti</l>
+<l>Vincean l'intatta neve e 'l puro latte:</l>
+<l>E quivi scorse fra l'ombrosa selva</l>
+<l>E nel bel prato un stuol di gente in atto</l>
+<l>Di pompa funeral disposte, e in mezzo</l>
+<l>Un alto rogo, sopra il qual distesi</l>
+<l>Giacean due, che di vivi avean sembianza,</l>
+<l>Benché a lor l'alma era col sangue uscita</l>
+<l>Da larga piaga, ambi feriti il core</l>
+<l>Da crudel piaga, ambi trafitti il petto.</l>
+<l>Non vide l'Oriente sì formoso</l>
+<l>Giovine mai, né l'istesso Oriente</l>
+<l>Di vaghezza e beltà sì rari essempi</l>
+<l>In altra donna accolse, né al tuo regno</l>
+<l>Congiunti avesti, Amor, sì fidi amanti:</l>
+<l>Ingiustissimo Amor, che così a torto</l>
+<l>A miserabil sorte i tuoi conduci.</l>
+<l>Eran d'etade uguali, e di bellezza,</l>
+<l>Come pari d'amor, pari di morte;</l>
+<l>Simil colpo d'amor, simil di ferro,</l>
+<l>Anzi un istesso fato ambidoi tolse.</l>
+<l>Appresso al rogo era coperta e tinta</l>
+<l>L'erba di giovenil, purpureo sangue,</l>
+<l>Sangue che per le piaghe al suolo sparso</l>
+<l>Tratta avea l'alma ai miserelli, e un lago</l>
+<l>Di sé formato, e quivi intorno unito</l>
+<l>Era ogni sesso et ogni etade, al mesto</l>
+<l>Ufficio intenti; ivi con faccie smorte</l>
+<l>Tutti piangeano, e interrompendo il pianto,</l>
+<l>Donna ch'esser parea d'un di lor madre</l>
+<l>Empiva il ciel di dolorose strida,</l>
+<l>Che movean a pietà gli arbori e i sassi.</l>
+<l>– Figli, dicea, che giustamente entrambi</l>
+<l>Figli chiamar mi lice, poi ch'a l'uno,</l>
+<l>Che fu da me con le mie carni avvolto,</l>
+<l>Un cor solo, una fé, l'altra congiunse,</l>
+<l>E l'uno e l'altro, ahi, con più forte laccio</l>
+<l>Uniti ha morte insieme: or in qual modo,</l>
+<l>Figli, vi miro? e di sembiante quanto</l>
+<l>Da quei veggio cangiati i vostri aspetti,</l>
+<l>Ch'avean ne la cittade il vanto, e 'l pregio</l>
+<l>Sovra quanti d'Amor l'alto vessillo</l>
+<l>Aduna e cuopre! ahi fiere stelle! ahi risse</l>
+<l>D'orgogliosi parenti, in cui lo sdegno</l>
+<l>L'amistà antica ruppe, e tanto in loro</l>
+<l>Ebbe vigor, quanto in voi forza Amore:</l>
+<l>Né mai poterno i prieghi e gli scongiuri</l>
+<l>Ch'oprai gran tempo, e gl'intromessi amici</l>
+<l>(Presaga del dolor) por freno a l'ire,</l>
+<l>Ch'or con sì strano e miserando mezzo</l>
+<l>Saran, malgrado lor, sopite e spente.</l>
+<l>Ma qual error, qual empio fato ha spento</l>
+<l>I vostri ardori, e voi con morte acerba</l>
+<l>Tolti in breve ora a così lunghi affanni?</l>
+<l>Qual nume irato, o qual nimica stella</l>
+<l>Turbato ha col suo tosco il sommo bene</l>
+<l>Ch'a voi promesso avea l'amica notte?</l>
+<l>Notte ch'esser dovea fida ministra</l>
+<l>D'ogni bramato ben, dolce e serena,</l>
+<l>E più d'ogn'altra amara et atra giunse.</l>
+<l>Quai cari baci, e quai giocondi amplessi,</l>
+<l>In poco d'ora, ha questa notte tolto?</l>
+<l>Deh, ben è ver che col letal veleno</l>
+<l>Morte importuna ogni più vaga e degna</l>
+<l>Cosa tosto interrompe, et improvisa</l>
+<l>Sopra ogni ben l'oscura mano estende!</l>
+<l>Quest'una in mille guise ancide, et opra</l>
+<l>Sua forza, essente d'ogni umano impero:</l>
+<l>A chi la chiama è sorda, e da chi fora</l>
+<l>Cara e gradita ella si fugge, e segue</l>
+<l>Quelli solo a cui crede esser noiosa.</l>
+<l>Ecco or come, crudele, avanti al tempo,</l>
+<l>Cloto rotto ha lo stame, e come, cieca,</l>
+<l>Veder non volle il merto e l'alta fede</l>
+<l>Di sì degni amator, né aver pietade</l>
+<l>Ai fioriti anni lor, né ai genitori,</l>
+<l>De la cui frale etade eran sostegno.</l>
+<l>Perché più tosto me, debole e inferma,</l>
+<l>Non chiamava Proserpina al suo regno?</l>
+<l>O non s'apriva, avanti il duro grembo</l>
+<l>De la gran madre, ad inghiottir quest'alma</l>
+<l>Colma d'orror, d'ogni ben cassa e priva?</l>
+<l>Come a punto in un campo i vaghi gigli,</l>
+<l>Le rose e le viole al sole ardente</l>
+<l>Han breve vita, e l'infelice loglio</l>
+<l>Rimane intatto, e le più triste avene,</l>
+<l>Così nel sormontar del vostro sole,</l>
+<l>Tolti sete a la luce, et io pur vivo.</l>
+<l>Ebbe da' teneri anni in voi radice</l>
+<l>Quella fiamma, ch'ognor fatta maggiore,</l>
+<l>V'ha spenti al fine; et ella n'è sparita,</l>
+<l>Come nebbia sparisce innanzi al vento.</l>
+<l>Vostro amor, vostro ardore, e vostra fiamma</l>
+<l>Qui v'ha condotti, ove il nimico muro</l>
+<l>D'accostar petto a petto, e volto a volto</l>
+<l>Non vieta; e d'accoppiarvi orgoglio et ira</l>
+<l>De' vostri genitori or non contende.</l>
+<l>Altre fiamme, altre faci Amor promise,</l>
+<l>Altre ve n'apparecchia iniqua sorte.</l>
+<l>Or tu, Piramo mio, rimanti in pace,</l>
+<l>Lasciando me vedova, mesta, e sola.</l>
+<l>Godi l'amata Tisbe, e Tisbe goda</l>
+<l>Di te sul rogo: almen consorti e uniti</l>
+<l>Sarete in questo miserando letto;</l>
+<l>Letto mal conveniente a' pensier vostri,</l>
+<l>A' vostri e miei dolor principio e fine.</l>
+<l>Come ancor l'alme per gli elisei campi,</l>
+<l>Se di là s'ama, ora consorti e unite</l>
+<l>Saran; né sia mai più ch'a' bei desiri</l>
+<l>Invidioso fato alcun contrasti.</l>
+<l>Vivete lieti, e in quei beati campi</l>
+<l>Godete i vostri amori eternamente:</l>
+<l>Et io, misera madre, or senza luce,</l>
+<l>Qui rimarrò piangendo il vostro caso;</l>
+<l>Piangeran meco, con le piante e i sassi,</l>
+<l>Gli augelli inermi, e le fere selvaggie.</l>
+<l>Di me venga pietade al sommo Giove:</l>
+<l>Vadan per l'aura mie dolenti note</l>
+<l>A penetrar de la gran dea di Gnido</l>
+<l>Le sante orecchie, e la sua mente altera</l>
+<l>Si pieghi, e porga a le mie pene aita –.</l>
+<l>Disse; et i bianchi crin d'immonda polve</l>
+<l>Si sparge e brutta, e fiede 'l volto e 'l petto:</l>
+<l>Vinta poi dal dolor, ch'al cor si strinse,</l>
+<l>Cader lasciossi su l'amiche braccia</l>
+<l>Di chi le porse aita, e nel cadere</l>
+<l>Tre volte e quattro alzò la faccia al cielo;</l>
+<l>E vide in quel, più luminoso e chiaro</l>
+<l>D'ogni costume, lampeggiar Ciprigna,</l>
+<l>Ch'in alto a rimirar librata s'era</l>
+<l>Sovra un lucido nembo, ella e gli Amori,</l>
+<l>Con il celeste carro; e fu veduta</l>
+<l>Abbassarsi vicino al rogo, e quindi</l>
+<l>(Come che 'l caso avesse conto, e nota</l>
+<l>L'aspra ragion de l'empia morte) a quella,</l>
+<l>Ch'empito interno avea d'intensa doglia,</l>
+<l>Ruppe i singulti, e 'n chiara voce intese</l>
+<l>Furno dal mesto stuol queste parole:</l>
+<l>– Pon freno al gran dolor, donna, e contempra</l>
+<l>Quel dolor, ch'a morir doppio t'invoglia;</l>
+<l>Così prescrisse il fato, a la cui legge</l>
+<l>Umane forze star contra non ponno.</l>
+<l>Ognuno attende il traghettante avaro,</l>
+<l>Cui basta a pena una sol cimba a tanta</l>
+<l>Turba ch'ognor v'accorre; e tutti andate</l>
+<l>Ratti a quel varco, e tutti a un segno gite,</l>
+<l>Chi a lenti e tardi, e chi a spediti passi.</l>
+<l>Data v'è in presto questa frale vita,</l>
+<l>Senza alcun prezzo, e ritornarla è d'uopo</l>
+<l>A un giorno incerto, al lieve arbitrio dato</l>
+<l>Di volubil fortuna, a ferir pronta</l>
+<l>Ove il desio l'impone, e che trascorre</l>
+<l>Per ogni parte, cieca ella e i destrieri,</l>
+<l>E seco trae vecchiezza e gioventude:</l>
+<l>Né lice ad alcun Dio del ciel lo stame</l>
+<l>Che le Parche troncaro unire, o inganno</l>
+<l>Fare a la mente del gran Padre nostro.</l>
+<l>Or te raccogli, e prendi in sì gran male</l>
+<l>Dolce conforto, or ch'i tuoi caldi preghi</l>
+<l>Son giunti avanti a la pietà superna,</l>
+<l>E vedrai come al mio potente figlio</l>
+<l>Et al mio regno fu gradita e cara</l>
+<l>Di questi estinti l'incorrotta fede;</l>
+<l>E, come il riso estremo il pianto assale,</l>
+<l>Così 'l vostro martir fia volto in gioia:</l>
+<l>Trionfi Morte pur di quelle membra,</l>
+<l>Di questa vita breve, aspra, e fugace,</l>
+<l>Che altera d'altre palme andrà, e vittrice</l>
+<l>Sopra la falce sua cieca et iniqua</l>
+<l>Quella che 'l tutto scopre, et ode, e vede,</l>
+<l>E non paventa ombre solinghe e oscure:</l>
+<l>Et a me fia dal sommo Giove dato</l>
+<l>Serbare eterna fama et immortale</l>
+<l>Di sì fedeli amanti. Or passi adunque</l>
+<l>De' gelsi a le radici il sangue sparso,</l>
+<l>Che l'uno a l'altro in sacrificio offriro,</l>
+<l>E da quelle per entro il tronco e i rami,</l>
+<l>Come il liquor purpureo i veli tinge,</l>
+<l>Del suo rossore i bianchi frutti asperga:</l>
+<l>Che fra pastori e ninfe ad amar pronti</l>
+<l>Avranno, per trofeo d'amor fedele,</l>
+<l>E per viva memoria, altro colore.</l>
+<l>Né patir vuo' che sì pregiate salme,</l>
+<l>Di nostre fiamme già sicuro albergo,</l>
+<l>D'altre fiamme sieno esca, o che vil tomba</l>
+<l>L'asconda entro il suo breve spazio e chiuda,</l>
+<l>Ma nasca ancor da quelle e venga a luce</l>
+<l>Non più visto animal, ch'al mondo apporti</l>
+<l>Meraviglia et onore; e del suo frutto</l>
+<l>Godan gli uomini in terra, e i Dei nel cielo:</l>
+<l>Naschin dico animali, e naschin vermi,</l>
+<l>Che di questi alber nostri i verdi tronchi</l>
+<l>Salendo, in essi stian lieti e felici;</l>
+<l>E quando riede a voi con l'aurea chioma</l>
+<l>Apollo, e preme al forte Tauro il dorso,</l>
+<l>E fra le spine ancor del sangue nostro</l>
+<l>Gode vermiglia in bei giardin la rosa,</l>
+<l>Allor de le nascenti e nove foglie</l>
+<l>Prenda sostegno il verme, e fra gli stessi</l>
+<l>Rami che per nutrirsi avrà spogliati,</l>
+<l>Poi ch'a le corna avrà Cinzia tre volte</l>
+<l>Tolto il bel lume, et altretante reso,</l>
+<l>Vada tessendo egregie fila, e quelli</l>
+<l>Di spoglie più leggiadre adorni e cinga;</l>
+<l>E quivi ancor fra l'inglobato stame</l>
+<l>Oprando si rinchiuda, e poi ne sorga,</l>
+<l>Di puritade e d'alta fede in segno,</l>
+<l>Candido più che intatta neve, e i vanni</l>
+<l>Di libertade spieghi; indi il consorte</l>
+<l>D'altro sesso incontrato, a lui si giunga</l>
+<l>In dolce nodo, e di Fenice a prova,</l>
+<l>Col seme, al suo morir, rimanga in vita.</l>
+<l>Né ciò lor basti, ma verrà ancor tempo,</l>
+<l>Che dopo mille lustri, a la gran prole</l>
+<l>Ch'uscir da questi i' veggio, umili ancelle</l>
+<l>Saran nobil fanciulle et amorose,</l>
+<l>Cui grato fia da' boschi e da le selve,</l>
+<l>Dal gelo e da l'arsura, in più sublimi</l>
+<l>Tetti ridurli e darli albergo, e l'opre</l>
+<l>Loro adattare in pellegrine e nove</l>
+<l>Forme al secol futuro utili e degne,</l>
+<l>Da le vostre contrade ognor nomate.</l>
+<l>E di quelle conteste in vario stile</l>
+<l>Andranne il popol mio fregiato e altero;</l>
+<l>Di quelle i sacri tempî ai più solenni</l>
+<l>Giorni saranno riccamente ornati,</l>
+<l>E coperti di quelle tanti e tanti</l>
+<l>Illustri duci, imperatori e regi,</l>
+<l>Ch'avran nel mondo a la futura etade</l>
+<l>Eccelso seggio; e fra l'umile e bassa</l>
+<l>Plebe vedransi i magistrati, e gli altri,</l>
+<l>Per gli avi, o per fortuna, o per valore</l>
+<l>Ch'in essi alberghi, andar fastosi e gravi</l>
+<l>Di tal lavoro, ricevendo inchino.</l>
+<l>Non avran fama di bellezza e pompa</l>
+<l>I gran trionfi e sontuosi giochi,</l>
+<l>I tragici apparati, e le regali</l>
+<l>Stanze, e i palaggi, e le onorate nozze,</l>
+<l>Se da' serici fregi alto splendore</l>
+<l>Non avran prima: alor che tolto in tutto</l>
+<l>Da quest'arte sarà l'antico pregio</l>
+<l>Di ricchezze agli armenti, et agli umili</l>
+<l>Greggi, in cui soli or son vostri tesori.</l>
+<l>Quando saran favola vile i segni</l>
+<l>D'Ercole ai naviganti industri e chiari,</l>
+<l>E i mar riposti et ogni stranio clima</l>
+<l>Scopriran ciò che nel suo grembo asconde</l>
+<l>E chiude la terrena immensa mole:</l>
+<l>E sol darassi a questa e gloria e vanto.</l>
+<l>Non mirra, incenso, croco, ebano, avorio,</l>
+<l>Non marmi parii o toschi, argento et oro,</l>
+<l>Non gemme oriental sì nobil fama</l>
+<l>Avran giamai, qual a tal frutto il cielo</l>
+<l>Et io prometto, e nol prometto in vano.</l>
+<l>Con questo andranno per l'ondose strade</l>
+<l>A mille rischi tanti legni, e tanta</l>
+<l>Noia et errore al pellegrin s'appresta.</l>
+<l>Alor nel mondo più chiara e celebre</l>
+<l>Sarà quest'arte in ambedue l'Esperie,</l>
+<l>Quand'una in tutto, e l'altra in maggior parte</l>
+<l>Reggerà quello invitto alto e potente</l>
+<l>Rege che 'l cielo, dal gran seme d'Austro,</l>
+<l>Destina a quell'etade, acciò che 'l giorno</l>
+<l>Seco riduca, e le procelle e i nembi</l>
+<l>Sgombri d'intorno, e del gran padre Carlo,</l>
+<l>Quinto del nome suo, spieghi l'insegna</l>
+<l>Che le vicine e le lontane genti</l>
+<l>Sotto il superbo manto aduna, e goda</l>
+<l>La prisca gloria quel secol felice:</l>
+<l>Et egli, ardito in guerra e giusto in pace,</l>
+<l>Punisca gli empi, et agli umil perdoni,</l>
+<l>Freni l'ire ai feroci, e tutti dome</l>
+<l>Lo scettro suo, che tra l'anguste mete</l>
+<l>D'Alcide non potrà tener l'impero:</l>
+<l>Ma nove terre, or senza nome, e regni,</l>
+<l>Incogniti or fra voi, d'auro fecondi</l>
+<l>Fien da le stelle al suo poter concessi:</l>
+<l>Raro dono a lui solo, e ai suoi serbato!</l>
+<l>Chiare dico, e celebri ambe l'Esperie</l>
+<l>Saran del frutto prezioso e raro,</l>
+<l>Per cui veggio fiorir la gran cittade</l>
+<l>Che nel mar d'Adria avrà debol principio,</l>
+<l>Felsina, e Manto, e la città di Flora,</l>
+<l>Quella di Giano, et il tireno lido,</l>
+<l>Partenope fra l'altre, e mille e mille</l>
+<l>Ch'or sono alberghi pastorali, e case</l>
+<l>D'armenti, e colli ignudi, et erme valli,</l>
+<l>E luoghi ov'or l'aratro stampa i solchi:</l>
+<l>Ma via più chiare, quando unite e giunte</l>
+<l>Sian quelle antiche Esperie, e giunti e uniti</l>
+<l>D'Austro e di Saxo i steli antichi e illustri,</l>
+<l>Ché di lor i più eccelsi rami e verdi</l>
+<l>Veggio intrecciati in amoroso nodo;</l>
+<l>Nodo amoroso che sin ora ordisco</l>
+<l>Con preziosa benda azzurra e d'oro,</l>
+<l>Che con piacer di Po, Rodano e Ibero</l>
+<l>Stringerà i rami, e quelli, al cielo ergendo</l>
+<l>La fronde santa, inviteran da lunge</l>
+<l>A l'ombra unita di sì nobil piante</l>
+<l>Il mondo tutto, e sotto a lei fiorire</l>
+<l>Miro i pregi de l'ozio, e l'arti industri,</l>
+<l>Mille virtù che 'l raccontar fia lungo:</l>
+<l>Basti sol questo a voi, che fra l'altre arti,</l>
+<l>Quella di ch'io ragiono avrà la palma –.</l>
+<l>Ciò detto tacque; e sparso ai corpi essangui</l>
+<l>Nettare e ambrosia, sparve in un baleno.</l>
+<l>E come stral che ben curvato corno</l>
+<l>Dal nerbo scocca fra l'eccelse nubi</l>
+<l>S'asconde, e dagli altrui occhi s'invola,</l>
+<l>Tal si mesce la Dea fra le più chiare</l>
+<l>Parti del cielo, ella, gli Amori, e 'l carro,</l>
+<l>Lasciando a quella turba sbigottita</l>
+<l>Ferme le labbia, immobil gli occhi, e 'l volto,</l>
+<l>Che in sasso, da stupor, parea cangiato:</l>
+<l>Et abandona la dolente madre,</l>
+<l>Che ritraendo il lasso fianco mille</l>
+<l>Cose volgea fra la confusa mente,</l>
+<l>Pronte a spiegar, che ribombaro il core</l>
+<l>Di secreto piacer; ma tosto involve</l>
+<l>Nembo di cure amare il lieto seno,</l>
+<l>E succede l'affanno al piacer misto.</l>
+<l>Né sì tosto la Dea fu dipartita</l>
+<l>Che si vider cangiar quei bianchi frutti</l>
+<l>In purpureo colore, e 'l nume infuso</l>
+<l>Uscir fe' da le carni egre e languenti</l>
+<l>Schiere infinite di pregiati vermi,</l>
+<l>Ch'ingombraro il terren, le piante, e i rami.</l>
+<l>Mira l'antica donna, e crede a pena</l>
+<l>La divin'opra; et è fra speme e doglie.</l>
+<l>La gente poi, ch'in un s'allegra e duole,</l>
+<l>Fa che per l'aria un mormorio s'aggiri,</l>
+<l>Qual s'ode per le selve, ove lieve aura</l>
+<l>Fra le più lievi foglie scherza e freme.</l>
+<l>Al fin con grato applauso, e col ricorso</l>
+<l>D'altra turba infinita, ivi già tratta</l>
+<l>Da la garrula fama, il popol tutto</l>
+<l>Snoda la voce, e in chiari accenti spiega</l>
+<l>Lodi al celeste nume, e palpa e vede</l>
+<l>Fatto mirando, e sì monstroso e raro,</l>
+<l>Che ne stupio Natura, l'Aere e 'l Cielo.</l>
+<l>Però in bel seno, e fra le nevi ignude</l>
+<l>Onde il foco d'Amor si nutre e desta,</l>
+<l>Vaga donzella amante il seme accolga,</l>
+<l>Poscia il verme nodrisca, e pronta il servi,</l>
+<l>Sperando al suo servir larga mercede.</l>
+<l>Ma pria convien del cielo e de' pianeti</l>
+<l>Saper lo stato, e d'ogni strania piaggia</l>
+<l>La qualitate aver ben conta e nota;</l>
+<l>Perché, attendendo a sì difficil opra,</l>
+<l>Loco non prenda, o non scegli aria o vento</l>
+<l>Ch'a l'animal gentile od a chi il nutre</l>
+<l>Fosser contrari, et a quest'arte ingrati.</l>
+<l>Prevede il ciel, prevede il campo, e prova</l>
+<l>Or questo or quel terreno il buon cultore,</l>
+<l>Che commetter non vuole i suoi tesori</l>
+<l>A steril gleba ove l'arena abonde;</l>
+<l>Né con l'aratro in man solcando move</l>
+<l>Quel pian ch'alleva sol canne palustri;</l>
+<l>Né quivi ancor la sua semente spande,</l>
+<l>Ove i lumbrici iniqui, a pena nate</l>
+<l>Del germinante gran le prime barbe,</l>
+<l>Vadan rodendo; e mai non toglie albergo,</l>
+<l>Con la cara consorte e i dolci figli,</l>
+<l>Con la madre vetusta e 'l padre antico,</l>
+<l>E co' fratei concordi e d'età pari,</l>
+<l>Per sostentar la numerosa e grave</l>
+<l>Famiglia, et arricchir nei lieti campi</l>
+<l>De' suoi sudori, in loco ermo et incolto;</l>
+<l>O da nobil città lontano; o dove</l>
+<l>Il cielo avaro unqua dispensi umore</l>
+<l>Che trar l'ingorda sete a Cerer possa;</l>
+<l>O non sia almen vicino a un fiume o fonte,</l>
+<l>Da' quai per fossi o rivi acque introduca</l>
+<l>Ad irrigarne i prati, onde il fien colga,</l>
+<l>Acciò che 'l gregge pasca e 'l grosso armento</l>
+<l>Entro le stalle, ai freddi giorni e brevi;</l>
+<l>E ne guadagni, con le paglie, il fimo.</l>
+<l>Né là s'adagia ov'è maligno il cielo,</l>
+<l>Ch'ora le mandre scema, et or lo priva</l>
+<l>Del parente, or del figlio, or del germano,</l>
+<l>Ma elegge aria salubre, e fertil campo;</l>
+<l>E nel campo i terren vari comparte</l>
+<l>Lasciando il buono a' biadi, a l'erbe il grasso,</l>
+<l>A le viti il sottile, il magro a' boschi,</l>
+<l>L'acquoso al riso, e l'umido al canneto;</l>
+<l>Anzi, ch'è più, il villan, parte per prova,</l>
+<l>Parte dal vecchio padre instrutto e dotto,</l>
+<l>Degli elementi e d'i soprani cerchi</l>
+<l>Cose interne e secrete ha nel pensiero</l>
+<l>Incolto e rozzo: e da l'aperte e chiare</l>
+<l>Fede acquista a le occulte; et agli effetti,</l>
+<l>Che penetrar non può suo duro ingegno,</l>
+<l>Giunge, facendo di mill'altri scala</l>
+<l>Cui vicini comprende, e veri stima</l>
+<l>Forza del senso che gli addita e 'nsegna.</l>
+<l>Ei, senza aver pur vista Atene, ha noto</l>
+<l>Del sole il corso, e quanto al suo minore</l>
+<l>Sia de la luna il men discosto giro,</l>
+<l>Scorge il moto de' segni, e i loro imperi,</l>
+<l>E scopre donde avvien ch'i spessi nembi</l>
+<l>Del cielo et altri segni accennin pioggia:</l>
+<l>Di qual Cinzia rosseggi, e di qual lume</l>
+<l>Febo risplenda; e perché il tempo cangi,</l>
+<l>Seguendo state a la stagion de' fiori,</l>
+<l>L'autunno a quella, et a l'autunno il verno:</l>
+<l>Intende quando guerra a le fredde alpi</l>
+<l>Euro minaccia, e l'Austro armato vede</l>
+<l>Se scuoter vuol l'orrida chioma ai monti.</l>
+<l>Sa perché il polo ognor l'Orsa descriva,</l>
+<l>Perché d'arsa cometa infausta luce</l>
+<l>Muti i dominii, e sempre morbi adduca,</l>
+<l>In qual parte del ciel la matutina</l>
+<l>Stella fiammeggi, e quale Espero, e quale</l>
+<l>Stampi segno Boote, e perché iniqua</l>
+<l>Sia di Saturno la suprema face.</l>
+<l>Sa il dotto navigante anco a qual tempo</l>
+<l>Riposar debba in porto, a qual le vele</l>
+<l>Securo spieghi, e con qual arte ei noti</l>
+<l>L'ondose strade e fugga i scogli; e come</l>
+<l>Provegga i venti, e le procelle, e 'l corso</l>
+<l>De l'armato Orion, di Cefeo e d'Idra,</l>
+<l>E tante accetta, e dà credenza a tante</l>
+<l>Meraviglie dai sensi alte e lontane,</l>
+<l>Cui pur i spirti eccelsi e pellegrini,</l>
+<l>Con molti studi e con fatiche, a pena</l>
+<l>Disponer sanno, e dimostrar con l'arte.</l>
+<l>Ma quella sopra ogn'altra a l'uom conviene</l>
+<l>Cura, d'aver di questa immensa mole</l>
+<l>Certa notizia, investigando i siti</l>
+<l>De' luoghi e de' paesi; ond'ei s'accorga</l>
+<l>In qual parte sia più la terra amica</l>
+<l>Al rubicondo Bacco, e in qual più brami</l>
+<l>Le spiche, ove ami gli orti, ove Pomona.</l>
+<l>Vedi Arabia spirar soavi odori;</l>
+<l>Produr l'India le gemme, e i novi lidi</l>
+<l>D'auro fecondi; e i campi ove Sebeto</l>
+<l>Trascorre e innonda aver copia d'armento</l>
+<l>Diletto a Marte; e ne' bei colli aprichi</l>
+<l>Sorger di Creta e di Mitimna altera</l>
+<l>La vite, che col piè torto al ciel poggia;</l>
+<l>E 'l siculo terren fertil di biade.</l>
+<l>Così voi, donne a la bell'opra intente,</l>
+<l>Notar dovrete pria qual loco accetti,</l>
+<l>E qual recusi i freddi gelsi e i mori,</l>
+<l>Cui fu concesso il privilegio raro</l>
+<l>D'esser sol degno e grato cibo ai seri.</l>
+<l>Di rado aviene poi, che dove alligna</l>
+<l>La nutritiva pianta, ivi anco il verme</l>
+<l>Non trove, al viver suo, secondo il cielo:</l>
+<l>Pur, chi non ha ben noto il sito eletto,</l>
+<l>Dal vecchio abitator spiando vada</l>
+<l>Se 'l giel l'offende, o se pur l'arde il sole;</l>
+<l>S'ei dolce spiega, e temperati i raggi;</l>
+<l>S'è l'aria essente d'ogni oltraggio umano.</l>
+<l>Mirar bisogna ancor de l'inconstante</l>
+<l>Luna se 'l globo è luminoso o fosco.</l>
+<l>Porge questa il favore a le mondane</l>
+<l>Cose mentr'ella è di rapaci ladri</l>
+<l>E di furti amorosi anco nimica:</l>
+<l>Lucente, emula al sol, crescendo il raggio,</l>
+<l>S'a' bei nascenti vermi alto vigore</l>
+<l>Spira benigna, in altro stato è avversa.</l>
+<l>Tempo oportuno è quando fra le stelle</l>
+<l>Fastosa incede, e sul terreno manto</l>
+<l>Luce d'argento infonde, e versa gelo</l>
+<l>Di vive perle la ritonda faccia.</l>
+<l>Poscia col cor di puro zelo armato,</l>
+<l>Volgi la mente a Dio gran Padre eterno,</l>
+<l>Che ne la parte più del ciel sincera</l>
+<l>Siede ne l'alto seggio, e 'l mondo lustra</l>
+<l>Da un polo a l'altro: egli commanda e insegna,</l>
+<l>Mastro insieme, e signor sommo e sovrano,</l>
+<l>Da cui solo procede ogni gran bene.</l>
+<l>Da lui con preghi affettuosi impetra</l>
+<l>Mercé che segua del tuo oprare il frutto</l>
+<l>Bramato, e a' preghi mesci doni e voti.</l>
+<l>Chiude egli il giorno a le più algenti brume</l>
+<l>In breve spazio, e le ferventi spiche</l>
+<l>Col notturno seren tempra, e col fiato</l>
+<l>Che d'Euro spira; egli il volubil anno</l>
+<l>Con sì dolce del ciel legge e misura</l>
+<l>Guida, che quanto il crudo Borea invola,</l>
+<l>Zefiro dolce a noi rimena; egli ode</l>
+<l>Il tutto e vede, e de' mortali i preghi</l>
+<l>Pietoso accoglie, et al pregar si piega:</l>
+<l>Con tale aiuto a la degna opra affida</l>
+<l>Il tuo pensier, vaga donzella, e desta</l>
+<l>Più sicura la speme a l'alta impresa.</l>
+<l>Indi saper convien qual vario clima</l>
+<l>Più fecondo de' seri il seme apporte</l>
+<l>(Che molto al lavor giova), et io pur tengo</l>
+<l>Vie più d'ogn'altro assai felice quello</l>
+<l>Ch'a noi la bellicosa Italia dona,</l>
+<l>Che 'n bontà vince i Battri, e gl'Indi, e l'Ermo;</l>
+<l>Se ben vi sia chi creda assai migliore</l>
+<l>Quel che fra l'altre preziose merci</l>
+<l>Recato vien dal Tago e da l'Ibero.</l>
+<l>Di questo adunque al lieto anno novello</l>
+<l>Prendi, fanciulla aventurosa e saggia;</l>
+<l>E quando agli olmi, ai cerri, ai faggi, ai pini,</l>
+<l>Anzi, di tutte a le più nobil piante,</l>
+<l>Al moro e 'l gelso, i bei primi rampolli</l>
+<l>Sparsi a l'aura vedrai, nel vago seno</l>
+<l>Ponlo a giacer fra l'acerbette e crude</l>
+<l>Mamme, cui pur ricopre invida gonna:</l>
+<l>Invida agli occhi, ma non ch'ella arresti</l>
+<l>L'amoroso pensier, che non discerna</l>
+<l>Talor le parti in bella donna occulte,</l>
+<l>E ch'al desio non le descriva e pinga;</l>
+<l>Qual limpido ruscel, che non contende</l>
+<l>La dolce vista de l'erboso letto.</l>
+<l>Qual miracol d'amor, che da' bei lumi</l>
+<l>Fiammelle avventi d'un leggiadro viso,</l>
+<l>Se da quel petto, ove di ghiaccio alberga</l>
+<l>Un cor rinchiuso, et ha di fuor la neve,</l>
+<l>Neve d'ogn'altra assai più fredda e bianca</l>
+<l>(E 'l sa chi 'l prova), alto calor si move,</l>
+<l>Che 'n poco tempo a mille corpi, a mille</l>
+<l>Crude forme et essangui infonde l'alme,</l>
+<l>Sveglia i spirti, dà il moto, e vita porge?</l>
+<l>Or quanto più questa minuta gente</l>
+<l>Di turba in turba cresce, e i picciol letti</l>
+<l>Frequente ingombra, e maggior forza acquista</l>
+<l>Il corpo imbelle, avrai di giorno in giorno</l>
+<l>Tante culle maggiori in copia pronte,</l>
+<l>Ove la plebe compartita adagi</l>
+<l>Più rara alquanto; e degli amati rami</l>
+<l>Fra le più folte schiere esca mettendo,</l>
+<l>In altre stanze in cui più larga spazii</l>
+<l>Mutar la puoi: qual suole accorto duce</l>
+<l>Dispor le squadre in militari alberghi,</l>
+<l>O sagace signor, che vede priva</l>
+<l>De' cari abitator villa o cittade</l>
+<l>(Colpa di fame o d'aspra guerra) e vede</l>
+<l>Incolti i campi, in abbandon le case,</l>
+<l>E le contrade solitarie et erme,</l>
+<l>Il popol copioso altronde scema,</l>
+<l>E fra quei borghi derelitti il chiama</l>
+<l>A ricovrarsi, e col guadagno aperto</l>
+<l>L'adesca, e tragge fuor del patrio nido.</l>
+<l>Ugual cura ti prema (allor che sorge</l>
+<l>Massa di frondi già pasciute, e miste</l>
+<l>Con pargolette e rosseggianti arene,</l>
+<l>Loro escremento, che di strame a guisa</l>
+<l>Lo strato ingombra e ormai le sponde eccede)</l>
+<l>Di cangiar letto; e se talvolta in quello</l>
+<l>Debol verme s'intrica, o non fu pronto</l>
+<l>Ad assalire il novo cibo, avvolto</l>
+<l>In tal confusion mesto s'aggira:</l>
+<l>Tu con l'ago, o la man destra e gentile,</l>
+<l>Prendil pietosa, e fra lo stuol riponlo</l>
+<l>Salvo, mercede a te, dal rio digiuno.</l>
+<l>Mirate or come ben n'addita e mostra</l>
+<l>Ch'è sopranaturale opra e celeste,</l>
+<l>Quest'onorato verme, il raro effetto</l>
+<l>Che d'ora in ora in lui si scopre, e quanto</l>
+<l>Studio, e quant'arte in lui la man divina</l>
+<l>Pose, onde sì mirabil sua fattura</l>
+<l>Fosse in grado maggior perfetta e degna.</l>
+<l>O sia grazia del ciel (che di più doni</l>
+<l>Fa ricchi di natura i bei lavori,</l>
+<l>Acciò che nulla indarno ella produca),</l>
+<l>Che d'ogn'altro animal sì egregio mostro</l>
+<l>D'essempi e di virtù fatto n'ha pieno;</l>
+<l>Sì che di molti, è il minor pregio ond'egli</l>
+<l>Le gentil membra ammanta, avendo insieme</l>
+<l>Secreta qualità di vestir l'alme</l>
+<l>Ch'hanno al vero camin volto il pensiero.</l>
+<l>E di sì illustre velo e sacro manto,</l>
+<l>Che invisibil compone il verme e intesse,</l>
+<l>Non è lecito a ognuno andarne altiero,</l>
+<l>Ma il coprirsene a quei fu sol concesso,</l>
+<l>Ch'hanno angelica l'alma, e divi spirti.</l>
+<l>E come in bel giardin, che quai più cari</l>
+<l>Fior porta il vago Aprile, e 'l lieto Maggio</l>
+<l>Largo dispensa, in quella parte e 'n questa</l>
+<l>Soglion talvolta amanti donne e belle</l>
+<l>Ir ghirlande intrecciando: e l'una invola</l>
+<l>I più bei gigli, altra i ligustri, et altra</l>
+<l>Le bianche rose mesce a le vermiglie,</l>
+<l>Et a ciascuna quel che più gli aggrada</l>
+<l>Rapirlo giova, acciò ch'indi al suo vago</l>
+<l>D'ogni compagna sua sembri più adorna;</l>
+<l>Così può l'uom, de' seri il corso breve</l>
+<l>A parte a parte contemplando, accorre</l>
+<l>Or questo or quel consiglio in chiuso petto,</l>
+<l>Quasi più rare gemme onde n'ordisca</l>
+<l>Al viver suo nobil monile e fregio.</l>
+<l>Ecco or come appresenta il verme eletto</l>
+<l>Nel più oscuro suo stato agli occhi nostri</l>
+<l>Uomo ch'è infante, circondato e oppresso</l>
+<l>D'ogni più vil miseria: ei fuor de l'alvo</l>
+<l>Materno vien, qual pellegrin sospinto</l>
+<l>Da l'onde al lito e d'umor salso pregno,</l>
+<l>Ignudo; e 'l nascer suo sospira e plora</l>
+<l>A gran ragion, poiché gli è aperto il varco</l>
+<l>A questa atra prigion, ch'uom vita appella;</l>
+<l>A questo mar sì tempestoso et alto,</l>
+<l>Ch'un di mille navigli unqua non scampa.</l>
+<l>Uopo grand'ha d'ogni vital soccorso,</l>
+<l>Con pianti il latte chiede, e 'l niega a molti</l>
+<l>L'istessa madre, e da le mamme il sugge</l>
+<l>Di feminella vil, ch'i mesi e gli anni</l>
+<l>Entro un vil tetto il nutre; et or con vezzi,</l>
+<l>Or con gridi e percosse, e frena e tempra</l>
+<l>(Me' ch'ella può) le sue maniere strane.</l>
+<l>Quegli dal ragionar blando e distorto</l>
+<l>Di lei le voci e le parole apprende:</l>
+<l>E con accorte e dolci frodi impara</l>
+<l>Andar senza il ritegno, e mille e mille</l>
+<l>Soffre ingiurie di tempo e di fortuna;</l>
+<l>Al fin fra dura gente e incolta avvezzo,</l>
+<l>D'imbevuta viltade ignobil parto</l>
+<l>A nobil madre l'appresenta; e lascia,</l>
+<l>Non senza gran dolor, rozza nutrice</l>
+<l>Delicato fanciullo. Or così ancora,</l>
+<l>Quando avrà quattro e quattro volte il vago</l>
+<l>Pastor ridutto il sazio armento e 'l gregge</l>
+<l>Da l'erbe e i monti a la casetta umile,</l>
+<l>Et altrettante, con voci alte e gridi,</l>
+<l>Il vigilante augel, nunzio del giorno,</l>
+<l>L'avaro zappator desto a l'aurora,</l>
+<l>Vedrai questo animal gettarsi in preda</l>
+<l>Al dolce sonno, e non destarsi avanti</l>
+<l>Ch'almen la second'alba a noi non torni.</l>
+<l>E, mentre queto posa, e queto giace,</l>
+<l>Stringe, il freddo del sonno, il naturale</l>
+<l>Calor del corpo a le più interne parti,</l>
+<l>E da l'esterne il fura, onde si nutre</l>
+<l>Altra pelle, altra veste; e quella prima,</l>
+<l>Come angue suole a la stagion fiorita</l>
+<l>Depor l'antiche squame, il nostro verme</l>
+<l>Lascia, scotendo il sonno; e di novelle</l>
+<l>Spoglie più bello e vago al pasto riede,</l>
+<l>Oltre l'usato ingordo, e le bramose</l>
+<l>Voglie saziar procura, e ingordo pasce</l>
+<l>L'amate frondi; onde tu dèi con esse</l>
+<l>Allor mutarlo in più capaci luoghi,</l>
+<l>E far nove colonie a quella plebe.</l>
+<l>Vedrai la fronte rilucente e bruna,</l>
+<l>E 'l corpo alquanto men de l'altro oscuro,</l>
+<l>E qui avrà fin la prima età più frale.</l>
+<l>Indi come al garzon poi che fu tolto</l>
+<l>Dal latte, e segna ormai l'orme più certe,</l>
+<l>Cresce a paro con gli anni e senno e forza;</l>
+<l>E trasmettendo a poco a poco i vani</l>
+<l>Semplici scherzi, in quella età graditi,</l>
+<l>Fra divina pietade e buon costumi,</l>
+<l>Che da pudica genitrice accoglie,</l>
+<l>Sorge agli stenti, a le fatiche, e a' studi</l>
+<l>Sotto cura fedel di saggio mastro,</l>
+<l>Anzi d'altro parente, che co' detti</l>
+<l>E con gli essempi informa l'alma, e 'l face,</l>
+<l>D'animal bruto, uomo prudente e accorto;</l>
+<l>Poi con uguali a lui di stato e d'anni</l>
+<l>Fa paragon de' studi, e in le palestre</l>
+<l>Rende le membra vigorose e dotte:</l>
+<l>Tal fra le prime cune, in prima etade,</l>
+<l>Il picciolo animal contempli e scorgi,</l>
+<l>Che 'l breve spazio omai del letto angusto</l>
+<l>Sdegna, e novo pensier giunge di darli</l>
+<l>Più condecente albergo; onde si deve,</l>
+<l>Pria che l'ottavo o 'l nono dì sia spento</l>
+<l>Da ch'ei fu desto, in parte alta e remota</l>
+<l>De l'ampio tetto, aver salubre e aprica</l>
+<l>Stanza; ove intorno a le pareti ordisca</l>
+<l>Dotto artefice industre alto teatro</l>
+<l>D'incise travi e di spianati legni,</l>
+<l>Ch'ordinato, di gradi alterni, s'erga</l>
+<l>Al ben commesso palco. E nel maggiore</l>
+<l>Si posin di vincastri inteste crati,</l>
+<l>O d'umil giunchi, o di palustri canne,</l>
+<l>Che sien presepe a' seri, e grato ovile;</l>
+<l>Del minor poi, la ben fermata soglia</l>
+<l>Prema col piè sicura, e intorno vada</l>
+<l>Or l'una or l'altra verginella, et ora</l>
+<l>I più sublimi, ora i più bassi letti</l>
+<l>Vegga e rivegga, e di vivande ingombri,</l>
+<l>Di cui colmi ne rechi il grembo e 'l seno:</l>
+<l>Et a questi et a quei salga in disparte</l>
+<l>Del grave ordigno, ove l'accorto fabro</l>
+<l>Lasciato il varco avrà d'egregia scala.</l>
+<l>Ecco intanto il dì novo a pena è sorto,</l>
+<l>Che di novo il sopor placido serpe</l>
+<l>Nel sazio gregge, ond'ei prostrato giace,</l>
+<l>Sin che due volte il Sol dal carro adorno</l>
+<l>Sciolga i corsieri, e 'n grembo al mar s'annidi;</l>
+<l>Poscia si desta, e nel destarsi cade</l>
+<l>Dal capo il picciol elmo, e come in orto</l>
+<l>Papavero talor vedi al meriggio,</l>
+<l>Cui sia languendo il fosco fior caduto,</l>
+<l>Lo scorgi, di color fatto simile,</l>
+<l>De la smarita oscura pelle fuore</l>
+<l>Con lenti sforzi trar le molli membra</l>
+<l>Più chiare alquanto: il che n'addita il pregio</l>
+<l>Ch'uom riceve a l'uscir, porgendo grato</l>
+<l>Odor di lui dai fanciuleschi vezzi,</l>
+<l>Per gir per erto calle a l'alto monte</l>
+<l>De l'arti e discipline eccelse e degne.</l>
+<l>Qui maggior cura vi s'appresta, o donne,</l>
+<l>Di riportar i seri al bel soggiorno:</l>
+<l>Voi con gli usati inganni, e le fanciulle</l>
+<l>De l'amoroso frutto ancor digiune,</l>
+<l>Con le man pure, e la vil turba e pigra</l>
+<l>Di fanti e serve, i lenti passi affrette</l>
+<l>Più de l'usato a la foresta, e a' gelsi</l>
+<l>E mori il grato onor di frondi invole,</l>
+<l>Per arricchir nei prandi e ne le cene</l>
+<l>Le mense a l'animal, cui s'è dormendo</l>
+<l>L'empia noiosa fame in seno infusa.</l>
+<l>Più canestri e fiscelle allor portarne</l>
+<l>Conviene, acciò che prontamente abonde</l>
+<l>A le distributrici il seno e 'l grembo;</l>
+<l>Ma debbon le donzelle essere accorte</l>
+<l>Nei modi del governo, e quando i seri</l>
+<l>Son pargoletti, e 'n quelli a l'appetito</l>
+<l>Il puro senso non soggiace ancora,</l>
+<l>Puon quanto aggrada lor fra spesse foglie;</l>
+<l>Libero al manucar lasciarli il freno,</l>
+<l>Ché tanto sol ne pasce quanto chiede</l>
+<l>La natural sostanza che 'l governa:</l>
+<l>Qual tenero fanciul, che palpa e tiene</l>
+<l>Fra labro e labro le ripiene mamme,</l>
+<l>E ciò che brama sol natura ei tragge.</l>
+<l>Or da qui innanti con più parca mano</l>
+<l>Vien che 'l cibo ministri, e quasi in scherzo</l>
+<l>Getti rade le frondi, insin che alquanto</l>
+<l>Cessato sia l'impeto primo ardente</l>
+<l>Del ventre e del digiuno; indi ne sparga</l>
+<l>Prodiga copia, e là vi spazii e goda</l>
+<l>Con mille giri il verme, e con fragore;</l>
+<l>Qual forse udito avrai, se ti rimembra,</l>
+<l>Mentre sotto ai notturni e foschi orrori</l>
+<l>Quete e tacite son l'umane cose,</l>
+<l>E tu del letticiuol le molli piume</l>
+<l>Col grave peso calchi, e sia vicino</l>
+<l>Il loco a un bel giardin di piante adorno,</l>
+<l>Carche di verde frondi, et un repente</l>
+<l>Tuono allor rompa a le tue luci il sonno:</l>
+<l>Odi versar su le ridenti foglie</l>
+<l>Stille da un nembo, e un fremer dolce e grato</l>
+<l>Quelle aggirar per l'aura, onde t'invita</l>
+<l>Con l'ali brune lusingando un forte</l>
+<l>Sonno a posar su l'altro fianco, immerso</l>
+<l>Nel dolce oblio de' tuoi pensier più gravi.</l>
+<l>Copri dunque, fanciulla, allora i seri</l>
+<l>Di verdi fronde, come eccelsa pioppa</l>
+<l>Sotto di lei l'antica madre ammanta</l>
+<l>De l'onor suo, ch'Euro disperde e scuote;</l>
+<l>E, come aver si de' sempre in costume,</l>
+<l>A questo ufficio il dì tre volte riedi:</l>
+<l>La prima fia quando è sparita in tutto</l>
+<l>L'alba e ritorna in Oriente il sole,</l>
+<l>Che già dei liti Eoi sorto è da l'onde.</l>
+<l>Poi quando il mezzo del celeste giro</l>
+<l>Preme, e foco maggior dai raggi spande,</l>
+<l>E 'l rozzo agricoltor sudato e stanco</l>
+<l>Lascia imperfetto il solco, e in mezzo a quello</l>
+<l>Il grave aratro, e con i buoi disciolti</l>
+<l>Ricorre a l'ombra d'olmo o cerro o faggio,</l>
+<l>E quivi a lor dà il cibo, e a sé ristoro;</l>
+<l>E 'l semplice pastor, presso un bel rio,</l>
+<l>Col dolce mormorar le voci accorda</l>
+<l>De le stridenti avene, e 'l sazio gregge</l>
+<l>Mira, giacente sotto abeti e pini,</l>
+<l>Ruminar l'erbe e 'l mattutino pasto.</l>
+<l>Al fin, come la notte in ordin pone</l>
+<l>Le più lucenti stelle, et a l'albergo</l>
+<l>Chiama le genti, e gli augelletti al nido,</l>
+<l>Le fere ai boschi, e i pipistrelli a l'ombre.</l>
+<l>S'appressa intanto il destinato tempo</l>
+<l>Ai seri di lasciar l'etate adulta,</l>
+<l>E varcare a stagion vie più gradita;</l>
+<l>A la stagion che da fatica ha 'l nome,</l>
+<l>Come anco al faticar fu a l'uom prescritta,</l>
+<l>Bench'egli in essa più vaneggi, e tenga</l>
+<l>Strabocchevoli usanze e strani modi,</l>
+<l>Ch'al fin lasciato il buon custode, e sciolto,</l>
+<l>Segue il furor de la volubil mente:</l>
+<l>Di veltri e di destrier s'allegra, e gode</l>
+<l>Di campi e giochi, e d'amorose donne.</l>
+<l>A quest'etade, al giovenile ardire,</l>
+<l>Che mal si tempra, e che soverchio ferve,</l>
+<l>Freno bisogna al male, e sferza al bene</l>
+<l>Di più saldo consiglio, ancor che sprezzi</l>
+<l>L'animo altero chi 'l riprende e punge;</l>
+<l>Sin che con gli anni di viril costumi</l>
+<l>Si rivesta, per gli aspri erti sentieri</l>
+<l>De l'auro e de l'onor camini e poggi,</l>
+<l>Lasciando ormai la dolce etade e cara:</l>
+<l>Dolce non già, né cara a chi l'adopra</l>
+<l>In vani effetti, in fole, e 'n rei pensieri.</l>
+<l>Anzi pur troppo amara, e troppo ingrata,</l>
+<l>Quand'egli avien ch'allor la prezzi e stime,</l>
+<l>Ch'ella è trascorsa, e scorsa mal la vede;</l>
+<l>E tardo al ravveder, tardo è al pentirsi,</l>
+<l>Onde poi indarno la sospira e brama:</l>
+<l>E tanto gli è maggior sì gran iattura,</l>
+<l>Quanto men trova al danno alcun restauro.</l>
+<l>Ma vediamo ora i nostri amati seri,</l>
+<l>Cui tosto assale alto sopor, che l'ali</l>
+<l>Dispiega sopra lor placide e chete;</l>
+<l>E presti alcuni sono, altri più lenti</l>
+<l>A riposar l'affaticate membra:</l>
+<l>Però scelta di lor, donne, farete,</l>
+<l>Messi in disparte i vigilanti insieme,</l>
+<l>E insieme ancor gli adormentati posti,</l>
+<l>Perché di questi non si turbi il sonno.</l>
+<l>E giuntamente or gli uni, or gli altri al fine</l>
+<l>Salghino in successivo tempo e loco</l>
+<l>Sopra i rami parati a le lor opre:</l>
+<l>Che ne dimostra la dovuta cura</l>
+<l>Di chiaro padre in virtuoso figlio,</l>
+<l>Che a parte lasci i suoi dissegni orditi</l>
+<l>Su cose, al suo dispor, troppo fallaci,</l>
+<l>E intenda solo a secondare il corso</l>
+<l>In questa età, da onesto genio scorto</l>
+<l>Nel pronto ardir di generosa mente,</l>
+<l>A che Natura e 'l Ciel l'appella e piega.</l>
+<l>Questa dunque stagion, cui non succede</l>
+<l>Altra etade miglior, mai non trappassi</l>
+<l>Senza sceglier gl'ingegni, e quegli e questi</l>
+<l>Fra le schiere de' pari in arte e 'n studi</l>
+<l>Porre, a far prova in uno o in altro calle</l>
+<l>Che lor conduce per diverse strade</l>
+<l>Di Minerva e d'Apollo al sacro tempio;</l>
+<l>E più per tempo ancor, se può scoprire</l>
+<l>Ferma al garzon la mente (troppo incerta</l>
+<l>E dubbia cosa in quei primi anni), deve</l>
+<l>Lentar il freno al virtuoso intento,</l>
+<l>Sia d'armi o lettre, o divin culto o corte:</l>
+<l>Perché s'avvanzi il tempo, a l'uom pur troppo</l>
+<l>Parco, e fugace più che vento o strale.</l>
+<l>Vedi or questo animal, doppo una lunga</l>
+<l>Notte al suo lungo sonno, a quella uguale</l>
+<l>Forse che Alcmena ingravidò d'Alcide,</l>
+<l>Rompe il riposo, e si risveglia, e scossa</l>
+<l>La spoglia inutil, sorge a l'oriente</l>
+<l>De l'età sua fiorita, e sembra argento</l>
+<l>Ch'aspetta ancor de la sonante incude</l>
+<l>I fieri colpi, onde maestra mano</l>
+<l>Poscia il polisca, e dia il pallore e 'l lume;</l>
+<l>E non invano, pascolando, accresce</l>
+<l>Mille inutil fragmenti, e prende il cibo</l>
+<l>In maggior copia, e con maggior vigore</l>
+<l>Si vede errar fra le vivande altero.</l>
+<l>Né cibo elle a lui son, com'altri stima,</l>
+<l>Benché sen pasca, ma di quelle aduna</l>
+<l>Entro il suo petto il prezioso stame:</l>
+<l>Con studio e con fatica il coglie, e mentre</l>
+<l>Dorme il concoce, e ruminando affina,</l>
+<l>Onde poi sparga il degno frutto al mondo.</l>
+<l>Vedrete i seri andar lieti scherzando</l>
+<l>In umil vita, e fra l'amiche schiere,</l>
+<l>Empiendo a gara il sen di verdi fronde;</l>
+<l>E vezzosi gioir del vago stato</l>
+<l>In che gli ha posti il ciel, che non gli diede</l>
+<l>Duce o tiranno, come a l'api, o rege</l>
+<l>Ch'abbia fra loro impero, e con orgoglio</l>
+<l>La bella libertade opprima e turbi</l>
+<l>Crudele, invido a' buoni, e pronto a l'ire</l>
+<l>Contro i migliori, e ch'antepor si sdegni,</l>
+<l>Qual buon padre dovria, l'util commune</l>
+<l>Al proprio affetto, e 'n servitù gli stringa.</l>
+<l>Né fuco tra lor nasce, che in sembianze</l>
+<l>Bugiarde e finte, e con mentiti studi</l>
+<l>Distrugga l'opre, e tessa insidie a loro,</l>
+<l>Onde sudar convenghi e giorno e notte,</l>
+<l>Ora in straniere, ora in civil battaglie.</l>
+<l>Pari questi d'amor, pari di fede</l>
+<l>Li scorgi, e qualità lor non distingue</l>
+<l>Di maggiore o minor, di sozzo o vago:</l>
+<l>Nato è ciascun da un seme, e lieto vive</l>
+<l>Senza disturbo di nimico oltraggio.</l>
+<l>Lasciano altrui l'acuta punta e 'l tosco,</l>
+<l>L'ira e 'l furor lasciano a l'api avare,</l>
+<l>Che fan coi morsi a l'opre lor difesa.</l>
+<l>Di pace amica è questa greggia, e lunge</l>
+<l>Vien che da lei fiammeggi il fiero Marte.</l>
+<l>Pace brama et apporta, onde al governo</l>
+<l>Di pacifica mano inetta a l'armi</l>
+<l>S'è data, e sotto lei riposa e vive;</l>
+<l>Pende talor da la soave bocca</l>
+<l>Di voi leggiadre verginelle intenta</l>
+<l>Al placido cantar, ch'al cor gli scende,</l>
+<l>Ammollisce il travaglio, e i spirti alletta.</l>
+<l>Ma come presto passa, e quanto è breve</l>
+<l>Questa nostra mortal misera vita!</l>
+<l>Come ci applaude ne' verdi anni, e mentre</l>
+<l>Viviam sicuri si dilegua e fugge,</l>
+<l>Col ratto corso de l'alato veglio!</l>
+<l>Qual rapido torrente, ove l'un'onda</l>
+<l>Caccia l'altra, e cacciando anch'ella è spinta,</l>
+<l>E l'una e l'altra non s'arresta un punto;</l>
+<l>Così volano i giorni e scorron gli anni</l>
+<l>Senza alcun freno, e chi fu pigro e lento</l>
+<l>Ne l'età sua più vaga a côrre il fiore,</l>
+<l>S'in ver la sera poi languido il trova,</l>
+<l>D'altri che di lui stesso non si lagni:</l>
+<l>Però a chi retto aspira e retto poggia</l>
+<l>Per verace camino al sommo bene,</l>
+<l>Od a chi ha 'l traviar lasciato a tempo,</l>
+<l>Or cura assai più cupa al cor s'interna:</l>
+<l>Cerca ei ricchezze, amici, e brama onore,</l>
+<l>Col disagio di Marte e di Minerva.</l>
+<l>Fra le vigilie e fra i perigli aspira</l>
+<l>A magnanime imprese, e a nobil fama</l>
+<l>Doma i sfrenati sensi, e sotto al giogo</l>
+<l>Marital divien padre, e lieto vede</l>
+<l>Se stesso rinovato in bella prole,</l>
+<l>Et oltre corre, e più e più s'attempa.</l>
+<l>Simil ritratto al vivo ancor si scorge,</l>
+<l>Passando i seri a' più maturi giorni:</l>
+<l>Ecco a pena gli apparve il primo albore</l>
+<l>De la lor giovanezza, e a l'occidente</l>
+<l>Già volge i passi in più spedito corso:</l>
+<l>Che quanto fu più tarda a salir l'erto,</l>
+<l>Tanto or più affretta al declinante calle.</l>
+<l>Già addita il varco a la virile etade</l>
+<l>Il domator de' mali e de la Notte</l>
+<l>Lusinghier figlio, col leteo liquore</l>
+<l>Di cui invisibilmente il gregge irriga;</l>
+<l>E già sopire i sensi, e posar vedi</l>
+<l>Le stanche membra, il grave capo in alto</l>
+<l>Tenendo ognor (quasi a ricever pronto</l>
+<l>Il celeste favor), donne, sin tanto</l>
+<l>Che 'l sol correndo intorno a noi riporti</l>
+<l>L'alma luce tre volte; e 'l rozzo cuoio</l>
+<l>Indi lascia col sonno, come suole</l>
+<l>Lasciar la verde buccia aperta rosa,</l>
+<l>Allor che sopra lei piove la manna,</l>
+<l>E scuote l'alma in rugiadoso grembo;</l>
+<l>E 'l bel color de la mutata spoglia</l>
+<l>Veggendo, egli medesmo ammira e gode,</l>
+<l>Che par ch'invidii il vostro vago volto,</l>
+<l>Amate virginelle, ove si sparge</l>
+<l>Fra 'l giglio la viola, e si confonde.</l>
+<l>Or grave incede e grave mira, e pasce</l>
+<l>Con più posati morsi i vostri doni.</l>
+<l>E come in uom, ch'al mezzo corso assunto</l>
+<l>De la sua vita, e nel passato tempo</l>
+<l>Soffrì molto fanciullo, et arse, et alse,</l>
+<l>Fuggì l'ozio e i diletti, e dal travaglio</l>
+<l>Giorno e notte fu oppresso, onde la strada</l>
+<l>Al ciel s'aprisse, in questa età si scorge</l>
+<l>Chiaro pregio de l'opre, e certo segno</l>
+<l>Del suo valore, e qual s'attenda e speri</l>
+<l>Fine di lui, quai palme e quai trionfi:</l>
+<l>Tale in questo animal traluce e splende</l>
+<l>Da l'abellite membra aperto un raggio</l>
+<l>D'ampie ricchezze, ch'entro il seno asconde,</l>
+<l>Per farne indi a voi, donne, un largo dono.</l>
+<l>Vedi apparir l'aurate fila, e vedi</l>
+<l>Confusamente avvolto il bel lavoro,</l>
+<l>Entro lucida vesta ancor celato.</l>
+<l>Però, liete donzelle, ancor vi sproni</l>
+<l>Questa speme sicura a nuove imprese,</l>
+<l>A gran servigio, et a più cari uffici:</l>
+<l>Come di naviganti audace schiera,</l>
+<l>Che più giorni ha provato il mare infido,</l>
+<l>E scórse per l'Egeo mille procelle,</l>
+<l>S'al fin si scopre il desiato porto,</l>
+<l>Benché contrasti ancora il vento, e l'onda</l>
+<l>Fa schermo al vento, e con robusti remi</l>
+<l>Frange l'onda feroce, e preme e suda;</l>
+<l>Né li è grave la noia, poi che spera</l>
+<l>Toccar in breve il dolce amato suolo.</l>
+<l>Mentre il verme si pasce, e nove volte</l>
+<l>Farà la vaga Aurora usata scorta</l>
+<l>Al bel lume che mal resse Fetonte,</l>
+<l>Et altretante sotto il fosco manto</l>
+<l>La notte in occidente chiudrà il giorno,</l>
+<l>Vadin per l'alte selve, e per le umili,</l>
+<l>Per macchie e dumi e siepi aspri villani</l>
+<l>Oprando la bipenne, ov'al ciel surga</l>
+<l>Il verde lauro o la superba quercia,</l>
+<l>O dove vil ginestra o molle stipa</l>
+<l>O rosmarino abonde; e quindi tolta</l>
+<l>Tal quantità che buon giudicio elegga</l>
+<l>Di brevi rami, ma fronzuti e spessi,</l>
+<l>Gli avvinchi in fasci, e sul curvato dorso</l>
+<l>Nel degno ovil la rechi, e la disponga</l>
+<l>Con picciol chiodi e funi intorno al grado</l>
+<l>Maggior del giro ove riposa il gregge,</l>
+<l>Quasi ben folta siepe, che nasconda</l>
+<l>Le sue radici ove l'un grado e l'altro</l>
+<l>Fanno angolar confine insieme aggiunti,</l>
+<l>Et al minore i sparti rami appoggi,</l>
+<l>Come s'appoggia ai dirupati muri</l>
+<l>Od agli antichi steli eder' e acanto.</l>
+<l>Intanto apporta il sol la nona luce</l>
+<l>Da che fu spento al verme il dolce sonno,</l>
+<l>Ch'ad altra vita, ad altro stil l'appella:</l>
+<l>Lascia le care frondi e 'l letto amato,</l>
+<l>E lieto de la nuova alta foresta,</l>
+<l>Ver lei si move a passi tardi e lenti,</l>
+<l>Col corpo stanco ch'a gran pena porta</l>
+<l>Pregno del raro e nobil frutto; e vedi</l>
+<l>Or farsi lungo, or ranicchiato e corto,</l>
+<l>Come serpe negli orti infausta eruca,</l>
+<l>Di cui gran parte ha la sembianza espressa.</l>
+<l>Tiene ei dal capo al tergo il bel lavoro</l>
+<l>In tre parti distinto: il capo accoglie</l>
+<l>Sino al torace i primi fili e stame</l>
+<l>De l'altro assai men puro, e filaticcio</l>
+<l>Il volgo errante il noma; in mezzo alberga</l>
+<l>Il serico tesoro, come in sede</l>
+<l>Più de l'altre beata; e serba il fine</l>
+<l>Altr'opra parimente incolta e vile.</l>
+<l>In cotal guisa adunque i verdi rami</l>
+<l>Sale questo animal, poiché non cura</l>
+<l>Il cibo più, ma s'apparecchia a l'opra.</l>
+<l>Con mille giri al fin s'inselva e mesce</l>
+<l>Fra i rami e fra le stipe ove in due parti,</l>
+<l>Quasi in due corna, si divide; e quivi</l>
+<l>Il picciol muso a l'un de' tronchi appressa,</l>
+<l>Ove col dente bipartito appende</l>
+<l>Del filo un capo, indi rivolto a l'altro</l>
+<l>La trama stende, e quanto a lui concede</l>
+<l>Il loco, e quanto può col busto, intorno</l>
+<l>Pronto l'aggira a questa parte e a quella:</l>
+<l>Et apparire un picciol nembo a un tratto</l>
+<l>Scorgi, qual fragil vetro ond'ei traspare;</l>
+<l>Indi più folta nube agli occhi il cela,</l>
+<l>E quanto più fuor de la nobil salma</l>
+<l>Vome l'alte ricchezze e peregrine,</l>
+<l>Tanto ella più divien breve e ristretta.</l>
+<l>E, qual verga s'inesta in strania pianta</l>
+<l>Che legno a legno unisce, or si congiunge</l>
+<l>In breve spazio una su l'altra piega,</l>
+<l>Di cui n'ha in nove zone il corpo cinto;</l>
+<l>E dentro d'or in or più si fa angusto</l>
+<l>L'oscuro luogo ov'ei se stesso chiude:</l>
+<l>Indi chiuso, e compito il bel lavoro,</l>
+<l>Fra le degn'opre sue s'adagia e dorme</l>
+<l>Sonno d'ogn'altro più soave e queto.</l>
+<l>Così a punto fa l'uom che già maturo</l>
+<l>Sente l'età senile inferma e grave,</l>
+<l>Onde tardo ai negozi, e lento a l'opre</l>
+<l>Incede, e loda il già trascorso tempo,</l>
+<l>Biasma il presente, e con aspre rampogne</l>
+<l>I minori di lui preme e censura;</l>
+<l>Sempre di noia pien, s'ange e paventa:</l>
+<l>Così questi anni declinanti al corpo</l>
+<l>Van togliendo il vigor che gli altri diero,</l>
+<l>Ma la bell'alma ognor più chiara e pura</l>
+<l>Gli spirti in alto leva, e fa che pronto</l>
+<l>Al suo fedel consiglio ogn'uom ricorre.</l>
+<l>E se, per rea cagione, al suolo errante</l>
+<l>Scorgi parte del gregge, o qualche verme</l>
+<l>Che di salir sopra il boschetto adorno</l>
+<l>Forza non ha, ma al piè de' spessi tronchi</l>
+<l>Neghittoso s'avvolge, e tristo geme</l>
+<l>Che 'l potere al desio non corrisponda,</l>
+<l>E par che d'onorata invidia colmo</l>
+<l>Miri i compagni suoi, cui più cortese</l>
+<l>Diè grazia il cielo di poggiar tant'alto,</l>
+<l>In parte ove il lor pregio ognun dimostri:</l>
+<l>Et ei (colpa di sorte ingiusta e cruda)</l>
+<l>In estrema miseria oppresso, e seco</l>
+<l>Restin oscuri insieme, od in vil loco</l>
+<l>Sepolti i suoi tesori, in tanti giorni</l>
+<l>E fra tante fatiche al fin raccolti:</l>
+<l>Anzi in lui sembra ognor farsi maggiore</l>
+<l>La pena, mentre ei vede a sì grand'uopo</l>
+<l>Mancarli il fido aiuto, e quel sostegno</l>
+<l>In cui sperato avea, di chi il mantenne</l>
+<l>In vita e 'l trasse d'ogni rischio acerbo;</l>
+<l>Soccorra or quella man pura e gentile,</l>
+<l>Che sì benigna il cibo dielle, e pronta</l>
+<l>Maisempre fu a servirlo, or dolce porga</l>
+<l>Favor più grato, e conoscendo il merto</l>
+<l>Di chi mercé li chiede, e sforzi e vinca</l>
+<l>(Oprando sua pietade) ogni empia voglia</l>
+<l>Di contrario destino, al valor chiuso</l>
+<l>Aprendo il varco; e de l'amata selva</l>
+<l>In convenevol seggio il verme ponga,</l>
+<l>Che 'l vostro onor di sua virtute accresca,</l>
+<l>Vaghe donzelle. A cui ricordo ancora</l>
+<l>Di non locarli mai l'un l'altro appresso,</l>
+<l>Anzi, quanto si può, vien che ancor quelli</l>
+<l>Ch'inramando sen vanno allunghi, e scevri</l>
+<l>L'aggiunte coppie e i più vicini seri,</l>
+<l>Pria che da loro il bel lavor s'ordisca:</l>
+<l>Poscia che (o sian da spazio angusto astretti,</l>
+<l>O intempestivo amor li stringa e leghi)</l>
+<l>Qual suole in ventre feminil sovente</l>
+<l>Sola membrana accôr gemino parto,</l>
+<l>Tal d'ambi avvolto stame in un sol giro</l>
+<l>Chiude i vermi consorti, e 'n minor prezzo</l>
+<l>S'have il doppio lavor confuso e incolto.</l>
+<l>Però, se forse il già ingombrato bosco</l>
+<l>Di travaglianti vermi ai seri inerti</l>
+<l>Campo non lascia, ad altro stil si volga</l>
+<l>Il pensier vostro, e là s'invii veloce</l>
+<l>Pronto garzone, o servo, o snella fante,</l>
+<l>Ove dedala mano incide e spiana</l>
+<l>D'odorato cipresso o d'altre piante</l>
+<l>Assi gentili, onde ne intessa e formi</l>
+<l>Sonoro plettro, od arca, o nobil palco:</l>
+<l>E dal tagliente aciar, che liscia e terge,</l>
+<l>Cade qual sottil benda, o cinto, o nastro,</l>
+<l>Soverchio legno inanellato e crespo,</l>
+<l>Che de la stanza in cui s'attende e suda</l>
+<l>Ne' mecanici ordegni il piano ingombra:</l>
+<l>E di materia tal, canestri e grembi</l>
+<l>Si rechin pieni a voi, cui sparger giove</l>
+<l>Sopra le crati i più composti giri</l>
+<l>Di quella, e in essi i già smarriti vermi</l>
+<l>Faranno il nido, e spiegheran lor opre.</l>
+<l>Come ancor de' colui cui non concede</l>
+<l>Il ciel che 'l ben che dà Fortuna e toglie</l>
+<l>A quel de l'alma in lui sia giunto e unito,</l>
+<l>Non sdegnando il suo grado, esser perfetto</l>
+<l>Ne l'arte a che il voler sopran l'appella,</l>
+<l>Et a che il proprio affetto il piega e spinge.</l>
+<l>Segua altri Astrea, porgendo a ognuno in pace</l>
+<l>Ciò ch'a lui di ragion si spetta; e l'orme</l>
+<l>Altri prema di Marte, e con la spada</l>
+<l>Per la sua fede e per la patria pugni;</l>
+<l>Altri ad Apollo serva, e 'l sacro coro</l>
+<l>Che in Elicona siede onori et ami;</l>
+<l>Quel di Palla e Mercurio i vari studi</l>
+<l>Contempli, et un n'elegga, et un n'apprendi</l>
+<l>Intieramente; e quel che ad altro il core</l>
+<l>Volto non ha, che sia ingegnoso e grave,</l>
+<l>Di Saturno i secreti almeno impari,</l>
+<l>E 'l paterno retaggio o 'l proprio avere,</l>
+<l>Con domestica cura e 'l viver parco,</l>
+<l>Se radoppiar non può, conservi intiero</l>
+<l>A se stesso, a' suoi figli, et a' parenti:</l>
+<l>Che a Corinto passar non lice a tutti.</l>
+<l>Pur, quante frondi ha 'l bosco Ercino, e quante</l>
+<l>Arene il mar di Libia ognor raguna,</l>
+<l>E quante erbette e fior di maggio ha un prato,</l>
+<l>Tanti mali fan guerra, e tanti danni</l>
+<l>Vengon a schiera a schiera, a quel che, lento,</l>
+<l>Essercitar non cura i spirti vaghi</l>
+<l>In ben oprar, e 'n virtuosi effetti:</l>
+<l>Del che or ci danno un memorando essempio</l>
+<l>I divini animali in questa etade,</l>
+<l>Che tutti, in basso od in sublime stato,</l>
+<l>Affaticarsi vedi, e fanno a prova</l>
+<l>Ricchi di giorno in giorno i letti e i rami</l>
+<l>Con mille e mille variati globi,</l>
+<l>Verdi, bianchi, vermigli, azzurri e gialli,</l>
+<l>Che par n'invidii il più fiorito prato,</l>
+<l>Ove lieta ghirlanda a un bel rio fanno</l>
+<l>Gigli, calta, viole, acanto e croco;</l>
+<l>Anzi sembra la selva ornata e altera</l>
+<l>Superbo fregio od imperial corona,</l>
+<l>Ove artefice illustre a l'auro ha miste</l>
+<l>In mille guise preziose gemme:</l>
+<l>Quivi un diamante i raggi, ivi un rubino</l>
+<l>Il lume vibra, or un zaffiro appare,</l>
+<l>Or fra topazi e prasme egregia miri</l>
+<l>Schiera di bei smeraldi e di giacinti,</l>
+<l>E senza fin le perle, ma d'ogn'altra</l>
+<l>Gemma un ricco pendente il pregio invola,</l>
+<l>Di margarita orientale e rara.</l>
+<l>Tre giorni gode il verme il caro nido</l>
+<l>Opra de le sue mani; al fin ne sorge</l>
+<l>Non verme più, ma puro e vago augello,</l>
+<l>Che lasciato fra voi suo nobil seme,</l>
+<l>Ch'immortale il conserva e lo ravviva,</l>
+<l>Spiega i candidi vanni, e al ciel sen vola.</l>
+<l>Chiaro specchio d'uom prode, che, tenendo</l>
+<l>Ristretta al cor l'alta virtute, aspetta</l>
+<l>Tempo opportuno a palesarla al mondo:</l>
+<l>Non fra la rozza plebe ei la dispensa,</l>
+<l>Non in cose leggieri, o in umil loco,</l>
+<l>Né in giovenile e meno esperta etade,</l>
+<l>Ma dopo il latte i buon costumi appresi,</l>
+<l>Sorge a le discipline, a l'arti; e quelle</l>
+<l>Poscia col bene e 'l male affina e prova</l>
+<l>Con l'uso esperto ch'ogni cosa insegna.</l>
+<l>Lasciato al fin col sonno il pigro letto</l>
+<l>De' gravi studi, da l'instabil fronde</l>
+<l>L'alma solleva, e fra i massicci tronchi</l>
+<l>D'uomini illustri e prìncipi prudenti,</l>
+<l>Dal merto suo posto in sublime stato,</l>
+<l>Spiega il caro tesor di sue virtudi:</l>
+<l>E poi, di fede immacolato, e bianco</l>
+<l>Di peli, e d'anni carco e di fatiche,</l>
+<l>Seme del nome suo perpetuo in terra</l>
+<l>Lasciando, frange l'atra nube oscura</l>
+<l>Ond'era avvolto, e poggia ardito al cielo,</l>
+<l>Ov'ha del ben oprar larga mercede.</l>
+<l>Ma qual mercé più larga, e qual più chiara</l>
+<l>Fama si deve ad alma degna e sciolta</l>
+<l>Di mortal velo, che non resti oscura</l>
+<l>E vile appo la tua, duce alto e invitto,</l>
+<l>Divo gran Filiberto Emanuello?</l>
+<l>Che per tanti immortali avi et eroi,</l>
+<l>Dal sangue di Sassonia, antico e augusto</l>
+<l>D'imperial corone e regai mitre,</l>
+<l>Chiaro stelo produsse al secol tristo,</l>
+<l>E diede in maggior uopo al mondo oscuro</l>
+<l>Per disgombrar le tenebre e gli orrori,</l>
+<l>E risanar da mille piaghe atroci</l>
+<l>Il bel corpo d'Italia egro e languente.</l>
+<l>Te dunque parturio vera BEATRICE,</l>
+<l>Che d'un bel ramo lusitano, al tronco</l>
+<l>Illustre tuo, con le sue mani Amore</l>
+<l>Inestar volle; e dal suo grembo tolto,</l>
+<l>Di vero culto armato, e d'incorrotta</l>
+<l>Fede e regai sembianze ornato e pieno,</l>
+<l>Dal buon Carlo tuo padre al gran zio Carlo</l>
+<l>Donato fosti; e di lui l'orme sante</l>
+<l>Seguendo ognor, non di Chirone o 'l saggio</l>
+<l>Stagira fur da te i precetti accolti,</l>
+<l>Ma nel tuo petto ogni virtute infuse</l>
+<l>Lei, che dal capo uscio del gran Tonante,</l>
+<l>Et il figliuol di Maia; e ti mostraro</l>
+<l>Che con paterna e vigilante cura</l>
+<l>Del popol tuo, col frenar l'ire ardenti,</l>
+<l>Col punir gli empi e sollevar gli afflitti,</l>
+<l>Con l'equa lance, e col serbar intatte</l>
+<l>Le man dal sangue altrui giusto e innocente,</l>
+<l>Col procurar la pace e dar riposo</l>
+<l>A l'età oppressa al ciel si poggia, e 'l giogo</l>
+<l>Si rende a' servi suoi lieve e giocondo.</l>
+<l>Ivi, seguendo sol pregio e virtute,</l>
+<l>Crescesti in arme valoroso e ardito;</l>
+<l>Indi con gran stupor del chiaro duce,</l>
+<l>Con intrepido cor, veduto fosti</l>
+<l>Scorrer contro i più forti empi ribelli,</l>
+<l>Spargendo del lor sangue ampio torrente,</l>
+<l>E montagna di strage alzando al piano,</l>
+<l>Onde libero a te concesse il varco</l>
+<l>Nel più rapido corso, e in mezzo l'onde,</l>
+<l>L'Albi, del tuo valor stupido e vago.</l>
+<l>Et al tuo merto ancor libero scettro</l>
+<l>Il saggio Imperator commetter volse</l>
+<l>Sovra le schiere sue, sovra ogni duce.</l>
+<l>E qual fu mai fra tanti al mondo illustri</l>
+<l>Di Quirino e di Numa avi o nipoti,</l>
+<l>Cui concesso abbi il cielo e 'l dio de l'armi</l>
+<l>Ornarsi il crin d'ogni corona e fregio,</l>
+<l>Come fu a te, Signor? cui d'or la chioma</l>
+<l>Cinse Renti et Edino, un di murale,</l>
+<l>L'altro di vallar gloria; e del gran Franco</l>
+<l>Rotto in doppio conflitto, in doppio onore,</l>
+<l>Ornò le tempie tue gramigna e lauro:</l>
+<l>Ornolle ancor la quercia e 'l sacro mirto</l>
+<l>Nel racquistato regno, ove serbasti</l>
+<l>I cittadini tuoi, che vidder fatto,</l>
+<l>Senza stilla versar di civil sangue,</l>
+<l>Per le tue man sì glorioso acquisto.</l>
+<l>Sentì dunque il valor sommo e felice</l>
+<l>In guerra il Belga, il Franco et il Germano;</l>
+<l>Il famelico lupo ingordo et empio,</l>
+<l>Ch'ognor tenta furar dal sacro ovile</l>
+<l>Le stolte pecorelle; e quel ch'a torto</l>
+<l>Sì nobil preda al nostro impero usurpa,</l>
+<l>Ch'ha nel Bosforo tracio il seggio antico</l>
+<l>Da Constantin riposto entro Bisanto.</l>
+<l>Provollo in pace ancor l'afflitta sposa</l>
+<l>Di Dio, che sue reliquie in giro angusto</l>
+<l>Ristrette avendo, fu spesse fiate</l>
+<l>Per te difesa; e 'l popol tuo diletto,</l>
+<l>Queste piaggie sì vaghe e sì gradite</l>
+<l>Col tuo valor ricompre, e queste genti</l>
+<l>Dopo molto travaglio al tuo vessillo</l>
+<l>Con nove leggi unite. E l'alte imprese,</l>
+<l>Gli ordini, e l'arti, e ' militari onori</l>
+<l>Qui rinovati avendo, e d'alte mura</l>
+<l>Ornate le città nobili e belle,</l>
+<l>Muniti i passi e i luoghi, al fin pur lieto</l>
+<l>Del patrio nido e del bramato seggio</l>
+<l>(Come questo animal famoso e raro</l>
+<l>Di cui si canta), in mezzo a l'opre degne</l>
+<l>De le tue man queto e sicuro stando,</l>
+<l>Queto e sicuro avesti il sonno, e l'ali</l>
+<l>Spiegasti al ciel candido e puro, e 'n grembo</l>
+<l>Al tuo fattor, d'etereo raggio cinto,</l>
+<l>Ti stai beato; e quindi lieto miri</l>
+<l>Le glorie tue, ch'ognor si fan più belle</l>
+<l>Nel chiaro seme a noi lasciato in dono.</l>
+<l>Chiaro seme, alto dono, e regio figlio,</l>
+<l>Che virtù nutre, onore inalza, e regge</l>
+<l>Giustizia, e Palla a lui senno concede,</l>
+<l>Che 'l paterno valor serbando accresce,</l>
+<l>Onde in sua man riposta ha 'l ciel la chiave</l>
+<l>Ch'a questa Esperia il passo apre e richiude,</l>
+<l>Ed al suo sacro regno immenso pregio</l>
+<l>Compartito ha la dea madre d'Amore,</l>
+<l>Novo splendor giungendo al suo bel lume,</l>
+<l>Mentre col più pregiato e caro nodo</l>
+<l>Di felici imenei legollo e strinse</l>
+<l>A soggetto più ch'altro al mondo degno.</l>
+<l>Tu, che col ciglio il ciel reggi e mantieni,</l>
+<l>Reggi e mantieni ancor sì eccelsi numi:</l>
+<l>E 'l bel terren ch'al lor dominio hai dato</l>
+<l>Più non tema del tempo oltraggi et onte.</l>
+<l>Troppo, ahi, troppo fu asperso, immondo e tinto</l>
+<l>Il Po di sangue ostil del nostro sangue:</l>
+<l>Or frema altrove strepitoso Marte,</l>
+<l>E 'l barbaro furor nemico a' seri.</l>
+<l>Non siano i gelsi più, né l'altre piante</l>
+<l>In bellici stromenti e uffici volti,</l>
+<l>Ma, qual da un vivo fonte, scaturisca</l>
+<l>Serie d'eroi dal regio alvo fecondo:</l>
+<l>Chiara succession ch'eterna stenda</l>
+<l>I rivi suoi, di riprodur mai stanchi</l>
+<l>Quanti destina il ciel degni nepoti,</l>
+<l>Ch'avanzin poi qual più chiaro si canta</l>
+<l>Di Sparta, di Cartagine, e di Roma.</l>
+<l>Tu magnanimo duce alto e sublime,</l>
+<l>Giovine glorioso, al vero sole</l>
+<l>Fisse le luci tue tenendo, apprendi</l>
+<l>Nodrire e fecondar l'arti e gl'ingegni,</l>
+<l>Sparger pace e riposo, e con man giuste</l>
+<l>Dar premi e pene, e proveder da lunge,</l>
+<l>Onde al secol presente et al futuro</l>
+<l>Goda per te la prisca gloria il mondo.</l></lg></div1>
+
+<div1 type="parte"><head>Libro secondo</head>
+<lg type="non-definito">
+<l>Come fecondi e cresca il caro verme</l>
+<l>Sotto cura fedel fin qui cantai,</l>
+<l>Or vien ch'io scriva i mali a cui sottrarlo</l>
+<l>Si deve, e 'l coltivar de' mori e gelsi.</l>
+<l>Venite, o damigelle: ai vostri seri</l>
+<l>Reca il mio dir ne' mali alta salute;</l>
+<l>Ch'a voi fora cagion d'acerbo lutto</l>
+<l>L'empia strage di lor, senza i miei versi.</l>
+<l>Venite, alme donzelle, e se pietate</l>
+<l>Il cor vi stringe, or v'accingete meco</l>
+<l>A rissanar, mediche illustri, il gregge</l>
+<l>Egro e languente, e conservarlo illeso.</l>
+<l>Quando a principio il gran Rettor del cielo</l>
+<l>Diè questa mole immensa al bel governo</l>
+<l>De la secreta sua ministra umile</l>
+<l>Natura, dielle ancor supremo impero</l>
+<l>Di far moti diversi, e varie forme</l>
+<l>Trar da la terra, e l'acqua e l'aria e 'l foco</l>
+<l>Insieme aggiunti, ed innovar sovente</l>
+<l>D'una in altra sembianza or quella or questa</l>
+<l>Opra de le sue mani, e buona e ria,</l>
+<l>Onde se stesso nutre e strugge il mondo,</l>
+<l>E nelle guerre sue more e rinasce:</l>
+<l>Or la neve distilla, e l'erba riede</l>
+<l>Ne' nudi campi; i monti a l'aura dolce</l>
+<l>Spargon novelle chiome; e, l'alte sponde</l>
+<l>Lasciando, i fiumi il letto usato accoglie.</l>
+<l>Tempra Zefiro il gielo; or l'aspra arsura</l>
+<l>De l'estivo calor le fresche e ombrose</l>
+<l>Rive ci fa più grate; or l'alte piante</l>
+<l>Piegan di dolci frutti i carchi rami;</l>
+<l>E tosto colti i frutti, al suolo scorgi</l>
+<l>Cader co' primi freddi aride frondi,</l>
+<l>E tosto vedi il ghiaccio e le pruine</l>
+<l>Spogliar i monti e i piani, e seccar l'erbe.</l>
+<l>Questa ch'ognor di varie cose e nuove</l>
+<l>Ha sete essausta, or bene apporta, or male</l>
+<l>Al ben contrario adduce; or più benigna</l>
+<l>Torna e rimedio porge al proprio danno:</l>
+<l>Ove l'arte non giunge, ella è pietosa</l>
+<l>Madre, che nutre il parto e lo conserva,</l>
+<l>Ma dove l'arte ogni suo ingegno adopra,</l>
+<l>Divien cruda matrigna, e d'ira e sdegno</l>
+<l>Par ch'ella avampi, e di turbar procuri</l>
+<l>A la nemica sua la gloria e 'l vanto.</l>
+<l>Però nel suolo egizio, e di Soria,</l>
+<l>E de l'Arabia ancor detta felice,</l>
+<l>Che 'l soverchio del gelo e de l'ardore</l>
+<l>Mai non puote sentir, là 've divino</l>
+<l>Principio ebbero i seri, e in altre parti</l>
+<l>Dal cerchio equinozial meno remote,</l>
+<l>A l'aperto seren senz'altra umana</l>
+<l>Cura stanno giocondi, e vivon lieti</l>
+<l>Su le felici piante; a cui poi ch'hanno</l>
+<l>Le frondi tolte, al fin di quelle in vece</l>
+<l>Il serico lavor lasciano avvolto</l>
+<l>Ai nudi rami; e da le genti indotte,</l>
+<l>Con barbaro costume e 'n strani modi,</l>
+<l>Si coglie pettinando, e mal s'adopra.</l>
+<l>Ma ne la vaga Esperia, che nutrice</l>
+<l>Mai sempre fu de' più sublimi ingegni,</l>
+<l>Et or, mercé di chiari regi, è nido</l>
+<l>D'ogni egregia virtute, e di quest'arte</l>
+<l>Sola è 'l decoro e 'n lei sola risplende</l>
+<l>In mille industri modi, perché quella</l>
+<l>Invida nega al dolce parto aiuto,</l>
+<l>Han di cura maggior bisogno i vermi,</l>
+<l>Acciò da' gravi e perigliosi oltraggi</l>
+<l>Sia tratto un animal sì degno e raro.</l>
+<l>Nato è l'uomo al travaglio, et a ciascuno</l>
+<l>Conforme a l'opra sua dàssi mercede;</l>
+<l>Così ancor, donne, a voi premio s'aggiunge</l>
+<l>Da' seri, avendo ognor la mente vostra</l>
+<l>Pronta a curare, atta a sanar la mano</l>
+<l>Sì gentil gregia, acciò ch'a voi non porti</l>
+<l>Con improvisa morte acerbo affanno.</l>
+<l>Voi, dea terrestre, e ninfa eccelsa e chiara,</l>
+<l>Che col vostro regale alto splendore</l>
+<l>Rasserenate l'uno e l'altro cielo</l>
+<l>Che cuopre ciò che 'l padre vostro regge,</l>
+<l>In queste case, o pastorali alberghi</l>
+<l>Ponete, se v'aggrada, alquanto a parte</l>
+<l>La regal verga, e l'ostro, e le corone:</l>
+<l>Questi sien vostri pur, ma se talvolta</l>
+<l>Il biondo Apollo a' suoi pastor sorrise</l>
+<l>E lor diè tale ardir, che con il canto</l>
+<l>Misto di boscareccie incolte avene,</l>
+<l>Fean rissonar d'intorno e i boschi e gli antri,</l>
+<l>Già non isdegni vostra mente altera</l>
+<l>L'egra zampogna, e le mie note umili;</l>
+<l>Per voi questa mia cimba il vasto Egeo</l>
+<l>Scorra felice, e non m'asconda il Polo</l>
+<l>Invido nembo, ma fra tanti e tanti</l>
+<l>Tranquilli seni e fortunati lidi</l>
+<l>Che 'l vostro mare inonda, alcun m'additi</l>
+<l>Placido porto, ov'io ricovre e pose,</l>
+<l>Spirando a le mie vele aura seconda.</l>
+<l>Più felice e sicuro il nobil verme</l>
+<l>Vive, e dispensa in maggior copia il frutto,</l>
+<l>Ove natura solo il guida e regge,</l>
+<l>E l'aura ha molle, e 'l ciel sereno, e lieti</l>
+<l>Gli arbori e i rami, e pronte ognor le frondi:</l>
+<l>Ma vie più degna è l'opra e 'l bel lavoro</l>
+<l>Ne l'italiche piagge amene e belle,</l>
+<l>Da più industri cultor tratto, e con arte</l>
+<l>Filato e tinto, e 'n mille guise intesto</l>
+<l>(Benché talor questi onorati vermi</l>
+<l>Sembrin fatti a' travagli aperto segno</l>
+<l>E con doppio sudor quel ben s'acquisti);</l>
+<l>Tanta forza ha l'ingegno, e tanto vince</l>
+<l>L'aspra fatica ond'uom contempla e suda!</l>
+<l>Se col vomero ancor villano ingordo,</l>
+<l>Col duro rastro, e con i tauri aggiunti,</l>
+<l>Non svenasse il terreno, ond'egli brama</l>
+<l>Le grate spiche e l'abondanti viti,</l>
+<l>Folle, gli altrui granari e cave invano</l>
+<l>Colme mirando, il digiun ventre empirsi</l>
+<l>Potria di ghiande, e a' discorrenti rivi</l>
+<l>Spegner la sete sua con l'acqua chiara!</l>
+<l>Guida il pastor la greggia ai verdi paschi,</l>
+<l>E con povera verga al chiuso ovile</l>
+<l>Or la riduce, or da l'irsute mamme</l>
+<l>Il latte preme, e 'n giro accolto il serra;</l>
+<l>Da' fieri ladri e da' voraci lupi</l>
+<l>La tien sicura, e con potenti carmi</l>
+<l>Od erbe usate la rissana e purga</l>
+<l>Da l'empio morbo che talor la strugge;</l>
+<l>Tonde le gravi lane, ond'al fin torna</l>
+<l>Da la ricca cittade a la vil casa,</l>
+<l>Le spalle scarco e vuoto il sacco, e colmo</l>
+<l>Il sen di gioia, e le man gravi d'oro.</l>
+<l>Con pari stile e cura ugual conviene</l>
+<l>Nutrire il caro verme, e da' perigli</l>
+<l>Trarlo sicuro, onde mercé ne renda,</l>
+<l>E col frutto restauri i sudor nostri;</l>
+<l>Che spesso adduce, o l'aura infetta, o 'l cibo</l>
+<l>Contaminato, od altro infausto ai seri,</l>
+<l>Perversa peste, onde improviso e strano</l>
+<l>Morbo repente assale, e 'l dolce pasto</l>
+<l>Lasciando, egli ne langue, e 'l languor segue</l>
+<l>Livore, a cui vien dietro passo passo</l>
+<l>Morte empia e ria, che col letal veleno</l>
+<l>Gli asperge e ancide, e con superbo fasto</l>
+<l>Rende misera strage atra e funesta.</l>
+<l>Pregate il sommo Iddio, fanciulle, e voi,</l>
+<l>Donne, cui punge il core alto desire</l>
+<l>Di ritrar l'opre rare e gli alti effetti,</l>
+<l>Che da sì acerbo male intatto ei serbi</l>
+<l>Il popol caro, e da sì orrenda vista</l>
+<l>Non sian vostr'occhi mai torbidi e oscuri.</l>
+<l>Drizzate gli occhi or con la mente intenta</l>
+<l>Ai chiari essempi, e dal mio dir cogliete</l>
+<l>Rimedi cari, che d'ingegno e d'arte</l>
+<l>Furo adombrati alquanto al secol prisco;</l>
+<l>E poi con lunghe prove in mille modi</l>
+<l>Adorni e coloriti, e 'n un raccolti</l>
+<l>In queste carte, a voi gli addito e mostro.</l>
+<l>Mentre il loco s'appresta al gentil gregge,</l>
+<l>Ove i bei giorni meni, e pasca e posi</l>
+<l>Securo et opri, e ne l'oprar si chiuda,</l>
+<l>Fuggir convien che de l'ovile il lume</l>
+<l>Volga a l'Arturo o al suo contrario polo:</l>
+<l>Ma vedi che per dritto iscontro l'aura</l>
+<l>Spiri dal Sussolano al vento opposto,</l>
+<l>Et una parte scorga al primo albore</l>
+<l>Eto e Piroo d'alti presepi alzarsi,</l>
+<l>D'ambrosia sazii, e l'erto calle scorti</l>
+<l>Da nembi aurati, e da l'accese nari</l>
+<l>Versando fiamme, riportarne il giorno;</l>
+<l>L'altra lor vegga poi cadenti e stanchi</l>
+<l>Posare il fianco, e 'l gran sudor lavarsi</l>
+<l>Ne le vaste onde, e de l'amica Teti</l>
+<l>Entrar Febo le grotte e 'l molle albergo.</l>
+<l>O miri il loco sol d'onde l'Aurora</l>
+<l>Va innanti a Febo, alor ch'a un polo e a l'altro</l>
+<l>Ugual campo del ciel lascia e distingue:</l>
+<l>Ma sovra il tutto del mutabil Austro</l>
+<l>Fugga il calore infausto e le procelle,</l>
+<l>Né men la fronte al rio Ponente opponga.</l>
+<l>Né fia d'alcun pensier sì iniquo e folle,</l>
+<l>Ch'ospizio desse loro ove gravata</l>
+<l>Parte del cielo intorno o l'aura fosse</l>
+<l>D'immondi acquai, o di putenti stagni,</l>
+<l>O sozzo limo, onde ne sorga odore</l>
+<l>Malvagio e ingrato, e le quassanti rane</l>
+<l>Ivi, imprecando ancor Latona e i figli,</l>
+<l>Sparghin l'aria di voci e rauche e fioche,</l>
+<l>Al pregiato animal troppo noiose.</l>
+<l>Brama il verme gentil piaggia gentile,</l>
+<l>E dolce e pura e temperata in modo</l>
+<l>Che 'l sol non l'arda, e non l'offenda il gelo.</l>
+<l>Ove poi del bel giro il grave ordigno</l>
+<l>Fabricar s'ha, non sia di fresche mura</l>
+<l>Novellamente eretta, o tanti lustri</l>
+<l>Passati abbia la stanza, ch'ormai senta</l>
+<l>De la vecchiezza il grave incarco; e bassa</l>
+<l>Già non s'elegga, ove il terren vicino</l>
+<l>L'umido suo comparta, e 'l freddo adune;</l>
+<l>E non troppo alta ella si prenda, e aprica,</l>
+<l>Ond'uom sudando poggi, e 'l caldo sole,</l>
+<l>Quando il meridian per mezzo parte</l>
+<l>Il cerchio equinozial, vibrando i raggi</l>
+<l>Da qualche lato, o da' forami angusti</l>
+<l>Del tetto o da balcon passando, apporti</l>
+<l>Con l'unito vigor morte et oltraggio</l>
+<l>Al nobil gregge, ov'ei fieda e percuota.</l>
+<l>Né basta ciò, ma con serragli ancora</l>
+<l>Di doppie tele o trasparenti vetri</l>
+<l>S'escluda la superba irata Giuno,</l>
+<l>L'impeto d'Euro, e i fieri artigli e i rostri</l>
+<l>Di mille genitor, ch'ai nuovi figli</l>
+<l>Tentan recare ognor bramato cibo.</l>
+<l>Ah, troppo edaci augei! Non sai che Progne</l>
+<l>Nutre di vermi i suoi loquaci nidi?</l>
+<l>Garrisca pur questa importuna et empia</l>
+<l>In più solingo tetto, e 'l seno tinta</l>
+<l>Pel sangue ancor del figlio ucciso appenda</l>
+<l>Col becco industre il ben composto letto.</l>
+<l>Né pietà trove in voi, donne, ché tanto</l>
+<l>Fora ella ingrata più, quanto voi dolci.</l>
+<l>Nuoce il passer molesto, e nuoce ancora</l>
+<l>Il cristato animal che giorno e notte</l>
+<l>Va misurando al sol col canto il corso,</l>
+<l>E sua schiera di figli e di consorti,</l>
+<l>E i polli a noi da peregrine parti</l>
+<l>D'India recati, e d'Io il pastore incauto:</l>
+<l>Cari sien questi e per fuggire il sonno</l>
+<l>E per le laute mense e per le penne,</l>
+<l>Ma de la stanza lor si vieti il passo,</l>
+<l>Ove strage crudel, voraci e crudi,</l>
+<l>Farian di lor, saziando il rio digiuno.</l>
+<l>Né varco alcun fra le parete e i travi</l>
+<l>Di cui commesso è 'l palco o intesto il giro</l>
+<l>Inaveduto fabro a sorte lasci,</l>
+<l>Onde i rapaci sorci o picciol topi,</l>
+<l>E i mirmidòni e i grilli e le lucerte,</l>
+<l>Il fugace ramarro e le locuste,</l>
+<l>Et altri animaletti ai seri infausti</l>
+<l>Abbino entrata; ma con stucco e calce,</l>
+<l>O con tenace creta, ogni spiraglio</l>
+<l>Si tenga chiuso, onde entro sé l'albergo</l>
+<l>Non chiuda gli agni e i lupi, né un sol nido</l>
+<l>Stringa insieme le serpi e le colombe.</l>
+<l>Ancor tender si dee l'usata frode</l>
+<l>Con cui sogliono i topi e le mustelle</l>
+<l>Far con il furto a loro istessi oltraggio:</l>
+<l>O ver fra legno e legno, e in men secura</l>
+<l>Parte del loco attar fia ben le spine</l>
+<l>Di triboli e ginepri, onde da quelli,</l>
+<l>Come da mille punte e mille spade,</l>
+<l>Paventi il rio nimico, e 'ndietro fugga.</l>
+<l>Se poi, che talor suol, la stagion lieta</l>
+<l>Da' fieri venti e da Aquilone algente</l>
+<l>Travagliata ne riede, o l'umid'Austro</l>
+<l>Dai nembi oscuri acque importune scuote,</l>
+<l>Giova nel chiuso albergo accender foco,</l>
+<l>Sopra i deschi il carbon ponendo acceso</l>
+<l>Sotto i gradi del giro, in varii lati,</l>
+<l>E su l'ardenti bragie ancor s'asperga</l>
+<l>Polve di belzoino o di storace,</l>
+<l>Lòdano o incenso, od altro odor soave,</l>
+<l>Il cui grato vapor conforta i spirti</l>
+<l>Ai seri, e purga l'aria oscura e fosca.</l>
+<l>Né quivi in modo alcuno arder si deve</l>
+<l>Verde schieggia di legno o molle stipa,</l>
+<l>Onde la fiamma avampi, e 'l loco ingombri</l>
+<l>Di grave fumo, che 'l bel gregge offende:</l>
+<l>Vi lodo anzi che in mezzo al chiuso cerchio</l>
+<l>Del bel teatro un'alta torre s'erga</l>
+<l>Di rame o ferro o di stampata creta,</l>
+<l>Ove foco si metta, e spiri il fumo</l>
+<l>Per celato sentiero, entro chiudendo,</l>
+<l>Come in fornace, il conceputo caldo,</l>
+<l>Sì che la stanza a poco a poco scaldi;</l>
+<l>Come si vide usar da gente strana</l>
+<l>Nella parte del mondo che soggiace</l>
+<l>Al freddo Polo e a le perpetue brume,</l>
+<l>Tutta lontana dal camin del sole:</l>
+<l>Ivi stando ciascuno in ricco o vile</l>
+<l>Albergo in varie guise al ciel fa schermo,</l>
+<l>Che nubiloso e oscuro ognor si mira,</l>
+<l>Mercé a Volcano, che invisibil opra</l>
+<l>L'alta virtute sua nemica al ghiaccio.</l>
+<l>Giova ai seri il vapor placido e grato</l>
+<l>Che la trist'aura fa tepida e dolce,</l>
+<l>Ma non gli giova lo star chiusi ai giorni</l>
+<l>Che l'estivo calor s'interna e ferve</l>
+<l>Sin ne le vene de la madre antica;</l>
+<l>Anzi vien che s'inviti la fresc'aura,</l>
+<l>Per l'aperte finestre a l'ombra volte,</l>
+<l>A far coi seri alor grato soggiorno.</l>
+<l>Né mai vorrei ch'al bel loco vicino</l>
+<l>Strillar s'udisse la tremenda voce</l>
+<l>Del rauco corno, suon ch'i veltri aduna,</l>
+<l>Colmi le labbia di ferino sangue;</l>
+<l>Anzi suon che l'orrenda Ecate adopra,</l>
+<l>Quando ne le spaziose atre caverne</l>
+<l>Chiama gli abitator de' regni stigi,</l>
+<l>E quanto più le fere e i veltri alletta,</l>
+<l>Tanto danno maggior fa ai nostri seri;</l>
+<l>Cui nuoce ancor del cavo rame il suono</l>
+<l>E 'l fremer de' tamburri, atti stromenti</l>
+<l>A far incrudelir l'armate squadre,</l>
+<l>Là dove è di mortale aspra battaglia</l>
+<l>Coperto il campo, e rubicondo il fiume.</l>
+<l>S'ancor bambin s'accosta al popol caro,</l>
+<l>Grave danno è per farli, onde ritienlo,</l>
+<l>Che non li giunga, e i semplicetti studi</l>
+<l>Distôr procura dalla mente incauta.</l>
+<l>Voglion questi veder, voglion palpare,</l>
+<l>Tratti da sì stupenda e nuova vista,</l>
+<l>E maneggiar braman le frondi e i vermi,</l>
+<l>E rapirne co' pugni, e empirne il seno,</l>
+<l>E fan de' queti seri aspro governo:</l>
+<l>Però con parolette e dolci inganni</l>
+<l>Saggia fanciulla il tenga, e in altra parte</l>
+<l>Pria che s'appressi il meni; che voglioso</l>
+<l>Fanne poi cruda strage, e a l'ostinato</l>
+<l>Del tuo sgridar non cale; e se pur tenti</l>
+<l>Distorlo al fine, o con minaccie o a forza,</l>
+<l>Empie di strida il cielo, e d'alti pianti,</l>
+<l>Con cui non meno le bell'alme annoia</l>
+<l>Di quel ch'avria con l'empia man nociuto.</l>
+<l>Poiché osservato ho mille volte e mille,</l>
+<l>Quando turba villana ai dì solenni</l>
+<l>D'agresti giuochi scherza, e si solazza</l>
+<l>Schiera di giovanetti in vichi o piazze,</l>
+<l>Con alte voci di contese o applausi,</l>
+<l>O intemperato e folle riso, ai vermi</l>
+<l>Dar noia, e disturbarle il bel lavoro.</l>
+<l>Ma se nel debol suon v'è tanto oltraggio,</l>
+<l>Che sarà poi, quando a l'antica incude</l>
+<l>Sudarà intorno il zoppo fabro ignudo?</l>
+<l>E seco ignudi ancor Piramo e Bronte</l>
+<l>E Sterope affrettar s'udranno i colpi,</l>
+<l>A far ministre che disfoghin l'ire</l>
+<l>Di Giove alor che la superba suora</l>
+<l>Fulmina e tuona, e sottosopra volve</l>
+<l>Il mar, la terra, et il profondo abisso;</l>
+<l>E tremar dai rimbombi paventosi</l>
+<l>Fa mura e tetti, e le caverne e i monti,</l>
+<l>E da le frante nubi i sassi vibra,</l>
+<l>E i gelsi sfronda, e l'alte selve scuote,</l>
+<l>E con acque repenti i campi allaga:</l>
+<l>Il fiume caccia dal natio suo letto,</l>
+<l>Che ville e case, e le cittadi inonda,</l>
+<l>Traendo con le stalle e gregge e armento,</l>
+<l>E dai declivi colli a l'erme valli</l>
+<l>Manda i torrenti di furore armati.</l>
+<l>Come pur mi sovien, che l'anno adietro,</l>
+<l>In parte sottoposta al degno scettro</l>
+<l>Del mio Signor, dagli alti monti scese</l>
+<l>Rapido e gonfio sì l'aspro torrente,</l>
+<l>Ch'ogn'argine sprezzato, e ogni riparo</l>
+<l>Nulla stimando, volse alto e superbo</l>
+<l>(Ahi grave scempio!) il furibondo piede</l>
+<l>Di Ceva antica inver le nobil mura;</l>
+<l>E quivi aperto il passo, orribil corse</l>
+<l>Per le contrade e i borghi, e seco trasse</l>
+<l>Non sol le svelte piante, i legni e i ponti,</l>
+<l>I chiusi ovili, i greggi e le capanne,</l>
+<l>Ma case illustri, eccelse torri, e tempî,</l>
+<l>E le ricchezze, e, ch'è più, molti e molte</l>
+<l>Uomini e donne, e giovinetti e infanti,</l>
+<l>E ricchi e vili, e i sacerdoti sacri;</l>
+<l>E di tal preda altiero al fiume giunse,</l>
+<l>Che commosso a pietà nel suo bel grembo</l>
+<l>Non volle ritener sì fiere spoglie,</l>
+<l>Ma irato le gettò fuor delle sponde,</l>
+<l>E da dolor lagrimar vidi i sassi,</l>
+<l>E sospirar le rive, e gemer l'acque,</l>
+<l>E muggir le caverne, e urlare i colli.</l>
+<l>Tolga maisempre il ciel da noi sì amari</l>
+<l>E miserandi danni, a' quai non puote</l>
+<l>Uman consiglio opporsi, e che di rado</l>
+<l>Permette l'alta Providenza eterna,</l>
+<l>Benché spesso ne sia da' nostri errori</l>
+<l>E gravi falli provocata e spinta.</l>
+<l>Ma qual rimedio, dico, è sì potente,</l>
+<l>Che prescriva il furor d'empie procelle,</l>
+<l>Quando dagli occhi nostri un nembo oscuro</l>
+<l>Rapisce il giorno e 'l sole, e par ch'avampi</l>
+<l>L'aria fosca vie più che orror d'inferno,</l>
+<l>E freme il tuono fra baleni e fiamme,</l>
+<l>O ver quando di schioppi e di bombarde</l>
+<l>Il ciel ribomba, sì che il degno verme</l>
+<l>Non lasci per timor la bella luce?</l>
+<l>Altro nol campa, e da improviso strazio</l>
+<l>Altro non l'assicura, onde non pera,</l>
+<l>Che 'l dolce canto in lascivette note</l>
+<l>Di voi fanciulle amanti, e i grati accenti</l>
+<l>Temprati a prova al suon de le canore</l>
+<l>Corde del dolce et accordato plettro.</l>
+<l>Forse perché rimembra il vago tempo</l>
+<l>Ch'Amore il tenne sotto il giogo antico,</l>
+<l>In sì spietato nodo, ch'a gran pena</l>
+<l>Pascer potea ne la sua donna amata</l>
+<l>I famelici sguardi; e lui concesso</l>
+<l>Non era il far di sue noiose cure</l>
+<l>Con ragionar lei certa, onde col suono</l>
+<l>E col pietoso canto al queto raggio</l>
+<l>De le benigne stelle avea costume</l>
+<l>Spiegar le pene e gli amorosi ardori;</l>
+<l>E la secreta e fida aura notturna</l>
+<l>In grembo accolte alor l'accese tempre,</l>
+<l>Al loco ove giacea Tisbe, ancor essa</l>
+<l>Di pari pena offesa e d'amor vinta,</l>
+<l>Lusingando il riposo, per l'amico</l>
+<l>Silenzio traea seco: e quivi scosso</l>
+<l>Il debol sonno e infermo a la donzella,</l>
+<l>Dirle solea: Deh, stolta, omai non odi</l>
+<l>Del bel Piramo tuo l'alte querele?</l>
+<l>Ecco ch'a te le reco, e nel tuo seno</l>
+<l>Tutte le verso, or tu lieta le accogli.</l>
+<l>Ed ella pronta ad accettarle, in quelle</l>
+<l>L'alma nutriva e 'l cor fra speme e doglie.</l>
+<l>O forse a' seri fia giocondo e grato</l>
+<l>Il soave concento, alta sembianza</l>
+<l>Porgendo lor de l'armonia che fanno</l>
+<l>Tra lor volgendo le celesti sfere,</l>
+<l>E quanto fu dal gran Prometeo ordito,</l>
+<l>Dal basso e oscuro centro a l'alto solio</l>
+<l>Ov'egli eterno siede, eterno splende;</l>
+<l>E luogo alcun nol cape, e giusto e santo</l>
+<l>Dà legge al tutto, il tutto regge, e gode</l>
+<l>L'opre de la mirabil sua possanza,</l>
+<l>Che con incomprensibil moto e tempo,</l>
+<l>E sì vaga misura, ai poli in giro</l>
+<l>Vansi con armonia volgendo intorno.</l>
+<l>Suona di chiari accenti e di beati</l>
+<l>Carmi, e rissuona la celeste reggia;</l>
+<l>Poscia col suo splendor puro s'involve</l>
+<l>Il bel cristallo, indi il gemmato cerchio</l>
+<l>Di stelle gli altri scorge, e ratto gira:</l>
+<l>Ivi il Monton di Colco incontro vede</l>
+<l>Sorgere il Tauro, ch'a battaglia appella</l>
+<l>I gemelli di Leda, a cui vien dietro</l>
+<l>Il Cancro; e con la sparsa orrenda chioma</l>
+<l>Segue il Cancro il Leon, e 'l Leon segue</l>
+<l>La saggia Astrea, con l'equa Lance appresso,</l>
+<l>Che l'ore al giorno et a la notte agguaglia,</l>
+<l>E seco trae lo Scorpio, a la cui coda</l>
+<l>Chiron minaccia di saetta, e tende</l>
+<l>Sì forte l'arco, che col braccio tange</l>
+<l>De la capra Amaltea le corna; e versa</l>
+<l>Acquario l'urna, e dal bel rio corrente</l>
+<l>Sorgon guizzando i Pesci, et a l'Ariete</l>
+<l>Giunti, chiudon del Sol l'aurata zona;</l>
+<l>Ivi splende Cefeo, et ivi Orione,</l>
+<l>Di ferro armando la feroce destra,</l>
+<l>Preme il dorso a la Lepre, e un Cane e l'altro</l>
+<l>Guarda il Sentier di latte, e con i remi</l>
+<l>Solca degli Argonauti onusta Nave</l>
+<l>Del suo viaggio i bei cerulei campi.</l>
+<l>Là Pegaso si spazia, e là pur giunse</l>
+<l>Teseo Arianna, e 'l gran Pitone, e 'l Serpe,</l>
+<l>Calisto e 'l figlio, e 'l fortunato Alcide,</l>
+<l>Et altri semidei famosi e degni,</l>
+<l>Che col rapido corso insieme insieme</l>
+<l>Rapiti anco ne sono; e sotto questi</l>
+<l>Ruota lento Saturno, e con più tardo</l>
+<l>Passo va Giove, e Marte, e più di loro</l>
+<l>Incede pigro Apollo, appresso al quale</l>
+<l>Venere bella scorre, e 'l nunzio alato</l>
+<l>L'orme sue preme, e le di lui la Luna</l>
+<l>Calca, facendo al zoppo fabro scorta,</l>
+<l>Che pur trascorre la gelosa Giuno;</l>
+<l>Giuno, che il moto have interrotto e volve</l>
+<l>Il regno di Nettuno, a cui soggiace</l>
+<l>Di Proserpina fermo il grave seggio:</l>
+<l>E son tra lor con tal misura e modo</l>
+<l>Disposte le divine alte sembianze,</l>
+<l>E sì concordi, che mirabil suono</l>
+<l>Rendon, se bene udirlo a noi ne vieta</l>
+<l>La gran distanza, et il terreno incarco.</l>
+<l>Pur si pasce lo spirto, e nutre l'alma</l>
+<l>Del dotto suon, che viva imagin porge</l>
+<l>Di quella eterna proporzione e vaga</l>
+<l>Che il tutto orna, produce, e noi governa:</l>
+<l>Onde s'è lieto il cor, più si rallegra,</l>
+<l>E la mente rapisce, e innalza i sensi.</l>
+<l>S'è mesto e langue, il riconforta e fura</l>
+<l>Da passion che l'ange, e lo sottragge</l>
+<l>Al duol che grave il preme: onde rinchiuso</l>
+<l>Canta l'afflitto prigioniero, e canta</l>
+<l>L'avaro zappator, quando è più stanco;</l>
+<l>Con rozze note i naviganti vanno</l>
+<l>Obliando il mal de le tempeste e i stenti,</l>
+<l>Con le stridenti avene il pastor lasso</l>
+<l>Molce il travaglio e dà diletto al gregge;</l>
+<l>Frenò il dolor con l'incurvata lira</l>
+<l>Il forte eroe per la rapita ancella,</l>
+<l>E con la lira Orfeo pianse due volte</l>
+<l>La sua Euridice, e 'l pernicioso sguardo.</l>
+<l>Sol con quest'arte, e non con altro aiuto,</l>
+<l>Cinse Anfion di mura alte e superbe</l>
+<l>L'antica Tebe; e 'l buon pastor di Tracia</l>
+<l>Mosse a pietà l'inessorabil Parche</l>
+<l>E la diletta moglie ancor ottenne;</l>
+<l>Arion fuggì su le guizzanti squamme</l>
+<l>Degli avari nochier perfide mani.</l>
+<l>Così dolce cantar fia grato ai seri</l>
+<l>Quando l'aria si turba, e quando è piena</l>
+<l>Di strepitoso orror che il mondo assorda:</l>
+<l>Ma se fien egri ancor li giova, e 'n vita</l>
+<l>Spesso li serba. Onde Terpando illustre</l>
+<l>Non con amari suchi, ma col suono</l>
+<l>Degli accordati nervi, a mille infermi</l>
+<l>Recò salute: e di conforme effetto</l>
+<l>Fede ne puoi tu far, gran DUCE CARLO,</l>
+<l>Che sai quante fiate al cor tuo oppresso</l>
+<l>Da grave intensa cura e da noiose</l>
+<l>Some, a la mente tua canuta e stanca,</l>
+<l>Non copia d'oro, di cittadi e regni,</l>
+<l>Non ostro e nobil servi alti e sublimi</l>
+<l>Furo d'alcun restauro, ma in private</l>
+<l>Mura, del saggio Benedetti, a cui</l>
+<l>Non è del ciel nascosta alcuna parte,</l>
+<l>I dotti tasti, e la soave lira</l>
+<l>Del nobil Ferabosco, e con la cetra</l>
+<l>Vitalbero gentile, e 'n chiari accenti</l>
+<l>Dolce cantar di Gabriel, il nembo</l>
+<l>De' più cupi pensier dal grave seno</l>
+<l>Sgombraro; e quando egro giacevi (ahi lutto</l>
+<l>Crudel de' tuoi, che Dio ne tolga!) in preda</l>
+<l>Quasi de l'empio fato, il dolce canto</l>
+<l>Di loro, e melodia grata e soave,</l>
+<l>Più di qual altra preziosa manna</l>
+<l>O bevanda salubre, a la languente</l>
+<l>Salma tornaro i già smarriti spirti,</l>
+<l>Onde ancor lieto vivi, e vive insieme</l>
+<l>La gloria tua con opre eccelse e nove.</l>
+<l>E se ben nullo morbo o rea sciagura</l>
+<l>I nostri seri preme, have il diletto</l>
+<l>Del bel concento tal virtute e tale</l>
+<l>Forza, che più giocondi e più animosi</l>
+<l>Pascon le foglie, e con più ardire i rami</l>
+<l>Salir li vedi, e dispiegarvi il frutto:</l>
+<l>Come il clangor della sonora tromba,</l>
+<l>Cantando a l'arme, a l'arme in un momento</l>
+<l>Desta le schiere, e pronto ogni pedone</l>
+<l>E cavalier s'appresta a la battaglia;</l>
+<l>E 'l pellegrin da gran viaggio stanco,</l>
+<l>Mentre ode Filomena il duolo antico</l>
+<l>Con pianti ir rinovando, in parte oblia</l>
+<l>La noia e 'l mal del trapassato calle,</l>
+<l>E rinfranca la lena, e 'l camin segue.</l>
+<l>Vidi ancor io sovente in aria schiera</l>
+<l>D'api fermarsi al suon d'alpestri note</l>
+<l>E di rozzi tintinni, onde allettate</l>
+<l>Posaro al fin negli apprestati alberghi.</l>
+<l>Or s'egli avvien ch'empia fortuna ai seri</l>
+<l>Con occulta cagione ardisca opporsi,</l>
+<l>Onde poi cruda li percuota, e l'aura</l>
+<l>Fresca non vaglia, o 'l chiuso foco o 'l canto</l>
+<l>A franger l'ire e gli aspri suoi furori,</l>
+<l>Ma alcun ne scorgi or aborrire il cibo,</l>
+<l>Or aggirarsi mesto, or d'atro umore</l>
+<l>Immondo e molle, or ingrossarsi e 'l corpo</l>
+<l>Di livido splendor farsi lucente,</l>
+<l>Funebre segno, accolga entro le guancie</l>
+<l>Pura fanciulla il buon liquor di Bacco,</l>
+<l>O distillato vino, o forte aceto</l>
+<l>Misto con odorata acqua di rose,</l>
+<l>E quello sparga sopra il degno gregge</l>
+<l>Col grato vento, che spirando apporti</l>
+<l>Per l'aria un rugiadoso e sparso nembo,</l>
+<l>Che lieve cada, e lieve inaffii e bagni,</l>
+<l>Iterando l'ufficio almen tre volte,</l>
+<l>Da che richiama il bel nascente raggio</l>
+<l>A l'opre ogni animal ch'in terra alberga,</l>
+<l>Sin che sorga la notte, e 'n su la faccia</l>
+<l>De la terra distenda il nero manto.</l>
+<l>Né siate pigre ancor, vaghe donzelle,</l>
+<l>Tosto che del lor mal vi sete accorte,</l>
+<l>A separar dai sani i vermi infetti,</l>
+<l>Perché di questi il mal non porti agli altri</l>
+<l>Divoratrice peste; e pria che ingombri</l>
+<l>Più grave orror di morte il gregge caro,</l>
+<l>E per salvar degli egri anco una parte,</l>
+<l>Con arte industre e più efficace aiuto</l>
+<l>Mobil letti di legni avrete pronti,</l>
+<l>Fregati pria col suco e con le frondi</l>
+<l>D'abrotano, di menta, e ruta, e incenso,</l>
+<l>In cui vien che si ponga il sero infermo</l>
+<l>Immantinente, e di salubre pioggia,</l>
+<l>Come già detto abbiam, sovente asperso;</l>
+<l>Se fia propizio il cielo, e la stagione</l>
+<l>Serena e queta, al novo sol lo mostri,</l>
+<l>Quando parte è già fuor dai lidi Eoi</l>
+<l>E parte è ancor ne l'onde chiuso, e tanto</l>
+<l>Godere il lasci il vago aurato lume</l>
+<l>Quanto coi suoi corsier salendo Apollo</l>
+<l>Del camin segna la centesma parte.</l>
+<l>O ver locar i letti a l'ombre fresche</l>
+<l>Potransi, ove dolce aura intorno spiri,</l>
+<l>Che molti si trarran da l'omicida</l>
+<l>Fauce di Flegetonte, e il popol tutto</l>
+<l>Non fia per questi in gran periglio e danno,</l>
+<l>Ch'in disparte fur posti; il che far suole</l>
+<l>Il bon pastor che dal copioso armento</l>
+<l>Languente pecorella o infermo bue</l>
+<l>Bandisce, acciò che non corrompa e ammorbi</l>
+<l>Tutto il presepe e 'l numeroso ovile.</l>
+<l>E 'l signor saggio, e 'l genitore accorto,</l>
+<l>Cui non preme minor zelante cura</l>
+<l>Del popol caro e del suo figlio amato,</l>
+<l>Soglion sgombrar di viziosi spirti</l>
+<l>D'uomin perversi e di compagni infidi</l>
+<l>Il pacifico albergo e 'l queto seggio.</l>
+<l>Qual vizio e qual furor non mostra e adduce</l>
+<l>Sfrenata schiera, e 'l conversar lascivo</l>
+<l>Ne l'egregie cittadi e in umil tetti</l>
+<l>Fra la pieghevol gioventute, e quale</l>
+<l>Non trae d'imperi e case alta ruina!</l>
+<l>Vidi talor dai rosseggianti frutti</l>
+<l>Del moro e da le bacche acre o mature</l>
+<l>De' gelsi accolto aspro mortal veleno,</l>
+<l>Mentre quelli pascea l'incauto verme,</l>
+<l>Ch'inaveduta mano o poco esperta</l>
+<l>Lui porse con le frondi; e per fuggire</l>
+<l>Error sì infausto, quando i gelsi e i mori</l>
+<l>Sale turba servil per côrre il cibo,</l>
+<l>Prenda le foglie solo, e lasci ai rami</l>
+<l>Nutrire a miglior uso il dolce carco;</l>
+<l>E se pur male accorta ella ne reca</l>
+<l>Fra le confuse foglie alcuni ascosi,</l>
+<l>Non vi sia grave, o donne, a prova accôrle</l>
+<l>Ne' vostri grembi, e dal non sano pasto</l>
+<l>Purgarle; o per minor pena e travaglio,</l>
+<l>Prender potreste ancor l'istesse reti</l>
+<l>Ch'usano i cacciatori in stoppie e prati</l>
+<l>A far preda di starne e coturnici,</l>
+<l>E quelle, in compartito ufficio, alcune</l>
+<l>Stese di voi tenendo in alto, l'altre</l>
+<l>Vadan sopra spargendo a piene mani</l>
+<l>Le colte frondi; e sottosopra spesso</l>
+<l>Volte e rivolte, al fin, scuotendo, al suolo</l>
+<l>Cader vedransi i frutti a' seri ingrati</l>
+<l>(Quai pur serbarsi ponno a far liquore</l>
+<l>Per l'infocate fauci), e sol le foglie</l>
+<l>Monde restar su la nodosa rete,</l>
+<l>Per far poscia di quelle agli umil seri</l>
+<l>Pregiato dono in più sicure mense.</l>
+<l>E d'invischiar dal basso al sommo ai gelsi</l>
+<l>Giova gli antichi steli ov'ha l'albergo</l>
+<l>Stuol di formiche, acciò che in serie lunga</l>
+<l>Non s'appressino ai rami, e non sien tratte</l>
+<l>Con le raccolte foglie al gregge in mezzo.</l>
+<l>Con grave studio ancor vien che s'asciughi</l>
+<l>Fra mondi lini la raccolta fronda,</l>
+<l>Quand'ella fosse da rugiada aspersa</l>
+<l>O d'umor salso molle, ond'altro tosco</l>
+<l>Ministrasse la man che nutre il verme:</l>
+<l>Però forza è indugiar tanto che 'l giorno</l>
+<l>S'apra, e rasciughi il sole i fiori e l'erbe</l>
+<l>Dal pianto de l'Aurora, o da le stille</l>
+<l>Che notturna Giunon versate avesse.</l>
+<l>Curi poi l'alto Dio ch'invida voglia,</l>
+<l>Core aspro, e fiera mano, i gelsi e i mori</l>
+<l>Di corrotto liquor non tinga e bagni,</l>
+<l>Sì che 'l bel gregge, col venen celato</l>
+<l>Nel cibo, a sé medesmo occaso apporte.</l>
+<l>E perché ad or ad or dett'ho confuso</l>
+<l>De' mori e gelsi il nome in queste carte,</l>
+<l>Forse pensar potrete che di quelli</l>
+<l>Confusa dar la fronde ancor vi lodi,</l>
+<l>Et accusarmi ancor ch'io non distingua</l>
+<l>Qual d'ambe soglia ai seri esser migliore.</l>
+<l>Però dir mi convien ch'intorno a questo</l>
+<l>Varie son più che fior l'opinioni,</l>
+<l>Chi al ver s'accosta, chi sen parte et erra;</l>
+<l>Onde più l'una usar che l'altra pianta</l>
+<l>Già non vi caglia, ma qual più v'aggrada,</l>
+<l>Per molta prova, e di che abbonda il loco,</l>
+<l>Quella s'elegga: e vidi anco talvolta</l>
+<l>Ai seri dar nei primi giorni il moro,</l>
+<l>Indi a l'adulta età mutarli l'esca,</l>
+<l>E de' gelsi nutrirli; e quando il tempo</l>
+<l>Al bel lavor chiamava il gregge, alora</l>
+<l>Di moro anco ingombrar l'ultime mense.</l>
+<l>Ma più sicuro, e più fedel consiglio</l>
+<l>Tengh'io, che fuor di quella prima etade</l>
+<l>Cui non nuoce variar l'esca di frondi,</l>
+<l>Purché si pasca il verme, alcun non cangi</l>
+<l>Questa per quella foglia, ma a chi diede</l>
+<l>Prima de' gelsi il cibo, ognor di gelsi</l>
+<l>Insino al fin gli pasca; et a chi i mori</l>
+<l>Volse prima assegnar, mori dispensi:</l>
+<l>Poiché fermo si tien che 'l mutar pasto</l>
+<l>Gli animali travagli, anzi gli uccida.</l>
+<l>Com'anco gli avverrà, se da' bei rami</l>
+<l>Pargoletti rampolli e nuovi germi</l>
+<l>Cogliendo, incauta man gli pone avanti:</l>
+<l>Fur questi naturale esca e gradita</l>
+<l>Nei primi giorni lor, ch'ai nuovi corpi</l>
+<l>Convenia più sucoso e molle cibo;</l>
+<l>Ma poi che lasciat'han le cune e i vezzi,</l>
+<l>Tal vivanda si vieta, acciò che 'l gregge,</l>
+<l>Fatto dal buon sapor voglioso e ingordo,</l>
+<l>Troppa fronde non pasca, e 'l ventre carchi</l>
+<l>D'insoportabil pondo, e non ne segua</l>
+<l>Danno a le piante, e danno insieme a' seri.</l>
+<l>Morir vedransi ancor, se 'l grasso umore</l>
+<l>In che l'amara uliva si trasforma</l>
+<l>Sotto il pesante sasso in alcun modo</l>
+<l>Sovra di lor cadesse, o l'olio ingrato</l>
+<l>Nei lauti cibi de la noce insana,</l>
+<l>In cui fatto s'avea l'albergo il tarlo,</l>
+<l>Liquor che dona il nutrimento al lume</l>
+<l>D'affumicata lampa al verno, mentre</l>
+<l>Schiera di donne umili, oprando l'ago</l>
+<l>Od il telare o 'l fuso, il sonno inganna,</l>
+<l>E de le lunghe notti in parte passa</l>
+<l>L'ore noiose, onde si cuopra, e nutri</l>
+<l>Di sue fatiche i pargoletti figli.</l>
+<l>E vidi anco restar più volte i seri</l>
+<l>Gravemente storditi, in preda a Lete,</l>
+<l>Vinti dal forte odor d'aglio o cipolle,</l>
+<l>Di che avea poco dianzi ingorda fame</l>
+<l>Cacciata altrui, ch'a la vil mensa incolta,</l>
+<l>Dal suo fresco giardin, semplici e vaghi</l>
+<l>Portati i cibi avea d'erbe e d'aggrumi;</l>
+<l>O di voi forse, amate donne, alcuna</l>
+<l>Cui giovi rimembrar le parche cene</l>
+<l>De l'età prisca, alor che l'alte quercie</l>
+<l>Nutrian senza sudor gli antichi padri,</l>
+<l>Né svenar si solea la damma o 'l tauro,</l>
+<l>Né far del ventre uman sepolcro indegno</l>
+<l>Ai pesci, a l'umil fere, ai pinti augelli;</l>
+<l>E non temea la gente al commun orto</l>
+<l>Di siepe cinto chi 'l suo caulo o 'l pomo</l>
+<l>Furasse, e 'l letto era ne l'erba, e 'l cielo</l>
+<l>Ogni animal copria benigno e chiaro:</l>
+<l>Giunge ratto il vapor, che grave spira</l>
+<l>E grave olezza, a la più nobil parte</l>
+<l>Del vostro verme; indi si sparge e serpe,</l>
+<l>Qual ria cicuta, a le più interne e ascose,</l>
+<l>Ove il vitale umor corrotto estingue.</l>
+<l>Vostra cura fia dunque, accorte donne,</l>
+<l>E più di voi, donzelle ai seri amiche,</l>
+<l>Di non solo lasciar per questo tempo</l>
+<l>(Che sete al gran servigio assidue e intente)</l>
+<l>Gli agresti cibi, ma con occhio accorto</l>
+<l>Veder che stolta fante o rozza ancella</l>
+<l>Al degno gregge non s'accosti, o porti</l>
+<l>Lucerne o lumi intorno, ove l'olio arde:</l>
+<l>E per queste, e per molte altre cagioni</l>
+<l>Non siate a ciaschedun dolci e cortesi,</l>
+<l>Ch'i donneschi lavor veder procuri,</l>
+<l>Di condurlo al presepe, e di mostrarli</l>
+<l>Liete ch'indarno a voi non passi il tempo,</l>
+<l>E narrar la cagion che d'anno in anno</l>
+<l>V'ha doppiato de' seri il nobil frutto;</l>
+<l>E di questo e di quel, di tempo in tempo</l>
+<l>Ogni cosa contar che torni in mente:</l>
+<l>Siate nel ragionar prudenti e scarse,</l>
+<l>E mirate qual passo, e volto, e voce,</l>
+<l>Qual occhio, e 'n ricercar qual modo osservi.</l>
+<l>Noto non v'è quanto sia scorta e scaltra</l>
+<l>Talor non conosciuta vecchiarella?</l>
+<l>Che con parlar facondo e lusinghiero,</l>
+<l>Maisempre i più devoti e santi nomi</l>
+<l>In bocca avendo, al finger pronta, ha dentro</l>
+<l>Pieghevoli costumi e vario ingegno,</l>
+<l>Con cui fa male il bene, e 'l mal dimostra</l>
+<l>Aperto bene? e con mille arti e modi</l>
+<l>Cerca dal bel sentier le menti caste</l>
+<l>Distôrvi, o fare ai seri e a l'opre vostre</l>
+<l>Acerbo danno et impensato oltraggio?</l>
+<l>Sì che del lor parlar bugiardo e finto</l>
+<l>Più non vi caglia che di folto stormo</l>
+<l>D'augei loquace, e de la stanza il passo</l>
+<l>Chiuso tenete a sì proterva gente,</l>
+<l>Ch'a le fauci d'Averno e d'Acheronte</l>
+<l>Spesso conversa, e a l'acque stigie intorno</l>
+<l>Spesso s'aduna, ond'ella prende il nome.</l>
+<l>Suol questa unirsi in solitarii luoghi</l>
+<l>Ove il sol non risplende, e dove adombra</l>
+<l>Maisempre notte et infernal orrore,</l>
+<l>E caligine e nube, e in alti boschi</l>
+<l>Ove armento non pasce, e gregge a l'ombre</l>
+<l>Pastor non guida, e 'l peregrin, da lunge</l>
+<l>Passando, il loco infausto a dito mostra:</l>
+<l>Ivi mentre la notte i campi immensi</l>
+<l>Del ciel cuopre con l'ali oscure, e 'l sonno,</l>
+<l>Ozio de l'alme, oblio de' mali, i sensi</l>
+<l>Lusingando rapisce a ogni vivente,</l>
+<l>Questa d'ogni mal vaga e immonda setta,</l>
+<l>Innanzi al suo Signor, cui fatta è serva,</l>
+<l>Parte a piè si riduce, e parte tratta</l>
+<l>Da spirti erranti in varie orribil forme,</l>
+<l>Di centauro, d'arpia, di sfinge e d'idra,</l>
+<l>D'irco, di drago, e d'altre fere e mostri,</l>
+<l>A li profani balli, ai rei conviti,</l>
+<l>Et a perverse e detestabil nozze</l>
+<l>Di fallaci sembianze, inique e vane,</l>
+<l>Che sotto imago or d'uno or d'altro sesso</l>
+<l>Scelerato diletto in sozzi modi</l>
+<l>Danno, seco allettando ogn'empia voglia,</l>
+<l>Di Cocito i ministri; orrenda schiera,</l>
+<l>Che da l'eterne stelle al tetro abisso</l>
+<l>Precipitar giù i fulmini tonanti.</l>
+<l>E quando parte dal concilio infame</l>
+<l>Con lividi occhi di furore accesi,</l>
+<l>Empie l'aria di peste, e ovunque passa</l>
+<l>Fuggon gli augelli, e le selvaggie fere</l>
+<l>Vedi ridursi in più solinghe grotte,</l>
+<l>E 'l bel verde sparir dai lieti campi,</l>
+<l>E seccar gli arboscelli e morir l'erbe,</l>
+<l>Infin dove il suo duce impone, e dove</l>
+<l>La spinge invida voglia o di vendetta</l>
+<l>Ingorda, e accesa sete, o fiero orgoglio</l>
+<l>Con orribil potenza e forze maghe:</l>
+<l>Disperde il parto a l'infelice madre,</l>
+<l>Il latte di rio tosco asperge, e 'l corpo</l>
+<l>Al tenero bambin disrompe e snoda</l>
+<l>In varie guise; e di consorti amanti</l>
+<l>Il toro congiugal turba; e procelle</l>
+<l>Fra la sposa e 'l marito, e 'l padre e 'l figlio,</l>
+<l>E la suora e 'l fratel mesce; e le case</l>
+<l>Di ruina e d'orror empie, e di lutto:</l>
+<l>Così col guardo, e suffumigi, e carmi,</l>
+<l>Disperder può de' seri e vita ed opra,</l>
+<l>E fabricar novi e inuditi inganni,</l>
+<l>Oprando ogn'arte acciò che vostra speme</l>
+<l>Nel più bel pera, onde s'opprima in voi</l>
+<l>Da schernito pensier cura sì ardente.</l>
+<l>Ma perché, oltre il guardar l'amato gregge</l>
+<l>Da tanti mali, e proveder sovente</l>
+<l>Che nulla infirmità gli faccia offesa,</l>
+<l>Soviemmi ancor ch'ai seri umili e cari</l>
+<l>Una volta il digiun più danno reca</l>
+<l>Che mille ogn'altro morbo, or dirvi intendo</l>
+<l>Com'empia fame in mille guise e modi</l>
+<l>(Colpa forse di voi) gli annoi e prema,</l>
+<l>E quanto far si deggia, acciò che oltraggio</l>
+<l>Da lor fugga sì infausto; o almen perdono</l>
+<l>Lecitamente a voi ne venga, e 'l fato</l>
+<l>Solo s'accusi, e del soverchio affanno</l>
+<l>Ch'al pregiato lavor rinchiude il passo,</l>
+<l>Fia la cagion del ciel, né altrui s'ascriva.</l>
+<l>Sappi dunque ciascuna, o per consiglio</l>
+<l>Di chi n'è dotto, o per suo proprio aviso,</l>
+<l>Quanto ai gelsi che tien nel bel suo campo</l>
+<l>O nel vicin terreno a nutrir basti</l>
+<l>Inanimato seme, e quanta fronda</l>
+<l>Vada a pascer da quella i nati vermi;</l>
+<l>Acciò non venga a voi com'a quel duce,</l>
+<l>Che senza aver riguardo al parco vitto,</l>
+<l>Molta schiera di gente entro la rocca</l>
+<l>Aduna, e sostener, folle, si crede</l>
+<l>Di potente avversario assedio lungo.</l>
+<l>E se ben sieno assai, com'altri estima,</l>
+<l>Dodici piante a un'oncia di quel seme,</l>
+<l>Pur di lasciar vi essorto in ogni caso</l>
+<l>Tanti alberi di più, che ancor si vaglia</l>
+<l>Dare al terzo di quello esca bastante.</l>
+<l>Se poi da la semenza i chiusi seri</l>
+<l>Vengono al mondo, o per calor del sole</l>
+<l>Ch'a l'uscita del verno oltre l'usato</l>
+<l>Cocenti spanda i raggi, o ver ch'in parte</l>
+<l>Fosse da voi tenuta, ove da presso</l>
+<l>Da l'immaturo germe altro fervore</l>
+<l>D'ardenti fiamme abbi i vitali spirti</l>
+<l>Per forza desti, anzi che avesse il moro</l>
+<l>Spuntate fuor le prime gemme, alora</l>
+<l>Pascer convien l'intempestivo parto,</l>
+<l>Perché danno maggior non segua a questo,</l>
+<l>Con altre gemme d'olmo, o con novelle</l>
+<l>Foglie d'ortica, o bieta, o di latuche;</l>
+<l>Sin che rivesta il ciel l'usata pianta</l>
+<l>Del vago onore, e de l'amiche frondi.</l>
+<l>Più volte suole ancor Giunon superba</l>
+<l>E gelosa, scuotendo umido il lembo,</l>
+<l>O versando acqua accolta in duro gelo,</l>
+<l>Improvisa apportar fame al bel gregge;</l>
+<l>Cui forza fia negar, quand'ei più brama,</l>
+<l>Il dolce cibo, o perché umida e molle</l>
+<l>La fronde sia, o perché i rivi e i fiumi</l>
+<l>Adeguando talor l'Eufrate e 'l Nilo</l>
+<l>Vincono argini e ripe, e 'n copia tale</l>
+<l>Versa l'acque importune il nembo oscuro,</l>
+<l>Che per buon pezzo altrui vieta allargarsi</l>
+<l>Dal chiuso albergo, e verso i campi andarne</l>
+<l>Per isfrondar le piante e i verdi rami</l>
+<l>De l'ampia possession poste in disparte;</l>
+<l>O perché il gran furor del cielo irato</l>
+<l>Col rabbioso spirar di venti e d'acque</l>
+<l>Svelte ha le piante, e franti i rami, e scosse</l>
+<l>Le lievi foglie: onde fia ben ch'appresso</l>
+<l>Al loco ove a tal cura e studio attendi,</l>
+<l>Anzi del tetto a qualche lato intorno</l>
+<l>Ch'Aquilon fugga, aver parte de' gelsi</l>
+<l>Da sì gran mal sicuri; e questi dènno</l>
+<l>Serbarsi a tal bisogno, e non spogliarli</l>
+<l>De l'alte chiome lor sino a l'estremo.</l>
+<l>O ver pria che si oscuri il cielo e ingombri</l>
+<l>Di folte nubi, al solitario bosco</l>
+<l>Vada stormo di gente, e 'l forte dorso</l>
+<l>Con sacchi e lievi corbe e con fiscelle</l>
+<l>Prema, e 'l pigro asinel seco abbia onusto</l>
+<l>Di frondi asciutte, acciò che l'ampio ovile</l>
+<l>Resti d'esca munito insin ch'Apollo</l>
+<l>Sgombri i venti e le nubi, e 'l ciel rischiari;</l>
+<l>Che in quantità serbar per duo o tre giorni</l>
+<l>Puotrassi, pur ch'in cave ella si metta</l>
+<l>Ove acqua non ristagni o stilli, e 'l raggio</l>
+<l>Solar non giunga, e sopra i deschi stesa</l>
+<l>Sia al vespro, e sia al mattin volta e rivolta.</l>
+<l>Quanti e quanti prodigi il sommo Padre</l>
+<l>Che 'l ciel regge e governa al suo buon seme</l>
+<l>In terra posto ha dato, onde provegga</l>
+<l>Quel che tragge il mattin, ch'Espero adduce!</l>
+<l>E ciò non sol con l'arte infusa e data</l>
+<l>A mente più sublime, acciò che intenda</l>
+<l>De le stelle il valor, che muove il mondo;</l>
+<l>Non sol per l'osservar con longa prova</l>
+<l>La malizia e bontà di quella e questa,</l>
+<l>Né tanto col saper chi scenda o monti</l>
+<l>Dei lumi erranti e de l'imagin fisse,</l>
+<l>Ch'a' primi tempi già vide la gente,</l>
+<l>Quando avea il ciel capanna, e terra il letto;</l>
+<l>Né sempre col mirar fra carte e libri</l>
+<l>Se guardi irata Delia o se benigna</l>
+<l>Il fiero dio ch'i propri figli inghiotte,</l>
+<l>Se il padre o Marte o 'l suo fratel vicino,</l>
+<l>Se inver Ciprigna o 'l messaggier di Giove,</l>
+<l>Qual sede fra lor sia, qual faccia, e quale</l>
+<l>Congiungimento, aspetto, e forma e moto:</l>
+<l>Ma da la terra e quel ch'essa produce,</l>
+<l>Da le selvaggie fere, e da' animali</l>
+<l>Ch'umili rende a noi natura od arte,</l>
+<l>Da l'acqua e l'aria, e dai più noti lumi</l>
+<l>Che parturio Latona e 'l cielo accolse,</l>
+<l>Lasciato ne ha benigno alti segnali,</l>
+<l>Onde ci venga noto il suo pensiero,</l>
+<l>Tanto avvanti al seguir, che ben si puote</l>
+<l>Gravi oltraggi schivar da chi gli ha cura.</l>
+<l>Così da' più communi e usati segni</l>
+<l>Certo presagio aver solete, o donne,</l>
+<l>Quando sia per turbar le selve e i campi</l>
+<l>L'acqua improvisa, il vento, e la tempesta.</l>
+<l>Vedrà s'Aquilon s'arma a farci guerra</l>
+<l>Semplicetta donzella a l'ore oscure,</l>
+<l>Sotto al suo tetto intenta a l'opra e al canto,</l>
+<l>Traendo a la conocchia il crine incolto</l>
+<l>Con la sinistra man, che spesso bagna,</l>
+<l>Mentre l'altra l'avvolge intorno al fuso,</l>
+<l>E ascender mira il nutritivo umore</l>
+<l>Che 'l lucignol del lume in cima ingombra</l>
+<l>Di putrefatto e picciol fungo in guisa,</l>
+<l>Che spesso dal lavor la sturba e chiama</l>
+<l>Con la festuca a rischiarar la fiamma:</l>
+<l>Ch'offuscata scintilla, e 'l gran nimico</l>
+<l>De' sorci anch'ei gli accenna il dì piovoso,</l>
+<l>Quando al foco vicin si liscia il capo,</l>
+<l>E caligine densa in copia molta</l>
+<l>Fumicato camino a terra spande.</l>
+<l>Vede ancora il pastor vegnente pioggia</l>
+<l>Qualor la grue da le palustri valli</l>
+<l>Al ciel s'innalza, e la formica avara</l>
+<l>Corre con lunga schiera al picciol antro</l>
+<l>O fuor l'uova ne tragge. E con l'immonda</l>
+<l>Bocca il lordo animal che cerer placa,</l>
+<l>Or di cenci, or di fien sciogliendo i fasci,</l>
+<l>Gli getta in alto, et ei s'allegra e salta.</l>
+<l>Ode anco rissonar l'alpestre selve</l>
+<l>D'alto rumor d'Euro, di Coro, e Noto.</l>
+<l>Non men s'inganna ancor rozzo bifolco</l>
+<l>Di ricondur l'armento a l'ampie stalle,</l>
+<l>Pria che ben sazio sia, mentre s'accorge</l>
+<l>Che 'l bue, levando al ciel la fronte, accoglie</l>
+<l>L'aura con ampie nari, o che lampeggia</l>
+<l>La parte d'Aquilon fra tuoni e nembi;</l>
+<l>O pur la crudel figlia il padre Niso</l>
+<l>Segue più fiero ognor, per far vendetta</l>
+<l>Del tolto crin sopra il suo sangue ingiusto.</l>
+<l>Il pescator non bada anch'ei più al lito,</l>
+<l>Né ai stagni intorno, ai laghi, ai rivi e ai fiumi,</l>
+<l>Ma se ben potea far più ricca preda,</l>
+<l>Con sollecita man le reti avolge,</l>
+<l>Sian piene o vuote, e 'n ver l'umil casetta</l>
+<l>Vanne veloce e quelle porta, alora</l>
+<l>Ch'ogni marino augello o ch'aggia stanza</l>
+<l>In laghi e fiumi, or su minute arene</l>
+<l>Scherza giocondo, or sotto l'acque il capo</l>
+<l>Tuffando bagna il sen con gioia e speme</l>
+<l>Di presto umor, che per lavarsi attende;</l>
+<l>E quando la cornacchia impura vede</l>
+<l>Che sola seco spazia in secca sabbia,</l>
+<l>O ver tra giallo e smorto a le prim'ore</l>
+<l>Del giorno il celeste arco a bever l'onde</l>
+<l>Per riversarle tosto, o ver se 'l mergo</l>
+<l>Dal mar con più stese ali al lito il volo</l>
+<l>Ratto rivolge, e de' suoi rauchi gridi</l>
+<l>Riflette il flebil suono ogn'antro e scoglio;</l>
+<l>Né mai fallace gli è la schiera immonda</l>
+<l>Di folache in fra lor vaganti in secco,</l>
+<l>Né lo svelto arion, cui più non cale</l>
+<l>Di lago o stagno, in fra le nubi alzato,</l>
+<l>Scherzante in varii modi e 'n mille giri.</l>
+<l>Talora il buon cultor prevede il tempo</l>
+<l>Che nuotar dèn le biade in mezzo ai solchi,</l>
+<l>O innondarsi le vigne e i verdi prati,</l>
+<l>Da secca fronde, o lieve paglia a volo</l>
+<l>Veduta andar girando in vago errore.</l>
+<l>Il peregrin più e più s'affretta, i passi</l>
+<l>Raddoppia ancor che stanco, acciò che giunga</l>
+<l>A l'albergo lontan pria che 'l gran turbo</l>
+<l>Allaghi i campi, abbatta i paschi, e schianti</l>
+<l>I lieti rami, e l'orrida procella</l>
+<l>Faccia a lui danno ancor, quand'egli mira</l>
+<l>La vaga rondinella al molle fango</l>
+<l>E intorno a l'acque irsi aggirando, e quelle</l>
+<l>Quasi premer co' piè, toccar coi vanni,</l>
+<l>E nel lotoso albergo ode addoppiarsi</l>
+<l>De le noiose rane aspre querele,</l>
+<l>E per l'aria armonia gracchiante e strana</l>
+<l>Di tristi corvi, in folto stormo accolti.</l>
+<l>Che direm noi dei marinari industri,</l>
+<l>Che 'l tempo san che dal sicuro porto</l>
+<l>Non debbon rallentar l'aspre ritorte?</l>
+<l>O ver se solcan l'onde quando al lito</l>
+<l>Volger dènno le prore e in qualche seno</l>
+<l>Veloci ricovrarsi, acciò che tardi</l>
+<l>Non chiamin poi ne l'alto in spessi voti</l>
+<l>E Glauco e Panopea, Netuno e Teti,</l>
+<l>Raccogliendo le vele immonde e rotte,</l>
+<l>Molli il crin, lassi il petto, e stanchi il fianco.</l>
+<l>Veggon questi se 'l sol s'asconde, e quando</l>
+<l>L'aria in nubi si stringe, e muove il vento,</l>
+<l>Guardando in mar l'onde spezzate, e 'l gregge</l>
+<l>Di Netuno scoperto, e a salto a salto</l>
+<l>Il guizzante delfin fuor del suo letto</l>
+<l>Con la gran schiera andarsi in altra parte</l>
+<l>Ove il futuro mal men danno apporti.</l>
+<l>L'ira del ciel prevede ancor la notte</l>
+<l>Dagli accesi vapor, che quasi stelle</l>
+<l>Paiono a' risguardanti, a l'aria sparsi,</l>
+<l>Di fiammeggiante albor segnando il calle.</l>
+<l>Indizio fermo han di futura pioggia</l>
+<l>Quando a noi torna la novella luna</l>
+<l>Con fosche corna, e del suo globo ancora</l>
+<l>La parte che dal sol non prende il lume</l>
+<l>Veggono avvolta d'una nebbia oscura.</l>
+<l>Ma se par ch'ella armi le guancie e 'l volto</l>
+<l>D'iracondo rossor, turbato il mare</l>
+<l>E fian dal Borea e l'Austro i colli scossi.</l>
+<l>Se poi nel quarto dì che 'l corpo infiamma</l>
+<l>Lieta si mostra, e più ch'argento chiara,</l>
+<l>Quel giorno e gli altri appresso in tutto il corso</l>
+<l>Del camin suo fian d'ogni oltraggio scarchi:</l>
+<l>Onde non gli paventa altra montagna</l>
+<l>Di nembi invano al cielo alzati e sparti</l>
+<l>Che non vadano avanti arditi e pronti;</l>
+<l>Come faran se 'l sol (ch'anch'ei non dubi</l>
+<l>Segni gli mostra), alor che spunta fuore</l>
+<l>Per ritornarci il dì, lucente e pura</l>
+<l>La fronte estolle, e quando il morso aurato</l>
+<l>Toglie a' corsieri suoi per darli il cibo,</l>
+<l>Ha d'onesto rossor pinta la faccia.</l>
+<l>Onde a l'amica sua più vago e bello</l>
+<l>Appare, e mentre in braccio a lei si posa,</l>
+<l>Spiega la notte il suo stellato manto</l>
+<l>Chiaro e sereno, e senza nube alcuna,</l>
+<l>Talch'i più chiari e più lucenti lumi</l>
+<l>Levando agli altri ogni splendor, si scorge</l>
+<l>Adorno il velo suo di rare fiamme.</l>
+<l>Ma se quando al mattin sorge, ei li mostra</l>
+<l>La faccia di color varii dipinta,</l>
+<l>E 'l biondo crin ristretto al capo intorno</l>
+<l>D'oscura benda avvolto, o l'ampia fronte</l>
+<l>Si vede alquanto pallidetta e smorta,</l>
+<l>Rompendo in qualche parte ad ora ad ora</l>
+<l>Con raggi suoi l'oscura gonna, e vienne,</l>
+<l>Nunzia pria del suo mal, la mesta Aurora</l>
+<l>Anch'ella di dolor fatta simile,</l>
+<l>Lasciando il suo Titone: il ciel quel giorno</l>
+<l>Spessa grandine avventa, e immerge i legni.</l>
+<l>Poi quando il carro in mezzo l'onde attuffa,</l>
+<l>Se rancio appare, umor gli addita; e rosso,</l>
+<l>Vento gli annunzia; ma s'ei cinge e cuopre</l>
+<l>L'aurata chioma di ghirlanda intesta</l>
+<l>D'auro e d'oscuri veli, alor chi puote</l>
+<l>Degli audaci nocchier il fragil legno</l>
+<l>Quella notte campar da le vaste onde,</l>
+<l>O qualche flutto amico al fin sospinge</l>
+<l>La nave a terra combattuta e vinta,</l>
+<l>Ponga a parte non vil prezzo d'argento,</l>
+<l>Onde il naufragio alcun pittor descriva</l>
+<l>O stampi i finti legni, e tosto giunto</l>
+<l>Al patrio albergo, i voti scioglia, e accresca</l>
+<l>La tavoletta sua gli orribil casi</l>
+<l>Ch'in più di mille guise al tempio antico</l>
+<l>Cuopron le mura, gli archi, e le colonne.</l>
+<l>E chi fia ch'ose il sol chiamar fallace,</l>
+<l>E bugiarde le stelle? e Delia finta</l>
+<l>Chi fia ch'estimi? or non vedemmo, avanti</l>
+<l>Ch'a noi togliesse invidioso fato</l>
+<l>Il sommo padre tuo, Signor che reggi</l>
+<l>Fido e sostieni il suo valore e essalti</l>
+<l>Con la tua la sua gloria, aver le stelle</l>
+<l>Disposta una di lor con lunga schiera</l>
+<l>A segnarli il sentier di pure fiamme</l>
+<l>Ove passare avea per gire al cielo?</l>
+<l>E la luna vestir mirabil lume</l>
+<l>A la seguente notte, invan credendo</l>
+<l>Opporsi al novo sol col suo splendore?</l>
+<l>Taccio che 'l nunzio alato il divin nume</l>
+<l>Riverente inchinasse, e da Ciprigna</l>
+<l>Fosse ammirato; poi che 'l sol fe' nota</l>
+<l>L'allegrezza del ciel non la sua luce,</l>
+<l>Che veder non lasciò, come il gran Marte</l>
+<l>Gli desse strada, e l'onorasse Giove,</l>
+<l>E Saturno il fuggisse; non che tanti</l>
+<l>E tanti invidi sguardi d'altri eroi</l>
+<l>Che la stellata sfera accoglie in grembo,</l>
+<l>Oscurarsi veggendo ogni lor pregio</l>
+<l>Da un'alma più d'ogn'altra illustre e degna,</l>
+<l>E per fama e valor celebre e rara.</l>
+<l>Così a voi, donne, serviranno i segni</l>
+<l>Ch'han del piovoso e del sicuro cielo</l>
+<l>Il pastore, il bifolco, il cultor saggio,</l>
+<l>L'accorto viatore, e 'l nocchier dotto;</l>
+<l>Perché talor del tempo non v'inganni</l>
+<l>Un bel sereno, e l'aria queta, e 'l vento</l>
+<l>Tacito sì che non pur s'ode o vede</l>
+<l>La selva mormorar, né mover ramo,</l>
+<l>Ma da voi s'antiveda ognor da lunge</l>
+<l>Se fra breve ora, al giorno o ver di notte,</l>
+<l>Hanno i campi a innondarsi, acciò che a tempo</l>
+<l>Si corra a la foresta, e 'l gran presepe</l>
+<l>Di frondi si munisca, e di vivande,</l>
+<l>Pria che Giove e Giunone ed Eolo a terra</l>
+<l>Mandin folgori e gelo, e nebbie e venti.</l>
+<l>Nuoce l'umida selva ancora ai seri</l>
+<l>Di lauro, o rosmarino, o vil ginestra,</l>
+<l>In cui sale a spiegar l'alte ricchezze,</l>
+<l>Se da la cara madre ella fia tolta</l>
+<l>Con la cruda secure al tempo istesso</l>
+<l>Che in uso avrà da porsi; onde conviene</l>
+<l>Ch'un anno almeno in logge e stanze apriche</l>
+<l>Si serbi e si ritenga, e quivi spento</l>
+<l>Il naturale umore, al fin si ponga</l>
+<l>Secca vie più ch'arido fieno in opra:</l>
+<l>Onde potria talor molti e molti anni</l>
+<l>Quell'istessa iterar l'uffizio usato.</l>
+<l>Né minor danno ancor suol fargli il legno</l>
+<l>Di noce, quando a lor s'appressa e serve</l>
+<l>Come si sia: però non culle o letti</l>
+<l>Di quello abbia unqua il gregge, e non sen formi</l>
+<l>Il gran teatro, e non si colghin giri</l>
+<l>In cui l'opra dee far chi non s'inselva.</l>
+<l>Se poi ne la stagion che ascender deve</l>
+<l>L'alta foresta scorgi il gregge tutto</l>
+<l>O gran parte de' seri inferma e stanca</l>
+<l>Irsi aggirando al suolo, accorte donne,</l>
+<l>Ponete i vermi ad uno ad un sui rami,</l>
+<l>O de' ritorti e inanellati nastri</l>
+<l>Di legno, in copia molta al suolo sparsa,</l>
+<l>Ogni mensa s'ingombri a piè de' tronchi,</l>
+<l>Ch'ivi l'opra faran; ma non sì cara</l>
+<l>Quella poscia sarà, come se 'l verme</l>
+<l>Generoso vigore al bosco adorno</l>
+<l>Sospinto avesse; e ciò dal cibo infausto</l>
+<l>Che lui fu dato avviene, e fia la colpa</l>
+<l>Del curator de' vostri campi lieti,</l>
+<l>Che sol pensando al ben che 'l gusto alletta,</l>
+<l>Vago d'averne loda, attese solo</l>
+<l>A coltivar le piante ai seri amiche</l>
+<l>Fra le più ricche zolle, e con lo sterco</l>
+<l>E 'l vil letame, in quel medesmo modo</l>
+<l>Che 'l moro cole, acciò che 'l dolce frutto,</l>
+<l>Quando per trapassar la calda estate</l>
+<l>Senza alcun danno ei solo adorna e ingombra</l>
+<l>Le mattutine mense, appo il suo donno</l>
+<l>Con più grato sapor pregio gli acquisti.</l>
+<l>Onde, or non serva il moro al gusto ingordo,</l>
+<l>Ch'altr'opra il chiama, e quel parer si fugga</l>
+<l>Di piantarlo in terren morbido e grasso,</l>
+<l>Ma il più magro e pietroso or qui s'elegga;</l>
+<l>Pur che l'alber non cresca appresso a stagni,</l>
+<l>O in umido pratello, o in chiusa valle,</l>
+<l>Ove quando al Leon gl'irsuti crini</l>
+<l>Coi caldi raggi il buon pastor d'Ameto,</l>
+<l>Dal Cancro uscendo, infiamma, alor che 'n cielo</l>
+<l>Del giorno il suo camin mezzo ha compito,</l>
+<l>A pena ancor la verde chioma indori.</l>
+<l>Simil piaggia, ugual cura il gelso brama:</l>
+<l>E perché l'uno e l'altro in ogni campo</l>
+<l>Sì parcamente abonda, e sì fallaci</l>
+<l>Son queste piante anzi un compìto lustro,</l>
+<l>Grave studio, somm'arte, e pronto ingegno</l>
+<l>Intorno al culto lor vien che si metta</l>
+<l>Da chi n'ha il carco, e da chi ha volto il core</l>
+<l>Al serico travaglio, acciò che insieme</l>
+<l>Degli alberi il doppiar raddoppi il frutto</l>
+<l>Dai nobil vermi: ond'a voi, donne, ancora</l>
+<l>Grave non sia veder ch'al giusto tempo,</l>
+<l>Quando dai dui german si parte Apollo</l>
+<l>Per ricovrar con l'animal che offese</l>
+<l>Alcide alor che uccise il fiero mostro</l>
+<l>Di Lerna, acciò che il corso indietro apprenda,</l>
+<l>Il saggio agricoltor dei giardin vostri</l>
+<l>Colga i frutti maturi, e quelli intieri</l>
+<l>Vada piantando a file longhe in quadro</l>
+<l>Di perfetto terren ne l'orto eletto,</l>
+<l>Con picciol solco intorno, ove introduca</l>
+<l>Contra il secco calor del Sirio ardente,</l>
+<l>Per poterlo irrigar, vago ruscello;</l>
+<l>E per fuggir de l'empie talpe il danno,</l>
+<l>Di quello il margo ancor circondi et armi</l>
+<l>D'acuti e picciol pali in terra fitti</l>
+<l>Un piede almeno, e spessi, acciò ch'a quelle</l>
+<l>Punte appressando il muso, indietro offeso</l>
+<l>Fugga il cieco animale; o vero un d'essi</l>
+<l>Tolto con arte vivo, il ponga in urna</l>
+<l>Sino a l'orlo sepolta, alor che il loco</l>
+<l>Febo a Delia concede, et a' suoi stridi</l>
+<l>Ratti correndo gli altri, e dentro il vaso</l>
+<l>Cadendo a schiera a schiera incauti, al giorno</l>
+<l>Quivi molti vedrai cattivi e presi</l>
+<l>Cui la curva prigion poi niega il varco.</l>
+<l>Poscia il quadro di fimo ammanti, e cuopra</l>
+<l>Di paglia e stipe, acciò che mentre al vespro</l>
+<l>Et al mattin l'innaffia, il suol commosso</l>
+<l>Troppo copioso umor non prema e ammachi,</l>
+<l>O con l'aspro calor non ferva il raggio</l>
+<l>Del sol entro le vene al nuovo erbaio,</l>
+<l>E le sparte ricchezze arda e consume;</l>
+<l>Né quindi levi mai l'ispida gonna,</l>
+<l>Finch'apparir fuor del terren non mira</l>
+<l>La pargoletta selva, e mentre il caldo</l>
+<l>Avrà forza e vigore, ognor la bagni.</l>
+<l>Ma quando il rio Scorpion Cinzio abbandona,</l>
+<l>Per gir col precettor del forte Achille,</l>
+<l>E già tuffar veggiàn nel fosco occaso</l>
+<l>(Pria che l'Aurora il bel purpureo volto</l>
+<l>Del geloso amator rapisca ai basci</l>
+<l>Per far la scorta al giorno) Elettra e Maia</l>
+<l>Con le gelate suore, e 'n fronte al Tauro</l>
+<l>Farci segni di neve e di pruine,</l>
+<l>Formi di paglie o giunchi o lievi canne</l>
+<l>Vil casetta o capanna, intorno intorno</l>
+<l>Chiusa dal lato in poi ch'have al meriggio</l>
+<l>Volta la fronte, e 'l campicello e 'l bosco</l>
+<l>Cuopra, al verno crudel facendo schermo;</l>
+<l>Sin che si vegga al vespro il maggior Cane</l>
+<l>Immergersi nel mar stanco e anelante</l>
+<l>Per la smarrita traccia, e 'l Lepre ascoso:</l>
+<l>Svella alor quei le piante, e le trasporti</l>
+<l>In terren molle e grasso, e compartisca</l>
+<l>La selva sì che fra una pianta e l'altra</l>
+<l>Distanza cubital di suol vi resti,</l>
+<l>Acciò che il zappolin rivolghi al cielo</l>
+<l>Di quell'erbe crudei l'empie radici</l>
+<l>Che negli altrui confini usurpan seggio,</l>
+<l>Onde quella virtù ch'era già volta</l>
+<l>A nutrir l'erbe ingrate or meglio intenda</l>
+<l>Ad ingrossar le più felici piante.</l>
+<l>O ver, come ha introdotto uso novello</l>
+<l>De' più scaltri cultori, i colti frutti</l>
+<l>Metta in secchio ripien d'acqua, e li prema</l>
+<l>Sì forte con le man, che in mille e mille</l>
+<l>Pezzi li squarci e rompa, e strugga e sfaccia,</l>
+<l>Sin che ne vada il miglior seme al fondo,</l>
+<l>E 'l più vil resti a galla, e l'onda infiori</l>
+<l>Con la parte negletta, e quella al suolo</l>
+<l>Gettata e sparsa, il torbo umor pian piano</l>
+<l>Versi dal vaso fuore: indi ne tolga</l>
+<l>Il grato seme, e ad asciugar lo ponga</l>
+<l>Sovr'asse, ove del sol non fieda il raggio;</l>
+<l>Poscia il serbi sicuro, insin ch'al cielo,</l>
+<l>Mirando fiso al mattutino albore,</l>
+<l>Vedrà il destriero alato ogni sua stella</l>
+<l>Condur ruotando in sotterranei chiostri,</l>
+<l>E seco Delia il suo bel lume accresca:</l>
+<l>Sceglia alor questo un giorno, e mentre scorge</l>
+<l>Calar del gran pianeta al nido i raggi,</l>
+<l>De la gran madre al preparato grembo,</l>
+<l>Cui fatto avrà con vanga e zappa e rastro</l>
+<l>Cento rigide piaghe, e fuor del piano,</l>
+<l>Col gran cribro di ferro, un palmo alzato,</l>
+<l>Il commetta a nodrire; e de le stipe</l>
+<l>Il manto, e d'innaffiar l'usata cura</l>
+<l>Ch'agli altri avea non lasci, anzi la segua,</l>
+<l>Come già detto abbiamo a parte a parte,</l>
+<l>Sin che dal suol le fortunate piante</l>
+<l>Vadan poggiando in alto, e con più vaga</l>
+<l>Vista formin di sé verde foresta</l>
+<l>Che gli occhi alletta; onde il boschetto intorno</l>
+<l>Di pruni s'armi, e di pungenti spine,</l>
+<l>Acciò che avida man d'uom, cui pur piace</l>
+<l>De l'altrui faticar nudrirsi, il frutto,</l>
+<l>La notte o 'l dì, con forza, inganno od arte,</l>
+<l>Quando il credete aver, non furi e involi;</l>
+<l>Né greggia incustodita o sciolto armento,</l>
+<l>Coi piè, col morso, e con le corna e 'l petto,</l>
+<l>Ogni vostro lavor depredi e stirpe.</l>
+<l>Il che ancor far si de' qualor ciascuno</l>
+<l>Di quegli alberi adulti in steril seno</l>
+<l>Cerere accolga, o per l'apriche rive,</l>
+<l>Per nude piaggie e strade, o per ghiarosi</l>
+<l>Prati e giardin s'andran piantando soli.</l>
+<l>Ma perché suole il moro esser più tardo</l>
+<l>Che 'l gelso ad ingrossar l'umil suo stelo,</l>
+<l>E lento assai più al ciel dispiega e a l'aura</l>
+<l>I ricchi rami e le più ricche frondi,</l>
+<l>Lodo che per sentir dei sudor vostri</l>
+<l>Mercé più pronta a coltivar s'attenda</l>
+<l>Questi dal curatore, anzi che gli altri.</l>
+<l>E più tosto il piacer n'avrete ancora,</l>
+<l>E de' vermi allevar tante famiglie</l>
+<l>Potransi in breve, se innestar farete</l>
+<l>Sugli altrui fusti i gelsi, onde si mostri</l>
+<l>Come le non sue membra un alber nutri;</l>
+<l>E come a questi ognor novelle e verdi</l>
+<l>Cime togliendo, in risecata verga</l>
+<l>O ne l'istesso tronco ancor robusto</l>
+<l>Di pomo, di castagno, o cornio od olmo,</l>
+<l>O di selvaggio pero o bianca pioppa,</l>
+<l>Si ponga il cespo ignudo, e fuor s'adatti</l>
+<l>In modo tal l'una con l'altra scorza,</l>
+<l>Che l'un con l'altro umor consorte e misto</l>
+<l>Di concorde vigor, salendo insieme,</l>
+<l>Pasca e fecondi, opra pietosa, i rami</l>
+<l>Altrui strania radice, e l'altrui frondi;</l>
+<l>O ver, come altri suol, dal gelso svelga</l>
+<l>Nuova gemma o rampollo, e in tal ferita</l>
+<l>Trasporte, ove la pianta ha diramata,</l>
+<l>Che sia la giunta uguale al danno; e avvolga</l>
+<l>Con larga fascia, ch'indi unqua si sleghi,</l>
+<l>Di nutritivo umor de la gran madre</l>
+<l>Salubre impiastro a risaldar la piaga.</l>
+<l>O (qual vecchio pastor ch'un verde ramo</l>
+<l>Spoglia de la sua buccia illesa e intiera,</l>
+<l>Onde componga al pargoletto figlio</l>
+<l>Strana zampogna, che 'l trastulli e avvezzi</l>
+<l>Quindi poscia a sonar più industre avena)</l>
+<l>Lievi intiera la veste a un picciol tronco,</l>
+<l>Pur ch'in sé due o tre occhi ella contenga,</l>
+<l>Del gelso, e in modo tal ne adorni e cinga</l>
+<l>De li nomati ceppi i picciol bronchi,</l>
+<l>Fatti pria d'altretanta scorza ignudi,</l>
+<l>Che qual la propria gonna li rivesta:</l>
+<l>Ch'indi stretta si leghi al nuovo corpo</l>
+<l>Con sottil filo ambo gli estremi, e dove</l>
+<l>Questa con la natia s'aduna e giunge,</l>
+<l>Et ove arriva a la recisa parte</l>
+<l>De la sbucciata verga; e i dotti incastri</l>
+<l>Con rubiconda cera e chiuda e stipi,</l>
+<l>Ch'in breve si vedrà fuor di quegli occhi</l>
+<l>Spuntar le gemme altrui pedale antico.</l>
+<l>Né questi modi sol, ma mille e mille</l>
+<l>Ne tenta l'arte, ove natura inchina,</l>
+<l>Veggendo ognor l'alber dal seme sorto</l>
+<l>Sì tarda e frale aver sua breve vita,</l>
+<l>Ch'in cuna muore, o non morendo al fine</l>
+<l>Troppo selvaggio e stanco il frutto adduce;</l>
+<l>Onde in sì varie guise il buon cultore</l>
+<l>Intorno a l'inestar l'ingegno adopra,</l>
+<l>Che 'l narrarlo fia longo, e poca fede</l>
+<l>Daria al mio dir chi non lo sa e nol prova:</l>
+<l>Tal meraviglia n'han gli alberi istessi,</l>
+<l>Qualor si vidde il pero ogni sua chioma</l>
+<l>Di perseo pomo ornata, e 'l robusto olmo</l>
+<l>Su le radici sue l'immondo gregge</l>
+<l>Mirò franger la ghianda, e 'l duro cornio,</l>
+<l>Ch'a bifolchi porgeva acerbe bacche,</l>
+<l>Di dalmatiche prune i fior produsse;</l>
+<l>Così quei fusti infruttuosi e incolti</l>
+<l>Fian per voi tosto i più onorati e cari.</l>
+<l>Dei giorni poi miglior de le stagioni</l>
+<l>Che il ben dotto villan sceglier si deve</l>
+<l>Acciò che il seme sparga, e gli arborscelli</l>
+<l>Nel suo terren trapianti, o i nobil rami</l>
+<l>In varii modi inesti in varie piante,</l>
+<l>Diversa e incerta opinion n'ha 'l volgo:</l>
+<l>Pur seguendo il parer dei più vetusti</l>
+<l>E scaltri agricoltor, concludo e dico</l>
+<l>Che, di quante stagion ruotando apporta</l>
+<l>Il bifronte signor dal Capro al Cancro,</l>
+<l>Alcun non v'è più convenevol tempo</l>
+<l>Di quello in cui d'Amor la bella madre</l>
+<l>Spira foco dal ciel, che tutta infiora</l>
+<l>In premio del suo ben Cerere amica,</l>
+<l>E il freddo giel togliendo, a quella pianta</l>
+<l>Che Bacco onora il suo favor comparte:</l>
+<l>Allor Zefiro mena, e 'n bel sereno</l>
+<l>Del ciel le stelle spiega, e l'aria ingombra</l>
+<l>Di soave armonia; con dolci accenti</l>
+<l>D'augelli i venti acqueta, e l'onda rende</l>
+<l>Placida al mare, e 'l cristal torna ai fiumi;</l>
+<l>Manda dagli antri a le campagne adorne,</l>
+<l>Scherzanti insieme, allegre fere e snelle,</l>
+<l>E sotto l'ombre in prati, a' fonti intorno</l>
+<l>Muove l'aure a sentir, muove sue Ninfe,</l>
+<l>E lei nascosta gode al suono intenta,</l>
+<l>Dolce cantar d'oneste donne e vaghe.</l>
+<l>Il sommo padre ancor con la gelosa</l>
+<l>E superba Giunon si riconsiglia,</l>
+<l>Ond'ei nel grembo suo lieto disceso,</l>
+<l>Essa nel grembo suo lieta l'accoglie;</l>
+<l>E di tal vista è sì invaghito il mondo,</l>
+<l>Ch'empie il ciel di dolcezza e gli elementi,</l>
+<l>Et a riamarsi ogni animal s'infiamma.</l>
+<l>Questa è la vaga e dolce primavera,</l>
+<l>Che dà la vita a' nostri seri amati,</l>
+<l>E di loro il cantar m'addita e insegna.</l>
+<l>Non credo mai che 'l gran Prometeo ordisse</l>
+<l>La bella sua fattura in altro tempo,</l>
+<l>Né che spargesser mai lor primi raggi</l>
+<l>In altro tempo i lumi erranti e fissi:</l>
+<l>Primavera alor fu, primavera ebbe</l>
+<l>Il secol d'or, quand'ogni fera e augello</l>
+<l>Vider la prima luce, e quando l'alma</l>
+<l>Diede il Motore eterno al padre antico:</l>
+<l>Or com'ella benigna il suo favore</l>
+<l>Presta a' sovrani Numi, agli uomin presta,</l>
+<l>E gli animali a propagarsi invita,</l>
+<l>L'aria empiendo d'amor, la terra e 'l mare:</l>
+<l>Così 'l giocondo April l'aura amorosa</l>
+<l>Comparte a l'erbe a' fiori, et a le piante</l>
+<l>La sua rara virtude, e largamente</l>
+<l>Il fecondante umor ministra a' gelsi.</l>
+<l>Cui pur ne resta ancor trovare il loco</l>
+<l>Atto a tenerli in vita, acciò che indarno</l>
+<l>Alcun non s'affatichi, e 'ndarno sudi,</l>
+<l>Per aver nel suo campo alber sì degno,</l>
+<l>Cui si renda il terren contrario e schivo,</l>
+<l>L'aer sia tristo, e 'l clima aspro e noioso:</l>
+<l>Perché i delfin ne le più secche arene</l>
+<l>Avran la stanza, e 'l fier leon fra l'onde</l>
+<l>L'irsuta chioma andrà scuotendo allegro,</l>
+<l>E gli anni sciolti d'ogni usata legge</l>
+<l>Meneran fior l'autunno, i pomi e l'uve</l>
+<l>Al tempo novo, al verno spiche, e ghiaccio</l>
+<l>A mezza state, anzi che 'l moro o 'l gelso</l>
+<l>Sotto un contrario ciel frondeggi e viva.</l>
+<l>Così le grazie sue dispose, e i doni</l>
+<l>Compartir volle a la bell'opra e santa</l>
+<l>De le sue man, colui ch'a un cenno eresse</l>
+<l>Quanto risplende in terra, e 'n ciel riluce;</l>
+<l>Come ancor mosso da giust'ira e sdegno</l>
+<l>Contra il perverso seme uman divise</l>
+<l>In vari modi il male, ond'uom si purghi</l>
+<l>Dagli empi falli e rei, e s'è pur buono,</l>
+<l>Quivi, com'in foco or, s'affini e provi.</l>
+<l>Qual patria dunque fia propizia e cara</l>
+<l>A quest'alber gentil? qual proprio loco</l>
+<l>Lui concesse natura? e qual paese</l>
+<l>Tanto fu a Dio diletto, e grato tanto,</l>
+<l>Che col bel don di sì onorata fronde,</l>
+<l>Del gran pregio de' seri adorno e onusto</l>
+<l>Farlo per sua pietade abbi voluto?</l>
+<l>Diròlt'io pure? o per fuggir l'obietto</l>
+<l>Che 'l troppo amore mi trasporti e inganni</l>
+<l>Fia ben ch'io 'l taccia? Ah, non sia ver, ma s'abbi</l>
+<l>Il mio dolce terreno e 'l caro nido</l>
+<l>Questo devuto onor da la mia penna.</l>
+<l>Canti i fatti de' suoi greco facondo;</l>
+<l>Il suo Augusto, Maron celèbri e canti:</l>
+<l>A me, ch'in queste piagge, e sotto l'ombra</l>
+<l>Nacqui del mio gran Carlo, e queto vivo,</l>
+<l>E di loro e di lui non si disdica</l>
+<l>Fregiarmi il crin negletto, e ornar le carte.</l>
+<l>Fra quante cuopre il cielo, e cinge il mare</l>
+<l>Provincie eccelse, e questa immensa mole</l>
+<l>Nel grembo accoglie, e vide occhio mortale,</l>
+<l>Non è chi vinca, o d'alto pregio agguagli</l>
+<l>L'antica Esperia, e 'l vago ausonio lido,</l>
+<l>D'armi potente, e d'abondanti glebe.</l>
+<l>Lascia a questa l'onor, la gloria e 'l vanto</l>
+<l>Il britannico suol, benché il suo gregge</l>
+<l>Lupo non tema, e 'l rio venen non porti.</l>
+<l>Lascialo ancor, d'olio e di mel feconda,</l>
+<l>La nuova e grande Esperia, il terren gallo</l>
+<l>Fertile e ricco, e di foreste adorna</l>
+<l>L'una e l'altra Germania; e le gran caccie</l>
+<l>De' sarmatici campi, e col suo argento</l>
+<l>Pannonia, e di destrier Tessaglia donna;</l>
+<l>Del grande Olimpo, che 'l suo capo estolle</l>
+<l>Sopra le nubi, la pirite e i fiori,</l>
+<l>Di Creta e Lesbo la copiosa vite;</l>
+<l>Asia, Licia et Armenia, e 'l caldo Egitto,</l>
+<l>Con Arabia e Soria, d'incenso e mirra,</l>
+<l>Di croco e d'altri odor ciascuna colma.</l>
+<l>Taccia l'Africa, e Libia, e 'l popol negro,</l>
+<l>Con l'aromate piante e l'eban raro,</l>
+<l>L'India col bianco avorio, e l'aurea verga</l>
+<l>D'America e Perù; l'alte ricchezze</l>
+<l>E i novi regni ancor di Magellane,</l>
+<l>Ch'a la trascorsa età degli avi nostri</l>
+<l>Primo scoperse uom di Liguria ardito,</l>
+<l>Sì che a un tuo figlio, Italia, ancor si deve</l>
+<l>La lode e 'l pregio di sì fatto acquisto.</l>
+<l>Taccian, dico, gli Sciti, e s'altra gente</l>
+<l>Da noi lontana e sconosciuta alberga,</l>
+<l>Né di queste o di quelle alcuna ardisca</l>
+<l>A l'ausonica madre nostra opporsi,</l>
+<l>Poi che gli abitator d'ogn'altro regno</l>
+<l>Han tutti onde temer di qualche oltraggio,</l>
+<l>O ver di qualche ben penuria gli ange:</l>
+<l>Del Reno san le genti, e del Tamigi</l>
+<l>Quanto sia il lor terren molesto a Bacco,</l>
+<l>E ch'a schermir contra perpetue brume</l>
+<l>Vien che 'l paterno suol s'arda e consumi.</l>
+<l>Sente l'Ibero e 'l Tago i caldi raggi</l>
+<l>Di più propinquo sole, onde le biade</l>
+<l>La lor devuta età viver non ponno,</l>
+<l>Et a pena il bel manto adorna i colli</l>
+<l>Di chiaro verde, che 'l calor gliel toglie;</l>
+<l>La Sona e 'l freddo Ren non danno a Palla</l>
+<l>Il suo debito onor, perché privi ella</l>
+<l>Li volse far de l'onorata oliva:</l>
+<l>E perché raccontar gli orribil ghiacci</l>
+<l>Del gelato Danubio, e i campi incolti</l>
+<l>D'Albi e Visula, a' quai natura avara</l>
+<l>Negò la vite, e tanti illustri doni?</l>
+<l>A che or Eufrate, or Nilo, or Indo, or Gange</l>
+<l>Ad un ad un vo rammentando, e tanti</l>
+<l>Flutti inospiti, e mar riposti e piagge,</l>
+<l>Da l'Austro nubiloso a le fredd'Orse,</l>
+<l>Poi ch'ognun sa qual di bontade manchi,</l>
+<l>E qual di danno abondi? Alcuno è privo</l>
+<l>D'ogni onor de le selve, alcun de' fonti</l>
+<l>Limpidi e chiari, onde l'ardor si spenga,</l>
+<l>Altri ha inopia di glebe, altri di paschi,</l>
+<l>Ove guidi il pastor l'amata greggia;</l>
+<l>Qui laghi, quivi arene, e quivi il gelo</l>
+<l>Il cereale ben togliono ai campi;</l>
+<l>Là van le fere tigre, e per foreste</l>
+<l>Rugge altrove il leon; gli aspidi altrove</l>
+<l>E gli empi basilischi han fero albergo;</l>
+<l>Quell'aria nutre i micidiali pardi</l>
+<l>E i grifi, e quel terren mesce ai bei fiori,</l>
+<l>Et a l'erbe salubri, et ai buon frutti,</l>
+<l>Aspro venen, ch'i coglitori incauti</l>
+<l>Sotto vaghe sembianze a morte mena.</l>
+<l>Ad altri poi, con loro eterno danno,</l>
+<l>Manca il culto divin verace e santo,</l>
+<l>Che l'alme ai buon cultor bea doppo morte.</l>
+<l>A te, Italia gentil, di qual ben parco</l>
+<l>Fu il ciel giamai, qual mal t'affligge e preme?</l>
+<l>Tu sei del mondo unico ospizio e porto,</l>
+<l>Pace, riposo, e d'ogni mal restauro:</l>
+<l>Tu sola fosti fra tutt'altre degna</l>
+<l>Di dare al genitor del sommo Giove,</l>
+<l>Per l'usurpato ciel, fido soggiorno.</l>
+<l>A te fra mille error, fra gran perigli</l>
+<l>Venne il famoso Ulisse, a te i penati</l>
+<l>Portò del regno d'Asia il pio Troiano,</l>
+<l>Soffrendo onta del cielo. Or chi ti mira</l>
+<l>Volga a Calisto gli occhi, e volga ad Argo,</l>
+<l>E 'l mar che sopra bagna, e 'l mar che sotto</l>
+<l>Al lito frange, e d'Adria l'onda e 'l flutto</l>
+<l>Tirren vedrà, che fra Cariddi e Scilla</l>
+<l>Giunti intorno ti fan sì nobil cinto.</l>
+<l>Volga a l'occaso, e ti vedrà da l'Alpi,</l>
+<l>Di ghiacci armate e di perpetue nevi,</l>
+<l>Contro i barbari oltraggi ognor difesa;</l>
+<l>E 'n quelle aver radice i monti e i colli</l>
+<l>Onde sei tanto adorna. Ecco nel mezzo</l>
+<l>Del grembo tuo rimiri u' nasce il Tebro;</l>
+<l>Indi segua il suo corso incontro 'l sole,</l>
+<l>Torcendo a destra, e 'l guardo fisi dove</l>
+<l>Siede Roma superba, altiera e santa,</l>
+<l>Che sotto l'ali sue raccolse e strinse</l>
+<l>Le genti sparte in un sol giro, e tenne,</l>
+<l>Or serva or sciolta, or sotto a' regi, or retta</l>
+<l>Da illustri duci, or fatta impero e posta</l>
+<l>Sotto un sol capo, quanti regni e quanti</l>
+<l>Popoli avea vicini, avea lontani:</l>
+<l>E quella elesse Iddio per degna sede</l>
+<l>De la sua sposa, e di chi tien la chiave</l>
+<l>Che chiude et apre al regno eterno il varco,</l>
+<l>Ond'or sotto l'insegne e sotto il manto</l>
+<l>Del suo vicario al sacro alto vessillo</l>
+<l>Unito ha 'l seme uman, sin da l'estreme</l>
+<l>Parti del mondo. Ecco disteso al lungo</l>
+<l>Il bel giogo Apennin, che ti divide</l>
+<l>Sì vagamente, e sue ricchezze sparge</l>
+<l>Per molte vene. Egli ha principio u' 'l Varo</l>
+<l>Placido onora la famosa rocca</l>
+<l>Che fa termine ai Galli, e con la Macra</l>
+<l>Chiude Liguria al destro fianco, e manda</l>
+<l>Il florid'Arno inver l'etrusche rive,</l>
+<l>Ov'han gran pregio i seri; indi s'estende</l>
+<l>Nel Lazio Albula antico, e parte il Lazio</l>
+<l>Col Lirio da Campania, e fra' Lucani</l>
+<l>E Picentini il Lao, Silaro e Sarno</l>
+<l>Scorron superbi; e dal suo lato manco</l>
+<l>Rubicone e Ren versa, Asio e Druenza:</l>
+<l>Poscia a l'isole incontro, a' quai diè 'l nome</l>
+<l>Il gran Diomede, al mar tributo danno</l>
+<l>Matrino, Aterno e Saro; indi Tiferno</l>
+<l>A la sinistra riva Apulia bagna,</l>
+<l>E l'onde ionie inver l'aurora accresce</l>
+<l>Di roman sangue e d'afro Aufido tinto.</l>
+<l>Da questi, e da quei fiumi illustri e chiari</l>
+<l>Ch'hanno origin da l'alpi a Borea volte,</l>
+<l>Ch'al tedesco furor ti fanno schermo,</l>
+<l>E da mill'altri ancor, per cui si rende</l>
+<l>Del tuo corpo ogni membro adorno e bello,</l>
+<l>Ai mori, ai vermi, et a quest'arte industre,</l>
+<l>Ond'è 'l divin lavoro in mille guise</l>
+<l>Carco di pregio, ogni favor discende.</l>
+<l>Or ti contempli ognuno a parte a parte,</l>
+<l>E vedrà l'aria, quale il gelso brama,</l>
+<l>Tepida sempre, e 'l ciel sempre lucente</l>
+<l>Di candido splendor, che mai s'infiamma,</l>
+<l>Né mai s'agghiaccia, e nudre i rami ai steli,</l>
+<l>Le frondi ai rami, e de le frondi l'ombre</l>
+<l>Ai dolci frutti, ai vaghi augelli, al gregge,</l>
+<l>A' semplici pastori, et a' bifolchi;</l>
+<l>L'aure fresche mai sempre, d'odor colme,</l>
+<l>Di Dei, di Ninfe e d'uomini e di donne</l>
+<l>Allettatrici scaltre e lusinghiere.</l>
+<l>Riguardi intorno intorno, e scorga quanti</l>
+<l>Superbi monti, ameni colli, e piaggie</l>
+<l>Verdi, valli fiorite, e fertil campi,</l>
+<l>Quanti laghi, paludi, acque salubri,</l>
+<l>E fiumi, e fonti, e mobili cristalli;</l>
+<l>Selve, spelonche, piante, erbe, fior, frutti,</l>
+<l>E quel ch'è bello e caro; e quante opime</l>
+<l>Ville, ricche cittadi, e seggi augusti,</l>
+<l>E seni, e porti. Or questo adunque è 'l loco</l>
+<l>Cui concesso ha de' cieli alto decreto</l>
+<l>Ch'in lui Natura ogni degn'opra mostri,</l>
+<l>E mostri ogni sua forza umano ingegno.</l>
+<l>Ove, sien pure arate, o sieno inculte</l>
+<l>Le terre, allignar suole in selve e scene</l>
+<l>Opache il gelso, e i seri han grato albergo:</l>
+<l>Ma più d'ogn'altra parte eran felici</l>
+<l>Di tanto ben queste leggiadre sponde,</l>
+<l>Cui lascia il primo onore e i primi doni</l>
+<l>Il Po, ch'ha 'l primo onore e i primi doni</l>
+<l>Dal Tanar, da due Dore, e doppia Stura:</l>
+<l>Pria che nutrisse il bel paese in seno,</l>
+<l>Troppo benigno e dolce, il foco e l'armi,</l>
+<l>Empie voglie allettando a farli oltraggio,</l>
+<l>Onde a sé fu cagion d'acerbo danno.</l>
+<l>Ma non fu pur quest'arte in tutto estinta,</l>
+<l>Anzi ognor si ravviva, e facil fora,</l>
+<l>Se (come accenna) il ciel favor li porge,</l>
+<l>Ch'ancor racquisti in breve il primo nome.</l>
+<l>Or, più ch'altrove, qui dunque potransi,</l>
+<l>Donne cui d'abitarvi ha Dio concesso,</l>
+<l>Le piante cultivar gioconde e care</l>
+<l>Al soprano animal, cui sì gradita</l>
+<l>È tsquest'aria gentil, ch'i raggi estivi</l>
+<l>Con zefiri e rugiade e fresche linfe</l>
+<l>Sì temprar suol che nullo ardor gli offende.</l>
+<l>E qual miracol fia, s'a questi piani</l>
+<l>Ogni grazia comparte il sacro rege</l>
+<l>De li altri fiumi, a cui nel cielo è dato</l>
+<l>Sovra il sole e i pianeti eccelso spazio,</l>
+<l>Ove l'imago sua fiammeggia e splende?</l>
+<l>Ei dal Vesulo monte il queto piede</l>
+<l>Stendendo, al fin di gran tributi altero</l>
+<l>Da Teti e da Nettuno accolto è in grembo.</l>
+<l>Lui Febo elesse, acciò che l'aspra morte</l>
+<l>Fosse men cruda al fulminato figlio,</l>
+<l>Ond'a l'argin sinistro ancora serba</l>
+<l>Da le sorelle eretta egregia tomba.</l>
+<l>Ei dà nel vago sen grato ricetto</l>
+<l>A famose cittadi, e molti campi</l>
+<l>Fastoso inonda, ma il bel capo e l'urna</l>
+<l>Tiene sotto 'l governo e 'l degno scettro</l>
+<l>Del mio gran Duce, e queste piagge amene</l>
+<l>Prima de l'altre tutte adorna e 'nfiora:</l>
+<l>Però ghirlanda qui Cerere acquista</l>
+<l>Di gravi spiche, onde il cultor n'abonda;</l>
+<l>E 'n premio di tal ben serba il costume</l>
+<l>L'agreste gioventù di far nei giochi</l>
+<l>Sacrati a lei de' più veloci e forti</l>
+<l>Tauri e del carro del bifolco prova.</l>
+<l>Qui il buon padre Leneo, festoso e dolce</l>
+<l>Più ch'altrove, a l'autunno i bei coturni</l>
+<l>Lasciar non sdegna, acciò ch'i piè divini</l>
+<l>Tinga col vignaiuol di novo mosto:</l>
+<l>Sì che non lunge Asopo et Ismeneo</l>
+<l>Le torme van, né dal Citero ismario</l>
+<l>Scende stuol di baccanti al tempio sacro,</l>
+<l>Ma tien qui la sua sede; e da' bei colli</l>
+<l>Che fan più ricca al Po la sponda destra,</l>
+<l>Tosto che l'alma vite, adorna e carca</l>
+<l>D'acri racemi, addita al buon cultore</l>
+<l>De' suoi futuri don sicura speme,</l>
+<l>Sogliono i curator di quella unirsi</l>
+<l>Entro le nobil mura, e quivi aggiunti</l>
+<l>Con tirsi in mano e tirsi al capo intorno</l>
+<l>Baccare al suon di tibie, e 'n mille modi</l>
+<l>Or pergole formare, or tralci, or vigne,</l>
+<l>Fingendo lor colonne et olmi e pali;</l>
+<l>E d'antico Lieo fuor del suo albergo</l>
+<l>Tratto far colmi i vasi, e 'l sacro umore</l>
+<l>Libando, incoronar Sileno e Bacco.</l>
+<l>Qui Pomona, Vertuno e Flora il corno</l>
+<l>Del famoso Acheloo, più assai ch'altrove,</l>
+<l>Empion di frutti e d'erbe e fiori e frondi.</l>
+<l>Qui in molte parti a la benigna Pale</l>
+<l>De' conservati armenti, in cento stadi,</l>
+<l>Del reso onor si porge aperto segno;</l>
+<l>Né 'l semicapro dio contro i pastori</l>
+<l>Mostrò giamai la fronte irata e torva,</l>
+<l>Ma visto sempre fu con faccia allegra,</l>
+<l>Del custodito grege il premio avendo.</l>
+<l>La cacciatrice Dea qui spesso mira</l>
+<l>Tornare i veltri affaticati e lassi,</l>
+<l>E d'alta preda le sue Ninfe onuste;</l>
+<l>Né lor mancan le fonti, e l'ombre, e l'aure</l>
+<l>Ove l'estivo ardor si tempri e fugga.</l>
+<l>Qui Minerva si cole, e 'l Dio facondo;</l>
+<l>Apollo e 'l coro suo v'han grata stanza.</l>
+<l>Qui è dolce or Marte; e non saetta Giove,</l>
+<l>Ma a ciascun giova, e lui con gli altri Dei</l>
+<l>Compartiti han fra lor gli studi e l'arti.</l>
+<l>Venere bella ancor col cieco figlio</l>
+<l>Non meno queste rive e 'l popol lieto</l>
+<l>Apprezza et ama che Amatunta e Gnido,</l>
+<l>Veggendo or de' suoi don qui maggior parte</l>
+<l>Ch'in altro luogo accolta, e chiaro il pregio.</l>
+<l>Che fia poi quando miri i colli e i campi,</l>
+<l>Qualor, mercé del ciel, lo strazio antico</l>
+<l>Di guerra in tutto avran posto in oblio,</l>
+<l>Di sì onorate frondi alzar le chiome</l>
+<l>Ricche e superbe, onde quest'altro bene</l>
+<l>De' seri, e la bell'arte illustre e degna,</l>
+<l>S'accresca e torni al suo primiero stato?</l>
+<l>Cura, donne, di voi, poiché i divoti</l>
+<l>Et amorosi vostri preghi accolse</l>
+<l>La pietosa Ciprigna, a noi tornando</l>
+<l>Pace tranquilla, alor ch'ogni ira e orgoglio</l>
+<l>Fece a Marte depor nel bel suo grembo,</l>
+<l>E coi spirti di lui temprò i suo' spirti.</l>
+<l>Tempo fu già quand'altro a noi che pace</l>
+<l>Non venia manco, altro non dava affanno</l>
+<l>Ch'alto incendio di guerra, onde il paese</l>
+<l>Ardea tutto d'intorno; or non ci offende</l>
+<l>Più militar furore, e i nostri Lari</l>
+<l>Hanno insieme con noi placido seggio.</l>
+<l>E del cielo a tal grazia altra s'aggiunge,</l>
+<l>Che d'armi micidiali il lampo abbaglia</l>
+<l>Col lume suo quest'alma CATERINA,</l>
+<l>Ch'a noi pace conferma, e pace apporta;</l>
+<l>E 'l cui gran nome orna i miei versi indegni.</l>
+<l>Cura ancor tua, Signor, da Dio prescritto</l>
+<l>A questo impero, a tanto onore assunto,</l>
+<l>Poi ch'hai d'Italia, anzi del mondo tutto</l>
+<l>La miglior parte; et ha sì caro il giogo</l>
+<l>Quest'umil popol tuo, fido e devoto,</l>
+<l>Quant'ebbe al secol d'or l'antica gente</l>
+<l>Il viver senza fren libera e sciolta:</l>
+<l>Don ch'a poch'altri il ciel ch'a te concede.</l>
+<l>Giungi dunque a tant'opre, a tanti studi</l>
+<l>Che 'l maturo tuo senno inventa e 'mpone</l>
+<l>A pro de' servi tuoi, quest'altro ancora:</l>
+<l>Segua adiutrice mano al buon consiglio,</l>
+<l>Onde il dominio tuo, come d'ogn'altra</l>
+<l>Cosa che dia Natura e l'arte adorni,</l>
+<l>De' serici lavor porti anco il vanto.</l>
+<l>Ma 'l ciel s'imbruna, e tanto errando è gita</l>
+<l>La nave mia per ampie, ondose strade,</l>
+<l>Che tempo è ormai raccor le vele sparte.</l></lg></div1></body></text></TEI.2>

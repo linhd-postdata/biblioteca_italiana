@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Ecloghe</title>
+      <author>Torquato Tasso</author>
+    </titleStmt>
+    <extent>42 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2007</date>
+      <idno>bibit001026</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le opere</title>
+        <author>Tasso, Torquato</author>
+        <editor id="ed">Quondam, Amedeo</editor>
+        <publisher>Lexis Progetti Editoriali</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1997</date>
+        <note>L'edizione elettronica fa riferimento al testo Opere minori in versi, III, a cura di A. Solerti, Bologna, Zanichelli 1895.</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2007-02-14T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2007-02-14T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+
+<div1 n="Tirsi">
+<opener><salute>A Margherita Gonzaga D'Este duchessa di Ferrara.</salute></opener>
+<stage>
+TIRSI, LICORI,DAFNE. </stage>
+
+
+<sp><speaker>LIC.</speaker>
+<lg>
+<l> Dimmi, mesto pastore,</l>
+<l>Qual muto pesce o quale è rozzo armento</l>
+<l>Che non faccia d'amor qualche concento?</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Nessun; chè odi d'amore,</l>
+<l>Quando è il mar cheto, l'armonia tra l'onde</l>
+<l>Con mormorio ch'alti sospir confonde:</l>
+<l>E, come posson, l'orche e le balene</l>
+<l>Accennan le lor pene;</l>
+<l>Ed il mugghiar de' buoi per le campagne,</l>
+<l>Ed il belar de l'agne,</l>
+<l>E 'l ruggir de le belve</l>
+<l>Suono amoroso è ne l'alpestri selve.</l>
+
+</lg>
+</sp>
+<sp><speaker>LIC.</speaker>
+<lg>
+<l> Queste, che l'ali garrule e stridenti</l>
+<l>Si percuotono a 'l petto,</l>
+<l>Sfogan forse d'amore intenso affetto?</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Sfogano a l'alme dive</l>
+<l>Sacri augelletti, fiamme in fiamme estive.</l>
+
+</lg>
+</sp>
+<sp><speaker>LIC.</speaker>
+<lg>
+<l> Ma tu, che non men caro</l>
+<l>Sei de le Muse e de 'l gran Febo amico,</l>
+<l>Deh! perchè in suon più chiaro</l>
+<l>Non canti gli occhi vaghi e 'l cor pudico</l>
+<l>Di qualche vaga ninfa</l>
+<l>A 'l suon di questa linfa?</l>
+<l>Tu, per cui Febo suole</l>
+<l>Lasciar spesso Parnaso ed Elicona,</l>
+<l>De le frondi de 'l Sole</l>
+<l>E di suoi lodi tessi a lei corona:</l>
+<l>E cantando invaghisci un core schivo</l>
+<l>A 'l suon di questo rivo.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Intorbidar quest'acque</l>
+<l>Mi giova co 'l mio pianto</l>
+<l>Più che l'aura addolcir co 'l novo canto.</l>
+<l>Così a mia stella piacque,</l>
+<l>E vuol ch'io mi consume</l>
+<l>A 'l suon di questo fiume.</l>
+
+</lg>
+</sp>
+<sp><speaker>LIC.</speaker>
+<lg>
+<l> In te converso il rio</l>
+<l>Per gli occhi tuoi discende,</l>
+<l>E ti ridona quel che da te prende:</l>
+<l>E pur in fiume vôlto</l>
+<l>Tu serbi ancor la forma antica e 'l volto.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Il pianto è tutto mio:</l>
+<l>Chè preme Amor la pena</l>
+<l>D'inessiccabil vena.</l>
+
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg>
+<l> Misero! asciuga i fiumi,</l>
+<l>Che di pietra brillante</l>
+<l>Paiono uscire, e prendi questo velo.</l>
+
+</lg>
+</sp>
+<sp><speaker>LIC.</speaker>
+<lg>
+<l> I languidetti lumi</l>
+<l>Asciuga, o mesto amante,</l>
+<l>Non ti disfar come la neve e 'l gelo:</l>
+<l>Prendi leggiadro velo.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Amor, s'è amore o s'è pietate in cielo,</l>
+<l>Di me t'incresca e de 'l mio duol che bagna</l>
+<l>L'afflitto core, e quanto ei più si lagna</l>
+<l>Sente meno il dolore, e sol respira</l>
+<l>Quando piange e sospira.</l>
+
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg>
+<l> Se 'l tuo pianto è sì dolce,</l>
+<l>Or che sarà se mai</l>
+<l>Amore il petto molce</l>
+<l>In guisa che i tuoi lai</l>
+<l>Cangi in più lieto stile,</l>
+<l>Cantando d'un bel volto almo e gentile?</l>
+
+</lg>
+</sp>
+<sp><speaker>LIC.</speaker>
+<lg>
+<l> Se co' sospiri versi</l>
+<l>Da 'l cor tanta dolcezza,</l>
+<l>Che fia se l'alma, in versi</l>
+<l>Solo a dolersi avvezza,</l>
+<l>Lieta si rasserena</l>
+<l>Cantando d'una fronte alma e serena?</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Amore è ne 'l mio danno</l>
+<l>Implacabil tiranno,</l>
+<l>Già fanciul mansueto, or veglio fiero.</l>
+
+</lg>
+</sp>
+<sp><speaker>LIC.</speaker>
+<lg>
+<l> Amor sempre è leggero,</l>
+<l>E sempre scherza e gira,</l>
+<l>E muta l'ira in riso e 'l riso in ira.</l>
+
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg>
+<l> Amore è instabil verno</l>
+<l>Ed instabil sereno,</l>
+<l>Fonte misto di fêle e di veleno.</l>
+
+</lg>
+</sp>
+<sp><speaker>LIC.</speaker>
+<lg>
+<l> Amore è flutto alterno</l>
+<l>Di speranza e di noia,</l>
+<l>E di timor e d'aspettata gioia.</l>
+
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg>
+<l> Amore abonda spesso</l>
+<l>D'alte dolcezze e liete,</l>
+<l>De gli affanni e de' guai soave Lete.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Son vinto, io ve 'l confesso,</l>
+<l>Non da voi, ma da lui ch'i dolci detti</l>
+<l>Par che v'inspiri e detti.</l>
+
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg>
+<l> Ti rendi? Or dunque canta,
+Chè queste leggi impone
+Cortesissimo Amore a 'l suo prigione.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Di che cantar degg'io?</l>
+<l>Di Clori o d'Atalanta?</l>
+<l>O pur, come m'invoglia alto desio,</l>
+<l>Di Lei ch'in questa riva</l>
+<l>S'è mostra in forma di celeste diva?</l>
+<l>§Oh felice fanciulla,</l>
+<l>A cui di puro latte il fiume corse;</l>
+<l>A cui le terre intatte</l>
+<l>Di novi fior la culla</l>
+<l>Sparsero in varie guise,</l>
+<l>E l'aure sospirâro e 'l ciel sorrise:</l>
+<l>Oh d'eroi figlia e sposa,</l>
+<l>Desïata d'eroi madre famosa.</l>
+<l>§Oh, cresciuta in etate,</l>
+<l>Felicissima donna,</l>
+<l>Che, mentre erri scherzando in treccia e 'n gonna,</l>
+<l>Vaghe di tua beltate</l>
+<l>Rendi le valli e i monti,</l>
+<l>Ch'ornano a te le verdi erbose fonti.</l>
+
+</lg>
+</sp>
+<sp><speaker>TUTTI</speaker>
+<lg>
+<l> Oh d'eroi figlia e sposa,</l>
+<l>Aspettata d'eroi madre famosa.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Quando quest'alte piagge</l>
+<l>Prima co 'l piè toccasti,</l>
+<l>A te danzar le Ninfe in atti casti,</l>
+<l>L'alpestri e le selvagge,</l>
+<l>Quelle del fiume, e quelle</l>
+<l>Ch'albergano ne 'l mar vaghe sorelle.</l>
+
+</lg>
+</sp>
+<sp><speaker>TUTTI</speaker>
+<lg>
+<l> Oh d'eroi figlia e sposa,</l>
+<l>Preparata d'eroi madre famosa.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> A te guidaron danze</l>
+<l>Pastor leggiadri, accorti,</l>
+<l>E tenne a fren le voglie il Dio de gli orti</l>
+<l>E in modeste sembianze</l>
+<l>I Satiri, e Sileno</l>
+<l>Ti si mostrò di riverenza pieno.</l>
+
+</lg>
+</sp>
+<sp><speaker>TUTTI</speaker>
+<lg>
+<l> Oh d'eroi figlia e sposa,</l>
+<l>Destinata d'eroi madre famosa.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> A te cantando a gara</l>
+<l>Titiro e Melibeo,</l>
+<l>Parve l'uno Anfione e l'altro Orfeo:</l>
+<l>Ed ora a te rischiara,</l>
+<l>O real Margherita,</l>
+<l>Pastoral canto la mia lingua ardita.</l>
+
+</lg>
+</sp>
+<sp><speaker>TUTTI</speaker>
+<lg>
+<l> Oh d'eroi figlia e sposa,</l>
+<l>Celebrata d'eroi madre famosa.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Tu l'Aurora somigli</l>
+<l>Ne' crini e ne le gote,</l>
+<l>Ed Apollo ne' lumi e ne le note.</l>
+<l>Ninfe, vïole e gigli</l>
+<l>Intrecciate a le chiome,</l>
+<l>Mentr'io segno ne' lauri il suo bel nome.</l>
+
+</lg>
+</sp>
+<sp><speaker>TUTTI</speaker>
+<lg>
+<l> Oh d'eroi figlia e sposa,</l>
+<l>Desïata d'eroi madre famosa.</l></lg>
+</sp>
+</div1> 
+
+<div1 n="Arezia"><head>Arezia</head>
+<stage>AREZIA, TIRINTO. </stage>
+
+<sp><speaker>ARE., TIR.</speaker>
+<lg>
+<l> Era ne la stagione,</l>
+<l>Che impallidir le chiome</l>
+<l>Si veggon de le piante, e gli augelletti,</l>
+<l>Che van fuggendo il gelo,</l>
+<l>Passar di là da 'l mare</l>
+<l>A più temprato cielo;</l>
+<l>Già de l'agricoltor le mani avare</l>
+<l>Tolto aveano a le viti</l>
+<l>Il lor dolce tesoro,</l>
+<l>Che parea 'n vista o di piropo o d'oro.</l>
+<l>Pria che Venere bella</l>
+<l>In orïente splenda,</l>
+<l>Risorto era Tirinto;</l>
+<l>E la sua viva fiamma,</l>
+<l>A l'ombra de la notte umida e bruna,</l>
+<l>Sfogava con le stelle e con la luna:</l>
+<l>E per quei campi errando</l>
+<l>Soletto alfin pervenne</l>
+<l>A l'albergo d'Arezia allora quando</l>
+<l>Parea de 'l dì nascente</l>
+<l>Gravido l'orïente;</l>
+<l>Ed ella innanzi a 'l sole</l>
+<l>Veggendolo apparire</l>
+<l>Pensoso, con le luci a 'l cielo affisse,</l>
+<l>A lui rivolta disse: -</l>
+
+</lg>
+</sp>
+<sp><speaker>ARE.</speaker>
+<lg>
+<l> Ben m'avveggio, Tirinto,</l>
+<l>Qual cagion qui t'ha spinto:</l>
+<l>Non son retti da te questi tuoi passi;</l>
+<l>Ch'i tuoi vari pensieri,</l>
+<l>Come vanno il tuo amor volgendo teco,</l>
+<l>Così t'aggiran seco</l>
+<l>Per distorti sentieri.</l>
+<l>Ma, sia pur stata elezïone o sorte,</l>
+<l>Vieni sotto quest'elce in grembo a l'erba,</l>
+<l>E meco ragionando de 'l tuo stato</l>
+<l>L'interna pena sfoga e disacerba,</l>
+<l>E l'affannato petto in un ristaura</l>
+<l>A lo spirar soave</l>
+<l>Di questa mattutina e placid'aura.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Io vengo, e qui m'assido:</l>
+<l>Così avesser riposo i miei pensieri</l>
+<l>Com'hanno queste membra;</l>
+<l>Chè da l'ora ch'io vidi</l>
+<l>Il viso di colei</l>
+<l>C'ha tutti in sè raccolti i desir miei,</l>
+<l>(Con sospir mi rimembra)</l>
+<l>Non ondeggia sì 'l mare</l>
+<l>Dove dicon ch'Atlante</l>
+<l>Bagna gli umidi piè ne l'onde amare,</l>
+<l>Come fa la mia mente</l>
+<l>Ora lieta or dolente.</l>
+
+</lg>
+</sp>
+<sp><speaker>ARE.</speaker>
+<lg>
+<l> Dimmi, t'è dato mai</l>
+<l>Di scoprirle i tuoi guai</l>
+<l>Con la tua propria bocca, o con l'altrui?</l>
+<l>O pur solo con gli occhi,</l>
+<l>Messaggeri de 'l core,</l>
+<l>Le mostri il tuo dolore?</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Ier mi fu in sorte dato,</l>
+<l>Giorno per me beato!</l>
+<l>Io la vidi, e l'udii</l>
+<l>Parlando sospirare;</l>
+<l>E de' suoi lumi ardenti il vivo sole</l>
+<l>Accese in me l'ardore;</l>
+<l>E l'aura de le sue dolci parole</l>
+<l>E 'l vento de' sospiri</l>
+<l>Spiraron ne l'incendio e il fêr maggiore.</l>
+<l>Nè 'l foco scemerà, ch'ora in me dura,</l>
+<l>O varïar d'etate o di ventura.</l>
+
+</lg>
+</sp>
+<sp><speaker>ARE.</speaker>
+<lg>
+<l> Poi che già sì da presso ella ti mira,</l>
+<l>E tu la miri ed odi,</l>
+<l>Godi, Tirinto, ardendo,</l>
+<l>E de' pensieri acqueta le tempeste:</l>
+<l>Chè, qual tenera rosa</l>
+<l>A la rugiada, a l'ôra</l>
+<l>De la nascente aurora</l>
+<l>Non apre vergognosa</l>
+<l>Il suo vermiglio ed odorato seno:</l>
+<l>Ma, poi che più vicino il caldo sente</l>
+<l>De 'l gran pianeta ardente,</l>
+<l>Apre languendo le purpuree spoglie</l>
+<l>E 'l bel raggio de 'l sole in grembo accoglie:</l>
+<l>Così la verginella</l>
+<l>A i pianti ed a i sospiri</l>
+<l>Di novello amator che lunge miri,</l>
+<l>Chiude il ritroso petto;</l>
+<l>Ma, poi che s'avvicina il vivo ardore</l>
+<l>D'un amoroso aspetto,</l>
+<l>Languendo apre la via per gli occhi a 'l core,</l>
+<l>E ne 'l vergineo sen riceve Amore.</l>
+<l>Ma come t'udì Clori</l>
+<l>Quando le apristi le tue pene ascose?</l>
+<l>E come ti rispose?</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Ella, cortese in vista e vergognosa,</l>
+<l>Di purpureo color tinto il bel volto,</l>
+<l>Talora il dolce sguardo in me volgea,</l>
+<l>E poi gli occhi chinava;</l>
+<l>Ma quando chiuse a la mia voce il passo</l>
+<l>L'affetto che volea</l>
+<l>Tutto in un tempo uscire, in me li affisse</l>
+<l>E sospirando disse:</l>
+<l>- Tirinto, io t'amo ed amerò mai sempre,</l>
+<l>Quanto più cosa a 'l mondo amar conviensi;</l>
+<l>Però de la mia fè vivi contento,</l>
+<l>Se pur ti poss'io dar gioia o tormento. -</l>
+
+</lg>
+</sp>
+<sp><speaker>ARE.</speaker>
+<lg>
+<l> Vero è quel che si dice, </l>
+<l>Ch'infinita è la voglia de gli amanti: </l>
+<l>Tu mostri esser dolente, e sei felice.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> A tai parole sì cortesi e care,</l>
+<l>D'amorosa baldanza il cor ripieno,</l>
+<l>Mossi per gire a lei:</l>
+<l>Nè però m'appressai, ch'in un baleno,</l>
+<l>Vidi nubi di sdegno il bel sereno</l>
+<l>De 'l volto aver coperto, e vidi uscire</l>
+<l>Da' begli occhi lucenti</l>
+<l>Folgori d'ira ardenti;</l>
+<l>Indi fe' segno di partirsi. Allora</l>
+<l>In atto supplichevole e tremante:</l>
+<l>- Non sol (dissi) tu puoi, anima fera,</l>
+<l>Levare a questi miei languidi lumi</l>
+<l>Il lor più caro obietto,</l>
+<l>Ma questo afflitto cor trarmi da 'l petto:</l>
+<l>Non farai già, mentre avrò spirto e core,</l>
+<l>Idolo mio crudel, ch'io non t'adore.</l>
+<l>Deh! torna a me, deh! torna!... - e qui mancommi</l>
+<l>Lo spirito e la voce; e de 'l mio aspetto</l>
+<l>Gli atti languidi e mesti indi le fêro</l>
+<l>A temprare il mio duol pietoso invito.</l>
+<l>Allora ella si volse</l>
+<l>E serenossi in vista,</l>
+<l>E i bei pietosi lumi in me converse.</l>
+<l>Ben vidi in quel momento</l>
+<l>Il bel d'ogni altro bello in me rivolto:</l>
+<l>Sì bella è la pietà ne 'l suo bel volto!</l>
+
+</lg>
+</sp>
+<sp><speaker>ARE.</speaker>
+<lg>
+<l> Caro e soave sdegno, </l>
+<l>Che sol mostrossi ne' begli occhi armato, </l>
+<l>Per esser poi da la pietà fugato.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Fu forza alfin partire;</l>
+<l>E vidi il suo bel viso</l>
+<l>Asperso già di rose,</l>
+<l>Smarrirsi in un pallor leggiadro e misto</l>
+<l>Di vïole amorose</l>
+<l>E di bianchi ligustri:</l>
+<l>Onde non fia giammai ch'io non ritegna</l>
+<l>Ne la memoria impresso e l'atto e 'l loco,</l>
+<l>Esca soave de 'l mio dolce foco.</l>
+
+</lg>
+</sp>
+<sp><speaker>ARE.</speaker>
+<lg>
+<l> Quest'è segno maggiore</l>
+<l>Di vero ardente affetto.</l>
+<l>Sparsi di tal colore</l>
+<l>Vanno i servi d'Amore.</l>
+<l>Godi dunque, Tirinto, e vivi lieto:</l>
+<l>Chè, qual giovane pianta</l>
+<l>Si fa più bella a 'l sole</l>
+<l>Quando men arder suole,</l>
+<l>Ma se fin dentro sente</l>
+<l>Il vivo raggio ardente,</l>
+<l>Dimostran fuor le scolorite spoglie</l>
+<l>L'interno ardor che la radice accoglie:</l>
+<l>Così la verginella,</l>
+<l>Amando, si fa bella</l>
+<l>Quando Amor la lusinga e non l'offende;</l>
+<l>Ma se 'l suo vivo ardore</l>
+<l>La penètra ne 'l core,</l>
+<l>Dimostra la sembianza impallidita,</l>
+<l>Ch'ardente è la radice de la vita.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Se sperar de 'l mio amor tanto mi lice,</l>
+<l>Incendio mio felice!</l>
+<l>Non sarà sasso che non arda meco,</l>
+<l>Nè fia caverna o speco</l>
+<l>Che con me non risuoni il caro nome</l>
+<l>E 'l suo bel volto e le dorate chiome;</l>
+<l>Nè sarà selva che con le fresc'ombre</l>
+<l>Non m'inviti a sfogar l'alma mia fiamma;</l>
+<l>Nè sarà pianta che non mostri espresso</l>
+<l>Il mio gioir ne la sua scorza impresso;</l>
+<l>Nè sarà augello in questi verdi rami</l>
+<l>Che non sembri con me cantando dire: -</l>
+<l>Clori, non fia che non t'onori ed ami. -</l>
+<l>Oh soave languire!</l>
+<l>Felice me, s'io vivo in questo stato!</l>
+<l>Beata lei, ch'altrui può far beato!</l>
+
+</lg>
+</sp>
+<sp><speaker>ARE.</speaker>
+<lg>
+<l> Or mi ascolta, Tirinto.</l>
+<l>Poi che la bella Clori,</l>
+<l>Onor di queste selve,</l>
+<l>Fiamma di mille cori,</l>
+<l>Ad ogni altro pastor ritrosa e dura,</l>
+<l>A te sol dona il foco</l>
+<l>ore, a gli altri il fura,</l>
+<l>Donale la tua fede;</l>
+<l>E degna la mercede</l>
+<l>Sarà de l'alto don che ti fece ella,</l>
+<l>Se sì fido sarai com'essa è bella.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Come, Arezia, potrei non esser fido?</l>
+<l>Troppo fu dolce la catena d'oro</l>
+<l>Con che a la sua beltade Amor m'avvinse;</l>
+<l>Troppo il bel nodo strinse,</l>
+<l>Ch'unito è sì co' 'l nodo de la vita,</l>
+<l>Che scioglier non si può se non per morte;</l>
+<l>Troppo aperte de 'l cor furon le porte</l>
+<l>Quando la bella imago</l>
+<l>A lui pervenne in prima:</l>
+<l>Ed ora n'è sì vago,</l>
+<l>Ch'ad ogni altra le serra,</l>
+<l>Onde non sarà mai bellezza in terra</l>
+<l>Ch'in sè rivolga o renda meno ardente</l>
+<l>Il bel desio de l'invaghita mente.</l>
+
+</lg>
+</sp>
+<sp><speaker>ARE.</speaker>
+<lg>
+<l> Ma se talor la tua leggiadra Ninfa,</l>
+<l>Veggendoti da molt'essere amato,</l>
+<l>Di pallido timor tingesse il volto,</l>
+<l>Temendo che da altrui non le sii tolto,</l>
+<l>Lascia pur ch'ella tema, e ch'altri t'ami:</l>
+<l>Chè il gelo de 'l timore il foco affina</l>
+<l>Ne gli amorosi petti;</l>
+<l>Ma non esser cagion de la sua tema,</l>
+<l>E sembra ne 'l sembiante</l>
+<l>Cortese a tutti, e di lei sola amante.</l>
+<l>Nè far giammai de la sua fede prova,</l>
+<l>Poi che nulla ti giova:</l>
+<l>Sebbene a te paresse,</l>
+<l>Come credo che sia,</l>
+<l>Più salda che colonna,</l>
+<l>Mai non si dee tentar la fè di donna.</l>
+<l>Alfin d'esser rammenta</l>
+<l>Timido di parole</l>
+<l>Seco, e d'effetti audace:</l>
+<l>E sappi che non fu mai senza guerra</l>
+<l>Il dolce fin d'un'amorosa pace.</l>
+<l>Ma ecco, colà veggio</l>
+<l>Venire in vista lieti e vergognosi</l>
+<l>Calisa e 'l suo Batillo, amanti e sposi:</l>
+<l>Felice coppia, a cui concesse Amore</l>
+<l>Refrigerio soave</l>
+<l>De 'l loro onesto ardore.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Adrio di là se 'n viene</l>
+<l>Forse da me, per sfogar meco parte</l>
+<l>De le sue dolci ed amorose pene.</l>
+
+</lg>
+</sp>
+<sp><speaker>ARE.</speaker>
+<lg>
+<l> Dunque vanne, Tirinto, e lui consola</l>
+<l>Poi che sei consolato; </l>
+<l>E lieto vivi e godi</l>
+<l>Ne le tue fiamme e ne' tuoi cari nodi.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Le grazie ch'io dovrei,</l>
+<l>Arezia, non ti rendo;</l>
+<l>Ben te le renderei</l>
+<l>Se parlasser per me gli affetti miei.</l>
+<l>Rimanti dunque, ed importuna guerra</l>
+<l>Di noiosi pensieri</l>
+<l>Non turbi mai la tua tranquilla pace.</l>
+<l>Destro a te giri il cielo,</l>
+<l>Ti dia frutti la terra,</l>
+<l>Nè pioggia accolta in gelo</l>
+<l>Giammai t'abbatta i campi:</l>
+<l>Nè mai folgori o lampi</l>
+<l>Cadano qui de la gran madre in grembo;</l>
+<l>Ti sia l'äer sereno, e largo nembo</l>
+<l>Di dolcissima manna e di rugiada</l>
+<l>Piova in questa felice alma contrada.</l></lg></sp></div1>
+
+<div1 n="Festa campestre">
+<stage>AMARILLI, LEUCIPPE, TIRINTO. </stage>
+
+<sp><speaker>TUTTI</speaker>
+<lg>
+<l> Era ne la stagion ridente e lieta,</l>
+<l>Stagion d'amore amica,</l>
+<l>Che la gran madre antica</l>
+<l>Par che si rinovelli,</l>
+<l>E, di color più belli</l>
+<l>Leggiadramente ornata</l>
+<l>Il duro antico volto e il freddo seno,</l>
+<l>Sembra de l'alto cielo innamorata,</l>
+<l>Che la vagheggia e mira</l>
+<l>Con occhio più lucente e più sereno:</l>
+<l>Ne l'ora che si desta</l>
+<l>Zefiro, e forse le sue pene ascose</l>
+<l>Disfoga con sospir d'aure amorose,</l>
+<l>E che l'ombre notturne</l>
+<l>E le luci dïurne</l>
+<l>Fan dubbio ancor a l'aria, a 'l cielo intorno,</l>
+<l>Se pure è notte o giorno:</l>
+<l>Quando Amarilli bella</l>
+<l>De gli augelletti a 'l canto</l>
+<l>Risorta da le piume,</l>
+<l>Secondo il suo costume,</l>
+<l>Giva lieta per fare a 'l suo bel viso</l>
+<l>Specchio ad un chiaro fiume,</l>
+<l>E vide di lontan venir Leucippe,</l>
+<l>E corse, ed abbracciolla, e così disse: -</l>
+
+</lg>
+</sp>
+<sp><speaker>AMAR.</speaker>
+<lg>
+<l> Cara Leucippe mia, come ti veggio</l>
+<l>Risorta innanzi a 'l sole!</l>
+<l>Qual cagion sì per tempo or qui t'ha spinta?</l>
+<l>Forse l'amor de 'l tuo gentile Aminta?</l>
+
+</lg>
+</sp>
+<sp><speaker>LEU.</speaker>
+<lg>
+<l> Tu dèi saper che sotto l'olmo ombroso</l>
+<l>S'aduna oggi ogni ninfa, ogni pastore</l>
+<l>Ch'abbia senso d'amore:</l>
+<l>Quivi in leggiadre danze</l>
+<l>Le ninfe e i pastorelli,</l>
+<l>Or con queste or con quelli</l>
+<l>Desteranno i timori e le speranze</l>
+<l>Ne gli amorosi petti;</l>
+<l>Indi ballo cangiando a coppia unita,</l>
+<l>Andranno intorno or più veloci, or lenti:</l>
+<l>Quivi sommessi accenti,</l>
+<l>E interrotti sospiri</l>
+<l>Daran segno or di gioie, or di martìri.</l>
+<l>Allor Colui che regge</l>
+<l>I vaghi errori suoi con certa legge,</l>
+<l>Ecco farà cangiare e mano e loco:</l>
+<l>Chi diverrà di foco,</l>
+<l>Chi sparso il volto d'un color di morte</l>
+<l>Languidetto vedrassi,</l>
+<l>E dir di lui potrassi:</l>
+<l>Questi, cangiando man, cangiato ha sorte.</l>
+<l>Or qui da te ne vegno</l>
+<l>Perchè insieme n'andiamo: ivi vedrai</l>
+<l>Il tuo Mirtillo, ed io 'l mio Aminta ancora.</l>
+<l>O felice per noi nascente aurora!</l>
+
+</lg>
+</sp>
+<sp><speaker>AMAR.</speaker>
+<lg>
+<l> Andiam, Leucippe mia,</l>
+<l>Che ben invita la stagione e 'l tempo</l>
+<l>A sì dolce soggiorno: io voglio pria</l>
+<l>Ch'usciam di questo prato</l>
+<l>Tesser di bianchi fior vaga corona</l>
+<l>A 'l mio Mirtillo amato,</l>
+<l>E, se riporta ne le danze il pregio,</l>
+<l>Faronne a 'l suo bel crin leggiadro fregio.</l>
+
+</lg>
+</sp>
+<sp><speaker>LEU.</speaker>
+<lg>
+<l> Poca mercede de 'l tuo bel Mirtillo</l>
+<l>Fia corona di fiori;</l>
+<l>Però meglio sarà che te n'infiori</l>
+<l>Il crin dorato e 'l seno:</l>
+<l>E vedrà chi de' fior fa paragone</l>
+<l>A 'l tuo bel volto, quanto</l>
+<l>A lor tu scemi e a te s'accresca il vanto.</l>
+
+</lg>
+</sp>
+<sp><speaker>AMAR.</speaker>
+<lg>
+<l> Ecco io fo il tuo consiglio,</l>
+<l>E sarà di Mirtillo in premio eletto</l>
+<l>De 'l mio candido core il puro affetto.</l>
+<l>Ma già di questo prato i vaghi onori</l>
+<l>Ho depredato intorno. Andiam, Leucippe,</l>
+<l>Andiamo, ben ch'io stimi</l>
+<l>Che ancor le ninfe amanti</l>
+<l>Non siano insieme accolte.</l>
+<l>Chi vorrà d'amaranti</l>
+<l>Intrecciarsi le chiome;</l>
+<l>Chi d'amorose e pallide vïole</l>
+<l>Farsi il bel seno adorno,</l>
+<l>Perchè le natìe rose a 'l lor pallore</l>
+<l>Mostrin più bello e caro il bel colore;</l>
+<l>Chi vorrà di coralli</l>
+<l>Cingersi il braccio e 'l collo;</l>
+<l>Chi di minuti e lucidi cristalli</l>
+<l>Farsi vago monile</l>
+<l>Per apparir più bella è più gentile.</l>
+
+</lg>
+</sp>
+<sp><speaker>LEU.</speaker>
+<lg>
+<l> Ecco, siam giunte, e t'apponesti; ancora</l>
+<l>È sì solingo il loco,</l>
+<l>Che non vi veggio alcun, fuor ch'un pastore</l>
+<l>Che mostra ne 'l sembiante</l>
+<l>Gravissimo dolore.</l>
+
+</lg>
+</sp>
+<sp><speaker>AMAR.</speaker>
+<lg>
+<l> Io 'l veggio, egli è Tirinto:</l>
+<l>Vedi come smarrito è ne 'l suo volto</l>
+<l>Il solito rossore.</l>
+<l>Certo cagion n'è Amore:</l>
+<l>Ecco che a noi se 'n viene. -</l>
+<l>Ti faccia Amor felice,</l>
+<l>Gentil Tirinto mio,</l>
+<l>Poi che leggo ne 'l tuo languido aspetto</l>
+<l>Che sei di lui soggetto.</l>
+
+</lg>
+</sp>
+<sp><speaker>LEU.</speaker>
+<lg>
+<l> Amor, Tirinto mio, ti dia mercede</l>
+<l>Eguale a la tua fede.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Amore a 'l suo gioire</l>
+<l>Così destini voi, com'io già sono</l>
+<l>Destinato a 'l martire.</l>
+
+</lg>
+</sp>
+<sp><speaker>AMAR.</speaker>
+<lg>
+<l> Non sospirar, Pastor, non sospirare;</l>
+<l>Queste lagrime amare</l>
+<l>Che spargi da' tuoi lumi,</l>
+<l>Non spegneran scintilla de l'ardore</l>
+<l>Ove ognor ti consumi:</l>
+<l>Che se Amor da le fiamme de 'l tuo core</l>
+<l>Può trarre umore e venti,</l>
+<l>Trarrà da 'l pianto ancor faville ardenti.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Non spero io, Ninfa, già, che questo umore</l>
+<l>Scemi in parte la fiamma,</l>
+<l>Che il cor mi strugge e infiamma;</l>
+<l>Ma spero ben che questa vita e 'l pianto</l>
+<l>E sì lungo martire</l>
+<l>Finisca co 'l morire;</l>
+<l>E s'avvien che da morte i' non impetri</l>
+<l>Questa pietà crudele,</l>
+<l>Nascendo da la mia perpetua pena</l>
+<l>Questa di pianto inessicabil vena,</l>
+<l>Essend'ella infinita</l>
+<l>Come sarà la vita,</l>
+<l>Piangerò tanto almen, che di quest'onde</l>
+<l>Satolli e purghi il lacrimoso rio</l>
+<l>D'Amor l'ardente sete e l'ardor mio.</l>
+
+</lg>
+</sp>
+<sp><speaker>AMAR.</speaker>
+<lg>
+<l> Dimmi, ch'errore è questo, </l>
+<l>Tirinto mio, se pur saper mi lice</l>
+<l>L'alta cagion che ti fa sì infelice?</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Amar più di me stesso</l>
+<l>Chi non solo a l'amor mio non risponde,</l>
+<l>Ma mi fugge e s'asconde;</l>
+<l>E non solo mi fugge,</l>
+<l>Ma dispregia, crudele,</l>
+<l>Il don d'un cor sì puro e si fedele.</l>
+<l>Ma che più? M'odia, e solo</l>
+<l>Fra tant'altro gioire</l>
+<l>De 'l mio fero martire</l>
+<l>Ha questo ingiusto duolo,</l>
+<l>Che non può far, nè lo consente Amore,</l>
+<l>Che più ch'ella non m'odia io non l'adore.</l>
+
+</lg>
+</sp>
+<sp><speaker>LEU.</speaker>
+<lg>
+<l> Che fu? La sua bellezza o la tua voglia,</l>
+<l>O pur fero destino,</l>
+<l>Ch'in prima la tua mente tenerella</l>
+<l>Fe' di sì fero cor misera ancella?</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> S'unîr, perch'io sia sempre sconsolato, </l>
+<l>A 'l mio voler la sua bellezza e 'l fato.</l>
+
+</lg>
+</sp>
+<sp><speaker>LEU.</speaker>
+<lg>
+<l> S'alta beltà divina</l>
+<l>Un amoroso cor vien ch'imprigione,</l>
+<l>Ella paghi l'error, chè n'è cagione:</l>
+<l>E se forza è di stelle,</l>
+<l>Ben sarìa troppo ingiusta e fera legge</l>
+<l>Punir chi non elegge:</l>
+<l>Ma, se un'alma cortese</l>
+<l>Volontaria si dona,</l>
+<l>Questa è pur crudeltà ch'ogni altra eccede,</l>
+<l>Che di quel ch'ella diede,</l>
+<l>Se gradito non è nè l'è renduto,</l>
+<l>Paghi d'amaro pianto ampio tributo.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Estrema crudeltà, ma non ragione</l>
+<l>De l'amor mio, de la mia fede pura:</l>
+<l>Anzi tanto minore,</l>
+<l>Quanto più innato affetto
+È de l'odio l'amor ne 'l nostro petto.</l>
+
+</lg>
+</sp>
+<sp><speaker>AMAR.</speaker>
+<lg>
+<l> Spera, Tirinto, spera,
+Chè nulla donna è fera.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Ahi! che troppo sperai</l>
+<l>Quando lasciai me stesso</l>
+<l>Ed a seguir chi fugge incominciai.</l>
+<l>Nè potuto ha ragion sveller giammai</l>
+<l>Da 'l cor questa radice amara e dolce,</l>
+<l>Che, mentre l'alma uccide, i sensi molce;</l>
+<l>Onde, Amor, sei cagion ch'io viva e pera.</l>
+<l>Oh speranza fallace e lusinghiera!</l>
+
+</lg>
+</sp>
+<sp><speaker>LEU.</speaker>
+<lg>
+<l> Tu dèi sperar almeno</l>
+<l>Che dopo lunga pioggia</l>
+<l>Ritorni il ciel sereno;</l>
+<l>E, chi sa? se ti tiene</l>
+<l>Amor fra tante doglie,</l>
+<l>Forse ritarda ancor d'esserti grato</l>
+<l>Per farti poi più lieto e più beato.</l>
+<l>Dunque ti racconsola,</l>
+<l>E questo lacrimar rivolgi in canto</l>
+<l>Tu, che a mille pastor ne hai tolto il vanto</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Come potrà già mai questa mia bocca, </l>
+<l>Sol a dir note di lamenti avvezza, </l>
+<l>Formar voci di gioia e di dolcezza?</l>
+
+</lg>
+</sp>
+<sp><speaker>AMAR.</speaker>
+<lg>
+<l> Forse saran presagio questi accenti</l>
+<l>Di futuri contenti.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> È in me d'ogni mia gioia</l>
+<l>Sì debil la speranza, </l>
+<l>Ch'altro che lacrimar nulla m'avanza.</l>
+
+</lg>
+</sp>
+<sp><speaker>LEU.</speaker>
+<lg>
+<l> Canta, Tirinto, canta</l>
+<l>E te stesso consola, e noi rallegra;</l>
+<l>Questa stagione allegra</l>
+<l>E ministra d'amore</l>
+<l>Ammollirà quel core,</l>
+<l>Quel duro cor già sì d'amor nemico,</l>
+<l>Che, fattosene donno,</l>
+<l>Darà degna mercede</l>
+<l>A la sua feritate, a la tua fede;</l>
+<l>E poi ch'ella non volse</l>
+<l>Mansueto signore,</l>
+<l>Ora con suo gran danno</l>
+<l>Lo proverà tiranno.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Io già da voi son vinto, e mi son reso:</l>
+<l>Ecco ch'io canto, e mi rivolgo a Clori,</l>
+<l>Se pur da 'l lacrimar non m'è conteso. -</l>
+<l>Ma ecco un grande stuolo</l>
+<l>Quinci di ninfe e quindi di pastori.</l>
+
+</lg>
+</sp>
+<sp><speaker>LEU.</speaker>
+<lg>
+<l> Ecco là il tuo Mirtillo, ecco il mio Aminta! </l>
+<l> Amarilli, no 'l vedi? E già da lunge</l>
+<l> Con amorosi strai mi sfida e punge.</l>
+
+</lg>
+</sp>
+<sp><speaker>AMAR.</speaker>
+<lg>
+<l> Ecco di là Batillo ed Adrio insieme, </l>
+<l> E Clonico e Timeta, </l>
+<l> E dopo tutti loro il saggio Elpino.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Vedete Caritea</l>
+<l>Come, sparsa di fior le belle chiome,</l>
+<l>Mira il gentil pastor che d'Adria ha 'l nome.</l>
+<l>Vedete là Calisa</l>
+<l>Come di furto il suo Batillo mira,</l>
+<l>Indi si volge altrove e gli occhi gira.</l>
+<l>Ma chi cela il desio, chi asconde Amore?</l>
+<l>Sembran dire i suoi lumi: - ardente è il core! -</l>
+<l>Amaranta la bella</l>
+<l>E l'amorosa Clizia</l>
+<l>Seguon, di sangue e di beltà sorelle:</l>
+<l>E si mostrano in veste</l>
+<l>D'almo color celeste</l>
+<l>Quali 'n serena notte ardenti stelle.</l>
+<l>Ma non vogl'io che 'l mio martîr rimanga</l>
+<l>De le vostre allegrezze</l>
+<l>Compagno doloroso.</l>
+<l>Addio, soggiorno ombroso,</l>
+<l>Addio, coppia di Ninfe amica e fida;</l>
+<l>Io vo colà dove il dolor mi guida.</l></lg></sp></div1>
+
+
+
+<div1 n="Convito di pastori">
+<stage> TIRINTO, DAMONE.</stage>
+
+<sp><speaker>TIR., DAM.</speaker>
+<lg>
+<l> Già si tuffava il Sol ne l'ampio nido</l>
+<l>Ov'egli alberga, e l'ali umide ombrose</l>
+<l>Stendea l'oscura Notte intorno a 'l cielo;</l>
+<l>Già dispiegava il suo gemmato manto</l>
+<l>D'ardenti stelle, e di rugiada un nembo</l>
+<l>Piovea soave a la gran madre in seno;</l>
+<l>Quando Damone, e di pastori e ninfe</l>
+<l>Seco leggiadro stuol, da le campagne</l>
+<l>Tornava ad un convito a 'l proprio albergo,</l>
+<l>Che 'l primo dì de 'l mese innanzi Aprile</l>
+<l>Fea per costume antico, allor che 'l sole</l>
+<l>Riconducea quel dilettoso giorno.</l>
+<l>Ed un pastor fra lor detto Tirinto,</l>
+<l>Tirinto amante de la bella Clori,</l>
+<l>A l'amico Damon rivolto, disse: -</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Dimmi, Damon, perchè da te si serba</l>
+<l>Ogni giro di sol quest'uso? E quale</l>
+<l>Prima cagione a lui principio diede?</l>
+
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg>
+<l> Poi che me 'l chiedi, e veggio stare intenti</l>
+<l>Pastori e ninfe, ancor che l'ora sia</l>
+<l>Di pascer anzi il gusto che l'udito,</l>
+<l>Dirò donde tal uso origin ebbe.</l>
+<l>Fur già molti anni in quest'erbose rive</l>
+<l>Duo pastori, uno Alceo, l'altro Sileno,</l>
+<l>Ch'ebber due figli, e in un istesso giorno</l>
+<l>Da l'acerbo destin tolti lor furo.</l>
+<l>Nacque a Sileno una fanciulla poi,</l>
+<l>Che in età crebbe ed in bellezza, ed arse</l>
+<l>Di mille pastorelli i cori e l'alme.</l>
+<l>Questa ne 'l vago april de' suoi verd'anni,</l>
+<l>Di grazia e di beltà leggiadro fiore,</l>
+<l>Le rose impallidir, d'invidia vinte,</l>
+<l>Fea a 'l purpureo color de 'l suo bel volto,</l>
+<l>Ed arrossir per la vergogna i gigli</l>
+<l>A 'l suo dolce candore: e se ne giva</l>
+<l>Per questi prati e selve altera e sola,</l>
+<l>Di nullo amante e da ciascuno amata.</l>
+<l>Ma non consente Amor ch'alta beltate</l>
+<l>Non provi in sè quali in altrui sian l'arme</l>
+<l>Onde, in virtù di lui, piacendo ancide.</l>
+<l>Un giovine pastor, di nome Alcippo,</l>
+<l>Alcippo il biondo, in queste selve giunse,</l>
+<l>A cui fu tanto il ciel largo e cortese,</l>
+<l>Quanto Fortuna de' suoi doni avara;</l>
+<l>Questi fermossi con Sileno, ed era</l>
+<l>Per natura signor, per sorte servo.</l>
+<l>Ma come pria vide Amarilli bella,</l>
+<l>(Ch'ebbe tal nome la leggiadra Ninfa)</l>
+<l>Mirolla intento, e più d'ognun s'accese</l>
+<l>Di quella fiamma onde ciascuno ardea.</l>
+<l>Ella, volgendo in lui l'altero sguardo,</l>
+<l>Pria si compiacque di sua dolce vista,</l>
+<l>Ed indi da 'l piacer nacque il desio,</l>
+<l>Desio d'amor via più d'ogni altro ardente.</l>
+<l>Il giovinetto innamorato Alcippo</l>
+<l>Avea pien de 'l suo ardor quest'aere tutto,.</l>
+<l>E da 'l suo sospirare eran le fronde</l>
+<l>Mosse non pur, ma impallidite ed arse;</l>
+<l>E la bella Amarilli, che sì lieta</l>
+<l>Di libertate e di bellezza altera</l>
+<l>Errar soleva, ora pensosa e mesta</l>
+<l>Se 'n gìa per questi campi, e 'l suo bel volto</l>
+<l>Pallidetto scopriva i bei colori</l>
+<l>Come a 'l più ardente sol languida rosa.</l>
+<l>Era chiuso l'incendio in ambo i cori</l>
+<l>Sotto chiavi di tema e di vergogna;</l>
+<l>Ma tanto il fero ardor crebbe ne 'l petto</l>
+<l>D'Alcippo, ch'alfin vinto ogni ritegno,</l>
+<l>Fu forza che s'aprisse in tai parole,</l>
+<l>Mentre era un dì con Amarilli a l'ombra:</l>
+<l>- Donna de l'alma mia, de la mia vita,</l>
+<l>Perdona a 'l folle ardir; t'amo, t'adoro,</l>
+<l>Ed ardo de 'l tuo ardor; nè ti sdegnare</l>
+<l>S'io son vil esca di sì nobil fiamma,</l>
+<l>Ch'ognuno scalda a cui risplende il sole!</l>
+<l>Deh! gradisci il mio cor, questo cor fido,</l>
+<l>Ch'arso de le tue fiamme io ti consacro. -</l>
+<l>Qui tacque: ed ella, in lui volgendo i lumi,</l>
+<l>Da 'l profondo de 'l cor trasse un sospiro,</l>
+<l>E disse: - Alcippo, io t'amo; e questa mano</l>
+<l>Sia pegno de 'l mio amor, de la mia fede</l>
+<l>Con che ora a te mi lego; e per lei giuro</l>
+<l>Che d'altri non sarò se tua non sono. -</l>
+<l>Tacque: e i begli occhi gravidi di perle</l>
+<l>Di purpureo color fur tinti intorno;</l>
+<l>E 'l fortunato Alcippo a lei sol rese</l>
+<l>Per parole sospir, per grazie pianto.</l>
+<l>Ma, mentre in tale stato eran le cose,</l>
+<l>Giunse un pastor, di nome Ergasto, e seco</l>
+<l>Un che per figlio tenne, Aminta detto.</l>
+<l>Questi vide Amarilli, e restò preso</l>
+<l>Da 'l laccio stesso onde Amor tanti avvinse.</l>
+<l>Ben se n'avvide Ergasto e non gli spiacque,</l>
+<l>Poi che donna di lui degna gli parve.</l>
+<l>La richiese a Sileno, e da Sileno</l>
+<l>Fu per Aminta suo sposa promessa.</l>
+<l>Ma, com'ella da 'l padre il tutto intese,</l>
+<l>Mostrossi a 'l giogo marital ritrosa</l>
+<l>Ed a l'amor de 'l suo novello amante;</l>
+<l>Nè con dolci parole, o con lusinghe</l>
+<l>Potè piegarla mai; di che sdegnato,</l>
+<l>Disse: - Farai de 'l tuo volere il mio,</l>
+<l>Chè così voglio. - E poi da lei partissi,</l>
+<l>E 'l dì prefisse a le future nozze.</l>
+<l>Ma come prima ella rimase sola,</l>
+<l>Sospirò, pianse: e de' begli occhi suoi</l>
+<l>Eran le belle lagrime cristallo,</l>
+<l>E fiamma i suoi sospiri: e quando tregua</l>
+<l>Per brevissimo spazio ebbe da loro,</l>
+<l>Il suo dolore in tai parole espresse:</l>
+<l>- Dunque romper la fè, dunque degg'io</l>
+<l>Lasciare Alcippo mio, l'anima mia?</l>
+<l>O pur deggio morir misera in prima?</l>
+<l>S'io moro, ohimè! quanto martìre, Alcippo,</l>
+<l>Partendomi da te, dolente avrai!</l>
+<l>Forse vorrai seguirmi... Ahi! che più temo</l>
+<l>L'incerta tua, che la mia certa morte.</l>
+<l>Ma s'io poi resto in questa amara vita,</l>
+<l>Esser potrò d'altrui, se non d'Alcippo?</l>
+<l>Ah! che meglio è morir: mora Amarilli,</l>
+<l>E viva la sua fede: e sia quel letto,</l>
+<l>Ch'è fatto a i brevi sonni ed a i diletti,</l>
+<l>A me d'affanni e di perpetuo sonno. -</l>
+<l>Tacque, e i languidi lumi a 'l cielo affisse,</l>
+<l>Ch'avrian forse a pietà mosso l'inferno.</l>
+<l>Intanto venne il giorno che prescritto</l>
+<l>Avea il padre a le nozze, ella a la morte:</l>
+<l>E ne l'ultima sera a 'l gran convito,</l>
+<l>Ch'avea fatto Sileno, era anche Alceo:</l>
+<l>E poi che fu di Cerere e di Bacco</l>
+<l>In loro ogni appetito in tutto estinto,</l>
+<l>Disse Ergasto a Silen: - Già quattro lustri</l>
+<l>Rivolti ha 'l ciel, ch'in questo istesso giorno,</l>
+<l>Giorno per me felice e memorando,</l>
+<l>Mi diè per figlio Aminta, e di lui figli</l>
+<l>Or mi promette co 'l favor de 'l cielo. -</l>
+<l>Cui rispose Silen: - Deh! dimmi, Ergasto,</l>
+<l>Come trovasti Aminta? e qual ventura</l>
+<l>A lui te padre, a te lui figlio diede? -</l>
+<l>Ed egli: - Io 'l vidi solo errar piangendo</l>
+<l>In questo bosco, che feconda e bagna</l>
+<l>Con l'onde sue d'argento il chiaro Mincio,</l>
+<l>Di qui passando un giorno, ed avea a 'l collo</l>
+<l>Questa imagine appesa, ch'ancor tengo</l>
+<l>E terrò sempre per memoria. - Allora</l>
+<l>L'interruppe Sileno, ed abbracciando</l>
+<l>Aminta, per suo figlio il riconobbe.</l>
+<l>Stupissi Ergasto: - Da qui innanzi, disse,</l>
+<l>Sarà figlio comun d'entrambi Aminta. -</l>
+<l>Soggiunse poi: - Meco il condussi, e quando</l>
+<l>Fummo ove il fiume si converte in lago,</l>
+<l>Era una cuna in su la molle arena,</l>
+<l>Ivi da 'l vento spinta: io corsi, e vidi</l>
+<l>Esservi dentro un fanciullin, ch'a 'l petto</l>
+<l>Un segno avea, quasi di stella impresso;</l>
+<l>E, vinto da stupore e da pietate,</l>
+<l>Il tolsi in braccio ed il condussi meco.</l>
+<l>Ma, come giunse in su 'l fiorir de gli anni,</l>
+<l>Da me partissi; ed io mirando a caso</l>
+<l>L'altr'ier in questo albergo il riconobbi.</l>
+<l>Questi ebbe nome Alcippo. - Allora Alcèo</l>
+<l>S'accorse ch'era il suo perduto figlio,</l>
+<l>E ricercar con ogni studio il fece,</l>
+<l>Di meraviglia e d'allegrezza pieno.</l>
+<l>Ripigliò Ergasto: - Poi che preparate</l>
+<l>Son già le nozze, or Amarilli bella</l>
+<l>D'Alcippo sia, s'esser non può d'Aminta. -</l>
+<l>Fur concordi Sileno e 'l buon Alceo,</l>
+<l>E raddoppiâr la gioia: e solo Alcippo</l>
+<l>Attendean per dar fine a i lor contenti,</l>
+<l>E più d'ognun la candida Amarilli,</l>
+<l>Che, poi ch'allor d'Alcippo suo sperava</l>
+<l>Legar la fè con più sincero nodo,</l>
+<l>Vestì di gioia e fe' sereno il volto</l>
+<l>In cui vivo il dolore era ritratto.</l>
+<l>Mentre aspettavan di vedere Alcippo,</l>
+<l>Ecco un servo venir turbato in vista,</l>
+<l>Dicendo: - Oh miserello Alcippo! oh sorte</l>
+<l>Più d'ogni altra crudele! - A tai parole</l>
+<l>Sbigottîr tutti, e solo Alceo piangendo</l>
+<l>Domandògli: - Il mio Alcippo è morto, o vivo? -</l>
+<l>Rispose: - È morto; e di dolore è morto.</l>
+<l>Misero! Il vidi a 'l tramontar de 'l sole</l>
+<l>Uscir da questo tetto, e troppo in volto</l>
+<l>Cangiato, ohimè! da quel ch'esser solea;</l>
+<l>Errò per lungo spazio, ed io il seguii:</l>
+<l>Stette alfine in un prato e 'n terra fisse</l>
+<l>Le luci, e disse le parole estreme:</l>
+<l>«Vita soave e di dolcezza piena</l>
+<l>Mentre a l'empia mia sorte ed a 'l ciel piacque,</l>
+<l>Che fai or meco sconsolata e trista?</l>
+<l>Tempo è ben di morir, se l'alma mia</l>
+<l>È già fatta d'altrui. Felice morte,</l>
+<l>S'allor moria quando vivea sua fede!</l>
+<l>Sua fede è morta, e non è sciolta, ch'ella</l>
+<l>Esser d'altrui non può se non è mia,</l>
+<l>Mentre ch'io vivo. Ahi! già morir mi sento.</l>
+<l>Cresci, dolore, e fa il pietoso e crudo</l>
+<l>Ufficio, ch'a far pronta era la mano,</l>
+<l>E sciogli la sua fede e la mia vita.»</l>
+<l>Qui tacque, e pien di morte i sensi e 'l volto,</l>
+<l>Come reciso fior, cadde fra l'erba. -</l>
+<l>Se questo ad Amarilli il cor trafisse,</l>
+<l>Chi sente amor per sè lo stimi: svenne,</l>
+<l>E restò breve spazio esangue; e, come</l>
+<l>Prima raccolse i languidetti spirti,</l>
+<l>Corse ove Alcippo suo giacea: ma quando</l>
+<l>Il vide in atto tal, sopra lui cadde,</l>
+<l>E 'n questo flebil suon proruppe e disse: -</l>
+<l>Oh occhi de 'l mio core e di amor lumi,</l>
+<l>Ch'or rende morte, ohimè! torbidi e chiusi,</l>
+<l>Oh volto già di fiamme, ora di neve,</l>
+<l>Oh bocca già di rose, or di vïole,</l>
+<l>Io vi miro e non moro? Alcippo amato,</l>
+<l>Tu 'l mio foco accendesti, or sei di ghiaccio,</l>
+<l>Nè spegne il gelo tuo l'incendio mio?</l>
+<l>Ohimè! qual'io ti veggio! oh luci triste,</l>
+<l>Anzi fonti di tenebre e di pianto,</l>
+<l>Troppo vedeste; or vi chiudete omai:</l>
+<l>Deh! non lacrime più, non più parole,</l>
+<l>Non più sospiri; sola morte, sola</l>
+<l>Esser può testimon de 'l mio martìre.</l>
+<l>Anima bella, se qui 'ntorno sei</l>
+<l>A le tue belle membra, e vedi ed odi</l>
+<l>Il mio dolore e le mie voci estreme,</l>
+<l>Deh! per pietà, s'anco è per me pietate,</l>
+<l>Teco m'accogli, ch'io ti seguo. - In questo</l>
+<l>Rivenne Alcippo, e gli occhi stanchi aprendo</l>
+<l>Il suo perduto ben si vide in braccio:</l>
+<l>Vista dolce e beata! e questi e quella,</l>
+<l>L'un de la fede e l'altra de la vita</l>
+<l>Che già spente tenean, restâr sicuri;</l>
+<l>E se ne gîr da la temuta morte</l>
+<l>A le bramate e non sperate nozze.</l>
+<l>Così cangia fortuna in un momento</l>
+<l>Lo stato uman da l'uno a l'altro estremo.</l>
+<l>Ebber figli costor ch'a gli avi miei</l>
+<l>Fur padri: onde si serba ancor memoria</l>
+<l>Ne 'l giorno istesso ogni anno in un convito</l>
+<l>Di quell'antica e memorabil cena.</l>
+<l>Ma già l'ora trascorre: e 'l tempo chiede</l>
+<l>Altro che ragionar, Tirinto mio.</l>
+
+</lg>
+</sp>
+<sp><speaker>TIR.</speaker>
+<lg>
+<l> Dunque sediamo a mensa, e celebriamo</l>
+<l>Con la presente la passata festa. </l>
+</lg></sp></div1></body></text></TEI.2>

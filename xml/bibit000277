@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Lo schiavo liberato</title>
+      <author>Sebastiano Baldini</author>
+    </titleStmt>
+    <extent>19 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000277</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>The Italian cantata in the seventeenth century : facsimiles of manuscripts and prints of works by leading composers including an edition of the poetic texts</title>
+        <title type="part">Cantatas</title>
+        <author>Stradella, Alessandro</author>
+        <editor id="ed">Gianturco, Carolyn</editor>
+        <publisher>Garland Publishing</publisher>
+        <pubPlace>New York ; London</pubPlace>
+        <date>1986</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>600</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-08-10T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Chiara Comastri</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text lang="ita">
+<body>
+<div1 type="part"><head type="conv">PARTE PRIMA</head>
+
+
+<sp><speaker>ARMIDA</speaker>
+<lg type="versi sciolti"><l>Non ti riveggio ancora</l>
+<l>e comporti ch'in me cresca l'affanno;</l>
+<l>farsi non dee tiranno</l>
+<l>un nume tutelar di chi l'adora.</l></lg>
+
+	<lg type="strofa"><l rend="indent" n="5">E dove t'aggiri,</l>
+<l>o idolo amato?</l>
+<l>Rinaldo adorato,</l>
+<l>e come puoi soffrir ch'io non ti miri?</l></lg>
+
+<lg type="versi sciolti"><l>Sovra del carro mio per l'aria a volo</l>
+<l n="10">qua ti portai, ma per goder te solo.</l></lg>
+
+	<lg type="strofa"><l rend="indent">E tu peregrino</l>
+<l>errando ten vai</l>
+<l>nel vago giardino</l>
+<l>negando a me quei sospirati rai.</l></lg>
+
+<lg type="versi sciolti"><l n="15">Se vuoi fiori, ecco il volto. I frutti brami?</l>
+<l>Per gustarli, o crudel, basta che m'ami.</l></lg></sp>
+
+<sp><speaker>RINALDO</speaker> <lg type="versi sciolti"><l>Deh, non lagnarti, Armida,</l>
+<l>ch'avrei l'alma di sasso,</l>
+<l>se lontan da colei movessi il passo</l>
+<l n="20">che tra tante delizie il cor mi guida.</l></lg>
+
+	<lg type="strofa"><l rend="indent">Raffrena i pianti e le strida,</l>
+<l>non s'odano più querele</l>
+<l>che troppo affliggono il core.</l>
+<l>Io t'amo né son crudele:</l>
+<l n="25">sdegna le crudeltà chi segue amore.</l></lg></sp>
+
+<sp><speaker>ARMIDA</speaker> <lg type="versi sciolti"><l>Or sappi ch'in tormento</l>
+<l>vivo, se non ti miro;</l>
+<l>sempre per te sospiro</l>
+<l>e dove non sei tu non v'è contento.</l></lg></sp>
+<sp><speaker>RINALDO</speaker> <lg type="versi sciolti"><l n="30">Io sol per te sospiro</l>
+<l>e dove non sei tu non v'è contento.</l></lg></sp>
+
+<sp><speaker>ARMIDA</speaker> 	<lg type="strofa"><l rend="indent">Sin che verdeggia</l>
+<l>la tua beltà,</l>
+<l>per questa reggia</l>
+<l n="35">passiam l'età.</l>
+	<l rend="indent">Senza ristori</l>
+<l>non corra un dì;</l>
+<l>de' nostri amori</l>
+<l>godiam così.</l></lg></sp>
+
+<sp><speaker>ARMIDA, RINALDO</speaker> 	<lg type="strofa"><l rend="indent" n="40">Esca dal nostro petto ogni martire:</l>
+<l>chi seguace è d'amor deve gioire.</l></lg></sp>
+
+<sp><speaker>ARMIDA</speaker> <lg type="versi sciolti" part="I"><l>Ma perché da me lungi, idolo mio?</l></lg></sp>
+<sp><speaker>RINALDO</speaker> <lg type="versi sciolti" part="M"><l>Curioso desio</l>
+<l>mi trasportò per queste</l>
+<l n="45">germoglianti foreste.</l></lg></sp>
+<sp><speaker>ARMIDA</speaker> <lg type="versi sciolti" part="F"><l>Attendi, attendi me che sempre teco</l>
+<l>lieta vivrò dentro il tartareo speco.</l></lg></sp>
+
+<sp><speaker>RINALDO</speaker> 	<lg type="strofa"><l rend="indent">D'amarsi e mirarsi</l>
+<l>in braccio al suo bene,</l>
+<l n="50">è tanto gradita</l>
+<l>la vita</l>
+<l>che tal sorte dagl'astri unqua non viene.</l></lg></sp>
+
+<sp><speaker>UBALDO</speaker> <lg type="versi sciolti" part="I"><l>Mira, Carlo, ma taci,</l>
+<l>nel cespuglio racchiuso</l>
+<l n="55">quanto di donna può la forza e l'arte.</l></lg></sp>
+<sp><speaker>CARLO</speaker> <lg type="versi sciolti" part="M"><l>Vedi, Ubaldo, in qual uso</l>
+<l>s'impiega il nostro Marte,</l>
+<l>son guerre gl'amplessi e colpi i baci.</l></lg></sp>
+<sp><speaker>UBALDO</speaker> <lg type="versi sciolti" part="M"><l>Io di rossor mi tingo.</l></lg></sp>
+<sp><speaker>CARLO</speaker> <lg type="versi sciolti" part="M"><l n="60">Alle licenze lor dar fin m'accingo.</l></lg></sp>
+<sp><speaker>UBALDO</speaker> <lg type="versi sciolti" part="F"><l>Frena l'impeto e saggio</l>
+<l>attendi di fortuna altro vantaggio.</l></lg></sp>
+
+<sp><speaker>ARMIDA</speaker> <lg type="versi sciolti"><l>Ma tu chiudi le luci? Apri i begl'occhi,</l>
+<l>e 'l cieco arcier mille saette scocchi.</l></lg>
+
+	<lg type="strofa"><l rend="indent" n="65">Non chiuder quei lumi</l>
+<l>che son le mie stelle;</l>
+<l>vantarle più belle</l>
+<l>il ciel non presumi.</l></lg>
+
+<lg type="versi sciolti" part="I"><l>Piovono i lampi loro</l>
+<l n="70">di benigne influenze ogni ristoro.</l></lg></sp>
+<sp><speaker>RINALDO</speaker> <lg type="versi sciolti" part="F"><l>Se queste luci mie</l>
+<l>piovono in te dolcezze,</l>
+<l>cada o risorga il die,</l>
+<l>sieno per sempre a vigilare avvezze.</l></lg>
+
+	<lg type="strofa"><l rend="indent" n="75">Aperte mie pupille,</l>
+<l>non ci chiudete, no,</l>
+<l>ché di piaghe e faville</l>
+<l>il sen, vostra mercé, colmo vedrò.</l></lg>
+
+<lg type="versi sciolti" part="I"><l>Che di sì gran beltà fiamme e ferite</l>
+<l n="80">son tutte gradite, son tutte soavi,</l>
+<l>né tal dolcezza hanno d'Imetto i favi.</l></lg></sp>
+<sp><speaker>ARMIDA</speaker> <lg type="versi sciolti" part="M"><l>Qui per pochi momenti</l>
+<l>attendimi e t'adagia insin ch'io veda</l>
+<l>ne' futuri acidenti</l>
+<l n="85">quel che oprar mi convenga e vi proveda.</l></lg></sp>
+<sp><speaker>RINALDO</speaker> <lg type="versi sciolti" part="M"><l>Vanne, ma non tardar, anima mia</l>
+<l>ch'il tardar dell'amata è tirannia.</l></lg></sp>
+<sp><speaker>ARMIDA</speaker> <lg type="versi sciolti" part="M"><l>Vado, volo e ritorno.</l></lg></sp>
+
+<sp><speaker>ARMIDA, RINALDO</speaker> <lg type="versi sciolti" part="F"><l>A chi ben ama, ogni momento è un giorno.</l></lg></sp>
+</div1>
+
+<div1 type="part"><head type="conv">PARTE SECONDA</head>
+
+<sp><speaker>CARLO</speaker> <lg type="versi sciolti" part="I"><l n="90">Usciam dal varco, Ubaldo!</l>
+<l>Tempo non è da rimanervi occulti</l>
+<l>or che rivolge Armida i passi altronde.</l></lg></sp>
+<sp><speaker>UBALDO</speaker> <lg type="versi sciolti" part="F"><l>Su, destati, o Rinaldo,</l>
+<l>né più tra vezzi il pigro core esulti.</l>
+<l n="95">A che trar neghittoso ore gioconde?</l>
+<l>E quivi si nasconde</l>
+<l>il tuo valor degno d'eterne glorie?</l>
+<l>Questi sono i trionfi e le vittorie?</l></lg>
+
+	<lg type="strofa"><l rend="indent">Il vigor rendi agli spirti,</l>
+<l n="100">dal sopor l'alma si desti</l>
+<l>e si sfrondino gl'innesti</l>
+<l>sul generoso crin di fiori e mirti.</l></lg></sp>
+
+<sp><speaker>CARLO</speaker> <lg type="versi sciolti"><l>La fronte che d'usbergo</l>
+<l>armata esser dovria, cinta è da nastri</l>
+<l n="105">e invece di sudori ambre distilla.</l>
+<l>Non un florido albergo</l>
+<l>il campo è tuo passeggio; ivi ai disastri</l>
+<l>ti chiama ognor la bellicosa squilla.</l>
+<l>Sul tuo capo sfavilla</l>
+<l n="110">di rose e di ligustri una corona,</l>
+<l>quando t'offre gl'allor Marte e Bellona.</l></lg></sp>
+
+<sp><speaker>CARLO, UBALDO</speaker>	<lg type="strofa"><l rend="indent">Non più, non più prigionero</l>
+<l>rimanga sì forte campione.</l>
+<l>Eroe ch'è sì degno guerriero</l>
+<l n="115">riporti palme e corone,</l>
+<l>la vittoria t'aspetta</l>
+<l>ch'alla guerra ti chiama e alla vendetta.</l></lg></sp>
+
+<sp><speaker>CARLO</speaker> <lg type="strofa"><l rend="indent">Ozio sì vile</l>
+<l>fugga da me.</l>
+<l n="120">Alma gentile</l>
+<l>marcir non de',</l>
+<l>se l'inaffia il sudor palme germoglia</l>
+<l>e fia che messe di trofei raccoglia.</l></lg></sp>
+
+<sp><speaker>UBALDO</speaker> <lg type="versi sciolti"><l>L'iniquo Solimano</l>
+<l n="125">il nostro stuol decide</l>
+<l>e il superbo Argante ancor l'uccide.</l>
+<l>Noto è là che da noi vivi lontano;</l>
+<l>torna alle franche tende, o duce invitto,</l>
+<l>e l'esercito ostil pera trafitto.</l></lg></sp>
+
+<sp><speaker>RINALDO</speaker> <lg type="versi sciolti" part="I"><l n="130">Chi mi scuote dal sonno,</l>
+<l>chi mi mostra qual fui, qual essere deggio?</l>
+<l>Quest'occhi — ah, non vaneggio! —</l>
+<l>le mie deformità soffrir non ponno!</l></lg></sp>
+<sp><speaker>UBALDO</speaker> <lg type="versi sciolti" part="M"><l>Mirati in questo speglio,</l>
+<l n="135">se tu sei quel, quel che dall'Azzio sangue,</l>
+<l>già per serie d'eroi, vanta i natali!</l>
+<l>Dai letarghi io risveglio</l>
+<l>con questi lampi la virtù che langue;</l>
+<l>deh, segui ad acquistar pregi immortali!</l></lg></sp>
+<sp><speaker>CARLO</speaker> <lg type="versi sciolti" part="F"><l n="140">E negl'eterni annali</l>
+<l>de' fatti egregi e delle glorie avite</l>
+<l>non rimangan le palme inaridite.</l></lg></sp>
+
+<sp><speaker>RINALDO</speaker> 	<lg type="strofa"><l rend="indent">Fregi indegni e pompe vili,</l>
+<l>che dintorno mi cingete,</l>
+<l n="145">lacerate al suol cadete.</l>
+<l>Un Ercol sì, non un Rinaldo fili!</l></lg>
+
+<lg type="versi sciolti"><l>Già le magie conosco e le protesto,</l>
+<l>già ravviso le frodi,</l>
+<l>già ravviso le forze e le detesto.</l></lg></sp>
+
+<sp><speaker>CARLO</speaker> 	<lg type="strofa"><l rend="indent" n="150">Quell'intrepida virtù</l>
+<l>ch'in te languida si sta,</l>
+<l>si ritolga a servitù,</l>
+<l>si riponga in libertà.</l></lg></sp>
+
+<sp><speaker>UBALDO</speaker> 	<lg type="strofa"><l rend="indent">Sdegni alma nobile</l>
+<l n="155">giogo servil,</l>
+<l>il laccio ignobile</l>
+<l>rompa ad onta d'amore un cor gentil.</l></lg></sp>
+
+<sp><speaker>CARLO</speaker> <lg type="versi sciolti" part="I"><l>È viltà le catene avere al piè.</l></lg></sp>
+<sp><speaker>UBALDO</speaker> <lg type="versi sciolti" part="F"><l>E perfido è d'amor chi serba fé.</l></lg></sp>
+
+<sp><speaker>RINALDO</speaker> <lg type="versi sciolti"><l n="160">In piage sì remote</l>
+<l>il giovenil error sepolto giaccia,</l>
+<l>chioma che d'oro sia più non m'allaccia,</l>
+<l>ché libero il voler l'alma riscuote.</l>
+<l>Ben m'avveggio ch'il core ed il sembiante</l>
+<l n="165">esser dee di guerriero e non d'amante.</l></lg></sp>
+
+<sp><speaker>RINALDO, CARLO, UBALDO</speaker> 	<lg type="strofa"><l rend="indent">Volando al naviglio si corra</l>
+<l>né golfo i mar n'atterrisca;</l>
+<l>bellezza piangente s'abborra,</l>
+<l>se fia che pregando assalisca.</l></lg></sp>
+
+<sp><speaker>ARMIDA</speaker> <lg type="versi sciolti"><l n="170">Ah, fermati! E per dove,</l>
+<l>dimmi, e con qual ragione, o coppia indegna,</l>
+<l>da me lungi trasporti il mio tesoro?</l>
+<l>Non dee vivere altrove</l>
+<l>l'alma dell'alma mia.Chi mai v'insegna,</l>
+<l n="175">empia, a furarmi l'idolo ch'adoro?</l>
+<l>Lasciatemi il restoro,</l>
+<l>non mi si tolga il posseduto bene,</l>
+<l>non s'esponga un sol core a tante pene!</l></lg>
+
+	<lg type="strofa"><l rend="indent">Di senso già priva</l>
+<l n="180">per duol mi disfaccio;</l>
+<l>deh, riedi alla riva,</l>
+<l>deh, tornami in braccio!</l></lg>
+
+<lg type="versi sciolti"><l>Ah, traditrici scorte,</l>
+<l>chi del chiuso giardin v'aprì le porte?</l>
+<l n="185">Quel serpe, quel dragon, quei mostri tutti</l>
+<l>dunque restar distrutti?</l>
+<l>E voi, ninfe canore, in mezo all'acque,</l>
+<l>nude il sen, sciolte il crine,</l>
+<l>lasciato il mio confine</l>
+<l n="190">in abbandon cedere a lor vi piacque?</l>
+<l>Navigante, rendetemi il crudele,</l>
+<l>rivolgetemi a me, perfide vele.</l>
+<l>E non v'è chi m'ascolti,</l>
+<l>né chi ver me rivolti</l>
+<l n="195">un guardo, un guardo sol per mio conforto,</l>
+<l>e lo vedo e lo provo e lo sopporto?</l></lg>
+
+	<lg type="strofa"><l rend="indent">Almen dai claustri</l>
+<l>voi, torbid'Austri,</l>
+<l>uscite fuor.</l>
+	<l rend="indent" n="200">Torni l'indegno</l>
+<l>su questo regno,</l>
+<l>schiavo d'amor.</l>
+	<l rend="indent" n="205">Demoni e Furie,</l>
+<l>d'ondose ingiurie</l>
+<l>empite il mar.</l>
+	<l rend="indent">Pera sommerso</l>
+<l>quel core avverso</l>
+<l n="210">al mio pregar.</l></lg></sp>
+
+<sp><speaker>UBALDO</speaker> <lg type="versi sciolti"><l>Resta in pace! Abbastanza</l>
+<l>condescese a tue voglie</l>
+<l>chi sciolto si ritoglie</l>
+<l>alla magica stanza.</l>
+<l n="215">Resta, ch'egli sen parte,e godi gl'agi</l>
+<l>del tuo vago giardin, de' tuoi palagi.</l></lg></sp>
+
+<sp><speaker>TUTTI</speaker>	<lg type="strofa"><l rend="indent">Quanto fu vergognoso</l>
+<l>il viver tra' piaceri al gran guerriero,</l>
+<l>tanto fu glorïoso</l>
+<l n="220">alla virtù tornando il suo pensiero.</l>
+<l>Quando talor si pente un nobil core,</l>
+<l>per magia di virtù gloria è l'errore.</l></lg></sp>
+</div1>
+</body>
+</text>
+
+</TEI.2>

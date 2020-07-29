@@ -1,0 +1,2923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Moro per amore</title>
+      <author>Flavio Orsini</author>
+    </titleStmt>
+    <extent>87 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001093</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Moro per amore</title>
+        <author>Stradella, Alessandro</author>
+        <editor id="ed">McCrickard, Eleanor F.</editor>
+        <publisher>ETS</publisher>
+        <pubPlace>Pisa</pubPlace>
+        <date>In corso di stampa</date>
+        <note>Fa parte di: Edizione Nazionale dell'Opera Omnia di Alessandro Stradella</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>600</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-08-10T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Chiara Comastri</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+  <text lang="ita">
+    <body>
+      <div1 type="part">
+        <head type="conv">ATTO PRIMO</head>
+        <div2 type="part">
+          <head type="conv">SCENA I</head>
+          <stage rend="italic">Appartamento regio <lb/> Rodrigo solo</stage>
+
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="strofa">
+              <l rend="indent">Tornate, omai, tornate</l>
+              <l>nel mio dolor profondo,</l>
+              <l>o dell'estinto <name>Ormondo</name></l>
+              <l>memorie sventurate.</l>
+            </lg>
+
+            <lg type="versi sciolti">
+              <l n="5">Ah, prence glorioso,</l>
+              <l>quanto a ragion ti piango</l>
+              <l>or ch' <name>Eurinda</name> è regnante al suol sicano,</l>
+              <l>che morendo lasciasti alla mia cura.</l>
+              <l>mentre le nozze sue dubia sospende,</l>
+              <l n="10">vacillante lo scettro in man si rende.</l>
+              <l>Che può il valor d'una fanciulla inerme</l>
+              <l>a sostener della <name>Trinacria</name> il trono?</l>
+              <l>Dove spada viril legge non dona,</l>
+              <l>qual fermezza avrà mai regia corona?</l>
+              <l n="15">Sensi di giusto affetto</l>
+              <l>a ragion questo cor voi lacerate</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA II</head>
+          <stage rend="italic">Eurinda e Lindora</stage>
+
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Un cor ch'è libero</l>
+              <l>da lacci asprissimi</l>
+              <l>del crudo <name>Amor</name>,</l>
+              <l n="20"> di guardi amabili</l>
+              <l>e lucidissimi</l>
+              <l> fugga i splendor:</l>
+              <l>ch'io sugl'albor di mia gradita età</l>
+              <l>vuo' pur troppo goder la libertà.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l n="25">Semplicetta regina,</l>
+              <l>vantar la libertà ne' teneri anni</l>
+              <l>quanto, o quanto t'inganni.</l>
+              <l>(Invano ella si pregia esser astuta</l>
+              <l>se un consorte sì degno ora rifiuta).</l>
+            </lg>
+            <lg type="strofa">
+              <l n="30" rend="indent">Se il bel fior di verde età</l>
+              <l>voi godete, o fanciullette,</l>
+              <l>deh, non siate sdegnosette:</l>
+              <l>date il bando a crudeltà.</l>
+              <l rend="indent">Se un bel seno <name>Amor</name> piagò,</l>
+              <l n="35">che per voi sospira e piange,</l>
+              <l>perché amando non si frange</l>
+              <l>vostro core, io non lo so.</l>
+              <l rend="indent">È da voi contrario a fé</l>
+              <l>il mio genio: se un amante</l>
+              <l n="40">al mio bel serve costante,</l>
+              <l>non so a lui negar mercè.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Perché d'un bianco crin guancia rugosa</l>
+              <l>cinta d'acute spine invan si duole,</l>
+              <l>quando di gioventù langue la rosa:</l>
+              <l n="45">non si trova il gioir quando si vuole.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l><name>Lindora</name>, approvo i sensi tuoi, ma giusto</l>
+              <l>fia ch'io goda sul fior degli anni miei</l>
+              <l>la libertà gradita,</l>
+              <l>che prigioniera poi</l>
+              <l n="50">goder più non potrei.</l>
+              <l>Tu procura gioir ch'a un crin d'argento</l>
+              <l>Non è facile ognor trovar contento.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Ohimè che sento, o Dio:</l>
+              <l>così non si facea in tempo mio!</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA III</head>
+          <stage rend="italic">Galleria <lb/>Lucinda e Feraspe</stage>
+
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="strofa">
+              <l n="55" rend="indent">Lasciami in pace, <name>Amor</name>!</l>
+              <l>Il pensiero,</l>
+              <l>crudo arciero,</l>
+              <l>non turbar di questo cor,</l>
+              <l>che del fiero tuo stral l'aspre ferite</l>
+              <l n="60">porto nel sen dolente ancor scolpite.</l>
+            </lg>
+            <l>Ma le querele mie io spargo invano</l>
+            <l>s'<name>Amore</name> è sordo; e di <name/>Filandro amante</l>
+            <l>delirando il pensier, sogno il sembiante.</l>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <l>Principessa <name>Lucinda</name>,</l>
+            <l n="65">l'ambasciator <name>Filandro</name>, in questa corte</l>
+            <l>del re partenopeo</l>
+            <l>spedito per trattar le regie nozze,</l>
+            <l>frettoloso m'invia</l>
+            <l>perché intenda qual fia</l>
+            <l n="70">quell'ora in cui v'aggraderà di dare</l>
+            <l>una breve audienza a grave affare.</l>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Non ho forza che resista</l>
+              <l>Agl'impulsi del mio ben:</l>
+              <l>prego il fato che m'assista</l>
+              <l n="75">s'egli parte o s'egli vien.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Vanne, o <name>Feraspe</name>, e al tuo signor riporta</l>
+              <l>che il suo venir dal suo desio dipende,</l>
+              <l> ed ansiosa <name>Lucinda</name> ognor l'attende.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA IV</head>
+          <stage rend="italic">Feraspe, Filandro ed Eurinda</stage>
+
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="strofa">
+              <l rend="indent">Stelle tiranne, e che volete più?</l>
+              <l n="80">Forse a voi, ah, non bastava</l>
+              <l>tormi amando libertà,</l>
+              <l>se la vostra crudeltà</l>
+              <l> anco il piè non mi legava</l>
+              <l>in penosa servitù.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l n="85">I cenni miei, <name>Feraspe</name>, </l>
+              <l>così dunque trascuri?</l>
+              <l>Parlasti all'idol mio?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>Signor, con piè non tardo</l>
+              <l>il tutto esposi, e replicò Lucinda</l>
+              <l n="90">che v'attende ad ognora</l>
+              <l>e solo a voi s'incolpa la dimora.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO </speaker>
+            <lg type="strofa">
+              <l rend="indent">Accingetevi,</l>
+              <l>preparatevi</l>
+              <l>miei desiri innamorati, </l>
+              <l n="95">a goder di quei contenti</l>
+              <l> ch'a momenti</l>
+              <l> sol per voi serbano i fati.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>(Ma la superba <name>Eurinda</name> a me sen viene.)</l>
+              <l>Umilmente, o <name>Reina</name>,</l>
+              <l n="100"><name>Filandro</name> a voi s'inchina;</l>
+              <l>e saria troppo ormai</l>
+              <l>ch'ai bramati sponsali</l>
+              <l>del regge mio signore,</l>
+              <l>vi piegasse ragion se non amore.</l>
+              <l n="105"><name>Partenope</name> la bella</l>
+              <l>v'acclama a tutte l'ore,</l>
+              <l>il mio re vi sospira;</l>
+              <l>e voi con dura, o Dio, fatal costanza</l>
+              <l>siete nemica alla commun speranza.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="110"><name>Filandro</name> io ben gradisco</l>
+              <l>dell'offerte reali i sensi espressi,</l>
+              <l>ma le vive memorie</l>
+              <l>del morto genitore</l>
+              <l>son argini al mio core.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l n="115">Un regio cor non prende</l>
+              <l>le leggi dalla sorte.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Ogni petto, ogni cor cede alla morte.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Su pensieri, alla difesa!</l>
+              <l>Deh, fuggite i crudi strali</l>
+              <l n="120">di <name>Cupido</name>, che fatali</l>
+              <l>vibra i dardi a vostra offesa.</l>
+              <l rend="indent">Una vita più felice</l>
+              <l>Chi sol brama di godere</l>
+              <l>serbi libero il volere,</l>
+              <l n="25"> che a gioir sorte predice</l>
+              <l>di costanza un'alma accesa.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA V</head>
+          <stage rend="italic">Filandro e Lucinda</stage>
+
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>Amorosa impazienza</l>
+              <l>a voi, <name>Lucinda</name> mia, spinge il mio piede</l>
+              <l>quanto forza d'amor move il mio core.</l>
+            </lg>
+            <lg type="strofa">
+              <l n="130" rend="indent">Luci care, i vostri sguardi</l>
+              <l>son catene al desir mio;</l>
+              <l>e dovunque io volgo il piede</l>
+              <l>sempre al sen fisso risiede</l>
+              <l>l'alto stral del cieco dio.</l>
+              <l n="135" rend="indent">Se d'Amor nel vasto impero</l>
+              <l>vi fu mai tra regio tetto</l>
+              <l>nobil cor di fido amante,</l>
+              <l>ceda al foco che costante</l>
+              <l>porto vivo ognor nel petto.</l>
+            </lg>
+            <l n="140">Mirami in volto, o bella,</l>
+            <l>ascolta, impiaga, uccidimi!</l>
+            <l>E se negar aita al gran martire</l>
+            <l>t'aggraderà, mio nume, io vuo' morire.</l>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Questa morte, o <name>Filandro</name>,</l>
+              <l n="145">di lingua innamorata è sol concetto</l>
+              <l>o d'un animo vil remedio estremo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>Lo sdegno tuo più della morte io temo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Io che gli affetti tuoi già non rifiuto,</l>
+              <l>se grata con amore, Amor non pago:</l>
+              <l n="150">la colpa è del pensier che non è pago.</l>
+              <l>Perché stabil sia più la mia speranza</l>
+              <l>vuo' far prova maggior di tua costanza.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Mai non deve l'onestà</l>
+              <l>di pudica gioventù</l>
+              <l n="155">porre il core in servitù,</l>
+              <l>con pretesto di pietà,</l>
+              <l>di chi adora sua beltà:</l>
+              <l>nobil dama che cede al primo assalto</l>
+              <l>ha l'alma vile e non ha sen di smalto.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="strofa">
+              <l n="160" rend="indent">Deve spesso l'onestà</l>
+              <l>di pudica gioventù</l>
+              <l>prestar fede in servitù,</l>
+              <l>con pretesto di pietà,</l>
+              <l>di chi adora sua beltà:</l>
+              <l n="165">la beltà che non cede al primo assalto</l>
+              <l>ha di diamante il core, il sen di smalto.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA VI</head>
+          <stage rend="italic">Giardino reale con fontane e statue <lb/> Feraspe e Lindora</stage>
+
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>Ad eseguir del mio signore i cenni,</l>
+              <l>nel giardino real fermo le piante:</l>
+              <l>perché qui appunto incamminar si deve.</l>
+            </lg>
+            <lg type="strofa">
+              <l n="170" rend="indent">La fortuna è troppo avara:</l>
+              <l>non vuol darmi un dì contento.</l>
+              <l>Il mio sen sol di tormento</l>
+              <l>si nutrisce in pena amara</l>
+              <l rend="indent">A chi mai arrise il fato</l>
+              <l n="175">è lontano ogni gioire;</l>
+              <l>lusingar pur dee il desire</l>
+              <l>un che vive sventurato.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Del paterno diadema</l>
+              <l>il trono abbandonai,</l>
+              <l n="180">e la regia di <name>Cipro</name></l>
+              <l>e 'l genitor lasciai.</l>
+              <l>Sotto spoglia servil di moro errante</l>
+              <l>di servitù catene al piede finsi,</l>
+              <l>quando laccio d'<name>Amor</name> più forte io strinsi.</l>
+              <l n="185">Ma questa è l'ora in cui giunger qua suole</l>
+              <l>a render luminose</l>
+              <l>l'ombre di questi mirti il mio bel sole.</l>
+              <l><name>Amor</name>, se mi guidasti a rimirare</l>
+              <l>della regia donzella il vago aspetto,</l>
+              <l n="190">lieto fine concedi a un giusto affetto.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l rend="indent"> Sì, del moro la figura</l>
+              <l>non mi spiace in verità,</l>
+              <l>perch'io son d'una natura</l>
+              <l>ch'a ogni cosa si confà.</l>
+              <l n="195" rend="indent">Vago lume è in lor sembiante;</l>
+              <l>di quel nero io poi non curo:</l>
+              <l>la pittura in chiaroscuro</l>
+              <l>pur diletta d'un amante.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>Dimmi, gentil <name>Lindora</name>,</l>
+              <l n="200">forse a goder di questi vaghi fonti</l>
+              <l>la bella <name>Eurinda</name> aggirerà le piante?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Se tu fossi un moro,</l>
+              <l>io dir dovrei che questa</l>
+              <l>è richiesta dovuta a un'alma amante.</l>
+              <l n="205">Sì, che in breve s'attende.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>Altro non fu il pensiero</l>
+              <l>che d'inchinarmi al suo gran merto altero.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Ma lasciamo da parte</l>
+              <l>quello, che poco importa,</l>
+              <l n="210">e veniamo alla corta:</l>
+              <l>sappi, o moro cortese,</l>
+              <l>che al tuo leggiadro aspetto</l>
+              <l>ho posto qualche affetto.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>Scherzi meco, <name>Lindora</name>,</l>
+              <l n="215">onde il tuo detto è frale</l>
+              <l>che tanto in alto il merto mio non sale.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Vogliamoci bene,</l>
+              <l>non dirmi di no.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="strofa">
+              <l>Ciò a me non conviene:</l>
+              <l n="220">io servo sarò.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l rend="indent"><name>Amor</name> corteggiano</l>
+              <l>non può far per me.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="strofa">
+              <l>D'un schiavo è ben vano</l>
+              <l>l'affetto per te.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l n="225" rend="indent">Stupor non fia s'arde per te il mio core,</l>
+              <l>ché fa colpi ineguali il cieco <name>Amore</name>.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="strofa">
+              <l>Stupor non fia se porto gelo al core,</l>
+              <l>ché catena servil non spezza <name>Amore</name>.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA VII</head>
+          <stage rend="italic">Eurinda, Lindora e Feraspe</stage>
+
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l><name>Lindora</name>, io ben sapea</l>
+              <l n="230">che più fiamme e più amori</l>
+              <l>han nel tuo cor ricetto,</l>
+              <l>ma creder non potea</l>
+              <l>che ad un moro (qual vidi)</l>
+              <l>tu donassi l'affetto.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l n="235">Sappi, o regia fanciulla,</l>
+              <l>che questo cor pari è alla cera istessa</l>
+              <l>dove ogni forma vi rimane impressa;</l>
+              <l>e se fiamma servile il sen m'avampa</l>
+              <l>onde incostante il mio pensier ne vola, </l>
+              <l n="240">nella fiamma d'Amor non fui già sola.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Già che tanto t'aggrada e il suo sembiante</l>
+              <l>degne maniere accusa,</l>
+              <l>per viver più negl'amor tuoi contenta,</l>
+              <l>va', chiedilo a <name>Filandro</name> in nome mio,</l>
+              <l n="245">ch'al servigio reale io lo desio.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>Di mia vita disponi,</l>
+              <l>o sublime reina; e a tant'onore</l>
+              <l>d'uno schiavo fedele</l>
+              <l>grazie ti rende l'obligato core.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l n="250" rend="indent">Mai gioir, ah non potea,</l>
+              <l>o Lindora, il tuo desir,</l>
+              <l>se fortuna non volgea</l>
+              <l>lieta fronte al gran martir.</l>
+              <l>Donne, sperate, ch'in amor si varia</l>
+              <l n="255">quella sorte che a voi fu già contraria.</l>
+            </lg>
+          </sp>
+        </div2>
+      </div1>
+
+      <div1 type="part">
+        <head type="conv">ATTO SECONDO</head>
+
+        <div2 type="part">
+          <head type="conv">SCENA I</head>
+          <stage rend="italic">Appartamento regio <lb/> Fiorino e Rodrigo </stage>
+
+
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l>Se d'un padrone solo</l>
+              <l>alle molestie tante</l>
+              <l>per resister non basta un servo in corte,</l>
+              <l>so che di doppi affanni</l>
+              <l n="260">porto un peso crudel, bramo la morte.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Come mai sarà possibile</l>
+              <l>che il valor d'un sol <name>Fiorino</name>,</l>
+              <l>per decreto del destino,</l>
+              <l>paghi un debito insoffribile?</l>
+              <l n="265" rend="indent">Oggi giorno i padron vogliono</l>
+              <l>ch'abbia a fare il tutto un servo</l>
+              <l>e che corra al par d'un cervo,</l>
+              <l>altrimente ognor si dogliono.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Ma alla sventura mia di più conviene</l>
+              <l n="270">servir dui: un davvero, un per inganno;</l>
+              <l>e mi ricordo bene</l>
+              <l>aver udito da saggi vecchioni,</l>
+              <l>che non si può servir a due padroni.</l>
+              <l>In abito mentito</l>
+              <l n="275"><name>Floridoro</name> mi guida</l>
+              <l>fin da <name>Cipro</name> in <name>Sicilia</name>,</l>
+              <l>da schiavo travestito.</l>
+              <l>Rumina in questo modo</l>
+              <l>con Eurinda d'amor stringere il nodo.</l>
+              <l n="280">Vuol ch'io finga servir solo a Filandro:</l>
+              <l>servo all'ambasciatore e servo al moro;</l>
+              <l>ma lui moro è d'amor,</l>
+              <l>di rabbia io moro!.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l part="I"> Fiorino!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l part="M">Oh, signor conte,</l>
+              <l n="285">la Sua venuta è la fortuna mia;</l>
+              <l>ch'appunto il mio padrone</l>
+              <l>a farLe un'imbasciata or qui m'invia.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Che brama il tuo signor?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l>Domanda udienza,</l>
+              <l n="290">se non paresse a Lei</l>
+              <l>che la richiesta fosse impertinenza.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="strofa">
+              <l rend="indent">Deve aver lumi di lince</l>
+              <l>chi consigli in corte appresta,</l>
+              <l>perché quel che brama un prince</l>
+              <l n="295">è comando e non richiesta.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Torna e digli ch'attendo i suoi comandi</l>
+              <l>e i cenni suoi fian legge</l>
+              <l>se oracoli saran del suo gran rege.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l>Vado a darLe risposta.</l>
+            </lg>
+            <stage>(Viene in questo Filandro)</stage>
+            <lg type="versi sciolti">
+              <l n="300">Oh!, che felice incontro!</l>
+              <l>Son proprio fortunato:</l>
+              <l>nell'andare e tornare</l>
+              <l>due volte la fatica ho sparammiato.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA II</head>
+          <stage rend="italic">Rodrigo e Filandro</stage>
+
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Ecco che pronto ad obedir m'accingo</l>
+              <l n="305">al tuo desio, <name>Filandro</name>:</l>
+              <l>del tuo grande <name>Alessandro</name></l>
+              <l>l'<name>Efestion</name> tra le mie braccia io stringo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>Grazie, o conte, ti rendo</l>
+              <l>e se lieto m'accogli</l>
+              <l n="310">dall'opra tua felici eventi attendo:</l>
+              <l part="I">Eurinda è quella.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l part="F">Eurinda,</l>
+              <l>so che del regio petto è il nume in terra;</l>
+              <l>ma sai ch'è vanto espresso</l>
+              <l>dell'animo d'un re vincer se stesso.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="strofa">
+              <l n="315" rend="indent">È prodigio d'eccelsa beltà</l>
+              <l>l'espugnare un'immensa virtù;</l>
+              <l>d'un amante l'esempio non fu</l>
+              <l>che rinunzi quel ben che non ha.</l>
+              <l rend="indent">Non fu breve l'assalto d'Amor</l>
+              <l n="320">dove i posti muniva l'ardir;</l>
+              <l>or che ha vinto, è un insano desir</l>
+              <l>che rilasci la rocca del cor.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Sa il ciel se ognor m'affanna</l>
+              <l>del tuo signor la pena,</l>
+              <l n="325">che d'<name>Eurinda</name> tiranna</l>
+              <l>discior non sa, non può l'empia catena.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>Ma so che il tuo consiglio</l>
+              <l>a far saria bastante</l>
+              <l>della sua servitù lieve il periglio.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l n="330">Tant'oprai quanto vale il senno e l'arte;</l>
+              <l>gl'addussi gl'argomenti</l>
+              <l>acciò, le dure sue voglie depresse,</l>
+              <l>alle ragioni mie vinta cedesse.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">È invariabile</l>
+              <l n="335">la fede mia,</l>
+              <l>ma troppo è stabile</l>
+              <l>regia follia.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l part="I">Dunque che fia?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l part="F">Nol so!</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Cerca ribattere</l>
+              <l n="340">un consiglier,</l>
+              <l>ma non può abbattere</l>
+              <l>regio pensier.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>Non più so quanto puoi; spero l'effetto.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Quel che da me dipende, io ti prometto.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA III</head>
+          <stage rend="italic">Eurinda e Lindora</stage>
+
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="345">Dunque solo a mio danno,</l>
+              <l>amorose comete,</l>
+              <l>tanta possanza avete?</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Nume <name>Amor</name>, fammi gioir!</l>
+              <l>Se piagasti in seno il cor,</l>
+              <l n="350">fa' contento il mio desir</l>
+              <l>nelle pene dell'ardor.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Parla d'Amore, <name>Eurinda</name>?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Perché, destin crudele,</l>
+              <l>vuoi che d'un moro amato il bruno aspetto</l>
+              <l n="355">svegli ignobili fiamme entro il mio petto?</l>
+              <l>Misera, e che mi giova</l>
+              <l>stringer scettro reale,</l>
+              <l>posar su trono augusto in glorie tante,</l>
+              <l>s'ad esimer quest'alma</l>
+              <l n="360">dall'impero d'<name>Amor</name> non son bastante?</l>
+              <l>Povera umanità,</l>
+              <l>che ad affetti sì rei vivi soggetta.</l>
+              <l>Che vagliono quaggiù le glorie, i pregi?</l>
+              <l>Sia vostro esempio il mio dolore, o regi!</l>
+            </lg>
+            <lg type="strofa">
+              <l n="365" rend="indent">Stelle ingrate, e che sarà</l>
+              <l>dell'ardor che già destò</l>
+              <l>col bel guardo, che vibrò</l>
+              <l>cinta d'ombre una beltà?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l><name>Reina</name>, a me non lice</l>
+              <l n="370">penetrare in amor le vostre brame,</l>
+              <l>perché non m'è palese</l>
+              <l>delle regole vostre un'appendice.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Non è tempo ch'io sveli</l>
+              <l>l'alta cagion de' miei sospir, <name>Lindora</name>.</l>
+              <l n="375">Lascia solo ch'esclami:</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Dimmi <name>Amor</name>, che fia di me</l>
+              <l>in si cruda servitù,</l>
+              <l>se resister non può più</l>
+              <l>combattuta la mia fè?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l n="380">(Io sì che più non posso</l>
+              <l>resistere così!)</l>
+              <l>Scopri, <name>Eurinda</name>, il dolor: e chi non sa</l>
+              <l>che donna non fu mai</l>
+              <l>che non avesse in sen curiosità?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="385">Ah, che moro, crudel fortuna, ah moro!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Come! Del moro una regina amante?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Taci, ardita Lindora!</l>
+              <l>Dissi: "moro", gl'è ver, nel mio dolore;</l>
+              <l>e torno a dir che moro per amore.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l n="390" rend="indent">Bellezze,</l>
+              <l>che in sdegni</l>
+              <l>i cori struggete,</l>
+              <l>cedete</l>
+              <l>al nume d'<name>Amor</name>;</l>
+              <l n="395">ch'alla possanza sua, al suo gran foco,</l>
+              <l>ogni scettro reale al fin dà loco.</l>
+              <l rend="indent"><name>Eurinda</name>,</l>
+              <l>che un'alma</l>
+              <l>vantava di smalto,</l>
+              <l n="400">l'assalto</l>
+              <l>già prova nel sen;</l>
+              <l>e della fé nel riverito tempio</l>
+              <l>alla costanza altrui serve d'esempio.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA IV</head>
+          <stage rend="italic">Feraspe e Lindora</stage>
+
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>Stelle, ch' avete in cura</l>
+              <l n="405">di questa vita tormentata il filo,</l>
+              <l>or che d'<name>Eurinda</name> in su gli sguardi amati</l>
+              <l>propizi influssi al mio pensier scoprite,</l>
+              <l>stelle, non mi tradite!</l>
+              <l>Ma ecco <name>Lindora</name>.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l n="410">Caro <name>Feraspe</name>, oh, come giungi a punto</l>
+              <l>di tua fedel <name>Lindora</name></l>
+              <l>a consolar le brame!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>(O richieste indiscrete,</l>
+              <l>come importune al mio desio giungete!</l>
+              <l n="415">Ma no: fingi, mio core,</l>
+              <l>che sol la finzione </l>
+              <l>è base del mio amore.)</l>
+              <l>Quanto, o grata <name>Lindora</name>,</l>
+              <l>deve Feraspe a tua bontà non basta:</l>
+              <l n="420">non sa poco, né molto</l>
+              <l>rozza lingua narrar d'un servo stolto.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Muta stil se vuoi gioire</l>
+              <l>dei tesor ch'<name>Amor</name> comparte;</l>
+              <l>ché quest'arte</l>
+              <l n="425">che tu prendi è da fallire.</l>
+              <l rend="indent">Siegui <name>Amor</name> se vuoi godere</l>
+              <l>dei zaffir di luci belle;</l>
+              <l>ché le stelle</l>
+              <l>non son sempre a un cor severe.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l n="430">Crudele servitù</l>
+              <l>mi comanda il partir. <name>Lindora</name>, addio!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Vanne fiero, <name>Feraspe</name>,</l>
+              <l>fiero, che porti teco anche il cor mio.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA V</head>
+          <stage rend="italic">Lucinda e Filandro</stage>
+
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Libertà, libertà, quanto sei cara!</l>
+              <l n="435">Non giunse a piagarmi</l>
+              <l>l'arciero bendato,</l>
+              <l>ma ognor tenne all'armi</l>
+              <l>pronta la mano e la faretra al lato;</l>
+              <l>e tu de' sensi miei</l>
+              <l n="440">mitigando ten vai la pena amara.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l part="I">Libertà, libertà!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l part="F">Perdona, o bella!</l>
+            </lg>
+            <stage rend="italic" type="delivery"><name>Lucinda</name> vede <name>Filandro</name> che
+              l'osserva in disparte</stage>
+            <lg type="versi sciolti">
+              <l>Se nel troppo mirarti</l>
+              <l>estatico non volsi il piede immoto,</l>
+              <l>fu del pensiero un moto</l>
+              <l n="445">che pria volle adorarti</l>
+              <l>e poi far ch'io m'inchini a te ch'adoro,</l>
+              <l>a te ch'ognor m'uccidi, e sai ch'io moro.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Mi son grate, o <name>Filandro</name>,</l>
+              <l>e in un molto discarele</l>
+              <l n="450">le tue brame e le pene;</l>
+              <l>ma per or la risposta io non ti rendo</l>
+              <l>perché i sensi intrecciati</l>
+              <l>dell'enigma amoroso io non intendo.</l>
+              <l part="I">Addio!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l part="F">Dove ne vai? Ferma le piante.</l>
+              <l n="455">È questa la mercede</l>
+              <l>con che tu sai pagare un'alma amante?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Non ho obligo alcuno.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>Ah, ingrata! Sì, comprendo</l>
+              <l>la tua cruda risposta.</l>
+              <l n="460">Dunque, se non aspetto</l>
+              <l>mercede a tanto affetto,</l>
+              <l>per far pago abbastanza il tuo rigore</l>
+              <l>rendimi quel ch'è mio: voglio il mio core.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Tanto non ti doler. Parto, tu resta;</l>
+              <l n="465">spera costante. Addio!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>E che sventura è questa?</l>
+              <l>Spera costante, o Dio!</l>
+              <l>È ver che la speranza</l>
+              <l>è il balsamo d'un seno;</l>
+              <l n="470">ma troppo è quel veleno</l>
+              <l>che sugge la costanza</l>
+              <l>se con latte di speme un cor si pasce: </l>
+              <l>quella costanza sua l'uccide in fasce.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA VI</head>
+          <stage rend="italic">Giardino <lb/>Eurinda, Feraspe e Lucinda</stage>
+
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Sepellitevi nel core</l>
+              <l n="475">ciechi affetti che nascete,</l>
+              <l>mentre io veggio che voi siete</l>
+              <l>rei nemici dell'onore:</l>
+              <l>che sarà del mio cor felice sorte,</l>
+              <l>se dal vostro veleno avrà la morte?</l>
+              <l n="480" rend="indent">Il più incognito recesso,</l>
+              <l>che del sen nel centro ha loco,</l>
+              <l>sia sepolcro di quel foco</l>
+              <l>da cui viene il giusto oppresso;</l>
+              <l>che la morte è rimedio a un cor che langue,</l>
+              <l n="485">purché salvi l'onor, si sparga il sangue.</l>
+            </lg>
+          </sp>
+
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>(Ardire, o Floridoro,</l>
+              <l>e sol pensa che sei</l>
+              <l>di <name>Cipro</name> il re, non di <name>Filandro</name> il moro.)</l>
+              <l><name>Reina</name> eccelsa, il più fedel che sia</l>
+              <l n="490">di servitù (anzi d'amor) nel regno</l>
+              <l>se al regio senso oppresso</l>
+              <l>vale per ministrar pronti gl'aiuti,</l>
+              <l>tutti d'un fido cor t'offre i tributi.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Cessa di tormentarmi,</l>
+              <l n="495">congiurata fortuna!</l>
+              <l>Tu, che del moro in presentarmi il volto,</l>
+              <l>fatta dell'opre tue ludibrio e gioco,</l>
+              <l>pene aggiungi alle pene e foco a foco.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l><name>Reina</name>, almen vorrei che noto sia</l>
+              <l n="500">l'amor, la fede mia.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l part="I">Taci!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l part="F">Devo partire?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>No, ma ad un servo, qual tu sei, non lice</l>
+              <l>soggiunger più parole.</l>
+              <l>Taci, che troppo Eurinda oggi è infelice.</l>
+            </lg>
+            <lg type="strofa">
+              <l n="505" rend="indent">Quante forme strane e varie</l>
+              <l>di tormenti incomparabili</l>
+              <l>il destin serbò per me!</l>
+              <l rend="indent">Quante forze empie e contrarie</l>
+              <l>degl'influssi più implacabili</l>
+              <l n="510">ad abbatter la mia fé!</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Ma che fai, perché brami,</l>
+              <l><name>Eurinda</name> forsennata</l>
+              <l>ch'a pena così fiera</l>
+              <l>si taccia il tuo ristoro?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="515">(Ma d'<name>Eurinda</name> sul volto</l>
+              <l>mostra audace pallor strano martire:</l>
+              <l>il passo fermarò qui per udire.)</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Ah, no! Se parla il moro,</l>
+              <l>incentivo d'affetti è la sua voce.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l n="520">Scoppieranno nel petto i miei martiri,</l>
+              <l>se esalare io non posso</l>
+              <l>le furie armate in sen de' miei sospiri.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Che sospiri? Che furie?</l>
+              <l part="I">Taci!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l part="F">Devo partire?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="525">Resta; e non sai che sono</l>
+              <l>di lesa maestà gravi l'ingiurie?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>Reina, io non t'offendo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Taci, o caro, t'intendo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>(Taccio, ma ben comprendo.)</l>
+            </lg>
+            <lg type="strofa">
+              <l n="530" rend="indent">O tormenti, o crudi affanni,</l>
+              <l>rie megere del mio cor!</l>
+              <l>Se del moro <name>Eurinda</name> è amante,</l>
+              <l>per non star fra pene tante</l>
+              <l> sarà forza in tal dolor</l>
+              <l n="535"> di ricorrere agl'inganni.</l>
+              <l rend="indent">Ah speranze mie tradite,</l>
+              <l>che farete in tal martir</l>
+              <l> s'a miei danni arde ogni stella?</l>
+              <l> Per placar sorte rubella</l>
+              <l> accingetevi a morir</l>
+              <l>al mio duolo impietosite.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA VII</head>
+          <stage rend="italic">Galleria <lb/>Filandro, Fiorino e Lindora </stage>
+
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="strofa">
+              <l rend="indent">A consiglio, amorosi pensieri!</l>
+              <l>Congiurati speranza e timore,</l>
+              <l>il mio core</l>
+              <l>lusingando, combattono ognor</l>
+              <l n="540">con l'assalto d'affanni severi.</l>
+              <l rend="indent">Che far deggio fra doglie sì strane?</l>
+              <l>Il timore pretende ch'io ceda:</l>
+              <l>già sua preda,</l>
+              <l>la speranza m'assiste nel sen</l>
+              <l n="545">con l'usbergo di gioie lontane.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l>Del regio appartamento</l>
+              <l>tutte, <name>Signor</name>, girai</l>
+              <l>le stanze più segrete</l>
+              <l>del consigliere a rintracciar novella,</l>
+              <l n="550">et ho saputo al fine</l>
+              <l>ch'a riveder della marina i posti</l>
+              <l>ne' vicini sospetti</l>
+              <l>dell'armata di <name>Cipro</name>,</l>
+              <l>improviso partì da' regii tetti.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l n="555">Forse per tormentarmi <name>Amor</name> non basta,</l>
+              <l>mentre tutto a' miei danni</l>
+              <l>congiurato il destin sempre contrasta.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="strofa">
+              <l rend="indent">Oh, che mai gioisca un dì,</l>
+              <l>chi racchiude in sen l'ardore</l>
+              <l n="560">di quel cieco dio d'<name>Amore</name></l>
+              <l>che d'un crine i nodi ordì.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l><name>Filandro</name> ognor si lagna,</l>
+              <l>e nel fiero tormento</l>
+              <l>per amor non ha posa un sol momento.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l n="565">Ma ecco il nostro paggetto.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l part="I">Ecco <name>Lindora</name>.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l part="F">Oh, che potessi un giorno</l>
+              <l>scordarmi di <name>Feraspe</name>
+              </l>
+              <l>e donare a costui l'affetto mio,</l>
+              <l>sarei felice anch'io.</l>
+            </lg>
+            <lg type="strofa">
+              <l n="570" rend="indent"><name>Amor</name>, dammi mercè!</l>
+              <l>Del tuo ricco tesoro</l>
+              <l>un sol <name>Fiorino</name> d'oro</l>
+              <l> concedi almeno a me:</l>
+              <l>che se m'entra in saccoccia un giorno solo</l>
+              <l n="575">non prenderà per gire altrove il volo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l>E qual speranza mai</l>
+              <l>degl'amor di <name>Lindora</name></l>
+              <l>il povero <name>Fiorino</name> aver potrà</l>
+              <l>con un sen di gigante,</l>
+              <l n="580">quando pigmeo di merto egli sen va?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg part="I" type="strofa">
+              <l rend="indent">Mi va sempre stuzzicando</l>
+              <l>cieco Amor col foco ardente.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg part="M" type="strofa">
+              <l>Questa vecchia è sì insolente</l>
+              <l>ch'ha il cervel che va volando.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg part="M" type="strofa">
+              <l n="585" rend="indent">Con le fila del mio crine</l>
+              <l>formo lacci fraudolenti.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg part="M" type="strofa">
+              <l>Folle arpia, ch'ha i sensi intenti</l>
+              <l>di più cori a far rapire.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg part="M" type="strofa">
+              <l rend="indent">Quel volto galante</l>
+              <l n="590"> il cor m'ha rubbato.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg part="F" type="strofa">
+              <l>Più vago sembiante</l>
+              <l>Fiorino ha impegnato.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA VIII</head>
+          <stage rend="italic">Fiorino e Feraspe </stage>
+
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l>Sian lodate le stelle!</l>
+              <l>Ti ringrazio <name>Fortuna</name>!</l>
+              <l n="595">Partì quest'importuna:</l>
+              <l>son le nevi d'un crine a me nemiche,</l>
+              <l>né vo cercando le medaglie antiche.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Non s'intrighi con Amore</l>
+              <l>chi non vuol pene e tormenti;</l>
+              <l n="600">io ch'ho libero il mio core,</l>
+              <l>provo ognor veri contenti.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Pur ti ritrovo a solo,</l>
+              <l>gran monarca di Cipro, alle cui piante</l>
+              <l>riverente mi fermo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l n="605">Ergiti, su, Fiorino;</l>
+              <l>non ammette gl'ossequi il mio destino.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l>Signor, in questa corte,</l>
+              <l>de' tuoi cenni adorati a tutte l'ore</l>
+              <l>son fido essecutore.</l>
+              <l n="610">Per spiare d'<name>Eurinda</name></l>
+              <l>e osservar di Filandro ogni volere,</l>
+              <l>divenuto nuov'<name>Argo</name>, è il mio pensiere.</l>
+              <l>Sospiro il dì de' tuoi contenti; e solo</l>
+              <l>tormenta il mio desire</l>
+              <l n="615">che in questa corte ognora</l>
+              <l>non possa del tuo piè l'orme seguire.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>Di tua sincera fede,</l>
+              <l><name>Fiorino</name>, a <name>Floridor</name> dubbio non resta.</l>
+              <l>Torna a Filandro pur, che la dimora</l>
+              <l n="620">esser potrebbe al tuo desir molesta.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l> Vado, Signor, ma sappi</l>
+              <l>che da' tuoi regi passi ovunque vai,</l>
+              <l>non allontano il mio pansier giammai.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="strofa">
+              <l rend="indent"> Goderò fortuna un dì?</l>
+              <l n="625">La tua ruota</l>
+              <l>se fu immota,</l>
+              <l>a mio pro girerà, sì?</l>
+              <l rend="indent">Il destin si placherà?</l>
+              <l>E d'amore</l>
+              <l n="630">nel rigore</l>
+              <l>troverò un dì pietà?</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Perché, bella reina,</l>
+              <l>mentre il tacer m'imponi</l>
+              <l>ogni contento mio cambi in veleno,</l>
+              <l n="635">se nutrisci per me fiamme nel seno?</l>
+              <l>Perché barbare stelle,</l>
+              <l>sul volto del mio bene</l>
+              <l>quei baleni d'<name>Amor</name> farmi vedere,</l>
+              <l>se soffrendo nel cor pene severe</l>
+              <l n="640">a un silenzio crudel sono dannato?</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Del labro assetato</l>
+              <l>non puote il mio cuore</l>
+              <l>estinguer l'ardore,</l>
+              <l>o fato spietato:</l>
+              <l n="645">ché dentro l'acque d'amoroso impero</l>
+              <l>fugge rapida l'onda al mio pensiero.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA IX</head>
+          <stage rend="italic">Giardino <lb/> Lucinda e Feraspe </stage>
+
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l><name>Feraspe</name>, in questi allori</l>
+              <l>fra queste solitudini romite</l>
+              <l>per affare non lieve</l>
+              <l n="658">a ritrovarti io giunsi.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l><name>Lucinda</name>, ove i tuoi sensi il giusto regge,</l>
+              <l>ogni tuo cenno al mio volere è legge.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Mio core respira,</l>
+              <l>ardisci et inventa;</l>
+              <l n="655">un'alma che tenta</l>
+              <l>non sempre sospira.</l>
+              <l rend="indent"><name>Lucinda</name>, che aspetti?</l>
+              <l>Son gravi gl'affanni:</l>
+              <l>o fabrica inganni,</l>
+              <l n="660">o scopri gl'affetti.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Ma pria che l'alto affare a te disveli,</l>
+              <l>dimmi, gentil <name>Feraspe</name>,</l>
+              <l>s'una di questa corte</l>
+              <l>di bellezza e natal dama primiera,</l>
+              <l n="665">del bruno tuo già divenuta amante</l>
+              <l>formasse nel suo duol fiumi di pianto,</l>
+              <l>tu che diresti intanto?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l><name>Lucinda</name>, un nobil core</l>
+              <l>capace non è più che d'un amore.</l>
+              <l n="670">Dal primo dì ch'in questa regia io posi</l>
+              <l>— non so se debba dire</l>
+              <l>a gran fortune o gran sventure — il piede,</l>
+              <l>alla beltà ch'adoro</l>
+              <l>sempre stabile in sen serbo la fede.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="675">E se costei ch'io dico</l>
+              <l>impaziente un giorno</l>
+              <l>a chiederti mercé pronta giungesse,</l>
+              <l>tu, quantunque di smalto avessi il core,</l>
+              <l>non averesti pietà del suo dolore?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l n="680">(Floridoro, si finga!) Io crederei</l>
+              <l>che quest'amor, che scopriria la dama</l>
+              <l>fosse effetto di scherzo e non di brama.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Ma se ardita in amore</l>
+              <l>con nobil stratagemma</l>
+              <l n="685">de' veri affetti suoi facesse fede,</l>
+              <l>non pensaresti a lei donar mercede?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="versi sciolti">
+              <l>Misurando il rigore</l>
+              <l>del mio fato protervo</l>
+              <l>sol mi ricordarei d'esser un servo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="690">Ah, non m'intendi! O Dio, Feraspe, taci!</l>
+              <l>Son gli sguardi in amor bocche loquaci.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">T'intendo, sì t'intendo:</l>
+              <l>cieco dio, non v'è pietà,</l>
+              <l>mi dannasti a sospirar.</l>
+              <l n="695" rend="indent">Dal rio destin comprendo</l>
+              <l>che mal nota fedeltà</l>
+              <l>è costretta a lagrimar.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>(Dunque, perché non goda</l>
+              <l>chi m'invola il mio bene:</l>
+              <l n="700">si ricorra alla frode in tante pene.)</l>
+              <l>Feraspe, la reina</l>
+              <l>per render questo foglio </l>
+            </lg>
+            <stage rend="italic" type="business">E qui li consegna un piego</stage>
+            <lg type="versi sciolti">
+              <l>al consiglier <name>Rodrigo</name></l>
+              <l>per mia man ti destina</l>
+              <l n="705">e comanda ch'or ora,</l>
+              <l>mentr'io consegno a te la regia carta,</l>
+              <l>senza indugio ti parta.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FERASPE</speaker>
+            <lg type="strofa">
+              <l rend="indent">Non so dir chi vincerà:</l>
+              <l> il timore o la speranza;</l>
+              <l n="710">per sì cruda lontananza</l>
+              <l>il mio core in dubbio sta.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>E in vicende sì dure</l>
+              <l>parto, e compagne mie son le sventure.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA X</head>
+          <stage rend="italic">Cortile <lb/> Fiorino </stage>
+
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l>Dove, dove il camino</l>
+              <l n="715"><name>Floridoro</name> rivolga, io non saprei:</l>
+              <l>tutta sinor questa città girai</l>
+              <l>né del regio suo piè l'orme trovai.</l>
+              <l>In corte non si vede,</l>
+              <l>né sento chi di lui mi dia contezza.</l>
+              <l n="720">Luogo alcun non lasciai</l>
+              <l>di solito congresso</l>
+              <l>per rinvenirlo, e non m'è ancor permesso;</l>
+              <l>n'anderò pur altronde</l>
+              <l>né fermerò il pensiero</l>
+              <l n="725">finché di lui non mi sia noto il vero.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">A chi è in corte va così:</l>
+              <l>gli convien far più mestieri,</l>
+              <l>d'osservar passi e pensieri</l>
+              <l>di ciascuno notte e dì.</l>
+              <l n="730" rend="indent">Di chi serve, e chi non sa</l>
+              <l>che la corte dispietata</l>
+              <l>non gradisce e sempre ingrata,</l>
+              <l>di mercé legge non ha.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>E che maggior disgrazia</l>
+              <l n="735">dispensare ad un cor può cruda sorte</l>
+              <l>quanto il servir con la speranza in corte.</l>
+            </lg>
+          </sp>
+        </div2>
+      </div1>
+
+      <div1 type="part">
+        <head type="conv">ATTO TERZO</head>
+        <div2 type="part">
+          <head type="conv">SCENA I</head>
+          <stage rend="italic">Giardino con boschetti e fontana <lb/> Eurinda e Lucinda </stage>
+
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Con lo strale</l>
+              <l>che fatale</l>
+              <l>bruno ciglio porta in sé,</l>
+              <l n="740">crudo Amor mi saettò:</l>
+              <l>che farò?</l>
+              <l rend="indent">Il desire</l>
+              <l>non sa dire</l>
+              <l>il contento che cos'è,</l>
+              <l n="745">se il tormento ereditò:</l>
+              <l>che farò?</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Deh, se il volto d'un servo</l>
+              <l>le mie vicende aduna,</l>
+              <l>serva — dirò — che fui della fortuna.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="750">(<name>Eurinda</name>, in questi alberghi</l>
+              <l>così sola in quest'ore?</l>
+              <l>Ah, non ha legge Amore!)</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Principessa, eseguiste</l>
+              <l>inviando a <name>Rodrigo</name> il regio foglio?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="755">Quanto sì m'imponesti,</l>
+              <l>sublime maestà,</l>
+              <l>fu dal pronto desio tosto eseguito,</l>
+              <l>che ad un core obbligato</l>
+              <l>ogni comando che vi giunge è grato:</l>
+              <l n="760">onde diedi per esser più sicura</l>
+              <l>a Feraspe la cura.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Et il messo chi fu?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Per certezza maggior nel grave impegno</l>
+              <l>non trovai di <name>Feraspe</name> uomo più degno.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="765">Come, ohimè, perché?</l>
+              <l>Ogn'altro era migliore e più spedito.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Credei che sol <name>Feraspe</name>,</l>
+              <l>con il desio volante,</l>
+              <l>avesse al tuo servir l'ali alle piante.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="strofa">
+              <l n="770" rend="indent">Dammi spirto da resistere,</l>
+              <l> nume intento a tormentar!</l>
+              <l> Ma un fanciul che puote assistere</l>
+              <l> quale aita mi può dar?</l>
+              <l rend="indent">Come mai potran più vincere</l>
+              <l n="775">gli occhi privi del mio sol?</l>
+              <l> Questo sì che si può ascrivere </l>
+              <l>a un estremo del mio duol.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>(Se non mentisce il guardo,</l>
+              <l>se il pensier non m'inganna,</l>
+              <l n="780">la partita del moro <name>Eurinda</name> affanna.)</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Non speri di gioir chi nacque a piangere!</l>
+              <l>Che val l'impero, il trono,</l>
+              <l>se del crudo mio fato</l>
+              <l>l'implacabil rigor non basta a frangere?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="785">(Leggo ne' lumi suoi,</l>
+              <l>scopro nelle mie frodi,</l>
+              <l>confermando il sospetto</l>
+              <l>quanta forza ha Cupido in nobil petto.)</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Afflitta,</l>
+              <l n="790">trafitta,</l>
+              <l> quest'alma nel petto</l>
+              <l> sospira,</l>
+              <l> delira;</l>
+              <l> dubbioso l'affetto</l>
+              <l n="795">tormento gli dà.</l>
+              <l> Amor, che sarà?</l>
+              <l rend="indent">Dolente,</l>
+              <l>languente,</l>
+              <l> nel seno il mio core</l>
+              <l n="800">s'abbatte,</l>
+              <l>combatte</l>
+              <l> fra speme e timore</l>
+              <l> per tua crudeltà.</l>
+              <l> Amor, che sarà?</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l n="805">Datemi morte e siate sazie, o stelle.</l>
+              <l>Stelle no, ma comete ognor crinite</l>
+              <l>che sempre a danno mio v'incrudelite.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA II</head>
+          <stage rend="italic">Stanza d'audienza <lb/> Filandro ed Eurinda </stage>
+
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="strofa">
+              <l rend="indent">Sono care quelle pene</l>
+              <l> che riceve amando un core</l>
+              <l n="810">quando speme lo sostiene.</l>
+              <l rend="indent">Son graditi quei tormenti</l>
+              <l> che ministra il cieco arciero</l>
+              <l> quando il cor spera i contenti.</l>
+              <l rend="indent"> Son soavi talor l'onte più fiere,</l>
+              <l n="815">non ha prezzo d'Amore un sol piacere.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Non son gravi i martiri</l>
+              <l>benché viva tra' pianti:</l>
+              <l>quando miro i begl'occhi, io mi consolo;,</l>
+              <l>basta a farmi beato un guardo solo.</l>
+              <l n="820">Adorate pupille,</l>
+              <l>centro d'ogni mia speme,</l>
+              <l>al mio lungo penare</l>
+              <l>non siate almen de' vostri sguardi avare.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Dolce <name>Amor</name>, nume bendato,</l>
+              <l n="825">fammi pur contento un dì:</l>
+              <l>fa' ch'io viva avventurato</l>
+              <l>per lo stral che mi ferì.</l>
+              <l rend="indent">Mi nutrisce la speranza,</l>
+              <l>il pensiero sempre più,</l>
+              <l n="830">perché goda la costanza</l>
+              <l>in sì cara servitù.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Del consiglier <name>Rodrigo</name>,</l>
+              <l>reina, la partita</l>
+              <l>rende mia lingua in tua presenza ardita.</l>
+              <l n="835">Or che con nuove carte</l>
+              <l>il mio signor m'impone</l>
+              <l>ch'esponga da sua parte</l>
+              <l>nuove istanze, anzi più, nuove preghiere,</l>
+              <l>di tua beltà, d'ogni ragione effetti,</l>
+              <l n="840">mentre nel regio cor crescon gl'affetti.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l><name>Filandro</name> generoso,</l>
+              <l>questi del tuo gran re nuovi attestati</l>
+              <l>sono d'<name>Eurinda</name> al cor lacci e ritorte</l>
+              <l>che non saprà disciorle altri che morte.</l>
+              <l n="845">E di <name>Sicilia</name> il regno or fia che sempre</l>
+              <l>al re partenopeo per tanto onore</l>
+              <l>s'ascriva debitore;</l>
+              <l>ma le cure affannose</l>
+              <l>che per l'armi di <name>Cipro</name></l>
+              <l n="850">sovrastano al mio core</l>
+              <l>son motivi di <name>Marte</name> e non d'<name>Amore</name>.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>E dell'armi nemiche</l>
+              <l>le presenti apparenze</l>
+              <l>potrian sollecitarti</l>
+              <l n="855">non a brame lontane, oppur rifiuti,</l>
+              <l>ma del mio rege a sospirar gl'agiuti.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Non deve animo grande</l>
+              <l>ciò che richiede attenzione e tempo</l>
+              <l>risolvere per tema in un momento.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l n="860">Antivedere il male</l>
+              <l>è d'un eroico ingegno.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Sì, sì grave affar di gran pensiero è degno.</l>
+            </lg>
+          </sp>
+        </div2>
+
+
+        <div2 type="part">
+          <head type="conv">SCENA III</head>
+          <stage rend="italic">Giardino e boschetti <lb/> Rodrigo e Lindora </stage>
+
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>O del trono sicano</l>
+              <l>reggia sublime, o quanto</l>
+              <l n="865">afflitto in questo giorno</l>
+              <l>a rivederti io torno!</l>
+              <l>Et oh, piacesse al cielo</l>
+              <l>che, prima di serrar <name>Rodrigo</name> i lumi,</l>
+              <l>non veda in questo suolo</l>
+              <l n="870">scorrer di sangue a meraviglia i fiumi!</l>
+              <l>Ah, da' pensieri tuoi,</l>
+              <l>mal consigliata <name>Eurinda</name>,</l>
+              <l>mentre il brando nemico</l>
+              <l>del vacillante impero</l>
+              <l n="875">ti fa veder le stragi a luci aperte,</l>
+              <l>tu di regio consorte odii l'offerte.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Son propizie le stelle!</l>
+              <l>Gioisce questa corte,</l>
+              <l>e quanto, signor conte,</l>
+              <l n="880">ella al vostro partir provò tormento,</l>
+              <l>tanto al vostro ritorno oggi ha contento.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <l>E con ragion, <name>Lindora</name>,</l>
+            <l>se Rodrigo non ha voglia o pensiero,</l>
+            <l>che nuov'Argo non sia di questo impero.</l>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l n="885">Ma che buone novelle</l>
+              <l>di quest'armi spergiure</l>
+              <l>recate a serenar le nostre cure?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Nel golfo più vicino</l>
+              <l>furono già vedute</l>
+              <l n="890">le vele sì temute.</l>
+              <l>Io la riviera tutta</l>
+              <l>di fanti e cavalier lasciai munita</l>
+              <l>quando, per man dell'inviato messo,</l>
+              <l>gl'ordini mi fur dati: e sol mi spiacque</l>
+              <l n="895">ch'il misero <name>Feraspe</name>,</l>
+              <l>mentre su debol pin facea ritorno,</l>
+              <l>fu da un legno corsaro</l>
+              <l>de' barbari di <name>Cipro</name></l>
+              <l>poco lungi rapito al nostro faro.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l n="900">Ohimè, che sento, o cielo!</l>
+              <l>Et or dove si trova</l>
+              <l>il moro sì fedele?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Preda restò delle nemiche vele.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Forza sarà ch'a sì funesto avviso</l>
+              <l n="905">si volga tutta in duolo oggi <name>Messin</name>a,</l>
+              <l>se di gioia sì cara </l>
+              <l>vien priva la reina.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Che gioia? Un moro vile</l>
+              <l>tanto si piange in questa regia augusta?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l n="910">Un moro vil? Tacete,</l>
+              <l>Signor, che se voi siete</l>
+              <l>del Regno di <name>Trinacria</name> il forte <name>Atlante</name>,</l>
+              <l>egli del cor d'<name>Eurinda</name> era il regnante.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>E che portenti, o stelle?</l>
+              <l n="915">E che viltade, o numi?</l>
+              <l>E che flagelli, o sorte?</l>
+              <l>Vanne pure a morir: giusto è <name>Rodrigo</name></l>
+              <l>a notizie sì strane aver la morte.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA IV</head>
+          <stage rend="italic">Lindora ed Eurinda</stage>
+
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Non mi voglio disperar</l>
+              <l n="920">se <name>Feraspe</name> schiavo andò:</l>
+              <l>altro amante prenderò</l>
+              <l>che mi piaccia nell'amar.</l>
+              <l rend="indent">Non sarà, non fu, non è</l>
+              <l>nel mio petto fedeltà;</l>
+              <l n="925">resti pur presso al bassà</l>
+              <l>che fiorino v'è per me.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Che <name>Feraspe</name>? che amante? che <name>Fiorino</name>?</l>
+              <l>Narrami intieri i sensi tuoi, <name>Lindora</name>.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Di successi men rei</l>
+              <l n="930">esser nunzia, o reina, oggi vorrei.</l>
+              <l>Poiché al lido sicano</l>
+              <l>l'infelice <name>Feraspe</name>,</l>
+              <l>sì caro a questa corte,</l>
+              <l>i regii fogli al consiglier condusse,</l>
+              <l n="935">allor che fea ritorno</l>
+              <l>fu da nemico e corseggiante abete</l>
+              <l>sopragiunto, assalito.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>O Dio, che seguì poi?</l>
+              <l>Narra, deh, su, non mi tener sospesa.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l n="940">Prigionier fu rapito.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">A che tardi a morir, misero core,</l>
+              <l> se questa mia vita</l>
+              <l> gli eccessi t'addita</l>
+              <l> d'estremo dolore?</l>
+              <l n="945" rend="indent">A che tardi a morir, misero core,</l>
+              <l>se chiudi nel seno</l>
+              <l> di furie ripieno</l>
+              <l> l'inferno d'Amore?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l> Raffrena, <name>Eurinda</name>, il duolo:</l>
+              <l n="950">male non v'è che non guarisca il tempo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Crude leggi d'amore,</l>
+              <l>ministre di rigore,</l>
+              <l>perché tanta fierezza?</l>
+              <l>Destar indegni affetti entro del seno</l>
+              <l n="955">d'una regia donzella,</l>
+              <l>martel di lontananza,</l>
+              <l>flagel di gelosia?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Ohimè, stolta, che feci?</l>
+              <l>Dalle furie agitata, </l>
+              <l n="960">temo che sì bel bello</l>
+              <l>la regina non dia volta al cervello.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>E per estremo affanno,</l>
+              <l>or dell'idol che adoro,</l>
+              <l>perché in fiumi di pianto ognor mi stempre,</l>
+              <l n="965">mi private per sempre.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Figlia, degno non è di regio ciglio</l>
+              <l>il pianto per un moro.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Taci, nutrice, io moro.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Furie terribili,</l>
+              <l n="970">incrudelitevi!</l>
+              <l>Larve mortifere,</l>
+              <l>per tormentarmi</l>
+              <l>venite su!</l>
+              <l rend="indent">Megere orribili,</l>
+              <l n="975">inferocitevi!</l>
+              <l>Nembi pestiferi,</l>
+              <l>per cruciarmi</l>
+              <l>scendete giù!</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Che fa, dunque che fa, di <name>Parca</name> avara</l>
+              <l n="980">la forbice spietata,</l>
+              <l part="I">mentre al morir così consento?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>ECO</speaker>
+            <lg type="versi sciolti">
+              <l part="F">(Sento.)</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Se senti e s'hai pietade,</l>
+              <l part="I">vieni e soccorri un'infelice.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>ECO</speaker>
+            <lg type="versi sciolti">
+              <l part="F">(Lice.)</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Lice penare o pur morir: rispondi</l>
+              <l n="985" part="I">ad un cor che despera.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>ECO</speaker>
+            <lg type="versi sciolti">
+              <l part="F">(Spera).</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>E che sperar poss'io</l>
+              <l part="I">se risponde la morte al pianto mio?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>ECO</speaker>
+            <lg type="versi sciolti">
+              <l part="F">(Io)</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l part="I">E tu dimmi chi sei che parli meco?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>ECO</speaker>
+            <lg type="versi sciolti">
+              <l part="F">(Eco).</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Misera, a che son giunta </l>
+              <l n="990">fra tante pene e tante,</l>
+              <l>se mi delude ancora un spirto errante?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Con folle pensiero</l>
+              <l>d'Amor nell'impero,</l>
+              <l> regina in recinto</l>
+              <l n="995">del gran laberinto</l>
+              <l> uscirne non sa.</l>
+              <l>E che si dirà?</l>
+              <l rend="indent">Dirassi che <name>Amore</name></l>
+              <l>soggetta ogni core</l>
+              <l n="1000">o nobile o vile</l>
+              <l>e questo è lo stile</l>
+              <l>purtroppo si sa.</l>
+              <l>Così si dirà!</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA V</head>
+          <stage rend="italic">Galleria <lb/> Lucinda e Filandro </stage>
+
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Tormentata Lucinda,</l>
+              <l n="1005">che pensi, che risolvi?</l>
+              <l>Allontani <name>Feraspe</name></l>
+              <l>spinta da gelosia,</l>
+              <l>perché d'altri non sia;</l>
+              <l>e mentre nel tuo cor regna l'affetto,</l>
+              <l n="1010">perdendolo per sempre</l>
+              <l>prigionier lo destini in ferri astretto.</l>
+              <l>Vedi, vedi infelice,</l>
+              <l>la tua miseria espressa</l>
+              <l>ch'ogni tua frode è contro di te stessa?</l>
+              <l n="1015">Volgi a <name>Filandro</name> il core,</l>
+              <l>così t'addita il fato,</l>
+              <l>così sorte decreta e il nume <name>Amore</name>.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Fugga il pianto, o miei pensieri:</l>
+              <l> se versaste amari fiumi,</l>
+              <l n="1020"> sempre mai non sono i numi</l>
+              <l> per gl'amanti, ah no, severi.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>Non sì chiaro e lucente </l>
+              <l>nasce Febo talora,</l>
+              <l>là nei campi del ciel col raggio ardente,</l>
+              <l n="1025">quanto lucida e bella</l>
+              <l>agl'occhi miei l'imago tua risplende,</l>
+              <l>che al suo bel foco ogni desir s'accende.</l>
+              <l>Perdona, o principessa,</l>
+              <l>se a qui giunger fui tardo</l>
+              <l n="1030">mentre attendea risposta</l>
+              <l>del servo mio, Fiorino,</l>
+              <l>ch'improviso è partito.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Dove <name>Fiorino</name> è gito?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>Partì, non so perché, né dove andasse.</l>
+            </lg>
+            <lg type="strofa">
+              <l n="1035" rend="indent">Ti dovresti contentar</l>
+              <l>di non farmi più languir,</l>
+              <l>bastarebbe il mio penar</l>
+              <l>anche un sasso ad ammollir.</l>
+              <l rend="indent">Sfortunato fu quel dì</l>
+              <l n="1040"> che in <name>Trinacria</name> io posi il piè,</l>
+              <l>se penar dovea così</l>
+              <l>mal gradita la mia fè.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l><name>Filandro</name>, al tuo gran merto</l>
+              <l>ch'immenso io riconobbi,</l>
+              <l n="1045">gran tempo è già che consacrai mie brame;</l>
+              <l>se sospeso ho sinor fartene fede,</l>
+              <l>fu che l'anima amante</l>
+              <l>nove prove chiedea</l>
+              <l>al paragon delle tua fé costante.</l>
+              <l n="1050">Oggi, che del tuo amor certa respiro,</l>
+              <l>con miei veraci detti</l>
+              <l>a tue brame gradite offro gl'affetti.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="strofa">
+              <l rend="indent">Quando un core</l>
+              <l>in amore</l>
+              <l n="1055">sta legato in servitù,</l>
+              <l>fra le pene</l>
+              <l>del suo bene</l>
+              <l>e che può sperar di più?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Quando un petto</l>
+              <l n="1060">nell'affetto</l>
+              <l>si mostrò costante un dì,</l>
+              <l>a momenti </l>
+              <l>i contenti:</l>
+              <l>speri, pur speri, sì sì.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO e LUCINDA</speaker>
+            <lg type="strofa">
+              <l n="1065" rend="indent">S'il cieco Dio si pasce di speranza,</l>
+              <l>viva, viva la fede e la costanza!</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA VI</head>
+          <stage rend="italic"> Rodrigo ed Eurinda </stage>
+
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Volentieri ritorno </l>
+              <l>a renderti contezza</l>
+              <l>dell'opra mia, del mio servir, reina.</l>
+              <l n="1070">Non sì tosto in mia man, per man del moro,</l>
+              <l>giunsero le tue leggi entro a tuoi fogli</l>
+              <l>che, con la destra essecutrice, io resi</l>
+              <l>la marittima riva</l>
+              <l>di milizie guernita,</l>
+              <l n="1075">difesa e custodita:</l>
+              <l>mi dolse sì che l'inviato messo</l>
+              <l>fu nel medemo giorno</l>
+              <l>da' corsari predato al suo ritorno.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Lodo nell'opra tua, Rodrigo, i gesti</l>
+              <l n="1080">ne' guerrieri disegni,</l>
+              <l>né ad <name>Eurinda</name> fian questi</l>
+              <l>del tuo fido servire i primi segni.</l>
+              <l>La prigionia del moro</l>
+              <l>per la sua fedeltà troppo a me caro</l>
+              <l n="1085">m'affligge sì, che con maggior premura </l>
+              <l>del suo riscatto impongo a te la cura.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Piacesse al ciel che eguale </l>
+              <l>al tuo desire e al mio servir sortisse</l>
+              <l>la libertà bramata; ond'è che taccio</l>
+              <l n="1090">partendo impaziente</l>
+              <l>degl'ordini opportuni a dar lo spaccio.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Col mio sangue comprarei </l>
+              <l>quella vita a me sì cara,</l>
+              <l>s'a una perdita sì amara</l>
+              <l n="1095"> son due fiumi gl'occhi miei.</l>
+              <l rend="indent">Con il balsamo di speme</l>
+              <l>reggo in vita questa salma,</l>
+              <l>onde poi timida l'alma</l>
+              <l>quanto spera, tanto teme.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l n="1100">Rendetemi il mio bene,</l>
+              <l>empie squadre nemiche,</l>
+              <l>ch'ogn'altra offesa fatta al regio trono,</l>
+              <l>se Feraspe rendete, io vi perdono.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Per pietà, deh, torna a me!</l>
+              <l n="1105">Ah <name>Feraspe</name>, e dove sei,</l>
+              <l>se dolente i lumi miei</l>
+              <l>non san viver senza te?</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Astri. che a danno mio siete sì fieri,</l>
+              <l>siate un giorno pietosi, e poi severi.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA VII</head>
+          <stage rend="italic">Appartamento regio <lb/> Lindora e Filandro </stage>
+
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l n="1110" rend="indent">Fiorin sen fuggì,</l>
+              <l>Feraspe n'andò:</l>
+              <l>quest'alma non può</l>
+              <l>più viver così.</l>
+              <l rend="indent">Mio cor, che sarà?</l>
+              <l n="1115">Ardire, su su, </l>
+              <l>consolati tu</l>
+              <l>ch'il pianto è viltà.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>Mai vanno le disgrazie ad una ad una,</l>
+              <l>bersaglio è questo cor d'empia fortuna.</l>
+              <l n="1120">Ma resisti costante.</l>
+              <l>Non t'avvilir, <name>Lindora</name>,</l>
+              <l>ché nel regno d'<name>Amor</name> — molto ben sai
+                —</l>
+              <l>non vi è d'amanti carestia giamai.</l>
+              <l>È giudizio prudente e assai ben scaltro</l>
+              <l n="1125">nella perdita d'un trovarne un altro.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l> Dimmi, fedel Lindora,</l>
+              <l>in che tu passi l'ore</l>
+              <l>in queste regie stanze</l>
+              <l>quando, disoccupata</l>
+              <l n="1130">di mestieri di corte,</l>
+              <l>solitaria ten vai, qual or ti trovo?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>E in corte e in gabinetto,</l>
+              <l>sempre con pianti amari</l>
+              <l>penso di mie sventure ai casi rari.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l n="1135">E qual dolor ti affanna?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Mi crucia, mi tormenta</l>
+              <l>per gran forza d'amore,</l>
+              <l>strale di gelosia.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l>Deh, se il dirlo ti lice,</l>
+              <l n="1140">mi fia grato il sapere</l>
+              <l>chi sia negl'amor tuoi tanto felice.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Signor, quel moro vago</l>
+              <l>di cui, per mio messaggio,</l>
+              <l>faceste dono alla regina un tempo,</l>
+              <l n="1145">quel Moro è il mio tormento,</l>
+              <l>or che lontan si trova e prigioniero</l>
+              <l>sta sui legni di <name>Cipro</name>.</l>
+              <l>Anzi vi è più: che per maggior ruina,</l>
+              <l>se mai tornasse un giorno,</l>
+              <l n="1150">piango ch'ho per rival la mia regina.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l part="I">Come rival la tua regina?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l part="F">Appunto.</l>
+              <l>Eurinda più di me quel moro adora </l>
+              <l>e lo piange ad ognora.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="strofa">
+              <l rend="indent">Ohimè, che sento?</l>
+              <l n="1155">Com'è possibile?</l>
+              <l>Non è credibile!</l>
+              <l>Oh, gran portento!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <l>Piacesse al ciel che verità non sia,</l>
+            <l>che troppo caro al mio pensier saria.</l>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="strofa">
+              <l n="1160" rend="indent">Oh, che caso stravagante:</l>
+              <l>la regina i regi aborre</l>
+              <l>e d'un moro or fatta amante</l>
+              <l>presso lui fedel sen corre.</l>
+              <l rend="indent">Troppo è savio quel consiglio</l>
+              <l n="1165"> — lo conosco, il provo, il veggio —</l>
+              <l>che la donna lascia il meglio</l>
+              <l> e s'elegge sempre il peggio.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA VIII</head>
+          <stage rend="italic">Eurinda, Rodrigo, Fiorino e Lindora </stage>
+
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Mie pupille dolenti,</l>
+              <l>mentre sole qui siamo</l>
+              <l n="1170">e che gl'affetti nostri occhio non vede,</l>
+              <l>per scaricar di tanti affanni il core</l>
+              <l>su le rive dei lumi,</l>
+              <l>aprite il varco ai lagrimosi fiumi.</l>
+            </lg>
+            <lg type="strofa">
+              <l rend="indent">Pensier ch'affliggete</l>
+              <l n="1175">il mesto cor mio, </l>
+              <l>partite, giungete</l>
+              <l>all'idolo mio.</l>
+              <l rend="indent">Sospir ch'agitate</l>
+              <l>l'afflitto mio sen,</l>
+              <l n="1180">correte, volate,</l>
+              <l>giungete al mio ben.</l>
+            </lg>
+            <lg type="versi sciolti">
+              <l>E perché non sia vana</l>
+              <l>la gradita speranza</l>
+              <l>di rivederlo un giorno,</l>
+              <l n="1185">fate con tal novella a me ritorno.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Di portenti non lievi, o mia reina,</l>
+              <l>messaggero Rodrigo a te s'inchina.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>E qual nuovo prodigio, o inique stelle,</l>
+              <l>ora apportate a danno mio rubelle?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l n="1190">Sappi, eccelsa regnante,</l>
+              <l>che del sicano lido il duce invitto</l>
+              <l>prigioniero n'invia <name>Fiorino</name>, il servo.</l>
+              <l>Questi, sopra volante agil battello </l>
+              <l>tentando di fuggir, venne arrestato;</l>
+              <l n="1195">et indi, esaminato,</l>
+              <l>narrò che per unirsi al suo signore</l>
+              <l>verso i legni di <name>Cipro</name> il piè volgea.</l>
+              <l>Anzi, senti e stupisci, o gran reina:</l>
+              <l>colui che con il nome di <name>Feraspe</name></l>
+              <l n="1200">servendo te fu prigionier poc'anzi,</l>
+              <l>non è già quel che supponesti un moro,</l>
+              <l>ma del gran re di Cipro</l>
+              <l>il figlio Floridoro</l>
+              <l>che, per fama invaghito</l>
+              <l n="1205">di tua beltà,qui giunse</l>
+              <l>sotto volto mentito.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>O Dio, che sento!</l>
+              <l>Vicende inaspettate,</l>
+              <l>notizie inopinate!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l n="1210">E soggiunse anche il messo</l>
+              <l>che, poi che prigioniero</l>
+              <l>il re creduto un moro</l>
+              <l>fu dal corsaro qui riconosciuto,</l>
+              <l>venne al lido sican tosto rimesso</l>
+              <l n="1210">con l'ossequio dovuto.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Dunque a noi non lontano </l>
+              <l>sta Floridoro il Grande?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Io creder deggio </l>
+              <l>che, pria che il biondo dio tuffi nell'onde</l>
+              <l n="1215">del carro aurato i rapidi destrieri,</l>
+              <l>da sue milizie accompagnato appunto</l>
+              <l>in questa regia il gran signor sia giunto;</l>
+              <l>e da <name>Fiorin</name>, che prigionier fu poi,</l>
+              <l>potrem meglio ascoltarlo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="1220">Fate che venga a noi.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Narra senza temer, Fiorino, il vero.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="versi sciolti">
+              <l><name>Floridoro</name>, il mio prence, </l>
+              <l>poiché per fama intende</l>
+              <l>della beltà d'<name>Eurinda</name> il merto raro,</l>
+              <l n="1225">abbandona la regia,</l>
+              <l>qui seco mi conduce</l>
+              <l>sotto un abito vile</l>
+              <l>con nome di <name>Feraspe</name>;</l>
+              <l>simula servitù, finge catene</l>
+              <l n="1230">per meritar mercé dal caro bene.</l>
+              <l>Io, la sua prigionia quando ho palese,</l>
+              <l>penso seguirlo a volo:</l>
+              <l>fuggo da questo suolo,</l>
+              <l>sulla riva mi porto,</l>
+              <l n="1235">sovra debole pin parto, son giunto.</l>
+              <l>Quindi condotto alle tue regie piante,</l>
+              <l>Della mia prigionia grazie ti chiedo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>A sì gran fedeltà tutto concedo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="strofa">
+              <l rend="indent">Così burlasti <name>Amore</name>, </l>
+              <l n="1240"> così tradisti a me:</l>
+              <l>quest'è dunque la fé,</l>
+              <l>Fiorino traditore!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FIORINO</speaker>
+            <lg type="strofa">
+              <l rend="indent">Politico pensiero</l>
+              <l>si scorda d'ogni affetto,</l>
+              <l n="1245">or dal tuo vago aspetto</l>
+              <l>il mio perdono io spero.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA e FIORINO</speaker>
+            <lg type="strofa">
+              <l rend="indent">Tu sei la vita mia, tu sei il mio core,</l>
+              <l> non più guerra, no no, vittoria, Amore.</l>
+            </lg>
+          </sp>
+        </div2>
+
+        <div2 type="part">
+          <head type="conv">SCENA IX et ultima</head>
+          <stage rend="italic">Tutti</stage>
+
+          <sp>
+            <speaker>FLORIDORO</speaker>
+            <lg type="versi sciolti">
+              <l>Non inarcar le ciglia,</l>
+              <l n="1250">o regnante sicana,</l>
+              <l>se appena riconosci</l>
+              <l>quel che supposto hai per <name>Feraspe</name> un tempo,</l>
+              <l>con tarda, inaspettata stravaganza</l>
+              <l>prender di <name>Floridoro</name> oggi sembianza.</l>
+              <l n="1255">Io — dal grido sonoro</l>
+              <l>di fama stimolante,</l>
+              <l>spinto di tue bellezze</l>
+              <l>ad adorare i pregi —</l>
+              <l>lascio il mio sangue e il trono,</l>
+              <l n="1260">patria e fasti abbandono</l>
+              <l>mentre guerra crudel fra le nostr'armi</l>
+              <l>i miei desir, le mie speranze oscura;</l>
+              <l>prendo di moro vil bruna figura,</l>
+              <l>qui giungo e, semivivo,</l>
+              <l n="1265">poter servirti a gran fortuna ascrivo.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>E perché non scoprir sì degni affetti?</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FLORIDORO</speaker>
+            <lg type="versi sciolti">
+              <l>Quand'io tentai far noti</l>
+              <l>del mio seno gl'ardor troppo veraci,</l>
+              <l>tu rispondesti: " Taci! ".</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <l n="1270">O stelle, o Dio!</l>
+          </sp>
+          <sp>
+            <speaker>FLORIDORO</speaker>
+            <lg type="versi sciolti">
+              <l>Mi destina Lucinda</l>
+              <l>messaggero a Rodrigo;</l>
+              <l>partendo ad obbedire,</l>
+              <l>m'incammino a morire;</l>
+              <l n="1275">già m'accingo al ritorno e, impaziente,</l>
+              <l>son de' sudditi miei preda dolente.</l>
+              <l>Mi dannano a catene;</l>
+              <l>mi scuopro, ognun m'inchina; e ricondotto</l>
+              <l>su la riviera amata</l>
+              <l n="1280">spero: sarà quest'alma</l>
+              <l>quanto infelice un dì, tanto or beata?</l>
+              <l>Perdona, se t'offesi, o gran reina,</l>
+              <l>e sia essempio immortal la mia gran fede</l>
+              <l>ch'alla forza d'amor ogn'alma cede.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="1285">Prencipe glorioso,</l>
+              <l>non sa formare accenti</l>
+              <l>mia lingua istolidita,</l>
+              <l>che l'estremo favor di tali onori</l>
+              <l>merta che col tacer sempre t'adori.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <lg type="versi sciolti">
+                <l n="1290">Di sì regii contenti</l>
+                <l>partecipe ancor io, godo a gran segno</l>
+                <l>dei fortunati eventi;</l>
+                <l>e quanto ben mi duol che non riporti</l>
+                <l>al mio gran re de' miei servigi il frutto,</l>
+                <l n="1295">tanto godo in veder che tai successi</l>
+                <l>d'eterna pace han stabilito il tutto.</l>
+              </lg>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Ti son noti, o Filandro,</l>
+              <l>di sì prospera sorte i cari arcani,</l>
+              <l>onde per l'opra tua spero s'acquieti</l>
+              <l n="1300">di <name>Napoli</name> il regnante:</l>
+              <l>ch'io, per smorzar l'antiche e fiere guerre</l>
+              <l>con i regni di <name>Cipro</name> e per dar premio</l>
+              <l>di Floridoro al memorando amore,</l>
+              <l>dalla giustizia ho incatenato il core.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FILANDRO</speaker>
+            <lg type="versi sciolti">
+              <l n="1305">Solo, Eurinda sublime, umil ti chiedo</l>
+              <l>sia concessa <name>Lucinda</name> alla mia fede,</l>
+              <l>ché costante l'adoro insin dal giorno</l>
+              <l>che posi in questa regia il primo piede.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Quando <name>Lucinda</name> a tal desio consenta,</l>
+              <l n="1310">per quanto deve, Eurinda è ben contenta.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LUCINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Son felici a gran segno i desir miei,</l>
+              <l>grazie al nume d'Amor, grazie agli dei.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>LINDORA</speaker>
+            <lg type="versi sciolti">
+              <l>Figlia, m'è caro il dì, quel punto e l'ora</l>
+              <l>che ti strinsi al mio petto</l>
+              <l n="1315">per te ripien d'affetto;</l>
+              <l>gioisco omai di così lieta sorte</l>
+              <l>e gode meco ancor tutta la corte.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>RODRIGO</speaker>
+            <lg type="versi sciolti">
+              <l>Dopo fatighe tante, </l>
+              <l>felicità maggiore</l>
+              <l n="1320">mai di Rodrigo ha concepito il core.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FLORIDORO</speaker>
+            <lg type="versi sciolti">
+              <l><name>Eurinda</name>, a te m'inchino.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l>Ergiti, o gran monarca!</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>FLORIDORO</speaker>
+            <lg type="versi sciolti">
+              <l>In questo giorno</l>
+              <l>se già servo partii, schiavo ritorno.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA</speaker>
+            <lg type="versi sciolti">
+              <l n="1325">Non più schiavo, mio ben, ma sol regnante,</l>
+              <l>con imeneo verace</l>
+              <l>di due gran regni a stabilir la pace.</l>
+            </lg>
+          </sp>
+          <sp>
+            <speaker>EURINDA, FLORIDORO, RODRIGO</speaker>
+            <lg type="strofa">
+              <l rend="indent">Non disperi, ah no, la gloria</l>
+              <l>chi d'<name>Amor</name> pone l'assalto</l>
+              <l n="1325">ad un cor benché di smalto,</l>
+              <l>che servendo ottien vittoria</l>
+              <l>e tra lacci di beltà</l>
+              <l>può goder la libertà:</l>
+              <l> ché per aver mercé da un bel sembiante</l>
+              <l n="1330"> ogn'inganno inventar lice all'amante.</l>
+            </lg>
+          </sp>
+        </div2>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

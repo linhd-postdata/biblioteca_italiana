@@ -1,0 +1,1946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Salmi</title>
+      <author>Bernardo Tasso</author>
+    </titleStmt>
+    <extent>67 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000683</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Rime</title>
+        <title type="part">Libri quarto e Quinto ; Salmi ; e Ode</title>
+        <author>Tasso, Bernardo</author>
+        <publisher>RES</publisher>
+        <pubPlace>Torino</pubPlace>
+        <date>1995</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-10-19T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Ilenia Sabelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-11-17T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="dedica">
+<opener>
+<salute>Alla Serenissima Madama Margherita di Vallois,
+Duchessa di Savoia</salute></opener>
+
+<p>La maraviglia, Serenissima Signora, de l'infinite virtù di vostra Altezza mi s'impresse di maniera ne l'animo il primo giorno ch'io la conobbi, che qualora a lei volgo il pensiero, un grande e raro miracolo de la natura mi par di vedere. Quinci, e dai molti benefici ricevuti dal suo favore, in me nacque un immenso desiderio d'onorarla, il quale tanto di giorno in giorno è andato accrescendo, quanto il suo merito e 'I mio debito s'è fatto maggiore: a cui, eziandio che e per l'altezza et eccellenza del soggetto, e per la bassezza et imperfezione mia, io non abbia potuto dar compimento, son però certo ch'ella avrà conosciuto ch'egli è stato diffetto di sapere e non di volontà. E perché non mi pare che sotto il nome di sì alta e valorosa Principessa di mandare in man degli uomini profane composizioni si convenga, queste poche Ode sacre, o Salmi che li vogliamo nominare, sotto la protezione sua ne verranno in luce. Prenda l'Altezza vostra con lieto animo il picciolo pagamento d'un suo debitore, et al diffetto suo supplisca con la grandezza del mio desiderio, il quale (se le forze de l'ingegno se gli aguagliassero) non minor maraviglia a' mortali porgerebbe, che si facciano le tante e sì rarequalit6agrave; del reale animo suo; rendendola certa che se da la sterilità de l'intelletto mio cosa nascerà che del suo merito in qualche parte non indegna mi paia, sotto il suo favore al mondo si farà vedere. Intanto piaccia a vostra Altezza di conservarmi ne la grazia sua.</p>
+<closer><dateline>Di Venezia il XV di Decembre del LIX</dateline></closer>
+
+</div1>
+</front>
+
+
+<body>
+<div1 type="poesia">
+<head>Salmo 1</head>
+
+<lg type="non-definito">
+<l>Perché, sommo Motore,</l>
+<l>in me de l' ira tua gli strali aventi</l>
+<l>sì acuti e sì pungenti?</l>
+<l>Se punir vòi il mio errore,</l>
+<l>mancarà sotto a sì gran pena il core,</l>
+<l>ché cotanti non vanno</l>
+<l>augei per l' aria, né Nettuno asconde</l>
+<l>tanti pesci ne l' onde,</l>
+<l>quant' io ho d' anno in anno</l>
+<l>fatte a te offese, ad altri oltraggio e danno.</l>
+<l>Come padre amoroso,</l>
+<l>che si mostra al figliuol crudele et empio</l>
+<l>per torlo a maggior scempio,</l>
+<l>me punisci, e pietoso</l>
+<l>dammi in tante fatiche omai riposo.</l>
+<l>Vedi che quanto il sole</l>
+<l>risplende qui, quanto la notte adombra</l>
+<l>la terra d' umid' ombra,</l>
+<l>il cor si lagna e duole</l>
+<l>con pianto, con sospiri e con parole,</l>
+<l>sì che languidi omai</l>
+<l>sono quest' occhi, e per la pena infermi;</l>
+<l>e se non so dolermi</l>
+<l>quant' io t' offesi, sai</l>
+<l>che tua pietà 'l mio error vince d' assai.</l>
+<l>Volgi le luci pie,</l>
+<l>a' cui be' raggi così spiegan l' ali</l>
+<l>queste noie mortali</l>
+<l>come al lume del die</l>
+<l>suole fresca ombra, a le miserie mie,</l>
+<l>che sotto al duro e grave</l>
+<l>fascio de' dolor miei, l' alma meschina</l>
+<l>gli afflitti omeri inchina</l>
+<l>e di cadersi pave,</l>
+<l>se tua bontà di lei pietà non have;</l>
+<l>sgravala, Signor mio,</l>
+<l>sì che fra tante noie un dì respiri,</l>
+<l>fra sì fieri martiri;</l>
+<l>e non porre in oblio</l>
+<l>che 'l soccorrer i rei proprio è di Dio.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 2</head>
+<lg type="non-definito">
+<l>Sin a quando, Signor, questa sviata</l>
+<l>anima senza luce</l>
+<l>seguirà il senso con lena affannata,</l>
+<l>che quasi infido duce</l>
+<l>a periglioso passo la conduce?</l>
+<l>Sin a quando, Signor, l' orecchie avrai</l>
+<l>chiuse de la pietate</l>
+<l>che ti sospinse, per trar noi de' guai,</l>
+<l>da le membra beate</l>
+<l>sangue a versar con tanta indignitate?</l>
+<l>Io pur tua son fattura, e per me ancora</l>
+<l>torre di mano a l' angue</l>
+<l>spietato che n' ancide e ne divora,</l>
+<l>di ch' ei sospira e langue,</l>
+<l>spargesti il giusto et innocente sangue:</l>
+<l>or che soccorso m' hai con la tua morte,</l>
+<l>vòi in preda lasciarmi</l>
+<l>debile e stanco a così fresco e forte</l>
+<l>nimico, senza darmi,</l>
+<l>onde mi possa aitar, lo scudo e l' armi?</l>
+<l>In te posto ho, Signor, tutta la spene,</l>
+<l>né altronde spero aita</l>
+<l>contra questo tiranno, che mi tiene</l>
+<l>com' agna che smarrita</l>
+<l>ha lungi dal pastor lupo rapita;</l>
+<l>sì m' udrai poi cantar lungo un bel rio</l>
+<l>al ricco plettro e d' oro,</l>
+<l>ogn' altro mio pensier posto in oblio,</l>
+<l>sì che lo Scita e 'l Moro</l>
+<l>sentirà 'l canto mio dolce e canoro:</l>
+<l>come tu festi il ciel vago e rotondo,</l>
+<l>cinto di stelle ardenti,</l>
+<l>ch' un prato par quand' è fiorito il mondo,</l>
+<l>e con le luci algenti</l>
+<l>la luna errar intorno agli elementi;</l>
+<l>come tu desti al sol caldo e vigore,</l>
+<l>che con le luci sante</l>
+<l>pieno di dolce e di paterno amore</l>
+<l>fa la terra pregnante,</l>
+<l>ricca et adorna di bellezze tante,</l>
+<l>che con ordine eterno errando intorno</l>
+<l>a la mole terrena</l>
+<l>or freddo e breve ol lungo e caldo il giorno</l>
+<l>vigilante ne mena,</l>
+<l>la chioma di bei raggi ornata e piena;</l>
+<l>e l' altre lodi tue, che tante sono</l>
+<l>quant' onde move l' ôra,</l>
+<l>quanti il terreno ha fior, leggiadro dono</l>
+<l>di Favonio e di Flora,</l>
+<l>allor che i campi Aprile imperla e indora.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 3</head>
+<lg type="non-definito">
+<l>Io so, sommo Motore,</l>
+<l>e 'l confesso, ch' indegno</l>
+<l>son del tuo santo amore,</l>
+<l>ma tu, Signor, ben degno</l>
+<l>sei ch' io t' ami et onore</l>
+<l>quanto dee creatura il creatore.</l>
+<l>Ben degno far me 'n puoi,</l>
+<l>se col foco gentile</l>
+<l>ch' arde de' servi tuoi</l>
+<l>il cor contrito, umile,</l>
+<l>arder l' alma mi vuoi,</l>
+<l>onde in nuovo uomo mi rivesta poi.</l>
+<l>Io son secco terreno,</l>
+<l>non sterile, infecondo,</l>
+<l>a cui, se bagni il seno,</l>
+<l>e fertile e fecondo,</l>
+<l>come pratel di fieno,</l>
+<l>mostrerà il petto suo di frutti pieno:</l>
+<l>bagnalo, Signor mio,</l>
+<l>con quel licor soave</l>
+<l>del tuo perpetuo rio,</l>
+<l>con cui le macchie lave</l>
+<l>del peccato empio e rio,</l>
+<l>sì come padre liberale e pio,</l>
+<l>che di frutti e di fiori,</l>
+<l>come campo ben colto,</l>
+<l>di diversi colori</l>
+<l>gli vedrai pinto il volto,</l>
+<l>e de' tuoi bei tesori</l>
+<l>carco sempre mostrare il grembo fuori;</l>
+<l>né perché ingrata sia</l>
+<l>a te di tanti doni</l>
+<l>la fral natura mia,</l>
+<l>giusto sdegno ti sproni,</l>
+<l>ché questa carne ria</l>
+<l>sovente il suo dover, Signore, oblia.</l>
+<l>Come dinanzi a fiato</l>
+<l>di vento orientale</l>
+<l>che talor soffia irato</l>
+<l>spiegan le nebbie l' ale,</l>
+<l>sì che 'l ciel turbato</l>
+<l>allor allor si fa sereno e grato,</l>
+<l>così dinanzi al vento</l>
+<l>de le preghiere mie,</l>
+<l>benché debile e lento</l>
+<l>spiri la notte e 'l die,</l>
+<l>Signore, in un momento</l>
+<l>se 'n fugga l' ira tua, di cui pavento;</l>
+<l>onde sereno e chiaro</l>
+<l>torni il mio giorno ancora,</l>
+<l>e s' asciughi l' amaro</l>
+<l>pianto che d' ora in ora</l>
+<l>spargo, ch' altro riparo</l>
+<l>non ho che te, Padre benigno e caro.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 4</head>
+<lg type="non-definito">
+<l>De la tua grazia il raggio, alto Signore,</l>
+<l>passa a guisa di lampo,</l>
+<l>sì che non scalda l' aghiacciato core:</l>
+<l>però tepido avampo</l>
+<l>nel foco chiaro del tuo santo amore.</l>
+<l>Manda una fiamma sì lucente e viva</l>
+<l>che non sol scaldi l' alma</l>
+<l>ora di bene oprar sdegnosa e schiva,</l>
+<l>ma con la dolce et alma</l>
+<l>luce arda del mio cor l' interna riva,</l>
+<l>acciò che del tuo amor caldo et acceso</l>
+<l>i mondani diletti</l>
+<l>deponga in terra, quasi inutil peso</l>
+<l>de l' alma, che s' affretti</l>
+<l>di gir al Ciel, da cui gli era conteso.</l>
+<l>Io son quasi terren sterile incolto,</l>
+<l>che non produce frutto,</l>
+<l>se seminato da man saggia e colto</l>
+<l>non è per l' anno tutto,</l>
+<l>et inaffiato onde non resti asciutto;</l>
+<l>e se de la tua immensa alta pietate</l>
+<l>l' inessicabil fonte,</l>
+<l>ch' esce ad ognor con tanta largitate</l>
+<l>da quello eterno monte,</l>
+<l>non lo bagna talor, come la state</l>
+<l>allor ch' arde dal cielo il Cane estivo</l>
+<l>ogni campagna e prato,</l>
+<l>che 'l campo è senza fior, senz' onda il rivo,</l>
+<l>sarò nudo e privato</l>
+<l>di tutto quel onde in tua grazia vivo.</l>
+<l>Io ho il voler, ma non pari al desio</l>
+<l>sono le forze frali</l>
+<l>senza l' aiuto tuo, mio Padre e Dio;</l>
+<l>ché da cure mortali</l>
+<l>oppresso, il lasso e frale spirto mio</l>
+<l>senza la grazia tua non più respira</l>
+<l>che sotto al grave pondo</l>
+<l>del duro sasso che sospinge e gira</l>
+<l>sempre dal sommo al fondo</l>
+<l>Sisifo, al Ciel et a se stesso in ira.</l>
+<l>Stempra quel ghiaccio adamantino e duro</l>
+<l>d' una invecchiata usanza</l>
+<l>che 'l cor mi cinge, ond' io di te non curo,</l>
+<l>ma posta ho mia speranza</l>
+<l>ne le cose del mondo orrido e scuro,</l>
+<l>sì che l' ardor del tuo bel foco senta,</l>
+<l>che 'l gielo or le contende,</l>
+<l>l' anima rea, e di ben far contenta</l>
+<l>le sue gran colpe emende,</l>
+<l>et al folle desio più non consenta.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 5</head>
+<lg type="non-definito">
+<l>Come vago augelletto</l>
+<l>che i suoi dogliosi lai</l>
+<l>fra i rami d' arbuscel tenero e schietto</l>
+<l>chiuso di Febo ai rai</l>
+<l>sfoga piangendo, e non s' arresta mai,</l>
+<l>così la notte e 'l giorno</l>
+<l>misero piango anch' io</l>
+<l>le gravi colpe ond' è 'l cor cinto intorno,</l>
+<l>e con affetto pio</l>
+<l>cheggio perdono a te, Signore e Dio;</l>
+<l>ma tu (lasso!) non senti</l>
+<l>il suo di mercé indegno</l>
+<l>de' dolorosi miei duri lamenti:</l>
+<l>se forse hai preso a sdegno</l>
+<l>che da te spesso fuggo, a te rivegno,</l>
+<l>che poss' io, se l' audace</l>
+<l>senso, tanto possente,</l>
+<l>m' ha posto al collo un giogo aspro e tenace</l>
+<l>oimè, che non consente</l>
+<l>che stabil nel tuo amor sia la mia mente?</l>
+<l>Né repugnare al senso</l>
+<l>val la fragil natura,</l>
+<l>fatto sì forte e di valor sì immenso,</l>
+<l>se non pigli la cura</l>
+<l>tu, Padre pio, di questa tua fattura.</l>
+<l>Semplice e pura agnella,</l>
+<l>se talor per errore</l>
+<l>vagar intorno per la selva bella</l>
+<l>lascia sola il pastore,</l>
+<l>ella è rapita, et ei danno ha e dolore:</l>
+<l>deh, non lasciar in preda</l>
+<l>quest' alma poco accorta</l>
+<l>al suo nimico, sì ch' errar la veda</l>
+<l>sola e senza sua scorta,</l>
+<l>onde ne resti lacerata e morta.</l>
+<l>L' hai tu, Padre benigno,</l>
+<l>con le tue man creata</l>
+<l>per in preda lasciare a quel maligno</l>
+<l>serpe una cosa amata,</l>
+<l>una fattura tua sì cara e grata?</l>
+<l>Vincati de le mie</l>
+<l>miserie omai pietate,</l>
+<l>e di man tommi a queste crude arpie</l>
+<l>cure del mondo ingrate,</l>
+<l>sì che non moia in tanta indignitate.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 6</head>
+<lg type="non-definito">
+<l>De l' egre, inferme menti</l>
+<l>vieni, o consolatore</l>
+<l>clemente, o de' tormenti</l>
+<l>nostri medico certo assai migliore</l>
+<l>che non fu mai Enone,</l>
+<l>che non fu Podalirio o Macaone;</l>
+<l>vieni, Spirito Santo,</l>
+<l>e del mio core immondo,</l>
+<l>ch' ora lavo col pianto,</l>
+<l>penetra co' tuoi rai sino al profondo,</l>
+<l>e le tenebre sgombra</l>
+<l>che posto v' ha de' miei peccati l' ombra.</l>
+<l>Vedi che come soglio</l>
+<l>percuoton del mar l' onde</l>
+<l>con un continuo orgoglio,</l>
+<l>così piaghe mi fan larghe e profonde</l>
+<l>l' alte miserie mie,</l>
+<l>ond' io non poso mai notte né die.</l>
+<l>Vieni, salda fortezza,</l>
+<l>e col potente braccio,</l>
+<l>ch' ogni durezza spezza,</l>
+<l>rompi quel forte, adamantino ghiaccio</l>
+<l>che mi circonda l' alma,</l>
+<l>sì che non abbia pur di me la palma</l>
+<l>la morte, o quel nimico</l>
+<l>che con falsa lusinga</l>
+<l>di simulato amico</l>
+<l>fallace pur m' alletta e mi lusinga,</l>
+<l>per tenermi ognor fisso</l>
+<l>nel suo più scuro e più profondo abisso.</l>
+<l>Non ha, quand' è più bello</l>
+<l>l' anno e più dilettoso,</l>
+<l>tante frondi arbuscello,</l>
+<l>tanti vaghi fioretti un prato erboso,</l>
+<l>quant' io noie et affanni,</l>
+<l>del mio angoscioso core empi tiranni:</l>
+<l>sana l' alma dolente</l>
+<l>et egra, di salute</l>
+<l>disperata, ch' ardente</l>
+<l>febbre consuma, con la tua virtute,</l>
+<l>non con suchi o licori</l>
+<l>di verdi erbette o di gemmati fiori;</l>
+<l>scaccia l' interna sete</l>
+<l>col tuo torrente vivo</l>
+<l>del piacer, che fa liete</l>
+<l>l' anime nostre, e non con fonte o rivo,</l>
+<l>sì che tempri il veleno</l>
+<l>de le miserie umane ond' io son pieno.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 7</head>
+<lg type="non-definito">
+<l>Il tuo aiuto, o Signore</l>
+<l>e pietoso e benigno,</l>
+<l>contra l' angue maligno</l>
+<l>chiamo, ch' a tutte l' ore</l>
+<l>mi serpe intorno a questo afflitto core.</l>
+<l>Ti cerco, o Signor mio,</l>
+<l>per servirti et amarti,</l>
+<l>ma non posso trovarti,</l>
+<l>ché la nube del rio</l>
+<l>peccato s' interpone al mio desio,</l>
+<l>e mi nasconde il lume</l>
+<l>di te, mio sol lucente,</l>
+<l>sì che la cieca mente</l>
+<l>tornerà al suo costume,</l>
+<l>se non è chi la guidi o chi l' allume.</l>
+<l>Come raggio talora</l>
+<l>di chiaro ardente sole</l>
+<l>sgombrar la nube suole</l>
+<l>che l' aria ad ora ad ora</l>
+<l>conturba col suo scuro e discolora,</l>
+<l>così un sol lumicino</l>
+<l>de la tua grazia immensa,</l>
+<l>come facella accensa,</l>
+<l>mostri il dritto camino</l>
+<l>a me smarrito e stanco peregrino,</l>
+<l>acciò ch' io possa omai</l>
+<l>trovar dove tu sei:</l>
+<l>fallo, che far lo dèi,</l>
+<l>che se non mi ti dai</l>
+<l>nulla mi giova ciò che dato m' hai.</l>
+<l>Io t' amo, e se non quanto</l>
+<l>devrei, che te 'l confesso,</l>
+<l>non può lo spirto oppresso</l>
+<l>dal peso grave tanto</l>
+<l>di questo mio mortal terreno manto</l>
+<l>alzarsi ov' è 'l suo bene</l>
+<l>da queste egre del mondo</l>
+<l>cure, vile et immondo,</l>
+<l>e por tutta sua spene</l>
+<l>nel tuo santo favor come conviene;</l>
+<l>ma se col vivo raggio</l>
+<l>di tua grazia disgombre</l>
+<l>questi, ch' a guisa d' ombre</l>
+<l>mi celano il viaggio,</l>
+<l>pensieri umani, ond' io lume non aggio,</l>
+<l>te sol, Signor eterno,</l>
+<l>ogni gioia mortale</l>
+<l>come caduca, frale</l>
+<l>e vile avendo a scherno,</l>
+<l>amerò, colmo d' un diletto interno.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 8</head>
+<lg type="non-definito">
+<l>Stempra, o gran Re del Cielo,</l>
+<l>col vivo foco del tuo santo Amore</l>
+<l>questo indurato gelo</l>
+<l>di confirmato errore</l>
+<l>che mi circonda intorno intorno il core,</l>
+<l>sì che tutto infiammato</l>
+<l>del tuo divino ardor, qual secca face</l>
+<l>arda in foco beato</l>
+<l>sempre chiaro e vivace</l>
+<l>con degli effetti umani eterna pace.</l>
+<l>In te sol la radice</l>
+<l>posi de la mia speme alta e gradita,</l>
+<l>ch' or crescendo felice</l>
+<l>e di fronde vestita</l>
+<l>alza la chioma sua verde e fiorita:</l>
+<l>bagnala tu con l' onda</l>
+<l>di quella tua pietà celeste e diva,</l>
+<l>che come fonte abbonda</l>
+<l>che da surgente e viva</l>
+<l>vena fra i fiori e l' erbe si deriva,</l>
+<l>perché venendo meno</l>
+<l>l' umor de la tua grazia, arido ramo</l>
+<l>non si sfaccia, ond' io pieno</l>
+<l>di tema e afflitto e gramo</l>
+<l>privo mi trovi di quel che più bramo.</l>
+<l>Fa' ch' ogni mio desio</l>
+<l>a te si volga, come a segno strale</l>
+<l>di bono arcier, tal ch' io</l>
+<l>verso te spieghi l' ale</l>
+<l>avendo a sdegno ogni piacer mortale,</l>
+<l>sì che quel serpe antico</l>
+<l>che con eterna e vigilante cura,</l>
+<l>empio nostro nemico,</l>
+<l>di tirarmi procura</l>
+<l>ne la sua valle tenebrosa e scura</l>
+<l>indarno ogn' arte spenda,</l>
+<l>e sembri augellator ch' al lungo giorno</l>
+<l>invan le reti tenda,</l>
+<l>e pien d' ira e di scorno</l>
+<l>la sera al nido suo faccia ritorno.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 9</head>
+<lg type="non-definito">
+<l>Deh, fra cotante mie</l>
+<l>calamità, di cui gravoso pondo</l>
+<l>mi pone adosso il mondo,</l>
+<l>sì spietate e sì rie,</l>
+<l>fa' almen, Signor, ch' io mi riposi un die.</l>
+<l>Se dopo lunga, grave</l>
+<l>e perigliosa, orribile tempesta,</l>
+<l>l' onda inanzi molesta</l>
+<l>divien piana e soave,</l>
+<l>e lascia al vento respirar la nave,</l>
+<l>perché questo del mio</l>
+<l>stato infelice, oscuro orrido verno,</l>
+<l>esser pur debbe eterno?</l>
+<l>O mio Signore, o Dio,</l>
+<l>togli l' orgoglio al destin empio e rio,</l>
+<l>perché non mi condanni</l>
+<l>ad un sì lungo, anzi perpetuo essiglio,</l>
+<l>con continuo periglio,</l>
+<l>e fra cotanti affanni</l>
+<l>finir il corso di mia vita e gli anni.</l>
+<l>Dammi tanta fortezza,</l>
+<l>che de la rea Fortuna oltraggi e torti</l>
+<l>soffrendo, in pace io porti,</l>
+<l>et a quest' alma, avezza</l>
+<l>a gustar ad ognor l' empia dolcezza</l>
+<l>de le gioie mortali,</l>
+<l>da' a ber di quel tuo vivo, alto torrente,</l>
+<l>che renda ebra la mente</l>
+<l>de le cose immortali,</l>
+<l>onde poi sprezzi quest' umane e frali.</l>
+<l>Solleva il mio pensero</l>
+<l>col tuo favor da queste cure umane,</l>
+<l>da le speranze vane</l>
+<l>del mondo, onde leggiero</l>
+<l>e scarco, quasi alato e bel corriero,</l>
+<l>m' inalzi del tuo monte</l>
+<l>al giogo lieto, ove giamai non verna,</l>
+<l>ove verde et eterna</l>
+<l>primavera la fronte</l>
+<l>d' altre vaghezze, e qui fra noi non conte,</l>
+<l>gli orna, e lungo i ruscelli</l>
+<l>che corron acqua di diletto viva,</l>
+<l>sovra la verde riva,</l>
+<l>ch' ha di gemme i capelli,</l>
+<l>si cibi anch' ei fra gli Angeli più belli</l>
+<l>a la divina mensa,</l>
+<l>ove la tua pietà tutti i diletti</l>
+<l>ai cari spirti eletti</l>
+<l>con larga man dispensa,</l>
+<l>tal che de l' amor tuo l' anima accensa</l>
+<l>sdegni nel suo terreno</l>
+<l>carcere far ritorno, e odiando tante</l>
+<l>gioie del mondo errante,</l>
+<l>piene d' empio veleno,</l>
+<l>si moia qui, per poi viverti in seno.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 10</head>
+<lg type="non-definito">
+<l>Quando ai corsier del Sol pongono il freno</l>
+<l>l' Ore, dopo l' Aurora,</l>
+<l>per far l' aere sereno</l>
+<l>con la luce ch' indora</l>
+<l>intorno il cielo, e le campagne infiora,</l>
+<l>rivolgo gli occhi lagrimosi e gravi</l>
+<l>ancor dal sonno a Dio,</l>
+<l>perché le macchie lavi</l>
+<l>ch' ha fatte l' error mio</l>
+<l>ne l' alma trista, e i pensieri e 'l desio;</l>
+<l>e sì come da fonte eterno e vivo,</l>
+<l>che con l' onda sua pura</l>
+<l>fa un pargoletto rivo,</l>
+<l>e con perpetua cura</l>
+<l>bagna i nascenti fiori e la verdura,</l>
+<l>verso dagli occhi, e per le gote spargo</l>
+<l>d' umor lucido e chiaro</l>
+<l>un rivo cupo e largo,</l>
+<l>dagli occhi che peccaro,</l>
+<l>e rigo il petto mio di pianto amaro;</l>
+<l>e col divoto core e pien di fede,</l>
+<l>di tante colpe mie</l>
+<l>a lui cheggio mercede,</l>
+<l>di quelle colpe rie</l>
+<l>che com' ingorde et affamate Arpie</l>
+<l>mi rodeno ad ognor la miser' alma,</l>
+<l>per timor che non porte</l>
+<l>il nimico la palma</l>
+<l>di me, potente e forte,</l>
+<l>e mi condanni a una perpetua morte;</l>
+<l>ma 'l senso per lung' uso omai tiranno,</l>
+<l>non clemente Signore,</l>
+<l>con un soave inganno</l>
+<l>disvia l' incauto core,</l>
+<l>e lo rimena al suo primiero errore.</l>
+<l>Ahi anima ostinata, un cieco duce</l>
+<l>tolt' hai per fida scorta,</l>
+<l>lassa, che ti conduce</l>
+<l>con le lusinghe, e porta</l>
+<l>per questa strada perigliosa e torta;</l>
+<l>ma tu, Signor del Ciel, Padre benigno,</l>
+<l>a questa semplicetta</l>
+<l>alma, che quel maligno</l>
+<l>serpe sì dolce alletta</l>
+<l>e tien ne' lacci suoi legata e stretta,</l>
+<l>recidi il nodo con l' ardente spada</l>
+<l>di tua pietà infinita,</l>
+<l>sì che a forza non vada</l>
+<l>ove il crudel l' invita,</l>
+<l>ove la tragge timida e smarrita.</l>
+<l>In te, Signor, ne la tua grazia spero,</l>
+<l>e perciò ti consacro</l>
+<l>il desio e 'l pensero,</l>
+<l>lavati entro quel sacro</l>
+<l>di pentimento e chiaro e bel lavacro,</l>
+<l>e le tue lodi sempre e la tua gloria</l>
+<l>cantando con la cetra,</l>
+<l>farò al mondo memoria</l>
+<l>che 'l cuor che non è pietra</l>
+<l>grazia e mercé da tua pietate impetra.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 11</head>
+<lg type="non-definito">
+<l>Odi da questo mare</l>
+<l>orrido e tempestoso</l>
+<l>del mondo rio, ove non è riposo,</l>
+<l>un afflitto pregare</l>
+<l>la tua pietà, ch' omai lo voglia aitare;</l>
+<l>vedi che vento irato</l>
+<l>lo sospinge e l' infesta,</l>
+<l>onda ognor lo percuote e lo molesta,</l>
+<l>sì che 'l flutto turbato</l>
+<l>l' ha di vela e timon già disarmato;</l>
+<l>porgi presto la mano</l>
+<l>al mio già rotto legno,</l>
+<l>perché di tempo rio forza né sdegno</l>
+<l>in questo mare insano</l>
+<l>non lo sommerga, onde poi pianga invano;</l>
+<l>io lo veggio vicino,</l>
+<l>Signor, a un duro scoglio,</l>
+<l>e cresce sempre l' ostinato orgoglio</l>
+<l>e l' impeto marino,</l>
+<l>tal che teme naufragio il cavo pino.</l>
+<l>O coloro felici,</l>
+<l>ch' a te, tranquillo porto,</l>
+<l>spinti per calle periglioso e torto</l>
+<l>da cari venti amici,</l>
+<l>chiudon le vele ne le tue pendici,</l>
+<l>e sgravati dal pondo</l>
+<l>de le cure mondane,</l>
+<l>sottratto il core a le miserie umane,</l>
+<l>nel tuo felice mondo</l>
+<l>passano chiaro il dì sempre e giocondo;</l>
+<l>miseri, ah, noi, ch' ancora</l>
+<l>per quest' onda importuna</l>
+<l>e fiera, senza aver certezza alcuna</l>
+<l>che di Dio benign' ôra</l>
+<l>al lido oriental spinga la prora,</l>
+<l>erriamo, ergendo il ciglio</l>
+<l>a la patria, ove sei</l>
+<l>Re sovra tutti i Regi, e Dio de' Dei</l>
+<l>terreni, e in questo essiglio</l>
+<l>a te chiedemo et aiuto e consiglio.</l>
+<l>Deh, sgombra col tuo raggio</l>
+<l>la caligine oscura,</l>
+<l>acqueta la tempesta orrida e dura,</l>
+<l>sì che senz' altro oltraggio</l>
+<l>io giunga lieto al fin del mio viaggio.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 12</head>
+<lg type="non-definito">
+<l>Qual vergine gentil che 'l genitore</l>
+<l>ha colta a l' improviso</l>
+<l>in qualche grave errore,</l>
+<l>che pinge d' ostro il viso,</l>
+<l>e con voce tremante e basso suono,</l>
+<l>inchinata et umil chiede perdono,</l>
+<l>Padre benigno, e di vergogna il volto</l>
+<l>depinto, e d' umiltate</l>
+<l>il cor, ch' un nembo folto</l>
+<l>copre di vanitate,</l>
+<l>vestito, a te ricorro, a te che sei</l>
+<l>conforto sol de' sconsolati e rei.</l>
+<l>Io non posso negarti alcun mio fallo,</l>
+<l>ch' a te tralucon fuori,</l>
+<l>come suol da cristallo</l>
+<l>raggio di sole o fiori,</l>
+<l>da questa mia sviata, inferma mente,</l>
+<l>e ad ogn' atto mio tu sei presente:</l>
+<l>vedi il mio cor, che già pentito e gramo</l>
+<l>piagne l' error commesso,</l>
+<l>quasi augellin che in ramo</l>
+<l>verde si lagna spesso</l>
+<l>de la sua dolce e cara compagnia</l>
+<l>che gli ha furata man rapace e ria.</l>
+<l>Sovente faccio al senso e a la ragione</l>
+<l>far pugna nel mio petto,</l>
+<l>ma quegli il guiderdone</l>
+<l>ne porta, ond' io constretto</l>
+<l>son di seguir il reo dovunque vada,</l>
+<l>né contra lui mi giova elmo né spada.</l>
+<l>Tu sai pur quanto sia debile e frale</l>
+<l>questa nostra natura,</l>
+<l>quanto inchinata al male</l>
+<l>se ragion non n' ha cura,</l>
+<l>quanto accorto e possente è quell' antico</l>
+<l>pestifero angue, e suo crudel nimico.</l>
+<l>Pront' è il voler in me, la forza manca,</l>
+<l>né risponde al desio,</l>
+<l>ch' ad ognor si rinfranca</l>
+<l>come per acqua rio:</l>
+<l>che poss' io più s' ognor combatto invano,</l>
+<l>e vinto porgo al vincitor la mano?</l>
+<l>Padre clemente, tua pietà infinita</l>
+<l>domi l' ardito senso,</l>
+<l>e quest' alma smarrita</l>
+<l>arda d' un foco immenso</l>
+<l>del tuo divino amor, sì ch' abbia a sdegno</l>
+<l>ogni piacer che sia fuor del tuo Regno.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 13</head>
+<lg type="non-definito">
+<l>Con quai lode, o Signore,</l>
+<l>canterà la mia lira</l>
+<l>il tuo supremo onore?</l>
+<l>Chi questa snoda e gira</l>
+<l>lingua, o la voce e l' intelletto inspira?</l>
+<l>Non può mortal pensiero,</l>
+<l>troppo a tant' opra ardito,</l>
+<l>pur adombrare il vero</l>
+<l>del tuo pregio infinito,</l>
+<l>non che voce o parlar terso e fiorito;</l>
+<l>non è sì angusto vaso</l>
+<l>di tanto ben capace:</l>
+<l>poter l' orto e l' occaso</l>
+<l>è speranza fallace</l>
+<l>tutto allumar con piccioletta face.</l>
+<l>Come debil del sole</l>
+<l>vista i raggi affisare</l>
+<l>non può, così parole</l>
+<l>umane laudare,</l>
+<l>né pensier la tua gloria imaginare.</l>
+<l>Alto divino oggetto</l>
+<l>non vede e non comprende</l>
+<l>nostro umano intelletto;</l>
+<l>lume che troppo splende</l>
+<l>gli occhi abbarbaglia, e nostra vista offende;</l>
+<l>ma se col tuo lucente</l>
+<l>splendore apri e rischiari</l>
+<l>la tenebrosa mente,</l>
+<l>sì ch' io vada di pari</l>
+<l>a quei spirti che qui ti fur già cari,</l>
+<l>andrò la notte e 'l giorno</l>
+<l>il tuo nome cantando</l>
+<l>per queste piaggie intorno,</l>
+<l>e l' anime chiamando</l>
+<l>che dietro al senso van sviate errando.</l>
+<l>O fonte eterna e viva,</l>
+<l>onde per molti rami</l>
+<l>la luce si deriva</l>
+<l>in quei che 'n Ciel tu chiami</l>
+<l>de la tua grazia, in quei ch' apprezzi et ami,</l>
+<l>illumina l' oscura</l>
+<l>mente ch' un negro velo</l>
+<l>di mondana e vil cura</l>
+<l>adombra, sì che allegro</l>
+<l>e sano l' occhio, ora dolente et egro,</l>
+<l>veggia la tua gran gloria,</l>
+<l>e 'l ben che m' hai promesso;</l>
+<l>et avendo vittoria</l>
+<l>contra me di me stesso,</l>
+<l>or moia qui, per poi viverti presso.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 14</head>
+<lg type="non-definito">
+<l>Pietà, Signor, pietate,</l>
+<l>che se castigar vuoi</l>
+<l>di tante colpe loro i servi tuoi,</l>
+<l>a punir crudeltate</l>
+<l>non fia bastante tanta indignitate:</l>
+<l>vòi pur questa del mondo,</l>
+<l>oimè, più bella parte,</l>
+<l>che 'l mar circonda e l' Alpe orrida parte,</l>
+<l>tutta porre in profondo?</l>
+<l>Questa, Signor, che già sostenne il pondo</l>
+<l>de la gran monarchia</l>
+<l>de la mole terrena,</l>
+<l>u' con calce tenace e salda arena</l>
+<l>la tua pietate pria</l>
+<l>posta la pietra del suo Tempio avia?</l>
+<l>Revoca, o Padre pio,</l>
+<l>sì terribil sentenza,</l>
+<l>deh, non voler mostrar la tua potenza</l>
+<l>contra un popolo rio,</l>
+<l>ché ben si sa che sei Signore e Dio.</l>
+<l>Potran le luci belle</l>
+<l>di tua pietà vedere</l>
+<l>da genti violar rapaci e fiere</l>
+<l>cotante verginelle</l>
+<l>che non son state al tuo voler rubelle?</l>
+<l>Potrai, se questo è poco,</l>
+<l>veder arder i tempi,</l>
+<l>a te sacrati negli antichi tempi,</l>
+<l>d' Italia in ogno loco</l>
+<l>da dispietato e peregrino foco,</l>
+<l>e dal ferino stuolo,</l>
+<l>nel seno de la madre,</l>
+<l>e nanzi agli occhi del misero padre,</l>
+<l>uccider il figliolo,</l>
+<l>e far ambiduo lor morir di duolo?</l>
+<l>Potrai dal tuo nimico,</l>
+<l>rubello a la tua fede,</l>
+<l>che ne l' Istro e nel Ren si lava il piede,</l>
+<l>macchiar per odio antico</l>
+<l>il letto genial bianco e pudico</l>
+<l>vedere, e nel sacrato</l>
+<l>loco, quelle fanciulle</l>
+<l>che per fin da le fasce e da le culle</l>
+<l>t' hanno il suo fior dicato</l>
+<l>stuprar per forza dal Barbaro irato?</l>
+<l>Pietà, pietà, Signore,</l>
+<l>non tanto sdegno et ira,</l>
+<l>che se buon padre col figliuol s' adira</l>
+<l>per corregger l' errore,</l>
+<l>non però 'l priva del paterno amore.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 15</head>
+<lg type="non-definito">
+<l>Benignissimo Padre, io t'amo, io t'amo,</l>
+<l>ma non quanto vorrei,</l>
+<l>ché di più amarti bramo,</l>
+<l>e se potesser tanto i desir miei,</l>
+<l>nulla fuor che te sol cosa amerei;</l>
+<l>ma l' anima, ch' un giogo ha duro al collo</l>
+<l>da vanità ristretto,</l>
+<l>sì che non può dar crollo,</l>
+<l>ha per suo caro e desiato oggetto</l>
+<l>preso vane speranze e van diletto,</l>
+<l>e da l' incauto senso, che la mena</l>
+<l>ovunque vuol, tirata</l>
+<l>con la salda catena</l>
+<l>de la voglia, a seguir sempre ostinata</l>
+<l>la via de' suoi diletti incominciata,</l>
+<l>pon te, mio Creator, spesso in oblio,</l>
+<l>e d' errore in errore</l>
+<l>condotta dal desio,</l>
+<l>scorta fallace et infedel rettore,</l>
+<l>si fa lontana dal tuo santo amore.</l>
+<l>Se potesse veder la tua beltate</l>
+<l>senza nube di velo,</l>
+<l>come l' alme beate,</l>
+<l>di santo accese, incomprensibil zelo,</l>
+<l>veggon ognor, la tua mercede, in Cielo,</l>
+<l>il gentil raggio de la tua bellezza,</l>
+<l>più d' ogn' altro possente,</l>
+<l>ogni mortal vaghezza</l>
+<l>sgombreria fuor de l' ostinata mente,</l>
+<l>e quella mi terria sempre presente;</l>
+<l>e come Clizia ne l' amato Sole,</l>
+<l>la cui beltà sospira</l>
+<l>con tacite parole,</l>
+<l>sempre i begli occhi desiosa gira</l>
+<l>e da lungi il vagheggia e lo rimira,</l>
+<l>tal io co' lumi del mio bel pensiero</l>
+<l>ognora a te rivolti,</l>
+<l>d' un cibo eterno e vero</l>
+<l>nudrirei l' alma, e i desir vani e stolti</l>
+<l>si starian sempre in cieco oblio sepolti.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 16</head>
+<lg type="non-definito">
+<l>Signor, col volto adorno</l>
+<l>d' un onesto rossore,</l>
+<l>e con contrito core,</l>
+<l>in questo santo giorno</l>
+<l>grave e carco di colpe a te ritorno,</l>
+<l>perché di sì gran pondo</l>
+<l>la tua pietà mi sgravi,</l>
+<l>onde poi bagni e lavi</l>
+<l>questo spirito immondo</l>
+<l>nel gorgo del mio pianto alto e profondo.</l>
+<l>Non da vetro lucente</l>
+<l>bianchi e purpurei fiori</l>
+<l>così tralucon fuori,</l>
+<l>come visibilmente</l>
+<l>i miei a te pensieri e la mia mente;</l>
+<l>ch' a la tua luce immensa</l>
+<l>nulla cosa si cela,</l>
+<l>ma sin nel centro de la</l>
+<l>terra, sì ombrosa e densa,</l>
+<l>penetra il raggio come face accensa.</l>
+<l>Tu vedi l' error mio,</l>
+<l>e 'l cor che già contrito</l>
+<l>versa con infinito</l>
+<l>dolor un pianto rio,</l>
+<l>pietà chiedendo a te, Signore e Dio.</l>
+<l>Come vago augellino</l>
+<l>fra i più frondosi rami</l>
+<l>che sua compagna chiami,</l>
+<l>chiamo sera e matino,</l>
+<l>devoto, il tuo soccorso alto e divino;</l>
+<l>che se la carne frale</l>
+<l>trasportata ha l' usanza</l>
+<l>con soverchia baldanza</l>
+<l>a farti offesa tale,</l>
+<l>ricordati ch' io son uomo mortale,</l>
+<l>che m' hai fatto di terra</l>
+<l>vile, umida et oscura,</l>
+<l>che la nostra natura</l>
+<l>sempre vaneggia et erra,</l>
+<l>e fa col senso a l' alma eterna guerra.</l>
+<l>Se d' uom proprio è peccare,</l>
+<l>d' Angelo l' emendarsi;</l>
+<l>tu sai quanti ho già sparsi</l>
+<l>sospiri, e quante amare</l>
+<l>lagrime, l' error mio per emendare;</l>
+<l>porgimi tu la mano,</l>
+<l>solleva il cor caduto,</l>
+<l>il qual senza tuo aiuto</l>
+<l>piagne e sospira invano,</l>
+<l>pria che 'l mio dì s' asconda a l' Oceano.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 17</head>
+<lg type="non-definito">
+<l>Come assetata cerva ognor desia</l>
+<l>fresca fontana o rivo,</l>
+<l>così l' anima mia,</l>
+<l>il mondo e i suoi diletti avendo a schivo,</l>
+<l>te fonte eterno e vivo,</l>
+<l>onde, sì come da vena surgente,</l>
+<l>si deriva un licore</l>
+<l>che ebbra rende la mente,</l>
+<l>e la riempie d' un santo furore</l>
+<l>del tuo divino amore,</l>
+<l>quando fie mai, che sciolta et ispedita</l>
+<l>da le cure mortali</l>
+<l>di questa ombra di vita,</l>
+<l>verso le case tue celestiali</l>
+<l>dispieghi ambedue l' ali?</l>
+<l>Quando sarà già mai ch' esca da queste</l>
+<l>de la miseria umana</l>
+<l>terrene, atre tempeste,</l>
+<l>de' suoi piacer de la speranza vana</l>
+<l>l' alma libera e sana?</l>
+<l>Prendi il timon di questa fragil barca,</l>
+<l>tu scorta e tu nocchiero,</l>
+<l>sì che leggiera e scarca</l>
+<l>de le merci del mondo lusinghero</l>
+<l>la meni in porto vero;</l>
+<l>nel vero porto d' eterna salute</l>
+<l>e di perfetto bene,</l>
+<l>a quelle di virtute</l>
+<l>sempre beate e sempre fide arene</l>
+<l>d' ogni diletto piene.</l>
+<l>Quando a l' erma palustre et ima valle</l>
+<l>di questa vita errante</l>
+<l>rivolgerò le spalle,</l>
+<l>e seguirò, leale e fido amante,</l>
+<l>le tue vestigia sante,</l>
+<l>e vedrò ne la tua serena fronte,</l>
+<l>nel lampeggiante viso,</l>
+<l>che rende ogni orizzonte</l>
+<l>e lucido e seren sol con un riso,</l>
+<l>il ben del Paradiso?</l>
+<l>O sempre per me dì lieto e beato</l>
+<l>che 'l mio lungo desio,</l>
+<l>da varie trasportato</l>
+<l>cure di questo mondo infame e rio,</l>
+<l>condurrà avanti a Dio!</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 18</head>
+<lg type="non-definito">
+<l>Perché cotante spade,</l>
+<l>Signore, e sì gran foco</l>
+<l>avampa tutta Europa in ogni loco,</l>
+<l>e bagnan le contrade</l>
+<l>di sangue uman con tanta crudeltade?</l>
+<l>Stolti, avari pensieri,</l>
+<l>ingorde voglie e vane</l>
+<l>di tributarie aver le genti strane,</l>
+<l>d' aver Regni et Imperi,</l>
+<l>armano contra noi tanti guerrieri:</l>
+<l>veggio di sangue sparsi</l>
+<l>i monti e la campagna</l>
+<l>e d' Italia e di Francia e di Lamagna,</l>
+<l>e le faville alzarsi</l>
+<l>di tanti lochi inceneriti et arsi;</l>
+<l>e i campi biancheggiare,</l>
+<l>prima vaghi e depinti,</l>
+<l>carchi or de l' ossa de' miseri estinti,</l>
+<l>e 'nvece d' onde chiare</l>
+<l>rosso sangue portare i fiumi al mare:</l>
+<l>d' ostili insegne ornati</l>
+<l>i tempi, e i mausolei</l>
+<l>carchi di spoglie eccelse e di trofei,</l>
+<l>e gessi e stucchi armati</l>
+<l>pender nanzi agl' altari in tutti i lati.</l>
+<l>Se con questi flagelli,</l>
+<l>giusto Signor, pur vòi</l>
+<l>punir di tanti errori i servi tuoi,</l>
+<l>i servi a te rubelli,</l>
+<l>deh, perché gli innocenti anco flagelli?</l>
+<l>Dolce onda di pietate</l>
+<l>spenga la fiamma omai</l>
+<l>de l' ira tua, ch' è pur durata assai,</l>
+<l>e le colpe passate</l>
+<l>perdoni a noi la tua benignitate:</l>
+<l>se dopo la procella</l>
+<l>il mare alto et insano</l>
+<l>si mostra a' navicanti umile e piano,</l>
+<l>sì che la navicella</l>
+<l>solcando l' onda va placida e bella,</l>
+<l>mostri sereno il volto</l>
+<l>doppo pioggia sì larga</l>
+<l>il sol de la tua grazia, et apra e sparga</l>
+<l>il nembo oscuro e folto</l>
+<l>per inondar i nostri campi accolto.</l>
+<l>Manda, Signor, in terra</l>
+<l>dal tuo più puro Cielo</l>
+<l>la pace adorna di candido velo,</l>
+<l>la qual ponga sotterra</l>
+<l>di prede carca la sanguigna guerra.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 19</head>
+<lg type="non-definito">
+<l>Come timida e snella</l>
+<l>cervetta dagli artigli</l>
+<l>di lonza, ch' abbia i figli</l>
+<l>ancora a la mammella,</l>
+<l>fugge, e da l' unghia dispietata e fella,</l>
+<l>così da quel rapace</l>
+<l>nimico oltre misura</l>
+<l>de l' umana natura</l>
+<l>l' alma lieve e fugace</l>
+<l>per questa vita, ove non ha mai pace;</l>
+<l>ma chi senza il tuo aiuto,</l>
+<l>Signor, potrà fuggire,</l>
+<l>benché n' abbia il desire,</l>
+<l>da nimico sì astuto,</l>
+<l>ancor che fosse augel lieve e pennuto,</l>
+<l>s' egli ha più reti ascose,</l>
+<l>e più lacciuoli et ami</l>
+<l>che non ha selva rami,</l>
+<l>che april fioretti e rose,</l>
+<l>in tutte queste basse umane cose?</l>
+<l>Non è mondan diletto</l>
+<l>ch' egli non sparso e pieno</l>
+<l>l' abbia del suo veleno:</l>
+<l>o rio mondo imperfetto,</l>
+<l>di mali e vizii sol casa e ricetto!</l>
+<l>Dove volgerò il passo,</l>
+<l>lasso, che non trabocchi,</l>
+<l>con la mano, cogli occhi,</l>
+<l>cogli altri sensi, a basso,</l>
+<l>ove lacciuoli e reti ha poste al passo?</l>
+<l>Ma tu che 'l gran periglio</l>
+<l>vedi, e ch' al mio desio</l>
+<l>repugna il senso rio,</l>
+<l>perché qual padre a figlio</l>
+<l>non mi dai man, pria che mi dia di piglio?</l>
+<l>Perché col forte braccio,</l>
+<l>alto Motore eterno,</l>
+<l>che fa tremar l' inferno,</l>
+<l>non rompi ogni suo laccio,</l>
+<l>ond' ei schernito, io fuor esca d' impaccio?</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 20</head>
+<lg type="non-definito">
+<l>Ecco, Padre e Signore,</l>
+<l>ch' a te ritorno pur pentito e gramo,</l>
+<l>come augellin da l' invescato ramo</l>
+<l>del cauto augellatore</l>
+<l>fuggito a pena, e d' ogni intrico fuore;</l>
+<l>ecco che 'l cor si pente</l>
+<l>d' ogni suo fallo, e d' un continuo e largo</l>
+<l>fiume di duol la faccia e 'l petto spargo,</l>
+<l>e ti purgo la mente</l>
+<l>quanto la fragil carne a me consente.</l>
+<l>Deh, non torcer il volto</l>
+<l>da quest' anima afflitta e peccatrice,</l>
+<l>che qual nova Alcione il suo Ceice</l>
+<l>ne l' onde irate involto,</l>
+<l>me nel mar del mio error piange sepolto.</l>
+<l>Non ti sdegnar se spesso</l>
+<l>sì come incauto pesciolino a l' esca</l>
+<l>ritorno onde il piacer folle m' adesca,</l>
+<l>e se rompo e ritesso</l>
+<l>il duro laccio che m' ha al collo messo,</l>
+<l>perché padre pietoso</l>
+<l>non manca mai d' aiuto e di consiglio</l>
+<l>al disubidiente ingrato figlio,</l>
+<l>pur che mesto e doglioso</l>
+<l>si penta del suo fallo, e lagrimoso</l>
+<l>gli cheggia umil perdono;</l>
+<l>Padre benigno, se con tanta cura</l>
+<l>fatt' hai me tuo figliolo e tua fattura,</l>
+<l>perché poi che non sono</l>
+<l>contra il nimico a difendermi bono</l>
+<l>senza tua fida aita,</l>
+<l>de la tua grazia onde mi dai lo scudo</l>
+<l>duro, ond' io son or disarmato e nudo,</l>
+<l>sì che da l' infinita</l>
+<l>sua rabbia questa timida e smarrita</l>
+<l>anima si difenda,</l>
+<l>che come agnella mansueta e pura</l>
+<l>abbandonata in questa selva oscura</l>
+<l>piagne, perché l' intenda</l>
+<l>e cura di salvarla il pastor prenda?</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 21</head>
+<lg type="non-definito">
+<l>In questo grande abisso</l>
+<l>caliginoso e scuro</l>
+<l>ov' io son tanto visso,</l>
+<l>ove nulla è di puro,</l>
+<l>nullo stato quieto né securo,</l>
+<l>giacerò, mentre l' ombra</l>
+<l>del mio continuo errore</l>
+<l>avrà fugata e sgombra,</l>
+<l>o benigno Signore,</l>
+<l>de l' alta tua pietà l' almo splendore.</l>
+<l>Deh, non ritardi omai</l>
+<l>più la tua grazia, ond' io</l>
+<l>chiuda i languidi rai</l>
+<l>in uno eterno oblio,</l>
+<l>preda de l' empio tuo nimico e mio;</l>
+<l>sgombrino le parole</l>
+<l>di tua virtù infinita,</l>
+<l>quasi un raggio di sole,</l>
+<l>questa nube che unita</l>
+<l>adombra l' alma trista e sbigottita;</l>
+<l>da le cure mortali</l>
+<l>solleva il mio pensiero,</l>
+<l>dagli le candid' ali</l>
+<l>con le quai possa altero</l>
+<l>e lieto alzarsi al tuo celeste Impero,</l>
+<l>sì ch' a te sempre pensi,</l>
+<l>a te si volga e giri,</l>
+<l>e coi desiri accensi</l>
+<l>del tuo amor sempre miri</l>
+<l>la tua beltà, per lei sempre sospiri;</l>
+<l>ogni desio divelli</l>
+<l>dal cor folle e terreno,</l>
+<l>fa' ch' ai sensi rubelli</l>
+<l>venga l' orgoglio meno,</l>
+<l>e che ragion lor ponga un duro freno;</l>
+<l>a la mia vanitate</l>
+<l>tronca le penne e i vanni,</l>
+<l>di fede e caritate,</l>
+<l>armi contra gl' inganni</l>
+<l>del mondo forti e i vizii empi tiranni,</l>
+<l>arma l' incauto petto,</l>
+<l>sì che possente e forte</l>
+<l>sprezzi del van diletto</l>
+<l>i colpi, e de la morte,</l>
+<l>e del nimico suo vittoria porte.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 22</head>
+<lg type="non-definito">
+<l>Come infermo, cui ardente</l>
+<l>febbre le vene e 'l petto</l>
+<l>coce così che 'l letto</l>
+<l>gli pare aspro e cocente,</l>
+<l>ch' è molle e fresco, ond' ei ne sta dolente,</l>
+<l>così da febbre ria</l>
+<l>di tante noie offesa,</l>
+<l>e del suo foco accesa,</l>
+<l>arde l' anima mia,</l>
+<l>né diletto alcun piglia ove devria.</l>
+<l>Come a cotanti affanni,</l>
+<l>lasso, potrà far schermo</l>
+<l>omai l' animo infermo,</l>
+<l>a sì gravosi danni,</l>
+<l>che mi fan portar rotto il volto e i panni?</l>
+<l>Io non ho cor di scoglio,</l>
+<l>orrido, forte e duro,</l>
+<l>ch' ognor saldo e securo</l>
+<l>contra il marino orgoglio</l>
+<l>di sua percossa non sente cordoglio.</l>
+<l>Qual da contrari venti</l>
+<l>è combattuto pino,</l>
+<l>e dal furor marino,</l>
+<l>qualora gli elementi</l>
+<l>fan guerra insieme, onde il nocchier paventi,</l>
+<l>tal è l' animo mio</l>
+<l>da noie tante e tali</l>
+<l>de le cure mortali</l>
+<l>del mondo iniquo e rio,</l>
+<l>onde me stesso e mia salute oblio.</l>
+<l>Misero, chi m' aita</l>
+<l>in sì crudel tempesta</l>
+<l>di duol, che mi molesta</l>
+<l>questa noiosa vita,</l>
+<l>se non tu, Dio, che sei pietà infinita?</l>
+<l>Sol in te, Padre, spero,</l>
+<l>in te, Signor, che pòi</l>
+<l>soccorrermi, se vòi,</l>
+<l>e come buon nocchiero</l>
+<l>condurmi in porto di salute vero.</l>
+<l>Non mi lasciar, Signore,</l>
+<l>sotto a sì grave pondo</l>
+<l>degli affanni del mondo,</l>
+<l>ma con paterno amore</l>
+<l>donami la tua grazia e 'l tuo favore.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 23</head>
+<lg type="non-definito">
+<l>Svegliati, anima trista,</l>
+<l>dal sonno pigro e grave</l>
+<l>ch' ognor par che ti prema e più t' agrave,</l>
+<l>e del tuo danno avvista</l>
+<l>al tuo Padre celeste ergi la vista,</l>
+<l>e con mente contrita,</l>
+<l>con penitente core,</l>
+<l>grama sospira ogni passato errore,</l>
+<l>e 'n te chiusa e romita</l>
+<l>chiedi al tuo Creator piangendo aita.</l>
+<l>Smarrito pellegrino,</l>
+<l>allor che notte adombra</l>
+<l>la terra e 'l ciel d' oscura et umid' ombra,</l>
+<l>sul giogo d' Apennino</l>
+<l>cercando va chi gli mostri il camino;</l>
+<l>perciò prendi per scorta</l>
+<l>fida speranza e fede,</l>
+<l>e volgi dietro a lor securo il piede,</l>
+<l>che per via dritta e corta</l>
+<l>ti condurranno, e non fallace e torta</l>
+<l>strada, al vero Oriente</l>
+<l>ond' esce il giorno eterno,</l>
+<l>ove non cuoce il sol, né agghiaccia il verno,</l>
+<l>ove facella ardente</l>
+<l>d' Amor divin t' accenderà la mente;</l>
+<l>scampa, come fugace</l>
+<l>damma dal fiero morso</l>
+<l>del veltro che la siegue, a tutto corso</l>
+<l>da la mano rapace</l>
+<l>del senso lusinghier certo e fallace.</l>
+<l>Ma tu, amoroso e pio</l>
+<l>Signor, piglia la cura</l>
+<l>di questa tua umile e vil fattura,</l>
+<l>e 'l ghiaccio pigro e rio</l>
+<l>d' una invecchiata usanza, che 'l cor mio,</l>
+<l>quasi aspro e duro scoglio,</l>
+<l>che ricopre sals' onda,</l>
+<l>intorno intorno ognor cinge e circonda,</l>
+<l>scalda sì che in cordoglio</l>
+<l>si stilli e perda l' ostinato orgoglio;</l>
+<l>ché senza il chiaro lume</l>
+<l>di tua pietà infinita</l>
+<l>andrà per queste tenebre smarrita</l>
+<l>l' alma dietro al costume,</l>
+<l>sin che la carne fral terra consume.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 24</head>
+<lg type="non-definito">
+<l>Signor, l' antica serpe</l>
+<l>che con gran studio e cura</l>
+<l>intorno al nostro cor s' annoda e serpe,</l>
+<l>crudo fuor di misura</l>
+<l>e rio nemico a l' umana natura,</l>
+<l>tosto ch' apro quest' occhi</l>
+<l>m' appresenta un oggetto,</l>
+<l>perché nel laccio suo caggia e trabocchi,</l>
+<l>pieno di van diletto,</l>
+<l>e 'l cor alletta stolto et imperfetto,</l>
+<l>che qual in sul matino,</l>
+<l>ingannato dal ramo,</l>
+<l>se 'n vola al visco semplice augellino,</l>
+<l>o come pesce a l' amo,</l>
+<l>onde ne resta poi pentito e gramo,</l>
+<l>il ferro adonco ingoia,</l>
+<l>e si rinvesca l' ali</l>
+<l>tutto nel visco d' una breve gioia</l>
+<l>de' diletti mortali,</l>
+<l>più ch' ombra lieve, o fior caduchi e frali;</l>
+<l>né perché si dimene</l>
+<l>dal visco si districa,</l>
+<l>né toglie a sì tenaci aspre catene,</l>
+<l>anzi ognor più s' intrica,</l>
+<l>quanto più d' indi sciorsi s' affatica;</l>
+<l>e se non mi soccorre</l>
+<l>la tua grazia infinita</l>
+<l>contra colui che dispetato aborre</l>
+<l>la nostra eterna vita,</l>
+<l>in preda rimarrà l' alma smarrita</l>
+<l>di quell' empio Tiranno,</l>
+<l>ove dannata fia</l>
+<l>nel foco ardente de l' eterno danno</l>
+<l>la peccatrice e ria</l>
+<l>a sempre lagrimar la colpa mia.</l>
+<l>Soccorrimi, Signore,</l>
+<l>e le reti tenaci</l>
+<l>di man tessute del mio proprio errore</l>
+<l>sciogli, rompi e disfaci,</l>
+<l>sì che fuggita da le man rapaci</l>
+<l>del senso lusinghiero,</l>
+<l>possa lieto e devoto</l>
+<l>sacrarti i miei desiri e 'l mio pensiero</l>
+<l>con un perpetuo voto,</l>
+<l>pieno di fede, e d' ogni colpa voto.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 25</head>
+<lg type="non-definito">
+<l>Da quel gravoso pondo</l>
+<l>degli error ch' ho comesso</l>
+<l>io mi trovo sì oppresso</l>
+<l>che dal vil fango immondo</l>
+<l>sorger non posso del misero mondo,</l>
+<l>ma come potrà aita</l>
+<l>chiederti in questo stato,</l>
+<l>Signore, un servo ingrato,</l>
+<l>l' alma da te fuggita,</l>
+<l>ancor che sia la tua pietà infinita?</l>
+<l>Tu n' hai fatto di vile</l>
+<l>terr' uomo razionale,</l>
+<l>e datoci immortale</l>
+<l>alma, e quasi simile</l>
+<l>a quale Angelo in cielo è più gentile;</l>
+<l>a noi la luna e 'l sole</l>
+<l>luce, onde ciascun vede;</l>
+<l>a noi, la tua mercede,</l>
+<l>le piaggie apriche e sole</l>
+<l>producon gigli, calta, erbe e viole;</l>
+<l>a noi i garruli augelli</l>
+<l>fanno dolci concenti;</l>
+<l>a noi spirano i venti,</l>
+<l>e per noi gli arbuscelli</l>
+<l>spiegano al cielo i lor verdi capelli:</l>
+<l>per noi spiran gli odori</l>
+<l>soavi de' Sabei</l>
+<l>e gli arabi e i panchei;</l>
+<l>a noi succhi e licori</l>
+<l>serban le piante, l' erbe, e i frutti e i fiori;</l>
+<l>tu sol per nutrimento</l>
+<l>e piacer de' mortali</l>
+<l>hai fatti gli animali,</l>
+<l>al liquido elemento</l>
+<l>hai date l' acque di color d' argento;</l>
+<l>ogni cosa hai creata,</l>
+<l>l' oro, le perle e l' ostro,</l>
+<l>per uso e piacer nostro:</l>
+<l>ahi creatura ingrata,</l>
+<l>quanto meglio saria non esser nata!</l>
+<l>E tu, novo Titano,</l>
+<l>figlio empio de la terra,</l>
+<l>vuoi al Cielo far guerra,</l>
+<l>e divenuto insano</l>
+<l>contra il tuo creatore alzi la mano!</l>
+<l>Ma tanta è, Padre pio,</l>
+<l>la tua santa pietate,</l>
+<l>che pien di caritate</l>
+<l>tosto poni in oblio</l>
+<l>ogni tua grande offesa, ogni error mio;</l>
+<l>però con quell' amore</l>
+<l>vero che mi creasti,</l>
+<l>che col sangue salvasti,</l>
+<l>perdonando il mio errore</l>
+<l>infiamma l' alma del tuo santo ardore.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 26</head>
+<lg type="non-definito">
+<l>A te, Signor, a te fido conforto</l>
+<l>de le misere menti,</l>
+<l>securo e queto porto</l>
+<l>contra il furor de' venti</l>
+<l>del tempestoso mondo</l>
+<l>che commove il suo mare infino al fondo,</l>
+<l>a te rivolgo, a te quest' occhi, omai</l>
+<l>d' ogni sua luce privi,</l>
+<l>e per sì lunghi guai</l>
+<l>fatti fontane e rivi,</l>
+<l>quasi cagnuol battuto</l>
+<l>che al signor corre, e gli dimand' aiuto.</l>
+<l>Altri non ho, Signor, che mi difenda</l>
+<l>da tante ingiurie e torti,</l>
+<l>che la difesa prenda</l>
+<l>per me contra sì forti</l>
+<l>nemici, al cui disdegno</l>
+<l>son come in mezzo al foco arido legno.</l>
+<l>Tu vedi quanto la giustizia umana</l>
+<l>da la secura strada</l>
+<l>del giusto s' allontana,</l>
+<l>e che 'nvece la spada</l>
+<l>de la bilancia adopra</l>
+<l>ogni giudice elletto a sì degn' opra:</l>
+<l>provedi tu, che sei somma giustizia,</l>
+<l>non voler consentire</l>
+<l>ch' altrui forza e nequizia</l>
+<l>miser mi faccia gire</l>
+<l>poverello digiuno,</l>
+<l>fastidioso ad altri et importuno.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 27</head>
+<lg type="non-definito">
+<l>O beati coloro</l>
+<l>che così la lor speme han posta in Dio,</l>
+<l>come nel suo tesoro</l>
+<l>l' avaro, che 'n oblio</l>
+<l>pone tutt' altro, e sol d' oro ha desio:</l>
+<l>andar posson securi</l>
+<l>e lieti ognor fra le nemiche spade,</l>
+<l>de' mari orridi e duri</l>
+<l>con ogni securtade</l>
+<l>tutte solcar le perigliose strade,</l>
+<l>albergar fra le belve,</l>
+<l>pantere, padri, tigri, orsi e leoni,</l>
+<l>ne le nomadi selve</l>
+<l>od altre regioni,</l>
+<l>e fra i fieri Ciclopi e i Lestrigoni,</l>
+<l>ch' ei, che non abbandona</l>
+<l>già mai chi spera in lui, suo difensore,</l>
+<l>la sera, a vespro, a nona,</l>
+<l>a l' alba, a tutte l' ore,</l>
+<l>ha de' suoi cura con paterno amore;</l>
+<l>dagli nascosi inganni</l>
+<l>del mondo empio e fallace de le genti,</l>
+<l>da mostri e da tiranni</l>
+<l>al nostro danno intenti</l>
+<l>gli difende con l' armi alte e possenti,</l>
+<l>acciò che la speranza</l>
+<l>ch' ha posta nel lor cor salda radice</l>
+<l>con vie maggior fidanza</l>
+<l>spanda sempre felice</l>
+<l>le fronde e i rami per ogni pendice.</l>
+<l>Fammi, benché sia indegno,</l>
+<l>un degli eletti tuoi, Padre pietoso,</l>
+<l>sì ch' alzarmi al tuo Regno</l>
+<l>da questo tenebroso</l>
+<l>possa, e star teco in dolce, alto riposo.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 28</head>
+<lg type="non-definito">
+<l>Mentre tace la notta oscura, algente,</l>
+<l>e gli spirti, ch' intorno</l>
+<l>givan vagando al bel lume del giorno,</l>
+<l>stanno uniti a la mente,</l>
+<l>cantiam lieti e devoti</l>
+<l>le gran lodi di Dio, o sacerdoti;</l>
+<l>e col ginocchio chin, le luci alzate</l>
+<l>a quell' eterno Sole,</l>
+<l>con lo spirito unito a le parole,</l>
+<l>umilmente il pregate</l>
+<l>che regga i pensier nostri,</l>
+<l>e quanta sia pietate in lui ci mostri;</l>
+<l>e che sì come un gran soffiar di vento</l>
+<l>sgombra, quando il villano</l>
+<l>sotto il più ardente sol ventilla il grano,</l>
+<l>la paglia, in un momento</l>
+<l>fiato del suo favore</l>
+<l>ogni cura mortal sgombri dal core;</l>
+<l>che faccia i nostri campi almi e fecondi,</l>
+<l>sì che porti il terreno</l>
+<l>di frutti più che di fioretti e frondi</l>
+<l>pieno il fertile seno,</l>
+<l>e che la pace umile,</l>
+<l>d' abito adorna candido e gentile,</l>
+<l>voli d' intorno con la verde oliva,</l>
+<l>empiendo di diletto</l>
+<l>ogni monte, ogni valle et ogni riva,</l>
+<l>e senza alcun sospetto</l>
+<l>di sanguinosa spada,</l>
+<l>lieto e senza timore ognun se 'n vada;</l>
+<l>e ch' a guisa che 'l sol suol de la terra</l>
+<l>consumare i vapori</l>
+<l>che fanno ai frutti, ai fiori, ai corpi guerra,</l>
+<l>disperga i nostri errori</l>
+<l>con la sua gran virtute,</l>
+<l>e ci conduca a l' eterna salute.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 29</head>
+<lg type="non-definito">
+<l>Qualor nel cupo gorgo</l>
+<l>de le miserie umane,</l>
+<l>de le cure del mondo egre et insane,</l>
+<l>sì ch' a pena risorgo,</l>
+<l>lasso, mi trovo immerso,</l>
+<l>il che fa spesso il mio destino adverso,</l>
+<l>quasi novo Tifeo</l>
+<l>sotto l' orrido monte,</l>
+<l>sovente per uscirne ergo la fronte,</l>
+<l>ma più de l' onde beo,</l>
+<l>e riccaggio nel fondo,</l>
+<l>d' inutili alghe e di bruttezza immondo;</l>
+<l>onde, lasso, m' aveggio</l>
+<l>che la natura frale</l>
+<l>a potersi da sé levar non vale,</l>
+<l>ma va di male in peggio,</l>
+<l>e piango l' error mio</l>
+<l>con le preghiere e 'l cor rivolto a Dio,</l>
+<l>certo che con la mano</l>
+<l>possente oltra misura</l>
+<l>ei mi sollevi da quell' onda oscura;</l>
+<l>né 'l mio sperare è vano,</l>
+<l>ché quel Signor superno,</l>
+<l>che del mondo e del Cielo have il governo,</l>
+<l>come padre pietoso</l>
+<l>che vede il caro figlio</l>
+<l>precipitato in qualche gran periglio</l>
+<l>corre presto, e bramoso</l>
+<l>la sua destra gli porge,</l>
+<l>e tanto fa ch' ei si rileva e sorge,</l>
+<l>con la di sua pietate</l>
+<l>virtù forte e possente</l>
+<l>da questo cupo pelago la mente,</l>
+<l>da quest' onde turbate</l>
+<l>de' miei gravosi affanni,</l>
+<l>m' inalza, et obliar fammi i miei danni.</l>
+<l>Quali grazie, o Signore,</l>
+<l>ti potrò render mai</l>
+<l>di tanto bene che m' hai fatto e fai?</l>
+<l>Io ti consacro il core,</l>
+<l>e i pensieri e 'l desio,</l>
+<l>già posto il mondo e me stesso in oblio.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>Salmo 30</head>
+<lg type="non-definito">
+<l>Se tanti a questo ingrato uomo mortale,</l>
+<l>che quasi sempre suole</l>
+<l>seguendo il senso frale</l>
+<l>con opre e con parole</l>
+<l>farti offesa, o Signore,</l>
+<l>e raro darti e spesso torti il core,</l>
+<l>beni e diletti in questo mondo hai dato</l>
+<l>quante fiocche di neve</l>
+<l>caggiono in monte o in prato</l>
+<l>al giorno algente e breve,</l>
+<l>ove l' Orsa dal cielo</l>
+<l>versa irata ad ognor grandine e gelo,</l>
+<l>quanti là su ne dai, Padre pietoso,</l>
+<l>a quell' anime belle</l>
+<l>che 'n questo tempestoso</l>
+<l>mar ti furono ancelle,</l>
+<l>ch' a l' ombre, al giorno chiaro,</l>
+<l>lieti per la tua strada caminaro?</l>
+<l>O lor felici! Non è uman pensiero</l>
+<l>che pur possa adombrare</l>
+<l>una parte del vero,</l>
+<l>non che 'n carte spiegare;</l>
+<l>ditelo, alme beate,</l>
+<l>che sole tanto ben là su gustate.</l>
+<l>Padre pietoso e liberal, dapoi</l>
+<l>che 'l mondo m' ha privato</l>
+<l>di tutti i piacer suoi,</l>
+<l>ond' io son quasi prato,</l>
+<l>che senza umor di rivo</l>
+<l>arido fatto, a tutti è odioso e schivo,</l>
+<l>non per mio merto, ma per l' infinita</l>
+<l>pietà ch' a patir morte</l>
+<l>per dare a me la vita</l>
+<l>ti spinse, apri le porte</l>
+<l>de la tua grazia a questa</l>
+<l>alma un tempo sviata, ora sì presta</l>
+<l>a seguir l' orme tue, come agnelletta</l>
+<l>dietro la pecorella</l>
+<l>che 'l latte ancora alletta</l>
+<l>de l' amata mammella,</l>
+<l>sì ch' un giorno io pur gusti</l>
+<l>quant' è 'l piacer di quelli eletti e giusti.</l>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head rend="italic">Canzone a l'anima</head>
+<lg type="canzone">
+<lg>
+<l>Odi dal Cielo un grido alto e canoro</l>
+<l>ch' a vera penitenza omai t' invita,</l>
+<l>anima negli error chiusa e sepolta;</l>
+<l>senti il gran Re di quel celeste coro</l>
+<l>che ti richiama a la felice vita,</l>
+<l>e tu pur stai ne' piacer falsi involta.</l>
+<l>O cieca e sorda, ascolta,</l>
+<l>vedi con quanto amor, con quanta cura</l>
+<l>egli paventi del tuo eterno danno;</l>
+<l>e tu pur, d' anno in anno</l>
+<l>troppo più che non dèi fatta secura,</l>
+<l>di colpa in colpa, e d' uno in altro fallo,</l>
+<l>fatt' hai contra al ben proprio un duro callo.</l>
+</lg>
+<lg>
+<l>Non odi che 'l Signor ti prega, e dice:</l>
+<l>–Bagnati, anima trista, al sacro fiume</l>
+<l>di penitenza, e 'n quel ti lava e tergi;</l>
+<l>indi come purgata peccatrice,</l>
+<l>tutta coperta di purpuree piume,</l>
+<l>al tuo caro Fattor t' inalza et ergi;</l>
+<l>e la nebbia dispergi,</l>
+<l>co' raggi del dolore atroce e duro,</l>
+<l>de le tue colpe, e de' terreni inganni.</l>
+<l>Spiega i possenti vanni,</l>
+<l>amica mia, et a quell' aere oscuro,</l>
+<l>a quella inferna e lagrimosa valle,</l>
+<l>scorta da Carità, volgi le spalle.</l>
+</lg>
+<lg>
+<l>Deh vieni, sposa mia, che già passato</l>
+<l>è l' aspro verno, e le pruine, e 'l ghiaccio,</l>
+<l>e depingono i fior la terra nostra;</l>
+<l>spiran le viti il lor odore usato,</l>
+<l>portano i fichi i verdi figli in braccio,</l>
+<l>e già la tortorella a noi si mostra;</l>
+<l>quella terrena chiostra</l>
+<l>lascia, colomba mia, mostrami il volto,</l>
+<l>ch' io feci a mia sembianza ardente e bello,</l>
+<l>e con un ramuscello</l>
+<l>di verde palma novamente colto,</l>
+<l>non attendendo che la carne moia,</l>
+<l>riedi a cibarti de l' eterna gioia.</l>
+</lg>
+<lg>
+<l>Vieni, diletta mia, ch' io pur t' aspetto</l>
+<l>con braccia aperte, per pigliarti in grembo</l>
+<l>con la man di pietà leggera e presta,</l>
+<l>e tutto acceso d' amoroso affetto</l>
+<l>colt' ho d' eterni fiori un pieno lembo</l>
+<l>per adornarti la candida vesta;</l>
+<l>esci da la tempesta</l>
+<l>del mar profondo del piacer mortale,</l>
+<l>e vieni a tor di vita la corona</l>
+<l>che di mia man si dona</l>
+<l>a chi lasciando il ben fallace e frale</l>
+<l>a questo eterno e vero s' alza e vola,</l>
+<l>e de le voglie mie sol si consola.–</l>
+</lg>
+<lg>
+<l>E tu, anima trista, non intendi</l>
+<l>la voce del Fattor che te pur chiama</l>
+<l>per darti parte del celeste Regno?</l>
+<l>Pigra, perché non sorgi, e con contendi</l>
+<l>al vano senso che tua morte brama?</l>
+<l>perché del tuo fallir non prendi sdegno?</l>
+<l>e perché quest' ingegno</l>
+<l>ch' egli ti diede, onde scorgesti il bene,</l>
+<l>e vedesti il camin de la salute,</l>
+<l>dato il tergo a virtute</l>
+<l>hai rivolto a cercar cose terrene,</l>
+<l>intento ad onorar bellezza umana,</l>
+<l>che dal vero ti toglie e t' allontana?</l>
+</lg>
+<lg>
+<l>Dei mondani pensieri il fosco velo,</l>
+<l>ch' appannan gli occhi tuoi, squarcia, e rimira</l>
+<l>l' alta beltà di quell' imperio eterno:</l>
+<l>ivi sempre è sereno e lieto il cielo,</l>
+<l>vento di grazia dolcemente spira,</l>
+<l>né mai provan que' campi o state o verno:</l>
+<l>altre rose in eterno</l>
+<l>spiegano al sol il lor purpureo crine,</l>
+<l>e per le valli altri odorati gigli;</l>
+<l>altri bianchi e vermigli</l>
+<l>fior, sparsi di rugiade mattutine,</l>
+<l>più vaghe fan che di lauri o di mirti</l>
+<l>ghirlande ai santi e gloriosi spirti.</l>
+</lg>
+<lg>
+<l>Ivi le piante belle e verdeggianti,</l>
+<l>carche di frutti inusitati e strani,</l>
+<l>fan le selve fiorite e dilettose;</l>
+<l>fiumi di voluptà chiari e stagnanti</l>
+<l>bagnano i sempre verdi e lieti piani,</l>
+<l>e per li colli, e per le piaggie ombrose,</l>
+<l>invece di dogliose</l>
+<l>voci di Progne e de la suora, ognora</l>
+<l>s' ode armonia angelica e soave;</l>
+<l>ivi forza non have</l>
+<l>Morte, o Fortuna che i men degni onora,</l>
+<l>né la bianca vecchiezza in un momento</l>
+<l>torna le chiome di color d' argento.</l>
+</lg>
+<lg>
+<l>Ivi non volan gli anni, i mesi o l' ore</l>
+<l>scorte dal tempo fuggitivo e lieve,</l>
+<l>né cede unqua a la notte il chiaro giorno;</l>
+<l>la vaga Cinzia non rinasce e more,</l>
+<l>né l' aer è d' atre nubi oscuro e greve;</l>
+<l>col carro d' or non si rivolge intorno</l>
+<l>Febo: ad un modo adorno</l>
+<l>è sempre l' alto seggio, con la luce</l>
+<l>onde piglia splendor la Luna e 'l Sole;</l>
+<l>sempre pien di viole</l>
+<l>le tempie e 'l biondo crine, il dì riluce</l>
+<l>negli occhi ardenti, e ne la chiara fronte</l>
+<l>di lui che fece il bel nostro orizzonte.</l>
+</lg>
+<lg>
+<l>Cogli angeli contente a paro a paro</l>
+<l>vanno cantando l' anime beate,</l>
+<l>godendo d' un piacer perfetto e vero,</l>
+<l>senza temer giamai che nullo amaro</l>
+<l>possa turbar le lor dolcezze usate;</l>
+<l>e con novo piacer rivolte al vero</l>
+<l>cogli occhi e col pensiero,</l>
+<l>accese d' un amor dolce e gentile</l>
+<l>ogn' alto lor desio menano a riva.</l>
+<l>Ma qual fia che descriva</l>
+<l>o chiuder possa in carte umano stile</l>
+<l>quanta gioia produce e quanto gioco</l>
+<l>l' aventuroso e fortunato loco?</l>
+</lg>
+<lg>
+<l>Prendi il cristallo omai, anima trista,</l>
+<l>de la conscienza, e 'n quel ti tergi e specchia,</l>
+<l>onde 'l tuo primo amor t' ami et appregi;</l>
+<l>non sopportar che la tua vaga vista</l>
+<l>turbi macchia di colpa nova o vecchia;</l>
+<l>pagar convienti a Morte i privilegi,</l>
+<l>e cogli aurati fregi</l>
+<l>lasciar il corpo a la sua antica madre;</l>
+<l>però fia meglio che purgata e bella,</l>
+<l>sì come vedovella,</l>
+<l>ritorni a riveder l' amato Padre,</l>
+<l>e 'n mezzo di que' santi Angeli eletti</l>
+<l>a viver sempre a lato ai più perfetti.</l>
+</lg>
+<lg>
+<l>Canzon, dimessa e calda</l>
+<l>d' un soave pentir del mio fallire,</l>
+<l>alzati a quel Signor che tutto vede,</l>
+<l>e di': –Con piena fede,</l>
+<l>acceso di devoto alto desire,</l>
+<l>umile chi mi feo pietà ti chere;</l>
+<l>e grida “miserere, miserere”.–</l>
+</lg>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head rend="italic">A l'anima</head>
+<lg type="sonetto">
+<lg>
+<l>Svegliati omai da questo lungo e rio</l>
+<l>sonno che viva t' ha quasi sepolta</l>
+<l>ne le miserie umane, anima stolta,</l>
+<l>e ponti sotto a' piè speme e desio;</l>
+</lg>
+<lg>
+<l>inalza gli occhi al gran splendor di Dio,</l>
+<l>ch' ei questa nebbia tenebrosa e folta</l>
+<l>onde sei stata tanto tempo involta</l>
+<l>disgombrerà, Signor benigno e pio;</l>
+</lg>
+<lg>
+<l>chiudi gli orecchi al dolce, lusinghiero</l>
+<l>canto di queste false empie sirene</l>
+<l>gioie del mondo, oimè troppo possenti;</l>
+</lg>
+<lg>
+<l>drizza a guisa di strale il tuo pensiero</l>
+<l>e i tuoi santi desiri al sommo bene,</l>
+<l>né diletto mortal più ti contenti.</l>
+</lg>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head rend="italic">Salmo a l'anima</head>
+<lg type="sonetto">
+<lg>
+<l>Ritogli omai di mano, ah poco accorta</l>
+<l>alma, ritogli il freno al lusinghiero</l>
+<l>senso, che per un vago e bel sentiero</l>
+<l>in un profondo abisso ti trasporta;</l>
+</lg>
+<lg>
+<l>non seguir l' orme di fallace scorta</l>
+<l>dietro a falso piacer lasciando il vero,</l>
+<l>a la ragion di te dona l' impero,</l>
+<l>che corso più felice a far ti esorta;</l>
+</lg>
+<lg>
+<l>fuggi il tuo danno pria che giunghi al varco,</l>
+<l>che da vicin ti si dimostra, donde</l>
+<l>lassa trabocchi in precipizio eterno;</l>
+</lg>
+<lg>
+<l>già vo canuto il crin, gravoso e carco</l>
+<l>d' anni, già del mio giorno il sol s' asconde:</l>
+<l>prendi tu, Dio, di me, prendi il governo.</l>
+</lg>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head rend="italic">A Cristo</head>
+<lg type="sonetto">
+<lg>
+<l>Signore, il senso è sì possente e forte,</l>
+<l>e sì m' alletta dolcemente, ch' io</l>
+<l>servo del mio diletto e del desio</l>
+<l>corro lieto e veloce a la mia morte.</l>
+</lg>
+<lg>
+<l>Ben mi fermo talora e grido forte,</l>
+<l>mercé chiamando a te, mio Padre e Dio,</l>
+<l>ma 'l disleal, vago del danno mio,</l>
+<l>mi sprona dietro a le fallaci scorte;</l>
+</lg>
+<lg>
+<l>e se la man di tua pietate un duro</l>
+<l>giogo non pone al tirann' empio e crudo,</l>
+<l>ch' a forza mi sospinge ov' ir non voglio,</l>
+</lg>
+<lg>
+<l>non molto andrò che 'n quell' abisso oscuro</l>
+<l>sarò sommerso, ond' io ne tremo e sudo,</l>
+<l>e van fia per uscirne ogni cordoglio.</l>
+</lg>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head rend="italic">A Cristo</head>
+<lg type="sonetto">
+<lg>
+<l>Signor del Ciel, quella pietà infinita</l>
+<l>che ti sospinse a morte acerba e dura</l>
+<l>prender, per dar a me, tua creatura</l>
+<l>ingrata e vil, felice, eterna vita,</l>
+</lg>
+<lg>
+<l>movati a dar a quest' anima aita,</l>
+<l>che se più tarda fia, quei che procura</l>
+<l>il danno nostro con perpetua cura</l>
+<l>l' avrà qual lupo agnella, oimè, rapita.</l>
+</lg>
+<lg>
+<l>Debile, inerme, a ben armato e forte</l>
+<l>nemico contrastar non posso, e vinto</l>
+<l>darò per forza al vincitor la palma;</l>
+</lg>
+<lg>
+<l>donami tu virtute, arma quest' alma</l>
+<l>di caritate e fede, ond' ella porte</l>
+<l>di lui vittoria, ed ei rimanga estinto.</l>
+</lg>
+</lg>
+</div1>
+
+</body>
+</text>
+</TEI.2>

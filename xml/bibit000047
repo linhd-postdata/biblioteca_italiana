@@ -1,0 +1,4992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Ninfale fiesolano</title>
+      <author>Giovanni Boccaccio</author>
+    </titleStmt>
+    <extent>210 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000047</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le opere</title>
+        <title type="part">Amorosa visione ; Ninfale fiesolano ; Vita di Dante</title>
+        <author>Boccaccio, Giovanni</author>
+        <editor id="ed">Balduino, Armando</editor>
+        <editor id="ed2">Branca, Vittore</editor>
+        <publisher>A. Mondadori</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date>1974</date>
+        <note>Tutte le opere di Giovanni Boccaccio a cura di Vittore Branca</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>300</date>
+    </creation>
+    <langUsage><language id="ita">ita</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione - OCR</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-01-26T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2003-04-28T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 type="canto"><argument rend="italic"><lg><l>Comincia il libro chiamato Ninfale:</l>
+<l>e primamente mostra il facitore</l>
+<l>che di far questo gli è cagione Amore.</l></lg></argument>
+<lg type="ottava"><head>1</head>
+<l>Amor mi fa parlar, che m´è nel core</l>
+<l>gran tempo stato e fatto n´ha su´ albergo,</l>
+<l>e legato lo tien con lo splendore</l>
+<l>e con que´ raggi a cui non valse usbergo,</l>
+<l>quando passaron dentro col favore</l>
+<l>degli occhi di colei, per cui rinvergo</l>
+<l>la notte e ´l giorno pianti con sospiri,</l>
+<l>e ch´è cagion di tutti e´ mie´ martìri.</l></lg>
+
+<lg type="ottava"><head>2</head>
+<l>Amor è que´ che mi guida e conduce</l>
+<l>nell´opera la qual a scriver vegno;</l>
+<l>Amor è que´ ch´a far questo m´induce,</l>
+<l>e che la forza mi dona e lo ´ngegno;</l>
+<l>Amor è que´ ch´è mia scorta e mia luce,</l>
+<l>e che di lui trattar m´ha fatto degno;</l>
+<l>Amor è que´ che mi sforza ch´i´ dica</l>
+<l>un´amorosa storia molto antica.</l></lg>
+
+<lg type="ottava"><head>3</head>
+<l>Però vo´ che l´onor sia sol di lui,</l>
+<l>poi ch´egli è que´ che guida lo mio stile,</l>
+<l>mandato dalla mia donna, lo cui</l>
+<l>valor è tal ch´ogni altro mi par vile,</l>
+<l>e che ´n tutte virtù avanza altrui,</l>
+<l>e sopra ogni altra è più bella e gentile:</l>
+<l>né non le mancheria veruna cosa,</l>
+<l>sed ella fosse un poco più pietosa.</l></lg>
+
+<lg type="ottava"><head>4</head>
+<l>Or priego qui ciascun fedele amante</l>
+<l>che siate in questo mia difesa e scudo</l>
+<l>contro a ogni invidioso e mai parlante</l>
+<l>e contro a chi è d´amor povero e ´gnudo;</l>
+<l>e voi care mie donne tutte quante,</l>
+<l>che non avete il cor gelato e crudo,</l>
+<l>priego preghiate la mia donna altera</l>
+<l>che non sia contro a me servo sì fera.</l></lg>
+
+<gap/>
+
+<lg type="ottava"><head>5</head>
+<l>Prima che Fiesol fosse edificata</l>
+<l>di mura o di steccati o di fortezza,</l>
+<l>da molta poca gente era abitata:</l>
+<l>e quella poca avea presa l´altezza</l>
+<l>de´ circustanti monti, e abandonata</l>
+<l>istava la pianura per l´asprezza</l>
+<l>della molt´acqua ed ampioso lagume,</l>
+<l>ch´a piè de´ monti faceva un gran fiume.</l></lg>
+
+<lg type="ottava"><head>6</head>
+<l>Era ´n quel tempo la falsa credenza</l>
+<l>degl´iddii rei, bugiardi e viziosi;</l>
+<l>e sì cresciuta la mala semenza</l>
+<l>era, ch´ognun credea che graziosi</l>
+<l>fosson in ciel come nell´apparenza;</l>
+<l>e lor sacrificavan con pomposi</l>
+<l>onori e feste, e sopra tutti Giove</l>
+<l>glorificavan qui sì come altrove.</l></lg>
+
+<lg type="ottava"><head>7</head>
+<l>Ancor regnava in que´ tempi un´iddea</l>
+<l>la qual Diana si facea chiamare,</l>
+<l>e molte donne in divozion l´avea;</l>
+<l>e maggiormente quelle ch´osservare</l>
+<l>volean verginità, e che spiacea</l>
+<l>lor la lussuria e a lei si volean dare,</l>
+<l>costei le riceveva con gran feste,</l>
+<l>tenendole per boschi e per foreste.</l></lg>
+
+<lg type="ottava"><head>8</head>
+<l>Ed ancor molte glien´erano offerte</l>
+<l>dalli lor padri e madri, che promesse</l>
+<l>l´avean a lei per boti, e chi per certe</l>
+<l>grazie o don che ricevuto avesse;</l>
+<l>Diana tutte con le braccia aperte</l>
+<l>le riceveva, pur ch´elle volesse</l>
+<l>servar verginità e l´uom fuggire,</l>
+<l>e vanità lasciar e lei servire.</l></lg>
+
+<lg type="ottava"><head>9</head>
+<l>Così per tutto ´l mondo era adorata</l>
+<l>questa vergine iddea; ma ritornando</l>
+<l>ne poggi fiesolan, dove onorata</l>
+<l>più ch´altrove era, lei glorificando,</l>
+<l>vi vo´ contar della bella brigata</l>
+<l>delle vergini sue, che, lassù stando,</l>
+<l>tutte eran ninfe a quel tempo chiamate</l>
+<l>e sempre gìan di dardi e d´archi armate.</l></lg>
+
+<lg type="ottava"><head>10</head>
+<l>Avea di queste vergini raccolte</l>
+<l>gran quantità Diana, del paese,</l>
+<l>per questi poggi, benché rade volte</l>
+<l>dimorasse con lor molto palese,</l>
+<l>sì come quella che n´aveva molte</l>
+<l>a guardar per lo mondo dall´offese</l>
+<l>dell´uom; ma pur, quando a Fiesol venìa,</l>
+<l>in cotal modo e guisa ella apparia:</l></lg>
+
+<lg type="ottava"><head>11</head>
+<l>ell´era grande e schietta come quella</l>
+<l>grandezza richiedea, e gli occhi e ´l viso</l>
+<l>lucevan più ch´una lucente stella,</l>
+<l>e ben pareva fatta in paradiso,</l>
+<l>con raggi intorno a sé gittando quella,</l>
+<l>sì che non si potea mirar ben fiso;</l>
+<l>e´ cape´ crespi e biondi, non com´oro,</l>
+<l>ma d´un color che vie meglio sta loro.</l></lg>
+
+<lg type="ottava"><head>12</head>
+<l>E le più volte sparti li tenea</l>
+<l>sopra ´l divelto collo, e ´l suo vestire</l>
+<l>a guisa d´una cioppa il taglio avea;</l>
+<l>d´un zendado era ch´a pena coprire,</l>
+<l>sì sottil era, le carni potea:</l>
+<l>tutta di bianco, sanz´altro partire</l>
+<l>cinta nel mezzo, e talor un mantello</l>
+<l>di porpora portava molto bello.</l></lg>
+
+<lg type="ottava"><head>13</head>
+<l>Venticinque anni di tempo mostrava</l>
+<l>sua giovinezza, sanz´aver niun manco;</l>
+<l>nella sinistra man l´arco portava,</l>
+<l>e ´l turcasso pendea dal destro fianco,</l>
+<l>pien di saette, le qua´ saettava</l>
+<l>alle fiere selvagge, e talor anco</l>
+<l>a qualunque uom che lei noiar volesse</l>
+<l>e le sue ninfe gli uccidea con esse.</l></lg>
+
+<lg type="ottava"><head>14</head>
+<l>In cotal guisa a Fiesole venìa</l>
+<l>Diana le sue ninfe a visitare,</l>
+<l>e con bel modo, graziosa e pia,</l>
+<l>assai sovente le facea adunare</l>
+<l>intorno a fresche fonti, o all´ombria</l>
+<l>di verdi fronde, al tempo ch´a scaldare</l>
+<l>comincia il sol la state, com´è usanza;</l>
+<l>e di verno al caldin faceano stanza.</l></lg>
+
+<lg type="ottava"><head>15</head>
+<l>E quivi l´amoniva tutte quante</l>
+<l>nel ben perseverar verginitate;</l>
+<l>alcuna volta ragionan d´alquante</l>
+<l>cacce che fatte aveano molte fiate</l>
+<l>su per que´ poggi, seguendo le piante</l>
+<l>delle fiere selvagge, che pigliate</l>
+<l>e morte assai n´avean, ordine dando</l>
+<l>per girle ancor di nuovo seguitando.</l></lg>
+
+<lg type="ottava"><head>16</head>
+<l>Cota´ ragionamenti tra costoro,</l>
+<l>com´io v´ho detto, tenean di cacciare;</l>
+<l>e quando si partia Diana da loro,</l>
+<l>tosto una ninfa si facea chiamare,</l>
+<l>la qual fosse di tutto il concestoro</l>
+<l>di lei vicaria, faccendo giurare</l>
+<l>all´altre tutte di lei ubidire,</l>
+<l>se pel suo arco non volean morire.</l></lg>
+
+<lg type="ottava"><head>17</head>
+<l>Quella cotal da tutte era ubidita,</l>
+<l>come Diana fosse veramente;</l>
+<l>e ciascheduna d´un panno vestita</l>
+<l>di lin tessuto molto sottilmente,</l>
+<l>faccendo, con lor archi, d´esta vita</l>
+<l>passar molti animali assai sovente:</l>
+<l>e qual portava un affilato dardo,</l>
+<l>più destre che non fu mai liopardo.</l></lg>
+
+<lg type="" rend="italic"><l>Qui tien Diana consiglio alla fonte;</l>
+<l>Africo vede, innamorarsi d´una</l>
+<l>di quelle ninfe che poi sale il monte:</l>
+<l>di sé si duole e de la sua fortuna.</l></lg>
+
+<lg type="ottava"><head>18</head>
+<l>Era ´n quel tempo del mese di maggio,</l>
+<l>quando i be´ prati rilucon di fiori,</l>
+<l>e gli usignuoli per ogni rivaggio</l>
+<l>manifestan con canti i lor amori,</l>
+<l>e´ giovinetti, con lieto coraggio,</l>
+<l>senton d´amor i più caldi valori,</l>
+<l>quando la dea Diana a Fiesol venne,</l>
+<l>e con le ninfe sue consiglio tenne.</l></lg>
+
+<lg type="ottava"><head>19</head>
+<l>Intorno ad una bella e chiara fonte</l>
+<l>di fresca erba e di fiori intorniata,</l>
+<l>la qual ancor dimora a piè del monte</l>
+<l>Cécer, da quella parte che ´l sol guata</l>
+<l>quand´è nel mezzogiorno a fronte a fronte.</l>
+<l>e fonte Aquelli è oggi nominata,</l>
+<l>intorno a quella Diana allor sì volse</l>
+<l>essere, e molte ninfe vi raccolse.</l></lg>
+
+<lg type="ottava"><head>20</head>
+<l>Così a sedere tutte quante intorno</l>
+<l>si poson alla fonte chiara e bella,</l>
+<l>ed una ninfa, sanza far sogiorno,</l>
+<l>si levò ritta, leggiadretta e snella,</l>
+<l>ed a sonar incominciò un corno</l>
+<l>perch´ognuna tacesse: e poi, quand´ella</l>
+<l>ebbe sonato, a seder si fu posta,</l>
+<l>aspettando di Diana la proposta.</l></lg>
+
+<lg type="ottava"><head>21</head>
+<l>La qual, com´usata era, così allora</l>
+<l>diceva lor ch´ognuna si guardasse</l>
+<l>che con niun uom facesse mai dimora,</l>
+<l>– E se avvenisse pur che l´uom trovasse</l>
+<l>fuggal come nimico ciascun´ora,</l>
+<l>acciò che ´nganno o forza non usasse</l>
+<l>contra di voi: ché, qual fosse ingannata,</l>
+<l>da me sarebbe morta e sbandeggiata. –</l></lg>
+
+<lg type="ottava"><head>22</head>
+<l>Mentre che tal consiglio si tenea,</l>
+<l>un giovinetto ch´Africo avea nome,</l>
+<l>il qual forse venti anni o meno avea,</l>
+<l>sanz´ancor barba avere, e le sue chiome</l>
+<l>bionde e crespe, ed il suo viso parea</l>
+<l>un giglio o rosa, over d´un fresco pome;</l>
+<l>costui, ind´oltre abitava col padre,</l>
+<l>sanz´altra vicinanza, e con la madre;</l></lg>
+
+<lg type="ottava"><head>23</head>
+<l>il giovane era quivi in un boschetto</l>
+<l>presso a Diana quando il ragionare</l>
+<l>delle ninfe sentì, ch´a suo diletto</l>
+<l>ind´oltre s´era andato a diportare;</l>
+<l>per che fattosi innanzi, il giovinetto</l>
+<l>dopo una grotta si mise a ´scoltare,</l>
+<l>per modo che veduto da costoro</l>
+<l>non era, ed e´ vedeva tutte loro.</l></lg>
+
+<lg type="ottava"><head>24</head>
+<l>Vedea Diana sopra l´altre stante,</l>
+<l>rigida nel parlar e nella mente,</l>
+<l>con le saette e l´arco minacciante,</l>
+<l>e vedeva le ninfe parimente</l>
+<l>timide e paurose tutte quante,</l>
+<l>sempre mirando il suo viso piacente,</l>
+<l>istando ognuna cheta, umile e piana</l>
+<l>pel minacciar che facea lor Diana.</l></lg>
+
+<lg type="ottava"><head>25</head>
+<l>Poi vide che Diana fece in piede</l>
+<l>levar ritta una ninfa, ch´Alfinea</l>
+<l>aveva nome, però ch´ella vede</l>
+<l>che più che niun´altra tempo avea,</l>
+<l>dicendo: – Ora m´intenda qual qui siede:</l>
+<l>i´ vo´ che questa nel mio loco stea,</l>
+<l>però ch´i´´ntendo partirmi da voi,</l>
+<l>sì che, com´io, ubidita sia poi. –</l></lg>
+
+<lg type="ottava"><head>26</head>
+<l>Africo stante costoro ascoltando,</l>
+<l>fra l´altre una ninfa agli occhi li corse,</l>
+<l>la qual alquanto nel viso mirando,</l>
+<l>sentì ch´Amor per lei il cor gli morse</l>
+<l>sì che gli fe´ sentir, già sospirando,</l>
+<l>le fiaccole amorose: ché gli porse</l>
+<l>un sì dolce disio, che già saziare</l>
+<l>non si potea della ninfa mirare.</l></lg>
+
+<lg type="ottava"><head>27</head>
+<l>E fra se stesso dicea: «Qual saria</l>
+<l>di me più grazioso e più felice,</l>
+<l>se tal fanciulla io avessi per mia</l>
+<l>isposa? Ché per certo il cor mi dice</l>
+<l>ch´al mondo sì contento uom non saria;</l>
+<l>e se non che paura mel disdice</l>
+<l>di Diana, i´ l´arei per forza presa,</l>
+<l>ché l´altre non potrebbon far difesa».</l></lg>
+
+<lg type="ottava"><head>28</head>
+<l>Lo ´nnamorato amante in tal maniera</l>
+<l>nascoso stava infra le fresche fronde,</l>
+<l>quando Diana, veggendo che sera</l>
+<l>già si faceva, e che ´l sol si nasconde</l>
+<l>e già perduto avea tutta la spera,</l>
+<l>con le sue ninfe, assai liete e gioconde,</l>
+<l>si levâr ritte, ed al poggio salendo,</l>
+<l>di belle melodi´ e canzon dicendo.</l></lg>
+
+<lg type="ottava"><head>29</head>
+<l>Africo, quando vide che levata</l>
+<l>s´era ciascuna, e simil la sua amante,</l>
+<l>udì che da un´altra fu chiamata:</l>
+<l>– Mensola, andianne –, e quella, su levante,</l>
+<l>con l´altre tosto si fu ritrovata.</l>
+<l>E così via n´andaron tutte quante:</l>
+<l>ognuna a sua capanna si tornoe,</l>
+<l>poi Diana si partì e lor lascioe.</l></lg>
+
+<lg type="ottava"><head>30</head>
+<l>Avea la ninfa forse quindici anni:</l>
+<l>biondi com´oro e grandi i suoi capelli,</l>
+<l>e di candido lin portava i panni;</l>
+<l>du´ occhi in testa rilucenti e belli,</l>
+<l>che chi li vede non sente mai affanni;</l>
+<l>con angelico viso ed atti isnelli,</l>
+<l>e ´n man portava un bel dardo affilato.</l>
+<l>Or vi ritorno al giovane lasciato.</l></lg>
+
+<lg type="ottava"><head>31</head>
+<l>Il qual soletto rimase pensoso,</l>
+<l>oltre modo dolente del partire</l>
+<l>che fe´ la ninfa col viso vezzoso,</l>
+<l>e ripiatando il passato disire,</l>
+<l>dicendo: «Lasso a me, che ´l bel riposo</l>
+<l>ch´ho ricevuto mi torna in martire,</l>
+<l>pensando ch´i´ non so dove o ´n qual parte</l>
+<l>cercarmene giammai, o con qual arte.</l></lg>
+
+<lg type="ottava"><head>32</head>
+<l>Né conosco costei che m´ha ferito,</l>
+<l>se non ch´io udi´ che Mensola avea nome:</l>
+<l>e lasciato m´ha qui, solo e schernito,</l>
+<l>sanz´avermi veduto; ed almen come</l>
+<l>i´ l´amo sapesse ella, e a che partito</l>
+<l>Amor m´ha qui per lei carche le some!</l>
+<l>Omè, Mensola bella, ove ne vai,</l>
+<l>e lasci Africo tuo con molti guai?».</l></lg>
+
+<lg type="ottava"><head>33</head>
+<l>Poi, ponendosi a seder in quel loco</l>
+<l>ove prima seder veduto avea</l>
+<l>la bella ninfa, e nel suo petto il foco</l>
+<l>con più fervente caldo s´accendea;</l>
+<l>così continovando questo gioco,</l>
+<l>il viso bel nell´erba nascondea:</l>
+<l>baciandola dicea: – Ben se´ beata,</l>
+<l>sì bella ninfa t´ha oggi calcata. –</l></lg>
+
+<lg type="ottava"><head>34</head>
+<l>E poi dicea: «Lasso a me,» sospirando</l>
+<l>«qual ria fortuna, o qual altro destino,</l>
+<l>oggi qui mi condusse lusingando,</l>
+<l>perché, di lieto, dolente e tapino</l>
+<l>io divenissi una fanciulla amando,</l>
+<l>la qual m´ha messo in sì fatto cammino,</l>
+<l>sanz´aver meco scorta o guida alcuna,</l>
+<l>ma sol Amore è meco e la fortuna!</l></lg>
+
+<lg type="ottava"><head>35</head>
+<l>Almen sapesse ella pur quanto amata</l>
+<l>ell´è da me, o veduto m´avesse!</l>
+<l>Ben ch´i´ credo che tutta spaventata</l>
+<l>se ne sarebbe, sed ella credesse</l>
+<l>esser da me o da uom disiata;</l>
+<l>e son ben certo, in quanto ella potesse,</l>
+<l>ella si fuggiria, sì come quella</l>
+<l>c´ha ´n odio l´uomo ed a lui si rubella.</l></lg>
+
+<lg type="ottava"><head>36</head>
+<l>Che farò dunque, lasso, poi ch´io veggio</l>
+<l>ch´a palesarmi saria ´l mio piggiore,</l>
+<l>e s´io mi taccio, veggio ch´è ´l mio peggio,</l>
+<l>però ch´ognor mi cresce più l´ardore?</l>
+<l>Dunque, per miglior vita, morte cheggio,</l>
+<l>la qual sarebbe fin di tal dolore:</l>
+<l>bench´io mi credo ch´ella penrà poco</l>
+<l>a venir, se non si spegne esto foco.»</l></lg>
+
+<lg type="ottava"><head>37</head>
+<l>Cotali ed altre simili parole</l>
+<l>diceva il giovinetto innamorato;</l>
+<l>ma poi, veggendo che già tutto ´l sole</l>
+<l>era tramonto, e che ´l cielo stellato</l>
+<l>già si facea, il che forte gli dole</l>
+<l>per lo partir; ma poi ch´alquanto stato</l>
+<l>sopra sé fu, e´ disse: «O me tapino,</l>
+<l>ch´or foss´egli di domane il mattino!».</l></lg>
+
+<lg type="ottava"><head>38</head>
+<l>Ma pur levato, piede innanzi piede,</l>
+<l>pien di molti pensier, per la rivera</l>
+<l>si mise vêr l´ostello, che ben vede</l>
+<l>che non ritorna qual venuto v´era;</l>
+<l>così pensoso che non se n´avvede</l>
+<l>alla casa pervenne, la qual era,</l>
+<l>scendendo verso ´l pian, della fontana</l>
+<l>forse un quarto di miglio o men lontana.</l></lg>
+
+<lg type="ottava"><head>39</head>
+<l>Quivi tornato, nella cameretta</l>
+<l>dove dormia, soletto se n´entroe,</l>
+<l>e sospirando in sul letto si getta,</l>
+<l>ch´a padre o madre prima non parloe;</l>
+<l>quivi con gran disio il giorno aspetta,</l>
+<l>né ´n tutta notte non s´adormentoe,</l>
+<l>ma in qua e ´n là si volge sospirando</l>
+<l>e ne´ sospir Mensola sua chiamando.</l></lg>
+
+<lg type="ottava"><head>40</head>
+<l>Acciò che voi, allora, non crediate</l>
+<l>che vi fosson palagi o casamenti,</l>
+<l>com´or vi son, sì vo´ che voi sappiate</l>
+<l>che sol d´una capanna eran contenti;</l>
+<l>sanz´esser con calcina allor murate,</l>
+<l>ma sol di pietre e legname le genti</l>
+<l>facean lor case, e qual facea capanne</l>
+<l>tutte murate con terra e con canne.</l></lg>
+
+<lg type="ottava"><head>41</head>
+<l>E forse quattro eran gli abitatori</l>
+<l>che facevano stanza nel paese,</l>
+<l>giù nelle piaghe de´ monti minori,</l>
+<l>che son a piè de´ gran poggi distese;</l>
+<l>ma ritornar vi voglio a´ gran dolori</l>
+<l>che Africo sentia, che presso a un mese</l>
+<l>stette sanza veder Mensola mai,</l>
+<l>benché dell´altre ne scontrasse assai.</l></lg>
+
+<lg rend="italic"><l>Venere ad Africo viene in visione;</l>
+<l>promettegli aiuto; ricerca per lei,</l>
+<l>truova altre ninfe, domanda di lei:</l>
+<l>fuggon sanza rispondere al garzone.</l></lg>
+
+<lg type="ottava"><head>42</head>
+<l>Amor, volendo crescer maggior pena,</l>
+<l>come usato è di fare, al giovinetto,</l>
+<l>parendogli ch´avesse alquanto lena</l>
+<l>ripresa e spento il foco nel suo petto,</l>
+<l>legar lo volle con maggior catena,</l>
+<l>e con più lacci tenerlo costretto,</l>
+<l>modo trovando a fargli risentire</l>
+<l>le fiaccole amorose col martìre.</l></lg>
+
+<lg type="ottava"><head>43</head>
+<l>Per ch´una notte il giovane, dormendo,</l>
+<l>veder in visione gli parea</l>
+<l>una donna con raggi risplendendo,</l>
+<l>ed un piccol garzone in collo avea,</l>
+<l>ignudo tutto ed un arco tenendo;</l>
+<l>e del turcasso una freccia traea</l>
+<l>per saettar, quando la donna: – Aspetta, –</l>
+<l>gli disse – figliuol mio: non aver fretta. –</l></lg>
+
+<lg type="ottava"><head>44</head>
+<l>E poi la donna, ad Africo rivolta,</l>
+<l>sì gli diceva: – Qual mala ventura,</l>
+<l>o qual pensier, o qual tua mente stolta</l>
+<l>t´ha fatto volger? Credo che paura</l>
+<l>o negligenza Mensola t´ha tolta,</l>
+<l>ché di suo amor non par che facci cura,</l>
+<l>ma com´uom vile stai tristo e pensoso,</l>
+<l>quando cercar dovresti il tuo riposo.</l></lg>
+
+<lg type="ottava"><head>45</head>
+<l>Leva su, dunque, e cerca queste piagge</l>
+<l>di questi monti, e tu la troverai,</l>
+<l>ch´a lor diletto le fiere selvagge</l>
+<l>con l´altre ninfe seguir la vedrai:</l>
+<l>e ben ch´al correr le sien preste e sagge,</l>
+<l>sanza niun fallo tu la vincerai,</l>
+<l>né ti bisogna temer di Diana,</l>
+<l>però ch´ell´è di qui molto lontana.</l></lg>
+
+<lg type="ottava"><head>46</head>
+<l>E i´ ti prometto di darti il mio aiuto,</l>
+<l>al qual niuno può far mai resistenza,</l>
+<l>pur che questo mio figlio abbi voluto</l>
+<l>ferir con l´arco per la mia sentenza;</l>
+<l>ch´i´ son colei che sì ben ho saputo</l>
+<l>adoperar con questa mia scienza,</l>
+<l>che, non ch´altri, ma Giove ho vinto e preso</l>
+<l>con molti iddii, che niun non s´è difeso. –</l></lg>
+
+<lg type="ottava"><head>47</head>
+<l>Poi disse: – Figliuol mio, apri le braccia,</l>
+<l>fagli sentire il tuo caldo valore;</l>
+<l>fa´ che tu rompa ogni gelata ghiaccia,</l>
+<l>dentro al suo petto e nel gelato core;</l>
+<l>or fa´, figliuol mio, fa´ sì che mi piaccia,</l>
+<l>come far suoi –; e poi parea ch´Amore</l>
+<l>per sì gran forza quell´arco tirasse,</l>
+<l>che ´nsieme le duo cocche raccozzasse.</l></lg>
+
+<lg type="ottava"><head>48</head>
+<l>Quando Africo volea chieder mercede,</l>
+<l>sentì nel petto giugner la saetta,</l>
+<l>la qual, dentro passando, il cor gli fiede</l>
+<l>sì che, svegliato, la man puose in fretta</l>
+<l>al petto, ché la freccia trovar crede:</l>
+<l>trovò la piaga esser salda e ristretta;</l>
+<l>poi guardò se la donna rivedea</l>
+<l>col suo figliuol che fedito l´avea.</l></lg>
+
+<lg type="ottava"><head>49</head>
+<l>Ma non la vide, perch´era sparita,</l>
+<l>e ´l sonno rotto che gliel dimostrava;</l>
+<l>e battendogli ´l cor per la ferita</l>
+<l>che ricevuto avea, si ricordava</l>
+<l>della sua amante, quando fe´ partita</l>
+<l>dalla fontana, e nel cor gli tornava</l>
+<l>gli atti gentili col vezzoso modo,</l>
+<l>e ta´ pensier al cor gli facean nodo.</l></lg>
+
+<lg type="ottava"><head>50</head>
+<l>E poi dicea: «Questa donna mi pare,</l>
+<l>ch´ora m´apparve, Vener col figliuolo:</l>
+<l>e, s´io bene intesi il suo parlare,</l>
+<l>promesso m´ha di far sentir quel duolo</l>
+<l>a Mensola, ch´a me ha fatto fare;</l>
+<l>però, s´ella esce mai fuor dello stuolo</l>
+<l>dell´altre ninfe, i´ pur m´arrischieroe:</l>
+<l>per forza o per amor la piglieroe».</l></lg>
+
+<lg type="ottava"><head>51</head>
+<l>Così, racceso di questo disio</l>
+<l>la fiamma nel suo petto, si dispose</l>
+<l>di Mensola cercar per ogni rio,</l>
+<l>fin che la troverà; e cota´ cose</l>
+<l>pensando, intanto il bel giorno appario,</l>
+<l>il qual egli aspettava con bramose</l>
+<l>voglie: e soletto di casa s´usciva</l>
+<l>e ´nvêr la fonte Aquelli se ne giva.</l></lg>
+
+<lg type="ottava"><head>52</head>
+<l>E quivi giunto, alquanto vi ristette,</l>
+<l>i sospiri amorosi rinnovando,</l>
+<l>«Di qui» dicendo «mi fêr le saette</l>
+<l>d´Amor già partir forte sospirando».</l>
+<l>Ma poi che tai parole egli ebbe dette,</l>
+<l>saliva ´l poggio, la fonte lasciando,</l>
+<l>ascoltando e mirando tuttavia</l>
+<l>se ninfa alcuna vedeva o sentia.</l></lg>
+
+<lg type="ottava"><head>53</head>
+<l>Così salendo suso verso il monte,</l>
+<l>trasviato d´amor e dal pensiero,</l>
+<l>alto portando sempre la sua fronte</l>
+<l>per veder me´ per ciaschedun sentiero,</l>
+<l>e le gambe tenendo preste e pronte,</l>
+<l>se gli facesse di correr mestiero;</l>
+<l>ed ogni foglia che menar vedea,</l>
+<l>credea che fosse ninfa e là correa.</l></lg>
+
+<lg type="ottava"><head>54</head>
+<l>Ma poi che cota´ beffe ed altre assai</l>
+<l>avean più volte il giovane ingannato,</l>
+<l>sanza niuna ninfa trovar mai,</l>
+<l>e´ presso che ´n sul monte era montato,</l>
+<l>quando un pensier gli disse: «Dove vai</l>
+<l>pur su salendo, e nulla ci hai trovato,</l>
+<l>e già è terza? I´ non vo´ più salire,</l>
+<l>ma per quest´altra via vogli´ or gire».</l></lg>
+
+<lg type="ottava"><head>55</head>
+<l>E ´nverso Fiesol vòlto, piaggia piaggia</l>
+<l>guidato d´Amor, ne gìa pensoso,</l>
+<l>caendo la sua amante aspra e selvaggia,</l>
+<l>e che facea lui star malinconoso;</l>
+<l>ma pria ch´un mezzo miglio passato aggia,</l>
+<l>ad un luogo pervenne assai nascoso,</l>
+<l>dove una valle i duo monti divide:</l>
+<l>quivi udì cantar ninfe, e poi le vide.</l></lg>
+
+<lg type="ottava"><head>56</head>
+<l>Quando appressato fu a quel vallone</l>
+<l>alquanto, udì un´angelica boce</l>
+<l>con duo tinori. Ad ascoltar si pone,</l>
+<l>faccendo delle braccia a Giove croce,</l>
+<l>con umil priego stando ginocchione,</l>
+<l>dicendo: «Iddio, sarebbe in questa foce</l>
+<l>Mensola tra costoro? Or voglia Iddio</l>
+<l>ch´ella vi sia, ch´i´ v´anderò anch´io».</l></lg>
+
+<lg type="ottava"><head>57</head>
+<l>Qual è colui che ´l grillo vuol pigliare,</l>
+<l>che va con lunghi e radi e leggier passi</l>
+<l>sanza far motto, tal era l´andare</l>
+<l>che Africo facea su per que´ massi,</l>
+<l>pur dietro andando a quel dolce cantare</l>
+<l>che nella valle udia, e ´nnanzi fassi</l>
+<l>tanto che vide dimenar le fronde</l>
+<l>d´alcun querciuol che le ninfe nasconde.</l></lg>
+
+<lg type="ottava"><head>58</head>
+<l>Per che, sanza scoprirsi, s´appressava</l>
+<l>tanto che vide donde uscia quel canto:</l>
+<l>vide tre ninfe, ch´ognuna cantava;</l>
+<l>l´una era ritta, e l´altre duo in un canto</l>
+<l>a un acquitrin, che ´l fossato menava,</l>
+<l>sedeano, e le lor gambe vide alquanto,</l>
+<l>ché si lavavan i piè bianchi e belli,</l>
+<l>con loro cantando dimolti augelli.</l></lg>
+
+<lg type="ottava"><head>59</head>
+<l>L´altra che stava in piè colse due frondi,</l>
+<l>e d´esse una ghirlanda si facea,</l>
+<l>poi sopra suoi capelli crespi e biondi</l>
+<l>la si ponea, perché ´l sol l´offendea;</l>
+<l>poi, per le sue compagne, folte e fondi</l>
+<l>ne fece due, e poi quelle ponea</l>
+<l>in sulle trecce lor non pettinate,</l>
+<l>le quali eran di frondi spampanate.</l></lg>
+
+<lg type="ottava"><head>60</head>
+<l>Africo sì diceva infra se stesso:</l>
+<l>«E´ non mi par che Mensola ci sia».</l>
+<l>E poi, fattosi a lor un po´ più presso,</l>
+<l>la sua mala ventura maladia,</l>
+<l>dicendo: «Vener, quel che m´hai promesso</l>
+<l>non mi par ch´avvenuto ancor mi sia;</l>
+<l>ma che farò? Domanderò costoro</l>
+<l>s´elle la sanno, e scoprirommi a loro».</l></lg>
+
+<lg type="ottava"><head>61</head>
+<l>Diliberato adunque ´l giovinetto</l>
+<l>di scoprirsi a costor, si fece avanti</l>
+<l>oltre vicino a lor; poi ebbe detto</l>
+<l>con bassa boce e con umil sembianti:</l>
+<l>– Diana, a cui ´l cor vostro sta suggetto,</l>
+<l>vi mantenga nel ben ferme e costanti!</l>
+<l>O belle ninfe, non vi spaventate,</l>
+<l>ma priegovi ch´un poco m´ascoltiate.</l></lg>
+
+<lg type="ottava"><head>62</head>
+<l>I´ vo caendo una di vostra schiera,</l>
+<l>la qual Mensola credo che chiamata</l>
+<l>sia da voi per ciascuna rivera,</l>
+<l>e ben è un mese ch´io l´ho seguitata;</l>
+<l>ma ella è tanto fuggitiva e fera,</l>
+<l>che sempre innanzi a me s´è dileguata:</l>
+<l>però vi priego, dilettose e belle,</l>
+<l>che la ´nsegniate a me, care sorelle. –</l></lg>
+
+<lg type="ottava"><head>63</head>
+<l>Quali sanza pastor le pecorelle,</l>
+<l>assalite dal lupo e spaventate,</l>
+<l>fuggon or qua or là, le tapinelle,</l>
+<l>gridando <hi rend="italic">bè</hi> con boci sconsolate;</l>
+<l>e qual fanno le pure gallinelle,</l>
+<l>quand´elle son dalla volpe assaltate,</l>
+<l>quanto più posson ognuna volando</l>
+<l>verso la casa, forte schiamazzando;</l></lg>
+
+<lg type="ottava"><head>64</head>
+<l>tal fêr le ninfe belle e paurose:</l>
+<l>quando vidon costui, – Omè – gridaro;</l>
+<l>alzando i panni, le gambe vezzose,</l>
+<l>per correr meglio, tutte le mostraro;</l>
+<l>e già niuna ad Africo rispose,</l>
+<l>ma, ricogliendo lor archi, n´andaro</l>
+<l>su verso ´l monte, e qual pur per la piaggia,</l>
+<l>forte fuggendo com fiera selvaggia.</l></lg>
+
+<lg type="ottava"><head>65</head>
+<l>Africo grida: – Aspettatemi un poco,</l>
+<l>o belle ninfe, ascoltate ´l mio dire;</l>
+<l>sacciate ch´io non venni in questo loco</l>
+<l>per voi noiar o per farvi morire,</l>
+<l>ma sol per darvi allegrezza con gioco,</l>
+<l>in quanto voi non vogliate fuggire;</l>
+<l>io vengo a voi come di voi amico,</l>
+<l>e voi fuggite me come nimico. –</l></lg>
+
+<lg type="ottava"><head>66</head>
+<l>Ma che ti vale, o Africo, pregalle?</l>
+<l>elle si fuggon pur su per la costa,</l>
+<l>e tu soletto riman nella valle,</l>
+<l>sanza da lor aver altra risposta.</l>
+<l>Rimanti, dunque, di più seguitalle,</l>
+<l>poi ch´ognuna a fuggir è pur disposta;</l>
+<l>le tue lusinghe col vento ne vanno,</l>
+<l>e le ninfe di correr non ristanno.</l></lg>
+
+<lg type="ottava"><head>67</head>
+<l>Ell´eran già da lui tanto lontane</l>
+<l>che di veduta perdute l´avea:</l>
+<l>per che di più seguirle si rimane,</l>
+<l>e ´nfra se stesso forte si dolea</l>
+<l>di quelle ninfe sì selvagge e strane.</l>
+<l>«Che farò dunque, lasso a me?» dicea.</l>
+<l>«I´ non ci veggio modo niun pel quale</l>
+<l>i´ possa aver da lor altro che male.</l></lg>
+
+<lg type="ottava"><head>68</head>
+<l>E´ non mi val lusinghe né pregare,</l>
+<l>e nulla fare´ mai s´io mi tacessi;</l>
+<l>né non posso con lor la forza usare,</l>
+<l>che volentier l´userei, s´i´ potessi.</l>
+<l>E s´io potessi almen pure spiare</l>
+<l>dove Mensola fosse, o pur sapessi</l>
+<l>dove cercarne, o dove si riduce</l>
+<l>Ma vo errando com´uom sanza luce».</l></lg>
+
+<lg type="ottava"><head>69</head>
+<l>Tanto ´l diletto l´avea tranquillato,</l>
+<l>di Mensola cercare, e poi di quelle</l>
+<l>ninfe che nel vallone avea trovato</l>
+<l>istare all´ombra di fresche ramelle,</l>
+<l>e poi dal seguitarle trasviato,</l>
+<l>sol per saper di Mensola novelle,</l>
+<l>che non s´accorse ch´egli era già sera,</l>
+<l>e poco già lucea del sol la spera.</l></lg>
+
+<lg type="ottava"><head>70</head>
+<l>Per che, malinconoso e malcontento,</l>
+<l>sé maladiva e la vegnente notte</l>
+<l>che sì tosto venia; e poi con lento</l>
+<l>passo scendeva giù per quelle grotte,</l>
+<l>perché di star più quivi avea pavento</l>
+<l>degli anima´ crudeli, ch´a quell´otte</l>
+<l>cominciavan andar pe´ folti boschi,</l>
+<l>donando a chi trovavan di lor tòschi.</l></lg>
+
+<lg type="ottava"><head>71</head>
+<l>Così, sanz´aver punto il dì mangiato,</l>
+<l>verso la casa sua prese la via,</l>
+<l>ove quel giorno dal padre aspettato</l>
+<l>era stato con gran malinconia,</l>
+<l>paura avendo che non fosse stato</l>
+<l>da qualche bestia morto ove che sia,</l>
+<l>e divorato con doglia l´avesse:</l>
+<l>però a casa tornar non potesse.</l></lg>
+
+<lg type="ottava"><head>72</head>
+<l>Ed ancor di Diana avea temenza,</l>
+<l>che non si fosse con lei abbattuto,</l>
+<l>come nimica della sua semenza</l>
+<l>sempre mai stata, e da lei fosse suto</l>
+<l>morto, o fattolo, per più penitenza,</l>
+<l>diventar pietra o albero fronzuto;</l>
+<l>e ´n tai pensieri stava lui aspettando,</l>
+<l>or una cosa or altra imaginando.</l></lg>
+
+<lg rend="italic"><l>Di Girafone ad Africo suo figlio</l>
+<l>un esempletto perché più non vada</l>
+<l>dietro alle ninfe, ché corre periglio.</l></lg>
+
+<lg type="ottava"><head>73</head>
+<l>Il sol era già corso in occidente,</l>
+<l>e sì nascoso che più non lucea,</l>
+<l>e già le stelle e la luna lucente</l>
+<l>nell´aria cilestrina si vedea;</l>
+<l>e l´usignuol più cantar non si sente,</l>
+<l>ma cantan que´ che ´l giorno nascondea</l>
+<l>per lor natura, e scuopreli la notte;</l>
+<l>Africo giunse a casa a cota´ otte.</l></lg>
+
+<lg type="ottava"><head>74</head>
+<l>Alla qual giunto, l´aspettante padre</l>
+<l>con gran letizia ricevette il figlio,</l>
+<l>sì come que´ che temea che le ladre</l>
+<l>fiere non gli avesson dato di piglio;</l>
+<l>e la pietosa e piangente sua madre</l>
+<l>l´abracciava dicendo: – O fresco giglio,</l>
+<l>ove se´ tu stato oggi, car figliuolo,</l>
+<l>che tu ci hai dato tanta pena e duolo? –</l></lg>
+
+<lg type="ottava"><head>75</head>
+<l>E similmente il padre il domandava</l>
+<l>ove stato era il dì, sanza mangiare.</l>
+<l>Africo sopra sé alquanto stava</l>
+<l>per legitima scusa a ciò trovare,</l>
+<l>la quale Amore tosto gl´insegnava,</l>
+<l>come far suol gli animi assottigliare</l>
+<l>de´ veri amanti; ed al padre rispose,</l>
+<l>e una bugia cotal sì gli dispose:</l></lg>
+
+<lg type="ottava"><head>76</head>
+<l>– O padre mio, egli è gran pezzo ch´io</l>
+<l>in questi poggi vidi una cerbietta,</l>
+<l>la qual tanto bella era, al parer mio,</l>
+<l>mai non credo ch´una sì diletta</l>
+<l>se ne vedesse, e veramente Iddio</l>
+<l>con le sue man la fe´ sì leggiadretta;</l>
+<l>e nell´andar come gru era leve,</l>
+<l>e bianca tutta come pura neve.</l></lg>
+
+<lg type="ottava"><head>77</head>
+<l>Sì ne ´nvaghii, ch´io la seguii gran pezza,</l>
+<l>di bosco in bosco, credendo pigliarla;</l>
+<l>ma ella tosto de´ monti l´altezza</l>
+<l>prese; per ch´io, di più seguitarla</l>
+<l>sì mi rimasi con molta gramezza,</l>
+<l>e ´n cor mi puosi d´ancor ritrovarla,</l>
+<l>e con più agio seguirla altra volta;</l>
+<l>e così, a casa tornando, die´ volta.</l></lg>
+
+<lg type="ottava"><head>78</head>
+<l>Io mi levai staman e, a dire il vero,</l>
+<l>veggendo il tempo bel, mi ricordai</l>
+<l>della cerbietta, e vennemi in pensiero</l>
+<l>di lei cercar: così diliberai.</l>
+<l>Così mi misi su per un sentiero,</l>
+<l>ch´io non m´accorsi ch´io mi ritrovai</l>
+<l>a mezzo ´l poggio quando ´l sol già era</l>
+<l>a mezzo ´l ciel, con la lucente spera;</l></lg>
+
+<lg type="ottava"><head>79</head>
+<l>quando sentii e vidi menar foglie</l>
+<l>di freschi quercioletti, ond´io più presso</l>
+<l>mi feci alquanto. Dietro alcune scoglie</l>
+<l>tacitamente per veder fu´ messo:</l>
+<l>vidi tre cerbie gir con pari voglie</l>
+<l>l´erba pascendo, per che, ´nfra me stesso</l>
+<l>avvisando pigliarne una, pian piano</l>
+<l>vêr lor n´andai con un po´ d´erba in mano.</l></lg>
+
+<lg type="ottava"><head>80</head>
+<l>Ma com´elle mi vidon, si fuggiro</l>
+<l>suso al monte, sanza punto aspettarmi,</l>
+<l>ed io di questo alquanto me n´adiro,</l>
+<l>veggendo quivi beffato lasciarmi;</l>
+<l>e così dietro loro un pezzo miro</l>
+<l>poi a seguirle, sanz´aver altre armi</l>
+<l>che ora m´abbia, infin che di veduta</l>
+<l>non me le tolse la notte venuta.</l></lg>
+
+<lg type="ottava"><head>81</head>
+<l>Or sai della mia stanza la cagione,</l>
+<l>o caro padre, e di questo sie certo. –</l>
+<l>Il padre, ch´avea nome Girafone,</l>
+<l>gli parve intender quel parlar coperto,</l>
+<l>e ben s´avvide e tenne oppinione,</l>
+<l>sì come savio e di tai cose sperto,</l>
+<l>che ninfe state dovean esser quelle</l>
+<l>ch´e´ dicea ch´eran cerbie tanto belle.</l></lg>
+
+<lg type="ottava"><head>82</head>
+<l>Ma per non farlo di ciò mentitore,</l>
+<l>e non paresse ch´e´ se n´accorgesse,</l>
+<l>e per non crescergli ´l disio maggiore</l>
+<l>di più seguirle, ed ancor se potesse</l>
+<l>far che lasciasse da sé questo amore,</l>
+<l>e, sanza palesargliel, giù ´l ponesse,</l>
+<l>ciò c´ha detto fa vista di credègli;</l>
+<l>poi ´ncominciò in tal guisa a parlar egli:</l></lg>
+
+<lg type="ottava"><head>83</head>
+<l>– Caro figliuolo, e dolce mio diletto,</l>
+<l>per Dio ti priego ti sacci guardare</l>
+<l>da quelle cerbie che tu or m´hai detto</l>
+<l>ed in malora via le lascia andare:</l>
+<l>ché sopra la mia fé io ti prometto</l>
+<l>che di Diana son, ch´a diportare</l>
+<l>si van pascendo su per questi monti,</l>
+<l>l´acque bevendo delle fresche fonti.</l></lg>
+
+<lg type="ottava"><head>84</head>
+<l>Diana, le più volte, va con esse</l>
+<l>con le saette e l´arco micidiale,</l>
+<l>e se per tua sventura s´avvedesse</l>
+<l>che tu le seguitassi, con lo strale</l>
+<l>morte ti donerebbe, come spesse</l>
+<l>volte ell´ha fatto a chi vuol far lor male;</l>
+<l>sanza ch´ell´è grandissima nimica</l>
+<l>di noi e della nostra schiatta antica.</l></lg>
+
+<lg type="ottava"><head>85</head>
+<l>Omè, figliuol, ch´a lagrimar mi muove</l>
+<l>la morte del mio padre sventurato,</l>
+<l>tornandomi a memoria il come e ´l dove</l>
+<l>fu da Diana morto e consumato;</l>
+<l>o figliuol mio, così m´aiuti Giove,</l>
+<l>com´io dirò il vero del suo peccato,</l>
+<l>che, come sai, ebbe nome Mugnone</l>
+<l>il padre mio, sì com´io Girafone.</l></lg>
+
+<lg type="ottava"><head>86</head>
+<l>La storia saria lunga, a voler dire</l>
+<l>ogni parte del suo misero danno,</l>
+<l>ma per tosto all´effetto pervenire,</l>
+<l>per questi monti andava, come vanno</l>
+<l>i cacciator, per le bestie ferire;</l>
+<l>e così andando, dopo molto affanno,</l>
+<l>´n una piaggia sopra un fiume arrivoe,</l>
+<l>il qual Mugnon poi per lui si chiamoe.</l></lg>
+
+<lg type="ottava"><head>87</head>
+<l>E quivi giunto, ad una bella fonte</l>
+<l>trovò una ninfa star tutta soletta,</l>
+<l>la qual, vedutol, tutta nella fronte</l>
+<l>impalidio, e su si levò in fretta</l>
+<l>«Omè, omè» dicendo, e giù pel monte</l>
+<l>si fuggìa paurosa e pargoletta;</l>
+<l>il volonteroso padre a pregarla</l>
+<l>incominciò, e poi a seguitarla.</l></lg>
+
+<lg type="ottava"><head>88</head>
+<l>O miser padre, tu non t´avvedevi</l>
+<l>che tu correvi dietro alla tua morte;</l>
+<l>e´ lacci suoi, tapin, non conoscevi,</l>
+<l>dove preso tu fosti con rie sorte;</l>
+<l>gl´iddii volesson che, quando correvi</l>
+<l>dietro alla ninfa sì veloce e forte,</l>
+<l>Diana l´avesse in uccel trasmutata,</l>
+<l>o ´n pietra, o ´n alber l´avesse piantata!</l></lg>
+
+<lg type="ottava"><head>89</head>
+<l>Ella non era al fiume giunta appena,</l>
+<l>che la raccolta e sottil sua guarnacca</l>
+<l>tra le gambe le cadde, e già la lena</l>
+<l>perdea, di correr e di dolor fiacca;</l>
+<l>lo sciagurato Mugnon gioia ne mena,</l>
+<l>avendola già giunta per istracca,</l>
+<l>e presa la tenea infra le braccia,</l>
+<l>donando baci alla vergine faccia.</l></lg>
+
+<lg type="ottava"><head>90</head>
+<l>Quivi usò forza e quivi violenza,</l>
+<l>quivi la ninfa fu contaminata,</l>
+<l>quivi ella non poté far resistenza:</l>
+<l>o misero garzone, o sventurata</l>
+<l>ninfa, quanto dogliosa penitenza</l>
+<l>divise amendue voi quella fiata!</l>
+<l>Diana, di sul soprastante monte,</l>
+<l>abracciati gli vide a fronte a fronte.</l></lg>
+
+<lg type="ottava"><head>91</head>
+<l>Ella gridò: «O miser, quest´è l´ora</l>
+<l>che ´nsieme n´anderete nello ´nferno!</l>
+<l>voi sarete oggi d´esto mondo fora,</l>
+<l>sanza veder di questa state il verno;</l>
+<l>e´ vostri nomi faranno dimora</l>
+<l>nel fiume dove siete, in sempiterno!».</l>
+<l>E poscia l´arco tese con grand´ira,</l>
+<l>faccendo de´ duo amanti una sua mira.</l></lg>
+
+<lg type="ottava"><head>92</head>
+<l>A un´otta giunson l´ultime parole</l>
+<l>e la freccia che ´nsieme li confisse.</l>
+<l>O figliuol mio, io non ti dico fole:</l>
+<l>così gl´iddii volesson ch´io mentisse,</l>
+<l>che per dolor ancor il cor mi dole!</l>
+<l>E´ convenne ch´ognun di lor morisse:</l>
+<l>un ferro sol tenea fitti i duo cori;</l>
+<l>così finiron quivi i loro amori.</l></lg>
+
+<lg type="ottava"><head>93</head>
+<l>Il sangue del mio padre doloroso</l>
+<l>il fiume tinse di rosso colore,</l>
+<l>e corse tutto quanto sanguinoso,</l>
+<l>e manifesto fe´ questo dolore;</l>
+<l>e ´l corpo suo ancor vi sta nascoso,</l>
+<l>che mai non se ne seppe alcun sentore</l>
+<l>né dove s´arrivasse poi e ´l come,</l>
+<l>salvo che ´l fiume ritenne il suo nome.</l></lg>
+
+<lg type="ottava"><head>94</head>
+<l>Dissesi che Diana ragunoe</l>
+<l>il sangue della ninfa tutto quanto,</l>
+<l>e ´l corpo, insieme con quel, trasmutoe</l>
+<l>in una bella fonte dall´un canto</l>
+<l>allato al fiume; e così la lascioe,</l>
+<l>acciò che manifesto fosse quanto</l>
+<l>ell´è crudele, forte e dispietata</l>
+<l>a chi l´offende solo una fiata.</l></lg>
+
+<lg type="ottava"><head>95</head>
+<l>Così di mille te ne potre´ dire</l>
+<l>che ´n questi monti son fonti ed uccelli,</l>
+<l>e qua´ in alber ha fatto convertire,</l>
+<l>che misfatto hanno a lei, i tapinelli;</l>
+<l>ancor del sangue tuo fece morire,</l>
+<l>anticamente, duo carnal fratelli;</l>
+<l>però ti guarda, per l´amor di Dio,</l>
+<l>dalle sue mani, caro figliuol mio! –</l></lg>
+<lg rend="italic"><l>Qui truova Africo Mensola sua</l>
+<l>e priegala; ella fugge e non risponde; </l>
+<l>lanciali un dardo, e poi si nasconde.</l></lg>
+
+<lg type="ottava"><head>96</head>
+<l>Posto avea fine al suo ragionamento</l>
+<l>il vecchio Girafone lagrimando;</l>
+<l>Africo ad ascoltarlo molto attento</l>
+<l>istava, bene ogni cosa notando;</l>
+<l>e come che alquanto di pavento</l>
+<l>avesse per quel dir, pur fermo stando</l>
+<l>nella sua oppinione, al padre disse:</l>
+<l>– Deh, non temer cotesto a me venisse!</l></lg>
+
+<lg type="ottava"><head>97</head>
+<l>Da or innanzi, i´ le lascerò andare,</l>
+<l>sed egli avien ch´i´ le truovi più mai;</l>
+<l>andianci dunque, padre, omai a posare,</l>
+<l>ch´i´ sono stanco, sì m´affaticai</l>
+<l>oggi per questi monti, per tornare</l>
+<l>di dì a casa, che mai non finai</l>
+<l>ch´i´ son qui giunto con molta fatica,</l>
+<l>sì ch´io ti priego che tu più non dica. –</l></lg>
+
+<lg type="ottava"><head>98</head>
+<l>Giti a dormir, non fu sì tosto il giorno</l>
+<l>ch´Africo si levava prestamente</l>
+<l>e negli usati poggi fe´ ritorno,</l>
+<l>dove sempre tenea ´l cor e la mente;</l>
+<l>sempre mirandosi avanti e dintorno,</l>
+<l>se Mensola vedea poneva mente;</l>
+<l>e com piacque ad Amor, giunse ad un varco</l>
+<l>dov´ella gli era presso ad un trar d´arco.</l></lg>
+
+<lg type="ottava"><head>99</head>
+<l>Ella lo vide prima ch´egli lei,</l>
+<l>per ch´a fuggir del campo ella, prendea</l>
+<l>Africo la sentì gridar – Omei –</l>
+<l>e poi, guardando, fuggir la vedea,</l>
+<l>e ´nfra sé disse: «Per certo costei</l>
+<l>è Mensola» e poi dietro le correa,</l>
+<l>e sì la priega e per nome la chiama,</l>
+<l>dicendo: – Aspetta que´ che tanto t´ama!</l></lg>
+
+<lg type="ottava"><head>100</head>
+<l>Deh, o bella fanciulla, non fuggire</l>
+<l>colui che t´ama sopra ogni altra cosa;</l>
+<l>io son colui che per te gran martìre</l>
+<l>sento, dì e notte, sanz´aver mai posa;</l>
+<l>io non ti seguo per farti morire,</l>
+<l>né per far cosa che ti sia gravosa:</l>
+<l>ma sol Amor mi ti fa seguitare,</l>
+<l>non nimistà, né mal ch´i´ voglia fare.</l></lg>
+
+<lg type="ottava"><head>101</head>
+<l>Io non ti seguo come falcon face</l>
+<l>la volante pernice cattivella,</l>
+<l>né ancor come fa lupo rapace</l>
+<l>la misera e dolente pecorella,</l>
+<l>ma sì come colei che più mi piace</l>
+<l>sopra ogni cosa, e sia quanto vuol bella;</l>
+<l>tu se´ la mia speranza e ´l mio disio,</l>
+<l>e se tu avessi mal, sì l´are´ io.</l></lg>
+
+<lg type="ottava"><head>102</head>
+<l>Se tu m´aspetti, Mensola mia bella,</l>
+<l>i´ t´imprometto e giuro sopra i dèi</l>
+<l>ch´io ti terrò per mia sposa novella,</l>
+<l>ed amerotti sì come colei</l>
+<l>che se´ tutto ´l mio bene, e come quella</l>
+<l>c´hai in balìa tutti i sensi miei;</l>
+<l>tu se´ colei che sol mi guidi e reggi,</l>
+<l>tu sola la mia vita signoreggi.</l></lg>
+
+<lg type="ottava"><head>103</head>
+<l>Dunque, perché vuo´ tu, o dispietata,</l>
+<l>esser della mia morte la cagione?</l>
+<l>Perch´esser vuoi di tanto amor ingrata</l>
+<l>verso di me, sanz´averne ragione?</l>
+<l>Vuo´ tu ch´i´ mora per averti amata,</l>
+<l>e ch´io n´abbia di ciò tal guiderdone?</l>
+<l>S´i´ non t´amassi, dunque, che faresti?</l>
+<l>So ben che peggio far non mi potresti.</l></lg>
+
+<lg type="ottava"><head>104</head>
+<l>Se tu pur fuggi, tu se´ più crudele</l>
+<l>che non è l´orsa quand´ha gli orsacchini,</l>
+<l>e se´ più amara che non è il fiele,</l>
+<l>e dura più che sassi marmorini;</l>
+<l>se tu m´aspetti, più dolce che ´l mèle</l>
+<l>sei, o che l´uva ond´esce i dolci vini</l>
+<l>e più che ´l sol se´ bella ed avvenente,</l>
+<l>morbida e bianca, ed umile e piacente.</l></lg>
+
+<lg type="ottava"><head>105</head>
+<l>Ma i´ veggio ben che ´l pregar non mi vale,</l>
+<l>né parola ch´io dica non ascolti,</l>
+<l>e di me servo tuo poco ti cale,</l>
+<l>e mai indietro gli occhi non hai volti;</l>
+<l>ma com´egli esce dell´arco lo strale,</l>
+<l>così ten vai per questi boschi folti,</l>
+<l>e non ti curi di pruni o di sassi,</l>
+<l>che graffian le tue gambe, o di gran massi.</l></lg>
+
+<lg type="ottava"><head>106</head>
+<l>Or poi che di fuggir se´ pur disposta</l>
+<l>colui che t´ama, secondo ch´i´ veggio,</l>
+<l>sanza a´ mie´ prieghi far altra risposta,</l>
+<l>e par che per pregar tu facci peggio,</l>
+<l>i´ priego Giove che ´l monte e la costa</l>
+<l>ispiani tutta, e questa grazia cheggio,</l>
+<l>e pianura diventi umile e piana,</l>
+<l>ch´al correr non ti sia cotanto strana.</l></lg>
+
+<lg type="ottava"><head>107</head>
+<l>E priego voi, iddii, che dimorate</l>
+<l>per questi boschi e nelle valli ombrose,</l>
+<l>che, se cortesi foste mai, or siate</l>
+<l>verso le gambe candide e vezzose</l>
+<l>di quella ninfa, e che voi convertiate</l>
+<l>alberi e pruni e pietre ed altre cose,</l>
+<l>che noia fanno a´ piè morbidi e belli,</l>
+<l>in erba minutella e ´n praticelli.</l></lg>
+
+<lg type="ottava"><head>108</head>
+<l>Ed io, per me, omai mi rimarroe</l>
+<l>di più seguirti, e va´ ove ti piace,</l>
+<l>e nella mia malora mi staroe</l>
+<l>con molte pene, sanz´aver mai pace;</l>
+<l>e sanza dubbio al fin ch´i´ ne morroe,</l>
+<l>ch´i´ sento ´l cor che già tutto si sface</l>
+<l>per te, che ´l tieni in sì ardente foco,</l>
+<l>e mancali la vita a poco a poco. –</l></lg>
+
+<lg type="ottava"><head>109</head>
+<l>La ninfa correa sì velocemente,</l>
+<l>che parea che volasse, e´ panni alzati</l>
+<l>s´avea dinnanzi per più prestamente</l>
+<l>poter fuggir, e aveasegli attaccati</l>
+<l>alla cintura, sì ch´apertamente,</l>
+<l>di sopra a´ calzerin ch´avea calzati,</l>
+<l>mostra le gambe e ´l ginocchio vezzoso,</l>
+<l>ch´ognun ne diverria disideroso.</l></lg>
+
+<lg type="ottava"><head>110</head>
+<l>E nella destra mano aveva un dardo</l>
+<l>il qual, quand´ella fu un pezzo fuggita,</l>
+<l>si volse indietro con rigido sguardo,</l>
+<l>e diventata per paura ardita</l>
+<l>quello lanciò col buon braccio gagliardo,</l>
+<l>per ad Africo dar mortal ferita;</l>
+<l>e ben l´arebbe morto, se non fosse</l>
+<l>che ´n una quercia innanzi a lui percosse.</l></lg>
+
+<lg type="ottava"><head>111</head>
+<l>Quand´ella il dardo per l´aria vedea</l>
+<l>zufolando volar, e poi nel viso</l>
+<l>guardò del suo amante, il qual parea</l>
+<l>veracemente fatto in paradiso,</l>
+<l>di quel lanciar forte se ne pentea,</l>
+<l>e tocca di pietà lo mirò fiso,</l>
+<l>e gridò forte: – Omè, giovane, guarti,</l>
+<l>ch´i´ non potrei omai di questo atarti! –</l></lg>
+
+<lg type="ottava"><head>112</head>
+<l>Il ferro era quadrato e affusolato</l>
+<l>e la forza fu grande, onde si caccia</l>
+<l>entro la quercia, e tutt´oltre è passato,</l>
+<l>come se dato avesse in una ghiaccia;</l>
+<l>ell´era grossa sì ch´aggavignato</l>
+<l>un uomo non l´arebbe con le braccia;</l>
+<l>ella s´aperse, e l´aste oltre passoe,</l>
+<l>e più che mezza per forza v´entroe.</l></lg>
+
+<lg type="ottava"><head>113</head>
+<l>Mensola allor fu lieta di quel tratto,</l>
+<l>che non aveva il giovane ferito,</l>
+<l>perché già Amor l´avea del cor tratto</l>
+<l>ogni crudel pensiero, e fatto ´nvito;</l>
+<l>non però ch´ella aspettarlo a niun patto</l>
+<l>più lo volesse, o pigliasse partito</l>
+<l>d´esser con lui, ma lieta saria stata</l>
+<l>di non esser da lui più seguitata.</l></lg>
+
+<lg type="ottava"><head>114</head>
+<l>E poi da capo a fuggir cominciava</l>
+<l>velocissimamente, poi che vide</l>
+<l>che ´l giovinetto pur la seguitava</l>
+<l>con ratti passi e con prieghi e con gride;</l>
+<l>per ch´ella innanzi a lui si dileguava,</l>
+<l>e grotte e balzi passando ricide,</l>
+<l>e ´n sul gran colle del monte pervenne,</l>
+<l>dove sicura ancor non vi si tenne.</l></lg>
+
+<lg type="ottava"><head>115</head>
+<l>Ma di là passa molto tostamente,</l>
+<l>dove la piaggia d´alberi era spessa,</l>
+<l>e sì di fronde folta, che niente</l>
+<l>vi si scorgeva dentro: per che messa</l>
+<l>si fu la ninfa là tacitamente,</l>
+<l>e come fosse uccel, così rimessa</l>
+<l>nel folto bosco fu, tra verdi fronde</l>
+<l>di bei querciuol, che lei cuopre e nasconde.</l></lg>
+
+<lg rend="italic"><l>Africo qui nell'amor si raccese</l>
+<l>quando il parlare di Mensola intese.</l></lg>
+
+<lg type="ottava"><head>116</head>
+<l>Diciamo un poco d´Africo, che, quando</l>
+<l>vide il lanciar che la ninfa avea fatto,</l>
+<l>alquanto sbigottì, ma poi ascoltando</l>
+<l>il gridar «Guarti guarti» con un atto</l>
+<l>assai pietoso verso lui mostrando</l>
+<l>con la luce degli occhi, che ´n un tratto</l>
+<l>gli ferì ´l core e fecel più bramoso</l>
+<l>di seguitarla, e più volonteroso.</l></lg>
+
+<lg type="ottava"><head>117</head>
+<l>E come fa ´l tizzon ch´è presso a spento,</l>
+<l>e sol rimasa v´è una favilla,</l>
+<l>ma poi che sente il gran soffiar del vento,</l>
+<l>per forza il foco fuor d´esso ne squilla,</l>
+<l>e diventa maggior per ognun cento;</l>
+<l>tal Africo sentì, quando sentilla</l>
+<l>a lui parlar con sì pietosa boce,</l>
+<l>maggiore ´l foco che lo ´ncende e coce.</l></lg>
+
+<lg type="ottava"><head>118</head>
+<l>E gridò forte: – Ora volesse Giove,</l>
+<l>poi che tu vuo´, che tu m´avessi morto</l>
+<l>a questo tratto, acciò che le tue pruove</l>
+<l>fosson compiute, avendomi al cor porto</l>
+<l>l´aguto ferro, il qual percosse altrove;</l>
+<l>e come che tu abbia di ciò ´l torto,</l>
+<l>i´ pur sare´ contento d´esser fore,</l>
+<l>per le tue man, delle fiamme d´Amore. –</l></lg>
+
+<lg rend="italic"><l>Ismarrisce Africo Mensola; torna</l>
+<l>a casa e dice si sente gran duolo; </l>
+<l>duolsi di Vener e Amor suo figliuolo,</l>
+<l>po´ s´adormenta in sul suo letticciuolo.</l></lg>
+
+<lg type="ottava"><head>119</head>
+<l>Appena avea finito il suo parlare</l>
+<l>Africo, quando Mensola giugnea</l>
+<l>in sul gran monte, e videla passare</l>
+<l>dall´altra parte, e più non la vedea;</l>
+<l>onde di ciò molto mal gliene pare,</l>
+<l>perch´ella innanzi a lui tal campo avea</l>
+<l>ch´e´ temea forte che lei di veduta,</l>
+<l>com´egli avvenne, non aver perduta.</l></lg>
+
+<lg type="ottava"><head>120</head>
+<l>E lassù giunto dopo molto affanno,</l>
+<l>gli occhi a mirar di lei subito pone;</l>
+<l>e come i cacciatori spesso fanno</l>
+<l>quando levata s´è la cacciagione,</l>
+<l>e di veduta poi perduta l´hanno,</l>
+<l>con la testa alta vanno baloccone,</l>
+<l>correndo or qua or là, or fermi stando,</l>
+<l>e come smemorati dimorando;</l></lg>
+
+<lg type="ottava"><head>121</head>
+<l>tal Africo faceva in sul gran monte,</l>
+<l>di lei mirando con alzato volto,</l>
+<l>e con le man si percotea la fronte,</l>
+<l>e di fortuna ria si dolea molto,</l>
+<l>che già gli aveva fatte dimolte onte;</l>
+<l>e poi ne giva verso il bosco folto,</l>
+<l>poi ritornava indietro e dicea: «Forse</l>
+<l>ch´ella da questa mano il cammin torse».</l></lg>
+
+<lg type="ottava"><head>122</head>
+<l>E tosto là, correndo, se n´andava,</l>
+<l>se vederla potesse in nessun lato,</l>
+<l>e poi che non la vede, ritornava</l>
+<l>in altro loco, molto addolorato;</l>
+<l>e poi ch´andata fosse s´avvisava</l>
+<l>da un´altra parte, ma ´l pensier fallato</l>
+<l>tuttavia li venìa, onde che farsi</l>
+<l>e´ non sapea, né dove più cercarsi.</l></lg>
+
+<lg type="ottava"><head>123</head>
+<l>E ben dicea fra sé: «Forse costei</l>
+<l>in questo bosco grande s´è nascosa;</l>
+<l>e s´ella v´è, mai non la troverei,</l>
+<l>se menar non vedessi alcuna cosa,</l>
+<l>e più d´un mese cercar ne potrei</l>
+<l>la piaggia tutta per le fronde ombrosa;</l>
+<l>e non ci veggio donde entrata sia,</l>
+<l>né fatta per lo bosco alcuna via.</l></lg>
+
+<lg type="ottava"><head>124</head>
+<l>Né ´l cor giammai mi dare´ d´avvisare</l>
+<l>in qual parte sia ita, tante sono</l>
+<l>le vie dond´ella se ne puote andare:</l>
+<l>e se a cercar di lei più m´abandono,</l>
+<l>per avventura il contrario cercare</l>
+<l>potre´ dov´ella fosse, onde tal dono,</l>
+<l>chente aver mi parea, non prender mai,</l>
+<l>ond´io rimaso son con molti guai.</l></lg>
+
+<lg type="ottava"><head>125</head>
+<l>Né so s´io me ne vo, né s´io m´aspetti</l>
+<l>se riuscir la veggio in nessun lato,</l>
+<l>benché sì folti son questi boschetti,</l>
+<l>che vi staria a cavallo un uom celato</l>
+<l>sanza d´esser veduto aver sospetti;</l>
+<l>e pognàn pur ch´ella uscisse d´aguato:</l>
+<l>più ch´un buon mezzo miglio di lontano</l>
+<l>da me uscirebbe, ond´io correrei ´nvano».</l></lg>
+
+<lg type="ottava"><head>126</head>
+<l>E poi guardò il sol, che presso all´ora</l>
+<l>di nona era venuto, onde dicea:</l>
+<l>«Poi che io son d´ogni speranza fora</l>
+<l>d´aver colei, la qual i´ mi credea,</l>
+<l>i´ non vo´ più quinci oltre far dimora»,</l>
+<l>tornandogli a memoria quel ch´avea</l>
+<l>raccontatogli il padre, il dì davanti,</l>
+<l>come fûr morti insieme i due amanti.</l></lg>
+
+<lg type="ottava"><head>127</head>
+<l>Dall´altra parte Amor gli facea dire:</l>
+<l>«I´ non curo Diana, pur che io</l>
+<l>sol una volta empiessi il mio disire,</l>
+<l>ché poi contento sarebbe il cor mio;</l>
+<l>e se mi convenisse poi morire,</l>
+<l>n´andre´ contento ringraziando Iddio;</l>
+<l>ma di lei più che di me mi dorrebbe:</l>
+<l>s´ella morisse per me, mal sarebbe».</l></lg>
+
+<lg type="ottava"><head>128</head>
+<l>Cota´ ragionamenti rivolgendo</l>
+<l>Africo in sé, vi dimorò gran pezza,</l>
+<l>né che si far né che dir non sappiendo,</l>
+<l>tanto Amor lo lusinga e sì l´avvezza;</l>
+<l>e nella fin pur partito prendendo,</l>
+<l>che, per non dar al padre suo gramezza,</l>
+<l>d´a casa ritornar contro a sua voglia;</l>
+<l>così si mise in via con molta doglia.</l></lg>
+
+<lg type="ottava"><head>129</head>
+<l>Così sen torna Africo malcontento,</l>
+<l>rivolgendosi indietro ad ogni passo,</l>
+<l>istando sempre ad ascoltare attento</l>
+<l>se Mensola vedea, dicendo: «Lasso</l>
+<l>a me tapino, in quanto rio tormento</l>
+<l>rimango, e d´ogni ben privato e casso!».</l>
+<l>E – Tu rimani, o Mensola? – chiamando,</l>
+<l>più e più volte indietro ritornando.</l></lg>
+
+<lg type="ottava"><head>130</head>
+<l>Molto sarebbe lungo chi volesse</l>
+<l>le volte raccontar che e´ tornava</l>
+<l>indietro e innanzi, tant´erano spesse,</l>
+<l>per ogni foglia che si dimenava;</l>
+<l>e quanta doglia dentro al cor avesse,</l>
+<l>ognuno il pensi, e quanto gli gravava</l>
+<l>di partir quindi; ma per dir più brieve,</l>
+<l>a casa si tornò con pena grieve.</l></lg>
+
+<lg type="ottava"><head>131</head>
+<l>Alla qual giunto, in camera ne gìa</l>
+<l>sanza da padre o madre esser veduto,</l>
+<l>e ´n sul suo picciol letto si ponia,</l>
+<l>sentendosi già al cor esser venuto</l>
+<l>Cupìdo, il qual già sì forte ´l feria,</l>
+<l>che volentieri arebbe allor voluto,</l>
+<l>morendo, uscir di tanta pena e noia,</l>
+<l>veggendosi privato di tal gioia.</l></lg>
+
+<lg type="ottava"><head>132</head>
+<l>E tutto steso in sul letto bocconi,</l>
+<l>Africo sospirando dimorava;</l>
+<l>e sì lo punson gli amorosi sproni,</l>
+<l>che – Omè, omè – per tre volte gridava</l>
+<l>sì forte, ch´agli orecchi que´ sermoni</l>
+<l>della sua madre vennon, che si stava</l>
+<l>´n un orticello allato alla casetta,</l>
+<l>e ciò udendo in casa corse in fretta.</l></lg>
+
+<lg type="ottava"><head>133</head>
+<l>E nella cameretta ne fu andata,</l>
+<l>del suo figliuol la boce conoscendo,</l>
+<l>e giunta là, si fu maravigliata,</l>
+<l>il suo figliuol boccon giacer veggendo;</l>
+<l>per che con boce rotta e sconsolata</l>
+<l>lui abbracciò, – Caro figliuol, – dicendo –</l>
+<l>deh, dimmi la cagion del tuo dolere,</l>
+<l>e donde vien cotanto dispiacere.</l></lg>
+
+<lg type="ottava"><head>134</head>
+<l>Deh, dimmel tosto, caro figliuol mio,</l>
+<l>dove ti senti la pena e ´l dolore,</l>
+<l>sì che io possa, medicandoti io,</l>
+<l>cacciar da te ogni doglia di fore;</l>
+<l>deh, leva ´l capo, dolce mio disio,</l>
+<l>ed un poco mi parla per mio amore:</l>
+<l>i´ son la madre tua che t´allattai,</l>
+<l>e nove mesi in corpo ti portai. –</l></lg>
+
+<lg type="ottava"><head>135</head>
+<l>Africo, udendo quivi esser venuta</l>
+<l>la sua tenera madre, fu cruccioso</l>
+<l>perch´ella s´era di lui avveduta;</l>
+<l>ma fatto già per amor malizioso,</l>
+<l>tosto nel cor gli fu scusa caduta,</l>
+<l>e ´l capo alzò col viso lagrimoso,</l>
+<l>e disse: – Madre mia, quando tornava,</l>
+<l>istaman, caddi, e tutto mi fiaccava.</l></lg>
+
+<lg type="ottava"><head>136</head>
+<l>Poi mi rizzai, e rimasemi al fianco</l>
+<l>una gran doglia, ch´appena tornare</l>
+<l>potei ´nfin qui, e divenni sì stanco</l>
+<l>che sopra me non pote´ dimorare,</l>
+<l>ma come neve al sol veniva manco;</l>
+<l>per ch´io mi venni in sul letto a posare,</l>
+<l>e parmi alquanto la doglia ita via,</l>
+<l>che prima tanto forte m´impedia.</l></lg>
+
+<lg type="ottava"><head>137</head>
+<l>E però, madre mia, se tu m´hai caro,</l>
+<l>ti priego che di qui facci partenza,</l>
+<l>e, per Dio, questo non ti sia discaro,</l>
+<l>ché ´l favellar mi dà gran penitenza,</l>
+<l>né veggio alla mia doglia altro riparo;</l>
+<l>or te ne va´, sanza più resistenza</l>
+<l>far al mio dir, ché per certo conosco</l>
+<l>che ´l più parlar m´è velenoso tòsco. –</l></lg>
+
+<lg type="ottava"><head>138</head>
+<l>E questo detto, il capo giù ripose,</l>
+<l>sanza più dir, ma forte sospirando.</l>
+<l>La madre, avendo udito queste cose,</l>
+<l>con seco venne alquanto ripensando,</l>
+<l>dicendo: «E´ mi s´accosta che gravose</l>
+<l>e maggior pena gli sia favellando,</l>
+<l>ché forse gli rimbomba quella boce</l>
+<l>dove la doglia nel fianco gli nuoce».</l></lg>
+
+<lg type="ottava"><head>139</head>
+<l>E della camera uscita, in sul letto</l>
+<l>lasciò ´l figliuol pien di molti sospiri,</l>
+<l>il qual po´ che si vide esser soletto,</l>
+<l>d´Amor si dolea forte e de´ martirî,</l>
+<l>i qua´ crescean nel non usato petto</l>
+<l>con maggior forza e più caldi disiri</l>
+<l>che prima non facean, dicendo: «I´ veggio</l>
+<l>ch´Amor mi tira pur di mal in peggio.</l></lg>
+
+<lg type="ottava"><head>140</head>
+<l>I´ mi sento arder dentro tutto quanto</l>
+<l>dall´amorose fiamme, e consumare</l>
+<l>mi sento ´l petto e ´l core da ogni canto,</l>
+<l>né non mi può di questo alcuno atare,</l>
+<l>né conforto donar, poco né quanto;</l>
+<l>sol una è quella che mi può donare,</l>
+<l>s´ella volesse, aiuto e darmi pace,</l>
+<l>e di me sol può far quanto le piace.</l></lg>
+
+<lg type="ottava"><head>141</head>
+<l>E tu sola, fanciulla bionda e bella,</l>
+<l>morbida, bianca, angelica e vezzosa,</l>
+<l>con leggiadro atto e benigna favella,</l>
+<l>fresca e giuliva più che bianca rosa</l>
+<l>ed isplendente sopra ogni altra stella,</l>
+<l>se´, che mi piaci più ch´ogni altra cosa,</l>
+<l>e sola te con disidèro bramo,</l>
+<l>e giorno e notte ed ognora ti chiamo.</l></lg>
+
+<lg type="ottava"><head>142</head>
+<l>Tu se´ colei ch´alle mie pene e guai</l>
+<l>sola potresti buon rimedio porre;</l>
+<l>tu se´ colei che nelle tue mani hai</l>
+<l>la vita mia, e non la ti posso tôrre;</l>
+<l>tu se´ colei la qual, se tu vorrai</l>
+<l>me da misera morte potrai storre;</l>
+<l>tu se´ colei che mi puo´ atar, se vuoi:</l>
+<l>così volessi tu, come tu puoi!».</l></lg>
+
+<lg type="ottava"><head>143</head>
+<l>E poi diceva: «Oh me lasso dolente,</l>
+<l>che tu se´ tanto dispietata e dura,</l>
+<l>e tanto se´ selvaggia dalla gente,</l>
+<l>che hai di chi ti mira gran paura;</l>
+<l>e di mia vita non curi niente,</l>
+<l>la qual in carcer tenebrosa e scura</l>
+<l>istà per te, e tu, lasso, nol credi</l>
+<l>ch´i´ per te senta quel che tu non vedi».</l></lg>
+
+<lg type="ottava"><head>144</head>
+<l>Poi, sospirando, a Vener si volgea,</l>
+<l>dicendo: – O santa iddea, la quale suoi</l>
+<l>ogni gran forza vincer, che volea</l>
+<l>difesa far contro a li dardi tuoi,</l>
+<l>e niun da te difendersi potea,</l>
+<l>ora mi par che vincer tu non puoi</l>
+<l>una fanciulla tenera, la quale</l>
+<l>la forza tua contra lei poco vale.</l></lg>
+
+<lg type="ottava"><head>145</head>
+<l>Tu hai perduto ogni forza e valore</l>
+<l>contro di lei; e lo ´ngegno sottile,</l>
+<l>che suol aver il tuo figliuol Amore</l>
+<l>contro ad ogni cor villano e gentile,</l>
+<l>perduto l´ha contro al gelato core,</l>
+<l>il qual ogni tua forza tien a vile,</l>
+<l>e sprezza l´arco e l´agute saette</l>
+<l>che solea far con esse tue vendette.</l></lg>
+
+<lg type="ottava"><head>146</head>
+<l>Tu ti credesti forse lei pigliare</l>
+<l>agevolmente come me pigliasti</l>
+<l>e nel gelato petto tosto entrare</l>
+<l>co´ tuoi ´ngegni, come nel mio entrasti:</l>
+<l>ma ella fe´ le frecce rintuzzare</l>
+<l>con le qua´ di passarla t´ingegnasti;</l>
+<l>ed io, tapin, che non fe´ difensione,</l>
+<l>rimaso son in eterna prigione.</l></lg>
+
+<lg type="ottava"><head>147</head>
+<l>Né spero d´essa giammai riuscire,</l>
+<l>né pace aver né triegua né riposo,</l>
+<l>ma ben aspetto che maggior martìre</l>
+<l>mi cresca ognor col pensier amoroso,</l>
+<l>il qual al fin farà del corpo uscire</l>
+<l>l´anima trista con pianto noioso,</l>
+<l>e gir fra l´ombre nere a suo dispetto:</l>
+<l>e questo fia di me l´ultimo effetto.</l></lg>
+
+<lg type="ottava"><head>148</head>
+<l>Ed io ti cheggio, Morte, poi che dèi</l>
+<l>medicina esser di mia amara vita;</l>
+<l>perché contro a mia voglia viverei,</l>
+<l>se non mi dài nel cor la tua ferita,</l>
+<l>e sempre mai di te io mi dorrei,</l>
+<l>e se tu vien, sarai da me gradita;</l>
+<l>dunque, vien tosto, e scio´ questa catena,</l>
+<l>con la qual son legato in tanta pena. –</l></lg>
+
+<lg type="ottava"><head>149</head>
+<l>Poi, detto questo, forte lagrimando,</l>
+<l>si ricordò del dardo il qual lanciato</l>
+<l>gli avea la bella ninfa, e poscia quando</l>
+<l>con pietose parole avea parlato</l>
+<l>ch´egli schifasse il dardo, che volando</l>
+<l>venìa vêr lui per l´aria affusolato;</l>
+<l>quelle parole gli davan fidanza</l>
+<l>alcuna di pietà con isperanza.</l></lg>
+
+<lg type="ottava"><head>150</head>
+<l>Così piangendo e sospirando forte</l>
+<l>lo ´nnamorato giovane in sul letto,</l>
+<l>bramando vita e chiamando la morte,</l>
+<l>isperando e temendo con sospetto,</l>
+<l>lo dio del sonno uscì delle gran porte</l>
+<l>e fece adormentare il giovinetto,</l>
+<l>il qual per le fatiche era sì stanco,</l>
+<l>che quasimente venìa tutto manco.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> La tener madre, credendo che ´l duolo</l>
+<l>d´Africo fosse molto periglioso, </l>
+<l>colse certe erbe per farlo gioioso: </l>
+<l>e prestamente gli fe´ un bagnuolo.</l></lg></add></ab>
+
+<lg type="ottava"><head>151</head>
+<l>La maestrevol madre colto avea</l>
+<l>d´erbe gran quantità, per un bagnuolo</l>
+<l>far a quel mal, il qual ella credea</l>
+<l>che nel fianco sentisse il suo figliuolo,</l>
+<l>sì come quella che non conoscea</l>
+<l>onde veniva l´angoscioso duolo;</l>
+<l>e mentre che tal opera dispone,</l>
+<l>a casa ritornava Girafone.</l></lg>
+
+<lg type="ottava"><head>152</head>
+<l>Il qual del caro figlio domandava,</l>
+<l>se in quel giorno a casa era tornato.</l>
+<l>La donna, ch´Alimena si chiamava,</l>
+<l>di sì rispose, e poi gli ha raccontato</l>
+<l>il fatto tutto, e come gli gravava</l>
+<l>sì lo parlar che solo l´ha lasciato,</l>
+<l>perché si possa a suo modo posare:</l>
+<l>– Però ti priego che tu ´l lasci stare.</l></lg>
+
+<lg type="ottava"><head>153</head>
+<l>I´ ho fatto un bagnuol molto verace</l>
+<l>a quella doglia, il qual, poscia ch´alquanto</l>
+<l>riposato sarà quanto a lui piace,</l>
+<l>il bagneren´ con esso tutto quanto;</l>
+<l>questo bagnuol ogni doglia disface</l>
+<l>e sanerallo dentro in ogni canto:</l>
+<l>però lo lascia star quanto si vuole,</l>
+<l>ché quando parla, il fianco più gli duole. –</l></lg>
+
+<lg type="ottava"><head>154</head>
+<l>Il paterno amor non sofferse stare</l>
+<l>che non vedesse subito ´l figliuolo;</l>
+<l>udendo quelle cose raccontare</l>
+<l>alla sua donna, al cor sentì gran duolo,</l>
+<l>e nella cameretta volle andare,</l>
+<l>ov´Africo dormia ´n sul letticciuolo;</l>
+<l>e veggendol dormir, lo ricopria</l>
+<l>e tostamente quindi se n´uscia.</l></lg>
+
+<lg type="ottava"><head>155</head>
+<l>E disse alla sua donna: – O cara sposa,</l>
+<l>nostro figliuol mi pare adormentato,</l>
+<l>e molto ad agio in sul letto si posa,</l>
+<l>si ch´a destarlo mi parria peccato,</l>
+<l>e forse gli saria cosa gravosa,</l>
+<l>se io l´avessi del sonno isvegliato. –</l>
+<l>– E tu di´ ver, – rispondeva Alimena –</l>
+<l>lascial posar, e non gli dar più pena. –</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l>  Dormito ch´ebbe, Africo doloroso</l>
+<l>su si levò, e ´l padre domandollo</l>
+<l>e la sua madre molto confortollo; </l>
+<l>dicean: – Perché sì se´ malinconoso? –</l></lg></add></ab>
+
+<lg type="ottava"><head>156</head>
+<l>Poscia che ´l sonno ebbe Africo tenuto</l>
+<l>nelle sue reti gran pezza legato,</l>
+<l>e fu nel petto suo tutto soluto,</l>
+<l>un gran sospir gittando, fu svegliato;</l>
+<l>e poi che vide non esser veduto,</l>
+<l>nel suo primo dolor fu ritornato,</l>
+<l>e non gli era però di mente uscito</l>
+<l>il dolce sguardo che l´avea ferito.</l></lg>
+
+<lg type="ottava"><head>157</head>
+<l>Ma per non far la cosa manifesta</l>
+<l>al padre, che sentito già l´avea,</l>
+<l>su si levò faccendo sopravesta,</l>
+<l>col viso infinto, ad Amor che ´l pungea;</l>
+<l>e poi ch´alquanto il bel viso e la testa</l>
+<l>e gli occhi col lenzuol netto s´avea,</l>
+<l>perch´era ancor di lagrime bagnato,</l>
+<l>poi uscì fuori, un pochetto turbato.</l></lg>
+
+<lg type="ottava"><head>158</head>
+<l>Girafon, quando ´l vide, tostamente</l>
+<l>gli si faceva incontro, domandando</l>
+<l>del caso suo e poi come si sente;</l>
+<l>ed Alimena ancora, lui mirando,</l>
+<l>il domandava, e que´ diceva: – Niente</l>
+<l>quasi mi sento, e dicovi che, quando</l>
+<l>i´ mi destai, mi senti´ andato via</l>
+<l>la doglia che sì forte m´impedia. –</l></lg>
+
+<lg type="ottava"><head>159</head>
+<l>Nondimen fece il padre apparecchiare</l>
+<l>il bagnuol caldo perché si bagnasse:</l>
+<l>ed e´ vi si bagnò, per dimostrare</l>
+<l>ch´altra pena non fosse che ´l noiasse.</l>
+<l>O Girafon, tu nol sai medicare,</l>
+<l>e non potresti far che si saldasse</l>
+<l>con bagnuol la ferita che fe´ Amore:</l>
+<l>e non la vedi, ch´è nel mezzo al core!</l></lg>
+
+<lg type="ottava"><head>160</head>
+<l>Ma lasciàn qui che, poi che fu bagnato,</l>
+<l>passò quel giorno assai malinconoso;</l>
+<l>e l´altro e ´l terzo e ´l quarto egli ha passato</l>
+<l>con molte pene senz´alcun riposo,</l>
+<l>e già, ogni diletto abandonato,</l>
+<l>sanza mai rallegrarsi sta pensoso;</l>
+<l>né mai partiva il pensier da colei,</l>
+<l>per cui dì e notte chiamava gli omei.</l></lg>
+
+<lg type="ottava"><head>161</head>
+<l>Già padre e madre e tutt´altre faccende</l>
+<l>gli uscian di mente sanz´averne cura,</l>
+<l>né più a niuna cosa non attende,</l>
+<l>lasciandole menare alla ventura;</l>
+<l>ma ogni suo pensier in quella spende,</l>
+<l>la qual il tien in tal prigione oscura,</l>
+<l>e solo in lei ha posto ogni sua speme,</l>
+<l>e di lei ha paura, e lei sol teme.</l></lg>
+
+<lg type="ottava"><head>162</head>
+<l>Esso, quando poteva in nessun loco</l>
+<l>che veduto non fosse ritrovarsi,</l>
+<l>quivi, sfogando l´amoroso foco,</l>
+<l>dogliendosi d´Amor poneva a starsi;</l>
+<l>e sol questo era suo sollazzo e gioco,</l>
+<l>quando potea con agio lamentarsi</l>
+<l>e ricordar i casi intervenuti,</l>
+<l>ch´eran tra lui e la sua amante suti.</l></lg>
+
+<lg type="ottava"><head>163</head>
+<l>Continovando adunque in tal lamento</l>
+<l>Africo, ognora crescendogli pena,</l>
+<l>e già sì stanco l´aveva il tormento,</l>
+<l>ch´avea perduto la forza e la lena;</l>
+<l>vivea contra sua voglia, malcontento,</l>
+<l>e già sì stretto l´avea la catena</l>
+<l>d´Amor, che quasi punto non mangiava,</l>
+<l>e più di giorno in giorno lo stremava.</l></lg>
+
+<lg type="ottava"><head>164</head>
+<l>Già fuggito era il vermiglio colore</l>
+<l>del viso bello, e magro divenuto,</l>
+<l>e ´n esso già si vedea ´l palidore</l>
+<l>e gli occhi in dentro col mirar aguto;</l>
+<l>e trasformato sì l´avea il dolore,</l>
+<l>ch´appena si saria riconosciuto</l>
+<l>a quel ch´esser solea prima che preso</l>
+<l>fosse d´Amor, e dalle fiamme offeso.</l></lg>
+
+<lg type="ottava"><head>165</head>
+<l>Sì gran dolor il padre ne portava,</l>
+<l>che raccontar non vel potre´ giammai;</l>
+<l>e con parole spesso il confortava,</l>
+<l>dicendo: – Figliuol mio, dimmi che hai</l>
+<l>e che è quella cosa che ti grava:</l>
+<l>ch´i´ ti prometto che, se ´l mi dirai,</l>
+<l>pur che sia cosa che possibil sia,</l>
+<l>per certo tu l´arai in fede mia.</l></lg>
+
+<lg type="ottava"><head>166</head>
+<l>E s´ell´è cosa che non si potesse</l>
+<l>aver per forza o per ingegno umano,</l>
+<l>provederem s´altro modo ci avesse</l>
+<l>a cacciar via questo pensier villano,</l>
+<l>acciò che tanta noia non ti desse,</l>
+<l>e che tu torni, com´esser suoi, sano;</l>
+<l>e non può esser che qualche consiglio</l>
+<l>non ti doni buon, caro mio figlio. –</l></lg>
+
+<lg type="ottava"><head>167</head>
+<l>Simile ancora la sua madre cara</l>
+<l>il domandava spesso qual cagione</l>
+<l>fosse della sua vita tanto amara,</l>
+<l>che ´l conduceva a tanta turbagione,</l>
+<l>dicendo: – Figlio, tanto me discara</l>
+<l>questa tua angoscia, ch´a disperazione</l>
+<l>i´ credo venir tosto, poi ch´i´ veggio</l>
+<l>che ogni giorno vai di mal in peggio. –</l></lg>
+
+<lg type="ottava"><head>168</head>
+<l>Niun´altra cosa Africo rispondea,</l>
+<l>se non che nulla di mal si sentia,</l>
+<l>e la cagion di questo non sapea;</l>
+<l>alcuna volta pur acconsentia</l>
+<l>ch´un poco il capo o altro gli dolea,</l>
+<l>perché di più domandarlo ristia;</l>
+<l>onde più volte egli era medicato</l>
+<l>non di quel mal che saria bisognato.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l>  Africo, essendo in dolorosa vita,</l>
+<l>andando un dì coll´armento pel monte,</l>
+<l>si specchiò arrivando ad una fonte</l>
+<l>e la persona sua vide smarrita.</l></lg></add></ab>
+
+<lg type="ottava"><head>169</head>
+<l>Adunque, in cotal vita dimorando,</l>
+<l>Africo, un giorno, essendo con l´armento</l>
+<l>del suo bestiame, quind´oltre guardando,</l>
+<l>sen giva in qua e ´n là con passo lento;</l>
+<l>sempre della sua amante gìa pensando,</l>
+<l>per la qual dimorava in tal tormento;</l>
+<l>poi una fonte vide molto bella</l>
+<l>presso di lui, più chiara ch´una stella.</l></lg>
+
+<lg type="ottava"><head>170</head>
+<l>Ell´era tutta d´alber circundata,</l>
+<l>e verdi fronde che faceano ombria</l>
+<l>ad essa; e poi ch´alquanto l´ha mirata,</l>
+<l>a piè di quella a seder si ponia,</l>
+<l>pensando alla sua vita sventurata,</l>
+<l>e dove Amor condotto già l´avia;</l>
+<l>poi si specchiava nell´acqua, e pon cura</l>
+<l>quanto fatta era la sua faccia scura.</l></lg>
+
+<lg type="ottava"><head>171</head>
+<l>Per che, pietà di se stesso gli venne,</l>
+<l>veggendosi sì forte sfigurato,</l>
+<l>e le lagrime punto non ritenne,</l>
+<l>ma forte a pianger ch´egli ha cominciato,</l>
+<l>maladicendo ciò che gl´intervenne</l>
+<l>il primo giorno che fu ´nnamorato,</l>
+<l>dicendo: «Lasso a me, a che periglio</l>
+<l>veggio la vita mia sanza consiglio!».</l></lg>
+
+<lg type="ottava"><head>172</head>
+<l>E con la man la gota sostenendo,</l>
+<l>in sul ginocchio il gomito posava,</l>
+<l>e sì diceva, tuttavia piangendo:</l>
+<l>«Oh me dolente, la mia vita prava!</l>
+<l>ch´ella si va come neve struggendo</l>
+<l>al sol, tanto questa doglia la grava,</l>
+<l>e come legno al fuoco mi divampo,</l>
+<l>né veggio alcun riparo allo mio scampo.</l></lg>
+
+<lg type="ottava"><head>173</head>
+<l>Io non posso fuggir che io non ami</l>
+<l>questa crudel fanciulla che m´ha preso</l>
+<l>il cor, e ch´io non lei sempre ma´ brami</l>
+<l>sopra ogni cosa; e poi veggio ch´offeso</l>
+<l>i´ son sì forte da questi legami,</l>
+<l>che giorno e notte i´ sto in foco acceso,</l>
+<l>sanza speranza d´uscirne giammai,</l>
+<l>se morte non pon fine a questi guai».</l></lg>
+
+<lg type="ottava"><head>174</head>
+<l>E poi, guardando, vide nel suo armento</l>
+<l>le belle vacche e´ giovenchi scherzare;</l>
+<l>vedea ciascuno il suo amor far contento,</l>
+<l>e l´un con l´altro si vedea baciare;</l>
+<l>sentia gli uccei con dolce cantamento</l>
+<l>ed amorosi versi rallegrare,</l>
+<l>e gir l´un dietro all´altro sollazzando,</l>
+<l>e gli amorosi effetti gir pigliando.</l></lg>
+
+<lg type="ottava"><head>175</head>
+<l>Africo, questo veggendo, dicea:</l>
+<l>«O felici animai, quanto voi sete</l>
+<l>più di me amici di Venere iddea,</l>
+<l>e quanto i vostri amor più lieti avete,</l>
+<l>e con maggior piacer ch´i´ non credea,</l>
+<l>e quanto più di me lodar dovete</l>
+<l>or de´ vostri amori e bei piaceri,</l>
+<l>ch´e´ v´ha prestati sì compiuti e ´nteri!</l></lg>
+
+<lg type="ottava"><head>176</head>
+<l>Voi ne cantate e menatene gioia,</l>
+<l>manifestando la vostra allegrezza,</l>
+<l>ed io ne piango con tormento e noia,</l>
+<l>e giorno e notte menando gramezza,</l>
+<l>e veggio pur ch´al fin convien ch´i´ muoia:</l>
+<l>così mi liberrò d´ogni gravezza,</l>
+<l>sanz´aver mai avuto alcun diletto,</l>
+<l>di quella che m´ha ´l cor tanto costretto!».</l></lg>
+
+<lg type="ottava"><head>177</head>
+<l>E dopo un gran sospir, sì fortemente</l>
+<l>a pianger cominciava il giovinetto,</l>
+<l>e le lagrime sì abondevolmente</l>
+<l>gli uscian degli occhi, che le guance e ´l petto</l>
+<l>parevan fatte un fiumicel corrente</l>
+<l>tant´era dalla gran doglia costretto;</l>
+<l>poi nella fonte bella si specchiava,</l>
+<l>e con l´ombra di se stesso parlava.</l></lg>
+
+<lg type="ottava"><head>178</head>
+<l>Poi che si fu con lei molto doluto,</l>
+<l>e la fonte di lagrime ripiena,</l>
+<l>e molti pensier vari avendo avuto,</l>
+<l>alquanto di più pianger si raffrena,</l>
+<l>per un pensier che nel cor gli è venuto</l>
+<l>ch´alquanto mitigò la grieve pena,</l>
+<l>tornandogli a memoria la speranza,</l>
+<l>che gli diè Vener sopra sua leanza.</l></lg>
+
+<lg type="ottava"><head>179</head>
+<l>Ma veggendo l´effetto non venire</l>
+<l>di tal promessa, e sé condotto a tale</l>
+<l>che ´n brieve tempo gli convien morire,</l>
+<l>disse: «Forse che Vener, del mio male</l>
+<l>non si ricorda, né del mio martire,</l>
+<l>né vede come morte ria m´assale».</l>
+<l>Per che, con sacrificio ed onor farle,</l>
+<l>propose la ´mpromessa rammentarle.</l></lg>
+
+<lg type="ottava"><head>180</head>
+<l>E ´n piè levato, se ne giva in parte,</l>
+<l>donde vedeva il ciel meglio scoperto:</l>
+<l>e quivi, con fucile e con su´ arte,</l>
+<l>il foco accese molto chiaro e aperto,</l>
+<l>e poi con un coltel taglia e diparte</l>
+<l>dimolte legne, e ´l foco n´ha coperto;</l>
+<l>e ratto poi prese una pecorella</l>
+<l>del suo armento, molto grassa e bella.</l></lg>
+
+<lg type="ottava"><head>181</head>
+<l>E quella presa, la condusse al foco</l>
+<l>e quivi tra le gambe la si mise,</l>
+<l>e come que´ che ben sapeva il gioco,</l>
+<l>nella gola ferendola l´uccise,</l>
+<l>e ´l sangue uscendo fuori a poco a poco</l>
+<l>sopra ´l foco lo sparse; e poi divise</l>
+<l>la pecorella, e duo parti n´ha fatto,</l>
+<l>e nel foco la mise molto ratto.</l></lg>
+
+<lg type="ottava"><head>182</head>
+<l>L´una parte per Mensola vi misse,</l>
+<l>l´altra in suo nome volle che v´ardesse,</l>
+<l>per veder se miracol n´avenisse</l>
+<l>per lo quale speranza ne prendesse,</l>
+<l>o buona o rea, pur che ella venisse,</l>
+<l>acciò sapesse che sperar dovesse;</l>
+<l>e poi si mise in terra ginocchione,</l>
+<l>faccendo a Vener cotale orazione:</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> A Venere fa Africo orazione;</l>
+<l>raccomandasi a lei divotamente</l>
+<l>che in suo aiuto sia liberamente,</l>
+<l>sì come ha fatto a molte altre persone.</l></lg></add></ab>
+
+<lg type="ottava"><head>183</head>
+<l>– O santa iddea, la cui forza e valore</l>
+<l>ogni altra passa mondana e celesta,</l>
+<l>o Vener bella, col tuo figlio Amore,</l>
+<l>che fere i cori e gli animi molesta,</l>
+<l>a te ricorro con divoto core,</l>
+<l>sì come quella c´hai in tua podesta</l>
+<l>il cor di tutti, ché questo mio priego</l>
+<l>degni ascoltar, e non mi facci niego.</l></lg>
+
+<lg type="ottava"><head>184</head>
+<l>Tu sai, iddea, come agevolmente</l>
+<l>i´ mi lascia´ pigliar al tuo figliuolo,</l>
+<l>il giorno che Diana parimente</l>
+<l>vidi alla fonte con l´adorno stuolo</l>
+<l>delle sue ninfe, e come tostamente</l>
+<l>nel cor sentii delle tue frecce il duolo,</l>
+<l>per una ch´io vi vidi tanto bella</l>
+<l>che sempre poi m´è stata nel cor quella.</l></lg>
+
+<lg type="ottava"><head>185</head>
+<l>E quanti sien poi stati i miei martiri,</l>
+<l>ch´i´ ho per lei patiti e sostenuti,</l>
+<l>e l´angosciose pene ed i sospiri,</l>
+<l>assai ben chiar gli puo´ aver conosciuti;</l>
+<l>e quanto la fortuna a´ miei disiri</l>
+<l>contraria è stata, posson esser suti</l>
+<l>ver testimoni i boschi tutti quanti</l>
+<l>di questa valle, sì gli ho pien di pianti!</l></lg>
+
+<lg type="ottava"><head>186</head>
+<l>Ancora il viso mio assai palese</l>
+<l>fa manifesto come la mia vita</l>
+<l>è stata e sta ancora in fiamme accese,</l>
+<l>e che tosto morendo fia finita,</l>
+<l>e fuor di tutte quante le tue offese,</l>
+<l>se prima la tua forza non l´aita;</l>
+<l>e se non pon´ rimedio alla mia pena,</l>
+<l>morte mi scioglierà di tal catena.</l></lg>
+
+<lg type="ottava"><head>187</head>
+<l>Tu prima fosti che principio desti</l>
+<l>alla mia angoscia, e che in visione</l>
+<l>venendo a me col tuo figliuol, dicesti</l>
+<l>ch´io seguissi la mia oppinione;</l>
+<l>e detto questo, poi mi promettesti,</l>
+<l>come tu sai, che sanza tardagione,</l>
+<l>che tosto il mio amor verria in effetto;</l>
+<l>poi mi lasciasti ferito in sul letto.</l></lg>
+
+<lg type="ottava"><head>188</head>
+<l>Per che del tuo parlar presi speranza,</l>
+<l>e l´animo disposi ad amar quella</l>
+<l>avendo in te di ciò ferma fidanza</l>
+<l>ed un giorno trovandola, quand´ella</l>
+<l>mi vide, di me prese gran dottanza,</l>
+<l>ed a fuggir si diè crudele e fella,</l>
+<l>e sì veloce che una saetta,</l>
+<l>quand´esce d´arco, non va tanto in fretta.</l></lg>
+
+<lg type="ottava"><head>189</head>
+<l>Né mai pote´, con lusinghe o preghiera,</l>
+<l>far ch´ella mai aspettar mi volesse,</l>
+<l>ma com´un veltro se ne gìa leggiera,</l>
+<l>mostrando ben che poco le calesse</l>
+<l>della mia vita; e poi ardita e fera,</l>
+<l>veggendo ch´a seguirla aveva messe</l>
+<l>tutte mie forze, si volse, ed un dardo</l>
+<l>ver me lanciò col bel braccio gagliardo.</l></lg>
+
+<lg type="ottava"><head>190</head>
+<l>Allor potestù ben vedere, o dea,</l>
+<l>che morto da quel colpo saria stato,</l>
+<l>se un albero non fosse, il qual avea</l>
+<l>davanti a me, che ´l colpo ebbe arestato.</l>
+<l>Poi passò ´l monte, e più non la vedea,</l>
+<l>lasciando me tapino e sconsolato;</l>
+<l>né pote´ poi ritrovarla giammai,</l>
+<l>ond´io rimaso son con molti guai.</l></lg>
+
+<lg type="ottava"><head>191</head>
+<l>Ond´io ti priego, iddea, per tutti i prieghi</l>
+<l>che far si posson per l´umana gente,</l>
+<l>ch´un poco gli occhi tuoi verso me pieghi,</l>
+<l>e mira la mia vita aspra e dolente</l>
+<l>pietosamente, e che nel cor tu leghi</l>
+<l>di Mensola il tuo figlio strettamente,</l>
+<l>sì ch´a lei facci come a me sentire</l>
+<l>le fiaccole amorose col martìre.</l></lg>
+
+<lg type="ottava"><head>192</head>
+<l>E se tu questo non volessi fare,</l>
+<l>ti priego almen che, quando la mia vita</l>
+<l>verrà a morte, che poco più stare</l>
+<l>potrà che le converrà far partita</l>
+<l>di questo mondo e ´l corpo abandonare,</l>
+<l>che la mia amante veggia mia finita,</l>
+<l>e che la morte mia non le sia gioia</l>
+<l>almen, poi che la vita mia l´è noia. –</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Miracol vide della pecorella</l>
+<l>Africo, di che, preso gran conforto,</l>
+<l>e´ ringraziò Venere iddea bella.</l></lg></add></ab>
+
+<lg type="ottava"><head>193</head>
+<l>A pena avea finita l´orazione</l>
+<l>Africo, quando, nel foco mirando,</l>
+<l>vide che ´n esso era arso ogni tizzone,</l>
+<l>e che la pecorella, su levando,</l>
+<l>l´una parte con l´altra s´accozzone,</l>
+<l>come fu mai, e poi, forte belando,</l>
+<l>sanz´arder punto stette ritta un poco,</l>
+<l>e poi, ardendo, ricadde nel foco.</l></lg>
+
+<lg type="ottava"><head>194</head>
+<l>Questo miracol donò gran conforto</l>
+<l>ad Africo ch´ancora lagrimava,</l>
+<l>parendogli vedere assai iscorto,</l>
+<l>che Vener l´orazion sua accettava,</l>
+<l>la qual divotamente l´avea porto;</l>
+<l>per che sovente la dea ringraziava,</l>
+<l>parendogli il miracol buon segnale</l>
+<l>da dover aver fine omai ´l suo male.</l></lg>
+
+<lg type="ottava"><head>195</head>
+<l>E perché già il sol era calato</l>
+<l>in occidente, e poco si vedea,</l>
+<l>tutto l´armento suo ebbe adunato,</l>
+<l>e ´nverso il suo ostello il conducea,</l>
+<l>dove, nel volto assai più che l´usato</l>
+<l>e nella vista allegro, vi giugnea,</l>
+<l>e dove fu dal padre suo raccolto</l>
+<l>e dalla madre ancor con lieto volto.</l></lg>
+
+<lg type="ottava"><head>196</head>
+<l>Ma poi che nel ciel già tutte le stelle</l>
+<l>si vedean e la notte era venuta,</l>
+<l>cenaron tutti, e dopo assai novelle</l>
+<l>d´una cosa e d´un´altra intervenuta,</l>
+<l>Africo, ch´avea poco il core a quelle,</l>
+<l>la stanza quivi gli era rincresciuta;</l>
+<l>per che a dormir s´andò tutto soletto,</l>
+<l>da speranza e pensier nuovi costretto.</l></lg>
+
+<lg type="ottava"><head>197</head>
+<l>Ma prima che dormir punto potesse,</l>
+<l>o che sonno gli entrasse nella testa,</l>
+<l>migliaia di volte credo si volgesse</l>
+<l>pel letticciuol, d´altra parte or da questa,</l>
+<l>mostrando ben che tutto il core avesse</l>
+<l>fisso a colei che tanto lo molesta;</l>
+<l>ma pure, atato forte da speranza,</l>
+<l>del sì e del no stava in dubitanza.</l></lg>
+
+<lg type="ottava"><head>198</head>
+<l>Pur alla fine, già press´al mattino,</l>
+<l>il sonno vinse gli occhi dell´amante:</l>
+<l>e leggiermente dormendo supino,</l>
+<l>Venere iddea gli venne davante,</l>
+<l>e ´n collo avea Amor, picciol fantino,</l>
+<l>con l´arco e le saette minacciante;</l>
+<l>poi gli pareva che Venere iddea</l>
+<l>cota´ parole verso lui dicea:</l></lg>
+
+<lg type="ottava"><head>199</head>
+<l>– Lo sacrificio tuo e l´orazione</l>
+<l>che mi facesti fu da me accettata,</l>
+<l>per modo che n´arai buon guiderdone</l>
+<l>da me, di quel che fu´ da te pregata:</l>
+<l>ed abbi certa e ferma oppinione</l>
+<l>che la mia forza non ti fia negata</l>
+<l>in tuo aiuto e quella del mio figlio,</l>
+<l>se tu seguir vorrai il mio consiglio.</l></lg>
+
+<lg type="ottava"><head>200</head>
+<l>Fatti una vesta fatta in tale stile</l>
+<l>ch´ella sia larga e lunga insino a´ piedi,</l>
+<l>tutta ritratta ad atto feminile;</l>
+<l>poi d´un arco e d´un dardo ti provedi,</l>
+<l>a modo d´una ninfa tutto umile;</l>
+<l>poi ti metti a cercar se tu la vedi.</l>
+<l>Tu parrai, come lor, ninfa per certo,</l>
+<l>se tu saprai con lor andar coperto.</l></lg>
+
+<lg type="ottava"><head>201</head>
+<l>E se tu truovi Mensola, con lei</l>
+<l>piacevolmente a parlare enterrai</l>
+<l>di cose sante e di cose d´iddei,</l>
+<l>e con lei ragionando ti starai.</l>
+<l>E perché sappi ben ciò che far déi,</l>
+<l>questo mio figlio nel cor tu arai,</l>
+<l>e ben t´insegnerà dire ogni cosa</l>
+<l>che fia a lei piacente e graziosa.</l></lg>
+
+<lg type="ottava"><head>202</head>
+<l>E quando ´l tempo ti vedi più bello,</l>
+<l>e tu a lei allor ti manifesta:</l>
+<l>ella si fuggirà, sì come uccello</l>
+<l>seguito dal falcon per la foresta,</l>
+<l>ma fa´ che tu non fossi tanto fello</l>
+<l>che, quando ti palesi, ella più presta</l>
+<l>fosse a fuggir che tu presto a pigliarla:</l>
+<l>che non ti varria poi più lo ´ngannarla.</l></lg>
+
+<lg type="ottava"><head>203</head>
+<l>Non temer di sforzarla, ché ´l mio figlio</l>
+<l>la ferirà in tal modo e tal maniera</l>
+<l>che non potrà uscir del tuo artiglio,</l>
+<l>e di lei arai ogni tua voglia intera.</l>
+<l>Or fa´ che tu t´attenga al mio consiglio,</l>
+<l>e adempierai ciò che ´l tuo disio spera. –</l>
+<l>E poi sparì, quand´Africo sentissi,</l>
+<l>ch´era già dì, e tosto rivestissi.</l></lg>
+
+<lg type="ottava"><head>204</head>
+<l>E come que´ che molto ben avea</l>
+<l>la vision di Venere compresa,</l>
+<l>e molto questo modo gli piacea,</l>
+<l>onde si fu allor la fiamma accesa</l>
+<l>più nel suo core, sì che tutto ardea</l>
+<l>per la speranza che già n´avea presa:</l>
+<l>per che pensava come aver potesse</l>
+<l>una gonnella, la qual si mettesse.</l></lg>
+
+<lg type="ottava"><head>205</head>
+<l>Ma dopo assai pensar, si ricordava</l>
+<l>che la sua madre aveva un bel vestire,</l>
+<l>il qual non mai o poco lo portava,</l>
+<l>e fra sé disse: «S´i´´l posso carpire,</l>
+<l>ottimo fia»; poi la madre aspettava,</l>
+<l>se fuor di casa la vedesse uscire,</l>
+<l>per quel vestir in tal parte riporre</l>
+<l>che d´imbolìo non l´avesse più a tòrre.</l></lg>
+
+<lg type="ottava"><head>206</head>
+<l>E fugli assai in questo la fortuna</l>
+<l>favorevole e buona: ché, già sendo</l>
+<l>ispenti tutti i raggi della luna</l>
+<l>e delle stelle, e già ´l giorno venendo,</l>
+<l>si levò Girafone, e sanza alcuna</l>
+<l>stanza quivi, fuori di casa uscendo,</l>
+<l>dandosi a fare certi suoi lavori;</l>
+<l>così la donna ancor s´uscì di fuori.</l></lg>
+
+<lg type="ottava"><head>207</head>
+<l>Africo non fu lento a questo tratto,</l>
+<l>veggendo ognun di lor di fuor andato;</l>
+<l>ma dov´era il vestire n´andò ratto,</l>
+<l>e, sanza cercar troppo, l´ha trovato;</l>
+<l>e ben gli venne ciò che volea fatto,</l>
+<l>ché, sanz´esser veduto, l´ha portato</l>
+<l>fuor dalla casa un gran pezzo lontano,</l>
+<l>e nascoselo in luogo molto strano.</l></lg>
+
+<lg type="ottava"><head>208</head>
+<l>Poi verso casa faccendo ritorno,</l>
+<l>gli pareva il suo avviso aver fornito,</l>
+<l>né però metter si volle quel giorno</l>
+<l>a Mensola trovar, ma ´n casa gito</l>
+<l>ritrovò tosto un suo bell´arco adorno,</l>
+<l>ed un turcasso a saette guernito,</l>
+<l>e d´ogni cosa si fu proveduto.</l>
+<l>Passò quel giorno, e l´altro fu venuto.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> La vesta bianca Africo si mette</l>
+<l>e verso ´l monte ne va isperando,</l>
+<l>e vede ninfe le qua´ van cacciando</l>
+<l>un porco: Africo il fier con sue saette.</l></lg></add></ab>
+
+<lg type="ottava"><head>209</head>
+<l>Febo era già, co´ veloci cavalli,</l>
+<l>col fin di Leo venuto in oriente,</l>
+<l>e già faceva gli alti monti gialli,</l>
+<l>e rosseggiava l´aria in occidente,</l>
+<l>ma non luceva ancor per tutte valli,</l>
+<l>quand´Africo, levato prestamente,</l>
+<l>l´arco e ´l turcasso prese, e fuor si caccia</l>
+<l>alla madre dicendo: – I´ vo alla caccia. –</l></lg>
+
+<lg type="ottava"><head>210</head>
+<l>E dove il dì d´innanzi aveva messo</l>
+<l>il vestir della madre ne fu gito,</l>
+<l>e quivi giunto, i panni di lui stesso</l>
+<l>si trasse, e tosto quel s´ebbe vestito</l>
+<l>e una vitalba si cinse sopr´esso,</l>
+<l>per poter esser più presto e spedito;</l>
+<l>e certamente che Vener l´atava</l>
+<l>acconciar quel vestir, sì ben gli stava.</l></lg>
+
+<lg type="ottava"><head>211</head>
+<l>Po´ i suoi capelli, non già pettinati,</l>
+<l>pendean in giù con non troppa grandezza,</l>
+<l>ma biondi sì che d´or parean filati,</l>
+<l>e ricciutelli con somma bellezza;</l>
+<l>ma come che, per gli affanni passati,</l>
+<l>nel viso avesse ancor la palidezza,</l>
+<l>pur nondimen, quel color era tale</l>
+<l>che più gli dava feminil segnale.</l></lg>
+
+<lg type="ottava"><head>212</head>
+<l>E poi che s´ebbe acconcio in tal maniera,</l>
+<l>il turcasso si cinse al destro lato,</l>
+<l>e l´arco in mano, e una freccia leggiera;</l>
+<l>e poi ch´alquanto sé ebbe mirato,</l>
+<l>gli parve essere quel ched e´ non era,</l>
+<l>e femina di maschio trasmutato.</l>
+<l>E certo chi non l´avesse saputo,</l>
+<l>per maschio non l´arìa mai conosciuto.</l></lg>
+
+<lg type="ottava"><head>213</head>
+<l>Poscia i suoi panni in quel loco rimise,</l>
+<l>donde ´l vestir feminile avea tratto;</l>
+<l>poi verso i monti fiesolan si mise</l>
+<l>così acconcio, non già troppo ratto,</l>
+<l>e molte fiere in questo mezzo uccise,</l>
+<l>prima che su fosse salito affatto;</l>
+<l>ma poi che fu in sul monte maggiore</l>
+<l>de´ tre, sentì di là un gran romore.</l></lg>
+
+<lg type="ottava"><head>214</head>
+<l>Africo, vòlto verso quelle stride,</l>
+<l>vide più ninfe ind´oltre gir cacciando</l>
+<l>ed accennar vêr lui con alte gride:</l>
+<l>– Sta´ ferma, al passo la fiera aspettando. –</l>
+<l>Africo pose mente, e venir vide</l>
+<l>un fier cinghiar fortemente rugghiando,</l>
+<l>con frecce molte fitte nel suo dosso.</l>
+<l>Alrico sbarra l´arco suo dell´osso,</l></lg>
+
+<lg type="ottava"><head>215</head>
+<l>e d´una freccia, nel petto, al cinghiale</l>
+<l>ferì, che li passò insino al core,</l>
+<l>ché pelle dura o callo non gli vale,</l>
+<l>e poco andò che gli mancò ´l furore,</l>
+<l>e cadde in terra pel colpo mortale;</l>
+<l>e come piacque a Vener ed Amore</l>
+<l>Mensola era in luogo che assai scorto</l>
+<l>vide quel colpo, e ´l cinghiar cader morto.</l></lg>
+
+<lg type="ottava"><head>216</head>
+<l>Quivi trasse di ninfe gran brigata,</l>
+<l>credendo ben ch´Africo ninfa fosse,</l>
+<l>e Mensola con lor si fu adunata,</l>
+<l>e poi alle compagne a parlar mosse,</l>
+<l>ed a lor la novella ha raccontata,</l>
+<l>dicendo: – I´ vidi com´ella il percosse,</l>
+<l>né sì bel colpo vidi alla mia vita</l>
+<l>quanto fe´ questa ninfa qui apparita. –</l></lg>
+
+<lg type="ottava"><head>217</head>
+<l>Quanto Africo sentisse di piacere</l>
+<l>dentro dal cor, udendosi a colei</l>
+<l>lodar cotanto che già dispiacere</l>
+<l>le fu vederlo, dir non vel potrei,</l>
+<l>ma color sol lo posson ben sapere</l>
+<l>c´hanno d´Amor sentiti i colpi rei;</l>
+<l>e a chi non lo sapesse fo palese</l>
+<l>che presso fu più volte non la prese.</l></lg>
+
+<lg type="ottava"><head>218</head>
+<l>Ma credo il tenne, più ch´altro, paura</l>
+<l>delle compagne e degli archi ch´avièno;</l>
+<l>ma poi ch´alquanto con lor s´assicura</l>
+<l>cominciò a dir di quel ch´elle dicièno,</l>
+<l>e ragionar con lor della sventura</l>
+<l>di quel cinghiar che morto lì tenièno,</l>
+<l>e come lo trovaro, e tutti i tratti</l>
+<l>ch´ognuna avea adosso al cinghiar fatti.</l></lg>
+
+<lg type="ottava"><head>219</head>
+<l>Mensola disse: – Or ci fosse Diana,</l>
+<l>che noi le faren questo bel presento. –</l>
+<l>Africo, udendo che di lì lontana</l>
+<l>era Diana, fu molto contento;</l>
+<l>ma poi ch´ebbon assai di questa strana</l>
+<l>bestia tenuto lì ragionamento,</l>
+<l>fecion da parte un berzaglio tra loro</l>
+<l>e cominciaro a saettar costoro.</l></lg>
+
+<lg type="ottava"><head>220</head>
+<l>Ognuna quivi l´animo assottiglia</l>
+<l>con gli archi loro, e qual dardo lanciava.</l>
+<l>Mensola tosto il suo dardo in man piglia,</l>
+<l>e più presso che l´altre al segno dava;</l>
+<l>Africo di ciò si fe´ maraviglia,</l>
+<l>e tosto l´arco suo ´n man si recava,</l>
+<l>e allato al dardo di Mensola ha messo</l>
+<l>la freccia, sì ch´amenduo fûr più presso.</l></lg>
+
+<lg type="ottava"><head>221</head>
+<l>E come Amor sa ben far quando vuole</l>
+<l>far l´un dell´altro tosto innamorare,</l>
+<l>quel giorno usò gl´ingegni ch´usar suole,</l>
+<l>quando le cose ad effetto menare</l>
+<l>vuole e non menarle per parole;</l>
+<l>così quel giorno seppe sì ben fare,</l>
+<l>che d´Africa e di Mensola lo strale</l>
+<l>sempre mai eran più presso al segnale.</l></lg>
+
+<lg type="ottava"><head>222</head>
+<l>Per la qual cosa Mensola, veggendo</l>
+<l>che sempre di lor due era l´onore,</l>
+<l>ognora più le veniva piacendo</l>
+<l>e già gli aveva posto molto amore.</l>
+<l>Africo, sempre gli occhi a lei tenendo,</l>
+<l>piacevolmente le dava favore</l>
+<l>e acconsentiva ciò ch´ella dicea,</l>
+<l>ed ella a lui il simile facea.</l></lg>
+
+<lg type="ottava"><head>223</head>
+<l>Ma poi ch´ell´ebbon molto saettato,</l>
+<l>a rincrescer cominciò loro il gioco;</l>
+<l>per che tutte partîrsi da quel lato,</l>
+<l>ed ivi presso ne giron a un loco</l>
+<l>dov´era una caverna, e lì trovato</l>
+<l>una di quelle ninfe ch´avea il foco</l>
+<l>acceso e messo a cuocer del cinghiale,</l>
+<l>e con esso non so ch´altro animale.</l></lg>
+
+<lg type="ottava"><head>224</head>
+<l>Aveva il sole già la terza via</l>
+<l>fatta del corso suo, quando costoro</l>
+<l>s´adunar tutte ad una bell´ombria</l>
+<l>che facea lì un grandissimo alloro;</l>
+<l>e sopra un masso grande si ponia</l>
+<l>la cotta carne, senz´altro savoro,</l>
+<l>e pan che di castagne allor facièno,</l>
+<l>ché grano ancor le genti non avièno.</l></lg>
+
+<lg type="ottava"><head>225</head>
+<l>Per bere, usavan acqua con mèl cotta</l>
+<l>e con cert´erbe, e quello era lor vino;</l>
+<l>e li nappi con che beveano allotta</l>
+<l>di legname era, il grande e ´l piccolino;</l>
+<l>e apparecchiata tutta quella frotta</l>
+<l>delle ninfe, mangiando di cor fino,</l>
+<l>Africo a Mensola si sedea allato,</l>
+<l>con l´altre avendo il masso circondato.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Mangiato ebber le ninfe con fervore,</l>
+<l>chi ´n qua chi ´n là a lor diporto andaro;</l>
+<l>Africo e Mensola s´accompagnaro:</l>
+<l>nell´acqua poi la prese con dolzore.</l></lg></add></ab>
+
+<lg type="ottava"><head>226</head>
+<l>Venuto il fin dell´allegro mangiare,</l>
+<l>le ninfe tutte quante si levaro,</l>
+<l>e per lo monte, con dolce cantare,</l>
+<l>a due a tre a quattro se n´andaro,</l>
+<l>chi qua chi là, come ad ognuna pare;</l>
+<l>Africo e Mensola non si scevraro,</l>
+<l>ma con tre altre ninfe si partiro:</l>
+<l>su per lo colle inver Fiesol ne giro.</l></lg>
+
+<lg type="ottava"><head>227</head>
+<l>Com´i´ v´ho detto, Mensola invaghita</l>
+<l>era d´Africo sì, pel saettare</l>
+<l>che sì ben avea fatto, e per l´ardita</l>
+<l>presenza sua, e pel dolce parlare,</l>
+<l>che già l´amava come la sua vita,</l>
+<l>né saziar si potea di lui guatare;</l>
+<l>ma non pensi niun che già mai questo</l>
+<l>amor fosse con pensier disonesto,</l></lg>
+
+<lg type="ottava"><head>228</head>
+<l>però che fermamente ella credea</l>
+<l>che ninfa fosse ind´oltre del paese,</l>
+<l>perché segnal mascolin non avea</l>
+<l>nella persona, che fosse palese;</l>
+<l>ché, se saputo quel che non sapea</l>
+<l>avesse, non saria suta cortese,</l>
+<l>com´ella fu, con l´altre a fargli onore,</l>
+<l>ma dànno gli arìan fatto e disonore.</l></lg>
+
+<lg type="ottava"><head>229</head>
+<l>S´Africo innamorato di lei era</l>
+<l>non bisogna più dir, ch´assai n´ho detto;</l>
+<l>ma ´nsieme andando per cotal maniera,</l>
+<l>portava ascoso il foco dentr´al petto,</l>
+<l>e più ardeva che non fa la cera;</l>
+<l>veggendosi mirar al suo diletto,</l>
+<l>e parlar e toccar e farsi onore,</l>
+<l>per peritezza gli batteva il core.</l></lg>
+
+<lg type="ottava"><head>230</head>
+<l>E fra sé dicea: «Come farò io?</l>
+<l>i´ non so ch´i´ mi dica, o ch´i´ mi faccia:</l>
+<l>se io scuopro a costei il mio disio,</l>
+<l>i´ temo forte che poi i´ non le piaccia,</l>
+<l>e che ´l suo amor non mi tornasse in rio</l>
+<l>odio, e con l´altre mi desson la caccia;</l>
+<l>e s´io non me le scuopro questo giorno,</l>
+<l>non so quando a tal caso mi ritorno.</l></lg>
+
+<lg type="ottava"><head>231</head>
+<l>Se queste ninfe almen si gisson via,</l>
+<l>che son con noi, i´ pur mi rimarrei</l>
+<l>qui solo nato con Mensola mia,</l>
+<l>e più sicuramente mi potrei</l>
+<l>a lei scoprire, e mostrar quel ch´i´ sia;</l>
+<l>e se fuggir volesse, allor sarei</l>
+<l>a pigliarla sì accorto, che fuggire</l>
+<l>non si potrebbe, né da me partire.</l></lg>
+
+<lg type="ottava"><head>232</head>
+<l>Ma io mi credo che punto da noi</l>
+<l>in questo giorno non si partiranno;</l>
+<l>e s´io m´indugio, non so se mai poi</l>
+<l>queste venture innanzi mi verranno;</l>
+<l>meglio è che tu facci or quel che tu puoi,</l>
+<l>ché molti per indugio perduto hanno».</l>
+<l>E fu tutto che mosso per pigliarla;</l>
+<l>poi si ritenne, e non volle toccarla.</l></lg>
+
+<lg type="ottava"><head>233</head>
+<l>«Ora m´insegna, Vener, or m´aiuta,</l>
+<l>ora mi dona il tuo caro consiglio;</l>
+<l>ora mi par che l´ora sia venuta,</l>
+<l>nella qual debbo a costei dar di piglio.»</l>
+<l>E poi, pensando, il pensier suo rimuta,</l>
+<l>parendogli a far questo pur periglio:</l>
+<l>e ´l sì e ´l no nel capo gli contende,</l>
+<l>e l´amoroso foco più lo ´ncende.</l></lg>
+
+<lg type="ottava"><head>234</head>
+<l>Ell´eran già tanto giù per lo colle</l>
+<l>gite, ch´eran vicine a quella valle</l>
+<l>ch´e´ duo monti divide, quando volle</l>
+<l>d´Africo Amor le voglie contentalle,</l>
+<l>né più oltre che quel giorno indugiolle,</l>
+<l>trovando modo ad effetto menalle;</l>
+<l>ché, mentre in tal maniera insieme gièno,</l>
+<l>nella valle acqua risonar sentièno.</l></lg>
+
+<lg type="ottava"><head>235</head>
+<l>Né furon guari le ninfe oltre andate,</l>
+<l>che trovaron due ninfe tutte ignude,</l>
+<l>che ´n un pelago d´acqua erano entrate,</l>
+<l>dove l´un monte con l´altro si chiude;</l>
+<l>e giunte lì, s´ebbon le gonne alzate,</l>
+<l>e tutte quante entrâr nell´acque crude,</l>
+<l>con l´altre ragionando del bagnare:</l>
+<l>– Che faren noi? Voglianci noi spogliare? –</l></lg>
+
+<lg type="ottava"><head>236</head>
+<l>Perch´allor era la maggior calura</l>
+<l>che fosse in tutto ´l giorno, e dal diletto</l>
+<l>tirate di quell´acqua alla frescura,</l>
+<l>e veggendosi sanz´alcun sospetto,</l>
+<l>e l´acqua tanto chiara e netta e pura,</l>
+<l>diliberaron far com´avean detto,</l>
+<l>e per bagnarsi ognuna si spogliava;</l>
+<l>e Mensola con Africo parlava,</l></lg>
+
+<lg type="ottava"><head>237</head>
+<l>e sì diceva: – O compagna mia cara,</l>
+<l>bagnera´ti tu qui con esso noi? –</l>
+<l>Africo disse con la boce chiara:</l>
+<l>– Compagna mia, i´ farò quel che vòi,</l>
+<l>né cosa che vogliate mi fia amara. –</l>
+<l>E fra se stesso sì diceva poi:</l>
+<l>«S´elle si spoglian tutte, al certo ch´io</l>
+<l>non terrò più nascoso il mio disio».</l></lg>
+
+<lg type="ottava"><head>238</head>
+<l>Ed avvisossi di prima lasciarle</l>
+<l>tutte spogliar, e poi egli spogliarsi,</l>
+<l>acciò che le lor armi adoperarle</l>
+<l>contra lui non potessono, ed a trarsi</l>
+<l>cominciò lento il vestir, per poi farle,</l>
+<l>quando nell´acqua entrasse per bagnarsi,</l>
+<l>per vergogna fuggir pe´ boschi via:</l>
+<l>e Mensola per forza riterria.</l></lg>
+
+<lg type="ottava"><head>239</head>
+<l>E ´nnanzi che spogliato tutto fosse,</l>
+<l>le ninfe eran nell´acqua tutte quante;</l>
+<l>e poi spogliato verso lor si mosse,</l>
+<l>mostrando tutto ciò ch´avea davante.</l>
+<l>Ciascuna delle ninfe si riscosse,</l>
+<l>e, con boce paurosa e tremante,</l>
+<l>cominciarono urlando: – Omè, omè,</l>
+<l>or non vedete voi chi costui è? –</l></lg>
+
+<lg type="ottava"><head>240</head>
+<l>Non altrimenti lo lupo affamato</l>
+<l>percuote alla gran turba degli agnelli,</l>
+<l>ed un ne piglia, e quel se n´ha portato,</l>
+<l>lasciando tutti gli altri tapinelli:</l>
+<l>ciascun belando fugge spaventato,</l>
+<l>pur procacciando di campar le pelli;</l>
+<l>così correndo Africo per quell´acque,</l>
+<l>sola prese colei che più gli piacque.</l></lg>
+
+<lg type="ottava"><head>241</head>
+<l>E tutte l´altre ninfe molto in fretta</l>
+<l>uscîr dell´acqua, a´ lor vestir correndo;</l>
+<l>né però niuna fu che lì sel metta,</l>
+<l>ma coperte con essi via fuggendo,</l>
+<l>ché punto l´una l´altra non aspetta,</l>
+<l>né mai indietro si givan volgendo;</l>
+<l>ma chi qua e chi là si dileguoe,</l>
+<l>e ciascuna le sue armi lascioe.</l></lg>
+
+<lg type="ottava"><head>242</head>
+<l>Africo tenea stretta nelle braccia</l>
+<l>Mensola sua nell´acqua, che piangea,</l>
+<l>e baciandole la vergine faccia,</l>
+<l>cota´ parole verso lei dicea:</l>
+<l>– O dolce la mia vita, non ti spiaccia</l>
+<l>se io t´ho presa, ché Venere iddea</l>
+<l>mi t´ha promessa, cuor del corpo mio;</l>
+<l>deh, più non pianger, per l´amor di Dio. –</l></lg>
+
+<lg type="ottava"><head>243</head>
+<l>Mensola, le parole non intende</l>
+<l>ch´Africo le dicea, ma quanto puote</l>
+<l>con quella forza ch´ell´ha si difende,</l>
+<l>e fortemente in qua e ´n là si scuote</l>
+<l>dalle braccia di colui che l´offende,</l>
+<l>bagnandosi di lagrime le gote;</l>
+<l>ma nulla le valea forza o difesa,</l>
+<l>ch´Africo la tenea pur forte presa.</l></lg>
+
+<lg type="ottava"><head>244</head>
+<l>Per la contesa che facean si desta</l>
+<l>tal che prima dormia malinconoso,</l>
+<l>e, con superbia rizzando la cresta,</l>
+<l>cominciò a picchiar l´uscio furioso;</l>
+<l>e tanto dentro vi diè della testa,</l>
+<l>ch´egli entrò dentro, non già con riposo,</l>
+<l>ma con battaglia grande ed urlamento</l>
+<l>e forse che di sangue spargimento.</l></lg>
+
+<lg type="ottava"><head>245</head>
+<l>Ma poi che messer Mazzone ebbe avuto</l>
+<l>Monteficalli, e nel castello entrato,</l>
+<l>fu lietamente dentro ricevuto</l>
+<l>da que´ che prima l´avean contastato;</l>
+<l>ma poi che molto si fu dibattuto,</l>
+<l>per la terra lasciare in buono stato,</l>
+<l>per pietà lagrimò, e del castello</l>
+<l>uscì poi fuor, umìl più ch´un agnello.</l></lg>
+
+<lg type="ottava"><head>246</head>
+<l>Poi che Mensola vide esserle tolta</l>
+<l>la sua verginità contro a sua voglia,</l>
+<l>forte piangendo ad Africo fu volta</l>
+<l>e disse: – Poi c´hai fatto la tua voglia</l>
+<l>ed hai ´ngannata me, fanciulla stolta,</l>
+<l>usciàn dell´acqua almen, ch´i´ muo´ di doglia,</l>
+<l>però ch´i´ vo´ del mondo far partita,</l>
+<l>togliendomi con le mie man la vita. –</l></lg>
+
+<lg type="ottava"><head>247</head>
+<l>Africo, udendo il suo pietoso dire,</l>
+<l>con lei insieme uscì dell´acqua fuori,</l>
+<l>e veggendo la doglia sua e ´l martire,</l>
+<l>dentro dal cor ne sentia gran dolori;</l>
+<l>e ben ch´avesse in parte il suo disire</l>
+<l>contento, gli crescevan vie maggiori</l>
+<l>le fiamme dentro al petto e più cocenti,</l>
+<l>veggendo a lei cotanti turbamenti.</l></lg>
+
+<lg type="ottava"><head>248</head>
+<l>Ma poi che rivestiti amenduo furo,</l>
+<l>Mensola il dardo suo prendeva presta,</l>
+<l>e al petto si poneva il ferro duro,</l>
+<l>per morte darsi sanz´altra richiesta.</l>
+<l>Veggendo Africo il suo pensier oscuro,</l>
+<l>prestamente là corse, e prese questa</l>
+<l>alle gavigne, e quel dardo gittava</l>
+<l>per lo boschetto, e poi così parlava:</l></lg>
+
+<lg type="ottava"><head>249</head>
+<l>– Omè, anima mia, o che è quello</l>
+<l>che tu volevi far? O che sciocchezza</l>
+<l>è questa? O qual pensier fu tanto fello,</l>
+<l>che qui ti conducea a cotal fierezza?</l>
+<l>O lasso a me, che fare´ io tapinello</l>
+<l>se io perdessi la tua gran bellezza?</l>
+<l>Ché solo un´ora in vita non starei,</l>
+<l>ma con le propie man m´ucciderei! –</l></lg>
+
+<lg type="ottava"><head>250</head>
+<l>Sì gran dolore a Mensola al cor venne</l>
+<l>che, nelle braccia d´Africo cascata,</l>
+<l>tramortì tutta; ond´egli la sostenne,</l>
+<l>e poi che nel bel viso l´ha mirata,</l>
+<l>le lagrime negli occhi più non tenne,</l>
+<l>temendo ch´ella non fosse passata</l>
+<l>di questa vita: per che tra le fronde</l>
+<l>de´ molti albori con lei si nasconde.</l></lg>
+
+<lg type="ottava"><head>251</head>
+<l>Quivi a seder con lei ´nsieme si pose,</l>
+<l>in sul sinestro braccio lei tenendo,</l>
+<l>e con la destra man le lagrimose</l>
+<l>guance di lei asciugava, e poi piangendo</l>
+<l>diceva con parole aspre e pietose:</l>
+<l>– O Morte, or hai ciò ch´andavi caendo:</l>
+<l>che, poi che tolto m´hai ogni mia gioia,</l>
+<l>con lei insieme converrà ch´i´ muoia. –</l></lg>
+
+<lg type="ottava"><head>252</head>
+<l>E poi baciando il tramortito viso,</l>
+<l>lei chiamando, diceva: – O amor mio,</l>
+<l>perché da te si tosto m´ha diviso</l>
+<l>la ria fortuna e questo giorno rio?</l>
+<l>E questo ed altro, mirandola fiso,</l>
+<l>diceva, bestemmiando il suo disio</l>
+<l>che fu troppo corrente a tal impresa,</l>
+<l>e che sì forte avea Mensola offesa.</l></lg>
+
+<lg type="ottava"><head>253</head>
+<l>Ma poi ch´egli ebbe fatto gran lamento</l>
+<l>sopra ´l palido viso tramortito,</l>
+<l>e mille volte e più con gran tormento</l>
+<l>baciato, e delle lagrime forbito,</l>
+<l>non più avendo di viver talento,</l>
+<l>di morte darsi avea preso partito;</l>
+<l>e per morir già si volea levare</l>
+<l>quando Mensola sentì sospirare.</l></lg>
+
+<lg type="ottava"><head>254</head>
+<l>Gli spiriti di Mensola, errando</l>
+<l>eran per l´aria buona pezza andati,</l>
+<l>e dopo molto nel corpo tornando</l>
+<l>nelli lor luoghi si fûr rientrati,</l>
+<l>quando Mensola, forte sospirando,</l>
+<l>si risentì, con atti spaventati</l>
+<l>dicendo: – Omè, omè, lassa, ch´i´ moro! –</l>
+<l>E a pianger cominciò sanza dimoro.</l></lg>
+
+<lg type="ottava"><head>255</head>
+<l>Africo, quando vide ch´era viva</l>
+<l>Mensola sua, che prima parea morta,</l>
+<l>tutto nel cor di letizia ravviva,</l>
+<l>e poi con tai parole la conforta:</l>
+<l>– O fresca rosa aulente e giuliva,</l>
+<l>per cui la vita mia gran pena porta,</l>
+<l>deh, non ti sgomentar, né aver paura,</l>
+<l>ché tu puo´ star con meco ben sicura.</l></lg>
+
+<lg type="ottava"><head>256</head>
+<l>Tu sei ´n braccio di colui il quale</l>
+<l>sopra ogni cosa t´ama e vuolti bene;</l>
+<l>ed ogni tuo spiacere ed ogni male</l>
+<l>sono, nel cor mio, angosciose pene.</l>
+<l>Oh, lasso a me, ch´i´ mi credetti aguale</l>
+<l>che morte ti tenesse in sue catene,</l>
+<l>e voleami levar per morte dare,</l>
+<l>se non che ora ti senti´ sospirare! –</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Duolsi Mensola con molto dolore;</l>
+<l>Africo con pietà la confortava</l>
+<l>e dolcemente, ch´ella ripiatava,</l>
+<l>raccontandole prima il suo amore.</l></lg></add></ab>
+
+<lg type="ottava"><head>257</head>
+<l>– Oh me dolente, lassa, sventurata! –</l>
+<l>diceva Mensola Africo mirando.</l>
+<l>– Tapina a me, perché fu´ i´ mai nata,</l>
+<l>o mai vivuta? – dicea lagrimando.</l>
+<l>– Or foss´io stata il giorno strangolata</l>
+<l>ch´io prima fu´ veduta, o almen, quando</l>
+<l>le veste di Diana mi fûr messe,</l>
+<l>ch´un feroce cinghiar morta m´avesse! –</l></lg>
+
+<lg type="ottava"><head>258</head>
+<l>– Deh, non ti sgomentare, anima mia, –</l>
+<l>Africo disse – ché ´l cor mi si sface,</l>
+<l>veggendo a te tanta malinconia,</l>
+<l>sanza prender consolazione o pace,</l>
+<l>e menar la tua vita tanto ria;</l>
+<l>e certo che bisogno non ti face,</l>
+<l>però che se´ con colui che più t´ama</l>
+<l>che non fa sé, e che sola te brama.</l></lg>
+
+<lg type="ottava"><head>259</head>
+<l>Acciò che tu mi creda che sia vero</l>
+<l>ch´io t´ami tanto quanto ora t´ho detto,</l>
+<l>io ti vo´ raccontare il fatto intero:</l>
+<l>ch´egli è ben quattro mesi che soletto</l>
+<l>giva cacciando sanza alcun pensiero</l>
+<l>per questa costa, quando in un boschetto</l>
+<l>sentii mormorar boci, onde più presso,</l>
+<l>per veder chi parlava, mi fu´ messo.</l></lg>
+
+<lg type="ottava"><head>260</head>
+<l>I´ vidi intorno a una bella fontana</l>
+<l>molte ninfe sedere, e vidi poi,</l>
+<l>sopra tutte, seder la dea Diana,</l>
+<l>che sermonando amoniva voi</l>
+<l>con rigido parlar e molto strana;</l>
+<l>poi a´ miei occhi corson gli occhi tuoi</l>
+<l>e la tua gran bellezza, ché nel core</l>
+<l>sentii ferirmi dello stral d´Amore. –</l></lg>
+
+<lg type="ottava"><head>261</head>
+<l>Poi le diceva com´ivi nascoso</l>
+<l>gran pezza stette sol per lei mirare,</l>
+<l>e come venne sì desideroso</l>
+<l>di lei, che non potea gli occhi saziare</l>
+<l>di mirar questo bel viso vezzoso</l>
+<l>(e sì dicendo lo volle baciare)</l>
+<l>e come poi, quando ognuna partie,</l>
+<l>– Mensola, andianne – chiamarla sentie.</l></lg>
+
+<lg type="ottava"><head>262</head>
+<l>Raccontò poi le lagrime e´ sospiri</l>
+<l>che per lei avea sparte in abondanza,</l>
+<l>e l´angosciose pene co´ martirî;</l>
+<l>e come Vener, sopra sua leanza,</l>
+<l>gli avea promesso lei ne´ suoi dormiri,</l>
+<l>e datogli di ciò grande speranza;</l>
+<l>e quante volte l´era ita cercando,</l>
+<l>ed ogni cosa le venìa narrando.</l></lg>
+
+<lg type="ottava"><head>263</head>
+<l>E poi com´egli un giorno la trovoe</l>
+<l>tutta soletta, e com´ella fuggiva,</l>
+<l>e quanto umilemente la pregoe,</l>
+<l>e com´ella, crudele, non l´udiva;</l>
+<l>e poi del dardo ch´ella gli lancioe,</l>
+<l>e della quercia dove quel feriva,</l>
+<l>e come disse: – Guarti! – e poi smarrilla,</l>
+<l>né più la vide poi, né più sentilla;</l></lg>
+
+<lg type="ottava"><head>264</head>
+<l>ancor del sacrificio ch´avea fatto</l>
+<l>alla dea Venere, e della risposta</l>
+<l>ch´ella gli fe´, e come tosto e ratto</l>
+<l>si contrafe´, e poi per quella costa,</l>
+<l>a modo d´una ninfa contrafatto,</l>
+<l>a cercar lei si mise sanza sosta,</l>
+<l>e com´ora in sul monte la trovoe:</l>
+<l>– Da poi sai tu com´io che seguitoe.</l></lg>
+
+<lg type="ottava"><head>265</head>
+<l>Ora t´ho raccontato il gran tormento</l>
+<l>ch´i´ ho, per te, portato e sostenuto;</l>
+<l>però se io ho usato isforzamento,</l>
+<l>l´ho fatto sol perché forza me suto,</l>
+<l>non perch´i´ sia di noiarti contento;</l>
+<l>ma sol Amor, che m´ha per te tenuto</l>
+<l>in queste pene, n´ha colpa e cagione.</l>
+<l>Duolti di lui, ché n´arai più ragione! –</l></lg>
+
+<lg type="ottava"><head>266</head>
+<l>Mensola, avendo Africo bene inteso</l>
+<l>ciò ch´avea detto del suo innamorare,</l>
+<l>e come fu da prima per lei preso,</l>
+<l>e poi le cose ch´Amor gli fe´ fare,</l>
+<l>alquanto nel suo cor si fu acceso</l>
+<l>il foco, e cominciava a sospirare:</l>
+<l>e pure Amore l´avea già ferita,</l>
+<l>come che le paresse esser tradita.</l></lg>
+
+<lg type="ottava"><head>267</head>
+<l>Poi disse: – Omè, e´ mi ricorda bene</l>
+<l>ch´i´ fu´, l´altrier, gran pezza seguitata</l>
+<l>da un, non so se tu quel desso sene</l>
+<l>che ora m´hai così vituperata;</l>
+<l>e ben so io che, per donarli pene,</l>
+<l>inverso lui mi rivolsi crucciata,</l>
+<l>e ´l dardo mio a lui forte lanciava,</l>
+<l>veggendo pur ched e´ mi seguitava.</l></lg>
+
+<lg type="ottava"><head>268</head>
+<l>E ricordami ancor che, se non fosse</l>
+<l>che quando vidi ´l dardo vêr lui gire,</l>
+<l>non so perché, pietà allor mi mosse,</l>
+<l>ch´io gridai: – Guarti guarti! – e po´ a fuggire</l>
+<l>mi die´, e vidi che ´l dardo percosse</l>
+<l>in una quercia e félla tutta aprire;</l>
+<l>poi mi nascosi ivi presso in un bosco:</l>
+<l>se tu se´ desso, i´ non ti riconosco.</l></lg>
+
+<lg type="ottava"><head>269</head>
+<l>Non mi ricorda mai più ne´ dì miei,</l>
+<l>da poi ch´i´ fu´ a Diana consacrata,</l>
+<l>ch´io vedessi uomo; e volesson gl´iddei</l>
+<l>che anche tu non m´avessi trovata,</l>
+<l>né mai veduta: ch´ancora sarei</l>
+<l>da Diana con l´altre annoverata,</l>
+<l>dov´or sarò da lei, omè, sbandita,</l>
+<l>e sanza fallo mi torrà la vita.</l></lg>
+
+<lg type="ottava"><head>270</head>
+<l>E tu, o giovinetto, il qual cagione</l>
+<l>sarai della mia morte e del mio danno,</l>
+<l>come tu sai, sanz´averne ragione,</l>
+<l>ti rimarrai sanz´alcuno affanno;</l>
+<l>ma sian di me a Diana testimone</l>
+<l>alberi e fiere, che veduta m´hanno,</l>
+<l>com´io mi sono a mia possa difesa,</l>
+<l>e come tu per forza m´hai pur presa,</l></lg>
+
+<lg type="ottava"><head>271</head>
+<l>ed io, fanciulla pura ed innocente,</l>
+<l>son da te stata ingannata e tradita.</l>
+<l>Ma di questo peccato veramente</l>
+<l>m´assolverò, togliendomi la vita</l>
+<l>con le mie mani; e poi che del presente</l>
+<l>mondo sarò, tapina, dipartita,</l>
+<l>ti rimarrai contento, né giammai,</l>
+<l>lassa, di me non ti ricorderai. –</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Piacevolmente Africo abracciava</l>
+<l>Mensola e priegala si dia conforto;</l>
+<l>è, s´ella s´uccidesse, lui ancor morto;</l>
+<l>e i suo´ begli occhi con dolzor baciava.</l></lg></add></ab>
+
+<lg type="ottava"><head>272</head>
+<l>Africo allora l´abracciava stretta,</l>
+<l>e lagrimando disse: – Oh me tapino,</l>
+<l>non creder che giammai così soletta</l>
+<l>i´ ti lasciassi, dolce amor mio fino!</l>
+<l>ma vo´ che, per mio amor, tu mi prometta</l>
+<l>di levar via questo pensier meschino,</l>
+<l>o in pria che tu, la vita mi torroe,</l>
+<l>sì che dietro da te non rimarroe.</l></lg>
+
+<lg type="ottava"><head>273</head>
+<l>I´ non potre´ giammai stare diviso</l>
+<l>da te, dolce mio bene. – E poi baciando</l>
+<l>la dolce bocca e l´angelico viso,</l>
+<l>e con la mano i begli occhi asciugando,</l>
+<l>dicendo: – Veramente in paradiso</l>
+<l>tu fosti fatta; – e´ capei rispianando,</l>
+<l>giva dicendo: – Mai sì be´ capelli</l>
+<l>non fûr veduti, tanto biondi e belli.</l></lg>
+
+<lg type="ottava"><head>274</head>
+<l>Benedetto sia l´anno e ´l mese e ´l giorno,</l>
+<l>e l´ora e ´l tempo, ed ancor la stagione,</l>
+<l>che fu creato questo viso adorno</l>
+<l>e l´altre membra con tanta ragione!</l>
+<l>ché chi cercasse il mondo a torno a torno,</l>
+<l>e nel cielo ancor tra la legione</l>
+<l>delle dee sante, non poria trovarsi</l>
+<l>una ch´a te potesse ma´ agguagliarsi.</l></lg>
+
+<lg type="ottava"><head>275</head>
+<l>Tu se´ viva fontana di bellezza,</l>
+<l>e d´ogni bel costume chiara luce;</l>
+<l>tu sei adatta e piena di franchezza;</l>
+<l>tu se´ colei, ´n cui sola si riduce</l>
+<l>ogni vertù ed ogni gentilezza,</l>
+<l>e quella che la mia vita conduce;</l>
+<l>tu se´ vezzosa e se´ morbida e bianca:</l>
+<l>niuna cosa bella non ti manca!</l></lg>
+
+<lg type="ottava"><head>276</head>
+<l>Dunque, deh, non voler, Mensola mia,</l>
+<l>guastar una sì bella e tanta cosa</l>
+<l>chente tu se´, con tua malinconia,</l>
+<l>né con niun´altra cosa niquitosa:</l>
+<l>ma da te caccia ogni rio pensier via</l>
+<l>e non istar con meco più crucciosa,</l>
+<l>ch´esser non può non fatto quel ch´è fatto,</l>
+<l>perch´io con teco ancor fossi disfatto.</l></lg>
+
+<lg type="ottava"><head>277</head>
+<l>Però ti priego che tu ora facci</l>
+<l>sì come savia, e di questi partiti</l>
+<l>il miglior prendi e ´l piggior da te cacci;</l>
+<l>e gli spiriti tuoi ispauriti</l>
+<l>conforta un poco, e fa´ che tu m´abracci,</l>
+<l>e bacia me con baci savoriti,</l>
+<l>anima mia, si com´io bacio tene;</l>
+<l>prendi diletto, se tu vuoi, di mene! –</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Africo seppe tanto lusingare</l>
+<l>Mensola sua con vere ragioni,</l>
+<l>ch´egli la svolse di sue oppinioni,</l>
+<l>ché ella cominciò lui ad amare.</l></lg></add></ab>
+
+<lg type="ottava"><head>278</head>
+<l>Amor legava tuttavia il core,</l>
+<l>con le parole ch´Africo dicea,</l>
+<l>di Mensola, sì che ´n parte il dolore</l>
+<l>s´era partito già, perché vedea</l>
+<l>ch´altro esser non potea, e poi l´amore,</l>
+<l>ch´ad Africo portò quando credea</l>
+<l>che ninfa fosse, or più forte s´accende</l>
+<l>quando le sue dolci parole intende.</l></lg>
+
+<lg type="ottava"><head>279</head>
+<l>E, per volerlo in parte contentare,</l>
+<l>gli gittò in collo il suo sinistro braccio,</l>
+<l>ma non lo volle ancor però baciare,</l>
+<l>forse parendole ancor troppo avaccio</l>
+<l>di doversi con lui sì assicurare;</l>
+<l>e disse: – Oh me tapina, ch´i´ non saccio</l>
+<l>com´io possa campar, se tal peccato</l>
+<l>sarà a Diana giammai appalesato.</l></lg>
+
+<lg type="ottava"><head>280</head>
+<l>Né ardirò giammai con ninfa alcuna,</l>
+<l>com´io solea, nell´acqua più bagnarmi,</l>
+<l>né anco, poi che vuol la mia fortuna</l>
+<l>dove ne sia niuna ritrovarmi:</l>
+<l>ché, s´elle ciò sapesson, ciascheduna</l>
+<l>tosto a Diana andrebbon accusarmi</l>
+<l>onde pur sola mi converrà stare,</l>
+<l>fuggendo quel che già solea cercare.</l></lg>
+
+<lg type="ottava"><head>281</head>
+<l>E ben conosco che, s´io m´uccidessi,</l>
+<l>che ´l mio peccato minor non sarebbe;</l>
+<l>e quel che tu hai fatto non avessi,</l>
+<l>son molto certa ch´esser non potrebbe;</l>
+<l>e se ´l contradio di questo credessi,</l>
+<l>a quest´otta, doman non giugnerebbe</l>
+<l>la vita mia, ché di cotal fallenza</l>
+<l>m´are´ ben data degna penitenza.</l></lg>
+
+<lg type="ottava"><head>282</head>
+<l>Ma poi ch´e´ tuoi conforti son sì buoni</l>
+<l>che rivolto hanno tutto ´l mio pensiero,</l>
+<l>e sì legata m´hanno i tuoi sermoni</l>
+<l>che ´l mio voler tanto crudel e fiero</l>
+<l>ho via levato; ma quel che ragioni</l>
+<l>di rimanerti meco, a dirti ´l vero,</l>
+<l>non consentire´ mai, perché sarebbe</l>
+<l>mal sopra mal, e saper si potrebbe.</l></lg>
+
+<lg type="ottava"><head>283</head>
+<l>Perché riconosciuto tu saresti</l>
+<l>da tutte quelle ninfe che veduto</l>
+<l>questo dì t´hanno, e forse che potresti</l>
+<l>esser morto da lor, se conosciuto</l>
+<l>fossi da loro; e creder lor faresti</l>
+<l>quel che non è ancor per lor saputo,</l>
+<l>ch´i´ dirò sempre, a chi di lor mi truova,</l>
+<l>ch´i´ abbia teco vinto la mia pruova;</l></lg>
+
+<lg type="ottava"><head>284</head>
+<l>come che lor compagnia sempre mai,</l>
+<l>a giusto ´l mio potere, i´ fuggirò;</l>
+<l>e priego te, o giovane, poi c´hai</l>
+<l>toltomi quel che giammai non riarò,</l>
+<l>che tu ne vadi, e me con questi guai</l>
+<l>lascia star sola, ché ´l me´ ch´i´ potrò</l>
+<l>mi passerò, dandomi di ciò pace;</l>
+<l>deh, fallo, i´ te ne priego, se ti piace! –</l></lg>
+
+<lg type="ottava"><head>285</head>
+<l>Africo aveva molto ben compreso,</l>
+<l>per le parole sue, che già il foco</l>
+<l>Amor l´aveva dentr´al petto acceso,</l>
+<l>ma pur ancor si vergognava un poco;</l>
+<l>e poi ch´egli ebbe tutto bene inteso,</l>
+<l>disse fra sé: «Prima che d´esto loco</l>
+<l>mi parta, tu farai meco ragione:</l>
+<l>e farotti cantar d´altra canzone».</l></lg>
+
+<lg type="ottava"><head>286</head>
+<l>Poi baciandola disse: – O savorita</l>
+<l>dolce mia bocca, cor del corpo mio;</l>
+<l>o faccia bella, fresca e colorita,</l>
+<l>nella qual i´ ho messo il mio disio,</l>
+<l>tu donna sola se´ della mia vita</l>
+<l>ed amo te più ch´ i´ non faccio Iddio;</l>
+<l>io son risuscitato, poi ch´i´ veggio</l>
+<l>che pigli ´l meglio e lasci andar il peggio.</l></lg>
+
+<lg type="ottava"><head>287</head>
+<l>Ma come potre´ io mai sofferire</l>
+<l>di partirmi da te, che t´amo tanto</l>
+<l>che sanza te mi par ognor morire?</l>
+<l>Essendo teco, non so giammai quanto</l>
+<l>più ben mi possa aver, né più disire;</l>
+<l>ma sallo ben Amor, in quanto pianto</l>
+<l>istà la vita mia, la notte e ´l giorno,</l>
+<l>mentre non veggio questo viso adorno.</l></lg>
+
+<lg type="ottava"><head>288</head>
+<l>E pognàn pur che partirmi potessi</l>
+<l>come tu di´: mai non sarei contento</l>
+<l>che sì malinconosa rimanessi</l>
+<l>e gissi, a mia cagion, faccendo stento;</l>
+<l>e non so se mai più ti rivedessi:</l>
+<l>onde la vita mia maggior tormento</l>
+<l>non sentì mai quanto allor sentirei,</l>
+<l>e più che vita, morte bramerei.</l></lg>
+
+<lg type="ottava"><head>289</head>
+<l>Ma poi che tu non vuogli che con teco</l>
+<l>rimanga qui, venirtene potrai</l>
+<l>qui presso a casa mia, con esso meco,</l>
+<l>e con la madre mia lì ti starai:</l>
+<l>la qual, mentre che tu sarai con seco,</l>
+<l>sempre come figliuola tu sarai</l>
+<l>da lei trattata, e da mio padre ancora,</l>
+<l>e potrai esser d´amenduo lor nuora. –</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Africo priega Mensola con lui</l>
+<l>a la sua casa ne dovesse andare;</l>
+<l>ella per nulla cosa il volse fare,</l>
+<l>ma ben promise di tornare a lui.</l></lg></add></ab>
+
+<lg type="ottava"><head>290</head>
+<l>– Cotesto ancora per nulla vo´ fare, –</l>
+<l>Mensola disse – ch´io teco ne venga</l>
+<l>a casa tua, per voler palesare</l>
+<l>il mio peccato, ed ancor mi convenga</l>
+<l>in questo sì gran mal perseverare;</l>
+<l>prima la vita mia morte sostenga,</l>
+<l>ch´i´ vada mai là dove sia persona,</l>
+<l>poi c´ho perduta sì bella corona.</l></lg>
+
+<lg type="ottava"><head>291</head>
+<l>I´ non mi misi a seguitar Diana</l>
+<l>per al mondo tornar per niuna cosa;</l>
+<l>ché, s´i´ avessi voluto filar lana</l>
+<l>con la mia madre, e divenire sposa,</l>
+<l>di qui sarei ben tre miglia lontana</l>
+<l>col padre mio, che sopra ogni altra cosa</l>
+<l>m´amava e volea bene; ed è cinqu´anni</l>
+<l>che mi fûr messi di Diana i panni.</l></lg>
+
+<lg type="ottava"><head>292</head>
+<l>Però ti priego, se ´l mio pregar vale,</l>
+<l>per quell´amor che tu ora m´hai detto</l>
+<l>che fu cagion di far far questo male,</l>
+<l>che te ne vadi a casa tua soletto;</l>
+<l>ed io ti giuro per colei la quale</l>
+<l>tu di´ che ti ferì per me nel petto,</l>
+<l>ch´io bramerò la vita per tuo amore</l>
+<l>ed amerotti sempre di buon core. –</l></lg>
+
+<lg type="ottava"><head>293</head>
+<l>– Se io credessi – Africo disse allora</l>
+<l>– che tu facessi quel che mi prometti,</l>
+<l>e che nel cor m´avessi ciascun´ora,</l>
+<l>alquanto andrebbon via li miei sospetti;</l>
+<l>ma quel che più m´offende e più m´accora,</l>
+<l>si è ch´i´ temo, se ´n questi boschetti</l>
+<l>ti lascio sola, di mai ritrovarti,</l>
+<l>e però temo sanza me lasciarti. –</l></lg>
+
+<lg type="ottava"><head>294</head>
+<l>Mensola disse: – Io verrò molto spesso</l>
+<l>in questo loco, sì che tu potrai</l>
+<l>meco parlar e vedermi da presso,</l>
+<l>onestamente, quanto tu vorrai;</l>
+<l>e certamente quel ch´i´ t´ho promesso</l>
+<l>i´ t´atterrò, se mai ci tornerai,</l>
+<l>però che tu m´hai già mezza legata</l>
+<l>e parmi esser venuta innamorata. –</l></lg>
+
+<lg type="ottava"><head>295</head>
+<l>Africo, quando tai parole intende,</l>
+<l>infra se stesso si rallegra molto,</l>
+<l>veggendo che Amor forte l´accende</l>
+<l>e che ´l pensier suo rio avea rivolto;</l>
+<l>più stretta con le braccia allor la prende</l>
+<l>e poi, baciando l´angelico volto,</l>
+<l>le disse: – Intendi un poco mia parola,</l>
+<l>poi che disposta se´ di star pur sola.</l></lg>
+
+<lg type="ottava"><head>296</head>
+<l>I´ vo´, se t´è ´n piacer, rosa novella,</l>
+<l>da te una grazia prima ch´io mi parti:</l>
+<l>tu sai quanto la tua persona bella</l>
+<l>i´ ho bramata, e quanti ingegni ed arti</l>
+<l>usato ho per averti, o chiara stella;</l>
+<l>or, per piacerti, mi convien lasciarti;</l>
+<l>però ti priego sia di tuo volere,</l>
+<l>ch´io teco prenda un poco di piacere.</l></lg>
+
+<lg type="ottava"><head>297</head>
+<l>E più contento poi mi partirò,</l>
+<l>poi che pur vuoi ch´io mi parta da te;</l>
+<l>or dammi la parola, ch´io farò</l>
+<l>cosa, che fia diletto a te e a me,</l>
+<l>e poi, doman, qui a te tornerò</l>
+<l>a rivederti, però che tu se´</l>
+<l>colei in cui ho messo i miei diletti.</l>
+<l>Deh, di´ ch´io prenda gli amorosi effetti! –</l></lg>
+
+<lg type="ottava"><head>298</head>
+<l>– Oh me dolente, che vuo´ tu più fare, –</l>
+<l>Mensola disse – o che altro diletto</l>
+<l>puo´ tu di me sventurata pigliare,</l>
+<l>che tu preso hai? E però, giovinetto,</l>
+<l>ti priego che omai ne debbi andare,</l>
+<l>ed io mi rimarrò com´io t´ho detto;</l>
+<l>tu vedi che del giorno omai ci ha poco,</l>
+<l>e potremmo esser trovati in sto loco. –</l></lg>
+
+<lg type="ottava"><head>299</head>
+<l>– Tu sai ben che ´l diletto ch´i´ ho avuto</l>
+<l>di te, insino a qui chent´egli è stato,</l>
+<l>e quel che tra noi due è addivenuto,</l>
+<l>e con quanti dolor s´è mescolato,</l>
+<l>che ´n verità poco piacer m´è suto;</l>
+<l>ma or ch´ognun di noi è consolato,</l>
+<l>sarà il nostro diletto assai maggiore</l>
+<l>e più compiuto e con maggior dolzore. –</l></lg>
+
+<lg type="ottava"><head>300</head>
+<l>– Deh, non volere, o giovane piacente,</l>
+<l>che sopra ´l mal c´ho fatto i´ faccia peggio:</l>
+<l>ché, s´i´ fossi di ciò consenziente,</l>
+<l>gran pena ancor n´arei, e chiaro il veggio,</l>
+<l>se mai Diana ne saprà niente;</l>
+<l>però di grazia questo don ti cheggio:</l>
+<l>che ti piaccia partir, come ch´a me</l>
+<l>non sia, forse, minor doglia ch´a te. –</l></lg>
+
+<lg type="ottava"><head>301</head>
+<l>– Anima mia, quel mal arai di questo,</l>
+<l>ch´aver tu dèi di quello ch´abbiàn fatto, –</l>
+<l>Africo disse – benché manifesto</l>
+<l>non fia a Diana mai questo misfatto,</l>
+<l>né a persona, sì ch´alcun molesto</l>
+<l>per questo non arai, ché tanto piatto</l>
+<l>è suto e sì nascoso, che veduti,</l>
+<l>se non da Dio, non possiam esser suti.</l></lg>
+
+<lg type="ottava"><head>302</head>
+<l>E certissima sia che, s´io ne voe</l>
+<l>sanza da te aver niun´altra cosa,</l>
+<l>per gran dolor, tosto me ne morroe;</l>
+<l>deh, sia un poco verso me pietosa! –</l>
+<l>Ed una volta e due la ribacioe</l>
+<l>dicendo: – Or bacia me, o fresca rosa,</l>
+<l>assicurati meco e prendi gioia,</l>
+<l>e non voler che per amarti io muoia! –</l></lg>
+
+<lg type="ottava"><head>303</head>
+<l>Molte lusinghe e molte pregherie,</l>
+<l>più ch´i´ non dico, ben per ognun cento,</l>
+<l>Africo fece a Mensola quel die,</l>
+<l>baciandole la bocca e ´l viso e ´l mento</l>
+<l>sì forte che più volte ella stridie,</l>
+<l>come che ciò le fosse in piacimento;</l>
+<l>ancor la gola le baciava e ´l seno,</l>
+<l>il qual pareva di viole pieno.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Le dolci parole e lusinghe avièno</l>
+<l>il cor di Mensola infin convertito</l>
+<l>al disio d´Africo e &lt;a&gt; l´appetito:</l>
+<l>con gran piacer insiem si congiugnièno.</l></lg></add></ab>
+
+<lg type="ottava"><head>304</head>
+<l>Qual torre fu già mai sì ben fondata</l>
+<l>in sulla terra, che, sendo ella suta</l>
+<l>da tanti colpi percossa e scalzata,</l>
+<l>che non si fosse piegata o caduta?</l>
+<l>O qual fu quella mai sì dispietata,</l>
+<l>col cor d´acciaio, che non fosse arrenduta</l>
+<l>per le lusinghe d´Africo e ´l baciare,</l>
+<l>ch´arebbon fatto le montagne andare?</l></lg>
+
+<lg type="ottava"><head>305</head>
+<l>Mensola, che d´acciaio non avea ´l core,</l>
+<l>s´era gran pezza scossa e ancor difesa</l>
+<l>ma non potendo alle forze d´Amore</l>
+<l>risister, fu da lui legata e presa;</l>
+<l>ed avendo ella il suo dolce sapore</l>
+<l>prima assaggiato con alquanta offesa,</l>
+<l>pensò portar quel poco del martìre</l>
+<l>mescolato con sì dolce disire.</l></lg>
+
+<lg type="ottava"><head>306</head>
+<l>E tant´era la sua semplicitade,</l>
+<l>che non pensò che altro ne potesse</l>
+<l>addivenir, come quella che rade</l>
+<l>fiate o forse mai niuna avesse</l>
+<l>giammai udito per qual degnitade</l>
+<l>l´uom si creasse, e poi come nascesse;</l>
+<l>né sapea che quel tal congiugnimento</l>
+<l>fosse ´l seme dell´uomo e ´l nascimento.</l></lg>
+
+<lg type="ottava"><head>307</head>
+<l>Ella ´l baciò, e disse: – Amico mio,</l>
+<l>non so qual destino o qual fortuna</l>
+<l>vuol pur ch´io faccia tutto ´l tuo disio,</l>
+<l>né vuol ch´io faccia più difesa alcuna</l>
+<l>contro di te, e però m´arrendo io,</l>
+<l>come colei che non ha più niuna</l>
+<l>forza a poter contastar ad Amore,</l>
+<l>che m´ha, per te, ferito a mezzo ´l core.</l></lg>
+
+<lg type="ottava"><head>308</head>
+<l>Però, farai omai ciò che ti piace;</l>
+<l>ché tu puo´ far di me ciò che tu vuoi,</l>
+<l>poi c´ho perduta ogni forza ed aldace</l>
+<l>contro ad Amor, e contro a´ prieghi tuoi;</l>
+<l>ma ben ti priego, se non ti dispiace,</l>
+<l>che poi ne vadi il più tosto che puoi,</l>
+<l>ché mi par esser tuttavia trovata</l>
+<l>dalle compagne mie e da lor cacciata. –</l></lg>
+
+<lg type="ottava"><head>309</head>
+<l>Sentì Africo allora gran letizia,</l>
+<l>veggendo che a ciò era contenta,</l>
+<l>e donandole baci a gran dovizia,</l>
+<l>a quel che bisognava s´argomenta;</l>
+<l>più da natura che da lor malizia</l>
+<l>atati, s´alzar su le vestimenta,</l>
+<l>faccendo che lor due parevan uno,</l>
+<l>tanto natura insegnò a ciascheduno.</l></lg>
+
+<lg type="ottava"><head>310</head>
+<l>Quivi l´un l´altro baciava e mordeva,</l>
+<l>e strignean forte, e chi le labbra prende:</l>
+<l>– Anima mia! – ciaschedun diceva.</l>
+<l>– All´acqua all´acqua, ché il foco s´accende! –</l>
+<l>Il mulin macina quanto poteva,</l>
+<l>e ciaschedun si dilunga e distende:</l>
+<l>– Attienti bene! Omè, omè, omè,</l>
+<l>aiuta aiuta, ch´i´ moio ´n buona fé! –</l></lg>
+
+<lg type="ottava"><head>311</head>
+<l>L´acqua ne venne, e ´l foco fu ispento,</l>
+<l>il mulin tace, e ciascun sospirava;</l>
+<l>e come fu di Dio in piacimento,</l>
+<l>d´Africo Mensola s´ingravidava</l>
+<l>d´un fantin maschio, di gran valimento</l>
+<l>e di virtù, sì ch´ogni altro avanzava</l>
+<l>al tempo suo, sì come questa storia</l>
+<l>più ´nnanzi al fin ne fa chiara memoria.</l></lg>
+
+<lg type="ottava"><head>312</head>
+<l>Il giorno tutto quasi se n´era ito,</l>
+<l>e molto poco si vedea del sole,</l>
+<l>quando ciascuno i suoi fatti ha fornito,</l>
+<l>e preso quel piacer che ciascun vuole.</l>
+<l>Africo, poi ch´avea preso partito</l>
+<l>di doversene andar, forte si duole,</l>
+<l>e, Mensola tenendo infra le braccia,</l>
+<l>dicea, baciando l´amorosa faccia:</l></lg>
+
+<lg type="ottava"><head>313</head>
+<l>– Maladetta sia tu, o notte scura,</l>
+<l>tanto invidiosa de´ nostri diletti;</l>
+<l>perché mi fai da sì nobil figura</l>
+<l>partir sì tosto, come ch´io aspetti</l>
+<l>ancor riaver questa cotal ventura? –</l>
+<l>E con cotali e con molt´altri detti,</l>
+<l>quanto poteva il più, si dolea forte,</l>
+<l>parendogli il partir più dur che morte.</l></lg>
+
+<lg type="ottava"><head>314</head>
+<l>Mensola bella, tutta vergognosa</l>
+<l>stava, parendole aver fatto fallo,</l>
+<l>come che non le fosse sì gravosa,</l>
+<l>come la prima volta, il contentallo,</l>
+<l>e che paruta le fosse la cosa</l>
+<l>molto più dolce, sanza risalgallo.</l>
+<l>Pur, di non esser trovata col frodo</l>
+<l>avea paura, e parlò in questo modo:</l></lg>
+
+<lg type="ottava"><head>315</head>
+<l>– Or non so io che tu possa più fare,</l>
+<l>né che di non partirti abbia cagione;</l>
+<l>però, per lo mio amor ti vo´ pregare</l>
+<l>che, poi che ´nteramente tua intenzione</l>
+<l>da me avuta hai, te ne deggi andare,</l>
+<l>sanza far meco più dimoragione:</l>
+<l>ché sicura non mi terrò giammai,</l>
+<l>se non quando tu gito ne sarai.</l></lg>
+
+<lg type="ottava"><head>316</head>
+<l>E com´i´ veggio menar una foglia,</l>
+<l>le mie compagne mi credo che sièno;</l>
+<l>però ´l partir da me non ti sia doglia,</l>
+<l>ché sopra me le colpe tornerièno.</l>
+<l>Come che sia ´l partir anche a me doglia,</l>
+<l>io il consento perché ´l mal sia meno,</l>
+<l>e perché si fa sera, e noi abbiàno</l>
+<l>andar ciascun di qui assai lontano.</l></lg>
+
+<lg type="ottava"><head>317</head>
+<l>Ma dimmi prima, giovane, il tuo nome,</l>
+<l>ch´accompagnata mi parrà con esso</l>
+<l>esser, e più leggier mi fian le some</l>
+<l>d´Amor, che non sarian sendo sanz´esso. –</l>
+<l>Africo disse: – Anima mia, o come</l>
+<l>potrò io viver, non sendoti presso? –</l>
+<l>E ´l nome suo le disse e fece chiaro,</l>
+<l>e mille volle insieme si baciaro.</l></lg>
+
+<lg type="ottava"><head>318</head>
+<l>I´ non potrei giammai raccontar quante</l>
+<l>fiate fûr per partirsi i duo amanti,</l>
+<l>né i baci e le parole, che fûr tante</l>
+<l>che non si potrian dire in mille canti;</l>
+<l>ma puollo ben saper ciascun amante,</l>
+<l>se di questi piaceri ebbe mai tanti,</l>
+<l>e che gran doglia sia e che martìre</l>
+<l>il dipartir da sì dolce disire.</l></lg>
+
+<lg type="ottava"><head>319</head>
+<l>E´ si baciaron non solo una volta,</l>
+<l>ma più di mille, e poi che dipartiti</l>
+<l>s´erano un poco, indietro davan volta,</l>
+<l>dandosi baci a´ visi coloriti.</l>
+<l>– Anima mia, perché mi se´ tu tolta? –</l>
+<l>diceva l´uno all´altro; ed infiniti</l>
+<l>sospir gittando, partir non si sanno,</l>
+<l>ma or si parton, or tornan, or vanno.</l></lg>
+
+<lg type="ottava"><head>320</head>
+<l>Ma poi che vidon che più dilungare</l>
+<l>non si potea ´l partire, alle gavigne</l>
+<l>si preson amenduo, ed abracciare</l>
+<l>si cominciaro, e sì l´un l´altro strigne</l>
+<l>che ´n mena furon di non ne scoppiare,</l>
+<l>sì forte Amor di pari gli costrigne;</l>
+<l>e così stetton gran pezza abracciati</l>
+<l>insieme, i due amanti innamorati.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Partîrsi i due amanti sospirando</l>
+<l>ed insieme composon di tornare</l>
+<l>il dì a venire, e ivi sollazzare,</l>
+<l>pria l´un l´altro mille volte baciando.</l></lg></add></ab>
+
+<lg type="ottava"><head>321</head>
+<l>Pur alla fine l´un l´altro ha lasciato,</l>
+<l>e per partirsi le man si pigliaro,</l>
+<l>e poi ch´alquanto fiso s´han mirato,</l>
+<l>il modo a ritrovarsi lì ordinaro;</l>
+<l>così preson l´un dall´altro commiato,</l>
+<l>sendo ad ognun di lor molto discaro:</l>
+<l>– Vatti con Dio, Mensola mia, addio! –</l>
+<l>– Va´, che Dio mi ti guardi, Africo mio! –</l></lg>
+
+<lg type="ottava"><head>322</head>
+<l>Africo se ne giva verso ´l piano;</l>
+<l>Mensola al monte su pel colle tira</l>
+<l>molto pensosa, col suo dardo in mano,</l>
+<l>e del malfatto forte ne sospira.</l>
+<l>Africo, ch´era ancor poco lontano</l>
+<l>da lei, con gli occhi la segue e rimira,</l>
+<l>e ad ogni passo indietro si voltava</l>
+<l>a rimirar colei che tanto amava.</l></lg>
+
+<lg type="ottava"><head>323</head>
+<l>Mensola ancora spesso si volgea</l>
+<l>a rimirar colui ch´a forza amava,</l>
+<l>e che ferita sì forte l´avea</l>
+<l>che poco altro che lui disiderava;</l>
+<l>e l´un all´altro di lontan facea</l>
+<l>ispesso cenni ed atti, e salutava,</l>
+<l>infin che non fu lor dal bosco folto</l>
+<l>e dalle coste e ripe il mirar tolto.</l></lg>
+
+<lg type="ottava"><head>324</head>
+<l>Tornossi Africo là dove nascoso</l>
+<l>aveva il suo vestir quella mattina,</l>
+<l>e quivi giunto, sanz´altro riposo,</l>
+<l>si vestì la gonnella mascolina,</l>
+<l>poi verso casa tornando gioioso;</l>
+<l>e giunto lì, la vesta feminina</l>
+<l>ripose nel suo luogo, che la madre</l>
+<l>non se n´accorse, né ancora il padre.</l></lg>
+
+<lg type="ottava"><head>325</head>
+<l>E come che assai malinconia</l>
+<l>avesse avuto, il giorno, Girafone</l>
+<l>ed Alimena, mirando la via</l>
+<l>se ritornar vedevano il garzone,</l>
+<l>pur, quando ritornato lo vedia,</l>
+<l>amenduo n´ebbon gran consolazione,</l>
+<l>e domandarlo perché tanto stato</l>
+<l>era, ch´a casa non era tornato.</l></lg>
+
+<lg type="ottava"><head>326</head>
+<l>Molte bugie e scuse Africo fece</l>
+<l>per ricoprir l´amoroso disire,</l>
+<l>il qual, più che non fa ´l foco la pece,</l>
+<l>l´ardeva più che mai, a non mentire;</l>
+<l>e pareali aver fatto men ch´un cece,</l>
+<l>e ´nfra se stesso incominciava a dire:</l>
+<l>«Sarà giammai doman, che io ritorni</l>
+<l>a baciar quella bocca e gli occhi adorni?»</l></lg>
+
+<lg type="ottava"><head>327</head>
+<l>Così ogni cosa venìa raccontando,</l>
+<l>con seco stesso, di ciò ch´avea fatto,</l>
+<l>molto diletto di questo pigliando,</l>
+<l>rammentandosi ben di ciascun atto</l>
+<l>ch´avean insieme fatto; ma poi, quando</l>
+<l>il tempo fu, per dormir n´andò ratto,</l>
+<l>come che punto dormir non potette,</l>
+<l>ma tutta notte in tai pensieri stette.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Mensola si dolea fra sé, dicendo</l>
+<l>«Oh me tapina, lassa e sventurata!»,</l>
+<l>maledicendo il dì ch´ella fu nata,</l>
+<l>il suo peccato molto riprendendo.</l></lg></add></ab>
+
+<lg type="ottava"><head>328</head>
+<l>Torniamo un poco a Mensola, la quale</l>
+<l>sen gìa, pensosa e sola, su pel monte;</l>
+<l>e parendole aver fatto pur male,</l>
+<l>forte pentiasi, e con la man la fronte</l>
+<l>si percotea, dicendo: «Poi che tale</l>
+<l>fortuna m´ha percossa con tant´onte,</l>
+<l>deh, Morte, vieni a me: i´ te ne priego,</l>
+<l>che non mi facci d´uccidermi niego».</l></lg>
+
+<lg type="ottava"><head>329</head>
+<l>Così passò del gran monte la cima,</l>
+<l>e poi scendendo giù per quella costa,</l>
+<l>là dove ´l sol percuote quando prima</l>
+<l>si leva, e ch´a oriente è contraposta;</l>
+<l>e secondo che ´l mio avviso stima,</l>
+<l>era la sua caverna, in quella, posta,</l>
+<l>forse un trar d´arco sopra ´l fiumicello,</l>
+<l>ch´a piè vi corre con grosso ruscello.</l></lg>
+
+<lg type="ottava"><head>330</head>
+<l>E giunta alla caverna sua, in quella</l>
+<l>entrò occupata di molti pensieri,</l>
+<l>e quivi ogni sua doglia rinnovella,</l>
+<l>dicendo: «Lassa a me, perché l´altr´ieri,</l>
+<l>quand´Africo mi vide tanto bella</l>
+<l>con Diana alla fonte, da primieri,</l>
+<l>non fu´ io morta, o ´l giorno maladetto</l>
+<l>ch´i´ mi scontrai in questo giovinetto?</l></lg>
+
+<lg type="ottava"><head>331</head>
+<l>Non so giammai, tapina, con qual faccia</l>
+<l>vada innanzi a Diana, né che modo</l>
+<l>i´ mi debba tener, né ch´io mi faccia;</l>
+<l>ché di paura mi consumo e rodo,</l>
+<l>ed ogni senso dentro mi s´agghiaccia,</l>
+<l>e nella gola mi s´è fatto un nodo,</l>
+<l>per la malinconia e pel dolore</l>
+<l>ch´i´ sento, che m´offende dentro al core.</l></lg>
+
+<lg type="ottava"><head>332</head>
+<l>Deh, Morte, vieni a questa sventurata,</l>
+<l>vieni a questa mondana peccatrice,</l>
+<l>vieni a colei che ´n malora fu nata;</l>
+<l>non t´indugiar, ché mi fia più felice,</l>
+<l>morir agual, poi che contaminata</l>
+<l>i´ ho verginità: ché ´l cor mi dice</l>
+<l>che, se da te non verrai molto tosto,</l>
+<l>di farmi incontro a te ho ´l cor disposto.</l></lg>
+
+<lg type="ottava"><head>333</head>
+<l>Omè, compagne mie, voi non pensate</l>
+<l>ch´i´ sia uscita fuor di vostra schiera;</l>
+<l>omè, compagne mie, che solavate</l>
+<l>tenermi tanto cara, quand´io era</l>
+<l>sanza peccato e con verginitate,</l>
+<l>ora mi caccerete come fiera,</l>
+<l>e come quella che ha al tutto corrotta</l>
+<l>verginità, e vostra legge rotta.</l></lg>
+
+<lg type="ottava"><head>334</head>
+<l>I´ posso esser annoverata omai,</l>
+<l>o Caliston, con teco, che com´io</l>
+<l>già fosti ninfa, e poi con molti guai</l>
+<l>Diana ti cacciò per ogni rio,</l>
+<l>perché Giove t´ingannò, come sai,</l>
+<l>ed in orsa, crudel, ti convertio;</l>
+<l>e givi errando, e le cacce temevi,</l>
+<l>mugghiando quando favellar volevi.</l></lg>
+
+<lg type="ottava"><head>335</head>
+<l>O Cialla ninfa, di Diana compagna,</l>
+<l>la quel fosti sforzata da Mugnone,</l>
+<l>Diana, che di te ancor si lagna,</l>
+<l>t´uccise nelle braccia col garzone;</l>
+<l>ed or se´ fatta fonte, e Mugnon bagna,</l>
+<l>a piè di te, le rive del vallone;</l>
+<l>i´ son di vostra schiera, a mio dispetto:</l>
+<l>così sia questo giorno maladetto!</l></lg>
+
+<lg type="ottava"><head>336</head>
+<l>E´ mi par già che Diana trasmuti</l>
+<l>le membra mie in un corrente fiume,</l>
+<l>overo in fiera co´ dossi velluti,</l>
+<l>o com´uccel mi par già aver le piume,</l>
+<l>o alber fatta co´ rami fronzuti,</l>
+<l>e di persona perduto ´l costume;</l>
+<l>né son più degna del dardo portare,</l>
+<l>né anco come ninfa più cacciare.</l></lg>
+
+<lg type="ottava"><head>337</head>
+<l>O padre, o madre, o fratelli e sorelle,</l>
+<l>quando a Diana voi mi consecrasti</l>
+<l>e vestistimi le sacre gonnelle,</l>
+<l>ben mi ricorda che mi comandasti</l>
+<l>che Diana ubidissi, e tutte quelle</l>
+<l>che seguon lei, e poi m´accompagnasti</l>
+<l>in questi monti, non perch´io peccassi,</l>
+<l>ma sempre mai verginità osservassi.</l></lg>
+
+<lg type="ottava"><head>338</head>
+<l>Voi non pensate ch´i´ abbia rotta fede</l>
+<l>alla sacra Diana, né ch´i´ sia</l>
+<l>in tanta angoscia, e niun di voi vede</l>
+<l>in quanta pena sta la vita mia:</l>
+<l>ché, se ´l sapesse, pietà né merzede</l>
+<l>non aresti di me, ma come ria</l>
+<l>e peccatrice me uccideresti,</l>
+<l>e certamente molto ben faresti».</l></lg>
+
+<lg type="ottava"><head>339</head>
+<l>Sì grande era la doglia e ´l gran lamento</l>
+<l>che Mensola menava, e l´angoscioso</l>
+<l>e duro pianto con grieve tormento,</l>
+<l>ch´i´ nol potre´ mai pôr sì doloroso</l>
+<l>in iscrittura che, per ognun cento,</l>
+<l>maggior non fosse: il suo parlar pietoso</l>
+<l>arebbe fatto le pietre e gli albòri</l>
+<l>sol per pietà di lei menar dolori.</l></lg>
+
+<lg type="ottava"><head>340</head>
+<l>E con cota´ lamenti e pianto amaro</l>
+<l>logorò quella notte; ma apparito</l>
+<l>che poi fu ´l giorno bellissimo e chiaro,</l>
+<l>perché la notte non avea dormito,</l>
+<l>sì gli occhi lagrimosi la gravaro,</l>
+<l>ch´ogni spirito fu da lei partito,</l>
+<l>e adormentossi, mentre che piangea</l>
+<l>per la gran doglia che patito avea.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Africo torna la mattina al loco</l>
+<l>credendo trovar Mensola alla fonte,</l>
+<l>e non trovolla; con parole pronte,</l>
+<l>sperando e non venendo, entrò nel foco.</l></lg></add></ab>
+
+<lg type="ottava"><head>341</head>
+<l>Africo, che nell´amoroso foco</l>
+<l>ardeva più che mai, si fu levato,</l>
+<l>come vide ´l mattin, che molto poco</l>
+<l>la notte avea dormito, e fu ´nviato</l>
+<l>sus´alto al monte, e giunto fu nel loco</l>
+<l>dove con Mensola, il giorno passato,</l>
+<l>avea preso piacer, diletto e gioia,</l>
+<l>come ch´al fine gli tornasse in noia.</l></lg>
+
+<lg type="ottava"><head>342</head>
+<l>Quivi credette Mensola trovare,</l>
+<l>ma non trovando lei, infra sé disse:</l>
+<l>«Egli è ancor assai tosto» ed a ´spettare</l>
+<l>la cominciò, perché, quando venisse,</l>
+<l>quivi ´l trovasse; e perché ´l soprastare</l>
+<l>non gli paresse lungo, sì si misse,</l>
+<l>per far ghirlande, ind´oltre a coglier fiori</l>
+<l>piccioli e grandi e di vari colori.</l></lg>
+
+<lg type="ottava"><head>343</head>
+<l>E fatta che n´ebbe una, in su´ capelli</l>
+<l>biondi di lui si mise, e la seconda</l>
+<l>cominciò a far, d´alquanti fior più belli,</l>
+<l>mescolando con essi alcuna fronda</l>
+<l>d´odoriferi e gentili albuscelli,</l>
+<l>dicendo: «Questa in sulla treccia bionda,</l>
+<l>con le mie man, di Mensola porroe</l>
+<l>quando verrà, e poi la baceroe».</l></lg>
+
+<lg type="ottava"><head>344</head>
+<l>Così aspettando invano il giovinetto</l>
+<l>Mensola sua, la qual ancor dormia,</l>
+<l>cogliendo ind´oltre fiori a suo diletto</l>
+<l>perch´aspettarla grave non gli sia,</l>
+<l>e riguardando spesso pel boschetto</l>
+<l>e ´n qua e ´n là, se Mensola venìa;</l>
+<l>ed ogni busso che ode, o che vede</l>
+<l>foglia menar, che Mensola sia crede.</l></lg>
+
+<lg type="ottava"><head>345</head>
+<l>Ma, sendo l´ora già più che di terza,</l>
+<l>e non veggendo Mensola venire,</l>
+<l>aspettò tanto, che del sol la ferza</l>
+<l>era sì calda che già sofferire</l>
+<l>non si potea; onde più non ischerza</l>
+<l>con fiori o con ghirlande, ma a sentire</l>
+<l>cominciò pena e farsi maraviglia,</l>
+<l>alzando spesso or qua or là le ciglia.</l></lg>
+
+<lg type="ottava"><head>346</head>
+<l>E cominciò: «Omè,» seco dicendo</l>
+<l>«che vorrà questo dir, ch´ella non viene?»</l>
+<l>E ´nfra sé pensier nuovi va volgendo,</l>
+<l>scuse trovando spesso alle sue pene,</l>
+<l>e di lei mille casi al core avendo,</l>
+<l>sì come ad altri assai spesso interviene,</l>
+<l>che, disiando che la cosa venga,</l>
+<l>imagina ch´assai cose intervenga.</l></lg>
+
+<lg type="ottava"><head>347</head>
+<l>Passò la nona e ´l vespro, e già la sera</l>
+<l>era venuta, e ´l giorno era fuggito,</l>
+<l>che Mensola venuta mai non v´era:</l>
+<l>ond´Africo rimase sbigottito,</l>
+<l>forte doglioso, e con turbata cera</l>
+<l>di partirsi di lì prese partito,</l>
+<l>dicendo: «Forse ch´ella arà trovato,</l>
+<l>tra via, le sue compagne in qualche lato,</l></lg>
+
+<lg type="ottava"><head>348</head>
+<l>le quai l´aranno forse ritenuta,</l>
+<l>e però l´aspettar mio saria ´nvano;</l>
+<l>e veggio già la notte esser venuta,</l>
+<l>ed i´ ho andar di qui molto lontano:</l>
+<l>e bench´i´ abbia oggi la beffe avuta,</l>
+<l>per aspettarla in questo luogo strano,</l>
+<l>i´ ci ritornerò pur domattina».</l>
+<l>E per girsene scese la collina.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Mensola abandona Africo a gran torto,</l>
+<l>fuggendo per li boschi a nol trovare;</l>
+<l>Africo, il qual de´ lei sempre cercare,</l>
+<l>non la trovando, col dardo s´è morto.</l></lg></add></ab>
+
+<lg type="ottava"><head>349</head>
+<l>Mensola s´era in su la nona desta</l>
+<l>tutta dogliosa e forte addolorata,</l>
+<l>sendole molte cose per la testa</l>
+<l>gite, ch´ella se n´era spaventata;</l>
+<l>ma non tanto la ´mpedì la tempesta,</l>
+<l>ch´ella avesse, però, dimenticata</l>
+<l>ciò che ´l giorno davanti avea promesso</l>
+<l>ad Africo, di ritornar ad esso.</l></lg>
+
+<lg type="ottava"><head>350</head>
+<l>Ma tanto s´era di quel ch´avea fatto</l>
+<l>pentuta, che disposto ha non tornare</l>
+<l>dove avea fatto con Africo patto</l>
+<l>di doversi con lui il dì trovare;</l>
+<l>ma, quant´ella potesse, in ciascun atto</l>
+<l>volere il fallo suo grande occultare,</l>
+<l>acciò che, quando Diana venisse,</l>
+<l>il fallo ch´avea fatto non sentisse.</l></lg>
+
+<lg type="ottava"><head>351</head>
+<l>Non però le poté giammai del core</l>
+<l>Africo uscir, che continovamente</l>
+<l>non gli portasse grandissimo amore,</l>
+<l>e che nol disiasse occultamente;</l>
+<l>ma tanto la costringeva il timore</l>
+<l>ch´aveva di Diana nella mente,</l>
+<l>ch´ella non andò mai dove credesse</l>
+<l>ch´Africo fosse, o trovarlo potesse.</l></lg>
+
+<lg type="ottava"><head>352</head>
+<l>Così passò ´l secondo e ´l terzo giorno,</l>
+<l>e ´l quarto e ´l quinto e ´l sesto, e ancora il mese</l>
+<l>ch´Africo mai non vide il viso adorno</l>
+<l>della sua amante, ma con molte offese</l>
+<l>vivea, faccendo sovente ritorno</l>
+<l>nel luogo là dove Mensola prese,</l>
+<l>e qua e là per lo monte cercando.</l>
+<l>molte cose di lei imaginando.</l></lg>
+
+<lg type="ottava"><head>353</head>
+<l>Ma nulla venìa a dir la sua fatica:</l>
+<l>ché la Fortuna, già fatta invidiosa</l>
+<l>di lui, e d´ogni suo piacer nimica,</l>
+<l>volle pôr fine misera e angosciosa</l>
+<l>alla sua vita dolente e mendica,</l>
+<l>come colei che non truova mai posa,</l>
+<l>ma sempre va le cose rivolgendo</l>
+<l>del mondo, nulla mai fermo tenendo.</l></lg>
+
+<lg type="ottava"><head>354</head>
+<l>Per che, già sendo un mese e più passato</l>
+<l>che non poté mai Mensola vedere,</l>
+<l>e sendogli pel gran dolor mancato</l>
+<l>sì la natura e la forza e ´l podere,</l>
+<l>ch´un animal parea già diventato</l>
+<l>nel viso e nel parlar e nel tacere,</l>
+<l>e ´l capo biondo smorto era venuto</l>
+<l>e sanza parlar quasi stava muto.</l></lg>
+
+<lg type="ottava"><head>355</head>
+<l>E sendo un giorno a guardia del suo armento,</l>
+<l>ind´oltre a piè del monte, come spesso</l>
+<l>egli era usato, gli venne talento</l>
+<l>di gir al luogo là dove promesso</l>
+<l>da Mensola gli fu, con saramento,</l>
+<l>di ritornare a lui; e fussi messo,</l>
+<l>lassando del bestiame il grande stuolo,</l>
+<l>sol con un dardo in man, nel cammin solo.</l></lg>
+
+<lg type="ottava"><head>356</head>
+<l>E pervenuto all´acqua del vallone,</l>
+<l>ove Mensola sua sforzato avea,</l>
+<l>quivi mirandosi intorno, il garzone</l>
+<l>«O Mensola,» infra se stesso dicea</l>
+<l>«i´ non credetti mai tal tradigione</l>
+<l>della tua fé, che promesso m´avea</l>
+<l>di ritornar con saramenti e giuri:</l>
+<l>or par che poco di Dio o di me curi!</l></lg>
+
+<lg type="ottava"><head>357</head>
+<l>Non ti ricorda quando con le mani</l>
+<l>insieme in questo luogo ci pigliamo,</l>
+<l>e con tuoi saramenti falsi e vani</l>
+<l>dicesti di tornar, poi ci baciamo</l>
+<l>insieme gli occhi, che stann´or lontani,</l>
+<l>ed in quel luogo poi ci partavamo?</l>
+<l>Non ti ricorda quanti testimoni</l>
+<l>aggiugnesti alle tue promessioni?».</l></lg>
+
+<lg type="ottava"><head>358</head>
+<l>I´ non potre´ mai dir tanti lamenti,</l>
+<l>quant´Africo facea quivi piangendo;</l>
+<l>e´, per crescer maggiori i suoi tormenti</l>
+<l>giva ogni cosa quivi rivolgendo</l>
+<l>de´ suoi amori, ciascuni accidenti,</l>
+<l>buoni e cattivi; per questo, crescendo</l>
+<l>la doglia sua ognor molto maggiore,</l>
+<l>diliberò d´uscir di tal dolore.</l></lg>
+
+<lg type="ottava"><head>359</head>
+<l>E sopra l´acqua del fossato gito,</l>
+<l>l´aguto dardo si recava in mano,</l>
+<l>e al petto si ponea ´l ferro pulito,</l>
+<l>e ´n terra l´asta, dicendo: «O villano</l>
+<l>Amor, che m´hai condotto a tal partito,</l>
+<l>ch´i´ moro in questo modo tanto strano!</l>
+<l>e pure, innanzi ch´i´ voglia più stare</l>
+<l>in cotal vita, mi vo´ disperare.</l></lg>
+
+<lg type="ottava"><head>360</head>
+<l>O padre, o madre, fatevi con Dio!</l>
+<l>i´ me ne vo nello ´nferno angoscioso;</l>
+<l>e tu, fiume, riterrai ´l nome mio,</l>
+<l>e manifesterai il doloroso</l>
+<l>caso, ch´è occorso sì crudel e rio;</l>
+<l>a chiunque ti vedrà sì sanguinoso</l>
+<l>correr, o lasso, del mio sangue tinto,</l>
+<l>paleserai dove Amor m´ha sospinto».</l></lg>
+
+<lg type="ottava"><head>361</head>
+<l>E detto questo, Mensola chiamando,</l>
+<l>il ferro tutto nel petto si mise,</l>
+<l>il qual, al cor tostamente passando</l>
+<l>del giovinetto, con doglia l´uccise;</l>
+<l>per che, morto nell´acqua allor cascando,</l>
+<l>l´anima da quel corpo si divise,</l>
+<l>e l´acqua che correa per la gran fossa,</l>
+<l>del sangue tinta, venne tutta rossa.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Il sangue in abondanza se n´andava</l>
+<l>d´Africo, e giva forte ruinando</l>
+<l>e ´nverso della sua casa andando:</l>
+<l>e Girafon veggendol mal pensava.</l></lg></add></ab>
+
+<lg type="ottava"><head>362</head>
+<l>Facea quel fiume, sì come fa ancora,</l>
+<l>di sé duo parti alquanto giù più basso;</l>
+<l>e quella parte che fa minor gora,</l>
+<l>presso alla casa del giovane lasso,</l>
+<l>correva sanguinoso: e sendo allora</l>
+<l>Girafon fuori, e´ vide il fiume grasso</l>
+<l>di sangue, per che subito nel core</l>
+<l>gli venne annunzio di futur dolore.</l></lg>
+
+<lg type="ottava"><head>363</head>
+<l>Per che, sanza dir nulla, di presente</l>
+<l>n´andò dove sentì ch´era ´l suo armento;</l>
+<l>e non trovando Africo, immantanente</l>
+<l>su per lo fiume, non con passo lento,</l>
+<l>tenne per trovar donde primamente</l>
+<l>di quel sangue venia ´l cominciamento,</l>
+<l>e di chi fosse, e chi n´era cagione;</l>
+<l>e giunse al loco ov´Africo trovòne.</l></lg>
+
+<lg type="ottava"><head>364</head>
+<l>Quando vide ´l figliuol morto giacere,</l>
+<l>col dardo fitto nel giovanil petto,</l>
+<l>appena in piè si potea sostenere,</l>
+<l>sì fu dal dolor subito costretto</l>
+<l>e per l´un braccio con gran dispiacere</l>
+<l>il prese, e disse: – Omè, qual maladetto</l>
+<l>braccio fu quel che ti diè tal ferita,</l>
+<l>o figliuol mio, che t´ha tolto la vita? –</l></lg>
+
+<lg type="ottava"><head>365</head>
+<l>Egli ´l trasse dell´acqua, e ´n sulla riva</l>
+<l>il pose lagrimando, il padre vecchio,</l>
+<l>e con dolor quel giorno maladiva,</l>
+<l>dicendo: – O figliuol, del tuo padre specchio,</l>
+<l>or che farà la madre tua cattiva,</l>
+<l>che non arà mai più un tuo parecchio?</l>
+<l>Che faren noi, tapini e pien di duoli,</l>
+<l>poi che rimasi siàn di te sì soli? –</l></lg>
+
+<lg type="ottava"><head>366</head>
+<l>E ´l fitto dardo gli cavò del core,</l>
+<l>e ´l ferro rimirava con tristizia,</l>
+<l>e poi dicea con pianto e con dolore:</l>
+<l>– Chi ti lanciò così crudel nequizia</l>
+<l>nel petto, o figliuol mio. con tal furore</l>
+<l>ch´i´ n´ho perduto ogni ben e letizia?</l>
+<l>Credo che fu Diana dispietata,</l>
+<l>che non fia ancor del mio sangue saziata. –</l></lg>
+
+<lg type="ottava"><head>367</head>
+<l>Ma poi ch´egli ha quel dardo rimirato</l>
+<l>più e più volte, conobbe ch´egli era</l>
+<l>quel che ´l suo figlio sempre avea portato;</l>
+<l>per che, con trista e lagrimosa cera,</l>
+<l>disse: – O tapin figliuolo sventurato,</l>
+<l>qual fu quella cagion cotanto fera</l>
+<l>che ti condusse qui, a sì rie sorte?</l>
+<l>o chi ti diè col dardo tuo la morte? –</l></lg>
+
+<lg type="ottava"><head>368</head>
+<l>Poi, dopo molto ed infinito pianto,</l>
+<l>Girafone il figliuol si gittò ´n collo,</l>
+<l>e con quel dardo, doloroso tanto,</l>
+<l>alla casetta lor così portollo,</l>
+<l>ed alla madre il fatto tutto quanto,</l>
+<l>piangendo tuttavia, raccontollo;</l>
+<l>e ´l dardo le mostrava, e sì dicea</l>
+<l>come del petto tratto gliel´avea.</l></lg>
+
+<lg type="ottava"><head>369</head>
+<l>Se la madre fe´ quivi gran lamento</l>
+<l>non ne domandi persona nessuna,</l>
+<l>ché dir non si potrebbe a compimento</l>
+<l>le grida e ´l pianto, per cosa veruna,</l>
+<l>e quanta doglia sentì con tormento,</l>
+<l>bestemmiando gl´iddei e la fortuna;</l>
+<l>e ´l viso stretto con quel del figliuolo</l>
+<l>tenea, piangendo e menando gran duolo.</l></lg>
+
+<lg type="ottava"><head>370</head>
+<l>Pure alla fine, sì com´era usanza</l>
+<l>a quel tempo di far de´ corpi morti,</l>
+<l>così allor, dopo gran lamentanza</l>
+<l>ed urli e pianti durissimi e forti,</l>
+<l>arson quel corpo con grande abondanza</l>
+<l>di lagrime e dolor sanza conforti,</l>
+<l>come color ch´altro ben non avièno,</l>
+<l>il qual si veggon or venuto meno.</l></lg>
+
+<lg type="ottava"><head>371</head>
+<l>E poi raccolson la polver dell´ossa</l>
+<l>del lor figliuol, e al fiume se n´andaro,</l>
+<l>là dove l´acqua ancor correva rossa</l>
+<l>del propio sangue del lor figliuol caro;</l>
+<l>e ´n sulla riva feciono una fossa</l>
+<l>e dentro quella polver sotterraro,</l>
+<l>acciò che ´l nome suo non si spegnesse,</l>
+<l>ma sempre mai quel fiume il ritenesse.</l></lg>
+
+<lg type="ottava"><head>372</head>
+<l>Da poi in qua quel fiume dalla gente</l>
+<l>Africo fu chiamato, e ancor si chiama.</l>
+<l>Quivi rimase sol tristo e dolente</l>
+<l>il padre e la sua madre molto grama.</l>
+<l>Tal fu la fine d´Africo piacente,</l>
+<l>e così al fiume rimase la fama.</l>
+<l>Or lasciam qui, e ritorniamo omai</l>
+<l>a Mensola, la qual io vi lasciai.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Fe´ creder Mensola alle sue compagne</l>
+<l>ch´ella scampata fosse da colui,</l>
+<l>il qual pigliar la volse, e poi da lui</l>
+<l>si sviluppò, ch´ancor ne trema e piagne.</l></lg></add></ab>
+
+<lg type="ottava"><head>373</head>
+<l>Mensola, in questo mezzo, assai dolente</l>
+<l>era vivuta e con malinconia,</l>
+<l>ma pur, veggendo che levar niente</l>
+<l>di ciò che fatto avea non si poria,</l>
+<l>de´ casi avversi venne paziente,</l>
+<l>e cominciò con la sua compagnia</l>
+<l>alcuna volta pur a ritrovarsi,</l>
+<l>e contro alla sua voglia a rallegrarsi.</l></lg>
+
+<lg type="ottava"><head>374</head>
+<l>E più fiate si trovò con quelle</l>
+<l>ninfe che ´l giorno con lei eran sute</l>
+<l>che Africo la prese; e le novelle</l>
+<l>per tutte l´altre già eran sapute,</l>
+<l>non dico del peccato, ma com´elle</l>
+<l>dal giovane pigliar furon volute;</l>
+<l>e Mensola con suoi casi e bugie</l>
+<l>fe´ creder lor ch´anch´ella si fuggie.</l></lg>
+
+<lg type="ottava"><head>375</head>
+<l>Così più ogni giorno assicurata</l>
+<l>Mensola s´era, da poi ch´ella vede</l>
+<l>che dalle sue compagne era onorata</l>
+<l>sì come mai, e ch´ognuna si crede</l>
+<l>che com´elle non sia contaminata,</l>
+<l>e ch´alle sue bugie si dava fede,</l>
+<l>e perché, ancor, a Diana credea</l>
+<l>il peccato celar che fatto avea.</l></lg>
+
+<lg type="ottava"><head>376</head>
+<l>Né però Amor l´avea tratto del petto</l>
+<l>Africo, ch´ella non si ricordasse</l>
+<l>del nome suo e del preso diletto,</l>
+<l>e che tacitamente nol chiamasse</l>
+<l>quand´avea ´l tempo, ed alcun sospiretto</l>
+<l>assai sovente per lui non gittasse;</l>
+<l>sì come innamorata e paurosa,</l>
+<l>tenea la fiamma dentro al cor nascosa.</l></lg>
+
+<lg type="ottava"><head>377</head>
+<l>E come far solea, già cominciava</l>
+<l>con le compagne sue, col dardo in mano,</l>
+<l>a gir cacciando, e quand´ella arrivava</l>
+<l>dove Africo la prese, di lontano</l>
+<l>quel luogo rimirando, sospirava,</l>
+<l>dicendo infra se stessa molto piano:</l>
+<l>«O Africo mio, quanta gioia avesti</l>
+<l>già in quel luogo, quando mi prendesti!</l></lg>
+
+<lg type="ottava"><head>378</head>
+<l>Or non so io più che di te si sia,</l>
+<l>ma credo ben che stai in gran tormento</l>
+<l>per me; ma non è già la colpa mia:</l>
+<l>paura è che mi toglie ogni ardimento».</l>
+<l>Così dicendo, volentier vorria</l>
+<l>Africo suo aver fatto contento,</l>
+<l>ove credesse che giammai saputo</l>
+<l>da Diana o da ninfa fosse suto.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> E sendo già i tre mesi passati,</l>
+<l>il corpo a Mensola cominciò a ingrossare;</l>
+<l>ella si cominciò a maravigliare,</l>
+<l>non sappiendo dello ´mpregnar gli aguati.</l></lg></add></ab>
+
+<lg type="ottava"><head>379</head>
+<l>Vivendo adunque Mensola in tal vita,</l>
+<l>innamorata e suggetta a temenza,</l>
+<l>alquanto nel bel viso impalidita</l>
+<l>era venuta, per quella semenza</l>
+<l>che nel suo ventre già era fiorita;</l>
+<l>passò tre mesi sanz´aver credenza</l>
+<l>di partorir giammai o far figliuolo,</l>
+<l>com´ella fece poscia con gran duolo.</l></lg>
+
+<lg type="ottava"><head>380</head>
+<l>Ma faccendo suo corso la natura,</l>
+<l>in capo di tre mesi incomincioe</l>
+<l>a manifesto far la creatura</l>
+<l>che dentro al ventre suo s´ingeneroe;</l>
+<l>per la qual cosa, a ciò ponendo cura,</l>
+<l>Mensola forte si maraviglioe,</l>
+<l>veggendosi ingrossare il corpo e´ fianchi,</l>
+<l>e di gravezza pieni e fatti stanchi.</l></lg>
+
+<lg type="ottava"><head>381</head>
+<l>Di questo si facea gran maraviglia</l>
+<l>Mensola, la cagion non conoscendo,</l>
+<l>come colei che mai figliuol né figlia</l>
+<l>non avea avuto, ma fra sé dicendo:</l>
+<l>«Saria, questo, difetto, che mi piglia</l>
+<l>sì la persona, ch´ognor va crescendo,</l>
+<l>ed ogni giorno vengo più pesante,</l>
+<l>e fatta tutta svogliata e cascante?».</l></lg>
+
+<lg type="ottava"><head>382</head>
+<l>Una ninfa abitava in quella piaggia,</l>
+<l>un mezzo miglio a Mensola vicina,</l>
+<l>a una spelonca profonda e selvaggia,</l>
+<l>la qual, maestra d´ogni medicina,</l>
+<l>sopra dell´altre ell´era la più saggia,</l>
+<l>e ben sapea di ciascuna dottrina;</l>
+<l>e di cent´anni e più ell´era vecchia,</l>
+<l>e chiamata era ninfa Sinedecchia.</l></lg>
+
+<lg type="ottava"><head>383</head>
+<l>Mensola puramente n´andò a questa,</l>
+<l>e disse, : – O madre nostra, il tuo consiglio</l>
+<l>m´è di bisogno – e poi le manifesta</l>
+<l>il caso suo e ciascun suo periglio;</l>
+<l>Sinedecchia, con la crollante testa,</l>
+<l>rispose tosto con turbato piglio:</l>
+<l>– Figliuola mia, tu hai con uom peccato,</l>
+<l>e non puoi più tener questo celato. –</l></lg>
+
+<lg type="ottava"><head>384</head>
+<l>Mensola nel bel viso venne rossa,</l>
+<l>udendo tai parole, per vergogna,</l>
+<l>e non veggendo che negarlo possa,</l>
+<l>con gli occhi bassi timida trasogna,</l>
+<l>volendosi mostrar di questo grossa;</l>
+<l>ma poi, veggendo che non le bisogna</l>
+<l>celar a lei che tutto conoscea,</l>
+<l>sanza guatarla, o risponder, piangea.</l></lg>
+
+<lg type="ottava"><head>385</head>
+<l>Sinedecchia, veggendo il suo lamento,</l>
+<l>e la vergogna e la sua puritade,</l>
+<l>avvisò che di suo consentimento</l>
+<l>non fosse questo, né sua volontade,</l>
+<l>ma fosse stato con isforzamento;</l>
+<l>perché alquanto gliene venne pietade,</l>
+<l>e per volerla un poco confortare,</l>
+<l>in questo modo cominciò a parlare:</l></lg>
+
+<lg type="ottava"><head>386</head>
+<l>– Figliuola mia, questo peccato è tale,</l>
+<l>che nol potrai celar lungamente;</l>
+<l>e come ch´abbi fatto pur gran male,</l>
+<l>non vo´ però che tanto fieramente</l>
+<l>tu ti sconforti, ch´omai poco vale,</l>
+<l>se tu te n´uccidessi veramente;</l>
+<l>ma veniamo a´ rimedi, e dimmi come</l>
+<l>e chi ti tolse di castità il pome. –</l></lg>
+
+<lg type="ottava"><head>387</head>
+<l>Niente a questo Mensola risponde,</l>
+<l>ma, per vergogna, in grembo il capo pose</l>
+<l>a Sinedecchia, e ´l bel viso nasconde,</l>
+<l>udendo rammentarsi cota´ cose;</l>
+<l>e gli occhi suoi parean fatti due gronde</l>
+<l>che fosson d´acqua molto doviziose,</l>
+<l>tanto forte piangea e dirottamente,</l>
+<l>sanza parlar o risponder niente.</l></lg>
+
+<lg type="ottava"><head>388</head>
+<l>Ma Sinedecchia pur le disse tanto,</l>
+<l>con sue parole, ch´ella confessoe,</l>
+<l>con boce rotta e con singhiozzi e pianto,</l>
+<l>sì come un giovinetto la ´ngannoe,</l>
+<l>ed in che modo è ´l fatto tutto quanto,</l>
+<l>e come ultimamente la sforzoe;</l>
+<l>e poi a pianger cominciò più forte</l>
+<l>per la vergogna, chiamando la morte.</l></lg>
+
+<lg type="ottava"><head>389</head>
+<l>La vecchia ninfa, quando questo intese,</l>
+<l>come per sottil modo fu ingannata</l>
+<l>e quanti lacci quel giovane tese,</l>
+<l>pietà le venne della sventurata;</l>
+<l>poi con parole alquanto la riprese</l>
+<l>del fallo suo, perch´un´altra fiata,</l>
+<l>sotto cotal fidanza, non peccasse,</l>
+<l>e perché più ´ngannar non si lasciasse.</l></lg>
+
+<lg type="ottava"><head>390</head>
+<l>Poi tanto seppe dire e confortarla,</l>
+<l>ch´ella la fe´ di piangere restare,</l>
+<l>promettendole di sempre ma´ atarla</l>
+<l>come figliuola, in ciò che potrà fare;</l>
+<l>poi, d´ogni cosa volendo avvisarla,</l>
+<l>in questo modo cominciò a parlare:</l>
+<l>– Figliuola mia, quel ch´io ti dico intendi,</l>
+<l>e fa´ che bene ogni cosa comprendi.</l></lg>
+
+<lg type="ottava"><head>391</head>
+<l>Quando compiuti i nove mesi arai,</l>
+<l>dal giorno che peccasti cominciando,</l>
+<l>una creatura tu partorirai;</l>
+<l>allor la dea Lucina tu chiamando,</l>
+<l>il suo aiuto l´addomanderai,</l>
+<l>e la pietosa tel darà; e poi, quando</l>
+<l>nato sarà, quel che fia noi ´l vedremo,</l>
+<l>e ben ad ogni cosa provedremo.</l></lg>
+
+<lg type="ottava"><head>392</head>
+<l>E tu di questo non ti dar pensiero:</l>
+<l>lascialo a me, ch´i´ ho ben già pensato</l>
+<l>dentro dal cor ciò che farà mestiero,</l>
+<l>e ciò che far dovrò quando fia nato;</l>
+<l>ma fa´ che tu fuor di questo sentiero</l>
+<l>non vadi ´n questo mezzo, che ´l peccato</l>
+<l>non sia palese a quelle che nol sanno,</l>
+<l>ché tornar ti potrebbe in troppo danno.</l></lg>
+
+<lg type="ottava"><head>393</head>
+<l>Ma sola ti starai alla caverna,</l>
+<l>e´ panni porta larghi quanto puoi,</l>
+<l>sanza cintura, che non si discerna</l>
+<l>il corpo grande pe´ peccati tuoi;</l>
+<l>e quivi pianamente ti governa,</l>
+<l>dandoti pace, sì come far suoi,</l>
+<l>e spesso vieni a me, ed io ti dirò</l>
+<l>ciò che far tu dovrai intorno a ciò. –</l></lg>
+
+<lg type="ottava"><head>394</head>
+<l>Queste parole dieron gran conforto</l>
+<l>alla fanciulla, e disse: – Madre mia,</l>
+<l>poi che condotta sono a questo porto</l>
+<l>pel mio peccato e per la mia follia,</l>
+<l>perch´io conosco molto chiaro e scorto</l>
+<l>che ´l vostro aiuto molto buon mi fia,</l>
+<l>a voi mi raccomando e al vostro aiuto,</l>
+<l>poi ch´ogn´altro consiglio i´ ho perduto. –</l></lg>
+
+<lg type="ottava"><head>395</head>
+<l>– Or te ne va, – Sinedecchia rispose</l>
+<l>– ch´i´ t´atterrò ben ciò ch´io t´ho promesso,</l>
+<l>e non ti dar pensier di queste cose:</l>
+<l>tien´ pur celato il peccato commesso. –</l>
+<l>Mensola, con le guance lagrimose,</l>
+<l>disse: – I´´l farò – e pel cammin più presso</l>
+<l>si mise, e ritornò alla sua stanza</l>
+<l>alquanto confortata da speranza.</l></lg>
+
+<lg type="ottava"><head>396</head>
+<l>Quivi si stava pensosa e dolente</l>
+<l>sanza gir mai, come soleva, attorno,</l>
+<l>e per compagno tenea nella mente</l>
+<l>Africo sempre col suo viso adorno;</l>
+<l>e perché sempre continovamente</l>
+<l>il corpo suo più crescea ogni giorno,</l>
+<l>sanza cintura i panni suoi portava;</l>
+<l>e assai sovente a Sinedecchia andava.</l></lg>
+
+<lg type="ottava"><head>397</head>
+<l>E cominciolle a crescer sì nel core,</l>
+<l>per la creatura ancor non partorita,</l>
+<l>contro ad Africo un sì fervente amore,</l>
+<l>che volentier ne vorrebbe esser gita</l>
+<l>con esso lui a starsi a tutte l´ore,</l>
+<l>il giorno ch´ella si tenne tradita;</l>
+<l>e ´l dì se ne pentea mille fiate,</l>
+<l>chiamando lui, con lagrime versate.</l></lg>
+
+<lg type="ottava"><head>398</head>
+<l>Questo pensier la fe´ più volte andare</l>
+<l>al loco ov´ella fu contaminata,</l>
+<l>sol per saper s´Africo può trovare,</l>
+<l>per essersene a casa con lui andata;</l>
+<l>ma non si seppe mai tanto arrischiare,</l>
+<l>per la vergogna, d´andar sola nata</l>
+<l>a casa sua; e pur presso v´andoe,</l>
+<l>alcuna volta, e poi ´ndietro tornoe.</l></lg>
+
+<lg type="ottava"><head>399</head>
+<l>Ma invan cercava, perché non sapea</l>
+<l>ched e´ si fosse per lei disperato.</l>
+<l>E già ´l suo corpo sì cresciuto avea,</l>
+<l>e ´l peso del fantin tanto aggravato,</l>
+<l>ch´andare attorno omai più non potea;</l>
+<l>per che, sanza cercar più ´n nessun lato,</l>
+<l>si stava alla caverna, ed aspettava</l>
+<l>del parto il tempo ch´omai s´appressava.</l></lg>
+
+<lg type="ottava"><head>400</head>
+<l>E tanta grazia le fe´ la fortuna,</l>
+<l>che ´n questo mezzo non s´accorse mai</l>
+<l>ch´ell´avesse peccato ninfa alcuna,</l>
+<l>e già trovate pur n´aveva assai;</l>
+<l>come che maraviglia ciascheduna</l>
+<l>di lei si desse, ne´ tempi sezzai,</l>
+<l>veggendola sì magra nella faccia,</l>
+<l>e non andar, come solea, alla caccia.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Mensola partorì un bel figliuolo,</l>
+<l>e in quel tempo Diana lì venne</l>
+<l>e con le ninfe sue consiglio tenne;</l>
+<l>Lucina soccorse Mensola, ma con duolo.</l></lg></add></ab>
+
+<lg type="ottava"><head>401</head>
+<l>Diana a Fiesol in quel tempo venne,</l>
+<l>com´usata era sovente di fare;</l>
+<l>grande allegrezza pe´ monti si tenne,</l>
+<l>sentendo di Diana il ritornare,</l>
+<l>e ciascheduna ninfa festa fenne:</l>
+<l>e cominciârsi tutte a ragunare,</l>
+<l>com´usate eran, con lei molto spesso</l>
+<l>tutte le ninfe, da lunge e da presso.</l></lg>
+
+<lg type="ottava"><head>402</head>
+<l>Mensola sentì ben la sua venuta,</l>
+<l>ma comparir non volle innanzi a lei</l>
+<l>per non esser da lei mal ricevuta,</l>
+<l>dicendo: «S´io v´andassi, non potrei</l>
+<l>tener celata la cosa ch´è suta,</l>
+<l>e grande strazio di me far vedrei».</l>
+<l>E fu da Sinedecchia consigliata</l>
+<l>di non v´andar, ma stessisi celata.</l></lg>
+
+<lg type="ottava"><head>403</head>
+<l>Avvenne adunque in questi giorni, un die,</l>
+<l>ch´alla caverna sua Mensola stando,</l>
+<l>per tutto ´l corpo doglie si sentie;</l>
+<l>per che, la dea del parto allor chiamando,</l>
+<l>un fantin maschio quivi partorie,</l>
+<l>il qual Lucina di terra levando</l>
+<l>gliel mise in collo e disse: – Questi fia</l>
+<l>ancor gran fatto – e poi isparì via.</l></lg>
+
+<lg type="ottava"><head>404</head>
+<l>Come che doglia grande e smisurata</l>
+<l>Mensola avea sentita, come quella</l>
+<l>ch´a tal partito mai non era stata,</l>
+<l>veggendo aversi fatto una sì bella</l>
+<l>creatura, ogn´altra pena fu alleggiata;</l>
+<l>e subito gli fece una gonnella,</l>
+<l>com´ella seppe il meglio, e poi lattollo,</l>
+<l>e mille volte quel giorno baciollo.</l></lg>
+
+<lg type="ottava"><head>405</head>
+<l>Il fantin era sì vezzoso e bello</l>
+<l>e tanto bianco, ch´era maraviglia,</l>
+<l>e ´l capel com´òr biondo e ricciutello,</l>
+<l>e ´n ogni cosa il padre suo somiglia</l>
+<l>sì propiamente, che parea, a vedello,</l>
+<l>Africo ne´ suoi occhi e nelle ciglia,</l>
+<l>e tutta l´altra faccia sì verace,</l>
+<l>ch´a Mensola per questo più le piace.</l></lg>
+
+<lg type="ottava"><head>406</head>
+<l>E tanto amore già posto gli avea,</l>
+<l>che di mirarlo non si può saziare;</l>
+<l>e a Sinedecchia portar nol volea,</l>
+<l>per non volerlo da sé dilungare,</l>
+<l>parendo a lei, mentre che lui vedea,</l>
+<l>Africo veder propio: ed a scherzare</l>
+<l>cominciava con lui, e fargli festa,</l>
+<l>e con le man gli lisciava la testa.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Standosi Mensola in questa allegrezza,</l>
+<l>Diana molte volte domandava</l>
+<l>di lei ed ancor come ella stava;</l>
+<l>´n acqua la convertì con molta asprezza.</l></lg></add></ab>
+
+<lg type="ottava"><head>407</head>
+<l>Diana avea più volte domandato</l>
+<l>quel che di Mensola era le compagne:</l>
+<l>fulle risposto, da chi l´era allato,</l>
+<l>che gran pezzo era che ´n quelle montagne</l>
+<l>veduta non l´avean in nessun lato;</l>
+<l>altre dicean che, per certe magagne,</l>
+<l>e per difetto ch´ella si sentia,</l>
+<l>davanti a lei con l´altre non venìa.</l></lg>
+
+<lg type="ottava"><head>408</head>
+<l>Per che un dì, di vederla pur disposta,</l>
+<l>perché l´amava molto e tenea cara,</l>
+<l>con tre ninfe se ne gì ´n quella costa</l>
+<l>dove la sventurata si ripara;</l>
+<l>e giunta alla caverna sanza sosta,</l>
+<l>innanzi all´altre Diana si para,</l>
+<l>credendola trovar, ma non trovolla;</l>
+<l>per ch´a chiamar ciascuna cominciolla.</l></lg>
+
+<lg type="ottava"><head>409</head>
+<l>Ell´era andata col suo bel fantino</l>
+<l>inverso ´l fiume giù poco lontana,</l>
+<l>e ´l fanciul trastullava ad un caldino,</l>
+<l>quando sentì la boce prossimana</l>
+<l>chiamar sì forte, con chiaro latino.</l>
+<l>Allor mirando in su, vide Diana</l>
+<l>con le compagne sue che giù venièno,</l>
+<l>ma lei ancor veduta non avièno.</l></lg>
+
+<lg type="ottava"><head>410</head>
+<l>Sì forte sbigottì Mensola, quando</l>
+<l>vide Diana, che nulla rispose;</l>
+<l>ma tutta quanta per paura tremando,</l>
+<l>in un cespuglio tra´ pruni nascose</l>
+<l>il bel fantino, e lui solo lasciando,</l>
+<l>di fuggir quindi l´animo dispose:</l>
+<l>e ´nverso ´l fiume ne gìa quatta quatta,</l>
+<l>tra quercia e quercia fuggendo via ratta.</l></lg>
+
+<lg type="ottava"><head>411</head>
+<l>Ma non poté sì coperta fuggire,</l>
+<l>che Diana, fuggendo, pur la vide,</l>
+<l>e poi cominciò quel fanciullo a udire,</l>
+<l>il qual forte piangea con alte stride.</l>
+<l>Diana incominciò allotta a dire</l>
+<l>inverso lei con grandissime gride:</l>
+<l>– Mensola, non fuggir, ché non potrai,</l>
+<l>se io vorrò, né ´l fiume passerai.</l></lg>
+
+<lg type="ottava"><head>412</head>
+<l>Tu non potrai fuggir le mie saette</l>
+<l>se l´arco tiro, o sciocca peccatrice! –</l>
+<l>Mensola già per questo non ristette,</l>
+<l>ma fugge quanto può alla pendice,</l>
+<l>e giunta al fiume, dentro vi si mette</l>
+<l>per valicarlo; ma Diana dice</l>
+<l>certe parole, ed al fiume le manda,</l>
+<l>e che ritenga Mensola comanda.</l></lg>
+
+<lg type="ottava"><head>413</head>
+<l>La sventurata era già a mezzo l´acque,</l>
+<l>quand´ella i piè venir men si sentia,</l>
+<l>e quivi, sì come a Diana piacque,</l>
+<l>Mensola in acqua allor si convertia;</l>
+<l>e sempre poi in quel fiume si giacque</l>
+<l>il nome suo, ed ancor tuttavia</l>
+<l>per lei quel fiume è Mensola chiamato.</l>
+<l>Or v´ho del suo principio raccontato.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Comandato Diana che portato</l>
+<l>il bel fantino a Sinedecchia sia,</l>
+<l>subito le ninfe misonsi in via:</l>
+<l>a casa Girafon fu trasportato.</l></lg></add></ab>
+
+<lg type="ottava"><head>414</head>
+<l>Le ninfe ch´eran con Diana, veggendo</l>
+<l>come Mensola era acqua diventata,</l>
+<l>e giù per lo gran fiume va correndo,</l>
+<l>perché molto l´avean in prima amata,</l>
+<l>per pietà tutte dicevan piangendo:</l>
+<l>– O misera compagna sventurata,</l>
+<l>qual peccato fu quel che t´ha condotta</l>
+<l>a correr sì com´acqua a fiotta a fiotta? –</l></lg>
+
+<lg type="ottava"><head>415</head>
+<l>Diana disse lor che non piangessono,</l>
+<l>ché quel martir molto ben meritava;</l>
+<l>e perché ´l suo peccato elle vedessono,</l>
+<l>dove ´l fanciul piangeva le menava;</l>
+<l>poi disse lor che elle lo prendessono,</l>
+<l>e traessol de´ prun dov´egli stava;</l>
+<l>allor le ninfe sel recaro in braccio,</l>
+<l>e trassol del cespuglio molto avaccio.</l></lg>
+
+<lg type="ottava"><head>416</head>
+<l>Molta festa le ninfe gli facièno,</l>
+<l>veggendol tanto piacevole e bello,</l>
+<l>e racchetandol, volentier vorrièno</l>
+<l>con esso loro in que´ monti tenello;</l>
+<l>ma a Diana dirlo non volièno,</l>
+<l>la qual comandò lor che tosto quello</l>
+<l>fantin portato a Sinedecchia sia,</l>
+<l>e con lor ella ancor si mise in via.</l></lg>
+
+<lg type="ottava"><head>417</head>
+<l>Giunta Diana a Sinedecchia, disse</l>
+<l>com´ella avea quel fantolin trovato</l>
+<l>in un cespuglio, ove Mensola il misse</l>
+<l>per celato tenere il suo peccato:</l>
+<l>– Ma ella dopo questo poco visse,</l>
+<l>ché, fuggendo ella, e volendo ´l fossato</l>
+<l>di là passare, il fiume la ritenne,</l>
+<l>e com´io volli, allor acqua divenne. –</l></lg>
+
+<lg type="ottava"><head>418</head>
+<l>Mentre Diana dicea tai parole,</l>
+<l>la vecchia ninfa per pietà piangea,</l>
+<l>tanto ´l caso di Mensola le dole,</l>
+<l>e quel fanciullo in braccio poi prendea,</l>
+<l>ed a Diana disse: – O chiaro sole</l>
+<l>di tutte noi, altri ch´io non sapea</l>
+<l>questo peccato, e a me sola lo disse,</l>
+<l>e tutta nelle mie man si rimisse. –</l></lg>
+
+<lg type="ottava"><head>419</head>
+<l>Poi ogni cosa a Diana ebbe detto,</l>
+<l>come Mensola era stata sforzata,</l>
+<l>e ´l dove e ´l come, da un giovinetto,</l>
+<l>e ´n che modo da lui fu ingannata;</l>
+<l>e disse poi: – O iddea, i´ ti ´mprometto</l>
+<l>sopra la fé ch´i´ t´ho sempre portata,</l>
+<l>che, s´io non fossi, morta si sarebbe,</l>
+<l>ma io non la lasciai, sì me ne ´ncrebbe.</l></lg>
+
+<lg type="ottava"><head>420</head>
+<l>Ma poi che tu l´hai fatta diventare</l>
+<l>acqua, ti priego, almen, che tu mi doni</l>
+<l>questo fanciullo, ché ´l vorrò portare</l>
+<l>di qui lontano assai, ´n certi valloni,</l>
+<l>ov´io ricordo anticamente stare</l>
+<l>uomini con lor donne a lor magioni,</l>
+<l>e a loro il donerò, che car l´aranno,</l>
+<l>e me´ di noi allevare lo sapranno. –</l></lg>
+
+<lg type="ottava"><head>421</head>
+<l>Quando Diana tai parole intende,</l>
+<l>come Mensola era stata tradita,</l>
+<l>alquanto del suo mal pietà le prende,</l>
+<l>perché molto l´amò quand´era in vita;</l>
+<l>ma perché l´altre da cota´ faccende</l>
+<l>si guardasson, si mostrò ´ncrudelita,</l>
+<l>e disse a Sinedecchia che facesse,</l>
+<l>di quel fantin, quel che me´ le paresse.</l></lg>
+
+<lg type="ottava"><head>422</head>
+<l>Poi si partì con la sua compagnia,</l>
+<l>e a Sinedecchia quel fantin lascioe;</l>
+<l>la qual, poscia che vide andata via</l>
+<l>Diana, tostamente s´ invioe</l>
+<l>con esso in collo, e ´n quelle parti gìa</l>
+<l>ove Mensola bella l´acquistoe;</l>
+<l>ché ben sapea per tutto ogni rivera,</l>
+<l>tanto tempo in que´ monti usata era.</l></lg>
+
+<lg type="ottava"><head>423</head>
+<l>E già aveva da Mensola udito,</l>
+<l>com´avea nome que´ che la sforzone,</l>
+<l>e più da lei ancora avea sentito,</l>
+<l>quando partissi, in qual parte n´andone;</l>
+<l>per che, considerato ogni partito,</l>
+<l>istimò troppo ben che quel garzone</l>
+<l>in quella valle stesse, ove vedea</l>
+<l>una casetta che fummo facea.</l></lg>
+
+<lg type="ottava"><head>424</head>
+<l>Là giù n´andò, non con poca fatica,</l>
+<l>e per ventura trovò Alimena,</l>
+<l>alla qual disse: – O carissima amica,</l>
+<l>grande è quella cagion ch´a te mi mena,</l>
+<l>ed è pur di bisogno ch´io tel dica;</l>
+<l>però ti priego che non ti sia pena</l>
+<l>d´ascoltar una gran disavventura,</l>
+<l>e com´e nata questa creatura. –</l></lg>
+
+<lg type="ottava"><head>425</head>
+<l>Poi ogni cosa le venne narrando:</l>
+<l>com´un giovane, ch´Africo avea nome,</l>
+<l>sforzò una ninfa, e ´l dov´ e ´l com´ e ´l quando</l>
+<l>a parte a parte disse, e poscia come</l>
+<l>ell´era ita gran pezza tapinando,</l>
+<l>poi partorì quel bello e fresco pome,</l>
+<l>e poi come Diana trasmutoe</l>
+<l>la ninfa in acqua, e dove la lascioe;</l></lg>
+
+<lg type="ottava"><head>426</head>
+<l>e come quel fantin avea trovato</l>
+<l>Diana, tra molti pruni, e come a lei,</l>
+<l>con altre ninfe, poi l´avean donato;</l>
+<l>ma mentre che cota´ cose costei</l>
+<l>raccontava, Alimena ebbe mirato</l>
+<l>nel viso quel fantino, e disse: – Omei,</l>
+<l>questo fanciul propiamente somiglia</l>
+<l>Africo mio! – e poi in braccio il piglia.</l></lg>
+
+<lg type="ottava"><head>427</head>
+<l>E lagrimando per grande allegrezza,</l>
+<l>mirando quel fantin, le par vedere</l>
+<l>Africo propio in ogni sua fattezza,</l>
+<l>e veramente gliel par riavere;</l>
+<l>e lui baciando con gran tenerezza,</l>
+<l>diceva: – Figliuol mio, gran dispiacere</l>
+<l>mi fia a contare, e grandissimo duolo,</l>
+<l>la morte del tuo padre e mio figliuolo. –</l></lg>
+
+<lg type="ottava"><head>428</head>
+<l>Poi cominciò alla vecchia ninfa a dire</l>
+<l>del suo figliuol, per ordine, ogni cosa,</l>
+<l>e come stette gran tempo in martìre,</l>
+<l>e della morte sua tanto angosciosa.</l>
+<l>Sinedecchia, stando questo a udire,</l>
+<l>venne del caso d´Africo pietosa,</l>
+<l>e con lei ´nsieme di questo piangea,</l>
+<l>e Girafon quivi tra lor giugnea.</l></lg>
+
+<lg type="ottava"><head>429</head>
+<l>Quand´egli intese il fatto, similmente</l>
+<l>per letizia piangeva e per dolore:</l>
+<l>e mirando ´l fanciul, veracemente</l>
+<l>Africo gli pareva, onde maggiore</l>
+<l>allegrezza non ebbe in suo vivente;</l>
+<l>poi faccendogli festa con amore,</l>
+<l>e quel fantin, quando Girafon vide,</l>
+<l>da naturale amor mosso, gli ride.</l></lg>
+
+<lg type="ottava"><head>430</head>
+<l>Sì grande fu l´allegrezza e la festa</l>
+<l>che fêr costor, che ´n buona veritade,</l>
+<l>che, se non fosse che pur lor molesta</l>
+<l>il cor de´ due amanti la pietade,</l>
+<l>niuna ne fu mai simile a questa;</l>
+<l>ma poi che Sinedecchia l´amistade</l>
+<l>con lor ebbe acquistata, sen vuol gire</l>
+<l>alla montagna, e da lor dipartire.</l></lg>
+
+<lg type="ottava"><head>431</head>
+<l>Girafon mille grazie l´ha renduto,</l>
+<l>ed Alimena similmente ancora,</l>
+<l>del buon servigio da lei ricevuto,</l>
+<l>e molto ciaschedun quivi l´onora;</l>
+<l>ma poi che Sinedecchia ebbe ´l saluto</l>
+<l>renduto a lor, sanza far più dimora</l>
+<l>alla spelonca sua si ritornava,</l>
+<l>e quel fantin a lor quivi lasciava.</l></lg>
+
+<lg type="ottava"><head>432</head>
+<l>La novella fu subito saputa</l>
+<l>per tutti i monti, ed ha ciascun palese</l>
+<l>come Mensola era acqua divenuta,</l>
+<l>e a molte ninfe gran pietà ne prese;</l>
+<l>ma dopo alquanto Diana si muta</l>
+<l>da questi luoghi, ed in altro paese</l>
+<l>n´andò, com´era usata, e primamente</l>
+<l>amonì le sue ninfe parimente.</l></lg>
+
+<lg type="ottava"><head>433</head>
+<l>Rimase adunque le ninfe in tal mena,</l>
+<l>sempre quel fiume Mensola chiamaro.</l>
+<l>Torniamo a Girafone ed Alimena,</l>
+<l>che con latte quel fantin allevaro</l>
+<l>del lor bestiame, non con poca pena,</l>
+<l>e per nome Pruneo lo chiamaro,</l>
+<l>perché tra´ pruni pianger fu trovato,</l>
+<l>e così fu sempre mai poi chiamato.</l></lg>
+
+<lg type="ottava"><head>434</head>
+<l>E crescendo Pruneo venne sì bello</l>
+<l>della persona che, se la natura</l>
+<l>l´avesse fatto in pruova col pennello,</l>
+<l>non potre´ dargli sì bella figura;</l>
+<l>e venne destro più ch´un lioncello,</l>
+<l>arditissimo e forte oltre misura,</l>
+<l>e tanto propio il padre era venuto,</l>
+<l>che da lui non si saria conosciuto.</l></lg>
+
+<lg type="ottava"><head>435</head>
+<l>Gran guardia ne faceva Girafone</l>
+<l>ed Alimena, la notte e lo die,</l>
+<l>e più volte gli disson la cagione,</l>
+<l>sì come Africo suo padre morie,</l>
+<l>perché paura n´avesse il garzone,</l>
+<l>di mai voler andar per quelle vie,</l>
+<l>e della madre sua i grievi danni;</l>
+<l>e così stando venne in diciott´anni.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Atalante, passando per Toscana,</l>
+<l>ne´ poggi fiesolan si riposoe</l>
+<l>e per le genti da trono mandoe;</l>
+<l>e Fiesol pose non di gente strana.</l></lg></add></ab>
+
+<lg type="ottava"><head>436</head>
+<l>Passò poi Atalante in questa parte</l>
+<l>d´Europa con infinita gente;</l>
+<l>e per Toscana ultimamente sparte,</l>
+<l>come scritto si truova apertamente,</l>
+<l>Appollin vide, faccendo su´ arte,</l>
+<l>che ´l poggio fiesolan veracemente</l>
+<l>era ´l me´ posto poggio, e lo più sano</l>
+<l>di tutta Europa, di monte e di piano.</l></lg>
+
+<lg type="ottava"><head>437</head>
+<l>Atalante vi fece allotta fare</l>
+<l>una città che Fiesole chiamossi;</l>
+<l>le genti cominciaron a pigliare</l>
+<l>di quelle ninfe che lassù trovossi,</l>
+<l>e qual poté dalle lor man campare,</l>
+<l>da tutti questi poggi dileguossi;</l>
+<l>e così fûr le ninfe allor cacciate,</l>
+<l>e quelle che fûr prese, maritate.</l></lg>
+
+<lg type="ottava"><head>438</head>
+<l>Tutti gli abitator di quel paese,</l>
+<l>Atalante gli volle alla cittade.</l>
+<l>Girafon, quando questo fatto intese,</l>
+<l>tosto v´andò con buona volontade,</l>
+<l>e menò seco il piacente e cortese</l>
+<l>Pruneo, adorno d´ogni dignitade,</l>
+<l>ed Alimena, e comparì davante</l>
+<l>con riverenza al signore Atalante.</l></lg>
+
+<lg type="ottava"><head>439</head>
+<l>Quando Atalante vide il vecchio antico,</l>
+<l>graziosissimamente il ricevette,</l>
+<l>e presol per la man, sì come amico,</l>
+<l>cota´ parole verso lui ha dette:</l>
+<l>– O vecchio savio, intendi quel ch´io dico,</l>
+<l>che la mia fede ti giura e promette</l>
+<l>che, se tu ´n questa terra abiterai,</l>
+<l>de´ miei maggior consiglier tu sarai,</l></lg>
+
+<lg type="ottava"><head>440</head>
+<l>e meco abiterai nella mia rocca,</l>
+<l>insiememente con questo tuo figlio. –</l>
+<l>Girafon tai parole vêr lui scocca:</l>
+<l>– O Atalante, sempre il mio consiglio</l>
+<l>fia apparecchiato a quel che la tua bocca</l>
+<l>comanderà; ma io mi maraviglio,</l>
+<l>ch´avendo teco uomini tanto savi,</l>
+<l>più ch´io non sono, a far questo mi gravi. –</l></lg>
+
+<lg type="ottava"><head>441</head>
+<l>– Tu di´ ver ch´i´ ho meco savia gente, –</l>
+<l>Atalante rispose – ma perch´io</l>
+<l>veggio ch´esser tu déi anticamente</l>
+<l>´n questi paesi stato, al parer mio,</l>
+<l>e sapere déi tutto ´l convenente</l>
+<l>di questi luoghi, qual è buono o rio,</l>
+<l>a molte cose mi puoi esser buono</l>
+<l>in questi luoghi ove arrivato sono. –</l></lg>
+
+<lg type="ottava"><head>442</head>
+<l>Girafon disse lagrimando quasi:</l>
+<l>– Omè, Atalante, che tu parli ´l vero</l>
+<l>ch´i´ son antico, e´ miei gravosi casi</l>
+<l>manifestano il fatto tutto intero:</l>
+<l>e´ non è molto tempo ch´io rimasi</l>
+<l>sol con la donna mia ´n questo sentiero</l>
+<l>se non che poi costui mi fu recato,</l>
+<l>ch´è figliuol d´un mio figliuol sventurato. –</l></lg>
+
+<lg type="ottava"><head>443</head>
+<l>Poi gli contava il fatto com´era ito</l>
+<l>d´Africo suo e Mensola sua amante,</l>
+<l>e poscia di Mugnon che fu fedito</l>
+<l>e morto da Diana, e tutte quante</l>
+<l>le sue sventure disse; e poi col dito</l>
+<l>gli dimostrava, di dietro e davante</l>
+<l>i fiumi, ed i lor nomi gli dicea,</l>
+<l>e la cagion per che sì nome avea.</l></lg>
+
+<lg type="ottava"><head>444</head>
+<l>E poi ad Atalante si voltoe</l>
+<l>dicendo: – I´ vo´ far ogni tuo comando. –</l>
+<l>Atalante di questo il ringrazioe,</l>
+<l>e poi, ´nverso Pruneo rimirando</l>
+<l>e piacendogli molto, lo chiamoe,</l>
+<l>e poscia inverso lui così parlando</l>
+<l>disse: – I´ vo´ che tu sia mio servidore</l>
+<l>alla tavola mia, per lo mio amore. –</l></lg>
+
+<lg type="ottava"><head>445</head>
+<l>Così Atalante fece Girafone</l>
+<l>suo consigliere, e ´l giovane Pruneo</l>
+<l>dinnanzi a lui serviva per ragione,</l>
+<l>e tanto bene a far questo imprendeo,</l>
+<l>ch´era a vederlo grande ammirazione;</l>
+<l>ed oltre a questo la natura il feo</l>
+<l>ardito e forte tanto, che non truova</l>
+<l>niuno che ´l vinca a far niuna pruova.</l></lg>
+
+<lg type="ottava"><head>446</head>
+<l>E d´ogni caccia maestro divenne</l>
+<l>tanto, che fiera non potea campare</l>
+<l>dinnanzi a lui, tant´ottimo e solenne</l>
+<l>corridor era, e destro nel saltare;</l>
+<l>e sì ben l´arco nelle sue man tenne,</l>
+<l>che vinto arìa Diana a saettare;</l>
+<l>costumato e piacevol era tanto,</l>
+<l>ch´io non potre´ mai raccontar il quanto.</l></lg>
+
+<lg type="ottava"><head>447</head>
+<l>Atalante gli pose tanto amore,</l>
+<l>veggendo ch´era sì savio e valente,</l>
+<l>che siniscalco il fe´, con grande onore,</l>
+<l>sopra la terra e sopra la sua gente,</l>
+<l>e di tutto ´l paese guidatore;</l>
+<l>ed e´ reggeva sì piacevolmente,</l>
+<l>che da tutti era amato e ben voluto,</l>
+<l>tanto dava ad ognuno il suo dovuto.</l></lg>
+
+<lg type="ottava"><head>448</head>
+<l>E già più di venticinque anni avea,</l>
+<l>quando Atalante gli diè per mogliera</l>
+<l>una fanciulla, la qual Tironea</l>
+<l>era ´l suo nome, e figliuola sì era</l>
+<l>d´un gran baron che con seco tenea;</l>
+<l>e donògli tutta quella rivera,</l>
+<l>ch´è in mezzo tra Mensola e Mugnone:</l>
+<l>e questa fu la dota del garzone.</l></lg>
+
+<lg type="ottava"><head>449</head>
+<l>Pruneo fe´ far, dalla chiesa a Maiano</l>
+<l>un po´ disopra, un nobil casamento,</l>
+<l>donde vedeva tutto quanto il piano,</l>
+<l>ed afforzollo d´ogni guernimento;</l>
+<l>e quel paese, ch´era molto strano,</l>
+<l>tosto dimesticò, sì com´io sento,</l>
+<l>e questo fece sol per grande amore</l>
+<l>ch´al paese portava di buon core.</l></lg>
+
+<lg type="ottava"><head>450</head>
+<l>Quivi gran parte del tempo abitava,</l>
+<l>dandosi sempre diletto e piacere;</l>
+<l>dicesi che sovente i fiumi andava</l>
+<l>del padre e della madre sua a vedere</l>
+<l>e che cogli spiriti lor parlava,</l>
+<l>dell´acque uscendo boci chiare e vere,</l>
+<l>e piene di sospiri e di pietate,</l>
+<l>le cose rammentandogli passate.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Dopo molt´anni ch´è Girafon morto,</l>
+<l>e Alimena, e po´ Pruneo con duoli,</l>
+<l>di lui rimason dieci be´ figliuolo,</l>
+<l>che assai visson con molto diporto.</l></lg></add></ab>
+
+<lg type="ottava"><head>451</head>
+<l>Girafon, ristorato de´ suoi danni,</l>
+<l>gran tempo visse, ma poi che sua vita</l>
+<l>ebbe compiuti i suoi lunghissimi anni,</l>
+<l>di questo mondo faccendo partita,</l>
+<l>Alimena lasciò con molti affanni;</l>
+<l>la qual, poi che l´età sua fu fornita,</l>
+<l>con Girafon fu messa in un avello</l>
+<l>nella città, qual era molto bello.</l></lg>
+
+<lg type="ottava"><head>452</head>
+<l>Pruneo rimase in grandissimo stato</l>
+<l>con la sua Tironea, della qual ebbe</l>
+<l>dieci figliuol, ciascun pro´ e costumato</l>
+<l>tanto, che maraviglia a dir sarebbe;</l>
+<l>e poi ch´egli ebbe a ciascun moglie dato,</l>
+<l>in molta gente questa schiatta crebbe,</l>
+<l>e sempre furo a Fiesol cittadini,</l>
+<l>grandi e possenti sopra lor vicini.</l></lg>
+
+<lg type="ottava"><head>453</head>
+<l>Morto Pruneo, con grandissimo duolo</l>
+<l>di tutta la città fu seppellito;</l>
+<l>così rimase a ciascun suo figliuolo</l>
+<l>tutto ´l paese libero e spedito,</l>
+<l>ch´Atalante donato avea a lui solo;</l>
+<l>e ben lo s´ebbon tra lor dipartito,</l>
+<l>e sempre poi la schiatta di costoro</l>
+<l>signoreggiaro questo tenitoro.</l></lg>
+
+<lg type="ottava"><head>454</head>
+<l>Ma poi che Fiesol fu la prima volta</l>
+<l>per li Roman consumata e disfatta,</l>
+<l>e poi ch´a Roma la gente diè volta,</l>
+<l>que´ che rimason dell´africhea schiatta</l>
+<l>alla disfatta fortezza a raccolta</l>
+<l>tutti si fur, che Pruneo avea fatta,</l>
+<l>e quivi il me´ che seppon s´allogaro,</l>
+<l>faccendo case assai per lor riparo.</l></lg>
+
+<lg type="ottava"><head>455</head>
+<l>Poi fu Firenze posta pe´ Romani,</l>
+<l>acciò che Fiesol non si rifacesse</l>
+<l>pe´ nobili e possenti Fiesolani</l>
+<l>ch´eran campati, ma così si stesse:</l>
+<l>per la qual cosa in molte parti strani,</l>
+<l>le genti fiesolane si fûr messe</l>
+<l>ad abitar, come gente scacciata,</l>
+<l>sanz´aiuto o consiglio abandonata.</l></lg>
+
+<lg type="ottava"><head>456</head>
+<l>Ma poi ch´uscita fu l´ira di mente,</l>
+<l>per ispazio di tempo, e pace fatta</l>
+<l>tra li Romani e la scacciata gente,</l>
+<l>quasi tutta la gente fu ritratta</l>
+<l>ad abitare in Firenze possente:</l>
+<l>fra´ qual vi venne l´africhea schiatta,</l>
+<l>i quai vi fûr volentier ricevuti</l>
+<l>da´ cittadini, e molto car tenuti.</l></lg>
+
+<lg type="ottava"><head>457</head>
+<l>E per levar lor ogni sospeccione,</l>
+<l>sed e´ l´avesson, d´esser oltraggiati,</l>
+<l>e ancor per dare lor maggior cagione</l>
+<l>d´amar la terra e d´esser anco amati,</l>
+<l>e fatto fosse a ciaschedun ragione,</l>
+<l>si furo insieme tutti imparentati,</l>
+<l>e fatti cittadin con grande amore,</l>
+<l>avendo la lor parte d´ogni onore.</l></lg>
+
+<lg type="ottava"><head>458</head>
+<l>Così multiplicando la cittade</l>
+<l>di Firenze in persone e ´n gran ricchezza,</l>
+<l>gran tempo resse con tranquillitade;</l>
+<l>ma, come molti libri fan chiarezza,</l>
+<l>già era in essa la cristianitade</l>
+<l>venuta, quando, presa ogni fortezza,</l>
+<l>fu da Totile infin da´ fondamenti</l>
+<l>arsa e disfatta, e cacciate le genti.</l></lg>
+
+<lg type="ottava"><head>459</head>
+<l>Poi fece il crudel Totile rifare</l>
+<l>ogni fortezza di Fiesole e mura</l>
+<l>ed un bando per lo paese andare,</l>
+<l>che qual fosse che dentro alla chiusura</l>
+<l>di Fiesole tornasse ad abitare,</l>
+<l>vi fosse ogni persona ben sicura,</l>
+<l>giurando prima di far sempre guerra</l>
+<l>con li Romani e con ogni lor terra.</l></lg>
+
+<lg type="ottava"><head>460</head>
+<l>Per la qual cosa la schiatta africhea,</l>
+<l>per grande sdegno, tornar non vi volle,</l>
+<l>ma nel contado ognun si riducea,</l>
+<l>ciò è nel lor primaio antico colle,</l>
+<l>ove ciascuno abitazione avea,</l>
+<l>faccendo quivi un forte battifolle</l>
+<l>per lor difesa, se bisogno fosse,</l>
+<l>da´ Fiesolani e dalle lor percosse.</l></lg>
+
+<lg type="ottava"><head>461</head>
+<l>Così gran tempo quivi dimoraro,</l>
+<l>infin che ´l buon re Carlo Magno venne</l>
+<l>al soccorso d´Italia, ed a riparo</l>
+<l>della città di Roma, che sostenne</l>
+<l>gran novità; allor si raunaro</l>
+<l>l´africhea gente, e consiglio si tenne</l>
+<l>con gli altri nobil che s´eran fuggiti</l>
+<l>per lo contado, e preson tai partiti:</l></lg>
+
+<lg type="ottava"><head>462</head>
+<l>ch´a Roma si mandasse, al padre santo</l>
+<l>ed al re Carlo Magno, un´ambasciata,</l>
+<l>significando il fatto tutto quanto,</l>
+<l>come la lor figliuola rovinata</l>
+<l>giaceva in terra, e´ cittadin con pianto</l>
+<l>l´avean per forza tutta abandonata,</l>
+<l>e perché avean de´ Fiesolan paura,</l>
+<l>non vi potean rifar casa né mura.</l></lg>
+
+<lg type="ottava"><head>463</head>
+<l>Ma perch´altrove chiara questa storia</l>
+<l>si truova scritta, fo con brievitade.</l>
+<l>Tornando al papa Fiorenza a memoria</l>
+<l>per l´ambasciata, glien venne pietade;</l>
+<l>ma poi che Carlo Magno ebbe vittoria,</l>
+<l>passò di qua nelle nostre contrade,</l>
+<l>e rifece la città di Fiorenza,</l>
+<l>la qual poi crebbe ogni dì sua potenza.</l></lg>
+
+<lg type="ottava"><head>464</head>
+<l>Per la qual cosa quei d´Africo nati</l>
+<l>con gli altri vi tornaro ad abitare;</l>
+<l>e come poi si siano traslatati</l>
+<l>di grado in grado non potre´ contare,</l>
+<l>e d´uno in altro, ma in molti lati</l>
+<l>son, di lor, gente scesa d´alto affare,</l>
+<l>e d´altri che son di lassù venuti,</l>
+<l>che per lor gente non son conosciuti.</l></lg>
+
+<lg type="ottava"><head>465</head>
+<l>Ma sia come si vuole omai la cosa,</l>
+<l>son venuto al porto disiato,</l>
+<l>ove ´l disio e la mente amorosa</l>
+<l>per lunghi mari ha gran pezza cercato;</l>
+<l>e qui donando omai alla penna posa,</l>
+<l>ho fatto quel che mi fu comandato</l>
+<l>da tal, ch´i´ non potre´ nulla disdire,</l>
+<l>tant´è sopra di me fatto gran sire.</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l>Comenda qui l´autore il suo signore,</l>
+<l>dicendo ch´egli è que´ che può dar pace</l>
+<l>a chi lui segue con amor verace:</l>
+<l>ed anco, a chi gli par, dona amarore.</l></lg></add></ab>
+
+<lg type="ottava"><head>466</head>
+<l>Adunque, poi ch´i´ son al fin venuto</l>
+<l>d´esto lavoro, a colui ´l vo´ portare,</l>
+<l>il qual m´ha dato la forza e l´aiuto</l>
+<l>e lo stile e lo ´ngegno del rimare:</l>
+<l>dico ad Amor, di cui son sempre suto</l>
+<l>ed esser voglio; e lui vo´ ringraziare</l>
+<l>e a lui ´l libro portar là dov´egli usa,</l>
+<l>e poi davanti a lui porre una scusa:</l></lg>
+
+<lg type="ottava"><head>467</head>
+<l>– Altissimo signore, Amor sovrano,</l>
+<l>sotto cui forza, valor e potenza,</l>
+<l>è sottoposto ciascun cor umano,</l>
+<l>e contro a cui non può far resistenza</l>
+<l>nessuno, e sia quanto si vuol villano,</l>
+<l>il qual non venga tosto a tua ubidienza,</l>
+<l>pur che tu voglia; ma pur più ti giova</l>
+<l>d´usar contro a´ gentili la tua prova;</l></lg>
+
+<lg type="ottava"><head>468</head>
+<l>tu se´ colui che sai, quando ti piace,</l>
+<l>ogni gran fatto ad effetto menare;</l>
+<l>tu se´ colui che doni guerra e pace</l>
+<l>a´ servi tuoi, secondo che ti pare;</l>
+<l>tu se´ colui che li lor cori sface,</l>
+<l>e che gli fai sovente suscitare;</l>
+<l>tu se´ colui che gli assolvi e condanni,</l>
+<l>e qual conforti, e qual arrogi affanni.</l></lg>
+
+<lg type="ottava"><head>469</head>
+<l>I´ son un de´ tuoi servi, al qual imposto</l>
+<l>mi fu per te, com´a servo leale,</l>
+<l>di compôr questa storia; e io, disposto</l>
+<l>sempre a ubidirti, come quegli al quale</l>
+<l>una donna m´ha dato e sottoposto,</l>
+<l>col tuo aiuto ho il libro fatto tale,</l>
+<l>chent´è suto possibile al mio ingegno,</l>
+<l>il qual i´ ho acquistato nel tuo regno.</l></lg>
+
+<lg type="ottava"><head>470</head>
+<l>Ma ben ti priego, per gran cortesia,</l>
+<l>e per dover, e per giusta ragione,</l>
+<l>che questo libro mai letto non sia</l>
+<l>per l´ignoranti e villane persone,</l>
+<l>e che non seppon mai chi tu ti sia,</l>
+<l>né di voler saperlo hanno intenzione:</l>
+<l>ché molto certo son che biasimato</l>
+<l>saria da lor ogni tuo bel trattato.</l></lg>
+
+<lg type="ottava"><head>471</head>
+<l>Lascial leggere agli animi gentili,</l>
+<l>e che portan nel volta la tua ´nsegna,</l>
+<l>e a´ costumati, angelichi ed umìli,</l>
+<l>nel cor de´ quali la tua forza regna;</l>
+<l>costor le cose tue non terran vili,</l>
+<l>ma esser la faran di lode degna.</l>
+<l>Te´ ch´i´ tel rendo, dolce il mio signore,</l>
+<l>al fin recato pel tuo servidore. –</l></lg>
+
+<ab><add resp="ed"><lg rend="italic"><l> Risponde Amore all´autore detto,</l>
+<l>lodandol che lo libro a compimento</l>
+<l>egli ha condutto con bello ornamento:</l>
+<l>e ´l priego suo sarà messo in effetto.</l></lg></add></ab>
+
+<lg type="ottava"><head>472</head>
+<l>– Ben venga l´ubidente servo mio</l>
+<l>quanto niun altro che sia a me suggetto,</l>
+<l>il qual ha messo tutto il suo disio</l>
+<l>in recar al suo fin il mio libretto;</l>
+<l>e perché certo son ch´è tal, qual io</l>
+<l>il disiava, volentier l´accetto,</l>
+<l>e nell´armar´, tra gli altri miei contratti,</l>
+<l>appresso il metterò, de´ miei gran fatti.</l></lg>
+
+<lg type="ottava"><head>473</head>
+<l>E ´l priego tuo sarà ottimamente,</l>
+<l>di ciò che m´hai pregato, esaudito,</l>
+<l>ché ben guarderò ´l libro dalla gente,</l>
+<l>la qual tu di´ che non m´ha mai servito;</l>
+<l>non perch´io tema lor vento niente</l>
+<l>né perch´io sia per lor meno ubbidito,</l>
+<l>ma perché ricordato il nome mio</l>
+<l>tra lor non sia; e tu riman´ con Dio! –</l></lg></div1></body></text></TEI.2>

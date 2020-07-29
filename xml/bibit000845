@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Silva</title>
+      <author>Niccolò da Correggio</author>
+    </titleStmt>
+    <extent>10 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000845</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Opere : Cefalo, Psiche, Silva, Rime</title>
+        <author>Niccolo da Correggio</author>
+        <editor id="ed">Tissoni Benvenuti, Antonia</editor>
+        <publisher>Laterza</publisher>
+        <pubPlace>Bari</pubPlace>
+        <date>1969</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>858 - Scritti miscellanei italiani</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Ferrara</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Ferrara</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-05-04T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-05-04T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="dedica" n="Dedica"><p>Silva composta per lo illustrissimo Messer Nicolò da Coregio per una damicella per allegorico nome rosa.</p></div1>
+
+<set><p>È el giardin la corte </p></set></front>
+<body>
+<div1><head>Silva </head>
+<lg>
+<l>Signore, io vidi al tuo giardin fiorita </l>
+<l>una Rosa, in l'entrar di primavera, </l>
+<l>contra le brine e contra al sol sì ardita </l>
+<l>che tutta si mostrava quanta l'era, </l>
+<l>morbida, fresca, bianca e collorita </l>
+<l>sopra le fronde e fuor di spinne altiera; </l>
+<l>Natura non fe' mai più vago fiore: </l>
+<l>godi tu il resto e a me lassa l'odore. </l></lg>
+<lg>
+<l>Odor per odorar non se gli toglie, </l>
+<l>se chi l'odora a sé stringe la boca, </l>
+<l>ma un fior declina ben presto le foglie </l>
+<l>se boca, naso o man lasciva il toca; </l>
+<l>ma se pudica mano gli racoglie </l>
+<l>la manna che dal ciel sopr'essi fiocca, </l>
+<l>non secan: però tu, Signor, consenti </l>
+<l>ch'io viva di quel fior che lui non senti. </l></lg>
+<lg>
+<l>Sentì pur lui così del mio calore </l>
+<l>com'io del foco di Cupido sento, </l>
+<l>ch'io li darò tal natural vigore </l>
+<l>che non temerà più giaccio né vento; </l>
+<l>da gli occhi poi non mancarà liquore: </l>
+<l>cossì in me troverà el suo nutrimento, </l>
+<l>e se godeno i fior che Zefir spiri, </l>
+<l>mille Zefir faranno i mei suspiri. </l></lg>
+<lg>
+<l>Suspiri, adonque a quel Signor e a lei </l>
+<l>andate, e al vostro solito camino, </l>
+<l>e presto, che il dolor de questi omei </l>
+<l>da lei se senti, tanto sia vicino. </l>
+<l>Quella faritti che oda i dolor mei, </l>
+<l>quell'altro che non serri il bel giardino, </l>
+<l>e se son chiuse di Mercé le porte, </l>
+<l>l'anima per passar dà il corpo a morte. </l></lg>
+<lg>
+<l>Morte, con patto che a quel fior perdoni </l>
+<l>e che col morir mio venghi più bello, </l>
+<l>e tu, Natura, tuto quel gli doni </l>
+<l>che l'alma lassa a te dentro lo avello, </l>
+<l>ch'io voglio che tra ' vivi si ragioni </l>
+<l>ch'io sia cagion del bel vigor di quello: </l>
+<l>infin il corpo mio lì si sotterri, </l>
+<l>se 'l Giardin avvien mai che se disserri. </l></lg>
+<lg>
+<l>Disserri Pluto e Cerbar poi l'Inferno, </l>
+<l>se avvien che 'l fior quest'anima non voglia, </l>
+<l>e lei condanni a pene in sempiterno, </l>
+<l>quando del mio morir lui non si doglia. </l>
+<l>La Rosa duri poi bella in eterno, </l>
+<l>mai più simile a lei l'erba non soglia, </l>
+<l>ch'el basta assai a la futura etade, </l>
+<l>dovendo esser crudele, una beltade. </l></lg>
+<lg>
+<l>Beltà celeste, onor de la Natura, </l>
+<l>chi te pregava che te apristi alora, </l>
+<l>se non dovivi aver poi di me cura? </l>
+<l>Per tua dureza convierà ch'io mora, </l>
+<l>ma se tu coprirai mia sepultura, </l>
+<l>fà che talor di tue fronde s'infiora, </l>
+<l>e gli altri amanti che vedran quel'opra </l>
+<l>dican che quivi il mio corpo si copra. </l></lg>
+<lg>
+<l>Copra può or&lt;a&gt;mai la terra il volto, </l>
+<l>ché certo io son del mio dolor presago. </l>
+<l>Ecco, el mio suspirar è in drieto volto: </l>
+<l>la non l'accepta e io son de morir vago. </l>
+<l>Amanti, il corpo sia da voi sepolto. </l>
+<l>Ecco, per compiacerla io stesso il piago! </l>
+<l>Accepti almeno, in premio del mio male, </l>
+<l>de tutti i mei suspir l'ultimo vale. </l></lg>
+<lg>
+<l>Vale vita infelice, e tu Amor, vale! </l>
+<l>Valete, suspir mei, lacrime e affanni! </l>
+<l>Ora ch'io son guarito d'ogni male, </l>
+<l>valete, o mei interropti e giovini anni. </l>
+<l>Sol chieggo in sul sepulcro un arco e un strale </l>
+<l>che facin fé de gli amorosi inganni, </l>
+<l>e scripto il nome mio, non versi o prosa, </l>
+<l>e sul bel marmo poi sculta una Rosa. </l></lg>
+<lg>
+<l>Rosa gentil, su le tue acute spine </l>
+<l>credo ben or che de mia morte ridi, </l>
+<l>ma il ciel ti guardi da tempeste e brine </l>
+<l>e dal sole e dal caldo ancor te afidi. </l>
+<l>Volgieti al manco a riguardar quel fine </l>
+<l>al qual con tua beltà, crudel, mi guidi, </l>
+<l>e vedrai come, te chiamando, io passo </l>
+<l>e lassando la vita io non ti lasso. </l></lg>
+<lg>
+<l>Lasso ben questo, e priego sia adimpito, </l>
+<l>che membro alcun non sia dal corpo tolto; </l>
+<l>el cor testar non posso, ch'è smarito: </l>
+<l>io non lo trovo, e lui non sia sepolto; </l>
+<l>tutto il mio resto così insieme unito </l>
+<l>vadi sotterra, ma non sotto molto, </l>
+<l>ché se mai casca dal bel fior liquore, </l>
+<l>le morte membra pigliaran vigore. </l></lg>
+<lg>
+<l>Vigore a lacrimar, non dico a vita, </l>
+<l>ch'io la rifiuto, io l'odio, io l'abandono, </l>
+<l>e così come l'è, per far partita, </l>
+<l>a la mia Rosa voluntier la dono; </l>
+<l>e se Amor mi fe' mai per lei ferita, </l>
+<l>a l'uno e a l'altro di buon cor perdono. </l>
+<l>Più non so dire, né più posso né voglio: </l>
+<l>moro, e morto son suo come esser soglio. </l></lg>
+<sp><speaker>Caron</speaker> <lg><l>Soglio portar in questa cimba al passo, </l>
+<l>o anima affogata, tutti i morti, </l>
+<l>ma te non portarò già al regno basso </l>
+<l>perché più foco ne l'Inferno porti. </l>
+<l>Ferma pur tu su quella ripa il passo, </l>
+<l>ché i dannati non vo' che tu conforti, </l>
+<l>ché se vedesseno el tuo intenso ardore, </l>
+<l>mitigaresti in parte il suo dolore. </l></lg></sp>
+<sp><speaker>Amante</speaker> <lg><l>Dolor immenso, ohimè, perché m'hai morto </l>
+<l>al mondo, se qua giù debbo star vivo? </l>
+<l>O sorte extrema, che 'l foco ch'io porto </l>
+<l>mi debba far ancor d'Inferno privo! </l>
+<l>Deh, fido portinar, condùmi al porto, </l>
+<l>ché per leggie del ciel qui non arivo, </l>
+<l>ma per caso d'amor son alma siolta, </l>
+<l>ché non gli ho da venir più d'una volta. </l></lg></sp>
+<sp><speaker>Caron</speaker> <lg><l>Volta, te dico, pur in là quel viso, </l>
+<l>ché 'l lago passan già i suspiri ardenti, </l>
+<l>e ben che 'l corpo sia da te diviso, </l>
+<l>qua giù non s'usa dar simil tormenti. </l>
+<l>Di là da questa Stige è il Campo Eliso </l>
+<l>dove locati son tutti i contenti: </l>
+<l>se i toi suspiri passasseno in quel loco, </l>
+<l>l'accenderesti d'amoroso foco. </l></lg></sp>
+<sp><speaker>Amante</speaker> <lg><l>Foco de Amore, questa alma ormai relega </l>
+<l>al corpo, a patir sempre affanni e pene: </l>
+<l>poi che l'Inferno ai miseri si niega, </l>
+<l>tiemi cruciato ne le tue catene. </l>
+<l>Per più dolore a te questo si priega </l>
+<l>poi che requie a quest'alma non conviene, </l>
+<l>e volendo così el mio fier destino, </l>
+<l>sia el carcer mio patir nel bel Giardino. </l></lg></sp>
+<lg>
+<l>Giardino ameno, florido e süave, </l>
+<l>non disdegnar ch'in te quest'alma vegni! </l>
+<l>E tu, Signor, che tien di quel la chiave, </l>
+<l>tanta accerba dureza in te non regni! </l>
+<l>Patir ch'io facia in lui non serà grave, </l>
+<l>obrobi, exclusïon, scherni e disdegni. </l>
+<l>Fallo, Amor, che a te sia perpetua gloria </l>
+<l>contro a Morte tenir questa victoria. </l></lg>
+<lg>
+<l>Victoria abiamo, exanimate membra, </l>
+<l>la causa del morir ci torna in vita. </l>
+<l>Quel che fu tanto amaro, or dolce sembra: </l>
+<l>ogni paura è già da me fugita. </l>
+<l>Quando de molti amanti mi rimembra </l>
+<l>che ebber fuor di speranza alfine aita, </l>
+<l>disposto son che seguitiàn quel fiore, </l>
+<l>ov'io stimo al morir restasse il core. </l></lg>
+<lg>
+<l>Core affanato, or te ralegra e spera: </l>
+<l>vivo, e non son più sol corpo o sola alma, </l>
+<l>anci sono omo pur come inanti era, </l>
+<l>ed ho di morte victoriosa palma. </l>
+<l>Un fior se muta da matina e sera </l>
+<l>e dopo gran fortuna il mar sta in calma; </l>
+<l>ritorna, e se pur lì di star ti piace, </l>
+<l>per nui da quella Rosa impetra pace. </l></lg>
+<lg>
+<l>Pace aver spero, ché 'l Giardino è aperto </l>
+<l>e la Rosa vego io como esser suole. </l>
+<l>O lieto giorno! Ohimè, per qual mio merto </l>
+<l>a me si volgie come Clizia al sole? </l>
+<l>O como ben cognosco ora ab experto </l>
+<l>che talor un amante in van si duole! </l>
+<l>Ma se sta ferma tanto ch'io l'odori, </l>
+<l>certo serò che più el corpo non mori. </l></lg>
+<lg>
+<l>Concesso m'è! donque, felice core, </l>
+<l>adesso un poco nel tuo ardor respira! </l>
+<l>Tutti i mei sensi a te portan l'odore </l>
+<l>e l'ochio lieto la sua Rosa mira. </l>
+<l>El nostro affecto gli ha gionto vigore, </l>
+<l>che più non vòle e ad altro non aspira. </l>
+<l>Contentative, amanti, a un simil fine: </l>
+<l>così le rose s'han senza le spine.</l></lg></div1></body></text></TEI.2>

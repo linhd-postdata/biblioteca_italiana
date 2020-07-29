@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inscrizioni greche triopee</title>
+            <author>Giacomo Leopardi</author>
+         </titleStmt>
+         <extent>23360 Kb in UTF-8</extent>
+         <publicationStmt>
+            <publisher>Biblioteca Italiana</publisher>
+            <pubPlace>Roma</pubPlace>
+            <date>2008</date>
+            <idno>bibit001220</idno>
+            <availability>
+               <p>Questa risorsa digitale è liberamente accessibile per uso
+                        personale o scientifico. Ogni uso commerciale è vietato</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Collezione BibIt</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Tutte le opere</title>
+               <author>Leopardi, Giacomo</author>
+               <editor id="ed">Felici, Lucio</editor>
+               <publisher>Lexis Progetti Editoriali</publisher>
+               <pubPlace>Roma</pubPlace>
+               <date>1998</date>
+               <note>L'edizione elettronica fa riferimento al testo: Giacomo Leopardi, Tutte le opere, a cura di W. Binni-E. Ghidetti, I, Firenze, Sansoni 1989.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <samplingDecl>
+            <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                digitale</p>
+         </samplingDecl>
+         <editorialDecl>
+            <correction method="silent" status="medium">
+               <p>Livello medio: controllo a video con collazione con edizione di
+                        riferimento</p>
+            </correction>
+            <quotation form="data" marks="all">
+               <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+            </quotation>
+            <hyphenation eol="none">
+               <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+            </hyphenation>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy id="CGB">
+               <bibl>Classificazione generi BibIt</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date>800</date>
+         </creation>
+         <langUsage>
+            <language id="ita">Italiano</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="CGB">
+               <term>Poesia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>Data sconosciuta anteriore al 2000</date>
+            <respStmt>
+               <name>LEXIS</name>
+            </respStmt>
+            <item>Digitalizzazione</item>
+         </change>
+         <change>
+            <date>Data sconosciuta anteriore al 2000</date>
+            <respStmt>
+               <name>LEXIS</name>
+            </respStmt>
+            <item>Correzione linguistica</item>
+         </change>
+         <change>
+            <date>2004-07-21T00:00:00.000+01:00</date>
+            <respStmt>
+               <name>Sonia Sabelli</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Codifica XML</item>
+         </change>
+         <change>
+            <date>2007-11-14T00:00:00.000+01:00</date>
+            <respStmt>
+               <name>Carla Deiana</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Validazione</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div1>
+            <head>Prefazione</head>
+            <p>Una e due e tre volte lessi queste inscrizioni, ed alla terza diliberai di tradurle. Un'andatura Omerica un sapor pretto Greco ed Attico v'avea trovato, che m'avean mosso a giudicarle componimenti classici, ed accontarle tra le reliquie della vera incorrotta poesia Greca care a me troppo più che l'oro e qual altra cosa di questa fatta si tien preziosissima. Traduzione non ne avea Italia, che io mi sappia, altra che quella del Visconti, il quale incomparabile uomo, come nella scienza delle cose antiche non ha in Europa chi lo somigli, così non saprebbe, io credo, che fare della corona poetica, o certo traduzione incomparabile non ha fatto nè potea, stretto com'era a noverare i versi, perchè la sua versione scolpita poi a canto i marmi originali ne contenesse quanti il testo nè più nè meno. Nè per altro io penso che di queste poesie bellissime si parli sì poco, a non dir nulla tra' letterati, se non perchè elle non sono anco uscite delle mani degli eruditi, e si rimangono per ancora nel lago de' comenti. Quindi ho voluto cavarle io e metterle in condizione da esser lette come tutte le altre opere classiche per mezzo di una mia traduzione, a cui ho aggiunto il testo per meglio venire allo intendimento mio, da che spesso mal si conosce quello che solo per una traduzion poetica si conosce. L'ho tratto dalla edizione Romana del 1794 bella a vedere ottima a usare per la preclara fatica del Visconti (cui direi chiarissimo se non credessi fargli ingiuria) il quale con osservazioni utilissime e con ogni maniera d'illustrazione ha accompagnato le otto facce dell'originale<note resp="aut" place="foot">Iscrizioni greche Triopee ora Borghesiane con versioni ed osservazioni di Ennio Quirino Visconti. Roma pel Pagliarini 1794 in–4 max. facce 104 senza i frontespizi le approvazioni l'indice le incisioni delle lapide.</note>. Fedele sono stato, credo poter dirlo, assai, ma non quanto avrei voluto, perchè non ho potuto seguire il testo a motto a motto come avrei bramato, per la necessità della rima. Pure chi non sapendo di Greco, ha desiderio di leggere queste inscrizioni, può, se mal non avviso, senza gran rischio fidarsi di me. Delle altre qualità di questa traduzione non è mio debito intrattenere il Lettore. Leggala chi vuole e giudichi. Ho aggiunto alla piccola opera un epigramma di Antifilo Bizantino analogo all'argomento della prima inscrizione, cui non prima dato fuori, aggiunse il Visconti alla sua<note resp="aut" place="foot">Facc. 104.</note>. È cavato dal famoso Codice Vaticano–Palatino che contiene l'Antologia di Cefala, e per due secoli è stato inutilmente d'Italia, ed ora non è più!!!</p>
+            <p>Diciamo due motti anche per gli eruditi. Dell'autore di queste inscrizioni non altro noterò se non che al Visconti è paruto essere quel Marcello Sidete<note resp="aut" place="foot">Facc. 74.</note> di cui abbiamo il frammento, <foreign lang="grc">Ἰατρικὰ περὶ ἰχθᾣύων</foreign>, vivuto appunto ai tempi di Erode Attico che fe' scriverle. Annovera il Visconti tutte le edizioni de' due insigni monumenti che sapea esser venute in luce innanzi la sua<note resp="aut" place="foot">Facc. 16–18.</note>. Sommi meravigliato di non avere nel suo catalogo trovato parola di quella non isprezzabile che della prima inscrizione die' il Lami in Firenze l'anno 1746 nel Tomo VII delle opere di Giovanni Meursio, dove nella prefazione si ha la Lapida in Greco conforme alla edizione del Sig. di Saumaise, colla sua versione metrica e con alcuna delle sue note; e nelle colonne 875–884 tre volte occorre la stessa inscrizione, due in carattere maiuscolo ed una in comune, col comento e colla interpretazion letterale del Casaubono, con due brevi note dell'Hoeschelio e colla traduzione poetica del Meursio. Della qual traduzione non da altro ebbe contezza il Visconti<note resp="aut" place="foot">Facc. 18.</note> che da un passo di lettera scritta al Meursio dall'Hoeschelio la quale è tra le Gudiane. Dice l'Hoeschelio: <foreign lang="lat">Herodis inscriptionem a te versam habeo e tuo autographo</foreign>. Appunto questo ricevè il Lami dal Brucker, ma la versione del Meursio non era già inedita; che si parrà per quel che segue. Continua l'Hoeschelio: <foreign lang="lat">unde minus de Glossariensi laboraram editione, ad quam negabant quidquam accessisse</foreign>. Non sa che dire il Visconti di questa edizion Glossariense. «Non m'è riuscito di vederla, scrive nè<note resp="aut" place="foot">Facc. 17.</note> saprei che cosa intendesse l'Hoeschelio per Glossariense. Forse dovrà leggersi Glessariense, e sarà questa una latinizzazione alquanto affettata di Copenhaguen. Vado congetturando, che sia la stessa dedicata da Martino Baremio a' fratelli Moelleri, che trovo nell'articolo recato di sopra dell'ultima edizione del Fabricio, ma senza nota d'anno, o di luogo; solamente avvertendosi esser questa una ripetizione della Casauboniana, quale ci descrive appunto Hoeschelio la sua Glossariense. Chi potesse consultar la lettera di Ruperto a Reinesio, citata ivi dal Fabricio, sarebbe probabilmente in grado di rimovere tale incertezza». Or ecco come andò la bisogna. Non in Copenhaguen uscì fuori questa edizione, ma in Goslar città della inferior Sassonia, come avea conghietturato il Visconti in una postilla al passo che ho trascritto. Venne in luce il 1608, ed avea la nostra inscrizione colle note del Casaubono colla interpretazion latina letterale e colle versioni poetiche di Corrado Rittershuys di Giorgio Remo del Meursio di Michele Piccart e di Martino Baremio, tutte, salvo quella del Meursio, ignote al Visconti. E di questa edizione e di altre due che medesimamente non vennero a notizia del Visconti, parla il Brucker in una lettera al Lami che questi fe' pubblica nella prefazione universale alle opere del Meursio. <foreign lang="lat">Inter ea</foreign>, dice il Brucker<note resp="aut" place="foot">Brucker, ap. Lami Praef. general. in Meurs. op. Florent. Tom. I p. XIII.</note>, <foreign lang="lat">vidi notatam Herodis Inscriptionem Graecam totidem versibus, anno tamen impressionis non addito; quod quidem non miror, paucissimis enim prima visa est versio illa Latina Meursii folio integro fugitivo constans. Ea tamen recusa est in Germania Goslariae 1608. 8. hoc titulo: Inscriptio Vetus Graeca, continens dedicationem fundi, ab Herode M. Rege actam, nuper ad urbem Romam in via Appia effossam, cum Isaac. Casauboni notis: adjecta est interpretatio Latina, ligata et soluta oratione; et ligata quidem per C. Rittershusium, G. Remum, Io. Meursium, Mich. Piccartum, et Mart. Baremium; disparuit tamen et haec, ut hi solent libelli, editio. Est vero inter reculas meas prima celeberrimi Casauboni editio, tribus foliis formae majoris, sine mentione loci et anni impressa, quam nomine suo insignem et notatam transmisit celeberrimo Augustano Bibliothecario Davidi Hoeschelio. Hanc non ipse tantum Hoeschelius, vir Graece doctissimus, cum alia descriptione contulit, suisque adnotationibus sua manu in eo, quo utor exemplari, auxit, et inde editionis Casaubonianae textum emendavit; sed adjecta quoque est versio Latina totidem versibus Latinis reddita atque ipsius Meursii manuscripta, adeoque</foreign>
+               <foreign lang="grc">αὐτόγραφον</foreign>
+               <foreign lang="lat">ejus, quam requiritis, Inscriptionis</foreign>. Meglio, chi lo brami si conoscerà la edizione rarissima di Goslar, letto questo passo di Giovanni Gramm che pare l'avesse sotto gli occhi quando scrivea. Sta nelle sue note alle epistole scritte da' Dotti al Meursio, date fuori dal Lami nel tomo XI delle opere di costui<note resp="aut" place="foot">Gramm, in Io. Meursii op. Tom. XI col. 173 seq. in not.</note>. <foreign lang="lat">Hinc profecta Monumenti hujus editio Goslariensis, quam, quia hodie inventu rarissima est, hic describemus. Titulus habet: Inscriptio vetus Graeca, continens dedicationem fundi, ad Herode M. Rege factam, nuper ad Urbem Roman in via Appia effossa. Adjecta est interpretatio Latina, et soluta, et ligata oratione. Graeca ex Parisiensi editione Cl. V. Isaaci Casauboni fideliter sunt descripta. Golsariae 1608. 4. Post dedicationem quam editor Martinus quidam Baremius carmine scripsit, Inscriptioni textus graecus ponitur cum interpretatione ad verbum; sequuntur Is. Casauboni notae. Hinc paraphrases latinae ligata oratione, Cunradi Rittershusii, Georgii Remi, Io. Meursii, Mich. Piccarti, ac Martini Baremii, qui notulas suae addidit, ac versibus graecis ad Rittershusium, quibus haec</foreign>: <foreign lang="grc">Μόρσιμον ἃ στιβάρη</foreign>, <foreign lang="lat">nominis sui anagramma scil. subscripsit, ultimam pagellam implevit. Totum vero constat 28 paginis in 4. Anche in altra lettera scritta nel 1608 al Meursio fa parola l'Hoeschelio di questa edizione. Incidit in manus meas, dice, editio Goslariensis, sive altera, Inscriptionis veteris Graecae, cum tua et aliorum interpretatione Ubi idem noster Velserus miratur, ita de Herode rege Casaubono subscribi, ut nemini de Sophista ne subspicio quidem subierit</foreign>
+               <note resp="aut" place="foot">Hoeschelius, l. c. col. 171.</note>. E si ha pure una breve lettera in cui il Rittershuys prega il Meursio che per amor suo gli debba piacere di voltare in versi latini la inscrizione Triopea<note resp="aut" place="foot">Rittershuys, l. c. col. 174.</note>.</p>
+            <p>Diede il Visconti le Varietà di lezione delle due Lapide tratte da diverse edizioni e copie; ed io pure darò in questo libricciuolo quelle della prima, cavate dalla edizione del Lami che il Visconti non conobbe.</p>
+         </div1>
+      </front>
+      <body>
+         <div1>
+            <head>Argomento</head>
+            <p>Erode Attico Oratore Greco, maestro di M. Aurelio e Console, perduta per morte la moglie Annia Regilla nobilissima donna Romana, fe' comporre e scolpire queste due inscrizioni. Nella prima s'invita le Dee Minerva e Nemesi ad onorare della presenza loro un ricinto sepolcrale che era in un borgo detto Triopio da Triope re d'Argo, caro, come dicevano, a Cerere, situato al terzo segno della via Appia in vasta campagna già posseduta da Regilla. Con minacce terribili dell'ira de' numi si fa divieto a chi che sia di guastare il santo luogo per sotterrarvi cadaveri, se già non fossero di chi scese dalla famiglia di Erode cui non si disdice riposare entro il sacro ricinto. Nella seconda si chiama le donne Romane al tempio delle due Cereri, cioè dell'antica e della nuova che è la seconda Faustina, fatto innalzare da Erode nel Triopio; si celebra la morta Regilla la cui statua sacra alle due Dee era nello stesso tempio, si discorre le lodi del marito e gli onori conceduti alla defunta e ad un suo piccolo figlio da Giove e M. Aurelio, per la misericordia delle sventure di Erode vecchio vedovo ed orbo di due figli.</p>
+         </div1>
+         <div1>
+            <head>I</head>
+            <lg>
+               <l>Veneranda Tritonide che sopra</l>
+               <l>Atene sei, tu che d'ognun che vive,</l>
+               <l>Opi Ramnusia Dea<note resp="aut" place="foot">Nemesi.</note>, riguardi ogni opra,</l>
+            </lg>
+            <lg>
+               <l>Vicine a Roma centi–porte o Dive,</l>
+               <l>Questo onorate ospitai borgo ancora</l>
+               <l>Di Triope, quel da le contrade argive<note resp="aut" place="foot">Altro dal Tessalo detto ordinariamente Erisittone, e Triope nel fine di questa inscrizione.</note>.</l>
+            </lg>
+            <lg>
+               <l>Diranvi in ciel Triopee. Sì come allora</l>
+               <l>Che da' tetti del Padre altisonante</l>
+               <l>Giste in Atene e in Ramno<note resp="aut" place="foot">Borgo dell'Attica dov'era un tempio sacro a Nemesi che però s'appellava Ramnusia.</note> a far dimora,</l>
+            </lg>
+            <lg>
+               <l>Venite a questa vigna a queste piante</l>
+               <l>Coperte di racemi; ite de' prati</l>
+               <l>Sopra la chioma molle verdeggiante.</l>
+            </lg>
+            <lg>
+               <l>Itene tra le spighe. A voi sacrati</l>
+               <l>Ha questi campi Erode: e' nel futuro</l>
+               <l>Appo chi seguiranno inviolati</l>
+            </lg>
+            <lg>
+               <l>Fien tutti, quanti ne corona il muro</l>
+               <l>Che lor s'aggira intorno. A la sua 'nchiesta</l>
+               <l>Scosso ha Palla de l'elmo il crine scuro,</l>
+            </lg>
+            <lg>
+               <l>Ed assentito ha con l'eterna testa:</l>
+               <l>Perchè non sia chi di qua sasso toglia</l>
+               <l>O toglia gleba, che vendetta è presta.</l>
+            </lg>
+            <lg>
+               <l>Chi templi violò fia che si doglia.</l>
+               <l>Vicini udite, udite agricoltori,</l>
+               <l>Che cruccio de le Parche non v'incoglia.</l>
+            </lg>
+            <lg>
+               <l>È sacro il loco, immobili e d'onori</l>
+               <l>Degne le Dive sono e ad udir pronte.</l>
+               <l>Lungi da questi campi o zappatori.</l>
+            </lg>
+            <lg>
+               <l>Non osate a la vigna arrecar onte:</l>
+               <l>A star l'antica o far tomba novella</l>
+               <l>Alcun non sia che queste file affronte,</l>
+            </lg>
+            <lg>
+               <l>Che i boschi o l'erba rigogliosa e bella,</l>
+               <l>Cui l'umor nutrichevole sostenta,</l>
+               <l>Guasti con l'ascia<note resp="aut" place="foot">Era un istromento, dice il Visconti, di coloro che cavavano i sepolcri detti propriamente Fossori, ed avea insieme da un lato figura di zappa, dall'altro di scure.</note> al nero Pluto ancella.</l>
+            </lg>
+            <lg>
+               <l>Vien disgrato a le Dee s'alcun s'attenta</l>
+               <l>Di questo campo le sacrate zolle</l>
+               <l>Sopra salma a gittar di vita spenta.</l>
+            </lg>
+            <lg>
+               <l>Sol cui propinquo o primo è chi sacrolle</l>
+               <l>Lice che sotto a questo suol ripose</l>
+               <l>Chè 'l sa la Dea che torlo in guardia volle.</l>
+            </lg>
+            <lg>
+               <l>Anco Minerva de le sacre cose</l>
+               <l>Fe' consorto Eretteo<note resp="aut" place="foot">Re d'Atene, sepolto nel tempio di Minerva Poliade.</note> quando sua spoglia</l>
+               <l>Entro la santa sua sede ripose.</l>
+            </lg>
+            <lg>
+               <l>Se spregi alcun tai detti e udir non voglia</l>
+               <l>Nè d'ubbidir si curi, e' male avvisa,</l>
+               <l>S'avvisa che divina ira nol coglia.</l>
+            </lg>
+            <lg>
+               <l>Lui farà tristo Nemesi improvvisa</l>
+               <l>E di vendetta il demone vagante:</l>
+               <l>Sua sventura e' trarrà sempre indivisa.</l>
+            </lg>
+            <lg>
+               <l>Gioco a Triope non fu le lande sante</l>
+               <l>Di Cerere aver guasto. Ora a voi giovi</l>
+               <l>Temere il nome<note resp="aut" place="foot">Del luogo, che chiamandosi Triopio da Triope argivo caro a Cerere, ricorda il gastigo dell'altro Triope punito dalla stessa Dea.</note> e 'l mal, perchè sembiante</l>
+            </lg>
+            <lg>
+               <l>Erinni Triopea voi pur non trovi.</l>
+            </lg>
+         </div1>
+         <div1>
+            <head>II</head>
+            <head>DI MARCELLO<note resp="aut" place="foot">Nome forse dell'autore delle Inscrizioni.</note>
+            </head>
+            <lg>
+               <l>O Tiberine donne, a questo sacro</l>
+               <l>Tempio movete il passo, incensi or voi</l>
+               <l>Di Regilla portate al simulacro.</l>
+            </lg>
+            <lg>
+               <l>I ricchissimi Eneadi incliti Eroi</l>
+               <l>Di Cipri e Anchise figli a padri ebb'ella,</l>
+               <l>E 'n Maraton<note resp="aut" place="foot">Popolo o Borgo Attico onde Erode era natìo.</note> gli sponsalizi suoi.</l>
+            </lg>
+            <lg>
+               <l>Cerere antica e Cerere novella<note resp="aut" place="foot">Cioè la Dea Cerere e Faustina la moglie di M. Aurelio già morta.</note>
+               </l>
+               <l>L'onoran pure, ambo celesti dive</l>
+               <l>Cui 'l simulacro de la donna bella</l>
+            </lg>
+            <lg>
+               <l>È consecrato: e su le sante rive</l>
+               <l>U'Crono impera a l'anime beate,</l>
+               <l>Tra l'Eroine il suo spirito vive.</l>
+            </lg>
+            <lg>
+               <l>Suoi costumi 'l mertàr. Giove a pietate</l>
+               <l>Si mosse del mestissimo consorte</l>
+               <l>Ch'orbo talamo preme in secca etate.</l>
+            </lg>
+            <lg>
+               <l>Trassegli 'l Fato reo due figli a morte:</l>
+               <l>E sol metà di sua progenie intera</l>
+               <l>Nescia gli avanza di sua trista sorte.</l>
+            </lg>
+            <lg>
+               <l>Non sa parva qual madre a lei la nera</l>
+               <l>Lanaiuola rapì pria che volgesse</l>
+               <l>Data al filar suo dì vicino a sera<note resp="aut" place="foot">Il luogo del testo: <foreign lang="grc">ἔτι πάμπαν ἀπᾣύστω</foreign>/ <foreign lang="grc">Οἵην σφιν νηλὴς κατὰ μητέρα πότμος ἔμαρψε</foreign>,/ <foreign lang="grc">Πρίν περ γεραίῃσι μιγήμεναι ἠλακάτῃσι</foreign>/ si rende dal Visconti: <hi rend="italic">Non san qual madre lor rapisse il Fato/ Pria di volgerne al fuso i freddi giorni</hi>; e dal Sig. di Saumaise, la cui versione ha il Visconti aggiunto alla sua opera, ed emendato, ma non qui: <foreign lang="lat">Et adhuc heu! nescia qualem/ Abstulerit matrem sibi inexorabilis Orcus,/ Ante colus serae explesset quam fila senectae</foreign>. Nelle note, faccia 82, dice il Visconti: «<foreign lang="grc">Μιγήμεναι</foreign>. Del verbo <foreign lang="grc">μίγνυσθαι</foreign> usurpato in senso di <foreign lang="grc">πελάσαι</foreign>, approssimarsi, tengon conto i Lessicografi, e l'appoggiano coll'autorità d'Omero: non dovea far dunque sì gran meraviglia al Maittaire». Io tengo che mal si sia creduto il verso. <foreign lang="grc">Πρίν περ γεραίῃσι μιγήμεναι ἠλακάτῃσι</foreign> appartenere a <foreign lang="grc">πότμος</foreign> il Fato, dove piuttosto il si dovea far dipendere da <foreign lang="grc">μητέρα</foreign> madre. Come mai può dirsi del Fato: <foreign lang="lat">Antequam senilibus misceretur colis</foreign>? Se anche <foreign lang="grc">μιγήμεναι</foreign> dovesse rendersi per <hi rend="italic">approssimarsi</hi>, parmi che il poeta avrebbe dovuto dire, <hi rend="italic">fili</hi>, a cagion di esempio, <foreign lang="grc">κλωστῆρσι</foreign> o <foreign lang="grc">νήμασι</foreign>, non <foreign lang="grc">ἠλακάτῃσι</foreign> conocchie, da che, se non fallo, e' non si sa che le Parche usassero diverse rocche, e le cangiassero secondochè la vita del mortale s'inoltrava verso il suo termine. Ma io penso che non sia qui mestieri in verun conto pigliar <foreign lang="grc">μιγήμεναι</foreign> per appressarsi, e che <foreign lang="grc">γεραίῃσι μιγήμεναι ἠλακάτῃσι</foreign> vaglia: starsi tra le conocchie senili, usare le rocche senili, passarsela da vecchia, filando, frase poetica che dinota la vecchiezza di una donna. Così il verbo <foreign lang="grc">μίγνυσθαι</foreign> nella consueta significazione tanto è lungi che qui abbia dello strano, che viene anzi nel greco linguaggio naturalissimo.</note>.</l>
+            </lg>
+            <lg>
+               <l>A sua doglia insaziabile concesse</l>
+               <l>Giove conforto, e 'l Re che a Giove padre</l>
+               <l>Simile ha 'l senno e le sembianze istesse<note resp="aut" place="foot">M. Aurelio.</note>.</l>
+            </lg>
+            <lg>
+               <l>Giove su l'Oceano a le leggiadre</l>
+               <l>Spiagge d'Eliso trasportar facea</l>
+               <l>Da un'ôra molle la formosa madre.</l>
+            </lg>
+            <lg>
+               <l>Cesare al figlio tenerin porgea</l>
+               <l>Lo stellato calzar<note resp="aut" place="foot">Distintivo patrizio o senatorio.</note> che rilucente</l>
+               <l>Mercurio si vestì già quando Enea</l>
+            </lg>
+            <lg>
+               <l>Trasse di mezzo a la nemica gente</l>
+               <l>In buia notte. Allora il salutare</l>
+               <l>(Se vetusta comun fama non mente)</l>
+            </lg>
+            <lg>
+               <l>Sul tallon gli splendeva orbe lunare:</l>
+               <l>Onde a gli Eneadi piacque ornar di tale</l>
+               <l>Nobile insegna il gemino calzare.</l>
+            </lg>
+            <lg>
+               <l>Nè già l'avito Ausonio fregio male</l>
+               <l>Però soltanto al fanciullin s'addice</l>
+               <l>Che d'Attica progenie ebbe il natale.</l>
+            </lg>
+            <lg>
+               <l>Poi che d'Erse e Mercurio e di Cerice</l>
+               <l>Del Cecropide Erode il sangue viene:</l>
+               <l>Che più gentile Acheo trovar non lice</l>
+            </lg>
+            <lg>
+               <l>Nè più facondo pur. Lingua d'Atene</l>
+               <l>Grecia tutta l'appella: ond'è che sede</l>
+               <l>Nel Senato regal primaria tiene</l>
+            </lg>
+            <lg>
+               <l>E suo nome ha ne' Fasti<note resp="aut" place="foot">Erode Attico era stato Console ordinario l'anno di Cristo 143.</note>. E Ganimede</l>
+               <l>Troe Dardano Erittone a padri avea</l>
+               <l>L'Eneade anch'ella dal leggiadro piede<note resp="aut" place="foot">Regilla.</note>,</l>
+            </lg>
+            <lg>
+               <l>Ostie offrirle puoi tu sì come a Dea,</l>
+               <l>S'a dar culto a gli Eroi pietà ti mova,</l>
+               <l>Che nè mortale ell'è nè 'n ciel si bea.</l>
+            </lg>
+            <lg>
+               <l>Stretto non se' se farlo non ti giova,</l>
+               <l>Poi nè funebri pompe ell'ha ned are,</l>
+               <l>E suo tempio o sua tomba non si trova.</l>
+            </lg>
+            <lg>
+               <l>Suo monumento che delubro pare</l>
+               <l>In Atene si vede, e l'alma è gita</l>
+               <l>Colà di Radamanto a l'abitare.</l>
+            </lg>
+            <lg>
+               <l>Qui nel Triopio borgo è stabilita</l>
+               <l>L'immagin sua ch'a Faustina<note resp="aut" place="foot">La giovane.</note> piace,</l>
+               <l>U' spaziosi campi ebbe in sua vita</l>
+            </lg>
+            <lg>
+               <l>Ed oliveti e suol d'uve ferace.</l>
+               <l>Nè la reina de le donne e Dea<note resp="aut" place="foot">Tornasi a parlare di Faustina.</note>
+               </l>
+               <l>Questa sua spregerà ninfa seguace.</l>
+            </lg>
+            <lg>
+               <l>Che nè Pallade a vile Erse tenea,</l>
+               <l>Palla occhi–orrenda nè Diana arciera</l>
+               <l>La casta Ifianassa a schifo avea.</l>
+            </lg>
+            <lg>
+               <l>Nè la madre di Cesare<note resp="aut" place="foot">Domizia Calvilla che non è Dea celeste ma donna delle semidee, perchè morta avanti che 'l figlio M. Aurelio venisse Augusto.</note> che impera</l>
+               <l>A l'Eroine, e ne l'Elisio regno</l>
+               <l>Con Semele ed Alcmena è condottiera</l>
+            </lg>
+            <lg>
+               <l>De le beate danze, avralla a sdegno.</l>
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

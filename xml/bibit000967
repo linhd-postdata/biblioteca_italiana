@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Il primo libro dei madrigali</title>
+      <author>Girolamo Parabosco</author>
+    </titleStmt>
+    <extent>43 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000967</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Il primo libro dei madrigali, 1551</title>
+        <author>Parabosco, Girolamo</author>
+        <editor id="ed">Longo, Nicola</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1987</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>808.814 - RACCOLTE DI POESIA LIRICA</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT-Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-06-14T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-06-14T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 n="Dedica"><opener><salute>Alla nobilissima e valorosissima cavagliera la magnifica m. Laura  Bernardo.</salute></opener>
+<p>Chiarissima Madonna, il giudizio ch'io ho dimostrato nello onorare le mie lettere famigliari del nome dell'onoratissimo e generosissimo cavagliero suo consorte e mio singularissimo padrone, parrebbe cosa che il caso mi avesse fatto fare se, dovend'io mandare fuori questo mio primo libro de' Madrigali o veramente ballate, io non onorasse loro del felice nome e splendore di Vostra Signoria e di casa sua: la quale di valorosi spiriti, di bontà, di cortesia e d'ogni altra perfezione ne va al paro d'ogni altra casa che più per la Italia appaia famosa e chiara. E chi non avesse quella perfetta cognizione che n'ho io, ponghi mente a Vostra Signoria, che in lei vedrà raccolto tutto quel valore, quelle grazie, quei costumi e quel senno che così chiara fa la casa Foscaro: sì come anco nel chiarissimo vostro consorte appaiono, con grandissimo splendore e onore della felicissima patria vostra, le virtù e eccellenze di casa Bernardo; Vostra Signoria si degnerà adunque accettare questo mio umile presente: anzi contentarsi d'avere a me fatto presente del suo onorato nome, con il quale ho io onorato e adornato questi miei pochi e poco saporosi frutti: i quali almeno saranno, quanto possano essere, di valorosa patrona pomposi, e a Vostra Signoria con quella maggior riverenza che io posso m'inchino e bascio la mano.</p>
+<closer><signed>Di Vostra Signoria devoto servitore Girolamo Parabosco </signed></closer></div1></front>
+<body>
+<div1><head>1</head>
+
+<lg>
+<l>Mentre ardenti sospiri e pianto amaro</l>
+<l>hanno avuto questi occhi e questo core,</l>
+<l>mentre ha potuto la mia lingua dire,</l>
+<l>v'ho mostro la mia fede e 'l mio martire.</l>
+<l>Or che, lasso, l'umor, la voce e 'l fiato</l>
+<l>donna, colpa di voi, m'invola il fato,</l>
+<l>se vostro fui, se soffert'ho dolore,</l>
+<l>ve ne darà il mio fin segno maggiore.</l>
+<l>Ahi poi che giunto a tal m'avete stato,</l>
+<l>non vi sia il mio morir cotanto caro,</l>
+<l>che fuor non veggia uscir di quel bel seno</l>
+<l>un pietoso sospir, morendo almeno.</l></lg></div1>
+
+<div1><head>2</head>
+
+<lg>
+<l>Se comprendeste sì la doglia mia,</l>
+<l>com'io comprendo (ahimé) vostra beltate,</l>
+<l>non men sarebbe in voi, donna, pietate,</l>
+<l>che d'adorarvi in me voglia si sia.</l>
+<l>Che se nel vostro viso</l>
+<l>si vede di bellezza un paradiso,</l>
+<l>nel mio infiammato core</l>
+<l>uno inferno è d'affanno e di dolore.</l></lg></div1>
+
+<div1><head>3</head>
+
+<lg>
+<l>Se bramate il mio fine,</l>
+<l>trovate altra cagione al mio morire,</l>
+<l>che m'è dolcezza e pace:</l>
+<l>non pur morir mi face</l>
+<l>quanta mi date voi pena e martire.</l>
+<l>Ben potreste aggradire</l>
+<l>Donna, l'alta mia fede</l>
+<l>e dar qualche mercede</l>
+<l>al mio lungo servire.</l>
+<l>Che tal piacer n'avrei</l>
+<l>che subito morrei:</l>
+<l>e fora con mia pace e vostro onore,</l>
+<l>che non commette errore,</l>
+<l>chi dà cagion ch'uom moia</l>
+<l>di soverchia talor dolcezza e gioia.</l></lg></div1>
+
+<div1><head>4</head>
+
+<lg>
+<l>Poi ch'io vivo lontano,</l>
+<l>gradito e del mio cor dolce soggiorno,</l>
+<l>a voi, ben posso dire</l>
+<l>che fuor non tra' di vita</l>
+<l>soverchio aspro martire.</l>
+<l>E se nel far ritorno,</l>
+<l>non mi farà morir gioia infinita,</l>
+<l>me potrà il mondo per essempio avere,</l>
+<l>ch'uom uccider non può doglia o piacere.</l></lg></div1>
+
+<div1><head>5</head>
+
+<lg>
+<l>Per mirar la beltà che il cor mi tolse,</l>
+<l>in cui beltà maggior par ch'ognor fiocchi,</l>
+<l>Amor la benda che m'accieca sciolse</l>
+<l>e nel bel vostro viso affissò gli occhi.</l>
+<l>Ma poi di troppo ardir seco si dolse,</l>
+<l>e disse: - Voi rilego anzi che scocchi</l>
+<l>coste', occhi, il suo stral, che meglio è assai</l>
+<l>che perderne lo cuor non v'aprir mai.</l></lg></div1>
+
+<div1><head>6</head>
+
+<lg>
+<l>Ben sarete crudel, Madonna, e ria,</l>
+<l>se non lasciate a morte,</l>
+<l>lasso, finire omai la pena mia.</l>
+<l>Voi mi tenete vivo (ahi dura sorte)</l>
+<l>con dolci sguardi e con parole accorte,</l>
+<l>per far più grave e lungo il mio martire;</l>
+<l>allor che vinto da troppo aspro duolo,</l>
+<l>levar lo spirto mio si vuole a volo,</l>
+<l>deh, impetri da voi tanto il mio servire,</l>
+<l>crudel, che mi lasciate almen morire.</l></lg></div1>
+
+<div1><head>7</head>
+
+<lg>
+<l>S'io non piango e sospiro,</l>
+<l>mentre mi portan l'onde</l>
+<l>e l'aure, a' miei desir contrarie tanto</l>
+<l>quanto al mio navigar, ahimè, seconde,</l>
+<l>Donna, ritegno il pianto,</l>
+<l>per non giunger al mar forza maggiore.</l>
+<l>Et a pena respiro,</l>
+<l>ch'io so che un sol sospiro</l>
+<l>più dar potrebbe alla vela vigore,</l>
+<l>e farmi a voi mio ben via più lontano,</l>
+<l>che quanto può spirar vento in un anno.</l></lg></div1>
+
+<div1><head>8</head>
+
+<lg>
+<l>Deh, fin che l'alma sia posta per voi</l>
+<l>ne l'amoroso foco,</l>
+<l>temprate, Donna, il vostro orgoglio un poco.</l>
+<l>Ch'a me sarete poi</l>
+<l>crudele a vostra voglia,</l>
+<l>quando impossibil sia ch'ella si scioglia.</l>
+<l>Ella sciolta se n' suol da voi fuggire,</l>
+<l>per tema del morire,</l>
+<l>et io sento dolor troppo aspro e forte,</l>
+<l>temendo non gustar sì dolce morte.</l>
+<l>Dunque sin ch'ella sia posta per voi</l>
+<l>ne l'amoroso foco,</l>
+<l>temprate, Donna, il vostro orgoglio un poco.</l></lg></div1>
+
+<div1><head>9</head>
+
+<lg>
+<l>Donna ben sapre' io</l>
+<l>mostrarvi aperta sì la pena mia,</l>
+<l>ch'a forza del mio mal sareste pia.</l>
+<l>Ma in me può tanto Amore,</l>
+<l>ch'io vo' morir di sì crudel dolore,</l>
+<l>Lasso, prima ch'io voglia</l>
+<l>che voi cangiate non volendo voglia.</l></lg></div1>
+
+<div1><head>10</head>
+
+<lg>
+<l>Madonna, i' veggio espresso,</l>
+<l>ch'ancor che 'l mio dolor sia così forte</l>
+<l>che mi conduchi a morte,</l>
+<l>che non sia però assai,</l>
+<l>per appagar la vostra voglia mai.</l>
+<l>Ma se lagrime amare,</l>
+<l>se cocenti sospir ponno impetrare</l>
+<l>talor qualche mercede,</l>
+<l>insegnatemi voi maggior martire,</l>
+<l>e sia assai premio alla mia salda fede.</l>
+<l>Che più grave è 'l dolore</l>
+<l>che sostiene il mio core,</l>
+<l>nol potendo maggior per voi soffrire,</l>
+<l>che non saria la doglia</l>
+<l>che potrebbe appagar la vostra voglia.</l></lg></div1>
+
+<div1><head>11</head>
+
+<lg>
+<l>Voi volete ch'io moia,</l>
+<l>e mi date dolor sì crudo e forte</l>
+<l>che mi conduce a morte.</l>
+<l>Ma per vederne voi così contenta,</l>
+<l>mentre i' moro il morir vita diventa.</l>
+<l>Di che vedendo, ahimé, dolente voi,</l>
+<l>da questa vita poi</l>
+<l>mi vien tanto martire,</l>
+<l>ch'io pur giungo al morire.</l>
+<l>E così mille e mille volte al giorno</l>
+<l>per voi moro e morendo in vita torno.</l></lg></div1>
+
+<div1><head>12</head>
+
+<lg>
+<l>Come potrò io, senza morire,</l>
+<l>sì lungo spazio non vedendo stare</l>
+<l>il vostro volto, ahimé, se da quel solo</l>
+<l>ogni mio bene et ogni mia pace involo?</l>
+<l>O s'io non moio poi, com' potrò dire</l>
+<l>che sia sì crudo et aspro il mio martire?</l>
+<l>Ma se tanto mia stella e 'l cielo può fare</l>
+<l>che senza vostra aita</l>
+<l>io mi rimanga in vita</l>
+<l>che non posson già far, crediate pure</l>
+<l>che provi unqua chi muor pene sì dure.</l></lg></div1>
+
+<div1><head>13</head>
+
+<lg>
+<l>Amor, se il ver ne' suoi begli occhi ho scorto,</l>
+<l>qualor saprà il mio male,</l>
+<l>ne diverrà pietosa,</l>
+<l>la bella Donna ond'io son quasi morto.</l>
+<l>Tu fa' dunque, Signore,</l>
+<l>sì la mia lingua ardita,</l>
+<l>che discovrir le possa il mio dolore</l>
+<l>e dimandarle aita.</l>
+<l>O fa' ch'ella da sé conosca e veda</l>
+<l>l'alta piaga mortal nel core ascosa.</l>
+<l>E la mia fede creda</l>
+<l>che poscia non potrà se non donarmi</l>
+<l>quel soccorso che può beato farmi;</l>
+<l>che tanto un simil ben non chiesto vale,</l>
+<l>che può bear in terra un uom mortale.</l></lg></div1>
+
+<div1><head>14</head>
+
+<lg>
+<l>Dunque, lasso, degg'io di vita uscire</l>
+<l>senza cercare aita</l>
+<l>da chi cagiona il mio grave martire?</l>
+<l>Anzi pur vo' scovrire al mio bel sole</l>
+<l>quella acerba ferita</l>
+<l>che mi conduce a morte:</l>
+<l>che se per dolce sorte</l>
+<l>avien che faccian frutto</l>
+<l>le meste mie parole,</l>
+<l>in ciel non è beato</l>
+<l>con cui cangiassi stato.</l>
+<l>E s'anco avien ch'ella sdegnosa toglia</l>
+<l>la spene al cor d'unqua vederla pia,</l>
+<l>più per tempo avrà fin la pena mia.</l>
+<l>E gran ventura fia,</l>
+<l>se non dovend'io aver ma' 'l viso asciutto,</l>
+<l>tosto uscirò di doglia,</l>
+<l>ch'aver non poco amico il ciel può dire,</l>
+<l>se tosto mor chi dee sempre languire.</l></lg></div1>
+
+<div1><head>15</head>
+
+<lg>
+<l>Tu che dentro e di fuor mi vedi aperto,</l>
+<l>Amor, che il cor di più mille strali,</l>
+<l>di ferite mortal piagato m'hai,</l>
+<l>fa' fede a lei, che non se 'l crede certo,</l>
+<l>che soffre lo mio cor tormenti tali</l>
+<l>che se più tarda a darmi aita, omai</l>
+<l>avrà mia vita fin, come tu sai.</l>
+<l>E s'ella forse maggior uopo aspetta,</l>
+<l>Dille, tu che mi vedi in tale stato:</l>
+<l>- Non tardar più, che il fato</l>
+<l>già con morte s'accorda e lei s'affretta</l>
+<l>nel cor scoccargli l'ultima saetta.</l></lg></div1>
+
+<div1><head>16</head>
+
+<lg>
+<l>Così potess'io fisso,</l>
+<l>Donna, sempre mirar nei bei vostr'occhi,</l>
+<l>come, allor ch'io li miro,</l>
+<l>volgersi a me benigni in lieto giro,</l>
+<l>convien che in me tanto piacer trabocchi</l>
+<l>che più non n'ha chi vive in paradiso;</l>
+<l>così mai non consenta</l>
+<l>il ciel che irati né di state o verno</l>
+<l>gli vegga, come allor, lasso, tormenta</l>
+<l>lo misero mio cor sì aspro dolore,</l>
+<l>che ne lo scuro inferno</l>
+<l>i dannati non han pena maggiore.</l>
+<l>Dunque, Donna gentil, come potrete</l>
+<l>giamai più dir ch'a me cara non sete,</l>
+<l>s'a un vostro sguardo lice</l>
+<l>così misero farmi e sì felice?</l></lg></div1>
+
+<div1><head>17</head>
+
+<lg>
+<l>Ancor ch'io possa dire</l>
+<l>che d'aver vita il cor sol tanto sente</l>
+<l>quanto a voi son presente,</l>
+<l>poi che non m'è concesso</l>
+<l>esservi ognora appresso,</l>
+<l>mai non vorrei venire,</l>
+<l>mia vita, innanzi a voi,</l>
+<l>tant'ho dolor de la partita poi.</l></lg></div1>
+
+<div1><head>18</head>
+
+<lg>
+<l>Se volete ch'io mora,</l>
+<l>Contento son morire,</l>
+<l>ma ritornate l'alma</l>
+<l>in questa afflitta salma,</l>
+<l>che parmi aver per tempo udito udire</l>
+<l>che chi quella non ha non può morire.</l>
+<l>Di queste membra la traeste voi</l>
+<l>con guardo sì soave,</l>
+<l>che non mi parve grave</l>
+<l>restar privo di quella.</l>
+<l>Or poi che fera stella</l>
+<l>v'ha fatto a me rubella,</l>
+<l>rendetemi la vita,</l>
+<l>che com' di me ne la traesti allora,</l>
+<l>così tornarla vi potete ancora.</l>
+<l>Che se con lei ancor mi fate unire,</l>
+<l>s'io non muoio da poi, poss'io morire.</l></lg></div1>
+
+<div1><head>19</head>
+
+<lg>
+<l>Leggiadre donne belle,</l>
+<l>se la face e d'Amor l'arco sprezzate,</l>
+<l>qui dentro non mirate,</l>
+<l>che questo alto Signore</l>
+<l>quando altro non gli vale,</l>
+<l>i freddi cuori assale</l>
+<l>di quelle c'hanno in sé maggiori asprezze</l>
+<l>con le proprie bellezze.</l>
+<l>E siavi essempio il bel crudo Narciso,</l>
+<l>ferito, morto da lo stesso viso.</l></lg></div1>
+
+<div1><head>20</head>
+
+<lg>
+<l>Né fior leggiadro, prato,</l>
+<l>né pianta, dolce frutto,</l>
+<l>né tanto mai il cielo adornò stella,</l>
+<l>come adornate voi, Lucrezia bella,</l>
+<l>con la vostra bellezza il mondo tutto.</l>
+<l>Lungo spazio celò natura a noi</l>
+<l>ogni vago, ogni bello, ogni gentile</l>
+<l>per farne opra perfetta</l>
+<l>d'ogni grazia e valor: e fece voi.</l>
+<l>Pur, vaga angioletta,</l>
+<l>cui par non vide mai occhio mortale,</l>
+<l>ragion è ben, poi che voi sete tale</l>
+<l>e sol per voi risplende il secol nostro</l>
+<l>che dolce et alto stile,</l>
+<l>il casto nome vostro,</l>
+<l>che la beltà ch'in voi largo comparte</l>
+<l>il ciel risuoni omai per ogni parte.</l></lg></div1>
+
+<div1><head>21</head>
+
+<lg>
+<l>Amor, poi che non vuole</l>
+<l>la bella Donna a cui nol dir giurai</l>
+<l>ch'io dica il mio gioire,</l>
+<l>almen dì tu ch'uom mai</l>
+<l>più felice di me non vidde il sole.</l>
+<l>Chi strinse mai più bella mano? E quai</l>
+<l>labbra basciò più dolci? Ahi, che morire</l>
+<l>mi sento, da poi ch'io nol posso dire.</l>
+<l>Torna dunque a ridir, Amor, ch'uom mai</l>
+<l>più felice di me non vidde il sole.</l></lg></div1>
+
+<div1><head>22</head>
+
+<lg>
+<l>Sì ch'io l'ho detto, dissi e dirò sempre</l>
+<l>che non si truova, Ippolita, fra noi</l>
+<l>donna che di beltà s'aguaglia a voi.</l>
+<l>Non son tutti d'or fino i bei capegli,</l>
+<l>d'avorio il fronte e d'ebano le ciglia,</l>
+<l>di perle i denti e i labbri de rubini?</l>
+<l>Di natura l'estrema maraviglia</l>
+<l>non son le guance poi?</l>
+<l>Occhi più che divini,</l>
+<l>occhi, voi sete quegli</l>
+<l>che vivere e morire</l>
+<l>fate ciascuno in disusate tempre.</l>
+<l>Dunque, ben posso dire,</l>
+<l>et a ragion l'ho detto e dirò sempre,</l>
+<l>che non si trova, Ippolita, fra noi</l>
+<l>donna che di beltà s'aguaglia a voi.</l></lg></div1>
+
+<div1><head>23</head>
+
+<lg>
+<l>O crude pene mie,</l>
+<l>per questo crude sete,</l>
+<l>perché non m'occidete.</l>
+<l>Che se mentre lontano</l>
+<l>dal bel sembiante umano</l>
+<l>di madonna piang'io mia dura sorte</l>
+<l>e la gravosa vita,</l>
+<l>voi mi donaste morte,</l>
+<l>saria pietà infinita.</l>
+<l>Dunque, voi crude sete,</l>
+<l>perché non m'occidete.</l></lg></div1>
+
+<div1><head>24</head>
+
+<lg>
+<l>S'io v'amo e s'io v'ho amato, un dì vedrete</l>
+<l>o dolce iddolo mio, se questa lingua,</l>
+<l>cantando la virtù dei vostri rai,</l>
+<l>a voi ne potrà dar segno giamai.</l>
+<l>Così mai non l'estingua</l>
+<l>il ciel, s'ardor per me punto vi scalda,</l>
+<l>com'io la voglia ho calda</l>
+<l>di voi in dolci e sì soavi tempre</l>
+<l>scriver, cantar e ragionar mai sempre.</l></lg></div1>
+
+<div1><head>25</head>
+
+<lg>
+<l>Misero me, ch'alle mie spese imparo</l>
+<l>come sente dolor crudel e strano</l>
+<l>chi da la donna sua si fa lontano.</l>
+<l>Amor non mi fa torto,</l>
+<l>benché mi faccia gire</l>
+<l>sì colmo di martire,</l>
+<l>che la colpa è pur mia,</l>
+<l>di pena così ria.</l>
+<l>O mia vita, o mio core, o mio conforto,</l>
+<l>sia sempre il ciel per me di pietà casso,</l>
+<l>se mai da te più m'allontano un passo.</l></lg></div1>
+
+<div1><head>26</head>
+
+<lg>
+<l>L'altr'ier sì dolcemente conducea</l>
+<l>Madonna a morte un parvo animaletto,</l>
+<l>ch'ei dimostrando il suo sommo diletto,</l>
+<l>morendo parea dire:</l>
+<l>- Qual'è viver beato,</l>
+<l>ch'avanzi il mio morire? -.</l>
+<l>Amor, che punto il cor d'invidia avea,</l>
+<l>per la face, per l'arco e per lo strale,</l>
+<l>giurando disse a me ch'avria cangiato</l>
+<l>con quel fortuna e stato.</l>
+<l>Pensate, amanti, quale</l>
+<l>mi vien da lei piacer, gioia e contento,</l>
+<l>se invidia un dio immortale</l>
+<l>chi riceve da lei morte e tormento.</l></lg></div1>
+
+<div1><head>27</head>
+
+<lg>
+<l>Alma, perché ti lassi</l>
+<l>dal sfrenato desio</l>
+<l>guidar sì spesso innanzi al nostro sole,</l>
+<l>dal quale partendo poi,</l>
+<l>lasso, il grave martir raddoppia in noi?</l>
+<l>Misero, affretta i passi,</l>
+<l>né poner in oblio,</l>
+<l>che i suoi begli occhi e l'alte sue parole</l>
+<l>dolce piacere a noi rendon più assai</l>
+<l>che l'amaro non è de' nostri guai.</l>
+<l>D'accordo noi saremmo</l>
+<l>allor che potrai fare</l>
+<l>che quanto è il nostro mal, sì lungo sia</l>
+<l>quel piacer che da lei talor avemmo.</l>
+<l>Indarno pensi e credi</l>
+<l>se speri che si dia</l>
+<l>qua giuso il paradiso</l>
+<l>che il paradiso avria</l>
+<l>chi ognor mirar potesse il suo bel viso.</l>
+<l>Adunque meglio fora</l>
+<l>lasciar che il tempo intepidisse il foco,</l>
+<l>che ne sface e distilla a poco a poco,</l>
+<l>che raccenderlo più per sopportare</l>
+<l>un anno di tormento,</l>
+<l>inaspettando un'ora</l>
+<l>di goder poi così breve contento.</l>
+<l>Ah, sciocco, non t'avedi</l>
+<l>che un sol momento di sì dolce bene</l>
+<l>non pagan mille affanni e mille pene?</l></lg></div1>
+
+<div1><head>28</head>
+
+<lg>
+<l>Donna saggia e gradita,</l>
+<l>per voi provo sì dolce ogni tormento,</l>
+<l>che in tale stato viver mi contento.</l>
+<l>E s'io vi cheggio aita,</l>
+<l>talor facciol ch'io temo</l>
+<l>che il mal mio troppo estremo</l>
+<l>conduca a fin questa mia debil vita.</l>
+<l>Non curo già per voi, Donna, morire</l>
+<l>ma non vorrei partire,</l>
+<l>lasso, sì tosto dal bel vostro volto,</l>
+<l>ov'è quanto ha di bello il ciel raccolto.</l>
+<l>Che se mi fosse, come alla fenice,</l>
+<l>vivo tornar doppo il morir concesso,</l>
+<l>voi m'odiresti, o del mio cor beatrice,</l>
+<l>chiedervi morte più che vita spesso.</l></lg></div1>
+
+<div1><head>29</head>
+
+<lg>
+<l>Adorno non è 'l ciel di stelle tante,</l>
+<l>né tanta arena ha 'l mar, Elena, quante</l>
+<l>son le virtù, son le bellezze vostre.</l>
+<l>Chi potrà dunque a pien lodarvi mai,</l>
+<l>se son virtuti e in voi più grazie assai</l>
+<l>che non ha stelle in cielo e 'l mare arena?</l>
+<l>O celeste sirena,</l>
+<l>voi sete tal che col pensiero a pena</l>
+<l>a l'altezza si va del vostro merto.</l>
+<l>Ma dicovi ben certo</l>
+<l>che quante grazie il ciel vi diede in dono</l>
+<l>tante in me voglie d'onorarvi sono.</l></lg></div1>
+
+<div1><head>30</head>
+
+<lg>
+<l>Se sforzato da voi</l>
+<l>vi dico il mio dolore,</l>
+<l>perché, crudel, ve n'adirate poi?</l>
+<l>Di questo, lasso, ebb'io sempre timore,</l>
+<l>onde gran tempo in me celata tenni</l>
+<l>quanta per amar voi doglia sostenni.</l>
+<l>Et ingannando me stesso</l>
+<l>a quel ch'io vedea espresso,</l>
+<l>chiudendo gli occhi, vissimi con spene</l>
+<l>che udendo un giorno voi la pena mia,</l>
+<l>mi vi rendeste pia.</l>
+<l>Or che le luci vostre alme e serene</l>
+<l>mi nascondete a torto et in tutto fuore</l>
+<l>mi traete di speranza,</l>
+<l>provo tormento sopra umana usanza.</l>
+<l>Ahi, per mercè del mio lungo servire,</l>
+<l>insegnatemi almen, cruda, a morire.</l></lg></div1>
+
+<div1><head>31</head>
+
+<lg>
+<l>Donna, s'io resto vivo,</l>
+<l>mentre, malgrado mio, di voi mi privo,</l>
+<l>cagion n'è quella spene,</l>
+<l>che di tosto morir meco ne viene.</l>
+<l>Ahi, forza è pur ch'io moia,</l>
+<l>che 'l viver senza voi così m'annoia,</l>
+<l>che s'io non morirò di tal martire,</l>
+<l>mi darà morte il non poter morire.</l></lg></div1>
+
+<div1><head>32</head>
+
+<lg>
+<l>S'io vi domando aita</l>
+<l>del mio martir, de l'alta pena mia,</l>
+<l>voi dite non saper qual ei si sia.</l>
+<l>E s'io narrar lo voglio,</l>
+<l>ve ne sdegnate in guisa</l>
+<l>che se le labbra non chiudessi allora,</l>
+<l>spinta dal vostro orgoglio,</l>
+<l>tosto dal corpo usciria l'alma fuora.</l>
+<l>Com'avrò la mercè del mio servire,</l>
+<l>o sanarò la piaga del mio core,</l>
+<l>se voi in tutto da pietà divisa</l>
+<l>dite che non sapete il mio dolore?</l>
+<l>E s'io 'l vi vorrò dire</l>
+<l>mi converrà morire?</l></lg></div1>
+
+<div1><head>33</head>
+
+<lg>
+<l>Madonna, sallo Amor se 'l ver dich'io,</l>
+<l>ch'io non vorrei morire</l>
+<l>più per lo vostro che per l'util mio.</l>
+<l>Chi sicura vi fa di non riuscire</l>
+<l>di vita allor che me morto vedrete,</l>
+<l>lasso, poi che desio tanto n'avete?</l>
+<l>E se ciò non avvien, di che vivrete</l>
+<l>se d'altro non si ciba il vostro core</l>
+<l>che del mio gran dolore?</l>
+<l>Deh, sia pietade in voi, Madonna, poi</l>
+<l>che me salvate e voi,</l>
+<l>che gli è pur crudeltà troppa infinita</l>
+<l>se stessa trar per trar altrui di vita.</l></lg></div1>
+
+<div1><head>34</head>
+
+<lg>
+<l>Se fuor potesse uscire</l>
+<l>d'esta spoglia lo spirto afflitto e lasso,</l>
+<l>già non direi da voi ricever torto,</l>
+<l>benché bramaste ognor vedermi morto.</l>
+<l>Ma, lasso, il non potere</l>
+<l>finir questa sì a voi noiosa vita,</l>
+<l>mi dà tanto martire,</l>
+<l>che men grav'è 'l morire.</l>
+<l>Deh sia vostro volere</l>
+<l>ch'io viva, com'i' fo, d'ogni ben casso,</l>
+<l>che s'io vedrò quetar vostro desire</l>
+<l>e gradir la mia pena alta et infinita,</l>
+<l>n'avrò tanto piacere</l>
+<l>che di soverchia gioia</l>
+<l>mi converrà ch'io muoia.</l></lg></div1>
+
+<div1><head>35</head>
+
+<lg>
+<l>Così talor di me pietade aveste,</l>
+<l>come giamai non fu in alcun amante</l>
+<l>quanto in me pene sì crudeli e tante.</l>
+<l>O potess'io sì far che lo faceste,</l>
+<l>come potete voi, Madonna mia,</l>
+<l>farmi felice uom più ch'al mondo sia.</l>
+<l>Ma a che vi manifesto il mio martire</l>
+<l>e quanto lieto ognor far mi potete,</l>
+<l>se mille volte omai veduto avete</l>
+<l>me, per troppa passion, di vita uscire</l>
+<l>et un vostro sguardo solo</l>
+<l>tuormi da morte et al ciel levarmi a volo?</l></lg></div1>
+
+<div1><head>36</head>
+
+<lg>
+<l>Come potrò narrarvi il dolor mio,</l>
+<l>Donna, se innanzi al vostro almo conspetto</l>
+<l>provo sì gran diletto,</l>
+<l>ch'ogni cosa di me pongo in oblio?</l>
+<l>Ma voi che nel mio petto,</l>
+<l>eterno albergo avete</l>
+<l>e 'l mio martir vedete,</l>
+<l>perché non provedete,</l>
+<l>o ch'io non provi quel martir assente,</l>
+<l>o che mai sempre a voi resti presente?</l></lg></div1>
+
+<div1><head>37</head>
+
+<lg>
+<l>Chi vuol vedere in un suggetto solo</l>
+<l>quanto ha di bello il ciel tutto raccolto,</l>
+<l>miri, bella Medea, il vostro volto.</l>
+<l>Potrà veder in voi mirando fiso</l>
+<l>quella grazia gentil, quella beltate</l>
+<l>che si porta qua giù dal paradiso;</l>
+<l>udirà le dolcissime parole</l>
+<l>che fan fermar il sole,</l>
+<l>con tal soavitate</l>
+<l>percuoton l'aria e con sì dolci accenti;</l>
+<l>vedrà quegli occhi più che il sol lucenti,</l>
+<l>degni ben veramente ch'uom per loro</l>
+<l>gradisca ogni martoro.</l>
+<l>O donna di beltà sola fra noi,</l>
+<l>contento son languir sempre per voi.</l></lg></div1>
+
+<div1><head>38</head>
+
+<lg>
+<l>So ben che voi non sete,</l>
+<l>Donna gentil, sì di pietà rubella,</l>
+<l>che non desti rimedio al dolor mio</l>
+<l>s'aperto dimandar ve l'osass'io.</l>
+<l>Poi che l'empia mia stella</l>
+<l>mi toglie inanzi a voi voci e parole,</l>
+<l>deh, mio vivo sole,</l>
+<l>voi, voi, che in mano avete</l>
+<l>mio viver e morire,</l>
+<l>pensate ben quel che non s'osa dire,</l>
+<l>che saperete poi</l>
+<l>quel ch'io vorrei da voi.</l></lg></div1>
+
+<div1><head>39</head>
+
+<lg>
+<l>Tanta in me forza ha un vostro dolce sguardo,</l>
+<l>che di soverchia gioia</l>
+<l>può ben esser cagion, Donna, ch'io muoia.</l>
+<l>Però non vi rincresca,</l>
+<l>poi che di vita uscire</l>
+<l>deggio, per acquetar vostro desire,</l>
+<l>ch'io mi muoia mirando</l>
+<l>quelli occhi dolci e cari ond'uscì il dardo</l>
+<l>che d'incurabil piaga il cor m'ha punto.</l>
+<l>Che se lo spirto mio sarà disgiunto</l>
+<l>dal corpo, per cagion di sì dolc'esca,</l>
+<l>so che n'andrà volando</l>
+<l>al cielo e potrò io ch'avanzi dire</l>
+<l>ogni felice vita il mio morire.</l></lg></div1>
+
+<div1><head>40</head>
+
+<lg>
+<l>Così bramo adempire,</l>
+<l>Donna, ogni vostra voglia</l>
+<l>ch'io non temo il morire.</l>
+<l>Questo m'affligge solo,</l>
+<l>che nel levarsi a volo</l>
+<l>lo spirto mio, che già lasciar mi vuole,</l>
+<l>non sentirò quella pena aspra e ria</l>
+<l>che il vostro duro cor forse desia.</l>
+<l>Ma se di ciò vi duole,</l>
+<l>incolpatene Amore,</l>
+<l>che per voi mi fa dolce ogni dolore.</l></lg></div1>
+
+<div1><head>41</head>
+
+<lg>
+<l>Donna gentil, per farvi più perfetta</l>
+<l>di bella pietra eletta,</l>
+<l>di voi l'essempio pria fece natura:</l>
+<l>poi diede a tal figura</l>
+<l>ossa, carne e vigore.</l>
+<l>Ma per mia morte (ahi, lasso)</l>
+<l>vi lasciò il cor di sasso.</l>
+<l>Questo è quello ond'io mai</l>
+<l>non spero uscir di guai,</l>
+<l>ancor che grato più mi fosse Amore,</l>
+<l>che né pietà né può d'Amor faretra</l>
+<l>usar la sua virtù contra una pietra.</l></lg></div1>
+
+<div1><head>42</head>
+
+<lg>
+<l>Occhi, faci d'amor accese e belle,</l>
+<l>per quel santo splendore</l>
+<l>con cui di tanto e più vincete il sole</l>
+<l>di quanto ei fa le stelle,</l>
+<l>udite queste mie calde parole.</l>
+<l>Se vi è questa alma in questa spoglia cara,</l>
+<l>soccorrete di voi più spesso il core,</l>
+<l>che tanti e tai tormenti</l>
+<l>provo per non vedervi a tutte l'ore,</l>
+<l>che più ch'assenzio è la mia vita amara.</l>
+<l>Ma se pur sete usati</l>
+<l>alimento pigliar de l'altrui morte,</l>
+<l>non vi mostrate mai,</l>
+<l>cne finendo i miei guai,</l>
+<l>di ciò lasciarò voi paghi e contenti;</l>
+<l>e fra spirti d'Amor fatti beati</l>
+<l>cantando andrò, se vuol mia dolce sorte</l>
+<l>ch'io mora, a nutrir voi luci divine,</l>
+<l>o di mia vita aventuroso fine.</l></lg></div1>
+
+<div1><head>43</head>
+
+<lg>
+<l>Così pietosa pare e sì fedele</l>
+<l>la donna mia, ch'io non ardisco dire</l>
+<l>che mi manchi di fe' né sia crudele.</l>
+<l>Amor dì 'l tu, che sai</l>
+<l>ch'al mondo non fu mai</l>
+<l>donna più vaga de l'altrui morire.</l>
+<l>E se creduto avien che non ti sia,</l>
+<l>mostra, che bastarà, la pena mia.</l></lg></div1>
+
+<div1><head>44</head>
+
+<lg>
+<l>Sì dolce m'è per voi pena soffrire,</l>
+<l>Donna, ch'avete del mio cor le chiavi,</l>
+<l>ch'io non vi chieggio aita,</l>
+<l>temendo di sentire</l>
+<l>vie men la gioia che i martir soavi.</l>
+<l>Vedete voi, mio ben, dolce mia vita,</l>
+<l>quanto e qual è l'amore</l>
+<l>ch'io porto alla beltà vostra infinita,</l>
+<l>se per voi m'è il soffrir sì dolce i guai,</l>
+<l>ch ogni altro dolce ho per minore assai.</l></lg></div1>
+
+<div1><head>45</head>
+
+<lg>
+<l>Quant'hai fiamm'e saette</l>
+<l>tutt'in me spendi, Amore,</l>
+<l>e di sì saldo laccio annoda il core,</l>
+<l>ch'ei mai sempre legato, arda e languisca.</l>
+<l>Né prego altra mercede</l>
+<l>da chi mi strugge aver, se non quest'una:</l>
+<l>che il duol che in me s'aduna,</l>
+<l>lietamente gradisca.</l>
+<l>Né poco di mia fede</l>
+<l>il guidardon sarà, se questo fai.</l>
+<l>Che non fu né fia mai</l>
+<l>sì gioconda, sì dolce e sì beata</l>
+<l>vita che si pareggi al mio gioire,</l>
+<l>s'avvien ch'ella non sdegni il mio martire.</l></lg></div1>
+
+<div1><head>46</head>
+
+<lg>
+<l>Chi crederà, Madonna,</l>
+<l>che dalla passion, lasso, ch'io sento</l>
+<l>nel far da voi partita,</l>
+<l>nasca rimedio che mi tenghi in vita?</l>
+<l>Quel grave aspro tormento,</l>
+<l>mentre per trar di me lo spirto fuore</l>
+<l>s'adopra intorno al core,</l>
+<l>partorisce un pensiero</l>
+<l>che lietamente ragionando dice:</l>
+<l>- Or quell'immensa fe', quello ardor vero</l>
+<l>di che tua donna forse in dubbio stassi</l>
+<l>chiaro aperto vedrassi -.</l>
+<l>Io, ch'altro (e sallo Amore) altro non bramo,</l>
+<l>o del mio cor beatrice,</l>
+<l>che voi veggiate a pien quanto ch'io v'amo,</l>
+<l>per così dolce nova</l>
+<l>acquisto forza tal contra la doglia,</l>
+<l>che forza è ch'ella da me bando toglia.</l>
+<l>Ma se per farvi con sì aperta prova</l>
+<l>fede de l'amor mio, poss'io morire</l>
+<l>s'io non volessi fuor di vita uscire.</l></lg></div1>
+
+<div1><head>47</head>
+
+<lg>
+<l>Giust'era la mercè del mio servire,</l>
+<l>se nel stringer di voi, dolce mia dea</l>
+<l>la delicata mano,</l>
+<l>fuor mi faceva Amor di vita uscire.</l>
+<l>Tirato da ineffabile dolcezza,</l>
+<l>con estrema vaghezza</l>
+<l>d'abbandonar la salma,</l>
+<l>ben se ne venne l'alma,</l>
+<l>più che di volo, in loco</l>
+<l>ove ogni indugio poco</l>
+<l>era per ritenerla entro le membra.</l>
+<l>Ma voi (né mi rimembra</l>
+<l>senza dolor) pian piano</l>
+<l>traesti a voi la man che m'occidea.</l>
+<l>Perché non mi lasciar la mia sorte</l>
+<l>provar sì dolce morte?</l></lg></div1>
+
+<div1><head>48</head>
+
+<lg>
+<l>Di voi non mi dogl'io</l>
+<l>perché con tanta cura</l>
+<l>cerchiate il morir mio,</l>
+<l>ma ben mi doglio che sì empia siate,</l>
+<l>che quel piacer ch'avrete</l>
+<l>de la mia morte dura</l>
+<l>mostrar fuor non vogliate.</l>
+<l>Né me ne doglio senza mio interesso,</l>
+<l>che s'io vedessi espresso</l>
+<l>le vostre voglie in ciò far paghe e liete,</l>
+<l>tanto piacer n'avrei</l>
+<l>che ne la morte vita trovarei.</l></lg></div1>
+
+<div1><head>49</head>
+
+<lg>
+<l>Così fiero è 'l dolor che per voi sento,</l>
+<l>Donna, a cui mai pietà non scaldò il petto,</l>
+<l>che il più crudo tormento</l>
+<l>che sia là giù tra quelle</l>
+<l>anime a Dio rubelle</l>
+<l>a par del mio saria gioir perfetto.</l>
+<l>Ma non tanta è però questa mia doglia,</l>
+<l>che non apporti in me piacer maggiore</l>
+<l>il vedervi goder del mio dolore.</l>
+<l>Com'avrà dunque effetto</l>
+<l>la vostra al mio morir sì ingorda voglia,</l>
+<l>se co 'l veleno ch'a morir m'invita</l>
+<l>posto è 'l rimedio che mi tiene in vita?</l></lg></div1>
+
+<div1><head>50</head>
+
+<lg>
+<l>Lucrezia, se da voi non ebb'io mai</l>
+<l>altro che pene e guai,</l>
+<l>perché vi dol ch'io dica</l>
+<l>ch'a me siate nemica?</l>
+<l>Deh, lasciate ch'omai</l>
+<l>dolce foco d'amore</l>
+<l>scaldi per me vostro agghiacciato core,</l>
+<l>e date fin al mio crudel martire,</l>
+<l>che m'udirete dire:</l>
+<l>- Non vive amante in terra</l>
+<l>ch'abbia di me più la sua donna amica -.</l>
+<l>Ma se mi date guerra,</l>
+<l>non vi dolete almen s'avien ch'io dica</l>
+<l>ch'a me siate nemica.</l></lg></div1>
+
+<div1><head>51</head>
+
+<lg>
+<l>Deh, qual prova maggior, Donna, volete</l>
+<l>del mio crudel martire</l>
+<l>che 'l vedermi morire?</l>
+<l>Moro per voi e voi sì ve 'l vedete,</l>
+<l>e sì spietata sete</l>
+<l>che ciò vi fa gioire.</l>
+<l>Ma per tuormi ogni pace,</l>
+<l>mostrate non gradir quel che vi piace,</l>
+<l>che ben sapete ch'io contento poi</l>
+<l>morrei, se lieta ne vedesse voi.</l></lg></div1>
+
+<div1><head>52a</head>
+
+<lg>
+<l>Niuna sconsolata</l>
+<l>da dolersi ha quant'io,</l>
+<l>che invan sospiro lassa innamorata.</l>
+<l>Ben mi fu detto, ahimé, ch'era costui</l>
+<l>più d'altro ingrato e rio,</l>
+<l>ma fu sì dolce il suo sguardo gentile,</l>
+<l>che, non credendo altrui,</l>
+<l>ahi, quanto sciocca fui,</l>
+<l>in preda me gli diedi ond'io ne moro.</l>
+<l>Né per lo morir ei cangia stile,</l>
+<l>né cangiarà, se pria non si dissolve</l>
+<l>lo spirto in aria e 'l corpo in poca polve.</l></lg></div1>
+
+<div1><head>52b</head>
+
+<lg>
+<l>Niuna sconsolata</l>
+<l>da dolersi ha quant'io,</l>
+<l>ch'in van sospiro, lassa innamorata;</l>
+<l>ben mi fu dett'a pien quant'era ingrato</l>
+<l>questi ch'in terra adoro,</l>
+<l>ma fu sì dolc'il suo guardo gentile,</l>
+<l>che senz'aver pensato</l>
+<l>alle parole altrui,</l>
+<l>ahi, quanto sciocca fui:</l>
+<l>in preda me gli diedi, ond'io ne moro.</l>
+<l>Né per lo mio morir ei cangia stile,</l>
+<l>né cangerà se pria non si dissolve</l>
+<l>lo spirto in aria e 'l corpo in poca polve.</l></lg></div1>
+
+<div1><head>53</head>
+
+<lg>
+<l>Mentr'empio fato vi guidava a morte,</l>
+<l>Donna, vi diedi aita,</l>
+<l>più intento a salvar voi che la mia vita.</l>
+<l>Ma poi nel trarvi di quelle acque fuore,</l>
+<l>tal de' begli occhi vostri uscìo splendore</l>
+<l>e con sì gran virtù m'accese il petto,</l>
+<l>ch'io dal soverchio ardore</l>
+<l>tutto abbrusciato e vinto,</l>
+<l>fui per con essa voi restare estinto.</l>
+<l>Onde il mondo pietoso avria poi detto:</l>
+<l>- Strana sorte d'amanti e strano effetto,</l>
+<l>ch'in mezzo al mare, in uno stesso loco,</l>
+<l>de l'acqua un preda fu, l'altro del foco.</l></lg></div1>
+
+<div1><head>54</head>
+
+<lg>
+<l>Donna, un tempo di voi l'ira soffersi</l>
+<l>senza dolermi mai,</l>
+<l>e sì di cuor v'amai,</l>
+<l>che lietissimamente il tempo persi.</l>
+<l>Ma or forza è ch'io dica</l>
+<l>che siate più crudel che tigre od orsa,</l>
+<l>che straziar mi volete anco la borsa.</l>
+<l>Non vo' questa fatica,</l>
+<l>ch'io non potrei soffrire</l>
+<l>così acerbo martire,</l>
+<l>che nel suo regno Amore</l>
+<l>non ha fra tante sue pena maggiore.</l></lg></div1>
+
+<div1><head>55</head>
+
+<lg>
+<l>Là dove il Nilo irriga le campagne,</l>
+<l>uno animal si trova</l>
+<l>ch'a morte l'uom conduce e morto il piagne.</l>
+<l>Fiera ben che crudele e velenosa,</l>
+<l>cui altri nel morir pur fa pietosa.</l>
+<l>Ma voi ch'assai di lei più cruda sete,</l>
+<l>così il mio mal vi giova</l>
+<l>ch'a morte mi guidate.</l>
+<l>E se ve ne dolete,</l>
+<l>non è che in voi entri per me pietate,</l>
+<l>ma v'apporta dolor crudele e forte</l>
+<l>il non potermi dar più d'una morte.</l></lg></div1>
+
+<div1><head>56</head>
+
+<lg>
+<l>Luna crudel, perché ogni notte oscura</l>
+<l>lasso mi mostri, orribile e noiosa?</l>
+<l>Ove son ora i raggi tuoi, da cui</l>
+<l>prima legato e poscia morto fui?</l>
+<l>Sdegnisi di mirarti il sole ognora,</l>
+<l>poi ch'avversa sei tanto a chi t'adora.</l>
+<l>E faccian sempre a te noiose mura</l>
+<l>le più fosche del ciel nubi importune.</l>
+<l>Né sia che teco in cielo unqua s'adune</l>
+<l>benigno influsso, ma perverse stelle</l>
+<l>ti scorgano e sian quelle</l>
+<l>che più d'ogni altra cosa</l>
+<l>ti faccian odiosa,</l>
+<l>tal che ti sprezzi il mondo, ond'or t'onora,</l>
+<l>e da te fugga Endimione ancora.</l></lg></div1>
+
+<div1><head>57</head>
+
+<lg>
+<l>Voi così bella sete,</l>
+<l>che crede il mondo et io</l>
+<l>che siate qui, sotto terrena scorza,</l>
+<l>il più bell'angel che creasse Iddio.</l>
+<l>Io che d'ogni altro più sento la forza</l>
+<l>di quel bel viso e di quei santi rai,</l>
+<l>dico che non fia mai</l>
+<l>che di voi non sia sempre il pensier mio,</l>
+<l>o vivo, o morto, o lieto, o in stato rio.</l>
+<l>E tale ancora essere dovete voi,</l>
+<l>acciò che sian fra noi,</l>
+<l>con pace eterna, unite in questa etate,</l>
+<l>quanta ha bellezza il mondo e fedeltate.</l></lg></div1>
+
+<div1><head>58</head>
+
+<lg>
+<l>Non vi turbate, Donna,</l>
+<l>perch'io la beltà vostra, e 'l valor taccia,</l>
+<l>ch'ogni lingua narrarlo invan procaccia.</l>
+<l>Che tanto diede il ciel di bello a voi,</l>
+<l>ch'a pensarlo il pensier non basta a noi.</l>
+<l>Dunque tacer degg'io,</l>
+<l>né del silenzio mio</l>
+<l>riprender mi dovete,</l>
+<l>poi che sì bella e valorosa sete,</l>
+<l>ch'a pien dir non ne può pur lingua il vero,</l>
+<l>ma non basta a pensarlo anco il pensiero.</l></lg></div1>
+
+<div1><head>59</head>
+
+<lg>
+<l>Non più saette, Amore,</l>
+<l>nel petto di costei,</l>
+<l>ch'occidi me, mentre ferisci lei.</l>
+<l>Che lo mio cuor, ch'appo del suo dimora,</l>
+<l>di sé fa scudo, mentre il stral trabocca,</l>
+<l>onde, lasso, a me sol la piaga tocca.</l>
+<l>Ma se pur ferir vuoi</l>
+<l>lei, che più cruda a me si mostra ognora,</l>
+<l>tira l'arco, Signor, quanto più puoi,</l>
+<l>sì che l'acuto strale,</l>
+<l>trapassando lo mio, tocche il suo core.</l>
+<l>Ch'ancor che il colpo poi mi fia mortale,</l>
+<l>pur morirò beato a ogni altro uguale,</l>
+<l>s'ella dal suo saprà qual è il mio male.</l></lg></div1>
+
+<div1><head>60</head>
+
+<lg>
+<opener><salute>Alla valorosissima cavagliera m. Laura Bernardo</salute></opener>
+
+<l>O di quanta virtù, grazia e beltate,</l>
+<l>può dar natura e 'l ciel, fortuna e arte,</l>
+<l>spirito adorno, che per ogni parte</l>
+<l>vivrai famoso, in questa e in ogni etate,</l>
+<l>son le radici tue somma onestate,</l>
+<l>lauro gentil, di cui sì larga hai parte,</l>
+<l>i rami alti pensier, le foglie sparte,</l>
+<l>fermezza, leggiadria, senno e pietate.</l>
+<l>Felice pianta, la cui verde spoglia</l>
+<l>al caldo e al gielo, ogni smeraldo avanza,</l>
+<l>arbor qua giuso et in ciel gradito tanto,</l>
+<l>spenta ha per te l'ingorda avara voglia</l>
+<l>l'edace tempo, che non ha possanza</l>
+<l>ornare il tempio suo di sì bel vanto.</l></lg></div1></body></text></TEI.2>

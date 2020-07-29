@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Rogo amoroso</title>
+      <author>Torquato Tasso</author>
+    </titleStmt>
+    <extent>36 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001526</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Opere</title>
+        <title type="part">Il mondo creato ; Il rogo amoroso ;Genealogia della Serenissima casa Gonzaga ; Le lagrime della Beata Vergine ; Le lagrime di Cristo ; Dialoghi</title>
+        <author>Tasso, Torquato</author>
+        <editor id="ed">Maier, Bruno</editor>
+        <publisher>Rizzoli</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date>1963-1965</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-09-08T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Valeriano Fiori</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-09-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+    <castList n="Interlocutori"><head>INTERLOCUTORI</head>
+<castGroup><head>Dei maggiori</head>
+<castItem type="role"><role>SATURNO</role></castItem>
+<castItem type="role"><role>GIOVE</role></castItem>
+<castItem type="role"><role>GIUNONE</role></castItem>
+<castItem type="role"><role>CIBELE</role></castItem>
+<castItem type="role"><role>CERERE</role></castItem>
+<castItem type="role"><role>APOLLO</role></castItem>
+<castItem type="role"><role>DIANA</role></castItem>
+<castItem type="role"><role>BACCO</role></castItem>
+<castItem type="role"><role>MERCURIO</role></castItem>
+<castItem type="role"><role>VENERE</role></castItem>
+<castItem type="role"><role>ESCULAPIO</role></castItem>
+<castItem type="role"><role>NETTUNO</role></castItem>
+<castItem type="role"><role>PLUTONE</role></castItem>
+<castItem type="role"><role>MARTE</role></castItem>
+<castItem type="role"><role>MINERVA</role></castItem>
+<castItem type="role"><role>VULCANO</role></castItem></castGroup>
+<castGroup><head>Dei minori</head>
+<castItem type="role"><role>PANE</role></castItem>
+<castItem type="role"><role>PALE</role></castItem>
+<castItem type="role"><role>ERCOLE</role></castItem>
+<castItem type="role"><role>DIOSCURI</role></castItem>
+<castItem type="role"><role>AMORE</role></castItem>
+<castItem type="role"><role>LE GRAZIE</role></castItem>
+<castItem type="role"><role>LE MUSE</role></castItem>
+<castItem type="role"><role>LE VIRTÙ </role></castItem>
+<castItem type="role"><role>LA FAMA</role></castItem></castGroup>
+<castGroup><head>Pastori</head>
+<castItem type="role"><role>AMINTA</role></castItem>
+<castItem type="role"><role>TIRSI</role></castItem></castGroup></castList>
+<set><p>La rappresentazione si figura in Val di Tevere.</p></set>
+</front>
+<body>
+    <div1 n="Rogo amoroso">
+<lg>
+<l>Piangea dolente e sospiroso Aminta</l>
+<l>lungo le rive del famoso fiume</l>
+<l>che dividendo la città di Marte</l>
+<l>già se 'n portò nel suo profondo seno</l>
+<l>l' arme e i sepolcri degli antichi Regi,</l>
+<l>ma bagna ancor quella marmorea tomba</l>
+<l>che l' ossa ascose del Romano Augusto,</l>
+<l>meraviglia del mondo, anzi di Roma</l>
+<l>ch' i miracoli tutti in sé raccolse</l>
+<l>e fe' sparir le meraviglie altrui;</l>
+<l>piangea Corinna in lacrimoso canto,</l>
+<l>e nel pianto canoro i sette colli</l>
+<l>rispondevan Corinna, e 'l tósco fiume</l>
+<l>risonava Corinna e i chiari fonti;</l>
+<l>Corinna più lontan i verdi boschi,</l>
+<l>Corinna mormorar l' ombrose valli,</l>
+<l>tal che ninfe e pastori al suon deluse</l>
+<l>giocosa no, ma dolorosa imago.</l>
+<l>Trasse fra' quali a le soavi note</l>
+<l>Tirsi pastor, che sovra il mar Tirreno</l>
+<l>nato tra le sirene, in mezzo a' cigni</l>
+<l>visse la dove il Mincio al Po discende,</l>
+<l>e disse: “Non perturbi il mio venire</l>
+<l>le dolcissime tue voci canore”.</l>
+</lg>
+<sp><speaker>AMINTA</speaker>
+<l>Se fu mai dolce il nostro canto o 'l suono,</l>
+<l>or amaro è via più d' onda marina,</l>
+<l>più di fèl, più d' assenzio, e più di tòsco;</l>
+<l>non è più dolce no, non è più canto,</l>
+<l>ma pianto miserabile e dolente</l>
+<l>come morte che 'l fa. Corinna è morta.</l>
+<l>Morta è Corinna, ahi lacrimoso fato!</l>
+<l>Di queste selve il più bel ramo è svelto,</l>
+<l>reciso il più bel fior di questa piaggia,</l>
+<l>di questi giorni il più bel raggio è spento.</l>
+<l>Pianser le ninfe la tua acerba morte,</l>
+<l>testimoni voi sète, abeti e faggi</l>
+<l>ch' udiste il pianto e voi fontane e rivi</l>
+<l>che più cresceste al lacrimoso umore.</l>
+<l>Niuno allor condusse a ber gl' armenti,</l>
+<l>non gustò fèra le turbate fonti,</l>
+<l>né toccò per dolor l' erba del prato.</l>
+<l>Gemeva ancor il tuo morir, Corinna,</l>
+<l>l' africano leon, la tigre ircana,</l>
+<l>come dicon le selve e i fèri monti.</l>
+<l>Corinna dimostrò ne' rozzi boschi</l>
+<l>qual fosse gentilezza e cortesia</l>
+<l>e 'nsegnò prima a le selvaggie Ninfe</l>
+<l>a figurar con l' ago i fiori e l' erba</l>
+<l>e i dipinti augelletti e i vaghi cervi</l>
+<l>con le ramose corna e i capri e i pardi,</l>
+<l>tal che le sue vittorie ella dipinse</l>
+<l>e i suoi propri trofei spiegò ne l' oro,</l>
+<l>cara a Diana e cara anco a Minerva.</l>
+<l>Come ad arbor la vita, a vite l' uva,</l>
+<l>tauro a gli armenti e biada a' grassi campi,</l>
+<l>così tu fosti a' tuoi, Corinna, onore.</l>
+<l>Poscia che t' involò l' acerba morte,</l>
+<l>Pale medesma abbandonò piangendo</l>
+<l>le sue nude campagne, e seco Apollo;</l>
+<l>e ne' solchi in cui già fu sparso il grano</l>
+<l>vi signoreggia l' infelice loglio</l>
+<l>e la sterile avena o felce appresso</l>
+<l>sventurata, che frutto non produce,</l>
+<l>e 'n vece pur di violetta molle,</l>
+<l>di purpureo narciso o di giacinto,</l>
+<l>il cardo sorge e con le spine acute</l>
+<l>il <gap/></l>
+<l>Di verdi fronde voi l' arida terra,</l>
+<l>o Pastori, spargete e i chiari fonti</l>
+<l>coprite intorno pur con l' ombra fosa,</l>
+<l>che l' istessa Corinna il vi comanda.</l>
+<l>Fate il sepolcro, e nel sepolcro il carme</l>
+<l>aggiongete piangendo a' bianchi marmi:</l>
+<l>Giaccio io Corinna qui, da terra al cielo</l>
+<l>e da le verdi selve all' auree stelle</l>
+<l>nota per fama di beltà pudica.</l></sp>
+<sp><speaker>TIRSI</speaker>
+<l>Di bello armento guardian più bello,</l>
+<l>tale è 'l tuo canto a noi, divin poeta,</l>
+<l>qual sopra l' erba verde il dolce sonno</l>
+<l>a l' uom già stanco, e ne l' estivo ardore</l>
+<l>dolce rivo ch' estingua ardente sete;</l>
+<l>nè sol con la sampogna il mastro agguagli,</l>
+<l>ma con la voce e co' soavi accenti.</l>
+<l>Fanciullo aventuroso, or tu sarai</l>
+<l>secondo a lui, ma sol d' età secondo;</l>
+<l>noi cantaremo i nostri versi a prova</l>
+<l>qualunque paia il nostro modo e l' arte</l>
+<l>e Corinna alzerem sin alle stelle,</l>
+<l>sin alle stelle inalzarem Corinna,</l>
+<l>ch' io non fui degno di vederla in terra,</l>
+<l>ma spero forse di vederla in Cielo.</l></sp>
+<sp><speaker>AMINTA</speaker>
+<l>Qual fu di questo mai più caro dono?</l>
+<l>Ella fu degna del tuo chiaro canto,</l>
+<l>e 'l tuo canto lodàr Batto e Menalca.</l></sp>
+<sp><speaker>TIRSI</speaker>
+<l>La candida Corinna il bianco cerchio</l>
+<l>e 'l candor non usato in ciel rimira</l>
+<l>e vede sotto i pié le vaghe nubi</l>
+<l>in mille forme e l' argentata luna</l>
+<l>e l' altre stelle e 'l lor viaggio torto,</l>
+<l>però del suo piacer s' allegra il bosco</l>
+<l>e si riveste omai la verde spoglia,</l>
+<l>di Pane albergo e di Pastori e Ninfe,</l>
+<l>né lupo insidia a le lanose greggi,</l>
+<l>né tendono le reti inganno a' cervi.</l>
+<l>Ama Corinna l' ozio, è l' ozio in Cielo,</l>
+<l>ma la fatica s' ange in su le porte</l>
+<l>del tenebroso Inferno ove dolente</l>
+<l>sta fra la schiera d' infiniti mali.</l>
+<l>I monti adorni di fiorite chiome</l>
+<l>alzano nel piacer le voci al Cielo,</l>
+<l>suonan l' inculte rupi i vaghi carmi,</l>
+<l>di vaghe rime ancor suonano i boschi.</l>
+<l>Diva fu, Diva fu Corinna, o parve;</l>
+<l>e s' in terra fu Dea, che fia nel Cielo?</l>
+<l>Ecco (s' a te non basta, o Dea, la tomba)</l>
+<l>quattr' alziam qui bianchi e politi altari,</l>
+<l>duo o Corinna a te, duo a Diana,</l>
+<l>e ciascun anno spargeremo intorno</l>
+<l>tazze spumanti pur di novo latte;</l>
+<l>a te duo vasi di liquor d' oliva</l>
+<l>porrò, Corinna, e le più adorne mense</l>
+<l>farà Bacco più liete, in ampio vetro</l>
+<l>versando il prezioso e nobil vino,</l>
+<l>e canteranno a me Lizio ed Egone,</l>
+<l>i Satiri saltanti Alfesibeo</l>
+<l>imiterà. O Dea, riguarda i giochi,</l>
+<l>ch' avrai perpetui questi onori in terra,</l>
+<l>e quando renderem solenni voti</l>
+<l>a le Ninfe de' fiumi e de le selve</l>
+<l>e quando purgheremo i nostri campi.</l>
+<l>Mentre il cinghial de' monti i duri gioghi,</l>
+<l>mentre il pesce amarà gl' ondosi fiumi,</l>
+<l>mentre si pasceran l' api de' fiori</l>
+<l>e di rugiada avran celeste cibo</l>
+<l>le canore cicale, in terra sempre</l>
+<l>più saldo rimarrà ch' in salda pietra</l>
+<l>l' onor tuo, la tua laude e 'l chiaro nome.</l>
+<l>Come a Cerere, a Bacco, a te votivi</l>
+<l>i doni portarà da' verdi campi</l>
+<l>il tuo rozzo cultor con larga mano,</l>
+<l>e tu condannarai co' voti, o Diva.</l></sp>
+<sp><speaker>AMINTA</speaker>
+<l>Quali a te, quali per sì colti versi</l>
+<l>render doni potrò degni del canto?</l>
+<l>Perché non tanto il sibilar de l' Austro</l>
+<l>né d' onda che si rompa al salso lido</l>
+<l>udir mi giova il suono, o quel d' un fiume</l>
+<l>precipitante fra sassose valli.</l>
+<l>Ma prendi questo vaso in cui soleva</l>
+<l>Corinna a mezzo dì spenger la sete,</l>
+<l>stanca de le vittorie e de le prede,</l>
+<l>ch' ella colmò già d' acque, io poi di pianto</l>
+<l>due volte il giorno e spargerollo intorno</l>
+<l>al sepolcro ch' alzar dobbiamo a gara,</l>
+<l>quando si leva e quando inchina il sole.</l>
+<l>Ma se non tanto il pianger mio gradisce</l>
+<l>quanto le rime tue, prendi, Pastore,</l>
+<l>in sua memoria eterna il caro dono.</l></sp>
+<sp><speaker>TIRSI</speaker>
+<l>Prendi all' incontro tu, cortese Aminta,</l>
+<l>questa fistola mia di sette canne,</l>
+<l>onde già risonar l' elci e l' arene</l>
+<l>che percuote il mar d' Adria e fiede il vento.</l>
+<l>Ma qual odo io più che d' umana voce</l>
+<l>dolcissimo concento, e quali io veggio</l>
+<l>e luci e lampi? O dolce lume, o suono!</l>
+<l>Ecco Febo, ecco Amor con mille amori.</l></sp>
+<sp><speaker>AMORE</speaker>
+<l>A voi non si convene,</l>
+<l>o dolenti pastori,</l>
+<l>alzare il tempio o pur alzar la tomba</l>
+<l>di questa che volò quasi colomba</l>
+<l>con le sue candid' ali,</l>
+<l>e bench' ella non sdegni il dolce suono</l>
+<l>de l' umile siringa,</l>
+<l>ama più chiara tromba</l>
+<l>e più nobili esequie e più gradite,</l>
+<l>e d' altro che di bianchi e tersi marmi</l>
+<l>ama il sepolcro e i carmi:</l>
+<l>opra è sola d' Amore</l>
+<l>farle cotanto onore.</l>
+<l>Incontro a quel superbo,</l>
+<l>che là s' innalza con terribil fronte</l>
+<l>in guisa tal ch' agguaglia orrido monte,</l>
+<l>l' alzerò di mia mano</l>
+<l>d' altra materia pur che di terrena,</l>
+<l>sì che l' argento e l' oro</l>
+<l>perderà dal lavoro.</l>
+<l>Dirà il Franco e l' Ispano</l>
+<l>e chiunque passando il mare e l' alpe</l>
+<l>giungerà stanco al fine in val di Tebro,</l>
+<l>là dove io la celebro:</l>
+<l>ecco due gran sepolcri,</l>
+<l>ecco due meraviglie</l>
+<l>del mondo e di natura,</l>
+<l>ma quella, se ben miro,</l>
+<l>fecer gl' uomini già, questa li Dei,</l>
+<l>che non pur io son Divo,</l>
+<l>ma son Divi ed Eroi fra questi colli,</l>
+<l>per cui, se dritto estima Amore e Marte,</l>
+<l>anzi giudice Alcide e Giove stesso,</l>
+<l>men gloriosa è del leon la spoglia</l>
+<l>che de l' Orsa famosa il nobil vello,</l>
+<l>e men degna del cielo e di sue stelle.</l>
+<l>Dunque terrena è quella,</l>
+<l>fia questa opra divina,</l>
+<l>che 'l Ciel sì alta gloria a lei destina.</l>
+<l>Voi fra tanta volando,</l>
+<l>o pargoletti miei, spogliate intorno</l>
+<l>e monti e prati e valli</l>
+<l>di fior purpurei e gialli,</l>
+<l>acciò che sparga odori il rogo ardente</l>
+<l>di questa mia Fenice,</l>
+<l>come fa quel de l' altra in Oriente.</l>
+<l>Altri tagli il ginebro,</l>
+<l>altri l' arbore incida,</l>
+<l>che troncato già mai ramo né foglia</l>
+<l>di novo non rinverde e non germoglia;</l>
+<l>altri sostegno al rogo</l>
+<l>faccia statue spiranti,</l>
+<l>e nel cipresso incida</l>
+<l>le sue palme e i trofei:</l>
+<l>teste di fère e spoglie,</l>
+<l>reti, dardi, faretre, archi, quadrella;</l>
+<l>né le vittorie solo</l>
+<l>avute ne le selve</l>
+<l>contra l' erranti belve,</l>
+<l>ma quella ond' ella vinse uomini e Dei.</l>
+<l>Altri le care membra al nobil rogo</l>
+<l>imponga, e le ricopra il puro velo;</l>
+<l>altri le faci accenda e 'l foco desti.</l>
+<l>Ecco arde il rogo, ecco la fiamma al cielo:</l>
+<l>deh cessi il flebil suono,</l>
+<l>deh cessino i lamenti,</l>
+<l>dian luogo ad alte lodi alti sospiri</l>
+<l>e si rasciughi il pianto,</l>
+<l>ch' a parlar de la Fama</l>
+<l>par che la terra e 'l ciel risuoni in tanto.</l></sp>
+<sp><speaker>FAMA</speaker>
+<l>Dolore annunzio e lutto,</l>
+<l>Pastor, Bifolci e Ninfe,</l>
+<l>Fauni, Sileni e Pani,</l>
+<l>e Satiri e Silvani,</l>
+<l>l' annunzio a voi che nell' alpestri cime</l>
+<l>abitate de' monti o presso l' onde</l>
+<l>de l' arenoso lido,</l>
+<l>a voi che 'l mar circonda,</l>
+<l>a voi che cinge la palude e 'l fiume,</l>
+<l>a voi Dive del mare. A voi del Cielo</l>
+<l>Dive e Divi io ragiono,</l>
+<l>ma solo annunzio a voi diletto e pace</l>
+<l>dell' alma che sen vola a' vostri cori.</l>
+<l>Morta è Corinna, anzi tra voi salita,</l>
+<l>lasciando il mondo in lacrimoso orrore,</l>
+<l>scuro, dolente e fosco.</l>
+<l>Qual senza fronde il bosco</l>
+<l>e senza fiori il prato</l>
+<l>e senza l' acque il fonte</l>
+<l>e senza stelle il cielo,</l>
+<l>tale è senza i suoi pregi</l>
+<l>la terra e, senza il suo lucente raggio,</l>
+<l>d' alpestre e di selvaggio,</l>
+<l>e d' orrido deserto ha faccia oscura.</l>
+<l>Piange il mondo e natura:</l>
+<l>qual meraviglia è poi</l>
+<l>se piange ancor la Fama</l>
+<l>che dovrebbe lodarla,</l>
+<l>e per mill' occhi lacrime distilla?</l>
+<l>Ma tu non piangi, Amore,</l>
+<l>perché speri goderne e goder solo,</l>
+<l>non in Pafo od in Gnido,</l>
+<l>ma su nel terzo Cielo,</l>
+<l>e a me sol qui lasci il nome e 'l grido.</l>
+<l>S' io tante lingue avessi e tante penne</l>
+<l>quante ella ebbe virtù, quante bellezze,</l>
+<l>sarebbe eterno il suono, eterno il volo</l>
+<l>onde il suo nome portarei cantando</l>
+<l>da l' uno a l' altro polo.</l>
+<l>Ma non basta a' suoi merti ogni favella,</l>
+<l>però taccio piangendo</l>
+<l>quanto leggiadra fosse e quanto accorta,</l>
+<l>taccio che nel fiorir de' suoi verd' anni</l>
+<l>vinse di senno i saggi,</l>
+<l>di fede i più fedeli,</l>
+<l>vinse di gravità matura etate,</l>
+<l>non pur di leggiadria la più leggiadra.</l>
+<l>Solo io dirò ch' a lei cotanto piacque</l>
+<l>l' esser casta e pudica</l>
+<l>che le spiacque esser bella,</l>
+<l>e le spiacque il bel nome</l>
+<l>che le acquistò cantando il suo fedele.</l>
+<l>Io medesma le spiacqui,</l>
+<l>io che tanto la lodo e lodo il vero,</l>
+<l>Fama certa e verace,</l>
+<l>messaggiera qua giù della sua morte,</l>
+<l>anzi de la sua pace</l>
+<l>e de la sua virtù, ch' in Ciel consorte</l>
+<l>la fa de gl' altri Divi:</l>
+<l>ella fra loro avrà perpetua vita,</l>
+<l>quant' esser dée gradita.</l>
+<l>Voi, voi non sète vivi,</l>
+<l>voi ch' alor non moriste</l>
+<l>impallidir veggendo il chiaro viso</l>
+<l>e morte ricoprir d' eterno gelo</l>
+<l>le sue purpuree rose</l>
+<l>e d' ombra eterna i duo lucenti lumi,</l>
+<l>gloria di questa etate.</l>
+<l>O tenebrosi fumi,</l>
+<l>qual più lucido raggio</l>
+<l>ne scopre in queste selve alto viaggio</l>
+<l>senza la bella e graziosa luce</l>
+<l>che vi fu scorta e duce?</l>
+<l>O dolore, o pietate,</l>
+<l>o miseria del mondo,</l>
+<l>come passa repente e come fugge</l>
+<l>virtù, grazia, bellezza e leggiadria!</l>
+<l>Ma già la Fama è stanca,</l>
+<l>a cui subbietto avanza e spirto manca;</l>
+<l>muta la Fama stessa omai diviene</l>
+<l>che fu tanto sonora.</l>
+<l>Ma se più non la loda, almen l' adora,</l>
+<l>e qui consacra l' ale e qui le trombe,</l>
+<l>e ben mille virtù d' un cor pudico</l>
+<l>tacita involve in un silenzio amico.</l></sp>
+<sp><speaker>AMINTA</speaker>
+<l>Tace la vaga Fama,</l>
+<l>ma viene al suo rimbombo</l>
+<l>ogni più scelto Iddio e più sublime,</l>
+<l>vengono anco i minori</l>
+<l>ad onorar questa notturna pompa</l>
+<l>co' suoi doni funebri.</l></sp>
+<sp><speaker>PANE</speaker>
+<l>Questa sì preziosa e bianca lana</l>
+<l>che già vestiva il mansueto agnello,</l>
+<l>vestita ancor ne' boschi avria Diana;</l>
+<l>tu sprezzasti orgogliosa il bianco vello,</l>
+<l>né quel di Frisso a' miei amorosi incendi</l>
+<l>fatto pietoso avrebbe il cor rubello.</l>
+<l>S' ardesti il donatore, il dono accendi,</l>
+<l>e rifiutato in vita, in morte il prendi.</l></sp>
+<sp><speaker>ESCULAPIO</speaker>
+<l>Quest' erbe e questi fiori,</l>
+<l>ch' hanno virtù di richiamare in vita,</l>
+<l>porgo a le fiamme con la man ardita,</l>
+<l>ma ella ritornar forse non vole,</l>
+<l>io troppo ardisco ed oso,</l>
+<l>e non mi rende accorto antica pena.</l>
+<l>Or, mentre spazia in luce più serena,</l>
+<l>non fulmini sdegnoso</l>
+<l>sovra me Giove, come irato suole,</l>
+<l>ma fulmine amoroso,</l>
+<l>s' io temer debbo sì cocenti ardori,</l>
+<l>fulmini dolcemente i nostri cuori.</l></sp>
+<sp><speaker>BACCO</speaker>
+<l>Mentre non arde ancor chiome sì belle</l>
+<l>l' odorifera fiamma e non circonda,</l>
+<l>io la corono di mia verde fronda,</l>
+<l>per coronarla poscia in Ciel di stelle.</l>
+<l>Degno è sol de le faci alme e divine</l>
+<l>e di celesti raggi il biondo crine,</l>
+<l>di cui faran le fiamme empie rapine.</l>
+<l>Se questo è d' oro, il fuoco a l' or perdona,</l>
+<l>e splenda in Ciel la chioma e la corona.</l></sp>
+<sp><speaker>CERERE</speaker>
+<l>A te le bionde spiche</l>
+<l>Cerere accendo, e tanto ora mi doglio,</l>
+<l>ch' in me rinovo il mio primo cordoglio.</l>
+<l>Esser potei di Proserpina in vece</l>
+<l>qui nel sereno giorno,</l>
+<l>mentr' ella alberga giù ne l' ombra oscura,</l>
+<l>ma cruda morte mi t' invola e fura,</l>
+<l>e saria il tuo ritorno</l>
+<l>come quel di mia figlia e d' Euridiche.</l>
+<l>Ahi Fati, ahi Parche a tant' onor nemiche!</l></sp>
+<sp><speaker>MERCURIO</speaker>
+<l>Messaggier del gran Giove io dono l' ali</l>
+<l>al rogo tuo per non volar già mai.</l>
+<l>Queste e l' officio tu prender potrai;</l>
+<l>mal grado de la morte e de' mortali,</l>
+<l>vinci l' Inferno e sue leggi fatali.</l>
+<l>Iride ceda, e s' a pietà si move,</l>
+<l>sia messaggiera tu del sommo Giove,</l>
+<l>prendi la verga, e ne' celesti regni</l>
+<l>spirti richiama che di lor sian degni.</l></sp>
+<sp><speaker>DIOSCURI</speaker>
+<l>Noi portiamo al tuo rogo, anima illustre,</l>
+<l>queste candide penne,</l>
+<l>come il candor ch' a tua beltà convenne,</l>
+<l>e se tu brami scintillar fra noi</l>
+<l>d' altra fiamma più bella,</l>
+<l>e rotar per gl' obliqui alti viaggi,</l>
+<l>vieni là su fra' duo cortesi Eroi,</l>
+<l>contenta di tua stella;</l>
+<l>partiamo il tempo, raddoppiamo i raggi,</l>
+<l>noi del tuo lume, e tu del nostro ornata.</l></sp>
+<sp><speaker>ERCOLE</speaker>
+<l>L' abito eletto e i preziosi fregi</l>
+<l>prendete, o fiamme, onde me stesso avolsi,</l>
+<l>dolci miei scorni, anzi miei dolci pregi.</l>
+<l>Se quel che volle Amore, ancor io volsi,</l>
+<l>abbial Corinna e voi. De' fatti egregi</l>
+<l>colga quel frutto in Ciel, ch' in Ciel io colsi.</l>
+<l>Simil è 'l rogo e 'l fine, anzi la meta,</l>
+<l>e splenda val di Tebro in guisa d' Èta.</l></sp>
+<sp><speaker>MARTE</speaker>
+<l>L' arme ch' uscir del foco, al foco ancora</l>
+<l>render dovrei, e gire inerme e umile,</l>
+<l>non potendo costei ritorre a morte,</l>
+<l>come ritolse Alcide alma gentile,</l>
+<l>Alcide che nel Ciel meco s' onora</l>
+<l>nato mortal, ma non di me più forte.</l>
+<l>Ma che? Prenda lo specchio e incenda or seco</l>
+<l>il dono de la Dea ch' Amor fè cieco.</l></sp>
+<sp><speaker>VENERE</speaker>
+<l>Ed io lassa, dolente e lacrimosa</l>
+<l>più che d' Adone estinto,</l>
+<l>dono il mio caro cinto,</l>
+<l>né mai sarò nel mio dolor vezzosa.</l>
+<l>Arda il mio nobil cinto, ardan con lei</l>
+<l>le mie lusinghe e i miei susurri insieme,</l>
+<l>cose gradite e care,</l>
+<l>ardan seco le grazie e i vezzi miei,</l>
+<l>e spento il foco che sospira e geme,</l>
+<l>sarò fredda in amare,</l>
+<l>se non raccende pur face amorosa</l>
+<l>del cener suo qualche favilla ascosa.</l></sp>
+<sp><speaker>GRAZIE</speaker>
+<l>Questo, questo fu il pomo</l>
+<l>ond' arse Troia al fine,</l>
+<l>e cadde sparsa in cenere e ruine.</l>
+<l>Arda, s' accese, arda in più giuste faci</l>
+<l>per te ch' avesti il vanto</l>
+<l>di grazia e d' onestate,</l>
+<l>e non sian guerre più, ma sante paci</l>
+<l>là su nel regno santo,</l>
+<l>fra l' anime beate;</l>
+<l>arda e vinca d' odor croco ed amomo.</l></sp>
+<sp><speaker>VIRTÙ</speaker>
+<l>Ciò che figlia del Sol piangendo instilla,</l>
+<l>ciò che lacrima mirra e nardo e 'ncenso,</l>
+<l>Corinna, or sia di nostra mano accenso</l>
+<l>nel rogo che per te splende e sfavilla.</l>
+<l>Così resta l' odore, alma tranquilla,</l>
+<l>di tua virtute, onde quetasti il senso.</l>
+<l>Lo sparga aura di fama e 'ntorno il porte,</l>
+<l>perché spiri immortal dopo la morte.</l></sp>
+<sp><speaker>DIANA</speaker>
+<l>Strali, faretra ed arco,</l>
+<l>armi, mie lucide armi,</l>
+<l>qual duro fato vuol ch' io mi disarmi?</l>
+<l>Erri securo ormai per l' alte selve</l>
+<l>timido cervo con ramose corna,</l>
+<l>vada secura omai la damma al fonte,</l>
+<l>corran senza timor l' antiche belve</l>
+<l>quando più imbruna il ciel e quand' aggiorna,</l>
+<l>ch' io non cingo di reti il bosco e 'l monte,</l>
+<l>e non l' attendo al varco;</l>
+<l>tu va nel foco o mio gradito incarco.</l></sp>
+<sp><speaker>APOLLO</speaker>
+<l>Sacro a le fiamme la corona anch' io</l>
+<l>che mi verdeggia all' onorata fronte,</l>
+<l>per dolor fatto tenebroso Dio.</l>
+<l>S' altra di raggi e di serena luce</l>
+<l>avrà nel cielo onde caddeo Fetonte,</l>
+<l>l' avrà su 'l carro, e ne  fia scorta e duce.</l>
+<l>Gema fra tanto il mio vivace alloro,</l>
+<l>e 'n vece di sospiri a mille a mille,</l>
+<l>sparga nel foco pur le sue faville,</l>
+<l>mentr' io la piango e il mio dolente coro.</l></sp>
+<sp><speaker>MUSE</speaker>
+<l>E noi doniamo al foco anzi la tomba</l>
+<l>questo bel plettro eburno e questa lira,</l>
+<l>per cui tal fama spira</l>
+<l>che porta il nome a guisa di colomba;</l>
+<l>e se d' Orfeo la cetra in mezzo a l' Ebro</l>
+<l>solo Euridice mormorar s' udiva,</l>
+<l>agitandola il fiume e l' onde e i venti,</l>
+<l>risoni questa ne la fiamma viva</l>
+<l>del cipresso odorato e del ginebro,</l>
+<l>e faccia ardendo i suoi dolci lamenti:</l>
+<l>suoni Corinna in più dogliosi accenti,</l>
+<l>e Corinna risponda il vento e l' aura,</l>
+<l>mentre il foco ristaura,</l>
+<l>e se lira non basta, arda la tromba.</l></sp>
+<sp><speaker>VULCANO</speaker>
+<l>Che donar posso al fuoco, anzi a me stesso,</l>
+<l>perché donando al fuoco altrui non dono,</l>
+<l>se non questo monile e questa rete?</l>
+<l>Ardete voi, fiamme lucenti, ardete</l>
+<l>questa per cui mal vendicato io sono,</l>
+<l>benché Venere presi e Marte appresso,</l>
+<l>poich' a lei non s' avolse il crine adorno,</l>
+<l>arda la sua catena, arda il mio scorno.</l></sp>
+<sp><speaker>MINERVA</speaker>
+<l>Dono io candida tela a questo foco,</l>
+<l>anzi ben mille palme a questa fiamma,</l>
+<l>e mille gloriosi alti trofei;</l>
+<l>che posso più donar se quest' è poco</l>
+<l>in cui fulmina Giove e i monti infiamma?</l>
+<l>Qui le vittorie son de' nostri Dei,</l>
+<l>qui me vittoriosa ancor dipinsi</l>
+<l>contra i giganti il dì ch' Aracne i' vinsi.</l></sp>
+<sp><speaker>PLUTONE</speaker>
+<l>Queste più care gemme</l>
+<l>e questo lucid' or porto dal seno</l>
+<l>del tenebroso mio regno terreno,</l>
+<l>perché 'l rogo ne sia lucente e chiaro.</l>
+<l>Ecco io le verso e spargo</l>
+<l>sovra le fiamme in dolce seno apprese,</l>
+<l>ma son sdegnoso e largo</l>
+<l>di tutti altri tesori, alma cortese,</l>
+<l>se non de le tue spoglie incenerite,</l>
+<l>già povero Plutone, or ricco Dite.</l></sp>
+<sp><speaker>NETTUNO</speaker>
+<l>Dal mar questi coralli,</l>
+<l>e queste gemme porto ancor da l' onde,</l>
+<l>fiammeggin qui con le tue chiome bionde,</l>
+<l>ardano i miei tesori,</l>
+<l>poi che fiamma crudel, fiamma rapace,</l>
+<l>le tue vere bellezze arde e consuma,</l>
+<l>o d' immortali onori</l>
+<l>anima degna e di celeste pace,</l>
+<l>non men di lei ch' uscì di bianca spuma.</l></sp>
+<sp><speaker>GIUNONE</speaker>
+<l>E tu prendi, sublime ed alto rogo,</l>
+<l>e voi fiamme funeste,</l>
+<l>questo scettro reale, anzi celeste.</l>
+<l>Mentre more il suo fral, vive l' eterno:</l>
+<l>l' anima che se 'n riede,</l>
+<l>e fu de' sensi al mondo alta regina,</l>
+<l>se 'l porti omai là giù nel basso Inferno,</l>
+<l>ma non là dove siede</l>
+<l>ne le tenebre Pluto e Proserpina;</l>
+<l>regni in più lieta e più felice sede,</l>
+<l>libera e senza giogo,</l>
+<l>né turbi il nostro amore e 'l nostro luogo.</l></sp>
+<sp><speaker>GIOVE</speaker>
+<l>Questa tazza di fino e lucid' auro,</l>
+<l>onde nettare io bevo a la gran mensa,</l>
+<l>fece Vulcan prima ch' in cigno e 'n tauro</l>
+<l>io mi volgessi, e 'n pioggia d' or condensa.</l>
+<l>Con questa Ebe mi diè dolce restauro</l>
+<l>de le fatiche nella sete accensa,</l>
+<l>poi l' ebbe Ganimede, or tu l' avrai,</l>
+<l>a te, Corinna, tant' onor serbai.</l></sp>
+<sp><speaker>SATURNO</speaker>
+<l>Queste, onde si misura e si distingue</l>
+<l>il ratto trapassar d' ore veloci,</l>
+<l>dono a le fiamme io vecchio pigro e tardo,</l>
+<l>a cui potrebber con sonore voci</l>
+<l>di costei ragionar faconde lingue,</l>
+<l>che veloce sen gì qual tigre o pardo;</l>
+<l>bella cosa mortal passa e non dura,</l>
+<l>e 'l pianto a questa fiamma altri misura.</l></sp>
+<sp><speaker>CIBELE</speaker>
+<l>Io de' celesti Dei terrena madre</l>
+<l>piango Corinna. Ahi lutto amaro, ahi doglia!</l>
+<l>Piango le membra sue care e leggiadre</l>
+<l>che pasce il foco quasi arida foglia.</l>
+<l>Fuoco crudel, fiamme crudeli ed adre,</l>
+<l>ardete insieme quest' orrida spoglia;</l>
+<l>così Alcide volò fatto più bello,</l>
+<l>mentre arse del leone irsuto vello.</l></sp>
+<sp><speaker>AMORE</speaker>
+<l>E noi versiamo i fiori</l>
+<l>da le colme faretre</l>
+<l>ne l' alto rogo, e i più soavi odori.</l>
+<l>O pargoletti, miei cari seguaci,</l>
+<l>faci giungete a faci,</l>
+<l>sì che la fiamma illustri</l>
+<l>l' oscura notte e giunga in sino al cielo.</l>
+<l>Io di farfalla in guisa</l>
+<l>n' andrò volando intorno al chiaro foco,</l>
+<l>o pur, quasi Fenice,</l>
+<l>v' accenderò vermiglie ed auree piume,</l>
+<l>e con eterna vita</l>
+<l>lieto risorgerò dal vivo lume,</l>
+<l>io che d' antica etate e di novella,</l>
+<l>vecchio sono e fanciullo,</l>
+<l>son tormento e trastullo</l>
+<l>di questa etate e quella.</l></sp>
+<sp><speaker>AMINTA</speaker>
+<l>Cade il bianco ligustro e poi risorge,</l>
+<l>e di novo germoglia,</l>
+<l>e da le spine ancor purpurea rosa</l>
+<l>colta rinasce e spiega</l>
+<l>l' odorato suo grembo a' dolci raggi.</l>
+<l>Spargono i pini e i faggi</l>
+<l>le frondi a terra, e di lor verde spoglia</l>
+<l>poi rivestono i rami.</l>
+<l>Cade e risorge l' amorosa stella.</l>
+<l>Tu cadesti, Corinna, ahi duro caso,</l>
+<l>per non risorger mai,</l>
+<l>né più spero veder tra l' erbe e i fiori</l>
+<l>le tue vestigia impresse.</l>
+<l>Tu chiudesti, Corinna, i dolci lumi</l>
+<l>in sempiterno sonno,</l>
+<l>né gl' aprirai di novo in questa luce</l>
+<l>per far i miei contenti.</l>
+<l>Tu ponesti silenzio a' dolci accenti,</l>
+<l>e non sarà ch' io mai</l>
+<l>cosa veggia ed ascolti</l>
+<l>che mi conforti ad altro chì a trar guai.</l>
+<l>Tu moristi, Corinna, io vivo e spiro?</l>
+<l>Io vivo e tu sei morta? Ahi morte, ahi vita</l>
+<l>egualmente odiosa!</l>
+<l>Stelle, stelle crudeli,</l>
+<l>perché non mi celate il vostro lume,</l>
+<l>poi che 'l suo m' ascondeste?</l>
+<l>Perché non volgi o luna adietro il corso?</l>
+<l>Perché non copre intorno orrido nembo</l>
+<l>il tuo puro sereno?</l>
+<l>Perché il ciel non si tigne</l>
+<l>tutto di nere macchie e di sanguigne?</l>
+<l>Tenebre, e voi che le serene luci</l>
+<l>m' ingombrate repente,</l>
+<l>coprite il cielo e i suoi spietati lumi,</l>
+<l>e minaccino sol baleni e lampi</l>
+<l>d' arder il mondo e le celesti spere.</l>
+<l>Stiasi dolente, ascoso, il sol ne l' onde,</l>
+<l>tema natura di perpetua notte,</l>
+<l>tremi la terra, ed Aquilone ed Austro</l>
+<l>facciano insieme impetuosa guerra,</l>
+<l>crollando i boschi e le robuste piante</l>
+<l>svelte a terra spargendo, il mar si gonfi</l>
+<l>e con onde spumanti il cielo ingombri,</l>
+<l>volgano i fiumi incontro i fonti il corso.</l>
+<l>Voi, fère belve, in queste stanche membra</l>
+<l>saziate la fame e in questo sangue,</l>
+<l>perché io non viva un infelice esempio</l>
+<l>di fortuna e d' amore</l>
+<l>con perpetuo dolore.</l></sp>
+<sp><speaker>AMORE</speaker>
+<l>Folle, ah folle! Che pensi o che ragioni?</l>
+<l>Colei che piangi è viva e su nel Cielo</l>
+<l>attende il tuo ritorno.</l>
+<l>Ivi spera vederla, io sarò duce</l>
+<l part="I">per vie sublimi.</l></sp>
+<sp><speaker>AMINTA</speaker>
+<l part="F">Ahi mentitor fallace,</l>
+<l>tue promesse di fè come son vòte!</l>
+<l>Quest' è forse la prima onde schernito</l>
+<l>e deluso io rimagno?</l>
+<l>Lasso, molt' anni m' ingannasti in vita,</l>
+<l>e m' aggirasti d' uno in altro errore,</l>
+<l>d' un male in altro e d' uno in altro affanno;</l>
+<l>pur, mentre visse, m' avolgea contento</l>
+<l>ne l' amoroso laberinto errando.</l>
+<l>Or che lice sperar dopo la morte,</l>
+<l>se con la morte ha fine ogni speranza?</l></sp>
+<sp><speaker>AMORE</speaker>
+<l>Vaneggi per dolore e per disdegno,</l>
+<l>e 'l tuo sperar come il vedere è corto.</l></sp>
+<sp><speaker>PANE</speaker>
+<l>Tempra, Aminta, il dolore.</l>
+<l>Anch' io Siringa piansi</l>
+<l>e risonar de' miei dogliosi accenti</l>
+<l>feci sovente Menalo e Liceo.</l>
+<l>Pianse Alcide il fanciullo</l>
+<l>che gl' involar le Ninfe al chiaro fonte;</l>
+<l>Orfeo pianse Euridice,</l>
+<l>e pianse Apollo Dafne e Ciparisso;</l>
+<l>pianse Giove medesmo</l>
+<l>per Calisto e per Io,</l>
+<l>ed asciugò dopo il dolore il pianto;</l>
+<l>tu ti condanni a sempiterno lutto.</l></sp>
+<sp><speaker>AMINTA</speaker>
+<l>Sia come il danno eterno anco il dolore.</l></sp>
+<sp><speaker>MINERVA</speaker>
+<l>Folle! Troppo vaneggi e poco speri,</l>
+<l>né di Tirsi il cantar rammenti o quello</l>
+<l>che di Sileno udisti in verde speco.</l></sp>
+<sp><speaker>AMINTA</speaker>
+<l>O Dea, quel dì ch' Amore</l>
+<l>mi tolse il cor dal petto</l>
+<l>e poi mi disse: non ne far parola,</l>
+<l>mi tolse insieme il senno;</l>
+<l>qual meraviglia è s' io piango e vaneggio?</l></sp>
+<sp><speaker>APOLLO</speaker>
+<l>Tempra, Aminta, il dolor, ch' in questo monte,</l>
+<l>de la cui fama il mondo ancor rimbomba,</l>
+<l>e 'n questi verdi boschi e 'n queste valli,</l>
+<l>la tua Corinna avrà perpetuo onore.</l>
+<l>E tu con lei di gloriosa fama</l>
+<l>degno sarai, ché loderansi insieme</l>
+<l>la sua vera onestate e la tua fede,</l>
+<l>la sua beltate e la tua stirpe antica</l>
+<l>che vento di fortuna a pena crolla,</l>
+<l>ma non dibarba, Aminta, e non atterra,</l>
+<l>sì che non spieghi i gloriosi rami</l>
+<l>che ricoprono il Tebro e i sette colli</l>
+<l>con l' ombra antica e tutto il bel paese</l>
+<l>ove s' ascose già Saturno il veglio.</l>
+<l>Non fare, Aminta, a l' alta stirpe oltraggio</l>
+<l>col soverchio dolor; l' animo invitto</l>
+<l>mostra, come il mostrar gl' antichi Padri</l>
+<l>in ogni colpo di fortuna adversa.</l>
+<l>Vaticano a tua stirpe e gli altri sette</l>
+<l>piegan le chiome e l' Appenin s' inchina,</l>
+<l>e via più lunge Pindo, Olimpo, Atlante</l>
+<l>sostenitor de le dorate stelle,</l>
+<l>e par che dica: più famoso pondo</l>
+<l>non sostengo de l' Orse o più lucente,</l>
+<l>de l' Orse, altere imprese, insegne eccelse,</l>
+<l>vostri eterni trofei ch' in ciel traslati,</l>
+<l>quasi presagio fur del vostro merto.</l>
+<l>Ma voi potreste alzarle ancor più in alto,</l>
+<l>s' altro cielo sovran si volge intorno</l>
+<l>che per divina luce a voi s' asconda,</l>
+<l>voi, non di Licaon figli o nepoti,</l>
+<l>ma di Pane e di Giove invitta prole.</l>
+<l>Tempra, Aminta, il dolor, non dico il pianto,</l>
+<l>ma se 'l pianto amorzar può duolo ardente,</l>
+<l>or teco pianga Roma e i sette Monti.</l></sp>
+<sp><speaker>MUSE</speaker>
+<lg><l>Piangete, amiche Ninfe,</l>
+<l>per lei ch' a voi fu duce,</l>
+<l>lieta lasciando lacrimosa luce.</l></lg>
+<lg><l>Voi piangete, Pastori, e voi, Bifolci,</l>
+<l>lei che guidava il coro</l>
+<l>ne gl' amorosi balli.</l>
+<l>Crescete al pianto acque correnti e dolci,</l>
+<l>e voi purpurei e d' oro,</l>
+<l>e voi fior bianchi e gialli,</l>
+<l>ch' ella il dolor induce,</l>
+<l>lieta lasciando lacrimosa luce.</l></lg>
+<lg><l>E voi piangete ancora, o verdi boschi,</l>
+<l>lei ch' in forma appariva</l>
+<l>or di Ninfa or di Dea;</l>
+<l>antri piangete, e seggi ombrosi e foschi;</l>
+<l>piangi tu, verde riva,</l>
+<l>là dove ella sedea,</l>
+<l>ed onde al Ciel riduce,</l>
+<l>lieta lasciando lacrimosa luce.</l></lg>
+<lg><l>Piangete colli e voi superbi monti,</l>
+<l>lauri e voi, che di foglie</l>
+<l>non priva ardore o gelo,</l>
+<l>piangete, e siano il pianto i rivi e i fonti,</l>
+<l>le preziose spoglie</l>
+<l>de l' alma ch' è nel Cielo,</l>
+<l>ed indi a noi traluce,</l>
+<l>lieta lasciando lacrimosa luce.</l></lg>
+<lg><l>Piangete Orse nel ciel tra fiamme e lampi.</l>
+<l>Tu piangi, o bianca luna,</l>
+<l>pietosa de' mortali.</l>
+<l>Sian rugiadosi i più lucenti campi,</l>
+<l>dove giunger Fortuna</l>
+<l>non può con gl' empi strali,</l>
+<l>mentr' ella il carro adduce,</l>
+<l>lieta lasciando lacrimosa luce.</l></lg>
+<lg><l>Tu piangi insieme, e sia cristallo il pianto,</l>
+<l>o bella e vaga Aurora,</l>
+<l>mentre riporti il die,</l>
+<l>e perle scota il seno, e perle il manto</l>
+<l>che gl' aspri monti indora</l>
+<l>da le celesti vie,</l>
+<l>là 'v' è chi gode e luce,</l>
+    <l>lieta lasciando lagrimosa luce.</l></lg></sp></div1>
+</body>
+</text>
+</TEI.2>

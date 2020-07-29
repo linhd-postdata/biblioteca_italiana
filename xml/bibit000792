@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie</title>
+      <author>Iacopo Borgianni</author>
+    </titleStmt>
+    <extent>3 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000792</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Lirici toscani del Quattrocento</title>
+        <title type="part">v.</title>
+        <editor id="ed">Lanza, Antonio</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1973</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-01-21T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-05-27T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="poesia">
+<head>I</head>
+
+<lg type="sonetto"><lg>
+<l>Cicerbita e scherola e perpinella</l>
+<l>e venticinque mogge d'occhi torti</l>
+<l>andandone a dormir furono scorti</l>
+<l>da' merli, che guardavan due capella.</l></lg><lg>
+<l>Allor, vedendo questo, una gonnella</l>
+<l>baia, stracciata, disse: «Tutti morti</l>
+<l>sarete, prima ch'usciate di porti,</l>
+<l>sicché per voi sarà trista novella».</l></lg><lg>
+<l>Dicesi a Norcia che stato è veduto</l>
+<l>un pesce azzurro colla coda verde</l>
+<l>fuggirsi pella piena a Montaguto,</l></lg><lg>
+<l><del resp="ed">(e)</del> sì si sta lassù pascendosi erbe,</l>
+<l><del resp="ed">(e)</del> per sete stillava un suo liuto;</l>
+<l>dice pel freddo la coda si perde.</l></lg><lg>
+<l>Deh, non far tante merde:</l>
+<l>andiancene più tosto inverso Roma</l>
+<l>e troverren la bertuccia che toma!</l>
+</lg>
+</lg></div1>
+<div1 type="poesia">
+<head>II</head>
+
+<lg type="lauda"><lg>
+<l>Misericordia, Madre pia;</l>
+<l>deh, piatosa di noi sia!</l></lg><lg>
+<l>Misericordia, o avocata,</l>
+<l>di questa gente scelerata;</l>
+<l>piatosa sempre ne se' stata,</l>
+<l>deh, Vergine. ancor ne sia!</l></lg><lg>
+<l>Madre, no' non consideriamo</l>
+<l>che tutti a morire abbiamo,</l>
+<l>e ne' peccati sempre stiamo</l>
+<l>di male in peggio tuttavia.</l></lg><lg>
+<l>Però, Madre, misericordia!</l>
+<l>Fra Dio e noi metti concordia,</l>
+<l>ché noi siamo in gran discordia,</l>
+<l>se non ci rimedi, Madre pia.</l></lg><lg>
+<l>Aiutaci, Madre verace;</l>
+<l>tra 'l tuo Figlio e noi la pace</l>
+<l>metti, e priegal, se ti piace,</l>
+<l>che ci dimetta nostra follia!</l></lg><lg>
+<l>Tutta gente, ognun feroce</l>
+<l>a gridare ad alta boce:</l>
+<l>«Colui che fu posto in croce</l>
+<l>che piatoso di noi sia!»</l></lg><lg>
+<l>Alla Madre similmente</l>
+<l>che prieghi il Figlio piacente,</l>
+<l>ché perdoni a questa gente</l>
+<l>e alla grande lor follia,</l></lg><lg>
+<l>ognun chiegga perdonanza</l>
+<l>e poi viva in isperanza</l>
+<l>sanza ignuna dubitanza,</l>
+<l>ché salvato poi e' fia.</l>
+</lg>
+</lg></div1>
+</body>
+</text>
+</TEI.2>

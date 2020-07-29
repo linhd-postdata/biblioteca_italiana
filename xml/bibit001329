@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Il beneficio</title>
+      <author>Vincenzo Monti</author>
+    </titleStmt>
+    <extent>15 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001329</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Canti e poemi di Vincenzo Monti</title>
+        <title type="part">v.</title>
+        <author>Monti, Vincenzo</author>
+        <editor id="ed">Carducci, Giosue</editor>
+        <publisher>G. Barbera</publisher>
+        <pubPlace>Firenze</pubPlace>
+        <date>1891</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.6 - Poesia italiana. Periodo del rinnovamento, 1748-1814.</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-04-09T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marina Larena</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-04-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 n="Dedica">
+<opener><salute>Alla Maestà imperiale e reale di NAPOLEONE I Imperator dei Francesi coronato re d'Italia</salute>
+<dateline>(26 maggio 1805),</dateline>
+<byline>VINCENZO MONTI
+assessore al ministro dell'interno e membro dell'Istituto.</byline></opener>
+
+<p>Sire, Le Muse, antiche compagne degli eroi e de' re, ebbero sempre in usanza di far argomento dei lor canti il valore de' forti nelle battaglie e la virtù seduta sul trono; e il diadema di Giove del pari che l'alloro di Marte acquista più riverenza e splendore, celebrato da queste dive. Sire, son esse che posero Ercole fra gli dèi e fecero pianger d'invidia su la tomba d'Achille un grande conquistatore, che nella opinione degli uomini sarebbe tuttavia il maggior de' guerrieri, se voi non foste comparso. Mentre la storia scrivendo le vostre imprese teme di comparire bugiarda al tribunale della prosperità, la poesia parlando di voi viene per l'opposto a spogliarsi la prima volta di questa taccia. Liberata da ogni basso sospetto d'adulazione, ella vi reca a piedi del più bel trono del mondo l'ammirazione dell'universo, ella vi esprime veracemente nel suo divino linguaggio la riconoscenza e l'amore degl'Italiani, che da voi redenti si sollevano ad alte speranze e si sentono non indegni de' vostri eccelsi pensieri. Sire, sta in mano vostra il far sì che l'antica loro grandezza non sia più una dolorosa e vana memoria, e conciliando i disegni della politica con quelli della natura risvegliarne gli spiriti addormentati, e farli per voi istrumento di nuova gloria, maggiore ancor, se il vorrete, di quella che già vi circonda. Nè voi certamente vi avete assunto il grave peso di regnare sopra di noi, che per emendare le ingiurie dell'avversa nostra fortuna, restituirci il rispetto delle nazioni, e farne tutti felici.</p>
+<closer><salute>Della sacra imperiale reale maestà vostra um.mo dev.mo e fed.mo suddito</salute>
+<signed>VINCENZO MONTI.</signed></closer>
+</div1>
+<div1>
+<head>IL BENEFICIO</head>
+<lg><l>Una donna di forme alte e divine,</l>
+<l>Per lungo duolo attrita, e di squallore</l>
+<l>Sparsa l'augusto venerando crine,</l>
+<l>In vision m'apparve; e sì d'amore</l>
+<l>Sì di pietà mi prese e di rispetto,</l>
+<l>Che ancor la veggo, ancor mi balza il core</l>
+<l>Era un sasso al bel fianco duro letto,</l>
+<l>La sinistra alla gota: e, scisso il manto,</l>
+<l>Scopria le piaghe dell'onesto petto.</l>
+<l>Insultavan superbe al suo gran pianto</l>
+<l>Stranie donne scettrate: e la strignea</l>
+<l>Or questa or quella di catene; e vanto</l>
+<l>Traean dal lutto ond'ella si pascea,</l>
+<l>E crescean strazio ed onta alla meschina.</l>
+<l>Io le guardava, e d'ira il cor fremea.</l>
+<l>Ma l'afflitta, che pur nella ruina</l>
+<l>Delle prime fortune alma serbava</l>
+<l>Sdegnosa e dentro si sentía regina,</l>
+<l>— Ricordivi, lor disse (e il capo alzava),</l>
+<l>Ricordivi che tutte io v'ebbi ancelle,</l>
+<l>Tutte; — e, rotto un sospir, gli occhi inchinava.</l>
+<l>Poi, le luci nel pianto ancor più belle</l>
+<l>Girando ai figli, — Chi di voi m'aíta? —</l>
+<l>Sclamava. E i figli forsennate e felle</l>
+<l>Volgean l'arme in se stessi; e la ferita</l>
+<l>Del sen materno esacerbando, il poco</l>
+<l>Misero avanzo le togliean la vita.</l>
+<l>Mi corse all'empia vista e gelo e foco</l>
+<l>Per le vene; e gridai: — Pace, fratelli!</l>
+<l>Per dio, pace!: — e trovar non sapea loco.</l>
+<l>Pareami errar furente irto i capelli</l>
+<l>Per le sacre di Roma erme ruine;</l>
+<l>E percuoter col pugno i chiusi avelli,</l>
+<l>E agitarli, e svegliar l'ombre latine.</l>
+<l>Ah prisca gloria! ahi vani orgogli! ahi come</l>
+<l>L'italica virtù cadde a vil fine!</l>
+<l>Io chiamava le antiche ombre per nome;</l>
+<l>E quelle, alzati i coperchi e rimosse</l>
+<l>Dai fieri aspetti le scorrenti chiome,</l>
+<l>Sporgean le fronti per veder che fosse:</l>
+<l>E, de' nipoti la viltà veduta,</l>
+<l>Le fraterne discordie e le percosse,</l>
+<l>E l'arbitra del vinto orbe venuta</l>
+<l>In servitù del servo; dolorosi</l>
+<l>Quei divi spirti di sì gran caduta,</l>
+<l>In volto si guardar muti e pensosi.</l>
+<l>Indi qual vergognando giù cadea,</l>
+<l>Gli occhi nel cavo delle palme ascosi;</l>
+<l>Qual, ritto in pè spiccandosi, mettea</l>
+<l>Tutta fuori dell'arca la persona,</l>
+<l>E gridando vendetta armi chiedea.</l>
+<l>Altri, in cui più superba ira ragiona,</l>
+<l>Dicean: — Merta i suoi ceppi l'oziosa:</l>
+<l>Dàlle il fuso e di mirti una corona, —</l>
+<l>E la faccia torcean bieca e sdegnosa</l>
+<l>Da quella mesta; che tenea sembianza</l>
+<l>D'uom che cerca scolparsi e dir non osa,</l>
+<l>Chè di voce lo priva e di baldanza</l>
+<l>De' suoi falli il rimorso, e più tacendo</l>
+<l>Che parlando fa scusa alla mancanza.</l>
+<l>Mentr'io confuso il giudicar sospendo</l>
+<l>Su l'udite sentenze, e nel cor mio</l>
+<l>La pietà col rigor va combattendo;</l>
+<l>Tutta d'armi tonar l'Alpe s'udìo,</l>
+<l>E in maestade alteramente onesta</l>
+<l>Un guerrier discendea pari ad un dio.</l>
+<l>Qual fra' numi incedendo il ciel calpesta</l>
+<l>Di Saturno il gran figlio; ed alla scossa</l>
+<l>De' neri crini su l'ambrosia testa</l>
+<l>Trema l'olimpo, e sente la commossa</l>
+<l>Terra l'impulso dell'eterno piede:</l>
+<l>Tale il magno venía nella sua possa.</l>
+<l>Muta il guarda l'Europa, e a lui mercede</l>
+<l>Grida in segreto: ed ei ne libra il fato,</l>
+<l>Nè mortal occhio il suo librar mai vede.</l>
+<l>Gli vien fedele la Vittoria a lato;</l>
+<l>E non par ch'ei la curi, e che d'oliva</l>
+<l>Più che di lauro ir goda incoronato.</l>
+<l>Ma le apparse grand'ombre, in cui bolliva</l>
+<l>Alto il disdegno delle viste offese,</l>
+<l>E la patria piangean spenta o mal viva,</l>
+<l>Come vider l'eroe, corser comprese</l>
+<l>Di maraviglia, e il nome e di che gente</l>
+<l>Si fosse il prode si chiedean sospese:</l>
+<l>E di sè gli fe3r cerchio in riverente</l>
+<l>Atto; e abbracciarlo non ardía nessuna,</l>
+<l>Chè minor si sentía di quel possente.</l>
+<l>All'infelice, che giacea di niuna</l>
+<l>Speme in conforto e si parea pur degna</l>
+<l>Di riverenza e di men ria fortuna,</l>
+<l>Colla pietà che cor gentile insegna</l>
+<l>S'appressò quell'invitto, e, la man stesa,</l>
+<l>Magnanimo le disse: — Alzati, e regna. —</l>
+<l>Ed ella alzossi, e subito prostesa</l>
+<l>Suo signor l'adorò: volea dir, figlio!</l>
+<l>Ma la voce morì dal pianto offesa.</l>
+<l>Ed ei le terse affettuoso il ciglio,</l>
+<l>Ne trattò le ferite; e a lei, com'era</l>
+<l>D'armi nuda e d'ardire e di consiglio,</l>
+<l>Diè lo scudo, diè l'asta: e già guerriera,</l>
+<l>Già coronata, in trono la compose</l>
+<l>Con guardo che dicea — Fa' senno, e spera. —</l>
+<l>Allor torve guatarla, e dispettose</l>
+<l>Mordersi il dito le costei nemiche,</l>
+<l>De' suoi renduti onori invidiose;</l>
+<l>E rinfrescando le paure antiche</l>
+<l>Far consulta, e furtive alla vendetta</l>
+<l>Allacciarsi le maglie e le lorìche.</l>
+<l>Qui portento vid'io che al cor diè stretta.</l>
+<l>Vidi una nube su l'Egéo levarse,</l>
+<l>Che tutta ricopria l'onda suggetta:</l>
+<l>E fiammeggiante nella nube apparse</l>
+<l>Lunga una spada, la cui punta al seno</l>
+<l>Dell'alma Italia mi parea drizzarse.</l>
+<l>Il rubro che n'uscìa spesso baleno</l>
+<l>Fería le spalle d'Appennino e tutto</l>
+<l>Colorava di sangue il mar tirreno:</l>
+<l>La trista luce riflettean sul flutto</l>
+<l>Le britanniche antenne congiurate</l>
+<l>A por la nuova regnatrice in lutto.</l>
+<l>Ed ella, che fatal la sua beltate</l>
+<l>Sapea per prova, del suo stato in forse</l>
+<l>Già ritornava alle temenze usate.</l>
+<l>Ma colla man su l'elsa la soccorse</l>
+<l>D'un suo tal riso il gran guerrier, che piena</l>
+<l>Al cor fidanza e securtà le porse.</l>
+<l>A quel riso tornò l'aria serena:</l>
+<l>Mandò l'alpe splendor, che l'altro estinse</l>
+<l>Vivo nell'occhio della mente appena:</l>
+<l>Ogni riva di luce si dipinse;</l>
+<l>E di sue glorie a ragionar con Dori</l>
+<l>Più ratta l'Eridàn l'onda sospinse.</l>
+<l>E per tutto tripudii e danze e cori</l>
+<l>Di donzelle, e fragranti di profumi</l>
+<l>I sacri templi ed ogni via di fiori.</l>
+<l>Fatta Italia parea stanza di numi:</l>
+<l>Sì che, in vederla così bella, il pianto</l>
+<l>Della letizia mi fe velo ai lumi.</l>
+<l>Perdè la vista quelle larve intanto,</l>
+<l>La vista che nel gaudio si smarrìa:</l>
+<l>Nè più, fuor ch'una, le mi vidi accanto.</l>
+<l>Una sola ne vidi che venía,</l>
+<l>Di gran sembiante, ornata della fronda</l>
+<l>Che ninfa sul Penéo Febo fuggía.</l>
+<l>Il negro lucco ond'ella si circonda</l>
+<l>Moderna la palesa e fiorentina</l>
+<l>Di quella trista età d'ire feconda</l>
+<l>Cui diè nome la rabbia ghibellina.</l>
+<l>Lenta e grave procede e tal nel viso</l>
+<l>Che la delfica annunzia aura divina.</l>
+<l>Al macro aspetto che dall'arte inciso</l>
+<l>Già più volte adorando aveva veduto,</l>
+<l>E più del core al palpito improvviso,</l>
+<l>Ebbi tosto il cantor riconosciuto,</l>
+<l>Cui di carne vestito il trino regno</l>
+<l>Della morte veder fu conceduto.</l>
+<l>Pria severo guardò quel franco ingegno</l>
+<l>La risurta reina; indi, proteso</l>
+<l>Vers'ella il dito, di parlar fe segno;</l>
+<l>E cominciò: — Da' tuoi delitti offeso,</l>
+<l>Cara Italia, io ti punsi; e, tuo flagello,</l>
+<l>Sentir ti feci di mie note il peso:</l>
+<l>Serva ti dissi, e di dolore ostello,</l>
+<l>Nave senza nocchiero in gran tempesta,</l>
+<l>Non donna di provincie ma bordello.</l>
+<l>E tale ti lasciai quando la vesta</l>
+<l>Mortal deposi, dalla patria escluso</l>
+<l>A' suoi maligna ed a' non suoi molesta.</l>
+<l>Or che d'incauta libertà mal uso</l>
+<l>Ti partorì buon senno, e miglior sorte</l>
+<l>Alfin ti volge delle Parche il fuso;</l>
+<l>Degli eterni silenzi della morte</l>
+<l>A veder mi conduco di pentita</l>
+<l>Madre ancor bella le virtù risorte.</l>
+<l>S'io t'amai, s'io ti feci un dì scaltrita</l>
+<l>Del verace tuo meglio, e ti gridai</l>
+<l>Che sol lo scettro ti potea dar vita,</l>
+<l>Tu che ancor leggi le mie carte il sai.</l>
+<l>Divisa e sconcia da' tuoi vizi, in danno</l>
+<l>La libertà, diss'io, tu volgerai.</l>
+<l>E la volgesti, e ti crescesti affanno:</l>
+<l>Ch'ove concordia e amor di patria è morte</l>
+<l>Fu de' molti il regnar sempre tiranno.</l>
+<l>Dopo varia burrasca, alfin nel porto</l>
+<l>Riparasti la nave a salvamento,</l>
+<l>D'alte speranze carca e di conforto.</l>
+<l>Ma rugge ancora la procella e il vento;</l>
+<l>E ritornar t'è forza in mar crudele</l>
+<l>A far de' fianchi infermi esperimento.</l>
+<l>Ben marinari hai tu che sarte e vele</l>
+<l>Sanno trattar: ma chi al timon dà mano?</l>
+<l>O chi l'ardisce in tanta onda infedele?</l>
+<l>Dunque va' cauta; e di nocchier soprano</l>
+<l>Che di nembi non tèma ti provvedi,</l>
+<l>Finchè torbo e fremente è l'oceáno.</l>
+<l>A lui l'impero a lui l'arbitrio credi</l>
+<l>Delle dubbie tue sorti, e la donata</l>
+<l>Regal corona al donator concedi.</l>
+<l>Ei più ricca ei più bella e più temprata</l>
+<l>La farà. Non ben atta a tanto pondo</l>
+<l>È la tua fronte, e mal n'andrìa gravata.</l>
+<l>Nè menar vanto che il domato mondo</l>
+<l>Un dì tenesti in signoria; chè stolta</l>
+<l>È la superbia dei caduti al fondo. —</l>
+<l>Sì parlava l'acerbo. E, qual talvolta</l>
+<l>Muta loco una stella, e lungo dardo</l>
+<l>Di luce riga la siderea vo3lta;</l>
+<l>Tal ratta io vidi piegar del guardo</l>
+<l>Dal bel crin della donna scintillando</l>
+<l>La corona partir del Longobardo,</l>
+<l>E l'italico cielo illuminando</l>
+<l>Posarsi in fronte al suo signor, che fiero</l>
+<l>La presse al capo e la calcò col brando.</l>
+<l>Stretto alla tempia del fatal guerriero</l>
+<l>Mettea quel cerchio riverenza e tema:</l>
+<l>E sospeso del mondo era il pensiero.</l>
+<l>Dal travagliato Ispano e dall'estrema</l>
+<l>Elba, prudente l'agenorea figlia</l>
+<l>Salutò il raggio del novel diadema:</l>
+<l>Su la norica rupe ancor vermiglia</l>
+<l>Del suo sangue affacciossi l'Alemanno;</l>
+<l>Vide il suo meglio, ed abbassò le ciglia:</l>
+<l>Ma di navi potente e più d'inganno,</l>
+<l>Bestemmiò, corseggiando il porporino</l>
+<l>Ligure flutto, il predator britanno;</l>
+<l>Ed affrettava dall'aperto Eusino</l>
+<l>L'irto Russo, che anela il freddo polo</l>
+<l>Col bel cielo cangiar di Costantino.</l>
+<l>Qui di mia vision fu tronco il volo;</l>
+<l>Qui dagli occhi sparì l'alto cantore</l>
+<l>Del gaudio eterno e dell'eterno duolo;</l>
+<l>E un sorriso che parvemi d'amore</l>
+<l>Mi raggiò nel partir l'ombra gentile,</l>
+<l>Sì che dentro brillar m'intesi il core.</l>
+<l>Pien di questo il pensier, vate non vile</l>
+<l>Scrissi allor la veduta maraviglia:</l>
+<l>E fido al fianco mi reggea lo stile</l>
+<l>Il patrio amor che solo mi consiglia.</l></lg>
+</div1>
+</body>
+</text>
+</TEI.2>

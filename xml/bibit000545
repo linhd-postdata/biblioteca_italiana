@@ -1,0 +1,2611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Il giorno (1 redazione)</title>
+      <author>Giuseppe Parini</author>
+    </titleStmt>
+    <extent>120 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000545</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Il giorno</title>
+        <author>Parini, Giuseppe</author>
+        <editor id="ed">Isella, Dante</editor>
+        <publisher>Ricciardi</publisher>
+        <pubPlace>Milano ; Napoli</pubPlace>
+        <date>1969</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>700</date>
+    </creation>
+    <langUsage><language id="ita"/><language id="fre">Francese</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.6 - POESIA ITALIANA, 1748-1814</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-06-19T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marina Larena</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-06-24T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="dedica">
+<head>IL MATTINO</head>
+<head>ALLA MODA</head>
+<p rend="italic">Lungi da queste carte i cisposi occhi già da un secolo
+rintuzzati, lungi i fluidi nasi de' malinconici vegliardi.
+Qui non si tratta di gravi ministerj nella patria
+esercitati, non di severe leggi, non di annojante domestica
+economìa misero appannaggio della canuta età. A te
+vezzosissima Dea, che con sì dolci redine oggi temperi, e
+governi la nostra brillante gioventù, a te sola questo
+piccolo Libretto si dedica, e si consagra. Chi è che te qual
+sommo Nume oggimai non riverisca, ed onori, poichè in sì
+breve tempo se' giunta a debellar la ghiacciata Ragione, il
+pedante Buon Senso, e l'Ordine seccagginoso tuoi capitali
+nemici, ed hai sciolto dagli antichissimi lacci questo
+secolo avventurato? Piacciati adunque di accogliere sotto
+alla tua protezione, che forse non n'è indegno, questo
+piccolo Poemetto. Tu il reca su i pacifici altari ove le
+gentili Dame, e gli amabili Garzoni sagrificano a se
+medesimi le mattutine ore. Di questo solo egli è vago, e di
+questo solo andrà superbo e contento. Per esserti più caro
+egli ha scosso il giogo della servile rima, e se ne va
+libero in Versi Sciolti, sapendo, che tu di questi
+specialmente ora godi, e ti compiaci. Esso non aspira
+all'immortalità, come altri libri, troppo lusingati da' loro
+Autori, che tu, repentinamente sopravvenendo, hai seppelliti
+nell'oblìo. Siccome egli è per te nato, e consagrato a te
+sola, così fie pago di vivere quel solo momento, che tu ti
+mostri sotto un medesimo aspetto, e pensi a cangiarti, e
+risorgere in più graziose forme. Se a te piacerà riguardare
+con placid'occhio questo Mattino forse gli succederanno il
+Mezzogiorno, e la Sera; e il loro Autore si studierà di
+comporli, ed ornarli in modo, che non men di questo abbiano
+ad esserti cari.</p></div1>
+</front>
+<body>
+<div1 type="poesia">
+<head>Mattino</head>
+<lg>
+<l>Giovin Signore, o a te scenda per lungo</l>
+<l>Di magnanimi lombi ordine il sangue</l>
+<l>Purissimo celeste, o in te del sangue</l>
+<l>Emendino il difetto i compri onori</l>
+<l>E le adunate in terra o in mar ricchezze</l>
+<l>Dal genitor frugale in pochi lustri,</l>
+<l>Me Precettor d'amabil Rito ascolta.</l></lg>
+<lg><l>Come ingannar questi nojosi e lenti</l>
+<l>Giorni di vita, cui sì lungo tedio</l>
+<l>E fastidio insoffribile accompagna</l>
+<l>Or io t'insegnerò. Quali al Mattino,</l>
+<l>Quai dopo il Mezzodì, quali la Sera</l>
+<l>Esser debban tue cure apprenderai,</l>
+<l>Se in mezzo agli ozj tuoi ozio ti resta</l>
+<l>Pur di tender gli orecchi a' versi miei.</l></lg>
+<lg><l>Già l'are a Vener sacre e al giocatore</l>
+<l>Mercurio ne le Gallie e in Albione</l>
+<l>Devotamente hai visitate, e porti</l>
+<l>Pur anco i segni del tuo zelo impressi:</l>
+<l>Ora è tempo di posa. In vano Marte</l>
+<l>A sè t'invita; che ben folle è quegli</l>
+<l>Che a rischio de la vita onor si merca,</l>
+<l>E tu naturalmente il sangue aborri.</l>
+<l>Nè i mesti de la Dea Pallade studj</l>
+<l>Ti son meno odiosi: avverso ad essi</l>
+<l>Ti feron troppo i queruli ricinti</l>
+<l>Ove l'arti migliori, e le scienze</l>
+<l>Cangiate in mostri, e in vane orride larve,</l>
+<l>Fan le capaci volte echeggiar sempre</l>
+<l>Di giovanili strida. Or primamente</l>
+<l>Odi quali il Mattino a te soavi</l>
+<l>Cure debba guidar con facil mano.</l></lg>
+<lg><l>Sorge il Mattino in compagnìa dell'Alba</l>
+<l>Innanzi al Sol che di poi grande appare</l>
+<l>Su l'estremo orizzonte a render lieti</l>
+<l>Gli animali e le piante e i campi e l'onde.</l>
+<l>Allora il buon villan sorge dal caro</l>
+<l>Letto cui la fedel sposa, e i minori</l>
+<l>Suoi figlioletti intepidìr la notte;</l>
+<l>Poi sul collo recando i sacri arnesi</l>
+<l>Che prima ritrovàr Cerere, e Pale,</l>
+<l>Va col bue lento innanzi al campo, e scuote</l>
+<l>Lungo il piccol sentier da' curvi rami</l>
+<l>Il rugiadoso umor che, quasi gemma,</l>
+<l>I nascenti del Sol raggi rifrange.</l>
+<l>Allora sorge il Fabbro, e la sonante</l>
+<l>Officina riapre, e all'opre torna</l>
+<l>L'altro dì non perfette, o se di chiave</l>
+<l>Ardua e ferrati ingegni all'inquieto</l>
+<l>Ricco l'arche assecura, o se d'argento</l>
+<l>E d'oro incider vuol giojelli e vasi</l>
+<l>Per ornamento a nuove spose o a mense.</l></lg>
+<lg><l>Ma che? tu inorridisci, e mostri in capo,</l>
+<l>Qual istrice pungente, irti i capegli</l>
+<l>Al suon di mie parole? Ah non è questo,</l>
+<l>Signore, il tuo mattin. Tu col cadente</l>
+<l>Sol non sedesti a parca mensa, e al lume</l>
+<l>Dell'incerto crepuscolo non gisti</l>
+<l>Ieri a corcarti in male agiate piume,</l>
+<l>Come dannato è a far l'umile vulgo.</l></lg>
+<lg><l>A voi celeste prole, a voi concilio</l>
+<l>Di Semidei terreni altro concesse</l>
+<l>Giove benigno: e con altr'arti e leggi</l>
+<l>Per novo calle a me convien guidarvi.</l></lg>
+<lg><l>Tu tra le veglie, e le canore scene,</l>
+<l>E il patetico gioco oltre più assai</l>
+<l>Producesti la notte; e stanco alfine</l>
+<l>In aureo cocchio, col fragor di calde</l>
+<l>Precipitose rote, e il calpestìo</l>
+<l>Di volanti corsier, lunge agitasti</l>
+<l>Il queto aere notturno, e le tenèbre</l>
+<l>Con fiaccole superbe intorno apristi,</l>
+<l>Siccome allor che il Siculo terreno</l>
+<l>Dall'uno all'altro mar rimbombar feo</l>
+<l>Pluto col carro a cui splendeano innanzi</l>
+<l>Le tede de le Furie anguicrinite.</l></lg>
+<lg><l>Così tornasti a la magion; ma quivi</l>
+<l>A novi studj ti attendea la mensa</l>
+<l>Cui ricoprien pruriginosi cibi</l>
+<l>E licor lieti di Francesi colli,</l>
+<l>O d'Ispani, o di Toschi, o l'Ongarese</l>
+<l>Bottiglia a cui di verde edera Bacco</l>
+<l>Concedette corona; e disse: siedi</l>
+<l>De le mense reina. Alfine il Sonno</l>
+<l>Ti sprimacciò le morbide coltrici</l>
+<l>Di propria mano, ove, te accolto, il fido</l>
+<l>Servo calò le seriche cortine:</l>
+<l>E a te soavemente i lumi chiuse</l>
+<l>Il gallo che li suole aprire altrui.</l></lg>
+<lg><l>Dritto è perciò, che a te gli stanchi sensi</l>
+<l>Non sciolga da' papaveri tenaci</l>
+<l>Mòrfeo prima, che già grande il giorno</l>
+<l>Tenti di penetrar fra gli spiragli</l>
+<l>De le dorate imposte, e la parete</l>
+<l>Pingano a stento in alcun lato i raggi</l>
+<l>Del Sol ch'eccelso a te pende sul capo.</l>
+<l>Or qui principio le leggiadre cure</l>
+<l>Denno aver del tuo giorno; e quinci io debbo</l>
+<l>Sciorre il mio legno, e co' precetti miei</l>
+<l>Te ad alte imprese ammaestrar cantando.</l></lg>
+<lg><l>Già i valetti gentili udìr lo squillo</l>
+<l>Del vicino metal cui da lontano</l>
+<l>Scosse tua man col propagato moto;</l>
+<l>E accorser pronti a spalancar gli opposti</l>
+<l>Schermi a la luce, e rigidi osservàro,</l>
+<l>Che con tua pena non osasse Febo</l>
+<l>Entrar diretto a saettarti i lumi.</l>
+<l>Ergiti or tu alcun poco, e sì ti appoggia</l>
+<l>Alli origlieri i quai lenti gradando</l>
+<l>All'omero ti fan molle sostegno.</l>
+<l>Poi coll'indice destro, lieve lieve</l>
+<l>Sopra gli occhi scorrendo, indi dilegua</l>
+<l>Quel che riman de la Cimmeria nebbia;</l>
+<l>E de' labbri formando un picciol arco,</l>
+<l>Dolce a vedersi, tacito sbadiglia.</l>
+<l>O, se te in sì gentile atto mirasse</l>
+<l>Il duro Capitan qualor tra l'armi,</l>
+<l>Sgangherando le labbra, innalza un grido</l>
+<l>Lacerator di ben costrutti orecchi,</l>
+<l>Onde a le squadre varj moti impone;</l>
+<l>Se te mirasse allor, certo vergogna</l>
+<l>Avria di sè più che Minerva il giorno</l>
+<l>Che, di flauto sonando, al fonte scorse</l>
+<l>Il turpe aspetto de le guance enfiate.</l></lg>
+<lg><l>Ma già il ben pettinato entrar di novo</l>
+<l>Tuo damigello i' veggo; egli a te chiede</l>
+<l>Quale oggi più de le bevande usate</l>
+<l>Sorbir ti piaccia in preziosa tazza:</l>
+<l>Indiche merci son tazze e bevande;</l>
+<l>Scegli qual più desii. S'oggi ti giova</l>
+<l>Porger dolci allo stomaco fomenti,</l>
+<l>Sì che con legge il natural calore</l>
+<l>V'arda temprato, e al digerir ti vaglia,</l>
+<l>Scegli 'l brun cioccolatte, onde tributo</l>
+<l>Ti dà il Guatimalese e il Caribbèo</l>
+<l>C'ha di barbare penne avvolto il crine:</l>
+<l>Ma se nojosa ipocondrìa t'opprime,</l>
+<l>O troppo intorno a le vezzose membra</l>
+<l>Adipe cresce, de' tuoi labbri onora</l>
+<l>La nettarea bevanda ove abbronzato</l>
+<l>Fuma, ed arde il legume a te d'Aleppo</l>
+<l>Giunto, e da Moca che di mille navi</l>
+<l>Popolata mai sempre insuperbisce.</l></lg>
+<lg><l>Certo fu d'uopo, che dal prisco seggio</l>
+<l>Uscisse un Regno, e con ardite vele</l>
+<l>Fra straniere procelle e novi mostri</l>
+<l>E teme e rischi ed inumane fami</l>
+<l>Superasse i confin, per lunga etade</l>
+<l>Inviolati ancora: e ben fu dritto</l>
+<l>Se Cortes, e Pizzarro umano sangue</l>
+<l>Non istimàr quel ch'oltre l'Oceàno</l>
+<l>Scorrea le umane membra, onde tonando</l>
+<l>E fulminando, alfin spietatamente</l>
+<l>Balzaron giù da' loro aviti troni</l>
+<l>Re Messicani e generosi Incassi,</l>
+<l>Poichè nuove così venner delizie,</l>
+<l>O gemma degli eroi, al tuo palato.</l></lg>
+<lg><l>Cessi 'l Cielo però, che in quel momento</l>
+<l>Che la scelta bevanda a sorbir prendi,</l>
+<l>Servo indiscreto a te improvviso annunzj</l>
+<l>Il villano sartor che, non ben pago</l>
+<l>D'aver teco diviso i ricchi drappi,</l>
+<l>Oso sia ancor con pòlizza infinita</l>
+<l>A te chieder mercede: ahimè, che fatto</l>
+<l>Quel salutar licore agro e indigesto</l>
+<l>Tra le viscere tue, te allor farebbe</l>
+<l>E in casa e fuori e nel teatro e al corso</l>
+<l>Ruttar plebejamente il giorno intero!</l></lg>
+<lg><l>Ma non attenda già ch'altri lo annunzj</l>
+<l>Gradito ognor, benchè improvviso, il dolce</l>
+<l>Mastro che i piedi tuoi come a lui pare</l>
+<l>Guida, e corregge. Egli all'entrar si fermi</l>
+<l>Ritto sul limitare, indi elevando</l>
+<l>Ambe le spalle, qual testudo il collo</l>
+<l>Contragga alquanto; e ad un medesmo tempo</l>
+<l>Inchini 'l mento, e con l'estrema falda</l>
+<l>Del piumato cappello il labbro tocchi.</l></lg>
+<lg><l>Non meno di costui facile al letto</l>
+<l>Del mio Signor t'accosta, o tu che addestri</l>
+<l>A modular con la flessibil voce</l>
+<l>Teneri canti, e tu che mostri altrui</l>
+<l>Come vibrar con maestrevol arco</l>
+<l>Sul cavo legno armoniose fila.</l></lg>
+<lg><l>Nè la squisita a terminar corona</l>
+<l>D'intorno al letto tuo manchi, o Signore,</l>
+<l>Il Precettor del tenero idioma</l>
+<l>Che da la Senna de le Grazie madre</l>
+<l>Or ora a sparger di celeste ambrosia</l>
+<l>Venne all'Italia nauseata i labbri.</l>
+<l>All'apparir di lui l'itale voci</l>
+<l>Tronche cedano il campo al lor tiranno;</l>
+<l>E a la nova ineffabile armonìa</l>
+<l>De' soprumani accenti, odio ti nasca</l>
+<l>Più grande in sen contro alle impure labbra</l>
+<l>Ch'osan macchiarsi ancor di quel sermone</l>
+<l>Onde in Valchiusa fu lodata e pianta</l>
+<l>Già la bella Francese, et onde i campi</l>
+<l>All'orecchio dei Re cantati furo</l>
+<l>Lungo il fonte gentil de le bell'acque.</l>
+<l>Misere labbra che temprar non sanno</l>
+<l>Con le Galliche grazie il sermon nostro,</l>
+<l>Sì che men aspro a' dilicati spirti,</l>
+<l>E men barbaro suon fieda gli orecchi!</l></lg>
+<lg><l>Or te questa, o Signor, leggiadra schiera</l>
+<l>Trattenga al novo giorno; e di tue voglie</l>
+<l>Irresolute ancora or l'uno, or l'altro</l>
+<l>Con piacevoli detti il vano occùpi,</l>
+<l>Mentre tu chiedi lor tra i lenti sorsi</l>
+<l>Dell'ardente bevanda a qual cantore</l>
+<l>Nel vicin verno si darà la palma</l>
+<l>Sopra le scene; e s'egli è il ver, che rieda</l>
+<l>L'astuta Frine che ben cento folli</l>
+<l>Milordi rimandò nudi al Tamigi;</l>
+<l>O se il brillante danzator Narcisso</l>
+<l>Tornerà pure ad agghiacciare i petti</l>
+<l>De' palpitanti Italici mariti.</l></lg>
+<lg><l>Poichè così gran pezzo a' primi albori</l>
+<l>Del tuo mattin teco scherzato fia</l>
+<l>Non senz'aver licenziato prima</l>
+<l>L'ipocrita pudore, e quella schifa,</l>
+<l>Cui le accigliate gelide matrone</l>
+<l>Chiaman modestia, alfine o a lor talento,</l>
+<l>O da te congedati escan costoro.</l>
+<l>Doman si potrà poscia, o forse l'altro</l>
+<l>Giorno a' precetti lor porgere orecchio,</l>
+<l>Se meno ch'oggi a te cure dintorno</l>
+<l>Porranno assedio. A voi divina schiatta,</l>
+<l>Vie più che a noi mortali il ciel concesse</l>
+<l>Domabile midollo entro al cerèbro,</l>
+<l>Sì che breve lavor basta a stamparvi</l>
+<l>Novelle idee. In oltre a voi fu dato</l>
+<l>Tal de' sensi e de' nervi e degli spirti</l>
+<l>Moto e struttura, che ad un tempo mille</l>
+<l>Penetrar puote, e concepir vostr'alma</l>
+<l>Cose diverse, e non però turbarle</l>
+<l>O confonder giammai, ma scevre e chiare</l>
+<l>Ne' loro alberghi ricovrarle in mente.</l></lg>
+<lg><l>Il vulgo intanto a cui non dessi il velo</l>
+<l>Aprir de' venerabili misterj,</l>
+<l>Fie pago assai, poi che vedrà sovente</l>
+<l>Ire e tornar dal tuo palagio i primi</l>
+<l>D'arte maestri, e con aperte fauci</l>
+<l>Stupefatto berà le tue sentenze.</l></lg>
+<lg><l>Ma già vegg'io, che le oziose lane</l>
+<l>Soffrir non puoi più lungamente, e in vano</l>
+<l>Te l'ignavo tepor lusinga e molce,</l>
+<l>Però che or te più gloriosi affanni</l>
+<l>Aspettan l'ore a trapassar del giorno.</l></lg>
+<lg><l>Su dunque o voi del primo ordine servi</l>
+<l>Che degli alti Signor ministri al fianco</l>
+<l>Siete incontaminati, or dunque voi</l>
+<l>Al mio divino Achille, al mio Rinaldo</l>
+<l>L'armi apprestate. Ed ecco in un baleno</l>
+<l>I tuoi valetti a' cenni tuoi star pronti.</l>
+<l>Già ferve il gran lavoro. Altri ti veste</l>
+<l>La serica zimarra ove disegno</l>
+<l>Diramasi Chinese; altri, se il chiede</l>
+<l>Più la stagione, a te le membra copre</l>
+<l>Di stese infino al piè tiepide pelli.</l>
+<l>Questi al fianco ti adatta il bianco lino</l>
+<l>Che sciorinato poi cada, e difenda</l>
+<l>I calzonetti; e quei, d'alto curvando</l>
+<l>Il cristallino rostro, in su le mani</l>
+<l>Ti versa acque odorate, e da le mani</l>
+<l>In limpido bacin sotto le accoglie.</l>
+<l>Quale il sapon del redivivo muschio</l>
+<l>Olezzante all'intorno; e qual ti porge</l>
+<l>Il macinato di quell'arbor frutto,</l>
+<l>Che a Ròdope fu già vaga donzella,</l>
+<l>E chiama in van sotto mutate spoglie</l>
+<l>Demofoonte ancor Demofoonte.</l>
+<l>L'un di soavi essenze intrisa spugna</l>
+<l>Onde tergere i denti, e l'altro appresta</l>
+<l>Ad imbianchir le guance util licore.</l></lg>
+<lg><l>Assai pensasti a te medesmo; or volgi</l>
+<l>Le tue cure per poco ad altro obbietto</l>
+<l>Non indegno di te. Sai che compagna</l>
+<l>Con cui divider possa il lungo peso</l>
+<l>Di quest'inerte vita il ciel destìna</l>
+<l>Al giovane Signore. Impallidisci?</l>
+<l>No non parlo di nozze: antiquo e vieto</l>
+<l>Dottor sarei se così folle io dessi</l>
+<l>A te consiglio. Di tant'alte doti</l>
+<l>Tu non orni così lo spirto, e i membri,</l>
+<l>Perchè in mezzo a la tua nobil carriera</l>
+<l>Sospender debbi 'l corso, e fuora uscendo</l>
+<l>Di cotesto a ragion detto Bel Mondo,</l>
+<l>In tra i severi di famiglia padri</l>
+<l>Relegato ti giacci, a un nodo avvinto</l>
+<l>Di giorno in giorno più penoso, e fatto</l>
+<l>Stallone ignobil de la razza umana.</l></lg>
+<lg><l>D'altra parte il Marito ahi quanto spiace,</l>
+<l>E lo stomaco move ai dilicati</l>
+<l>Del vostr'Orbe leggiadro abitatori</l>
+<l>Qualor de' semplicetti avoli nostri</l>
+<l>Portar osa in ridicolo trionfo</l>
+<l>La rimbambita Fè, la Pudicizia</l>
+<l>Severi nomi! E qual non suole a forza</l>
+<l>In que' melati seni eccitar bile</l>
+<l>Quando i calcoli vili del castaldo</l>
+<l>Le vendemmie, i ricolti, i pedagoghi</l>
+<l>Di que' sì dolci suoi bambini altrui,</l>
+<l>Gongolando, ricorda; e non vergogna</l>
+<l>Di mischiar cotai fole a peregrini</l>
+<l>Subbietti, a nuove del dir forme, a sciolti</l>
+<l>Da volgar fren concetti onde s'avviva</l>
+<l>Da' begli spirti il vostro amabil Globo.</l>
+<l>Pera dunque chi a te nozze consiglia.</l>
+<l>Ma non però senza compagna andrai</l>
+<l>Che sia giovane dama, ed altrui sposa;</l>
+<l>Poichè sì vuole inviolabil rito</l>
+<l>Del Bel Mondo onde tu se' cittadino.</l></lg>
+<lg><l>Tempo già fu, che il pargoletto Amore</l>
+<l>Dato era in guardia al suo fratello Imene;</l>
+<l>Poichè la madre lor temea, che il cieco</l>
+<l>Incauto Nume perigliando gisse</l>
+<l>Misero e solo per oblique vie,</l>
+<l>E che bersaglio agl'indiscreti colpi</l>
+<l>Di senza guida, e senza freno arciero,</l>
+<l>Troppo immaturo al fin corresse il seme</l>
+<l>Uman ch'è nato a dominar la terra.</l>
+<l>Perciò la prole mal secura all'altra</l>
+<l>In cura dato avea, sì lor dicendo:</l>
+<l>“Ite o figli del par; tu più possente</l>
+<l>Il dardo scocca, e tu più cauto il guida</l>
+<l>A certa meta”. Così ognor compagna</l>
+<l>Iva la dolce coppia, e in un sol regno,</l>
+<l>E d'un nodo comun l'alme stringea.</l>
+<l>Allora fu che il Sol mai sempre uniti</l>
+<l>Vedea un pastore, ed una pastorella</l>
+<l>Starsi al prato, a la selva, al colle, al fonte;</l>
+<l>E la Suora di lui vedeali poi</l>
+<l>Uniti ancor nel talamo beato</l>
+<l>Ch'ambo gli amici Numi a piene mani</l>
+<l>Gareggiando spargean di gigli e rose.</l>
+<l>Ma che non puote anco in divino petto,</l>
+<l>Se mai s'accende ambizion di regno?</l>
+<l>Crebber l'ali ad Amore a poco a poco,</l>
+<l>E la forza con esse; ed è la forza</l>
+<l>Unica e sola del regnar maestra.</l>
+<l>Perciò a poc'aere prima, indi più ardito</l>
+<l>A vie maggior fidossi, e fiero alfine</l>
+<l>Entrò nell'alto, e il grande arco crollando,</l>
+<l>E il capo, risonar fece a quel moto</l>
+<l>Il duro acciar che la faretra a tergo</l>
+<l>Gli empie, e gridò: solo regnar vogl'io.</l>
+<l>Disse, e volto a la madre “Amore adunque</l>
+<l>Il più possente in fra gli dei, il primo</l>
+<l>Di Citerea figliuol ricever leggi,</l>
+<l>E dal minor german ricever leggi</l>
+<l>Vile alunno, anzi servo? Or dunque Amore</l>
+<l>Non oserà fuor ch'una unica volta</l>
+<l>Ferire un'alma come questo schifo</l>
+<l>Da me vorrebbe? E non potrò giammai</l>
+<l>Dappoi ch'io strinsi un laccio, anco slegarlo</l>
+<l>A mio talento, e qualor parmi un altro</l>
+<l>Stringerne ancora? E lascerò pur ch'egli</l>
+<l>Di suoi unguenti impeci a me i miei dardi</l>
+<l>Perchè men velenosi e men crudeli</l>
+<l>Scendano ai petti? Or via perchè non togli</l>
+<l>A me da le mie man quest'arco, e queste</l>
+<l>Armi da le mie spalle, e ignudo lasci</l>
+<l>Quasi rifiuto de gli Dei Cupido?</l>
+<l>O il bel viver che fia qualor tu solo</l>
+<l>Regni in mio loco! O il bel vederti, lasso!</l>
+<l>Studiarti a torre da le languid'alme</l>
+<l>La stanchezza e 'l fastidio, e spander gelo</l>
+<l>Di foco in vece! Or genitrice intendi,</l>
+<l>Vaglio, e vo' regnar solo. A tuo piacere</l>
+<l>Tra noi parti l'impero, ond'io con teco</l>
+<l>Abbia omai pace, e in compagnìa d'Imene</l>
+<l>Me non trovin mai più le umane genti”.</l>
+<l>Qui tacque Amore, e minaccioso in atto,</l>
+<l>Parve all'Idalia Dea chieder risposta.</l>
+<l>Ella tenta placarlo, e pianti e preghi</l>
+<l>Sparge ma in vano; onde a' due figli volta</l>
+<l>Con questo dir pose al contender fine.</l>
+<l>“Poichè nulla tra voi pace esser puote,</l>
+<l>Si dividano i regni. E perchè l'uno</l>
+<l>Sia dall'altro germano ognor disgiunto,</l>
+<l>Sieno tra voi diversi, e 'l tempo, e l'opra.</l>
+<l>Tu che di strali altero a fren non cedi</l>
+<l>L'alme ferisci, e tutto il giorno impera:</l>
+<l>E tu che di fior placidi hai corona</l>
+<l>Le salme accoppia, e coll'ardente face</l>
+<l>Regna la notte”. Ora di qui, Signore,</l>
+<l>Venne il rito gentil che a' freddi sposi</l>
+<l>Le tenebre concede, e de le spose</l>
+<l>Le caste membra: e a voi beata gente</l>
+<l>Di più nobile mondo il cor di queste,</l>
+<l>E il dominio del dì, largo destìna.</l>
+<l>Fors'anco un dì più liberal confine</l>
+<l>Vostri diritti avran, se Amor più forte</l>
+<l>Qualche provincia al suo germano usurpa:</l>
+<l>Così giova sperar. Tu volgi intanto</l>
+<l>A' miei versi l'orecchio, et odi or quale</l>
+<l>Cura al mattin tu debbi aver di lei</l>
+<l>Che spontanea o pregata, a te donossi</l>
+<l>Per tua Dama quel dì lieto che a fida</l>
+<l>Carta, non senza testimonj furo</l>
+<l>A vicenda commessi i patti santi,</l>
+<l>E le condizion del caro nodo.</l></lg>
+<lg><l>Già la Dama gentil de' cui be' lacci</l>
+<l>Godi avvinto sembrar le chiare luci</l>
+<l>Col novo giorno aperse; e suo primiero</l>
+<l>Pensier fu dove teco abbia piuttosto</l>
+<l>A vegliar questa sera, e consultonne</l>
+<l>Contegnosa lo sposo il qual pur dianzi</l>
+<l>Fu la mano a baciarle in stanza ammesso.</l></lg>
+<lg><l>Or dunque è tempo che il più fido servo</l>
+<l>E il più accorto tra i tuoi mandi al palagio</l>
+<l>Di lei chiedendo se tranquilli sonni</l>
+<l>Dormìo la notte, e se d'imagin liete</l>
+<l>Le fu Mòrfeo cortese. È ver che ieri</l>
+<l>Sera tu l'ammirasti in viso tinta</l>
+<l>Di freschissime rose; e più che mai</l>
+<l>Vivace e lieta uscìo teco del cocchio,</l>
+<l>E la vigile tua mano per vezzo</l>
+<l>Ricusò sorridendo allor che l'ampie</l>
+<l>Scale salì del maritale albergo:</l>
+<l>Ma ciò non basti ad acquetarti, e mai</l>
+<l>Non obliar sì giusti ufici. Ahi quanti</l>
+<l>Genj malvagi tra 'l notturno orrore</l>
+<l>Godono uscire ed empier di perigli</l>
+<l>La placida quiete de' mortali!</l></lg>
+<lg><l>Potria, tolgalo il cielo, il picciol cane</l>
+<l>Con latrati improvvisi i cari sogni</l>
+<l>Troncare a la tua Dama, ond'ella, scossa</l>
+<l>Da sùbito capriccio, a rannicchiarsi</l>
+<l>Astretta fosse, di sudor gelato</l>
+<l>E la fronte bagnando, e il guancial molle.</l>
+<l>Anco potria colui che, sì de' tristi</l>
+<l>Come de' lieti sogni è genitore,</l>
+<l>Crearle in mente di diverse idee</l>
+<l>In un congiunte orribile chimera,</l>
+<l>Onde agitata in ansioso affanno</l>
+<l>Gridar tentasse, e non però potesse</l>
+<l>Aprire ai gridi tra le fauci il varco.</l>
+<l>Sovente ancor ne la trascorsa sera</l>
+<l>La perduta tra 'l gioco aurea moneta</l>
+<l>Non men che al Cavalier, suole a la Dama</l>
+<l>Lunga vigilia cagionar: talora</l>
+<l>Nobile invidia de la bella amica</l>
+<l>Vagheggiata da molti, e talor breve</l>
+<l>Gelosia n'è cagione. A questo aggiugni</l>
+<l>Gl'importuni mariti i quali in mente</l>
+<l>Ravvolgendosi ancor le viete usanze,</l>
+<l>Poi che cessero ad altri il giorno, quasi</l>
+<l>Abbian fatto gran cosa, aman d'Imene</l>
+<l>Con superstizion serbare i dritti,</l>
+<l>E dell'ombre notturne esser tiranni,</l>
+<l>Non senz'affanno de le caste spose</l>
+<l>Ch'indi preveggon tra poc'anni il fiore</l>
+<l>De la fresca beltade a sè rapirsi.</l></lg>
+<lg><l>Or dunque ammaestrato a quali e quanti</l>
+<l>Miseri casi espor soglia il notturno</l>
+<l>Orror le Dame, tu non esser lento,</l>
+<l>Signore, a chieder de la tua novelle.</l></lg>
+<lg><l>Mentre che il fido messaggier si attende,</l>
+<l>Magnanimo Signor, tu non starai</l>
+<l>Ozioso però. Nel dolce campo</l>
+<l>Pur in questo momento il buon Cultore</l>
+<l>Suda, e incallisce al vomere la mano,</l>
+<l>Lieto, che i suoi sudor ti fruttin poi</l>
+<l>Dorati cocchi, e peregrine mense.</l>
+<l>Ora per te l'industre Artier sta fiso</l>
+<l>Allo scarpello, all'asce, al subbio, all'ago;</l>
+<l>Ed ora a tuo favor contende, o veglia</l>
+<l>Il Ministro di Temi. Ecco te pure</l>
+<l>Te la <foreign lang="fra">toilette</foreign> attende: ivi i bei pregi</l>
+<l>De la natura accrescerai con l'arte,</l>
+<l>Ond'oggi uscendo, del beante aspetto</l>
+<l>Beneficar potrai le genti, e grato</l>
+<l>Ricompensar di sue fatiche il mondo.</l></lg>
+<lg><l>Ma già tre volte e quattro il mio Signore</l>
+<l>Velocemente il gabinetto scorse</l>
+<l>Col crin disciolto e su gli omeri sparso,</l>
+<l>Quale a Cuma solea l'orribil maga</l>
+<l>Quando agitata dal possente Nume</l>
+<l>Vaticinar s'udìa. Così dal capo</l>
+<l>Evaporar lasciò degli olj sparsi</l>
+<l>Il nocivo fermento, e de le polvi</l>
+<l>Che roder gli potrien la molle cute,</l>
+<l>O d'atroce emicrania a lui le tempia</l>
+<l>Trafigger anco. Or egli avvolto in lino</l>
+<l>Candido siede. Avanti a lui lo specchio</l>
+<l>Altero sembra di raccor nel seno</l>
+<l>L'imagin diva: e stassi agli occhi suoi</l>
+<l>Severo esplorator de la tua mano</l>
+<l>O di bel crin volubile Architetto.</l>
+<l>Mille d'intorno a lui volano odori</l>
+<l>Che a le varie manteche ama rapire</l>
+<l>L'auretta dolce, intorno ai vasi ugnendo</l>
+<l>Le leggerissim'ale di farfalla.</l>
+<l>Tu chiedi in prima a lui qual più gli aggrada</l>
+<l>Sparger sul crin, se il gelsomino, o il biondo</l>
+<l>Fior d'arancio piuttosto, o la giunchiglia,</l>
+<l>O l'ambra preziosa agli avi nostri.</l></lg>
+<lg><l>Ma se la Sposa altrui, cara al Signore,</l>
+<l>Del talamo nuzial si duole, e scosse</l>
+<l>Pur or da lungo peso il molle lombo,</l>
+<l>Ah fuggi allor tutti gli odori, ah fuggi;</l>
+<l>Che micidial potresti a un sol momento</l>
+<l>Tre vite insidiar: semplici sieno</l>
+<l>I tuoi balsami allor, nè oprarli ardisci</l>
+<l>Pria che su lor deciso abbian le nari</l>
+<l>Del mio Signore, e tuo. Pon mano poscia</l>
+<l>Al pettin liscio, e coll'ottuso dente</l>
+<l>Lieve solca i capegli; indi li turba</l>
+<l>Col pettine e scompiglia: ordin leggiadro</l>
+<l>Abbiano alfin da la tua mente industre.</l></lg>
+<lg><l>Io breve a te parlai; ma non pertanto</l>
+<l>Lunga fia l'opra tua; nè al termin giunta</l>
+<l>Prima sarà, che da più strani eventi</l>
+<l>Turbisi e tronchi a la tua impresa il filo.</l>
+<l>Fisa i lumi allo speglio, e vedrai quivi</l>
+<l>Non di rado il Signor morder le labbra</l>
+<l>Impaziente, ed arrossir nel viso.</l>
+<l>Sovente ancor se artificiosa meno</l>
+<l>Fia la tua destra, del convulso piede</l>
+<l>Udrai lo scalpitar breve e frequente,</l>
+<l>Non senza un tronco articolar di voce</l>
+<l>Che condanni, e minacci. Anco t'aspetta</l>
+<l>Veder talvolta il mio Signor gentile</l>
+<l>Furiando agitarsi, e destra e manca</l>
+<l>Porsi nel crine; e scompigliar con l'ugna</l>
+<l>Lo studio di molt'ore in un momento.</l>
+<l>Che più? Se per tuo male un dì vaghezza</l>
+<l>D'accordar ti prendesse al suo sembiante</l>
+<l>L'edificio del capo, ed obliassi</l>
+<l>Di prender legge da colui che giunse</l>
+<l>Pur jer di Francia, ahi quale atroce folgore,</l>
+<l>Meschino! allor ti penderìa sul capo?</l>
+<l>Che il tuo Signor vedresti ergers'in piedi;</l>
+<l>E versando per gli occhi ira e dispetto,</l>
+<l>Mille strazj imprecarti; e scender fino</l>
+<l>Ad usurpar le infami voci al vulgo</l>
+<l>Per farti onta maggiore; e di bastone</l>
+<l>Il tergo minacciarti; e violento</l>
+<l>Rovesciare ogni cosa, al suol spargendo</l>
+<l>Rotti cristalli e calamistri e vasi</l>
+<l>E pettini ad un tempo. In cotal guisa,</l>
+<l>Se del Tonante all'ara o de la Dea,</l>
+<l>Che ricovrò dal Nilo il turpe <emph>Phallo</emph>,</l>
+<l>Tauro spezzava i raddoppiati nodi</l>
+<l>E libero fuggìa, vedeansi al suolo</l>
+<l>Vibrar tripodi, tazze, bende, scuri,</l>
+<l>Litui, coltelli, e d'orridi muggiti</l>
+<l>Commosse rimbombar le arcate volte,</l>
+<l>E d'ogni lato astanti e sacerdoti</l>
+<l>Pallidi all'urto e all'impeto involarsi</l>
+<l>Del feroce animal che pria sì queto</l>
+<l>Gìa di fior cinto, e sotto la man sacra</l>
+<l>Umiliava le dorate corna.</l>
+<l>Tu non pertanto coraggioso e forte</l>
+<l>Soffri, e ti serba a la miglior fortuna.</l>
+<l>Quasi foco di paglia è il foco d'ira</l>
+<l>In nobil cor. Tosto il Signor vedrai</l>
+<l>Mansuefatto a te chieder perdono,</l>
+<l>E sollevarti oltr'ogni altro mortale</l>
+<l>Con preghi e scuse a niun altro concesse;</l>
+<l>Onde securo sacerdote allora</l>
+<l>L'immolerai qual vittima a <emph>Filauzio</emph></l>
+<l>Sommo Nume de' Grandi, e pria d'ognaltro</l>
+<l>Larga otterrai del tuo lavor mercede.</l></lg>
+<lg><l>Or Signore, a te riedo. Ah non sia colpa</l>
+<l>Dinanzi a te s'io travviai col verso</l>
+<l>Breve parlando ad un mortal cui degni</l>
+<l>Tu degli arcani tuoi. Sai, che a sua voglia</l>
+<l>Questi ogni dì volge, e governa i capi</l>
+<l>De' più felici spirti; e le matrone,</l>
+<l>Che da' sublimi cocchi alto disdegnano</l>
+<l>Volgere il guardo a la pedestre turba,</l>
+<l>Non disdegnan sovente entrar con lui</l>
+<l>In festevoli motti allor ch'esposti</l>
+<l>A la sua man sono i ridenti avorj</l>
+<l>Del bel collo e del crin l'aureo volume.</l>
+<l>Perciò accogli ti prego i versi miei</l>
+<l>Tuttor benigno: et odi or come possi</l>
+<l>L'ore a te render graziose mentre</l>
+<l>Dal pettin creator tua chioma acquista</l>
+<l>Leggiadra o almen non più veduta forma.</l></lg>
+<lg><l>Picciol libro elegante a te dinanzi</l>
+<l>Tra gli arnesi vedrai che l'arte aduna</l>
+<l>Per disputare a la natura il vanto</l>
+<l>Del renderti sì caro agli occhi altrui.</l>
+<l>Ei ti lusingherà forse con liscia</l>
+<l>Purpurea pelle onde fornito avrallo</l>
+<l>O Mauritano conciatore, o Siro;</l>
+<l>E d'oro fregi dilicati, e vago</l>
+<l>Mutabile color che il collo imiti</l>
+<l>De la colomba v'avrà posto intorno</l>
+<l>Squisito legator Batavo, o Franco.</l>
+<l>Ora il libro gentil con lenta mano</l>
+<l>Togli; e non senza sbadigliare un poco</l>
+<l>Aprilo a caso, o pur là dove il parta</l>
+<l>Tra una pagina e l'altra indice nastro.</l></lg>
+<lg><l>O de la Francia Proteo multiforme</l>
+<l><emph>Voltaire</emph> troppo biasmato e troppo a torto</l>
+<l>Lodato ancor che sai con novi modi</l>
+<l>Imbandir ne' tuoi scritti eterno cibo</l>
+<l>Ai semplici palati; e se' maestro</l>
+<l>Di coloro che mostran di sapere,</l>
+<l>Tu appresta al mio Signor leggiadri studj</l>
+<l>Con quella tua Fanciulla agli Angli infesta</l>
+<l>Che il grande Enrico tuo vince d'assai,</l>
+<l>L'Enrico tuo che non peranco abbatte</l>
+<l>L'Italian Goffredo ardito scoglio</l>
+<l>Contro a la Senna d'ogni vanto altera.</l></lg>
+<lg><l>Tu de la Francia onor, tu in mille scritti</l>
+<l>Celebrata <emph>Ninon</emph> novella Aspasia,</l>
+<l>Taide novella ai facili sapienti</l>
+<l>De la Gallica Atene i tuoi precetti</l>
+<l>Pur dona al mio Signore: e a lui non meno</l>
+<l>Pasci la nobil mente o tu ch'a Italia,</l>
+<l>Poi che rapìrle i tuoi l'oro e le gemme,</l>
+<l>Invidiasti il fedo loto ancora</l>
+<l>Onde macchiato è il Certaldese, e l'altro</l>
+<l>Per cui va sì famoso il pazzo Conte.</l></lg>
+<lg><l>Questi, o Signore, i tuoi studiati autori</l>
+<l>Fieno e mill'altri che guidàro in Francia</l>
+<l>A novellar con le vezzose schiave</l>
+<l>I bendati Sultani i regi Persi,</l>
+<l>E le peregrinanti Arabe dame;</l>
+<l>O che con penna liberale ai cani</l>
+<l>Ragion donàro e ai barbari sedili,</l>
+<l>E dier feste e conviti e liete scene</l>
+<l>Ai polli ed a le gru d'amor maestre.</l></lg>
+<lg><l>O pascol degno d'anima sublime!</l>
+<l>O chiara o nobil mente! A te ben dritto</l>
+<l>È che si curvi riverente il vulgo,</l>
+<l>E gli oracoli attenda. Or chi fia dunque</l>
+<l>Sì temerario che in suo cor ti beffi</l>
+<l>Qualor partendo da sì begli studj</l>
+<l>Del tuo paese l'ignoranza accusi,</l>
+<l>E tenti aprir col tuo felice raggio</l>
+<l>La Gotica caligine che annosa</l>
+<l>Siede su gli occhi a le misere genti?</l>
+<l>Così non mai ti venga estranea cura</l>
+<l>Questi a troncar sì preziosi istanti</l>
+<l>In cui non meno de la docil chioma</l>
+<l>Coltivi ed orni il penetrante ingegno.</l></lg>
+<lg><l>Non pertanto avverrà, che tu sospenda</l>
+<l>Quindi a pochi momenti i cari studj,</l>
+<l>E che ad altro ti volga. A te quest'ora</l>
+<l>Condurrà il Merciajuol che in patria or torna</l>
+<l>Pronto inventor di lusinghiere fole,</l>
+<l>E liberal di forestieri nomi</l>
+<l>A merci che non mai varcàro i monti.</l>
+<l>Tu a lui credi ogni detto: e chi vuoi, ch'osi</l>
+<l>Unqua mentire ad un tuo pari in faccia?</l>
+<l>Ei fia che venda, se a te piace, o cambj</l>
+<l>Mille fregi e giojelli a cui la moda</l>
+<l>Di viver concedette un giorno intero</l>
+<l>Tra le folte d'inezie illustri tasche:</l>
+<l>Poi lieto sen andrà con l'una mano</l>
+<l>Pesante di molt'oro; e in cor giojendo,</l>
+<l>Spregerà le bestemmie imprecatrici,</l>
+<l>E il gittato lavoro, e i vani passi</l>
+<l>Del Calzolar diserto, e del Drappiere;</l>
+<l>E dirà lor: ben degna pena avete</l>
+<l>O troppo ancor religiosi servì</l>
+<l>De la Necessitade, antiqua è vero</l>
+<l>Madre e donna dell'arti, or nondimeno</l>
+<l>Fatta cenciosa e vile. Al suo possente</l>
+<l>Amabil vincitor v'era assai meglio,</l>
+<l>O miseri, ubbidire. Il Lusso il Lusso</l>
+<l>Oggi sol puote dal ferace corno</l>
+<l>Versar sull'arti a lui vassalle applausi</l>
+<l>E non contesi mai premj e dovizie.</l></lg>
+<lg><l>L'ora fia questa ancor che a te conduca</l>
+<l>Il dilicato Miniator di Belle,</l>
+<l>Ch'è de la Corte d'Amatunta e Pafo</l>
+<l>Stipendiato Ministro atto a gli affari</l>
+<l>Sollecitar dell'amorosa Dea.</l>
+<l>Impaziente or tu l'affretta e sprona</l>
+<l>Perchè a te porga il desiato avorio</l>
+<l>Che de le amate forme impresso ride,</l>
+<l>O che il pennel cortese ivi dispieghi</l>
+<l>L'alme sembianze del tuo viso ond'abbia</l>
+<l>Tacito pasco allor che te non vede</l>
+<l>La pudica d'altrui sposa a te cara;</l>
+<l>O che di lei medesma al vivo esprima</l>
+<l>L'imagin vaga; o se ti piace, ancora</l>
+<l>D'altra fiamma furtiva a te presenti</l>
+<l>Con più largo confin le amiche membra.</l></lg>
+<lg><l>Ma poi che al fine a le tue luci esposto</l>
+<l>Fia il ritratto gentil, tu cauto osserva</l>
+<l>Se bene il simulato al ver risponda,</l>
+<l>Vie più rigido assai se il tuo sembiante</l>
+<l>Esprimer denno i colorati punti</l>
+<l>Che l'arte ivi dispose. O quante mende</l>
+<l>Scorger tu vi saprai! Or brune troppo</l>
+<l>A te parran le guance; or fia ch'ecceda</l>
+<l>Mal frenata la bocca; or qual conviensi</l>
+<l>Al camuso Etiòpe il naso fia.</l>
+<l>Ti giovi ancora d'accusar sovente</l>
+<l>Il dipintor, che non atteggi industre</l>
+<l>L'agili membra e il dignitoso busto,</l>
+<l>O che con poca legge a la tua imago</l>
+<l>Dia contorno o la posi o la panneggi.</l></lg>
+<lg><l>È ver, che tu del grande di Crotone</l>
+<l>Non conosci la scuola; e mai tua mano</l>
+<l>Non abbassossi a la volgar matita</l>
+<l>Che fu nell'altra età cara a' tuoi pari</l>
+<l>Cui sconosciute ancora eran più dolci</l>
+<l>E più nobili cure a te serbate.</l>
+<l>Ma che non puote quel d'ogni precetto</l>
+<l>Gusto trionfator che all'ordin vostro</l>
+<l>In vece di maestro il Ciel concesse,</l>
+<l>Et onde a voi coniò le altere menti</l>
+<l>Acciò che possan de' volgari ingegni</l>
+<l>Oltre passar la paludosa nebbia,</l>
+<l>E d'aere più puro abitatrici</l>
+<l>Non fallibili scerre il vero e il bello?</l></lg>
+<lg><l>Perciò qual più ti par loda, riprendi</l>
+<l>Non men fermo d'allor che a scranna siedi</l>
+<l><emph>Rafael</emph> giudicando, o l'altro eguale</l>
+<l>Che del gran nome suo l'Adige onora:</l>
+<l>E a le tavole ignote i noti nomi</l>
+<l>Grave comparti di color che primi</l>
+<l>Fur tra' Pittori. Ah s'altri è sì procace</l>
+<l>Ch'osi rider di te, costui paventi</l>
+<l>L'augusta maestà del tuo cospetto,</l>
+<l>Si volga a la parete; e mentr'ei cerca</l>
+<l>Por freno in van col morder de le labbra</l>
+<l>Allo scrosciar de le importune risa</l>
+<l>Che scoppian da' precordj, violenta</l>
+<l>Convulsione a lui deformi il volto,</l>
+<l>E lo affoghi aspra tosse; e lo punisca</l>
+<l>Di sua temerità. Ma tu non pensa</l>
+<l>Ch'altri ardisca di te rider giammai;</l>
+<l>E mai sempre imperterrito decidi.</l></lg>
+<lg><l>Or l'immagin compiuta intanto serba</l>
+<l>Perchè in nobile arnese un dì si chiuda</l>
+<l>Con opposto cristallo ove tu facci</l>
+<l>Sovente paragon di tua beltade</l>
+<l>Con la beltà de la tua Dama; o agli occhi</l>
+<l>Degl'invidi la tolga, e in sen l'asconda</l>
+<l>Sagace tabacchiera, o a te riluca</l>
+<l>Sul minor dito fra le gemme e l'oro;</l>
+<l>O de le grazie del tuo viso desti</l>
+<l>Soavi rimembranze al braccio avvolta</l>
+<l>De la pudica altrui Sposa a te cara.</l></lg>
+<lg><l>Ma giunta è al fin del dotto pettin l'opra.</l>
+<l>Già il maestro elegante intorno spande</l>
+<l>Da la man scossa un polveroso nembo</l>
+<l>Onde a te innanzi tempo il crine imbianchi.</l></lg>
+<lg><l>D'orribil piato risonar s'udìo</l>
+<l>Già la corte d'Amore. I tardi veglj</l>
+<l>Grinzuti osàr coi giovani nipoti</l>
+<l>Contendere di grado in faccia al soglio</l>
+<l>Del comune Signor. Rise la fresca</l>
+<l>Gioventude animosa, e d'agri motti</l>
+<l>Libera punse la senil baldanza.</l>
+<l>Gran tumulto nascea, se non che Amore</l>
+<l>Ch'ogni diseguaglianza odia in sua corte</l>
+<l>A spegner mosse i perigliosi sdegni:</l>
+<l>E a quei che militando incanutìro</l>
+<l>Suoi servi impose d'imitar con arte</l>
+<l>I duo bei fior che in giovenile gota</l>
+<l>Educa e nutre di sua man natura:</l>
+<l>Indi fè cenno, e in un balen fur visti</l>
+<l>Mille alati ministri alto volando</l>
+<l>Scoter le piume, e lieve indi fiocconne</l>
+<l>Candida polve che a posar poi venne</l>
+<l>Su le giovani chiome; e in bianco volse</l>
+<l>Il biondo, il nero, e l'odiato rosso.</l>
+<l>L'occhio così nell'amorosa reggia</l>
+<l>Più non distinse le due opposte etadi,</l>
+<l>E solo vi restò giudice il Tatto.</l></lg>
+<lg><l>Or tu adunque, o Signor, tu che se' il primo</l>
+<l>Fregio ed onor dell'amoroso regno</l>
+<l>I sacri usi ne serba. Ecco che sparsa</l>
+<l>Pria da provvida man la bianca polve</l>
+<l>In piccolo stanzin con l'aere pugna,</l>
+<l>E degli atomi suoi tutto riempie</l>
+<l>Egualmente divisa. Or ti fa cuore,</l>
+<l>E in seno a quella vorticosa nebbia</l>
+<l>Animoso ti avventa. O bravo o forte!</l>
+<l>Tale il grand'Avo tuo tra 'l fumo e 'l foco</l>
+<l>Orribile di Marte, furiando</l>
+<l>Gittossi allor che i palpitanti Lari</l>
+<l>De la Patria difese, e ruppe e in fuga</l>
+<l>Mise l'oste feroce. Ei non pertanto</l>
+<l>Fuliginoso il volto, e d'atro sangue</l>
+<l>Asperso e di sudore, e co' capegli</l>
+<l>Stracciati ed irti da la mischia uscìo</l>
+<l>Spettacol fero a' cittadini istessi</l>
+<l>Per sua man salvi; ove tu assai più dolce</l>
+<l>E leggiadro a vedersi, in bianca spoglia</l>
+<l>Uscirai quindi a poco a bear gli occhi</l>
+<l>De la cara tua Patria a cui dell'Avo</l>
+<l>Il forte braccio, e il viso almo, celeste</l>
+<l>Del Nipote dovean portar salute.</l></lg>
+<lg><l>Ella ti attende impaziente, e mille</l>
+<l>Anni le sembra il tuo tardar poc'ore.</l>
+<l>È tempo omai che i tuoi valetti al dorso</l>
+<l>Con lieve man ti adattino le vesti</l>
+<l>Cui la moda e 'l buon gusto in su la Senna</l>
+<l>T'abbian tessute a gara, e qui cucite</l>
+<l>Abbia ricco sartor che in su lo scudo</l>
+<l>Mostri intrecciato a forbici eleganti</l>
+<l>Il titol di <foreign lang="fra">Monsieur</foreign>. Non sol dia leggi</l>
+<l>A la materia la stagion diverse;</l>
+<l>Ma sien qual si conviene al giorno e all'ora</l>
+<l>Sempre varj il lavoro e la ricchezza.</l></lg>
+<lg><l>Fero Genio di Marte a guardar posto</l>
+<l>De la stirpe de' Numi il caro fianco,</l>
+<l>Tu al mio giovane Eroe la spada or cingi</l>
+<l>Lieve e corta non già, ma, qual richiede</l>
+<l>La stagion bellicosa, al suol cadente,</l>
+<l>E di triplice taglio armata e d'elsa</l>
+<l>Immane. Quanto esser può mai sublime</l>
+<l>L'annoda pure, onde l'impugni all'uopo</l>
+<l>La furibonda destra in un momento:</l>
+<l>Nè disdegnar con le sanguigne dita</l>
+<l>Di ripulire et ordinar quel nodo</l>
+<l>Onde l'elsa è superba; industre studio</l>
+<l>È di candida mano: al mio Signore</l>
+<l>Dianzi donollo, e gliel appese al brando</l>
+<l>La pudica d'altrui sposa a lui cara.</l>
+<l>Tal del famoso Artù vide la corte</l>
+<l>Le infiammate d'amor donzelle ardite</l>
+<l>Ornar di piume e di purpuree fasce</l>
+<l>I fatati guerrieri, onde più ardenti</l>
+<l>Gisser poi questi ad incontrar periglio</l>
+<l>In selve orrende tra i giganti e i mostri.</l></lg>
+<lg><l>Figlie de la memoria inclite Suore</l>
+<l>Che invocate scendeste, e i feri nomi</l>
+<l>De le squadre diverse e degli Eroi</l>
+<l>Annoveraste ai grandi che cantàro</l>
+<l>Achille, Enea, e il non minor Buglione,</l>
+<l>Or m'è d'uopo di voi: tropp'ardua impresa,</l>
+<l>E insuperabil senza vostr'aita</l>
+<l>Fia ricordare al mio Signor di quanti</l>
+<l>Leggiadri arnesi graverà sue vesti</l>
+<l>Pria che di se medesmo esca a far pompa.</l></lg>
+<lg><l>Ma qual tra tanti e sì leggiadri arnesi</l>
+<l>Sì felice sarà che pria d'ognaltro,</l>
+<l>Signor, venga a formar tua nobil soma?</l>
+<l>Tutti importan del par. Veggo l'Astuccio</l>
+<l>Di pelle rilucente ornato e d'oro</l>
+<l>Sdegnar la turba, e gli occhi tuoi primiero</l>
+<l>Occupar di sua mole: esso a mill'uopi</l>
+<l>Opportuno si vanta, e in grembo a lui</l>
+<l>Atta agli orecchi, ai denti, ai peli, all'ugne</l>
+<l>Vien forbita famiglia. A lui contende</l>
+<l>I primi onori d'odorifer'onda</l>
+<l>Colmo Cristal che a la tua vita in forse</l>
+<l>Rechi soccorso allor che il vulgo ardisce</l>
+<l>Troppo accosto vibrar da la vil salma</l>
+<l>Fastidiosi effluvj a le tue nari.</l>
+<l>Nè men pronto di quella all'uopo istesso</l>
+<l>L'imitante un cuscin purpureo Drappo</l>
+<l>Mostra turgido il sen d'erbe odorate</l>
+<l>Che l'aprica montagna in tuo favore</l>
+<l>Al possente meriggio educa e scalda.</l>
+<l>Seco vien pur di cristallina rupe</l>
+<l>Prezioso Vasello onde traluce</l>
+<l>Non volgare confetto ove agli aromi</l>
+<l>Stimolanti s'unìo l'ambra o la terra,</l>
+<l>Che il Giappon manda a profumar de' Grandi</l>
+<l>L'etereo fiato; o quel che il Caramano</l>
+<l>Fa gemer Latte dall'inciso capo</l>
+<l>De' papaveri suoi perchè, qualora</l>
+<l>Non ben felice amor l'alma t'attrista,</l>
+<l>Lene serpendo per le membra, acqueti</l>
+<l>A te gli spirti, e ne la mente induca</l>
+<l>Lieta stupidità che mille aduni</l>
+<l>Imagin dolci e al tuo desìo conformi.</l>
+<l>A questi arnesi il Cannocchiale aggiugni,</l>
+<l>E la guernita d'oro anglica Lente.</l>
+<l>Quel notturno favor ti presti allora</l>
+<l>Che in teatro t'assidi, e t'avvicini</l>
+<l>Gli snelli piedi e le canore labbra</l>
+<l>Da la scena rimota, o con maligno</l>
+<l>Occhio ricerchi di qualch'alta loggia</l>
+<l>Le abitate tenebre, o miri altrove</l>
+<l>Gli ognor nascenti e moribondi amori</l>
+<l>De le tenere Dame onde s'appresti</l>
+<l>Per l'eloquenza tua nel dì vicino</l>
+<l>Lunga e grave materia. A te la Lente</l>
+<l>Nel giorno assista, e de gli sguardi tuoi</l>
+<l>Economa presieda, e sì li parta,</l>
+<l>Che il mirato da te vada superbo,</l>
+<l>Nè i malvisti accusarti osin giammai.</l>
+<l>La Lente ancora all'occhio tuo vicina</l>
+<l>Irrefragabil giudice condanni</l>
+<l>O approvi di <emph>Paladio</emph> i muri e gli archi</l>
+<l>O di <emph>Tizian</emph> le tele: essa a le vesti,</l>
+<l>Ai libri, ai volti feminili applauda</l>
+<l>Severa o li dispregi. E chi del senso</l>
+<l>Comun sì privo fia che opporsi unquanco</l>
+<l>Osi al sentenziar de la tua Lente?</l>
+<l>Non per questi però sdegna, o Signore,</l>
+<l>Giunto a lo specchio, in gallico sermone</l>
+<l>Il vezzoso Giornal; non le notate</l>
+<l>Eburnee Tavolette a guardar preste</l>
+<l>Tuoi sublimi pensier fin ch'abbian luce</l>
+<l>Doman tra i begli spirti; e non isdegna</l>
+<l>La picciola Guaina ove a' tuoi cenni</l>
+<l>Mille stan pronti ognora argentei spilli.</l>
+<l>O quante volte a cavalier sagace</l>
+<l>Ho vedut'io le man render beate</l>
+<l>Uno apprestato a tempo unico spillo!</l>
+<l>Ma dove, ahi dove inonorato e solo</l>
+<l>Lasci 'l Coltello a cui l'oro e l'acciaro</l>
+<l>Donàr gemina lama, e a cui la madre</l>
+<l>De la gemma più bella d'Anfitrte</l>
+<l>Diè manico elegante ove il colore</l>
+<l>Con dolce variar l'iride imita?</l>
+<l>Opra sol fia di lui se ne' superbi</l>
+<l>Convivj ognaltro avanzerai per fama</l>
+<l>D'esimio Trinciatore, e se l'invidia</l>
+<l>De' tuoi gran pari ecciterai qualora,</l>
+<l>Pollo o fagian con la forcina in alto</l>
+<l>Sospeso, a un colpo il priverai dell'anca</l>
+<l>Mirabilmente. Or ti ricolmi alfine</l>
+<l>D'ambo i lati la giubba, ed oleosa</l>
+<l>Spagna e Rapè cui semplice Origuela</l>
+<l>Chiuda, o a molti colori oro dipinto;</l>
+<l>E cupide ad ornar tue bianche dita</l>
+<l>Salgan le anella in fra le quali assai</l>
+<l>Più caro a te dell'adamante istesso</l>
+<l>Cerchietto inciso d'amorosi motti</l>
+<l>Stringati alquanto, e sovvenir ti faccia</l>
+<l>De la pudica altrui Sposa a te cara.</l></lg>
+<lg><l>Compiuto è il gran lavoro. Odi, o Signore,</l>
+<l>Sonar già intorno la ferrata zampa</l>
+<l>De' superbi corsier che irrequieti</l>
+<l>Ne' grand'atrj sospigne arretra e volge</l>
+<l>La disciplina dell'ardito auriga.</l>
+<l>Sorgi, e t'appresta a render baldi e lieti</l>
+<l>Del tuo nobile incarco i bruti ancora.</l>
+<l>Ma a possente Signor scender non lice</l>
+<l>Da le stanze superne infin che al gelo,</l>
+<l>O al meriggio non abbia il cocchier stanco</l>
+<l>Durato un pezzo, onde l'uom servo intenda</l>
+<l>Per quanto immensa via natura il parta</l>
+<l>Dal suo Signore. I miei precetti intanto</l>
+<l>Io seguirò; che varie al tuo mattino</l>
+<l>Portar dee cure il variar dei giorni.</l></lg>
+<lg><l>Tal dì ti aspetta d'eloquenti fogli</l>
+<l>Serie a vergar, che al Rodano, al Lemano</l>
+<l>All'Amstel, al Tirreno, all'Adria legga</l>
+<l>Il Librajo che Momo, e Citerea</l>
+<l>Colmàr di beni, o il più di lui possente</l>
+<l>Appaltator di forestiere scene</l>
+<l>Con cui per opra tua facil donzella</l>
+<l>Sua virtù merchi, e non sperato ottenga</l>
+<l>Guiderdone al suo canto. O di grand'alma</l>
+<l>Primo fregio ed onor Beneficenza</l>
+<l>Che al merto porgi, ed a virtù la mano!</l>
+<l>Tu il ricco e il grande sopra il vulgo innalzi,</l>
+<l>Ed al concilio de gli Dei lo aggiugni.</l></lg>
+<lg><l>Tal giorno ancora, o d'ogni giorno forse</l>
+<l>Den qualch'ore serbarsi al molle ferro</l>
+<l>Che il pelo a te rigermogliante a pena</l>
+<l>D'in su la guancia miete, e par che invidj,</l>
+<l>Ch'altri fuor che lui solo esplori o scopra</l>
+<l>Unqua il tuo sesso. Arroge a questi il giorno</l>
+<l>Che di lavacro universal convienti</l>
+<l>Bagnar le membra, per tua propria mano,</l>
+<l>O per altrui con odorose spugne</l>
+<l>Trascorrendo la cute. È ver che allora</l>
+<l>D'esser mortal ti sembrerà; ma innalza</l>
+<l>Tu allor la mente, e de' grand'avi tuoi</l>
+<l>Le imprese ti rimembra e gli ozj illustri</l>
+<l>Che insino a te per secoli cotanti</l>
+<l>Misti scesero al chiaro altero sangue,</l>
+<l>E l'ubbioso pensier vedrai fuggirsi</l>
+<l>Lunge da te per l'aere rapito</l>
+<l>Su l'ale de la Gloria alto volanti;</l>
+<l>Et indi a poco sorgerai qual prima</l>
+<l>Gran Semidèo che a sè solo somiglia.</l>
+<l>Fama è così, che il dì quinto le Fate</l>
+<l>Loro salma immortal vedean coprirsi</l>
+<l>Già d'orribili scaglie, e in feda serpe</l>
+<l>Volta strisciar sul suolo a sè facendo</l>
+<l>De le inarcate spire impeto e forza;</l>
+<l>Ma il primo sol le rivedea più belle</l>
+<l>Far beati gli amanti, e a un volger d'occhi</l>
+<l>Mescere a voglia lor la terra e il mare.</l></lg>
+<lg><l>Fia d'uopo ancor, che da le lunghe cure</l>
+<l>T'allevj alquanto, e con pietosa mano</l>
+<l>Il teso per gran tempo arco rallenti.</l>
+<l>Signore, al Ciel non è più cara cosa</l>
+<l>Di tua salute: e troppo a noi mortali</l>
+<l>È il viver de' tuoi pari util tesoro.</l>
+<l>Tu adunque allor che placida mattina</l>
+<l>Vestita riderà d'un bel sereno</l>
+<l>Esci pedestre, e le abbattute membra</l>
+<l>All'aura salutar snoda e rinfranca.</l>
+<l>Di nobil cuojo a te la gamba calzi</l>
+<l>Purpureo stivaletto, onde il tuo piede</l>
+<l>Non macchino giammai la polve e 'l limo,</l>
+<l>Che l'uom calpesta. A te s'avvolga intorno</l>
+<l>Leggiadra veste che sul dorso sciolta</l>
+<l>Vada ondeggiando, e tue formose braccia</l>
+<l>Leghi in manica angusta a cui vermiglio</l>
+<l>O cilestro velluto orni gli estremi.</l>
+<l>Del bel color che l'elitropio tigne</l>
+<l>Sottilissima benda indi ti fasci</l>
+<l>La snella gola: E il crin... Ma il crin, Signore,</l>
+<l>Forma non abbia ancor da la man dotta</l>
+<l>Dell'artefice suo; che troppo fora,</l>
+<l>Ahi! troppo grave error lasciar tant'opra</l>
+<l>De le licenziose aure in balìa.</l>
+<l>Non senz'arte però vada negletto</l>
+<l>Su gli omeri a cader; ma, o che natura</l>
+<l>A te il nodrisca, o che da ignota fronte</l>
+<l>Il più famoso parrucchier lo tolga,</l>
+<l>E l'adatti al tuo capo, in sul tuo capo</l>
+<l>Ripiegato l'afferri e lo sospenda</l>
+<l>Con testugginei denti il pettin curvo.</l></lg>
+<lg><l>Poi che in tal guisa te medesmo ornato</l>
+<l>Con artificio negligente avrai,</l>
+<l>Esci pedestre a respirar talvolta</l>
+<l>L'aere mattutino; e ad alta canna</l>
+<l>Appoggiando la man, quasi baleno</l>
+<l>Le vie trascorri, e premi ed urta il volgo</l>
+<l>Che s'oppone al tuo corso. In altra guisa</l>
+<l>Fora colpa l'uscir, però che andrièno</l>
+<l>Mal distinti dal vulgo i primi eroi.</l></lg>
+<lg><l>Ciò ti basti per or. Già l'oriolo</l>
+<l>A girtene ti affretta. Ohimè che vago</l>
+<l>Arsenal minutissimo di cose</l>
+<l>Ciondola quindi, e ripercosso insieme</l>
+<l>Molce con soavissimo tintinno!</l>
+<l>Di costì che non pende? avvi per fino</l>
+<l>Piccioli cocchi e piccioli destrieri</l>
+<l>Finti in oro così, che sembran vivi.</l>
+<l>Ma v'hai tu il meglio? ah sì, che i miei precetti</l>
+<l>Sagace prevenisti: ecco che splende</l>
+<l>Chiuso in picciol cristallo il dolce Pegno</l>
+<l>Di fortunato amor. Lunge o profani,</l>
+<l>Che a voi tant'oltre penetrar non lice.</l>
+<l>E voi dell'altro secolo feroci,</l>
+<l>Ed ispid'avi i vostri almi nipoti</l>
+<l>Venite oggi a mirar. Co' sanguinosi</l>
+<l>Pugnali a lato le campestri rocche</l>
+<l>Voi godeste abitar, truci all'aspetto,</l>
+<l>E per gran baffi rigidi la guancia</l>
+<l>Consultando gli sgherri, e sol giojendo</l>
+<l>Di trattar l'arme che d'orribil palla</l>
+<l>Givan notturne a traforar le porte</l>
+<l>Del non meno di voi rivale armato.</l>
+<l>Ma i vostri almi nipoti oggi si stanno</l>
+<l>Ad agitar fra le tranquille dita</l>
+<l>Dell'oriolo i ciondoli vezzosi;</l>
+<l>Ed opra è lor se all'innocenza antica</l>
+<l>Torna pur anco, e bamboleggia il mondo.</l></lg>
+<lg><l>Or vanne, o mio Signore, e il pranzo allegra</l>
+<l>De la tua Dama: a lei dolce ministro</l>
+<l>Dispensa i cibi, e detta al suo palato</l>
+<l>E a la sua fame inviolabil legge.</l>
+<l>Ma tu non obliar, che in nulla cosa</l>
+<l>Esser mediocre a gran Signor non lice:</l>
+<l>Abbia il popol confini; a voi natura</l>
+<l>Donò senza confini e mente, e cuore.</l>
+<l>Dunque a la mensa, o tu schifo rifuggi</l>
+<l>Ogni vivanda, e te medesmo rendi</l>
+<l>Per inedia famoso, o nome acquista</l>
+<l>D'illustre voratore. Intanto addio</l>
+<l>Degli uomini delizia, e di tua stirpe,</l>
+<l>E de la patria tua gloria e sostegno.</l>
+<l>Ecco che umìli in bipartita schiera</l>
+<l>T'accolgono i tuoi servi: altri già pronto</l>
+<l>Via se ne corre ad annunciare al mondo,</l>
+<l>Che tu vieni a bearlo; altri a le braccia</l>
+<l>Timido ti sostien mentre il dorato</l>
+<l>Cocchio tu sali, e tacito, e severo</l>
+<l>Sur un canto ti sdrai. Apriti o vulgo,</l>
+<l>E cedi il passo al trono ove s'asside</l>
+<l>Il mio Signore: ahi te meschin s'ei perde</l>
+<l>Un sol per te de' preziosi istanti.</l>
+<l>Temi 'l non mai da legge, o verga, o fune</l>
+<l>Domabile cocchier, temi le rote,</l>
+<l>Che già più volte le tue membra in giro</l>
+<l>Avvolser seco, e del tuo impuro sangue</l>
+<l>Corser macchiate, e il suol di lunga striscia,</l>
+<l>Spettacol miserabile! segnàro.</l>
+</lg>
+</div1>
+<div1 type="part">
+<head>Mezzogiorno</head>
+<lg><l>Ardirò ancor tra i desinari illustri</l>
+<l>Sul Meriggio innoltrarmi umil Cantore,</l>
+<l>Poichè troppa di te cura mi punge,</l>
+<l>Signor, ch'io spero un dì veder maestro</l>
+<l>E dittator di graziosi modi</l>
+<l>All'alma gioventù che Italia onora.</l></lg>
+<lg><l>Tal fra le tazze e i coronati vini,</l>
+<l>Onde all'ospite suo fe' lieta pompa</l>
+<l>La Punica Regina, i canti alzava</l>
+<l>Jopa crinito: e la Regina intanto</l>
+<l>Da' begli occhi stranieri iva beendo</l>
+<l>L'oblivion del misero Sichèo.</l>
+<l>E tale allor che l'orba Itaca in vano</l>
+<l>Chiedea a Nettun la prole di Laerte,</l>
+<l>Femio s'udìa co' versi e con la cetra</l>
+<l>La facil mensa rallegrar de' Proci</l>
+<l>Cui dell'errante Ulisse i pingui agnelli</l>
+<l>E i petrosi licori, e la consorte</l>
+<l>Invitavano al pranzo. Amici or piega,</l>
+<l>Giovin Signore, al mio cantar gli orecchi</l>
+<l>Or che tra nuove Elise, e novi Proci,</l>
+<l>E tra fedeli ancor Penelopèe,</l>
+<l>Ti guidano a la mensa i versi miei.</l></lg>
+<lg><l>Già dal meriggio ardente il sol fuggendo</l>
+<l>Verge all'occaso: e i piccioli mortali</l>
+<l>Dominati dal tempo escon di novo</l>
+<l>A popolar le vie ch'all'oriente</l>
+<l>Volgon ombra già grande: a te null'altro</l>
+<l>Dominator fuor che te stesso è dato.</l></lg>
+<lg><l>Alfin di consigliarsi al fido speglio</l>
+<l>La tua Dama cessò. Quante uopo è volte</l>
+<l>Chiedette, e rimandò novelli ornati;</l>
+<l>Quante convien de le agitate ognora</l>
+<l>Damigelle or con vezzi or con garriti</l>
+<l>Rovesciò la fortuna; a se medesma</l>
+<l>Quante volte convien piacque e dispiacque;</l>
+<l>E quante volte è d'uopo a sè ragione</l>
+<l>Fece, e a' suoi lodatori. I mille intorno</l>
+<l>Dispersi arnesi alfin raccolse in uno</l>
+<l>La consapevol del suo cor ministra;</l>
+<l>Alfin velata d'un leggier zendado</l>
+<l>È l'ara tutelar di sua beltate;</l>
+<l>E la seggiola sacra, un po' rimossa,</l>
+<l>Languidetta l'accoglie. Intorno ad essa</l>
+<l>Pochi giovani eroi van rimembrando</l>
+<l>I cari lacci altrui, mentre da lungi</l>
+<l>Ad altra intorno i cari lacci vostri</l>
+<l>Pochi giovani eroi van rimembrando.</l></lg>
+<lg><l>Il marito gentil queto sorride</l>
+<l>A le lor celie; o s'ei si cruccia alquanto,</l>
+<l>Del tuo lungo tardar solo si cruccia.</l>
+<l>Nulla però di lui cura te prenda</l>
+<l>Oggi, o Signore, e s'egli a par del vulgo</l>
+<l>Prostrò l'anima imbelle, e non sdegnosse</l>
+<l>Di chiamarsi marito, a par del vulgo</l>
+<l>Senta la fame esercitargl'in petto</l>
+<l>Lo stimol fier degli oziosi sughi</l>
+<l>Avidi d'esca: o s'a un marito alcuna</l>
+<l>D'anima generosa orma rimane,</l>
+<l>Ad altra mensa il piè rivolga; e d'altra</l>
+<l>Dama al fianco s'assida il cui marito</l>
+<l>Pranzi altrove lontan d'un'altra a lato</l>
+<l>Ch'abbia lungi lo sposo: e così nuove</l>
+<l>Anella intrecci a la catena immensa</l>
+<l>Onde, alternando, Amor l'anime annoda.</l></lg>
+<lg><l>Ma sia che vuol, tu baldanzoso innoltra</l>
+<l>Ne le stanze più interne: ecco precorre</l>
+<l>Per annunciarti al gabinetto estremo</l>
+<l>Il noto stropiccìo de' piedi tuoi.</l>
+<l>Già lo Sposo t'incontra. In un baleno</l>
+<l>Sfugge dall'altrui man l'accorta mano</l>
+<l>De la tua Dama: e il suo bel labbro intanto</l>
+<l>T'apparecchia un sorriso. Ognun s'arretra</l>
+<l>Che conosce i tuoi dritti, e si conforta</l>
+<l>Con le adulte speranze a te lasciando</l>
+<l>Libero e scarco il più beato seggio.</l>
+<l>Tal colà dove infra gelose mura</l>
+<l>Bizanzio ed Ispaàn guardano il fiore</l>
+<l>De la beltà che il popolato Egèo</l>
+<l>Manda, e l'Armeno, e il Tartaro, e il Circasso</l>
+<l>Per delizia d'un solo, a bear entra</l>
+<l>L'ardente sposa il grave Munsulmano.</l>
+<l>Tra 'l maestoso passeggiar gli ondeggiano</l>
+<l>Le late spalle, e sopra l'alta testa</l>
+<l>Le avvolte fasce: dall'arcato ciglio</l>
+<l>Ei volge intorno imperioso il guardo;</l>
+<l>E vede al su' apparire umil chinarsi,</l>
+<l>E il piè ritrar l'effeminata, occhiuta</l>
+<l>Turba, che sorridendo egli dispregia.</l></lg>
+<lg><l>Ora imponi, o Signor, che tutte a schiera</l>
+<l>Si dispongan tue grazie; e a la tua Dama</l>
+<l>Quanto elegante esser più puoi ti mostra.</l>
+<l>Tengasi al fianco la sinistra mano</l>
+<l>Sotto il breve giubbon celata; e l'altra</l>
+<l>Sul finissimo lin posi, e s'asconda</l>
+<l>Vicino al cor: sublime alzisi 'l petto,</l>
+<l>Sorgan gli omeri entrambi, e verso lei</l>
+<l>Piega il duttile collo; ai lati stringi</l>
+<l>Le labbra un poco; ver lo mezzo acute</l>
+<l>Rendile alquanto, e da la bocca poi</l>
+<l>Compendiata in guisa tal sen esca</l>
+<l>Un non inteso mormorìo. La destra</l>
+<l>Ella intanto ti porga: e molle caschi</l>
+<l>Sopra i tiepidi avorj un doppio bacio.</l>
+<l>Siedi tu poscia; e d'una man trascina</l>
+<l>Più presso a lei la seggioletta. Ognuno</l>
+<l>Tacciasi; ma tu sol curvato alquanto</l>
+<l>Seco susurra ignoti detti a cui</l>
+<l>Concordin vicendevoli sorrisi,</l>
+<l>E sfavillar di cupidette luci</l>
+<l>Che amor dimostri, o che lo finga almeno.</l></lg>
+<lg><l>Ma rimembra, o Signor, che troppo nuoce</l>
+<l>Negli amorosi cor lunga e ostinata</l>
+<l>Tranquillità. Su l'oceàno ancora</l>
+<l>Perigliosa è la calma: oh quante volte</l>
+<l>Dall'immobile prora il buon nocchiere</l>
+<l>Invocò la tempesta! e sì crudele</l>
+<l>Soccorso ancor gli fu negato; e giacque</l>
+<l>Affamato assetato estenuato</l>
+<l>Dal velenoso aere stagnante oppresso</l>
+<l>Tra l'inutile ciurma al suol languendo.</l>
+<l>Però ti giovi de la scorsa notte</l>
+<l>Ricordar le vicende; e con obliqui</l>
+<l>Motti pungerl'alquanto, o se nel volto</l>
+<l>Paga più che non suole accor fu vista</l>
+<l>Il novello straniere; e co' bei labbri</l>
+<l>Semiaperti aspettar, quasi marina</l>
+<l>Conca, la soavissima rugiada</l>
+<l>De' novi accenti: o se cupida troppo</l>
+<l>Col guardo accompagnò di loggia in loggia</l>
+<l>Il seguace di Marte, idol vegliante</l>
+<l>De' feminili voti, a la cui chioma</l>
+<l>Col lauro trionfal s'avvolgon mille</l>
+<l>E mille frondi dell'Idalio mirto.</l></lg>
+<lg><l>Colpevole o innocente allor la bella</l>
+<l>Dama improviso adombrerà la fronte</l>
+<l>D'un nuvoletto di verace sdegno</l>
+<l>O simulato; e la nevosa spalla</l>
+<l>Scoterà un poco; e premerà col dente</l>
+<l>L'infimo labbro: e volgeransi alfine</l>
+<l>Gli altri a bear le sue parole estreme.</l>
+<l>Fors'anco rintuzzar di tue querele</l>
+<l>Saprà l'agrezza; e sovvenir faratti</l>
+<l>Le visite furtive ai tetti, ai cocchi</l>
+<l>Ed a le logge de le mogli illustri</l>
+<l>Di ricchi cittadini a cui sovente,</l>
+<l>Per calle che il piacer mostra, piegarsi</l>
+<l>La maestà di cavalier non sdegna.</l></lg>
+<lg><l>Felice te, se mesta e disdegnosa</l>
+<l>La conduci a la mensa; e s'ivi puoi</l>
+<l>Solo piegarla a comportar de' cibi</l>
+<l>La nausea universal. Sorridan pure</l>
+<l>A le vostre dolcissime querele</l>
+<l>I convitati; e l'un l'altro percota</l>
+<l>Col gomito maligno: ah nondimeno</l>
+<l>Come fremon lor alme; e quanta invidia</l>
+<l>Ti portan, te veggendo unico scopo</l>
+<l>Di sì bell'ire! Al solo Sposo è dato</l>
+<l>Nodrir nel cor magnanima quiete,</l>
+<l>Mostrar nel volto ingenuo riso, e tanto</l>
+<l>Docil fidanza ne le innocue luci.</l></lg>
+<lg><l>O tre fiate avventurosi e quattro</l>
+<l>Voi del nostro buon secolo mariti</l>
+<l>Quanto diversi da' vostr'avi! Un tempo</l>
+<l>Uscìa d'Averno con viperei crini,</l>
+<l>Con torbid'occhi irrequieti, e fredde</l>
+<l>Tenaci branche un indomabil mostro</l>
+<l>Che ansando e anelando intorno giva</l>
+<l>Ai nuziali letti; e tutto empiea</l>
+<l>Di sospetto e di fremito e di sangue.</l>
+<l>Allor gli antri domestici, le selve,</l>
+<l>L'onde, le rupi alto ulular s'udièno</l>
+<l>Di feminili strida: allor le belle</l>
+<l>Dame con mani incrocicchiate, e luci</l>
+<l>Pavide al ciel, tremando lagrimando,</l>
+<l>Tra la pompa feral de le lugubri</l>
+<l>Sale vedean dal truce sposo offrirsi</l>
+<l>Le tazze attossicate o i nudi stili.</l>
+<l>Ahi pazza Italia! Il tuo furor medesmo</l>
+<l>Oltre l'alpi, oltre 'l mar destò le risa</l>
+<l>Presso agli emoli tuoi che di gelosa</l>
+<l>Titol ti diero; e t'è serbato ancora</l>
+<l>Ingiustamente. Non di cieco amore</l>
+<l>Vicendevol desire, alterno impulso,</l>
+<l>Non di costume simiglianza or guida</l>
+<l>Gl'incauti sposi al talamo bramato</l>
+<l>Ma la Prudenza coi canuti padri</l>
+<l>Siede librando il molt'oro, e i divini</l>
+<l>Antiquissimi sangui: e allor che l'uno</l>
+<l>Bene all'altro risponde, ecco Imenèo</l>
+<l>Scoter sua face; e unirsi al freddo sposo,</l>
+<l>Di lui non già, ma de le nozze amante</l>
+<l>La freddissima vergine che in core</l>
+<l>Già volge i riti del Bel Mondo; e lieta</l>
+<l>L'indifferenza maritale affronta.</l>
+<l>Così non fien de la crudel Megera</l>
+<l>Più temuti gli sdegni. Oltre Pirene</l>
+<l>Contenda or pur le desiate porte</l>
+<l>Ai gravi amanti; e di feminee risse</l>
+<l>Turbi Oriente: Italia oggi si ride</l>
+<l>Di quello ond'era già derisa; tanto</l>
+<l>Puote una sola età volger le menti.</l></lg>
+<lg><l>Ma già rimbomba d'una in altra sala</l>
+<l>Il tuo nome, o Signor; di già l'udìro</l>
+<l>L'ime officine ove al volubil tatto</l>
+<l>Degl'ingenui palati arduo s'appresta</l>
+<l>Solletico che molle i nervi scota,</l>
+<l>E varia seco voluttà conduca</l>
+<l>Fino al core dell'alma. In bianche spoglie</l>
+<l>S'affrettano a compir la nobil opra</l>
+<l>Prodi ministri: e lor sue leggi detta</l>
+<l>Una gran mente del paese uscita</l>
+<l>Ove Colbert, e Richelieu fur chiari.</l>
+<l>Forse con tanta maestade in fronte</l>
+<l>Presso a le navi ond'Ilio arse e cadèo,</l>
+<l>Per gli ospiti famosi il grande Achille</l>
+<l>Disegnava la cena: e seco intanto</l>
+<l>Le vivande cocean sui lenti fochi</l>
+<l>Pàtroclo fido, e il guidator di carri</l>
+<l>Automedonte. O tu sagace mastro</l>
+<l>Di lusinghe al palato udrai fra poco</l>
+<l>Sonar le lodi tue dall'alta mensa.</l>
+<l>Chi fia che ardisca di trovar pur macchia</l>
+<l>Nel tuo lavoro? Il tuo Signor farassi</l>
+<l>Campion de le tue glorie; e male a quanti</l>
+<l>Cercator di conviti oseran motto</l>
+<l>Pronunciar contro te; chè sul cocente</l>
+<l>Meriggio andran peregrinando poi</l>
+<l>Miseri e stanchi, e non avran cui piaccia</l>
+<l>Più popolar con le lor bocche i pranzi.</l></lg>
+<lg><l>Imbandita è la mensa. In piè d'un salto</l>
+<l>Alzati e porgi, almo Signor, la mano</l>
+<l>A la tua Dama; e lei dolce cadente</l>
+<l>Sopra di te col tuo valor sostieni,</l>
+<l>E al pranzo l'accompagna. I convitati</l>
+<l>Vengan dopo di voi; quindi 'l marito</l>
+<l>Ultimo segua. O prole alta di numi</l>
+<l>Non vergognate di donar voi anco</l>
+<l>Pochi momenti al cibo: in voi non fia</l>
+<l>Vil opra il pasto; a quei soltanto è vile,</l>
+<l>Che il duro irresistibile bisogno</l>
+<l>Stimola e caccia. All'impeto di quello</l>
+<l>Cedan l'orso, la tigre, il falco, il nibbio,</l>
+<l>L'orca, il delfino, e quant'altri mortali</l>
+<l>Vivon quaggiù; ma voi con rosee labbra</l>
+<l>La sola Voluttade inviti al pasto,</l>
+<l>La sola Voluttà che le celesti</l>
+<l>Mense imbandisce, e al nèttare convita</l>
+<l>I viventi per sè Dei sempiterni.</l></lg>
+<lg><l>Forse vero non è; ma un giorno è fama,</l>
+<l>Che fur gli uomini eguali; e ignoti nomi</l>
+<l>Fur Plebe, e Nobiltade. Al cibo, al bere,</l>
+<l>All'accoppiarsi d'ambo i sessi, al sonno</l>
+<l>Un istinto medesmo, un'egual forza</l>
+<l>Sospingeva gli umani: e niun consiglio</l>
+<l>Niuna scelta d'obbietti o lochi o tempi</l>
+<l>Era lor conceduta. A un rivo stesso,</l>
+<l>A un medesimo frutto, a una stess'ombra</l>
+<l>Convenivano insieme i primi padri</l>
+<l>Del tuo sangue, o Signore, e i primi padri</l>
+<l>De la plebe spregiata. I medesm'antri</l>
+<l>Il medesimo suolo offrieno loro</l>
+<l>Il riposo, e l'albergo; e a le lor membra</l>
+<l>I medesmi animai le irsute vesti.</l>
+<l>Sol'una cura a tutti era comune</l>
+<l>Di sfuggire il dolore, e ignota cosa</l>
+<l>Era il desire agli uman petti ancora.</l></lg>
+<lg><l>L'uniforme degli uomini sembianza</l>
+<l>Spiacque a' Celesti: e a variar la Terra</l>
+<l>Fu spedito il Piacer. Quale già i numi</l>
+<l>D'Ilio sui campi, tal l'amico Genio,</l>
+<l>Lieve lieve per l'aere labendo</l>
+<l>S'avvicina a la Terra; e questa ride</l>
+<l>Di riso ancor non conosciuto. Ei move,</l>
+<l>E l'aura estiva del cadente rivo,</l>
+<l>E dei clivi odorosi a lui blandisce</l>
+<l>Le vaghe membra, e lentamente sdrucciola</l>
+<l>Sul tondeggiar dei muscoli gentile.</l>
+<l>Gli s'aggiran d'intorno i Vezzi e i Giochi,</l>
+<l>E come ambrosia, le lusinghe scorrongli</l>
+<l>Da le fraghe del labbro: e da le luci</l>
+<l>Socchiuse, languidette, umide fuori</l>
+<l>Di tremulo fulgore escon scintille</l>
+<l>Ond'arde l'aere che scendendo ei varca.</l></lg>
+<lg><l>Alfin sul dorso tuo sentisti, o Terra,</l>
+<l>Sua prim'orma stamparsi; e tosto un lento</l>
+<l>Fremere soavissimo si sparse</l>
+<l>Di cosa in cosa; e ognor crescendo, tutte</l>
+<l>Di natura le viscere commosse:</l>
+<l>Come nell'arsa state il tuono s'ode</l>
+<l>Che di lontano mormorando viene;</l>
+<l>E col profondo suon di monte in monte</l>
+<l>Sorge; e la valle, e la foresta intorno</l>
+<l>Mugon del fragoroso alto rimbombo,</l>
+<l>Finchè poi cade la feconda pioggia</l>
+<l>Che gli uomini e le fere e i fiori e l'erbe</l>
+<l>Ravviva riconforta allegra e abbella.</l></lg>
+<lg><l>Oh beati tra gli altri, oh cari al cielo</l>
+<l>Viventi a cui con miglior man Titano</l>
+<l>Formò gli organi illustri, e meglio tese,</l>
+<l>E di fluido agilissimo inondolli!</l>
+<l>Voi l'ignoto solletico sentiste</l>
+<l>Del celeste motore. In voi ben tosto</l>
+<l>Le voglie fermentàr, nacque il desio.</l>
+<l>Voi primieri scopriste il buono, il meglio;</l>
+<l>E con foga dolcissima correste</l>
+<l>A possederli. Allor quel de' due sessi,</l>
+<l>Che necessario in prima era soltanto,</l>
+<l>D'amabile, e di bello il nome ottenne.</l>
+<l>Al giudizio di Paride voi deste</l>
+<l>Il primo esempio: tra feminei volti</l>
+<l>A distinguer s'apprese; e voi sentiste</l>
+<l>Primamente le grazie. A voi tra mille</l>
+<l>Sapor fur noti i più soavi: allora</l>
+<l>Fu il vin preposto all'onda; e il vin s'elesse</l>
+<l>Figlio de' tralci più riarsi, e posti</l>
+<l>A più fervido sol, ne' più sublimi</l>
+<l>Colli dove più zolfo il suolo impingua.</l>
+<l>Così l'Uom si divise: e fu il Signore</l>
+<l>Dai Volgari distinto a cui nel seno</l>
+<l>Troppo languìr l'ebeti fibre, inette</l>
+<l>A rimbalzar sotto i soavi colpi</l>
+<l>De la nova cagione onde fur tocche:</l>
+<l>E quasi bovi, al suol curvati ancora</l>
+<l>Dinanzi al pungol del bisogno andàro;</l>
+<l>E tra la servitute, e la viltade,</l>
+<l>E 'l travaglio, e l'inopia a viver nati,</l>
+<l>Ebber nome di Plebe. Or tu Signore</l>
+<l>Che feltrato per mille invitte reni</l>
+<l>Sangue racchiudi, poichè in altra etade</l>
+<l>Arte, forza, o fortuna i padri tuoi</l>
+<l>Grandi rendette, poichè il tempo alfine</l>
+<l>Lor divisi tesori in te raccolse,</l>
+<l>Del tuo senso gioisci, a te dai numi</l>
+<l>Concessa parte: e l'umil vulgo intanto</l>
+<l>Dell'industria donato, ora ministri</l>
+<l>A te i piaceri tuoi nato a recarli</l>
+<l>Su la mensa real, non a gioirne.</l></lg>
+<lg><l>Ecco la Dama tua s'asside al desco:</l>
+<l>Tu la man le abbandona; e mentre il servo</l>
+<l>La seggiola avanzando, all'agil fianco</l>
+<l>La sottopon, sì che lontana troppo</l>
+<l>Ella non sia, nè da vicin col petto</l>
+<l>Prema troppo la mensa, un picciol salto</l>
+<l>Spicca, e chino raccogli a lei del lembo</l>
+<l>Il diffuso volume. A lato poscia</l>
+<l>Di lei tu siedi: a cavalier gentile</l>
+<l>Il fianco abbandonar de la sua Dama</l>
+<l>Non fia lecito mai, se già non sorge</l>
+<l>Strana cagione a meritar, ch'egli usi</l>
+<l>Tanta licenza. Un Nume ebber gli antichi</l>
+<l>Immobil sempre, e ch'allo stesso padre</l>
+<l>Degli Dei non cedette, allor ch'ei venne</l>
+<l>Il Campidoglio ad abitar, sebbene</l>
+<l>E Giuno e Febo e Venere e Gradivo</l>
+<l>E tutti gli altri Dei da le lor sedi</l>
+<l>Per riverenza del Tonante uscìro.</l></lg>
+<lg><l>Indistinto ad ognaltro il loco sia</l>
+<l>Presso al nobile desco: e s'alcun arde</l>
+<l>Ambizioso di brillar fra gli altri,</l>
+<l>Brilli altramente. Oh come i varj ingegni</l>
+<l>La libertà del genial convito</l>
+<l>Desta ed infiamma! Ivi il gentil Motteggio,</l>
+<l>Maliziosetto svolazzando intorno,</l>
+<l>Reca su l'ali fuggitive ed agita</l>
+<l>Ora i raccolti da la fama errori</l>
+<l>De le belle lontane, ora d'amante</l>
+<l>O di marito i semplici costumi:</l>
+<l>E gode di mirare il queto sposo</l>
+<l>Rider primiero, e di crucciar con lievi</l>
+<l>Minacce in cor de la sua fida sposa</l>
+<l>I timidi segreti. Ivi abbracciata</l>
+<l>Co' festivi Racconti intorno gira</l>
+<l>L'elegante Licenza: or nuda appare</l>
+<l>Come le Grazie; or con leggiadro velo</l>
+<l>Solletica vie meglio; e s'affatica</l>
+<l>Di richiamar de le matrone al volto</l>
+<l>Quella rosa gentil che fu già un tempo</l>
+<l>Onor di belle donne, all'Amor cara</l>
+<l>E cara all'Onestade; ora ne' campi</l>
+<l>Cresce solinga, e tra i selvaggi scherzi</l>
+<l>A le rozze villane il viso adorna.</l></lg>
+<lg><l>Già s'avanza la mensa. In mille guise</l>
+<l>E di mille sapor, di color mille</l>
+<l>La variata eredità degli avi</l>
+<l>Scherza ne' piatti; e giust'ordine serba.</l>
+<l>Forse a la Dama di sua man le dapi</l>
+<l>Piacerà ministrar, che novo pregio</l>
+<l>Acquisteran da lei. Veloce il ferro</l>
+<l>Che forbito ti attende al destro lato</l>
+<l>Nudo fuor esca; e come quel di Marte,</l>
+<l>Scintillando lampeggi: indi la punta</l>
+<l>Fra due dita ne stringi, e chino a lei</l>
+<l>Tu il presenta, o Signore. Or si vedranno</l>
+<l>De la candida mano all'opra intenta</l>
+<l>I muscoli giocar soavi e molli:</l>
+<l>E le grazie, piegandosi dintorno,</l>
+<l>Vestiran nuove forme, or da le dita</l>
+<l>Fuggevoli scorrendo, ora su l'alto</l>
+<l>De' bei nodi insensibili aleggiando,</l>
+<l>Et or de le pozzette in sen cadendo,</l>
+<l>Che dei nodi al confin v'impresse Amore.</l>
+<l>Mille baci di freno impazienti</l>
+<l>Ecco sorgon dal labbro ai convitati;</l>
+<l>Già s'arrischian, già volano, già un guardo</l>
+<l>Sfugge dagli occhi tuoi, che i vanni audaci</l>
+<l>Fulmina, et arde, e tue ragion difende.</l>
+<l>Sol de la fida sposa a cui se' caro</l>
+<l>Il tranquillo marito immoto siede:</l>
+<l>E nulla impression l'agita e scuote</l>
+<l>Di brama, o di timor; però che Imene</l>
+<l>Da capo a piè fatollo. Imene or porta</l>
+<l>Non più serti di rose avvolti al crine,</l>
+<l>Ma stupido papavero grondante</l>
+<l>Di crassa onda Letèa: Imene, e il Sonno</l>
+<l>Oggi han pari le insegne. Oh come spesso</l>
+<l>La Dama dilicata invoca il Sonno</l>
+<l>Che al talamo presieda, e seco invece</l>
+<l>Trova Imenèo; e stupida rimane</l>
+<l>Quasi al meriggio stanca villanella</l>
+<l>Che tra l'erbe innocenti adagia il fianco</l>
+<l>Queta e sicura; e d'improviso vede</l>
+<l>Un serpe; e balza in piedi inorridita;</l>
+<l>E le rigide man stende, e ritragge</l>
+<l>Il gomito, e l'anelito sospende;</l>
+<l>E immota e muta, e con le labbra aperte</l>
+<l>Obliquamente il guarda! Oh come spesso</l>
+<l>Incauto amante a la sua lunga pena</l>
+<l>Cercò sollievo: et invocar credendo</l>
+<l>Imene, ahi folle! invocò il Sonno; e questi</l>
+<l>Di fredda oblivion l'alma gli asperse;</l>
+<l>E d'invincibil noja, e di torpente</l>
+<l>Indifferenza gli ricinse il core.</l></lg>
+<lg><l>Ma se a la Dama dispensar non piace</l>
+<l>Le vivande, o non giova, allor tu stesso</l>
+<l>Il bel lavoro imprendi. Agli occhi altrui</l>
+<l>Più brillerà così l'enorme gemma,</l>
+<l>Dolc'esca agli usurai, che quella osàro</l>
+<l>A le promesse di Signor preporre</l>
+<l>Villanamente: ed osservati fieno</l>
+<l>I manichetti, la più nobil opra</l>
+<l>Che tessesse giammai Anglica Aracne.</l>
+<l>Invidieran tua dilicata mano</l>
+<l>I convitati; inarcheran le ciglia</l>
+<l>Sul difficil lavoro, e d'oggi in poi</l>
+<l>Ti fia ceduto il trinciator coltello</l>
+<l>Che al cadetto guerrier serban le mense.</l></lg>
+<lg><l>Teco son io, Signor; già intendo e veggo</l>
+<l>Felice osservatore i detti e i motti</l>
+<l>De' Semidei che coronando stanno</l>
+<l>E con vario costume ornan la mensa.</l>
+<l>Or chi è quell'eroe che tanta parte</l>
+<l>Colà ingombra di loco, e mangia e fiuta</l>
+<l>E guata e de le altrui cure ridendo</l>
+<l>Sì superba di ventre agita mole?</l>
+<l>Oh di mente acutissima dotate</l>
+<l>Mamme del suo palato! oh da mortali</l>
+<l>Invidiabil anima che siede</l>
+<l>Tra la mirabil lor testura; e quindi</l>
+<l>L'ultimo del piacer deliquio sugge!</l>
+<l>Chi più saggio di lui penètra e intende</l>
+<l>La natura migliore; o chi più industre</l>
+<l>Converte a suo piacer l'aria, la terra,</l>
+<l>E 'l ferace di mostri ondoso abisso?</l>
+<l>Qualor s'accosta al desco altrui, paventano</l>
+<l>Suo gusto inesorabile le smilze</l>
+<l>Ombre de' padri, che per l'aria lievi</l>
+<l>S'aggirano vegliando ancora intorno</l>
+<l>Ai ceduti tesori: e piangon lasse</l>
+<l>Le mal spese vigilie, i sobrj pasti,</l>
+<l>Le in preda all'aquilon case, le antique</l>
+<l>Digiune rozze, gli scommessi cocchj</l>
+<l>Forte assordanti per stridente ferro</l>
+<l>Le piazze e i tetti: e lamentando vanno</l>
+<l>Gl'invan nudati rustici, le fami</l>
+<l>Mal desiate, e de le sacre toghe</l>
+<l>L'armata in vano autorità sul vulgo.</l></lg>
+<lg><l>Chi siede a lui vicin? Per certo il caso</l>
+<l>Congiunse accorto i due leggiadri estremi</l>
+<l>Perchè doppio spettacolo campeggi;</l>
+<l>E l'un dell'altro al par più lustri e splenda.</l>
+<l>Falcato Dio degli orti a cui la Greca</l>
+<l>Làmsaco d'asinelli offrir solea</l>
+<l>Vittima degna, al giovine seguace</l>
+<l>Del sapiente di Samo i doni tuoi</l>
+<l>Reca sul desco: egli ozioso siede</l>
+<l>Dispregiando le carni; e le narici</l>
+<l>Schifo raggrinza, in nauseanti rughe</l>
+<l>Ripiega i labbri, e poco pane intanto</l>
+<l>Rumina lentamente. Altro giammai</l>
+<l>A la squallida fame eroe non seppe</l>
+<l>Durar sì forte: nè lassezza il vinse</l>
+<l>Nè deliquio giammai nè febbre ardente;</l>
+<l>Tanto importa lo aver scarze le membra,</l>
+<l>Singolare il costume, e nel bel mondo</l>
+<l>Onor di filosofico talento.</l>
+<l>Qual anima è volgar la sua pietade</l>
+<l>All'Uom riserbi; e facile ribrezzo</l>
+<l>Dèstino in lui del suo simìle i danni,</l>
+<l>I bisogni, e le piaghe. Il cor di lui</l>
+<l>Sdegna comune affetto; e i dolci moti</l>
+<l>A più lontano limite sospinge.</l>
+<l>“Pera colui che prima osò la mano</l>
+<l>Armata alzar su l'innocente agnella,</l>
+<l>E sul placido bue: nè il truculento</l>
+<l>Cor gli piegàro i teneri belati</l>
+<l>Nè i pietosi mugiti nè le molli</l>
+<l>Lingue lambenti tortuosamente</l>
+<l>La man che il loro fato, ahimè, stringea”.</l>
+<l>Tal ei parla, o Signore; e sorge intanto</l>
+<l>Al suo pietoso favellar dagli occhi</l>
+<l>De la tua Dama dolce lagrimetta</l>
+<l>Pari a le stille tremule, brillanti</l>
+<l>Che a la nova stagion gemendo vanno</l>
+<l>Dai palmiti di Bacco entro commossi</l>
+<l>Al tiepido spirar de le prim'aure</l>
+<l>Fecondatrici. Or le sovviene il giorno,</l>
+<l>Ahi fero giorno! allor che la sua bella</l>
+<l>Vergine cuccia de le Grazie alunna,</l>
+<l>Giovenilmente vezzeggiando, il piede</l>
+<l>Villan del servo con l'eburneo dente</l>
+<l>Segnò di lieve nota: ed egli audace</l>
+<l>Con sacrilego piè lanciolla: e quella</l>
+<l>Tre volte rotolò; tre volte scosse</l>
+<l>Gli scompigliati peli, e da le molli</l>
+<l>Nari soffiò la polvere rodente.</l>
+<l>Indi i gemiti alzando: aita aita</l>
+<l>Parea dicesse; e da le aurate volte</l>
+<l>A lei l'impietosita Eco rispose:</l>
+<l>E dagl'infimi chiostri i mesti servi</l>
+<l>Asceser tutti; e da le somme stanze</l>
+<l>Le damigelle pallide tremanti</l>
+<l>Precipitàro. Accorse ognuno; il volto</l>
+<l>Fu spruzzato d'essenze a la tua Dama;</l>
+<l>Ella rinvenne alfin: l'ira, il dolore</l>
+<l>L'agitavano ancor; fulminei sguardi</l>
+<l>Gettò sul servo, e con languida voce</l>
+<l>Chiamò tre volte la sua cuccia: e questa</l>
+<l>Al sen le corse; in suo tenor vendetta</l>
+<l>Chieder sembrolle: e tu vendetta avesti</l>
+<l>Vergine cuccia de le grazie alunna.</l>
+<l>L'empio servo tremò; con gli occhi al suolo</l>
+<l>Udì la sua condanna. A lui non valse</l>
+<l>Merito quadrilustre; a lui non valse</l>
+<l>Zelo d'arcani uficj: in van per lui</l>
+<l>Fu pregato e promesso; ei nudo andonne</l>
+<l>Dell'assisa spogliato ond'era un giorno</l>
+<l>Venerabile al vulgo. In van novello</l>
+<l>Signor sperò; chè le pietose dame</l>
+<l>Inorridìro, e del misfatto atroce</l>
+<l>Odiàr l'autore. Il misero si giacque</l>
+<l>Con la squallida prole, e con la nuda</l>
+<l>Consorte a lato su la via spargendo</l>
+<l>Al passeggiere inutile lamento:</l>
+<l>E tu vergine cuccia, idol placato</l>
+<l>Da le vittime umane, isti superba.</l></lg>
+<lg><l>Fia tua cura, o Signore, or che più ferve</l>
+<l>La mensa, di vegliar su i cibi; e pronto</l>
+<l>Scoprir qual d'essi a la tua Dama è caro:</l>
+<l>O qual di raro augel, di stranio pesce</l>
+<l>Parte le aggrada. Il tuo coltello Amore</l>
+<l>Anatomico renda, Amor che tutte</l>
+<l>Degli animali noverar le membra</l>
+<l>Puote; e discerner sa qual abbian tutte</l>
+<l>Uso, e natura. Più d'ognaltra cosa</l>
+<l>Però ti caglia rammentar mai sempre</l>
+<l>Qual più cibo le nuoca, o qual più giovi;</l>
+<l>E l'un rapisci a lei, l'altro concedi</l>
+<l>Come d'uopo ti par. Serbala, oh dio,</l>
+<l>Serbala ai cari figlj. Essi dal giorno</l>
+<l>Che le alleviàro il dilicato fianco</l>
+<l>Non la rivider più: d'ignobil petto</l>
+<l>Esaurirono i vasi, e la ricolma</l>
+<l>Nitidezza serbàro al sen materno.</l>
+<l>Sgridala, se a te par, ch'avida troppo</l>
+<l>Agogni al cibo; e le ricorda i mali</l>
+<l>Che forse avranno altra cagione, e ch'ella</l>
+<l>Al cibo imputerà nel dì venturo.</l>
+<l>Nè al cucinier perdona a cui non calse</l>
+<l>Tanta salute. A te sui servi altrui</l>
+<l>Ragion donossi in quel felice istante</l>
+<l>Che la noia, o l'amor vi strinser ambo</l>
+<l>In dolce nodo; e dier ordini e leggi.</l>
+<l>Per te sgravato d'odioso incarco</l>
+<l>Ti fia grato colui che dritto vanta</l>
+<l>D'impor novo cognome a la tua Dama;</l>
+<l>E pinte trascinar su gli aurei cocchi</l>
+<l>Giunte a quelle di lei le proprie insegne:</l>
+<l>Dritto illustre per lui, e ch'altri seco</l>
+<l>Audace non tentò divider mai.</l></lg>
+<lg><l>Ma non sempre, o Signor, tue cure fieno</l>
+<l>A la Dama rivolte: anco talora</l>
+<l>Ti fia lecito aver qualche riposo;</l>
+<l>E de la quercia trionfale all'ombra</l>
+<l>Te de la polve olimpica tergendo,</l>
+<l>Al vario ragionar degli altri eroi</l>
+<l>Porgere orecchio, e il tuo sermone ai loro</l>
+<l>Ozioso mischiar. Già scote un d'essi</l>
+<l>Le architettate del bel crine anella</l>
+<l>Su l'orecchio ondeggianti; e ad ogni scossa,</l>
+<l>De' convitati a le narici manda</l>
+<l>Vezzoso nembo d'arabi profumi.</l>
+<l>Allo spirto di lui l'alma Natura</l>
+<l>Fu prodiga così, che più non seppe</l>
+<l>Di che il volto abbellirgli; e all'Arte disse:</l>
+<l>Compisci 'l mio lavoro; e l'Arte suda</l>
+<l>Sollecita d'intorno all'opra illustre.</l>
+<l>Molli tinture, preziose linfe,</l>
+<l>Polvi, pastiglie, dilicati unguenti</l>
+<l>Tutto arrischia per lui. Quanto di novo,</l>
+<l>E mostruoso più sa tesser spola,</l>
+<l>O bulino intagliar Francese ed Anglo</l>
+<l>A lui primo concede. Oh lui beato,</l>
+<l>Che primo può di non più viste forme</l>
+<l>Tabacchiera mostrar! l'etica invidia</l>
+<l>I Grandi eguali a lui lacera, e mangia;</l>
+<l>Ed ei pago di sè, superbamente</l>
+<l>Crudo fa loro balenar su gli occhi</l>
+<l>L'ultima gloria onde Parigi ornollo.</l>
+<l>Forse altera così d'Egitto in faccia</l>
+<l>Vaga Prole di Semele apparisti</l>
+<l>I giocondi rubini alto levando</l>
+<l>Del grappolo primiero: e tal tu forse</l>
+<l>Tessalico garzon mostrasti a Jolco</l>
+<l>L'auree lane rapite al fero Drago.</l></lg>
+<lg><l>Vedi, o Signor, quanto magnanim'ira</l>
+<l>Nell'eroe che vicino all'altro siede</l>
+<l>A quel novo spettacolo si desta:</l>
+<l>Vedi come s'affanna, e sembra il cibo</l>
+<l>Obliar declamando. Al certo al certo</l>
+<l>Il nemico è a le porte: ohimè i Penati</l>
+<l>Tremano, e in forse è la civil salute.</l>
+<l>Ah no; più grave a lui, più preziosa</l>
+<l>Cura lo infiamma: “Oh depravati ingegni</l>
+<l>Degli artefici nostri! In van si spera</l>
+<l>Dall'inerte lor man lavoro industre,</l>
+<l>Felice invenzion d'uom nobil degna:</l>
+<l>Chi sa intrecciar, chi sa pulir fermaglio</l>
+<l>A nobile calzar? chi tesser drappo</l>
+<l>Soffribil tanto, che d'ornar presuma</l>
+<l>Le membra di signor che un lustro a pena</l>
+<l>Di feudo conti? In van s'adopra e stanca</l>
+<l>Chi 'l genio lor bituminoso e crasso</l>
+<l>Osa destar. Di là dall'alpi è forza</l>
+<l>Ricercar l'eleganza: e chi giammai</l>
+<l>Fuor che il Genio di Francia osato avrebbe</l>
+<l>Su i menomi lavori i Grechi ornati</l>
+<l>Recar felicemente? Andò romito</l>
+<l>Il Bongusto finora spaziando</l>
+<l>Su le auguste cornici, e su gli eccelsi</l>
+<l>Timpani de le moli al Nume sacre,</l>
+<l>E agli uomini scettrati; oggi ne scende</l>
+<l>Vago alfin di condurre i gravi fregi</l>
+<l>Infra le man di cavalieri e dame:</l>
+<l>Tosto forse il vedrem trascinar anco</l>
+<l>Su molli veli, e nuziali doni</l>
+<l>Le Greche travi; e docile trastullo</l>
+<l>Fien de la Moda le colonne, e gli archi</l>
+<l>Ove sedeano i secoli canuti”.</l></lg>
+<lg><l>Commercio alto gridar, gridar commercio</l>
+<l>All'altro lato de la mensa or odi</l>
+<l>Con fanatica voce: e tra 'l fragore</l>
+<l>D'un peregrino d'eloquenza fiume,</l>
+<l>Di bella novità stampate al conio</l>
+<l>Le forme apprendi, onde assai meglio poi</l>
+<l>Brillantati i pensier picchin la mente.</l>
+<l>Tu pur grida commercio; e la tua Dama</l>
+<l>Anco un motto ne dica. Empiono è vero</l>
+<l>Il nostro suol di Cerere i favori,</l>
+<l>Che tra i folti di biade immensi campi</l>
+<l>Move sublime; e fuor ne mostra a pena</l>
+<l>Tra le spighe confuso il crin dorato.</l>
+<l>Bacco, e Vertunno i lieti poggi intorno</l>
+<l>Ne coronan di poma: e Pale amica</l>
+<l>Latte ne preme a larga mano, e tonde</l>
+<l>Candidi velli, e per li prati pasce</l>
+<l>Mille al palato uman vittime sacre:</l>
+<l>Cresce fecondo il lin soave cura</l>
+<l>Del verno rusticale; e d'infinita</l>
+<l>Serie ne cinge le campagne il tanto</l>
+<l>Per la morte di Tisbe arbor famoso.</l>
+<l>Che vale or ciò? Su le natie lor balze</l>
+<l>Rodan le capre; ruminando il bue</l>
+<l>Lungo i prati natii vada; e la plebe</l>
+<l>Non dissimile a lor, si nutra e vesta</l>
+<l>De le fatiche sue; ma a le grand'alme</l>
+<l>Di troppo agevol ben schife Cillenio</l>
+<l>Il comodo presenti a cui le miglia</l>
+<l>Pregio acquistino, e l'oro; e d'ogn'intorno:</l>
+<l>Commercio risonar s'oda, commercio.</l>
+<l>Tale dai letti de la molle rosa</l>
+<l>Sìbari ancor gridar soleva; i lumi</l>
+<l>Disdegnando volgea dai campi aviti,</l>
+<l>Troppo per lei ignobil cura; e mentre</l>
+<l>Cartagin dura a le fatiche, e Tiro,</l>
+<l>Pericolando per l'immenso sale,</l>
+<l>Con l'oro altrui le voluttà cambiava,</l>
+<l>Sìbari si volgea sull'altro lato;</l>
+<l>E non premute ancor rose cercando,</l>
+<l>Pur di commercio novellava, e d'arti.</l></lg>
+<lg><l>Nè senza i miei precetti, e senza scorta</l>
+<l>Inerudito andrai, Signor, qualora</l>
+<l>Il perverso destin dal fianco amato</l>
+<l>T'allontani a la mensa. Avvien sovente,</l>
+<l>Che un Grande illustre or l'alpi, or l'oceàno</l>
+<l>Varca, e scende in Ausonia, orribil ceffo</l>
+<l>Per natura o per arte, a cui Ciprigna</l>
+<l>Rose le nari; e sale impuro e crudo</l>
+<l>Snudò i denti ineguali. Ora il distingue</l>
+<l>Risibil gobba, or furiosi sguardi,</l>
+<l>Obliqui o loschi; or rantoloso avvolge</l>
+<l>Tra le tumide fauci ampio volume</l>
+<l>Di voce che gorgoglia, ed esce alfine</l>
+<l>Come da inverso fiasco onda che goccia.</l>
+<l>Or d'avi or di cavalli ora di Frini</l>
+<l>Instancabile parla, or de' Celesti</l>
+<l>Le folgori deride. Aurei monili,</l>
+<l>E gemme e nastri gloriose pompe</l>
+<l>L'ingombran tutto; e gran titolo suona</l>
+<l>Dinanzi a lui. Qual più tra noi risplende</l>
+<l>Inclita stirpe, che onorar non voglia</l>
+<l>D'un ospite sì degno i lari suoi?</l>
+<l>Ei però sederà de la tua Dama</l>
+<l>Al fianco ancora: e tu lontan da Giuno</l>
+<l>Tra i Silvani capripedi n'andrai</l>
+<l>Presso al marito; e pranzerai negletto</l>
+<l>Col popol folto degli Dei minori.</l></lg>
+<lg><l>Ma negletto non già dagli occhi andrai</l>
+<l>De la Dama gentil, che a te rivolti</l>
+<l>Incontreranno i tuoi. L'aere a quell'urto</l>
+<l>Arderà di faville: e Amor con l'ali</l>
+<l>L'agiterà. Nel fortunato incontro</l>
+<l>I messaggier pacifici dell'alma</l>
+<l>Cambieran lor novelle, e alternamente</l>
+<l>Spinti, rifluiranno a voi con dolce</l>
+<l>Delizioso tremito sui cori.</l>
+<l>Tu le ubbidisci allora, o se t'invita</l>
+<l>Le vivande a gustar che a lei vicine</l>
+<l>L'ordin dispose, o se a te chiede in vece</l>
+<l>Quella che innanzi a te sue voglie punge</l>
+<l>Non col soave odor, ma con le nove</l>
+<l>Leggiadre forme onde abbellir la seppe</l>
+<l>Dell'ammirato cucinier la mano.</l>
+<l>Con la mente si pascono gli Dei</l>
+<l>Sopra le nubi del brillante Olimpo:</l>
+<l>E le labbra immortali irrita e move</l>
+<l>Non la materia, ma il divin lavoro.</l></lg>
+<lg><l>Nè intento meno ad ubbidir sarai</l>
+<l>I cenni del bel guardo allor che quella</l>
+<l>Di licor peregrino ai labbri accosta</l>
+<l>Colmo bicchiere a lo cui orlo intorno</l>
+<l>Serpe dorata striscia; o a cui vermiglia</l>
+<l>Cera la base impronta, e par, che dica:</l>
+<l>Lungi o labbra profane: al labbro solo</l>
+<l>De la Diva che qui soggiorna e regna</l>
+<l>Il castissimo calice si serbi:</l>
+<l>Nè cavalier con l'alito maschile</l>
+<l>Osi appannarne il nitido cristallo,</l>
+<l>Nè dama convitata unqua presuma</l>
+<l>Di porvi i labbri; e sien pur casti e puri,</l>
+<l>E quant'esser si può cari all'amore.</l>
+<l>Nessun'altra è di lei più pura cosa;</l>
+<l>Chi macchiarla oserà? Le Ninfe in vano</l>
+<l>Da le arenose loro urne versando</l>
+<l>Cento limpidi rivi, al candor primo</l>
+<l>Tornar vorrièno il profanato vaso</l>
+<l>E degno farlo di salir di novo</l>
+<l>A le labbra celesti, a cui non lice</l>
+<l>Inviolate approssimarsi ai vasi</l>
+<l>Che convitati cavalieri, e dame</l>
+<l>Convitate macchiar coi labbri loro.</l>
+<l>Tu ai cenni del bel guardo, e de la mano</l>
+<l>Che reggendo il bicchier, sospesa ondeggia,</l>
+<l>Affettuoso attendi. I guardi tuoi</l>
+<l>Sfavillando di gioja, accolgan lieti</l>
+<l>Il brindisi segreto; e tu ti accingi</l>
+<l>In simil modo a tacita risposta.</l></lg>
+<lg><l>Immortal come voi la nostra Musa</l>
+<l>Brindisi grida all'uno, e all'altro amante;</l>
+<l>All'altrui fida sposa a cui se' caro,</l>
+<l>E a te, Signor, sua dolce cura e nostra.</l>
+<l>Come annoso licor Lièo vi mesce,</l>
+<l>Tale Amore a voi mesca eterna gioja</l>
+<l>Non gustata al marito, e da coloro</l>
+<l>Invidiata che gustata l'hanno.</l>
+<l>Veli con l'ali sue sagace oblìo</l>
+<l>Le alterne infedeltà che un cor dall'altro</l>
+<l>Potrièno un giorno separar per sempre</l>
+<l>E sole agli occhi vostri Amor discopra</l>
+<l>Le alterne infedeltà che in ambo i cori</l>
+<l>Ventilar possan le cedenti fiamme.</l>
+<l>Un sempiterno indissolubil nodo</l>
+<l>acute;uguri ai vostri cor volgar cantore;</l>
+<l>Nostra nobile Musa a voi desia</l>
+<l>Sol fin che piace a voi durevol nodo.</l>
+<l>Duri fin che a voi piace; e non si sciolga</l>
+<l>Senza che Fama sopra l'ali immense</l>
+<l>Tolga l'alta novella, e grande n'empia</l>
+<l>Col reboàto dell'aperta tromba</l>
+<l>L'ampia cittade, e dell'Enotria i monti</l>
+<l>E le piagge sonanti, e s'esser puote,</l>
+<l>La bianca Teti, e Guadiana, e Tule.</l>
+<l>Il mattutino gabinetto, il corso,</l>
+<l>Il teatro, la mensa in vario stile</l>
+<l>Ne ragionin gran tempo: ognun ne chieda</l>
+<l>Il dolente marito; ed ei dall'alto</l>
+<l>La lamentabil favola cominci.</l>
+<l>Tal su le scene ove agitar solea</l>
+<l>L'ombre tinte di sangue Argo piagnente,</l>
+<l>Squallido messo al palpitante coro</l>
+<l>Narrava, come furiando Edipo</l>
+<l>Al talamo corresse incestuoso;</l>
+<l>Come le porte rovescionne, e come</l>
+<l>Al subito spettacolo ristè</l>
+<l>Quando vicina del nefando letto</l>
+<l>Vide in un corpo solo e sposa e madre</l>
+<l>Pender strozzata; e del fatale uncino</l>
+<l>Le mani armossi; e con le proprie mani</l>
+<l>A sè le care luci da la testa</l>
+<l>Con le man proprie misero strapposse.</l></lg>
+<lg><l>Ecco volge al suo fine il pranzo illustre.</l>
+<l>Già Como, e Dionisio al desco intorno</l>
+<l>Rapidissimamente in danza girano</l>
+<l>Con la libera Gioja: ella saltando,</l>
+<l>Or questo or quel dei convitati lieve</l>
+<l>Tocca col dito; e al suo toccar scoppiettano</l>
+<l>Brillanti vivacissime scintille</l>
+<l>Ch'altre ne destan poi. Sonan le risa;</l>
+<l>E il clamoroso disputar s'accende.</l>
+<l>La nobil vanità punge le menti;</l>
+<l>E l'Amor di sè sol, baldo scorrendo,</l>
+<l>Porge un scettro a ciascuno, e dice: Regna.</l>
+<l>Questi i concilj di Bellona, e quegli</l>
+<l>Penetra i tempj de la Pace. Un guida</l>
+<l>I condottieri: ai consiglier consiglio</l>
+<l>L'altro dona, e divide e capovolge</l>
+<l>Con seste ardite il pelago e la terra.</l>
+<l>Qual di Pallade l'arti e de le Muse</l>
+<l>Giudica e libra: qual ne scopre acuto</l>
+<l>L'alte cagioni; e i gran principj abbatte</l>
+<l>Cui creò la natura, e che tiranni</l>
+<l>Sopra il senso degli uomini regnàro</l>
+<l>Gran tempo in Grecia; e ne la Tosca terra</l>
+<l>Rinacquer poi più poderosi e forti.</l></lg>
+<lg><l>Cotanto adunque di sapere è dato</l>
+<l>A nobil mente? Oh letto, oh specchio, oh mensa,</l>
+<l>Oh corso, oh scena, oh feudi, oh sangue, oh avi,</l>
+<l>Che per voi non s'apprende? Or tu Signore,</l>
+<l>Col volo ardito del felice ingegno</l>
+<l>T'ergi sopra d'ognaltro. Il campo è questo</l>
+<l>Ove splender più dei: nulla scienza,</l>
+<l>Sia quant'esser si vuole arcana e grande,</l>
+<l>Ti spaventi giammai. Se cosa udisti,</l>
+<l>O leggesti al mattino onde tu possa</l>
+<l>Gloria sperar; qual cacciator che segue</l>
+<l>Circuendo la fera, e sì la guida</l>
+<l>E volge di lontan, che a poco a poco</l>
+<l>S'avvicina a le insidie, e dentro piomba;</l>
+<l>Tal tu il sermone altrui volgi sagace</l>
+<l>Finchè là cada ove spiegar ti giovi</l>
+<l>Il tuo novo tesor. Se nova forma</l>
+<l>Del parlare apprendesti, allor ti piaccia</l>
+<l>Materia espor che, favellando, ammetta</l>
+<l>La nova gemma: e poi che il punto hai colto,</l>
+<l>Ratto la scopri, e sfolgorando abbaglia</l>
+<l>Qual altra è mente che superba andasse</l>
+<l>Di squisita eloquenza ai gran convivj.</l>
+<l>In simil guisa il favoloso amante</l>
+<l>Dell'animosa vergin di Dordona</l>
+<l>Ai cavalier che l'assalien superbi</l>
+<l>Usar lasciava ogni lor possa ed arte;</l>
+<l>Poi nel miglior de la terribil pugna</l>
+<l>Svelava il don dell'amoroso Mago:</l>
+<l>E quei sorpresi dall'immensa luce</l>
+<l>Cadeano ciechi e soggiogati a terra.</l>
+<l>Se alcun di Zoroastro, e d'Archimede</l>
+<l>Discepol sederà teco a la mensa,</l>
+<l>A lui ti volgi: seco lui ragiona;</l>
+<l>Suo linguaggio ne apprendi, e quello poi</l>
+<l>Quas'innato a te fosse, alto ripeti:</l>
+<l>Nè paventar quel che l'antica fama</l>
+<l>Narrò de' suoi compagni. Oggi la diva</l>
+<l>Urania il crin compose: e gl'irti alunni</l>
+<l>Smarriti vergognosi balbettanti</l>
+<l>Trasse da le lor cave ove pur dianzi</l>
+<l>Col profondo silenzio e con la notte</l>
+<l>Tenean consiglio: indi le serve braccia</l>
+<l>Fornien di leve onnipotenti ond'alto</l>
+<l>Salisser poi piramidi, obelischi</l>
+<l>Ad eternar de' popoli superbi</l>
+<l>I gravi casi: oppur con feri dicchi</l>
+<l>Stavan contro i gran letti; o di pignone</l>
+<l>Audace armati spaventosamente</l>
+<l>Cozzavan con la piena, e giù a traverso</l>
+<l>Spezzate, dissipate rovesciavano</l>
+<l>Le tetre corna, decima fatica</l>
+<l>D'Ercole invitto. Ora i selvaggi amici</l>
+<l>Urania incivilì: baldi e leggiadri</l>
+<l>Nel gran mondo li guida o tra 'l clamore</l>
+<l>De' frequenti convivj, oppur tra i vezzi</l>
+<l>De' gabinetti ove a la docil Dama,</l>
+<l>E al saggio Cavalier mostran qual via</l>
+<l>Venere tenga; e in quante forme o quali</l>
+<l>Suo volto lucidissimo si cambj.</l></lg>
+<lg><l>Nè del Poeta temerai, che beffi</l>
+<l>Con satira indiscreta i detti tuoi;</l>
+<l>Nè che a maligne risa esponer osa</l>
+<l>Tuo talento immortal. Voi l'innalzaste</l>
+<l>All'alta mensa: e tra la vostra luce</l>
+<l>Beato l'avvolgeste; e de le Muse</l>
+<l>A dispetto e d'Apollo, al sacro coro</l>
+<l>L'ascriveste de' Vati. Egli 'l suo Pindo</l>
+<l>Feo de la mensa: e guai a lui, se quinci</l>
+<l>Le Dee sdegnate giù precipitando</l>
+<l>Con le forchette il cacciano. Meschino!</l>
+<l>Più non potria su le dolenti membra</l>
+<l>Del suo infermo Signor chiedere aita</l>
+<l>Da la bona Salute; o con alate</l>
+<l>Odi ringraziar, nè tesser Inni</l>
+<l>Al barbato figliuol di Febo intonso:</l>
+<l>Più del giorno natale i chiari albori</l>
+<l>Salutar non potrebbe, e l'auree frecce</l>
+<l>Nomi-sempiternanti all'arco imporre:</l>
+<l>Non più gli urti festevoli, o sul naso</l>
+<l>L'elegante scoccar d'illustri dita</l>
+<l>Fora dato sperare. A lui tu dunque</l>
+<l>Non isdegna, o Signor, volger talvolta</l>
+<l>Tu' amabil voce: a lui declama i versi</l>
+<l>Del dilicato cortigian d'Augusto,</l>
+<l>O di quel che tra Venere, e Lièo</l>
+<l>Pinse Trimalcion. La Moda impone,</l>
+<l>Ch'Arbitro, o Flacco a un bello spirto ingombri</l>
+<l>Spesso le tasche. Il vostro amico vate</l>
+<l>T'udrà, maravigliando, il sermon prisco</l>
+<l>Or sciogliere or frenar qual più ti piace:</l>
+<l>E per la sua faretra, e per li cento</l>
+<l>Destrier focosi che in Arcadia pasce</l>
+<l>Ti giurerà, che di Donato al paro</l>
+<l>Il difficil sermone intendi e gusti.</l></lg>
+<lg><l>Cotesto ancor di rammentar fia tempo</l>
+<l>I novi Sofi, che la Gallia, e l'Alpe</l>
+<l>Esecrando persegue: e dir qual arse</l>
+<l>De' volumi infelici, e andò macchiato</l>
+<l>D'infame nota: e quale asilo appresti</l>
+<l>Filosofia al morbido Aristippo</l>
+<l>Del secol nostro; e qual ne appresti al novo</l>
+<l>Diogene dell'auro spregiatore,</l>
+<l>E della opinione de' mortali.</l>
+<l>Lor volumi famosi a te verranno</l>
+<l>Da le fiamme fuggendo a gran giornate</l>
+<l>Per calle obliquo, e compri a gran tesoro</l>
+<l>O da cortese man prestati, fièno</l>
+<l>Lungo ornamento a lo tuo speglio innanzi.</l>
+<l>Poichè scorsi gli avrai pochi momenti</l>
+<l>Specchiandoti, e a la man garrendo indotta</l>
+<l>Del parrucchier; poichè t'avran la sera</l>
+<l>Conciliato il facil sonno, allora</l>
+<l>A la <foreign lang="fra">toilette</foreign> passeran di quella</l>
+<l>Che comuni ha con te studj e licèo</l>
+<l>Ove togato in cattedra elegante</l>
+<l>Siede interprete Amor. Ma fia la mensa</l>
+<l>Il favorevol loco ove al sol esca</l>
+<l>De' brevi studj il glorioso frutto.</l></lg>
+<lg><l>Qui ti segnalerai co' novi Sofi</l>
+<l>Schernendo il fren che i creduli maggiori</l>
+<l>Atto solo stimàr l'impeto folle</l>
+<l>A vincer de' mortali, a stringer forte</l>
+<l>Nodo fra questi, e a sollevar lor speme</l>
+<l>Con penne oltre natura alto volanti.</l>
+<l>Chi por freno oserà d'almo Signore</l>
+<l>A la mente od al cor? Paventi il vulgo</l>
+<l>Oltre natura: il debole Prudente</l>
+<l>Rispetti il vulgo; e quei, cui dona il vulgo</l>
+<l>Titol di Saggio, mediti romito</l>
+<l>Il Ver celato; e alfin cada adorando</l>
+<l>La sacra nebbia che lo avvolge intorno.</l>
+<l>Ma il mio Signor, com'aquila sublime</l>
+<l>Dietro ai Sofi novelli il volo spieghi.</l>
+<l>Perchè più generoso il volo sia,</l>
+<l>Voli senz'ale ancor; nè degni 'l tergo</l>
+<l>Affaticar con penne. Applauda intanto</l>
+<l>Tutta la mensa al tuo poggiare ardito.</l>
+<l>Te con lo sguardo, e con l'orecchio beva</l>
+<l>La Dama dalle tue labbra rapita:</l>
+<l>Con cenno approvator vezzosa il capo</l>
+<l>Pieghi sovente: e il <emph>calcolo</emph>, e la <emph>massa</emph>,</l>
+<l>E l'<emph>inversa ragion</emph> sonino ancora</l>
+<l>Su la bocca amorosa. Or più non odia</l>
+<l>De le scole il sermone Amor maestro;</l>
+<l>Ma l'accademia e i portici passeggia</l>
+<l>De' filosofi al fianco, e con la molle</l>
+<l>Mano accarezza le cadenti barbe.</l></lg>
+<lg><l>Ma guardati, o Signor, guardati oh dio</l>
+<l>Dal tossico mortal che fuora esala</l>
+<l>Dai volumi famosi; e occulto poi</l>
+<l>Sa, per le luci penetrato all'alma,</l>
+<l>Gir serpendo nei cori; e con fallace</l>
+<l>Lusinghevole stil corromper tenta</l>
+<l>Il generoso de le stirpi orgoglio</l>
+<l>Che ti scevra dal vulgo. Udrai da quelli,</l>
+<l>Che ciascun de' mortali all'altro è pari;</l>
+<l>Che caro a la Natura, e caro al Cielo</l>
+<l>È non meno di te colui che regge</l>
+<l>I tuoi destrieri, e quei ch'ara i tuoi campi;</l>
+<l>E che la tua pietade, e il tuo rispetto</l>
+<l>Dovrien fino a costor scender vilmente.</l>
+<l>Folli sogni d'infermo! Intatti lascia</l>
+<l>Così strani consiglj; e sol ne apprendi</l>
+<l>Quel che la dolce voluttà rinfranca,</l>
+<l>Quel che scioglie i desiri, e quel che nutre</l>
+<l>La libertà magnanima. Tu questo</l>
+<l>Reca solo a la mensa: e sol da questo</l>
+<l>Cerca plausi ed onor. Così dell'api</l>
+<l>L'industrioso popolo ronzando,</l>
+<l>Gira di fiore in fior, di prato in prato;</l>
+<l>E i dissimili sughi raccogliendo,</l>
+<l>Tesoreggia nell'arnie: un giorno poi</l>
+<l>Ne van colme le pàtere dorate</l>
+<l>Sopra l'ara de' numi; e d'ogn'intorno</l>
+<l>Ribocca la fragrante alma dolcezza.</l></lg>
+<lg><l>Or versa pur dall'odorato grembo</l>
+<l>I tuoi doni o Pomona; e l'ampie colma</l>
+<l>Tazze che d'oro e di color diversi</l>
+<l>Fregiò il Sàssone industre; il fine è giunto</l>
+<l>De la mensa divina. E tu dai greggi</l>
+<l>Rustica Pale coronata vieni</l>
+<l>Di melissa olezzante e di ginebro;</l>
+<l>E co' lavori tuoi di presso latte</l>
+<l>Vergognando t'accosta a chi ti chiede,</l>
+<l>Ma deporli non osa. In su la mensa</l>
+<l>Potrien deposti le celesti nari</l>
+<l>Commover troppo, e con volgare olezzo</l>
+<l>Gli stomachi agitar. Torreggin solo</l>
+<l>Su' ripiegati lini in varie forme</l>
+<l>I latti tuoi cui di serbato verno</l>
+<l>Rassodarono i sali, e reser atti</l>
+<l>A dilettar con subito rigore</l>
+<l>Di convitato cavalier le labbra.</l></lg>
+<lg><l>Tu, Signor, che farai poichè fie posto</l>
+<l>Fine a la mensa, e che lieve puntando</l>
+<l>La tua Dama gentil fatto avrà cenno,</l>
+<l>Che di sorger è tempo? In piè d'un salto</l>
+<l>Balza prima di tutti; a lei t'accosta,</l>
+<l>La seggiola rimovi, la man porgi;</l>
+<l>Guidala in altra stanza, e più non soffri,</l>
+<l>Che lo stagnante de le dapi odore</l>
+<l>Il cèlabro le offenda. Ivi con gli altri</l>
+<l>Gratissimo vapor t'invita, ond'empie</l>
+<l>L'aria il caffè che preparato fuma</l>
+<l>In tavola minor cui vela ed orna</l>
+<l>Indica tela. Ridolente gomma</l>
+<l>Quinci arde intanto; e va lustrando e purga</l>
+<l>L'aere profano, e fuor caccia del cibo</l>
+<l>Le volanti reliquie. Egri mortali</l>
+<l>Cui la miseria e la fidanza un giorno</l>
+<l>Sul meriggio guidàro a queste porte;</l>
+<l>Tumultuosa, ignuda, atroce folla</l>
+<l>Di tronche membra, e di squallide facce,</l>
+<l>E di bare e di grucce, ora da lungi</l>
+<l>Vi confortate; e per le aperte nari</l>
+<l>Del divin pranzo il nèttare beete</l>
+<l>Che favorevol aura a voi conduce:</l>
+<l>Ma non osate i limitari illustri</l>
+<l>Assediar, fastidioso offrendo</l>
+<l>Spettacolo di mali a chi ci regna.</l></lg>
+<lg><l>Or la piccola tazza a te conviene</l>
+<l>Apprestare, o Signor, che i lenti sorsi</l>
+<l>Ministri poi de la tua Dama ai labbri:</l>
+<l>Or memore avvertir s'ella più goda,</l>
+<l>O sobria o liberal, temprar col dolce</l>
+<l>La bollente bevanda; o se più forse</l>
+<l>L'ami così, come sorbir la suole</l>
+<l>Barbara sposa, allor che, molle assisa</l>
+<l>Su' broccati di Persia, al suo signore</l>
+<l>Con le dita pieghevoli 'l selvoso</l>
+<l>Mento vezzeggia, e la svelata fronte</l>
+<l>Alzando, il guarda; e quelli sguardi han possa</l>
+<l>Di far che a poco a poco di man cada</l>
+<l>Al suo signore la fumante canna.</l></lg>
+<lg><l>Mentre il labbro, e la man v'occupa, e scalda</l>
+<l>L'odorosa bevanda, altere cose</l>
+<l>Macchinerà tua infaticabil mente.</l>
+<l>Qual coppia di destrieri oggi de' il carro</l>
+<l>Guidar de la tua Dama; o l'alte moli</l>
+<l>Che su le fredde piagge educa il Cimbro;</l>
+<l>O quei che abbeverò la Drava, o quelli</l>
+<l>Che a le vigili guardie un dì fuggìro</l>
+<l>Da la stirpe Campana. Oggi qual meglio</l>
+<l>Si convenga ornamento ai dorsi alteri:</l>
+<l>Se semplici e negletti; o se pomposi</l>
+<l>Di ricche nappe e variate stringhe</l>
+<l>Andran su l'alto collo i crin volando;</l>
+<l>E sotto a cuoi vermigli e ad auree fibbie</l>
+<l>Ondeggeranno li ritondi fianchi.</l>
+<l>Quale oggi cocchio trionfanti al corso</l>
+<l>Vi porterà: se quel cui l'oro copre;</l>
+<l>O quel su le cui tavole pesanti</l>
+<l>Saggio pennello i dilicati finse</l>
+<l>Studj dell'ago, onde si fregia il capo</l>
+<l>E il bel sen la tua Dama; e pieni vetri</l>
+<l>Di freschissima linfa e di fior varj</l>
+<l>Gli diede a trascinar. Cotanta mole</l>
+<l>Di cose a un tempo sol nell'alta mente</l>
+<l>Rivolgerai: poi col supremo auriga</l>
+<l>Arduo consiglio ne terrai, non senza</l>
+<l>Qualche lieve garrir con la tua Dama.</l>
+<l>Servi le leggi tue l'auriga: e intanto</l>
+<l>Altre v'occupin cure. Il gioco puote</l>
+<l>Ora il tempo ingannare: ed altri ancora</l>
+<l>Forse ingannar potrà. Tu il gioco eleggi</l>
+<l>Che due soltanto a un tavoliere ammetta;</l>
+<l>Tale Amor ti consiglia. Occulto ardea</l>
+<l>Già di ninfa gentil misero amante</l>
+<l>Cui null'altra eloquenza usar con lei,</l>
+<l>Fuor che quella degli occhi era concesso;</l>
+<l>Poichè il rozzo marito ad Argo eguale</l>
+<l>Vigilava mai sempre; e quasi biscia</l>
+<l>Ora piegando, or allungando il collo,</l>
+<l>Ad ogni verbo con gli orecchi acuti</l>
+<l>Era presente. Oimè, come con cenni,</l>
+<l>O con notata tavola giammai</l>
+<l>O con servi sedotti a la sua ninfa</l>
+<l>Chieder pace ed aita? Ogni d'Amore</l>
+<l>Stratagemma finissimo vinceva</l>
+<l>La gelosìa del rustico marito.</l>
+<l>Che più lice sperare? Al tempio ei corre</l>
+<l>Del nume accorto che le serpi intreccia</l>
+<l>All'aurea verga, e il capo e le calcagna</l>
+<l>D'ali fornisce. A lui si prostra umìle;</l>
+<l>E in questa guisa, lagrimando, il prega.</l>
+<l>“O propizio agli amanti, o buon figliuolo</l>
+<l>De la candida Maja, o tu che d'Argo</l>
+<l>Deludesti i cent'occhi, e a lui rapisti</l>
+<l>La guardata giovenca, i preghi accetta</l>
+<l>D'un amante infelice; e a me concedi</l>
+<l>Se non gli occhi ingannar, gli orecchi almeno</l>
+<l>D'un marito importuno”. Ecco si scote</l>
+<l>Il divin simulacro, a lui si china,</l>
+<l>Con la verga pacifica la fronte</l>
+<l>Gli percote tre volte: e il lieto amante</l>
+<l>Sente dettarsi ne la mente un gioco</l>
+<l>Che i mariti assordisce. A lui diresti,</l>
+<l>Che l'ali del suo piè concesse ancora</l>
+<l>Il supplicato Dio; cotanto ei vola</l>
+<l>Velocissimamente a la sua donna.</l>
+<l>Là bipartita tavola prepara</l>
+<l>Ov'ebano, ed avorio intarsiati</l>
+<l>Regnan sul piano; e partono alternando</l>
+<l>In dodici magioni ambe le sponde.</l>
+<l>Quindici nere d'ebano girelle</l>
+<l>E d'avorio bianchissimo altrettante</l>
+<l>Stan divise in due parti; e moto e norma</l>
+<l>Da due dadi gittati attendon, pronte</l>
+<l>Ad occupar le case, e quinci e quindi</l>
+<l>Pugnar contrarie. Oh cara a la Fortuna</l>
+<l>Quella che corre innanzi all'altre, e seco</l>
+<l>Ha la compagna, onde il nemico assalto</l>
+<l>Forte sostenga! Oh giocator felice</l>
+<l>Chi pria l'estrema casa occupa; e l'altro</l>
+<l>De le proprie magioni ordin riempie</l>
+<l>Con doppio segno, e quindi poi, securo,</l>
+<l>Da la falange il suo rival combatte;</l>
+<l>E in proprio ben rivolge i colpi ostili.</l>
+<l>Al tavolier s'assidono ambidue,</l>
+<l>L'amante cupidissimo, e la ninfa:</l>
+<l>Quella occupa una sponda, e questi l'altra.</l>
+<l>Il marito col gomito s'appoggia</l>
+<l>All'un de' lati: ambi gli orecchi tende;</l>
+<l>E sotto al tavolier di quando in quando</l>
+<l>Guata con gli occhi. Or l'agitar dei dadi</l>
+<l>Entro ai sonanti bossoli comincia;</l>
+<l>Ora il picchiar de' bossoli sul piano;</l>
+<l>Ora il vibrar, lo sparpagliar, l'urtare,</l>
+<l>Il cozzar de' due dadi; or de le mosse</l>
+<l>Pedine il martellar. Torcesi e freme</l>
+<l>Sbalordito il geloso: a fuggir pensa,</l>
+<l>Ma rattienlo il sospetto. Il romor cresce</l>
+<l>Il rombazzo, il frastono, il rovinìo.</l>
+<l>Ei più regger non puote; in piedi balza,</l>
+<l>E con ambe le man tura gli orecchi.</l>
+<l>Tu vincesti o Mercurio: il cauto amante</l>
+<l>Poco disse, e la bella intese assai.</l></lg>
+<lg><l>Tal ne la ferrea età quando gli sposi</l>
+<l>Folle superstizion chiamava all'armi</l>
+<l>Giocato fu. Ma poi che l'aureo fulse</l>
+<l>Secol di novo, e che del prisco errore</l>
+<l>Si spogliàro i mariti, al sol diletto</l>
+<l>La Dama, e il Cavalier volsero il gioco</l>
+<l>Che la necessità scoperto avea.</l>
+<l>Fu superfluo il romor: di molle panno</l>
+<l>La tavola vestissi, e de' patenti</l>
+<l>Bossoli 'l sen: lo schiamazzìo molesto</l>
+<l>Tal rintuzzossi; e durò al gioco il nome</l>
+<l>Che ancor l'antico strepito dinòta.</l></lg>
+<lg><l>Già de le fere, e degli augelli il giorno,</l>
+<l>E de' pesci notanti, e de' fior varj,</l>
+<l>Degli alberi, e del vulgo al suo fin corre.</l>
+<l>Di sotto al guardo dell'immenso Febo</l>
+<l>Sfugge l'un Mondo; e a berne i vivi raggi</l>
+<l>Cuba s'affretta, e il Messico, e l'altrice</l>
+<l>Di molte perle California estrema.</l>
+<l>Già da' maggiori colli, e da l'eccelse</l>
+<l>Torri il Sol manda gli ultimi saluti</l>
+<l>All'Italia, fuggente; e par, che brami</l>
+<l>Rivederti, o Signore, anzi che l'Alpe,</l>
+<l>O l'Appennino, o il mar curvo ti celi</l>
+<l>Agli occhi suoi. Altro finor non vide,</l>
+<l>Che di falcato mietitore i fianchi</l>
+<l>Su le campagne tue piegati e lassi,</l>
+<l>E su le armate mura or fronti or spalle</l>
+<l>Carche di ferro, e su le aeree capre</l>
+<l>Degli edificj tuoi man scabre e arsicce,</l>
+<l>E villan polverosi innanzi ai carri</l>
+<l>Gravi del tuo ricolto, e sui canali</l>
+<l>E sui fertili laghi irsute braccia</l>
+<l>Di remigante che le alterne merci</l>
+<l>Al tuo comodo guida ed al tuo lusso,</l>
+<l>Tutt'ignobili oggetti. Or colui vegga,</l>
+<l>Che da tutti servito, a nullo serve.</l></lg>
+<lg><l>Già di cocchi frequente il Corso splende:</l>
+<l>E di mille che là volano rote</l>
+<l>Rimbombano le vie. Fiero per nova</l>
+<l>Scoperta biga il giovine leggiadro</l>
+<l>Che cesse al carpentier gli avìti campi</l>
+<l>Là si scorge tra i primi. All'un de' lati</l>
+<l>Sdrajasi tutto: e de le stese gambe</l>
+<l>La snellezza dispiega. A lui nel seno</l>
+<l>La conoscenza del suo merto abbonda;</l>
+<l>E con gentil sorriso arde e balena</l>
+<l>Su la vetta del labbro; o da le ciglia,</l>
+<l>Disdegnando, de' cocchi signoreggia</l>
+<l>La turba inferior: soave intanto</l>
+<l>Egli alza il mento, e il gomito protende;</l>
+<l>E mollemente la man ripiegando,</l>
+<l>I merletti finissimi su l'alto</l>
+<l>Petto si ricompon con le due dita.</l>
+<l>Quinci vien l'altro che pur oggi al cocchio</l>
+<l>Dai casali pervenne, e già s'ascrive</l>
+<l>Al concilio de' numi. Egli oggi impara</l>
+<l>A conoscere il vulgo, e già da quello</l>
+<l>Mille miglia lontan sente rapirsi</l>
+<l>Per lo spazio de' cieli. A lui davanti</l>
+<l>Ossequiosi cadono i cristalli</l>
+<l>De' generosi cocchi oltrepassando;</l>
+<l>E il lusingano ancor perchè sostegno</l>
+<l>Sia de la pompa loro. Altri ne viene</l>
+<l>Che di compro pur or titol si vanta;</l>
+<l>E pur s'affaccia, e pur gli orecchi porge,</l>
+<l>E pur sembragli udir da tutti i labbri</l>
+<l>Sonar le glorie sue: Mal abbia il lungo</l>
+<l>De le rote stridore, e il calpestìo</l>
+<l>De' ferrati cavalli, e l'aura, e il vento</l>
+<l>Che il bel tenor de le bramate voci</l>
+<l>Scender non lascia a dilettargli 'l core.</l>
+<l>Di momento in momento il fragor cresce,</l>
+<l>E la folla con esso. Ecco le vaghe</l>
+<l>A cui gli amanti per lo dì solenne</l>
+<l>Mendicarono i cocchi. Ecco le gravi</l>
+<l>Matrone che gran tempo arser di zelo</l>
+<l>Contro al bel Mondo, e dell'ignoto Corso</l>
+<l>La scelerata polvere dannàro;</l>
+<l>Ma poi che la vivace amabil prole</l>
+<l>Crebbe, e invitar sembrò con gli occhi Imene,</l>
+<l>Cessero alfine; e le tornite braccia,</l>
+<l>E del sorgente petto i rugiadosi</l>
+<l>Frutti prudentemente al guardo aprìro</l>
+<l>Dei nipoti di Giano. Affrettan quindi</l>
+<l>Le belle cittadine, ora è più lustri</l>
+<l>Note a la Fama, poi che ai tetti loro</l>
+<l>Dedussero gli Dei; e sepper meglio,</l>
+<l>E in più tragico stil da la <foreign lang="fra">toilette</foreign></l>
+<l>Ai loro amici declamar l'istoria</l>
+<l>De' rotti amori; ed agitar repente</l>
+<l>Con celebrata convulsion la mensa,</l>
+<l>Il teatro, e la danza. Il lor ventaglio</l>
+<l>Irrequieto sempre or quinci or quindi</l>
+<l>Con variata eloquenza esce e saluta.</l>
+<l>Convolgonsi le belle: or su l'un fianco</l>
+<l>Or su l'altro si posano tentennano</l>
+<l>Volteggiano si rizzan, sul cuscino</l>
+<l>Ricadono pesanti, e la lor voce</l>
+<l>Acuta scorre d'uno in altro cocchio.</l></lg>
+<lg><l>Ma ecco alfin che le divine spose</l>
+<l>Degl'Italici eroi vengono anch'esse.</l>
+<l>Io le conosco ai messaggier volanti</l>
+<l>Che le annuncian da lungi, ed urtan fieri,</l>
+<l>E rompono la folla; io le conosco</l>
+<l>Da la turba de' servi al vomer tolti,</l>
+<l>Perchè oziosi poi diretro pendano</l>
+<l>Al carro trionfal con alte braccia.</l>
+<l>Male a Giuno ed a Pallade Minerva</l>
+<l>E a Cinzia e a Citerea mischiarvi osate</l>
+<l>Voi pettorute Naiadi e Napee</l>
+<l>Vane di picciol fonte o d'umil selva</l>
+<l>Che agli Egipani vostri in guardia diede</l>
+<l>Giove dall'alto. Vostr'incerti sguardi,</l>
+<l>Vostra frequente inane maraviglia,</l>
+<l>E l'aria alpestre ancor de' vostri moti</l>
+<l>Vi tradiscono, ahi lasse, e rendon vana</l>
+<l>La multiplice in fronte ai palafreni</l>
+<l>Pendente nappa, ch'usurpar tentaste,</l>
+<l>E la divisa onde copriste il mozzo</l>
+<l>E il cucinier che la seguace corte</l>
+<l>Accrebber stanchi, e i miseri lasciàro</l>
+<l>Canuti padri di famiglia soli</l>
+<l>Ne la muta magion serbati a chiave.</l>
+<l>Troppo da voi diverse esse ne vanno</l>
+<l>Ritte negli alti cocchi alteramente;</l>
+<l>E a la turba volgare che si prostra</l>
+<l>Non badan punto: a voi talor si volge</l>
+<l>Lor guardo negligente, e par, che dica:</l>
+<l>Tu ignota mi sei; o nel mirarvi</l>
+<l>Col compagno susurrano ridendo.</l></lg>
+<lg><l>Le giovinette madri degli eroi</l>
+<l>Tutto empierono il Corso, e tutte han seco</l>
+<l>Un giovinetto eroe, o un giovin padre</l>
+<l>D'altri futuri eroi, che a la <foreign lang="fra">toilette</foreign></l>
+<l>A la mensa, al teatro, al corso, al gioco</l>
+<l>Segnaleransi un giorno; e fien cantati,</l>
+<l>S'io scorgo l'avvenir, da tromba eguale</l>
+<l>A quella che a me diede Apollo, e disse:</l>
+<l>Canta gli Achilli tuoi, canta gli Augusti</l>
+<l>Del secol tuo. Sol tu manchi, o Pupilla</l>
+<l>Del più nobile mondo: ora ne vieni,</l>
+<l>E del rallegratore de le cose</l>
+<l>Rallegra or tu la moribonda luce.</l></lg>
+<lg><l>Già d'untuosa polvere novella</l>
+<l>Di propria man la tabacchiera empisti</l>
+<l>A la tua Dama, e di novelli odori</l>
+<l>Il cristallo dorato; ed al suo crine</l>
+<l>La bionda che svanìo polve tornasti</l>
+<l>Con piuma dilicata; e adatto al giorno</l>
+<l>Le scegliesti 'l ventaglio: al pronto cocchio</l>
+<l>Di tua man la guidasti, e già con essa</l>
+<l>Precipitosamente al Corso arrivi.</l>
+<l>Il memore cocchier serbi quel loco</l>
+<l>Che voi dianzi sceglieste, e voi non osi</l>
+<l>Tra le ignobili rote esporre al vulgo,</l>
+<l>Se star fermi vi piace, od oltre scorra,</l>
+<l>Se di scorrer v'aggrada. Uscir del cocchio</l>
+<l>Ti fia lecito ancor. T'accolgan pronti</l>
+<l>Allo scendere i servi. Ancora un salto</l>
+<l>Spicca; e rassetta i rincrespati panni,</l>
+<l>E le trine sul petto: un po' t'inchina,</l>
+<l>Ed ai lievi calzàri un guardo volgi;</l>
+<l>Ergiti, e marcia dimenando il fianco.</l>
+<l>Il Corso misurar potrai soletto,</l>
+<l>S'ami di passeggiare; anco potrai</l>
+<l>Dell'altrui Dame avvicinarti al cocchio,</l>
+<l>E inerpicarti, et introdurvi 'l capo</l>
+<l>E le spalle e le braccia, e mezzo ancora</l>
+<l>Dentro versarti. Ivi sonar tant'alto</l>
+<l>Fa le tue risa, che da lunge gli oda</l>
+<l>La tua Dama, e si turbi, ed interrompa</l>
+<l>Il celiar degli eroi che accorser tosto</l>
+<l>Tra 'l dubbio giorno a custodir la bella</l>
+<l>Che solinga lasciasti. O sommi numi</l>
+<l>Sospendete la Notte; e i fatti egregi</l>
+<l>Del mio Giovin Signor splender lasciate</l>
+<l>Al chiaro giorno. Ma la Notte segue</l>
+<l>Sue leggi inviolabili, e declina</l>
+<l>Con tacit'ombra sopra l'emispero;</l>
+<l>E il rugiadoso piè lenta movendo,</l>
+<l>Rimescola i color varj infiniti,</l>
+<l>E via gli spazza con l'immenso lembo</l>
+<l>Di cosa in cosa: e suora de la morte</l>
+<l>Un aspetto indistinto, un solo volto</l>
+<l>Al suolo, ai vegetanti, agli animali,</l>
+<l>A i grandi, ed a la plebe equa permette;</l>
+<l>E i nudi insieme, ed i dipinti visi</l>
+<l>De le belle confonde, e i cenci e l'oro.</l>
+<l>Nè veder mi concede all'aer cieco</l>
+<l>Qual de' cocchi si parta, o qual rimanga</l>
+<l>Solo all'ombre segrete; e a me di mano</l>
+<l>Toglie il pennello; e il mio Signore avvolge</l>
+<l>Per entro al tenebroso umido velo.</l>
+</lg>
+</div1>
+</body>
+</text>
+</TEI.2>

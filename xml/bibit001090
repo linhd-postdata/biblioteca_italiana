@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Epigrammi (1812)</title>
+      <author>Giacomo Leopardi</author>
+    </titleStmt>
+    <extent>27 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001090</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le opere</title>
+        <author>Leopardi, Giacomo</author>
+        <editor id="ed">Felici, Lucio</editor>
+        <publisher>Lexis Progetti Editoriali</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1998</date>
+        <note>L'edizione elettronica fa riferimento al testo Giacomo Leopardi, Tutte le opere, a cura di W. Binni-E. Ghidetti, I, Firenze, Sansoni 1989.</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language><language id="fre">Francese</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>858.7 - MISCELLANEA ITALIANA. 1814-1859</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-04-19T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Valeriano Fiori</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-04-19T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="Introduzione"><epigraph lang="lat"><lg><l>Omne epigramma sit instar apis; sit aculeus illi,</l>
+<l>Sint sua mella, et sit corporis exigui.</l></lg></epigraph>
+<head>Discorso preliminare</head>
+<p>Epigramma vien definito da M. Lacombe "<quote>un poemetto, che terminasi d'ordinario con un pensier vivo, vibrato e inaspettato. Possonsi distinguere, segue egli, due generi d'epigrammi. Il primo raggirasi intorno dizioni unite o contrarie infra loro: la seconda specie consiste nel giro de' pensieri. Di questi pensieri d'epigrammi altri son vivi e sorprendono, altri son puramente natii e dilettano colla loro sola semplicità</quote>". L'arguzia ed il sale dell'epigramma formano la sua dote principale. Lo stile vibrato e racchiuso in un breve giro di parole è quello che lo caratterizza. Secondo Boileau,
+<quote rend="block" lang="fra"><l>L'épigramme plus libre en son tour plus borné</l>
+<l>N'est souvent qu'un bon mal de deux rimes orné.</l></quote>
+Infatti i <foreign lang="fra">bons-mots</foreign> de' Francesi sogliono formar l'anima degli epigrammi. Senza questi egli non è, d'ordinario, che un languido e freddo giro di parole privo di ogni venustà e d'ogni lepore. La natura di questi motti "<quote>è cotale...</quote>", secondo il Boccaccio, "<quote>ch'essi come la pecora morde così devon morder l'uditore, e non come il cane; perciocchè, se come cane mordesse, il motto non sarebbe motto, ma villania</quote>". Ed egli è certo difatto che que' sali pungenti e satirici, di cui son ripiene le commedie del Machiavello, del Bibbiena e di altri, non son altramente epigrammatici, perchè privi di quella dote principale che dee formarne il carattere.</p>
+<p>Può dirsi che tutte le colte nazioni abbiano sempre fatto gran conto dell'epigramma. Sin presso gli antichi greci l'epigramma fu tenuto in gran pregio; e narrasi difatto che un epigramma composto da Archimelo ateniese sopra una nave costruita sotto alla direzione di Archimede celebre matematico, fu premiato da Ierone con mille misure di frumento chiamate medimne. Questo epigramma peranco si conserva. Presso i latini Marziale, Claudiano, Ausonio composero epigrammi. Il primo, sebbene con una meravigliosa dolcezza faccia uso assai spesso de' sali epigrammatici, ha nondimeno degli epigrammi assai mediocri e pieni di oscenità. Palesò egli medesimo il carattere delle sue opere, allorchè scrisse in uno de' suoi epigrammi: <quote lang="lat">Sunt Bona, sunt quaedam mediocria, sunt mala plura</quote>. Il secondo è di latinità non molto tersa e, sebbene assai dolci ed eleganti siano i suoi epigrammi, essi sono bene spesso pieni di giovanili motteggi, che forse non molto degno lo resero della statua, che per ordine degl'imperatori Arcadio ed Onorio fugli innalzata. Il terzo si fu uno de' migliori e più celebri poeti latini. Il solo suo epigramma di Venere armata e di Pallade può esser bastante a formarne l'elogio.</p>
+<p>Gli epigrammi però, che per l'acutezza e brevità dello stile son capaci di farci conoscere il carattere del linguaggio in cui sono scritti, non sono molto communi in Italia. Forse la copia de' sali irreligiosi, osceni e satirici, di cui abbondano le opere di Machiavello, Berni, Boccaccio e d'altri, fu quella che la distolse dall'attendere all'epigramma. L'Alamanni tentò d'introdurli in Italia, componendo egli medesimo un sufficiente numero d'epigrammi, i quali però, per la loro insulsaggine e per gl'inetti pensieri di cui son ripieni, non furon capaci di risvegliare il genio degl'Italiani, ed il gusto de' <foreign lang="fra">bons mots</foreign> rimase sopito in Italia. Pure la lingua italiana è attissima a simili componimenti per l'energia e vibratezza del suo stile, col mezzo del quale il nostro Davanzati giunse a superare o almeno a pareggiare in brevità di espressioni la stessa lingua latina. Non posson soffrirsi da un vero Italiano, acceso di zelo per l'onore del linguaggio della sua patria, quelle parole di Girard, celebre pe' suoi sinonimi, cioè: "<quote>La lingua francese è forse la più disposta alla perfezione; consistendo il suo carattere nella chiarezza, la purità, la finezza e la forza. Propria ad ogni genere di scrittura, ella è stata preferita a tutte le altre lingue d'Europa, come quella della politica generale di questa parte del mondo, e per conseguenza ella è la sola che abbia trionfato della latina</quote>". Lusingano il mio amor patrio quelle parole di Voltaire, il quale chiama la lingua francese "<quote>imbarazzata di articoli, sprovveduta d'inversioni, povera in termini poetici, sterile in giri arditi, schiava dell'eterna monotonìa della rima, e contuttociò mancante di rime pei soggetti elevati</quote>" ec. Ma, per non entrare in dispute di tal fatta, egli è fuor di dubbio che la dolcezza, la fluidità, la precisione della lingua italiana la rendono altissima all'epigramma, non meno e forse anco più della francese. Mi si perdoni la digressione, che ad un vero patriota non può non esser lecita, e torno in sentiero.</p>
+<p>Non può negarsi che i Francesi abbiano quasi sempre avuta una sorprendente inclinazione ai <foreign lang="fra">bons-mots</foreign>, la quale fece sì che i loro autori fossero considerati come i modelli dello stile epigrammatico. Boileau Despréaux vien dai francesi riputato il miglior scrittore in tal genere. I suoi epigrammi e le sue satire, qualora non trascorrano in uno stile troppo aspro e pungente, sono piene di bei motti e di sali eleganti. Egli assai commenda nella sua <title>Arte poetica</title> il celebre Marot, e giunge perfino a proporlo come modello del motteggio elegante. Questi si fu difatto assai inclinato al piacevole, e palesa nelle sue opere e ne' suoi epigrammi un tal genio vivace e giocoso. Se egli non avesse di tratto in tratto frammischiati a' suoi componimenti de' motti osceni e ributtanti, potrebbe forse venir considerato come uno de' migliori autori epigrammatici. Egli fu che diede il nome ad un genere di poesia, che usavan sovente i francesi nell'epigramma, ed è quella che vien nominata Marotica. Il celebre Francesco Malherbe, il famoso Maynard, Pellegrin, Racan, Ronsard, il primo che abbia osato scrivere un poema epico in lingua francese, e quegli che venne dichiarato poeta francese per eccellenza, Giambattista Rousseau, Saint-Évremond, Saint-Pavin, De la Fresnaye, Sarrasin, Boudier, Boursault, Brebeuf ed altri molti, si segnalarono tra i francesi in vari tempi nell'epigramma. Molière, Racine, La Mothe, Fontenelle, Dorat, Piron, Voltaire ambirono ancor eglino di esser detti epigrammatici. Una raccolta dei migliori epigrammi sì francesi che latini, italiani ec. può vedersi nelle <title>Lettere sopra gli epigrammi</title> a Lesbia Cidonia di Saverio Bettinelli, le quali, secondo le parole di un Giornale, "<quote>potran formare un trattato compiuto di tali componimenti</quote>".</p>
+<p>L'epigramma, che sì pregiato vedemmo dai Greci, dai Latini e dai Francesi, non lo fu meno dagli Spagnuoli, dagli Alemanni e dagl'Inglesi, essendo questo un parto del genio, nel quale visibilmente si manifesta il gusto e il carattere dello scrittore. La nostra Italia farà ancor essa a gran senno se abbracciar vorrà un tal genere di componimento, il quale da più autori italiani del presente e del passato secolo venne già felicemente trattato.</p></div1>
+<div1 type="poesia"><head>I</head>
+<lg><l>Ben di Nume l'aspetto e lo splendore</l>
+<l>Può dirsi aver Damon, mentre somiglia</l>
+<l>Vulcan ne' piedi suoi, negli occhi Amore.</l></lg></div1>
+<div1 type="poesia"><head>II</head>
+<head>PER UNA CIVETTA</head>
+<lg><l>Ecco l'augel di Palla; il suo pavone,</l>
+<l>Vago per mille e mille almi colori,</l>
+<l>Ben può Giano scordare al paragone.</l></lg></div1>
+<div1 type="poesia"><head>III</head>
+<head>EPITAFFIO AD UNA CAGNOLINA</head>
+<lg><l>Morta Dorina è qui: l'irata Dea</l>
+<l>La trafisse de' boschi, a sdegno mossa</l>
+<l>Perchè in beltade i cani suoi vincea.</l></lg></div1>
+<div1 type="poesia"><head>IV</head>
+<head>SOPRA L'INCENDIO DEL TEMPIO DI DIANA IN EFESO</head>
+<lg><l>Breve per farsi al sommo onor la via,</l>
+<l>Arse taluno di Lucina il tempio:</l>
+<l>Ben presto in fuoco e fiamme il mondo andria</l>
+<l>Se ognun seguisse un sì felice esempio.</l></lg></div1>
+<div1 type="poesia"><head>V</head>
+<note resp="aut" place="inter"><p>[dal latino di Ausonio]</p></note>
+<lg><l>Venere in Sparta armata Pallade vide, e: Sia,</l>
+<l>Disse, compiuta alfine or la vendetta mia.</l></lg>
+<lg><l>Qui combattiam tra noi; sia del comun valore</l>
+<l>Giudice ancor, se il brami, il Dardano Pastore.</l></lg>
+<lg><l>Venere ad essa: Invano cerchi vendetta irata;</l>
+<l>Se già ti vinsi inerme, perchè mi sprezzi armata?<note resp="aut" place="foot"><quote rend="block" lang="lat"><lg><l>Armatam vidit Venerem Lacedaemone Pallas:/</l>
+<l>Nunc certemus, ait, iudice vel Paride./</l>
+<l>Cui Venus: Armatam cur me temeraria temnis,/</l>
+<l>Quae quo te vici tempore inermis eram?/</l></lg>
+<bibl>AUSONIO.</bibl></quote>
+<p>Quasi tutte le traduzioni italiane, che abbiamo di questo epigramma, sono indegne di sì bell'originale. L'Alamanni lo tradusse così:
+<quote rend="block"><lg><l>Vide Vener armata Palla, e disse:/</l>
+<l>Combattiam ora, e giudichi Parisse./</l>
+<l>A cui Vener: Tu, stolta, armata spregi/</l>
+<l>Chi già nuda ti vinse e porta pregi?/</l></lg></quote>
+Subleyras così:
+<quote rend="block"><lg><l>Pallade vide armata Citerea,/</l>
+<l>E disse: Vuoi combatter meco, o Dea?/</l>
+<l>Rispose questa: E come osi sfidarmi?/</l>
+<l>Nuda io ti vinsi, or che farei con l'armi?/</l></lg></quote>
+Groto così:
+<quote rend="block"><lg><l>Vide Minerva un dì di piastra e maglia/</l>
+<l>Venere armata gir pel mondo, a cui:/</l>
+<l>Or disse entriamo a singolar bataglia,/</l>
+<l>Con Paride anco giudice tra nui./</l>
+<l>Cui Citerea rispose: Adunque vui/</l>
+<l>Credete ch'io per vincervi non sia/</l>
+<l>Armata, se vi vinsi ignuda pria?/</l></lg></quote>
+Se quella che qui si presenta non è scevra di ogni difetto, essa non teme forse il confronto di queste.</p></note></l></lg></div1>
+<div1 type="poesia"><head>VI</head>
+<lg><l>O celebre Pittor, facil ti fia</l>
+<l>Bavio ritrar senza vederlo ancora,</l>
+<l>Sol che dipinger sappi la pazzia.</l></lg></div1>
+<div1 type="poesia"><head>VII</head>
+<lg><l>Un compagno ha Filen di bruno ammanto,</l>
+<l>Emulator de' più canori augelli.</l>
+<l>Che vinto è sol dal suo signor nel canto.</l></lg></div1>
+<div1 type="poesia"><head>VIII</head>
+<lg><l>Ben de' poeti dell'età d'Augusto</l>
+<l>Sono Dafni e Menalca imitatori,</l>
+<l>Se Mevio superàr, l'un dei migliori.</l></lg></div1>
+<div1 type="poesia"><head>IX</head>
+<lg><l>Ben sovente Coridone</l>
+<l>Della gotta si lamenta;</l>
+<l>Pur non è questo il sol male</l>
+<l>Che insoffribil lo tormenta,</l>
+<l>Mentre ognor co' creditori</l>
+<l>La chiragra ei soffre ancor.</l></lg></div1>
+<div1 type="poesia"><head>X</head>
+<head>EPITAFFIO AL SANNAZARO</head>
+<note resp="aut" place="inter"><p>[dal latino]</p></note>
+<lg><l>Spargi qui fiori, ove a Maron vicino</l>
+<l>Ha di giacere il vanto</l>
+<l>Chi sì vicin di già fu a lui nel canto.<note resp="aut" place="foot" lang="lat"><lg><l>Da sacro cineri flores: bic ille Maroni/</l>
+<l>Sincerus Musa proximus ut tumulo.</l></lg></note></l></lg></div1>
+<div1 type="poesia"><head>XI</head>
+<lg><l>Niun presta a Tirsi fè; pur noto è bene</l>
+<l>Che la data parola, in ogni incontro,</l>
+<l>Infin che ciò gli giova, egli mantiene.</l></lg></div1>
+<div1 type="poesia"><head>XII</head>
+<lg><l>Di Dameta la tragedia</l>
+<l>Ben commuove i nostri affetti,</l>
+<l>E provato abbiam noi già</l>
+<l>Qual pietade essa ci fa.</l></lg></div1>
+<div1 type="poesia"><head>XIII</head>
+<lg><l>Preso dal freddo, Empedocle gittossi</l>
+<l>Nell'Etna ardente: una simil pazzia</l>
+<l>Forse in estate fatta non avria.</l></lg></div1>
+<div1 type="poesia"><head>XIV</head>
+<head>IN MORTE DI UN ALCHIMISTA</head>
+<lg><l>Dopo feroce ed ostinato male,</l>
+<l>Uccise Morte per isbaglio Elpino,</l>
+<l>Scordandosi ch'egli era un immortale.<note resp="aut" place="foot"><p>È nota la pazzia degli Alchimisti, i quali pretendeano poter trovare un elissir di vita che li rendesse immortali.</p></note></l></lg></div1>
+<div1 type="poesia"><head>XV</head>
+<head>PER UN CANARINO AD UN POETA</head>
+<lg><l>Ben di te stesso immago</l>
+<l>Sì amabil augellin</l>
+<l>Può dirsi; egli, che sempre</l>
+<l>La sera ed il mattin</l>
+<l>All'aure gode spargere</l>
+<l>Delle sue voci il suon.</l></lg>
+<lg><l>Di te, che, non mai stanco,</l>
+<l>Colla maestra man</l>
+<l>Tratti le corde aurate,</l>
+<l>E al verde colle e al pian</l>
+<l>Delle tue voci armoniche</l>
+<l>Insegni a risonar.</l></lg></div1>
+<div1 type="poesia"><head>XVI</head>
+<lg><l>Nel far versi, o Mopso, invero</l>
+<l>Più di me veloce sei;</l>
+<l>Pure i tuoi pria che tu mora</l>
+<l>Forse morran mentre vivranno i miei.</l>
+<l>Giusto è ben, nè alcuno il nega,</l>
+<l>Che ciò che costa più, più duri ancora.</l></lg></div1>
+<div1 type="poesia"><head>XVII</head>
+<lg><l>In un pozzo gittossi or or Narcisso,</l>
+<l>Nè biasimarlo io so; forse egli volle</l>
+<l>Clelia al fiume imitar, Curzio all'abisso.</l></lg></div1>
+<div1 type="poesia"><head>XVIII</head>
+<head>A PIRRO, RE DEGLI EPIROTI PER UNA VITTORIA, LA QUALE COSTÒGLI MOLTISSIMI SOLDATI</head>
+<lg><l>Pirro, che speri? ah! che de' tuoi la morte</l>
+<l>Sì breve non compensa aura di gloria:</l>
+<l>Inerme in braccio alla nemica sorte</l>
+<l>Potrà ridurti altra simil vittoria.</l></lg></div1>
+<div1 type="poesia"><head>XIX</head>
+<lg><l>Certo ben raro egli è di Tirsi il libro,</l>
+<l>E tal, che un sol l'ha in mano,</l>
+<l>E forse altrove invano</l>
+<l>Ricercar lo vorresti:</l>
+<l>Un sol l'ha in mano, ed il libraro è questi.</l></lg></div1>
+<div1 type="poesia"><head>XX</head>
+<lg><l>Con ogni studio ed arte il saggio Orgone</l>
+<l>Dipinse in tela vivamente un matto;</l>
+<l>Così descrisse il vero suo ritratto.</l></lg></div1>
+<div1 type="poesia"><head>XXI</head>
+<lg><l>Di Tragico e di Comico alla volta</l>
+<l>Volle Alceste acquistar la gloria, e invero</l>
+<l>Sopra d'ogni scrittor la palma ha tolta:</l>
+<l>E tal, che ognuno è in asserir sincero</l>
+<l>Sè lagrimar commosso alla Commedia,</l>
+<l>E rider può sovente alla Tragedia.</l></lg></div1>
+<div1 type="poesia"><head>XXII</head>
+<head>EPITAFFIO AD UN VIAGGIATORE</head>
+<lg><l>Qui giace il vecchio Orgon che, fin che visse</l>
+<l>Meta a' viaggi suoi mai non prescrisse.</l>
+<l>Fissò qui Morte alfin la sua dimora:</l>
+<l>Se ciò non fosse, egli errerebbe ancora.</l></lg></div1>
+<div1 type="poesia"><head>XXIII</head>
+<head>PER OTTAVIO POETA LATINO, CHE MORÌ BEVENDO</head>
+<lg><l>Simile ad Ila, Ottavio fu dagli Dei rapito;</l>
+<l>Quei dalle Ninfe, e questi da Bacco in un convito.</l></lg>
+<lg><l>Quei, nelle fonti ascoso, preda si fu dell'acque;</l>
+<l>Questi, dal vino oppresso, vittima esangue giacque.<note resp="aut" place="foot"><p>Sopra questo soggetto medesimo noi abbiamo il seguente antico epigramma:</p>
+<quote rend="block" lang="lat"><lg><l>Quis deus, Octavi, te nobis abstulit? an qua/</l>
+<l>Dicunt: Ab nimio pocula dura mero?/</l>
+<l>Scripta guidem tua nos multum mirabimur, et te/</l>
+<l>Raptum, et romanam flebimus historiam.</l></lg></quote></note></l></lg></div1>
+<div1 type="poesia"><head>XXIV</head>
+<lg><l>Sommo poeta ben può dirsi Elpino,</l>
+<l>Mentre Tirteo ne' piè, negli occhi Omero,</l>
+<l>E Orazio imita nell'amor del vino;</l>
+<l>Sol di questi non ha l'arte e il pensiero.<note resp="aut" place="foot"><p>Tirteo fu zoppo, e Omero cieco, secondo molti autori. </p></note></l></lg></div1>
+<div1 type="poesia"><head>XXV</head>
+<lg><l>Sol d'Apollo e delle Muse</l>
+<l>Vuol Niceste dirsi amico,</l>
+<l>Nè le fonti a lui son chiuse</l>
+<l>D'Aganippe e d'Ippocren.</l></lg>
+<lg><l>Pur di queste ei non si cura,</l>
+<l>Nè sol acqua bever ama,</l>
+<l>Quel liquor che infonde ei brama</l>
+<l>Estro insieme e sanità.</l></lg></div1>
+<div1 type="poesia"><head>XXVI</head>
+<head>SOPRA UN ULIVO INTORNO A CUI INTRECCIOSSI UNA VITE</head>
+<note resp="aut" place="inter"><p>[dal latino]</p></note>
+<lg><l>Ahi qual me pianta di Minerva stringe</l>
+<l>Di Bacco odioso ingombro!</l>
+<l>Lungi da me di vite ogni racemo;</l>
+<l>Ebra esser detta, oh ciel, pavento e temo.<note resp="aut" place="foot" lang="lat"><lg><l>Quid me implicatis palmites/</l>
+<l>Plantam Minervae, non Bromii?/</l>
+<l>Procul racemos tollite,/</l>
+<l>Ne virgo dicar ebria.</l></lg></note></l></lg></div1>
+<div1 type="poesia"><head>XXVII</head>
+<head>PER UN LOSCO</head>
+<lg><l>Pingi, o Licida, Elpin, ma saggio imita</l>
+<l>Il greco Apelle, e nel fatal disastro</l>
+<l>L'arte a natura così presti aita.<note resp="aut" place="foot"><p>È noto che Apelle dipinse il ritratto di Antigono in profilo, nascondendo così la mancanza di un occhio, che questo principe avea perduto.</p></note></l></lg></div1>
+<div1 type="poesia"><head>XXVIII</head>
+<head>PER IL CELEBRE ASTRONOMO TICONE-BRAHÉ CHE AVENDO PERDUTO IL NASO SE NE RIFECE UNO D'ORO</head>
+<lg><l>Di Mida la virtù, nè strano è il caso,</l>
+<l>Ebbe da Bacco in dono il gran Ticone,</l>
+<l>E tal, che in oro poi cangiossi il naso.</l></lg></div1>
+<div1 type="poesia"><head>XXIX</head>
+<head>PER MALATTIA DI UN MEDICO</head>
+<lg><l>Benchè infermo Damon cura non prende</l>
+<l>D'opporsi a morte, che il suo nome istesso</l>
+<l>Troppo da' colpi suoi sicuro il rende.</l></lg></div1>
+<div1 type="poesia"><head>XXX</head>
+<head>PARRASIO A TIMANTE</head>
+<lg><l>D'esser vinto da te, no, non mi spiace;</l>
+<l>Ho duolo sol, perchè ora fu di nuovo</l>
+<l>Vinto da Ulisse il generoso Aiace.<note resp="aut" place="foot"><p>Parrasio pittore fu vinto da un altro pittore Timante, con un quadro che rappresentava il giudizio pronunziato da' Greci sopra le armi di Achille. In questa occasione egli disse quelle parole che sono espresse in questo epigramma.</p></note></l></lg></div1>
+<div1 type="poesia"><head>XXXI</head>
+<lg><l>Di colomba innocentissima</l>
+<l>Ha Niceste il bel costume</l>
+<l>Mentre solo a torri candide</l>
+<l>Ei rivolge le sue piume;</l>
+<l>Mio Niceste, in te giammai</l>
+<l>Innocenza simile io non bramai.<note resp="aut" place="foot" lang="lat"><quote><lg><l>Donec eris felix, multos numerabis amicos:/</l>
+<l>Tempora si fuerint nubila, solus eris:/</l>
+<l>Aspicis ut veniant ad candida tecta Columbae;/</l>
+<l>Accipiet nullas sordida turris aves./</l></lg>
+<bibl>OVIDIUS.</bibl></quote></note></l></lg></div1>
+<div1 type="poesia"><head>XXXII</head>
+<head>PER LA SPECOLA DI PADOVA</head>
+<note resp="aut" place="inter"><p>[dal latino]</p></note>
+<lg><l>Quella che un dì la strada all'ombre apria,</l>
+<l>Sotto gli adriaci auspicii</l>
+<l>Or facile alle stelle apre la via.<note resp="aut" place="foot"><quote lang="lat"><lg><l>Quae quondam infernas turris ducebat ad umbras,/</l>
+<l>Nunc, Venetum auspiciis, pandit ad astra viam./</l></lg></quote>
+<p>La specola di Padova fu fabbricata da Ezzelino per farvi morire i sui prigionieri.</p></note></l></lg></div1>
+<div1 type="poesia"><head>XXXIII</head>
+<note resp="aut" place="inter"><p>[dal latino di Marziale]</p></note>
+<lg><l>Ecco il Vesuvio, ove beate un giorno</l>
+<l>Ombre spandea la pampinosa vite;</l>
+<l>Ecco di Bacco il placido soggiorno,</l>
+<l>Ecco le balze al Nume sì gradite.</l></lg>
+<lg><l>Di Venere la sede ed il diletto</l>
+<l>Albergo è questo de' scherzosi Amori;</l>
+<l>Fu questo il luogo un dì cotanto accetto</l>
+<l>De' Satiri giocondi ai lieti cori.</l></lg>
+<lg><l>Tutto fu preda delle fiamme, e tutto</l>
+<l>Al suol consunto e incenerito giacque;</l>
+<l>Avvolge il colle spaventevol lutto:</l>
+<l>A' Numi istessi un tanto orror dispiacque.<note resp="aut" place="foot" lang="lat"><quote><lg><l>Hic est pampineis viridis modo Vesuvius umbris:/</l>
+<l>Presserat hic madidos nobilis uva lacus./</l>
+<l>Haec iuga quam Nisae colles plus Bacchus amavit:/</l>
+<l>Hoc nuper Satyri monte dedere choros./</l>
+<l>Haec Veneris sedes Lacedaemone gratior illi,/</l>
+<l>Hic locus Herculeo nomine clarus erat.</l>
+<l>Cuncta iacent flammis, et tristi mersa favilla:/</l>
+<l>Nec Superi vellent hoc licuisse sibi./</l></lg>
+<bibl>MARTIALIS.</bibl></quote></note></l></lg></div1>
+<div1 type="poesia"><head>XXXIV</head>
+<head>SOPRA LE ANTICHITÀ DELLE STIRPI</head>
+<note resp="aut" place="inter"><p>[dal francese]</p></note>
+<lg><l>Figli d'Adam tutti noi siamo; il vomere</l>
+<l>Guidò ciascuno e il suolo aprì, perfino</l>
+<l>Che stanco volle alcun la rustic'opera</l>
+<l>Abbandonar, chi a sera e chi al mattino.<note resp="aut" place="foot" lang="fra"><lg><l>D'Adam nous sommes tous enfants,/</l>
+<l>La prevue en est connue,/</l>
+<l>Et tous nos premiers parents/</l>
+<l>Ont traûné la charrue:/</l>
+<l>Mais, las de cultiver enfin/</l>
+<l>La terre labourée,/</l>
+<l>L'un a dételé le matin,/</l>
+<l>L'autre l'après-dîner.</l></lg></note></l></lg></div1>
+<div1 type="poesia"><head>XXXV</head>
+<lg><l>D'un Orator lo stile abborre Orcone,</l>
+<l>E, frutti, dice, ei prezza sol, non fiori;</l>
+<l>Sappi, io rispondo, amico,</l>
+<l>Che senza fiori aver può solo un fico.<note resp="aut" place="foot"><p>Il fico può dirsi l'unico frutto che nasca senza previa produzione di fiori. Quest'epigramma è ad imitazione di quello che ritrovai nella lettera XVII sopra gli epigrammi di Saverio Bettinelli, cioè:</p>
+<quote rend="block"><lg><l>Biasma l'ornato stile/</l>
+<l>Di Torniel gentile/</l>
+<l>Un Orator severo,/</l>
+<l>E grida in tuono austero/</l>
+<l>Di zelo ovver d'orgoglio:/</l>
+<l>Non fior ma frutti io voglio./</l>
+<l>Ed io: Ma i saggi tutti/</l>
+<l>Dicon che senza fior non nascon frutti.</l></lg></quote></note></l></lg></div1>
+<div1 type="poesia"><head>XXXVI</head>
+<head>IN MORTE DI CATONE</head>
+<lg><l>Dopo di mille generose imprese</l>
+<l>Diessi Caton la morte, ed in tal modo</l>
+<l>Vivo per sempre il suo morir lo rese.</l></lg></div1>
+<div1 type="poesia"><head>XXXVII</head>
+<head>DIALOGO TRA IL PASSEGGERO E LA TORTORA</head>
+<note resp="aut" place="inter"><p>[dal francese]</p></note>
+<sp><speaker>PASSEGGERO</speaker><l>A che per questi boschi</l>
+<l>Spargendo a' venti vai le tue querele?</l></sp>
+<sp><speaker>TORTORA</speaker><l>Ah ch'io perdei l'amica mia fedele.</l></sp>
+<sp><speaker>PASSEGGERO</speaker><l>Non temi, o tortorella, il cacciatore?</l></sp>
+<sp><speaker>TORTORA</speaker><l>Ah s'ei non è, m'uccide il mio dolore.<note resp="aut" place="foot" lang="fra"><sp><speaker>PASSAGER</speaker><l>Que fais-tu dans ce bois, plaintive tourterelle?/</l></sp>
+<sp><speaker>TOURTERELLE</speaker><l>Je gémis, j'ai perdu ma compagne fidèle./</l></sp>
+<sp><speaker>PASSAGER</speaker><l>Ne crains-tu pas que l'oiseleur/</l>
+<l>Te fasse mourir comme elle?/</l></sp>
+<sp><speaker>TOURTERELLE</speaker><l>Si ce n'est lui, ce sera ma douleur.</l></sp></note></l></sp></div1>
+<div1 type="poesia"><head>XXXVIII</head>
+<lg><l>Volte le vele alle remote genti,</l>
+<l>Bavio abbandona della patria il seno:</l>
+<l>Possan or le procelle amiche e i venti</l>
+<l>Farci del suo partir giocondi appieno.</l></lg></div1>
+<div1 type="poesia"><head>XXXIX</head>
+<l>SOPRA UN FONTE</l>
+<note resp="aut" place="inter"><p>[dal latino]</p></note>
+<lg><l>Ninfa, del sacro margine</l>
+<l>Custode, al fonte io sono;</l>
+<l>Qui dormo delle limpide</l>
+<l>Onde cadenti al suono.</l></lg>
+<lg><l>A chi si accosta il placido</l>
+<l>Mio sonno non dispiaccia;</l>
+<l>Della fresc'acqua gelida</l>
+<l>Beva, si bagni, e taccia.<note resp="aut" place="foot" lang="lat"><lg><l>Huius Nympha loci, sacri custodia fontis,/</l>
+<l>Dormio dum blandae sentio murmur aquae./</l>
+<l>Parce meum quisquis tangis cava marmora somnum/</l>
+<l>Rumpere; sive bibas sive lavere, tace.</l></lg></note></l></lg></div1>
+<div1 type="poesia"><head>XL</head>
+<head>IN MORTE DI FEDERICO SECONDO, RE DI PRUSSIA</head>
+<note resp="aut" place="inter"><p>[dal francese]</p></note>
+<lg><l>T'arresta... oimè! la forbice della funesta Parca</l>
+<l>I dì recise, ahi barbara! di così gran Monarca.</l></lg>
+<lg><l>Di lui, che, saggio e provvido, vate e guerriero insieme,</l>
+<l>De' regi fu l'esempio, de' sudditi la speme.</l></lg>
+<lg><l>Pel suo perire or vedesi in braccio al duol più vivo</l>
+<l>Gemere il popol misero, d'un re, d'un padre privo.</l></lg>
+<lg><l>Ecco già Temi e Pallade, già l'eliconio stuolo</l>
+<l>La tomba sua circondano con taciturno duolo.</l></lg>
+<lg><l>Cadde di palme carico colui che invitto e fiero</l>
+<l>In campo fe' qual fulmine tremare il mondo intero.</l></lg>
+<lg><l>Assai visse alla gloria, poco all'onor sovrano.</l>
+<l>O Temi, o Muse, o Pallade, ah voi piangete invano.</l></lg>
+<lg><l>Calmate, orfano popolo, la vostra doglia estrema,</l>
+<l>D'un nuovo Eroe le tempia cinge il regal diadema.<note resp="aut" place="foot" lang="fra"><lg><l>C'en est fait, le ciseau de la cruelle Parque/</l>
+<l>Vient de couper le fil des jours de ce Monarque:/</l>
+<l>Qui, guerrier, philosophe et poète à la fois,/</l>
+<l>Fut l'ornement du siècle et l'exemple des Rois./</l>
+<l>Son trépas cause au loin les plus vives alarmes;/</l>
+<l>Privé d'un père, on voit son peuple fondre en larmes./</l>
+<l>Déjà Thémis, Pallas et les Muses en deuil/</l>
+<l>Dans un morne silence entourent son cercueil./</l>
+<l>Tous pleurent ce Nestor comblé d'ans et de gloire/</l>
+<l>Ce Nestor qui vecut assez pour se mémoire:/</l>
+<l>Assez pour ses exploits, trop peu pour ses sujets./</l>
+<l>Muses, Pallas, Thémis cessez les vains regrets;/</l>
+<l>Calmez, peuple orphelin votre douleur extrémé;/</l>
+<l>Un nouveau Frédéric a céint le diadème.</l></lg></note></l></lg></div1>
+</body>
+</text>
+</TEI.2>

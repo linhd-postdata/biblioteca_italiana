@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//BIBIT//DTD BibIt L1 TEI Document Type//EN" "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poesie di Mosco</title>
+            <author>Giacomo Leopardi</author>
+         </titleStmt>
+         <extent>42510 Kb in UTF-8</extent>
+         <publicationStmt>
+            <publisher>Biblioteca Italiana</publisher>
+            <pubPlace>Roma</pubPlace>
+            <date>2008</date>
+            <idno>bibit000613</idno>
+            <availability>
+               <p>Questa risorsa digitale è liberamente accessibile per uso
+                        personale o scientifico. Ogni uso commerciale è vietato</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Collezione BibIt</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Tutte le opere</title>
+               <author>Leopardi, Giacomo</author>
+               <editor id="ed">Felici, Lucio</editor>
+               <publisher>Lexis Progetti Editoriali</publisher>
+               <pubPlace>Roma</pubPlace>
+               <date>1998</date>
+               <note>L'edizione elettronica fa riferimento al testo: Giacomo Leopardi, Tutte le opere, a cura di W. Binni-E. Ghidetti, I, Firenze, Sansoni 1989.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <samplingDecl>
+            <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                digitale</p>
+         </samplingDecl>
+         <editorialDecl>
+            <correction method="silent" status="medium">
+               <p>Livello medio: controllo a video con collazione con edizione di
+                        riferimento</p>
+            </correction>
+            <quotation form="data" marks="all">
+               <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+            </quotation>
+            <hyphenation eol="none">
+               <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+            </hyphenation>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy id="CGB">
+               <bibl>Classificazione generi BibIt</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date>800</date>
+         </creation>
+         <langUsage>
+            <language id="ita">Italiano</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="CGB">
+               <term>Poesia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>Data sconosciuta anteriore al 2000</date>
+            <respStmt>
+               <name>LEXIS</name>
+            </respStmt>
+            <item>Digitalizzazione</item>
+         </change>
+         <change>
+            <date>Data sconosciuta anteriore al 2000</date>
+            <respStmt>
+               <name>LEXIS</name>
+            </respStmt>
+            <item>Correzione linguistica</item>
+         </change>
+         <change>
+            <date>2004-07-08T00:00:00.000+01:00</date>
+            <respStmt>
+               <name>Sonia Sabelli</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Codifica XML</item>
+         </change>
+         <change>
+            <date>2007-11-14T00:00:00.000+01:00</date>
+            <respStmt>
+               <name>Carla Deiana</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Validazione</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1>
+            <head>AMORE FUGGITIVO</head>
+            <lg>
+               <l>Venere un dì cercando Amor perduto,</l>
+               <l>Alto gridar s'udia: per sorte alcuno</l>
+               <l>Veduto avrebbe Amor pei trivii errante?</l>
+               <l>Il fuggitivo è mio: chi me l'addita</l>
+               <l>Sicuro premio avrà, di Cipri un bacio.</l>
+               <l>Che se trovato alcun mel tragga innanzi,</l>
+               <l>Non un mio bacio sol, più speri ancora.</l>
+               <l>A molti segni il mio figliuoli tra venti</l>
+               <l>Distinguer puoi: bianco non è, ma il fuoco</l>
+               <l>Somiglia nel color, furbe ed accese</l>
+               <l>Ha le pupille, è di maligna mente,</l>
+               <l>Dolce nel favellar, lingua bugiarda</l>
+               <l>Mellita voce egli ha; ma se si adira</l>
+               <l>È di selvaggio cor: garzon fallace,</l>
+               <l>Nemico a verità, brutal ne' giuochi,</l>
+               <l>Crespe ha le chiome, e di tiranno il volto,</l>
+               <l>Brevi ha le mani, pur da lungi scaglia</l>
+               <l>Fino a Stige lo stral: fino a Plutone.</l>
+               <l>Nudo è di corpo, ma di mente ascosa;</l>
+               <l>D'ali vestito, come augel saltella,</l>
+               <l>Or di quello, or di questa in cuor si asside.</l>
+               <l>Picciolo ha l'arco, ma sull'arco il dardo.</l>
+               <l>Picciolo il dardo, ma che giunge al cielo.</l>
+               <l>Grave di acerbi strali al fianco appesa</l>
+               <l>Ha una faretra d'oro, e me pur anco</l>
+               <l>Spesso ferì con quelle frecce; in lui</l>
+               <l>Tutto tutto è crudel, ma più di tutto</l>
+               <l>Quella, che reca in man, piccola tace,</l>
+               <l>Onde talor l'istesso sole infiamma.</l>
+               <l>Or se per caso il prendi, avvinto il traggi;</l>
+               <l>Non averne pietà; se piagner mostra,</l>
+               <l>Guarda che non t'inganni, e stretto il reca,</l>
+               <l>Se ride ancor; se vuol baciarti, il vieta:</l>
+               <l>Maligno è il bacio, e venenoso il labbro.</l>
+               <l>Che se pur dice: orsù, prendi, quest'armi</l>
+               <l>Tutte donar ti vo'; tu le ricusa;</l>
+               <l>Fallace è il dono, e fuoco son quell'armi.</l>
+            </lg>
+         </div1>
+         <div1>
+            <head>EUROPA</head>
+            <lg>
+               <l>	Già Venere ad Europa, della notte</l>
+               <l>Nella terza vigilia, allor che omai</l>
+               <l>Era presso il mattino, un dolce sogno</l>
+               <l>Mandò, quando il sopor sulle palpebre</l>
+               <l>Più soave del mel siede, e le membra</l>
+               <l>Lieve rilassa, ritenendo intanto</l>
+               <l>In molle laccio avviluppati i lumi:</l>
+               <l>Quando lo stuol dei veri sogni intorno</l>
+               <l>Ai tetti errando va. Nelle sue stanze</l>
+               <l>Vergine ancor dormia la bella Europa.</l>
+               <l>Di Fenice la figlia<note resp="aut" place="foot">Europa comunemente è detta figlia di Agenore, ma il nostro Poeta la chiama figlia di Fenice, e infatti osserva Apollodoro (Biblioth. Lib. 3) che alcuni la faceano figlia appunto di Fenice e nepote di Agenore.</note>. In sogno vide</l>
+               <l>Per sè far lite due regioni opposte.</l>
+               <l>Ambe di donne avean l'aspetto, e l'una</l>
+               <l>D'Asia parea, l'altra straniera: or quella</l>
+               <l>Alto sclamar s'udiva, e la fanciulla</l>
+               <l>Chieder con forti grida, e dir che madre</l>
+               <l>L'era e nutrice: l'altra colle braccia</l>
+               <l>Europa a sè traea robustamente,</l>
+               <l>E gridava già scritto esser nei fati</l>
+               <l>che la donzella a lei l'Egioco Giove</l>
+               <l>Recasse in don. Nè resisteva Europa,</l>
+               <l>Ma palpitante il cor batteale in seno.</l>
+               <l>A un punto si destò, balzò dal letto,</l>
+               <l>Che visto aver credeva, e non sognato.</l>
+               <l>Sedeva taciturna, e benchè desta</l>
+               <l>Ambe le donne ancor negli occhi avea.</l>
+               <l>Alfin, poi che si scosse, e qual dei Numi,</l>
+               <l>Disse, mi spedì mai questi fantasmi?</l>
+               <l>Quai sogni mi turbar, mentre tranquilla</l>
+               <l>Sul mio letto dormia sì dolcemente</l>
+               <l>Nelle mie quiete stanze? E quella donna</l>
+               <l>Che straniera parea, che rimirommi</l>
+               <l>Come sua figlia, e con sì dolce volto</l>
+               <l>M'accolse, m'abbracciò, seco mi trasse,</l>
+               <l>Oh quanto ancor mi piace! e chi fia mai?</l>
+               <l>Deh fate, o Numi, voi, che questo sogno</l>
+               <l>Per me si volga in ben. Così diss'ella.</l>
+            </lg>
+            <lg>
+               <l>Quindi rizzossi, e corse tosto in traccia</l>
+               <l>Delle compagne sue, dolci compagne,</l>
+               <l>Tutte d'età, di nobiltà, di voglie</l>
+               <l>A lei conformi. Ella solea con queste</l>
+               <l>Tutto il dì sollazzarsi, e allor che al ballo</l>
+               <l>Si disponeva, e quando sulle rive</l>
+               <l>S'abbellia dell'Anauro, e quando al prato</l>
+               <l>China cogliea tra l'erbe i bianchi gigli.</l>
+               <l>Presto incontrolle, esse veniano, e in mano</l>
+               <l>Recavan tutte un cestellin da fiori.</l>
+               <l>Andaro ai prati, presso cui dal lido</l>
+               <l>Azzurra si stendea l'ampia marina:</l>
+               <l>Quivi solean raccorsi <note resp="aut" place="foot">Soleano anticamente le vergini donzelle adunarsi colle loro coetanee nei prati per sollazzarsi e trattenersi insieme in vari esercizi. Presso Omero, Nausicaa giuoca alla palla colle sue compagne. (Odyss. Lib. VI, v. 100, 115 seq.). Presso Apollonio, Oritia sta trastullandosi con uno stuolo di fanciulle sue coetanee alle sponde dell'Ilisso, quando è rapita da Borea. (Argonaut. Lib. I). Presso Claudiano, Proserpina attende a coglier fiori colla ninfa Ciane e colle Sirene, quando è menata via da Plutone. (De Raptu Proserp. Lib. II).</note>, e quivi insieme</l>
+               <l>Godean concordi e delle fresche rose,</l>
+               <l>E del fiottar monotono dell'onda.</l>
+               <l>Seco recava Europa un cestin d'oro,</l>
+               <l>Bellissimo a vedersi e di Vulcano</l>
+               <l>Opra stupenda. Questi a Libia, allora</l>
+               <l>Che al talamo recossi di Nettuno,</l>
+               <l>Lo scotitor della terrestre mole,</l>
+               <l>In dono il diede, e Libia alla sua nuora.</l>
+               <l>Alla bella il donò Telefaessa:</l>
+               <l>Questa ad Europa, alla sua vergin figlia</l>
+               <l>Fatto quindi ne avea nobil presente.</l>
+               <l>Con arte industre in quello erano espresse</l>
+               <l>Mille cose vaghissime e lucenti.</l>
+               <l>Effigiata in or vi si vedeva</l>
+               <l>Io sventurata, d'Inaco la figlia<note resp="aut" place="foot">La descrizione della favola d'Io non sembra collocata qui a caso dal poeta, ma bensì a cagione dell'analogia che v'ha tra Europa che naviga trasportata da Giove in sembianza di toro, ed Io amata da Giove che in forma di vitella va nuotando sul mare.</note>,</l>
+               <l>Che priva ancor del femminil sembiante,</l>
+               <l>E giovenca all'aspetto, il salso mare,</l>
+               <l>Co' piè scorreva, di chi nuota in guisa.</l>
+               <l>Di ceruleo color v'erano i flutti,</l>
+               <l>E v'eran due, che da un ciglion del lido</l>
+               <l>Stavano insieme il mar mirando, e quella</l>
+               <l>Che il mar guadava candida giovenca.</l>
+               <l>Giove in atto pietoso eravi sculto,</l>
+               <l>Che mollemente colla man divina</l>
+               <l>Ad Io palpava il dorso, e di vitella</l>
+               <l>Dalle leggiadre corna, alfine in riva</l>
+               <l>Poi ch'era giunta al Nil di sette bocche,</l>
+               <l>La ritornava in donna, e le rendeva</l>
+               <l>Così le antiche sospirate forme.</l>
+               <l>L'acqua del Nilo espressa era in argento,</l>
+               <l>In bronzo la giovenca, e Giove in oro.</l>
+               <l>Del panierino sotto agli orli intorno</l>
+               <l>Scolpito era Mercurio, e presso lui</l>
+               <l>Argo giacea disteso, Argo vegghiante,</l>
+               <l>E d'occhi adorno cui mai chiuse il sonno.</l>
+               <l>Dal suo purpureo sangue augel nascea,</l>
+               <l>Pel color vario de' suoi vanni altero,</l>
+               <l>Che come al mare in sen rapida nave,</l>
+               <l>Superbamente dispiegando l'ali,</l>
+               <l>Al cestellino d'or gli orli copria.</l>
+               <l>Tal d'Europa leggiadra era il paniere.</l>
+            </lg>
+            <lg>
+               <l>Poichè scese lo stuolo ai prati ameni,</l>
+               <l>Erravan le donzelle, qual d'un fiore,</l>
+               <l>Qual fea d'un altro il suo sollazzo: e queste</l>
+               <l>Il narcisso cogliean che grato olezza,</l>
+               <l>Quelle il giacinto, altre serpillo, ed altre</l>
+               <l>Mietean viole pallide. Frattanto</l>
+               <l>In copia sparse di que' prati alunni</l>
+               <l>Di primavera, spicciolate foglie</l>
+               <l>Cadean sul verde suol. Givano alcune</l>
+               <l>Del croco in traccia, e ne cogliean la chioma.</l>
+               <l>Ma in mezzo a tutte, come tra le Grazie</l>
+               <l>La Dea cui l'onde partorir del mare,</l>
+               <l>Splendea regina Europa, e delle rose</l>
+               <l>Tra le fronde sceglieva il fior vermiglio.</l>
+               <l>Breve diletto! omai non più dai fiori</l>
+               <l>Trarrà piacer, nè la verginea fascia</l>
+               <l>Intatta serberà. Giove la vide,</l>
+               <l>E ne fu tocco, e si diè vinto al dardo</l>
+               <l>De la Ciprigna Dea che sola puote</l>
+               <l>Domar lo stesso onnipotente Giove.</l>
+               <l>La vide, e per fuggir l'ire moleste</l>
+               <l>Della gelosa Giuno, e l'inesperta</l>
+               <l>Verginella ingannar, celossi il nume</l>
+               <l>Sotto mentite spoglie, e si fe' toro;</l>
+               <l>Non quale ingrassa entro le stalle, o quale</l>
+               <l>Aggiogato trascina onusto carro:</l>
+               <l>Ma biondo il corpo tutto, e armato il capo</l>
+               <l>Di corna uguali, alla lucente faccia</l>
+               <l>Simili appunto di novella luna.</l>
+               <l>Discese al prato, e non recò spavento</l>
+               <l>A quello stuol di vergini che tutte</l>
+               <l>Sentir desio di farglisi dappresso,</l>
+               <l>E careggiar l'amabile giovenco.</l>
+               <l>Esso spargea divino odor, che i fiori</l>
+               <l>Vincea perfino e l'olezzar del prato.</l>
+               <l>Fermossi al piè della leggiadra Europa,</l>
+               <l>E le lambiva il collo e l'adescava</l>
+               <l>Con dolci vezzi. Ella il toccava, e il dorso</l>
+               <l>Cortese gli palpava, e dalla bocca</l>
+               <l>Colla man gli tergea la molta spuma,</l>
+               <l>E lo baciava intanto. Il bue muggiva</l>
+               <l>In così dolce tuon, che somigliava</l>
+               <l>Un suono acuto di Migdonio flauto.</l>
+               <l>Poi chinò le ginocchia ai piè d'Europa,</l>
+               <l>Le volse il collo, e sollevando il guardo,</l>
+               <l>La rimirava, e offriale il largo dosso.</l>
+               <l>Alle compagne sue di lunghe trecce</l>
+               <l>Sì disse Europa allor: Qua, qua venite,</l>
+               <l>Care compagne mie, poniamci insieme</l>
+               <l>Tutte a seder sul dorso a questo toro;</l>
+               <l>Vedete come è buono; ei senza rischio</l>
+               <l>Ci porterà come una nave: al certo</l>
+               <l>Questo è diverso assai dagli altri tori,</l>
+               <l>Par ch'abbia senno, e quasi un uom somiglia,</l>
+               <l>Solo gli manca in proferir parole.</l>
+            </lg>
+            <lg>
+               <l>Disse, e ridendo, del gentil giovenco</l>
+               <l>Salì sul tergo, e già l'altre donzelle</l>
+               <l>Erano per salir, ma poi che quella</l>
+               <l>Ebbe il toro in poter, cui sol bramava,</l>
+               <l>Balzato in piè fuggì veloce al mare.</l>
+               <l>Turbossi Europa allora, e volta indietro</l>
+               <l>Con paurosa voce, barcollando,</l>
+               <l>Chiamava le compagne, e verso loro</l>
+               <l>Tendea le braccia; esse correan, ma invano,</l>
+               <l>Chè ratto il toro, scorsa già la sponda,</l>
+               <l>Il suo cammin seguendo, entrò nel mare</l>
+               <l>Come un Delfino. In dosso alle balene</l>
+               <l>Le Nereidi sul mar vennero a galla,</l>
+               <l>E lo stesso Nettun cupo–fremente</l>
+               <l>Sulla via rappianava il flutto inquieto,</l>
+               <l>E la strada al german sull'onde apriva.</l>
+               <l>I marini Tritoni a lui d'intorno</l>
+               <l>Sorti dall'imo di Oceàn profondo,</l>
+               <l>Sulle conche intuonaro un nuzial canto.</l>
+               <l>Ma la rapita Europa, assisa in dorso</l>
+               <l>Al giovenco fuggente, all'un dei corni</l>
+               <l>Con una mano s'attenea; coll'altra</l>
+               <l>In su traeva le purpuree pieghe</l>
+               <l>Della sua veste, onde potesse appena</l>
+               <l>L'onda attratta bagnarne un orlo estremo.</l>
+               <l>L'aura spirante il sinuoso peplo</l>
+               <l>Le gonfiava sugli omeri<note resp="aut" place="foot">Questo luogo somiglia a quello di Ovidio: (Metam. Lib. III, v. 873 e sgg.). ... <foreign lang="lat">Pavet haec littusque ablata relictum/ Respicit, et dextra cornu tenet, altera dorso/ mposita est; tremulae sinuantur flamine vestes</foreign>.</note>, qual vela</l>
+               <l>Ampia di nave, ond'ella gìa più lieve.</l>
+               <l>Alfin dal suol natio, dal patrio tetto</l>
+               <l>Lungi vistasi omai, nè più scorgendo</l>
+               <l>O terra, o punta di lontano monte,</l>
+               <l>Ma solo il ciel vedendo, e solo il mare<note resp="aut" place="foot">Sembra che Orazio, il quale però fa che Europa navighi di notte sul suo giovenco, abbia imitato questo tratto in quei versi (Carm. Lib. III, Od. 27, v. 31 seq.): <foreign lang="lat">Nocte sublustri nihil astra praeter/ vidit et undas</foreign>.</note>,</l>
+               <l>Guatandosi d'intorno, in queste voci</l>
+               <l>Proruppe la donzella: O divin toro,</l>
+               <l>Chi sei? dove mi porti? e come puoi</l>
+               <l>Co' pigri piedi e gravi aprirti il calle?</l>
+               <l>Non temi il mare? Alle veloci navi</l>
+               <l>È facil cosa correre sull'onda,</l>
+               <l>Ma le marine vie temono i tori.</l>
+               <l>E qual bevanda d'acqua dolce, e quale</l>
+               <l>Avrai cibo dal mar? sei forse un Dio?</l>
+               <l>E perchè fai quel che sconvien ai numi?</l>
+               <l>Non per terra i Delfini e non per mare</l>
+               <l>Passeggiano i giovenchi. Eppur tu scorri</l>
+               <l>Terra ed acqua del par senza bagnarti,</l>
+               <l>E ti son remi l'unghie<note resp="aut" place="foot">Può credersi che il poeta abbia tratti questi pensieri dall'Ode trentesima quinta di Anacreonte della quale una parte del discorso che Mosco mette in bocca ad Europa, sembra essere una amplificazione.</note>. Al cielo ancora</l>
+               <l>Drizzar forse potrai rapido il volo,</l>
+               <l>E l'aere azzurro fender come augello?</l>
+               <l>Misera me, che dal paterno tetto</l>
+               <l>Già son lontana, e sola in mezzo al mare,</l>
+               <l>Senz'aiuto, in balia d'un toro errante,</l>
+               <l>Vo navigando in così strana foggia.</l>
+               <l>Ma tu, che tutto puoi sul mar canuto,</l>
+               <l>Nettun, benigno Dio, dammi soccorso.</l>
+               <l>Vederti io spero andarmi innanzi, e strada</l>
+               <l>Farmi sul mar, che senza un nome al certo</l>
+               <l>Quest'umido sentier non vo solcando.</l>
+            </lg>
+            <lg>
+               <l>Fa cuor, fanciulla, le ripose il toro</l>
+               <l>Dall'ampie corna, dell'instabil flutto</l>
+               <l>L'ira non paventar. Giove son io,</l>
+               <l>Giove che toro da vicin rassembro,</l>
+               <l>Perchè posso sembrar quel che mi aggrada.</l>
+               <l>Per amor tuo sì lungo mar varcai,</l>
+               <l>E vestii questa forma. Or te fra poco</l>
+               <l>Creta accorrà, dove nutrito io fui.</l>
+               <l>Quivi tue nozze si faranno, e tosto</l>
+               <l>Da me tu figli avrai, famosi figli,</l>
+               <l>Cui scettro si darà sul mondo intero<note resp="aut" place="foot">Orazio (l. c., v. 73 e sgg.) fa che Venere e non Giove sveli ad Europa il mistero del prodigioso giovenco: <foreign lang="lat">Uxor invicti Jovis esse nescis?/ Mitte singultus; bene ferre magnam/ Disce fortunam: tua sectus orbis/ Nomina ducet</foreign>.</note>.</l>
+            </lg>
+            <lg>
+               <l>Disse, e al suo favellar fu pari il fatto.</l>
+               <l>Apparve Creta, e Giove altra sembianza</l>
+               <l>Vestì, disciolse alla donzella il cinto.</l>
+               <l>L'Ore acconciaro il talamo, ed Europa</l>
+               <l>Che vergine era ancor, del sommo Giove</l>
+               <l>Divenne sposa, concepì, fu madre.</l>
+            </lg>
+         </div1>
+         <div1>
+            <head>CANTO FUNEBRE DI BIONE BIFOLCO AMOROSO</head>
+            <lg>
+               <l>Gemete, o collinette, alto gemete</l>
+               <l>O Doric'acque, e voi piangete, o fiumi,</l>
+               <l>L'amabile Bione: in tuon lugubre</l>
+               <l>Or vi dolete, o piante; or vi sciogliete.</l>
+               <l>Oscure selve, in teneri lamenti;</l>
+               <l>Mesti or languite sugli steli, o fiori;</l>
+               <l>Ora anemoni, e rose, or vi coprite</l>
+               <l>Di luttuoso porporino ammanto.</l>
+               <l>Parla, o giacinto, e d'un <hi rend="italic">ahi ahi</hi> maggiore</l>
+               <l>Verga le foglie con dolenti note.</l>
+               <l>Bione il dolce, il buon cantore è spento.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Rosignuoletti, che tra dense frasche</l>
+               <l>Sfogate il duol cantando, or d'Aretusa</l>
+               <l>Alle sicule fonti a dir volate:</l>
+               <l>Morto è Bione, il buon bifolco, e seco</l>
+               <l>E la Dorica musa, e il canto è morto.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>E voi Strimonii cigni in riva all'acque</l>
+               <l>Fate udir gorgheggiando un suon gemente,</l>
+               <l>Simile a quel, che il buon cantor con labbra</l>
+               <l>Pari alle vostre modulava un giorno.</l>
+               <l>Dite all'Eagrie, e alle Bistonie donne:</l>
+               <l>Bione è morto, il Doriese Orfeo.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Quel sì caro agli armenti or più non vive.</l>
+               <l>Sotto romita quercia in cheta valle</l>
+               <l>Tranquillamente assiso, ei più non canta.</l>
+               <l>Ma nel regno di Pluto or tristamente</l>
+               <l>Ripete la funesta aria di Lete.</l>
+               <l>Tacciono i poggi, e intorno al bue piangendo</l>
+               <l>Aggirasi la vacca, e i paschi obblia.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Apollo istesso il tuo sì presto fato</l>
+               <l>Pianse, o Bione, e pianserlo i Priapi</l>
+               <l>Avvolti in negre vesti, e i Fauni anch'essi.</l>
+               <l>Sospirano il tuo canto i Pani agresti,</l>
+               <l>E le Naiadi belle in triste selve</l>
+               <l>Versan per tua cagion fiumi di pianto.</l>
+               <l>Muta nelle caverne Eco si duole,</l>
+               <l>Che di tua voce il dolce suon tra' sassi</l>
+               <l>Più non imita. Al tuo spirare i pomi</l>
+               <l>Gittaro a terra gli arbori, e languìro</l>
+               <l>Pallidi i fior nei prati. Il dolce latte</l>
+               <l>Più non dieder le agnelle, e più non corse</l>
+               <l>Dagli alveari il mel, che nella cera</l>
+               <l>Egro annegossi, e già che vale adesso</l>
+               <l>Che il tuo mancò, gir d'altro mele in cerca?</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Tanto non pianse mai delfin sul lido,</l>
+               <l>Nè rosignuol cantò sopra gli scogli,</l>
+               <l>Nè rondine stridè sugli alti monti,</l>
+               <l>Nè pel duolo d'Alcion pianse Ceìce.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Nè Cerilo cantò sull'onde azzurre,</l>
+               <l>Nè alle regioni del mattin volato,</l>
+               <l>Presso alla tomba del figliuol d'Aurora</l>
+               <l>Così lagnossi di Mennon l'augello.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Gli usignoli, e le meste rondinelle,</l>
+               <l>Cui dilettò colla sua voce un giorno</l>
+               <l>Il buon bifolco, e a favellare istrusse,</l>
+               <l>Destàr sui verdi rami un pianto alterno;</l>
+               <l>Rispondean gli altri augelli, e voi pur anche</l>
+               <l>Allor piangeste, tenere colombe.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Chi suonerà la tua siringa, o caro</l>
+               <l>Sospirato pastore? e alle tue canne</l>
+               <l>Chi fia che il labbro appressi mai? Chi tanto</l>
+               <l>Osar vorrà? Spira su d'esse ancora</l>
+               <l>Il fiato di tua bocca, e de' tuoi canti</l>
+               <l>Eco tuttor si pasce infra le canne.</l>
+               <l>La tua siringa io reco a Pane. Ei stesso</l>
+               <l>Forse paventerà di porvi il labbro,</l>
+               <l>Restar temerà forse a te secondo.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Piange ancor Galatea, che un dì sedendo</l>
+               <l>Da te non lunge in riva al mar tranquillo,</l>
+               <l>Il suono udia della tua voce, e oh quanto</l>
+               <l>Ne avea diletto! chè diverso assai</l>
+               <l>Dal gracchiar del Ciclope era il tuo canto.</l>
+               <l>Quel con pauroso piè fuggia la bella,</l>
+               <l>Ma dolce a te volgea dal mare il guardo.</l>
+               <l>Or l'onde più non cura, e siede afflitta</l>
+               <l>Sulle romite arene, e i bovi tuoi</l>
+               <l>Gemendo a pascolar mena pur anco.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Pastor diletto, delle Muse i doni</l>
+               <l>Tutti perìr con te, delle fanciulle</l>
+               <l>I cari baci, e le vezzose labbra</l>
+               <l>Dei garzoncelli. Intorno alla tua tomba</l>
+               <l>Piangon gli amori insiem raccolti; e t'ama</l>
+               <l>Ciprigna istessa molto più del bacio</l>
+               <l>Che diè piangendo al moribondo Adone.</l>
+               <l>Questo è per te, Meleto, un nuovo affanno,</l>
+               <l>O de' fiumi il più dolce. Omero in prima</l>
+               <l>La morte ti rapì quella soave</l>
+               <l>Di Calliope canora amabil bocca.</l>
+               <l>Fama è che allor con lacrimosi flutti</l>
+               <l>Il tuo figliuol piangessi, e di tue voci</l>
+               <l>Empiessi il mare. Un altro figlio or piangi,</l>
+               <l>E dolente per lui ti struggi in lutto.</l>
+               <l>Ambo fur cari all'acque, ad Ippocrene</l>
+               <l>L'un bevve, e l'altro di Aretusa al fonte.</l>
+               <l>Quegli cantò di Tindaro la figlia,</l>
+               <l>Elena bella, e Menelao l'Atride,</l>
+               <l>E il gran figlio di Teti Achille il forte.</l>
+               <l>Questo non guerra e duoli, ma in umil tuono</l>
+               <l>Cantò sol Pane, e in un munse le vacche,</l>
+               <l>Menò gli armenti al pasco, ordì sampogne,</l>
+               <l>Vantò de giovinetti i dolci baci,</l>
+               <l>Amore in sen nutrì, piacque a Ciprigna.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Ogni cittade illustre, ogni castello</l>
+               <l>Per te, Bion, si duole; Ascra ti piange</l>
+               <l>Ben più ch'Esiodo suo. Pindaro istesso,</l>
+               <l>Il divin vate, le boezie selve</l>
+               <l>Non piansero così. D'Alceo la morte</l>
+               <l>Lesbo munita a tanto duol non mosse,</l>
+               <l>Nè Teo pel suo cantor provò tal pena.</l>
+               <l>Te Paro più d'Archiloco sospira,</l>
+               <l>E Mitilene afflitta i versi tuoi</l>
+               <l>Canta piangendo, e quei di Saffo obblia.</l>
+               <l>Ogni pastor, che più facondo ha il labbro</l>
+               <l>In lamentoso tuon canta il tuo fato.</l>
+               <l>Sicelida l'onor piange di Samo,</l>
+               <l>E quel sì gaio tra' Cidoni un giorno,</l>
+               <l>Licida il bello dai ridenti lumi,</l>
+               <l>Or si discioglie in lagrime; e Fileta</l>
+               <l>Fra i Triopici suoi si duole in riva<note resp="aut" place="foot">Triopio o Triopo chiamavasi un promontorio della Caria, in cui i Doriesi celebravano dei giuochi sacri in onore delle Ninfe, di Apollo e di Nettuno (<hi rend="italic">Scholiastes Theocriti</hi>, ad Idyll. 17, v. 69). Triopio o Triopia era pure il nome di una città situata in quel promontorio (<hi rend="italic">Plinius</hi>, Hist. Nat., Lib. V, cap. 28. <hi rend="italic">Diodorus Siculus</hi>, Biblioth. Histor., Lib. V, cap. 61).</note>
+               </l>
+               <l>Al fuggevole Alente, e in Siracusa</l>
+               <l>Teocrito si duole, ed io pur anco</l>
+               <l>Per te, caro, mi dolgo, e or vo cantando</l>
+               <l>Un mesto Ausonio carme, io non ignaro</l>
+               <l>Del metro pastoral, che a me mostrasti</l>
+               <l>E a' discepoli tuoi, cui festi eredi</l>
+               <l>Del Doriese canto. Ad altri i beni</l>
+               <l>Morendo in don lasciasti, a me la musa.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Ahi tristi noi! poi che morir negli orti,</l>
+               <l>Le malve, o l'appio verde, o il crespo aneto,</l>
+               <l>Rivivono, e rinascono un altr'anno.</l>
+               <l>Ma noi ben grandi, e forti uomini, e saggi</l>
+               <l>Dormiam poichè siam morti, in cava fossa</l>
+               <l>Lunghissimo, infinito, eterno sonno,</l>
+               <l>E con noi tace la memoria nostra.</l>
+               <l>Or tu sotterra in tenebroso loco</l>
+               <l>Sempre muto starai. Pure alla rana</l>
+               <l>Donàr le ninfe interminabil canto.</l>
+               <l>Non la invidio però, che ha rozza voce.</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Alla bocca, o Bione, un rio veleno</l>
+               <l>Ti venne, e tu il provasti, e come mai</l>
+               <l>Le tue labbra toccò, nè si fe' dolce?</l>
+               <l>Chi mai sì crudo e sì nemico ai carmi</l>
+               <l>Mescè con fiera man l'atra bevanda,</l>
+               <l>O per te prepararla ad altri impose?</l>
+            </lg>
+            <lg>
+               <l>	Sicule Muse, incominciate il pianto.</l>
+               <l>Ma tutti n'han la pena, ed io frattanto</l>
+               <l>E la tua morte or piango, e l'altrui danno.</l>
+               <l>Se come Orfeo potessi, o come Ulisse,</l>
+               <l>O come Alcide, scendere in Averno,</l>
+               <l>Anch'io forse verrei di Pluto al regno</l>
+               <l>Per veder se tu canti a Dite ancora,</l>
+               <l>E per udir che canti. Or fa che t'oda</l>
+               <l>Proserpina cantar soavemente</l>
+               <l>In boschereccio tuon siculi carmi,</l>
+               <l>Ella, che temprò già doriche note</l>
+               <l>E nei siculi lidi e negli etnei.</l>
+               <l>Forse avrà premio il tuo cantare, e forse</l>
+               <l>Lei, che menarsi Euridice concesse</l>
+               <l>Al suonator della Treicia lira,</l>
+               <l>Te pur rimanderà sui nostri monti.</l>
+               <l>Chè, se potessi, alla magion di Pluto</l>
+               <l>A suonar la sampogna anch'io verrei.</l>
+            </lg>
+         </div1>
+         <div1>
+            <head>MEGARA MOGLIE D'ERCOLE</head>
+            <lg>
+               <l>	Deh, cara madre mia, perchè piangendo</l>
+               <l>Ti consumi così? perchè non serbi</l>
+               <l>Il vermiglio di pria nelle tue guance?</l>
+               <l>Perchè tanto ti crucci? Ah piangi forse</l>
+               <l>Gl'immensi mali, a cui vil uom soggetta,</l>
+               <l>Qual cerbiatto un lione, il tuo gran figlio?</l>
+               <l>Misera me! perchè mi fero i numi</l>
+               <l>Sì sventurata e trista? e al nascer mio</l>
+               <l>Perchè splendè lugubre astro sì crudo?</l>
+               <l>Ahimè! dacchè nel talamo m'accolse</l>
+               <l>Quell'uom, che non ha taccia, io l'onorai</l>
+               <l>Come le mie pupille, e l'amo ancora,</l>
+               <l>E l'onoro di cuor. Ma più di lui</l>
+               <l>Misero tra i viventi alcun non v'ebbe:</l>
+               <l>Non fuvvi alcun che tanti mali, e tanti</l>
+               <l>Disastri immaginasse. Egli coll'arco,</l>
+               <l>Che diegli Apollo istesso, e colle frecce,</l>
+               <l>Ch'ebbe da qualche Parca, o da una Furia,</l>
+               <l>Padre infelice i propri figli uccise,</l>
+               <l>E ne divelse il caro spirto, e poi</l>
+               <l>Pien di furor, di stragi empiè la casa,</l>
+               <l>Di spavento e di lutto. Io vidi, io stessa</l>
+               <l>Cogli occhi miei que' tenerelli figli</l>
+               <l>Dal padre lor trafitti. Orrendo caso,</l>
+               <l>Che in mente a niun verria nemmeno in sogno!</l>
+               <l>Li vidi, e gli udii pur, che spesse volte</l>
+               <l>Chiamàr la mamma con pietose grida,</l>
+               <l>Ma loro io non potea recar soccorso,</l>
+               <l>E il mal vicin più non avea riparo.</l>
+               <l>Come augel piange i moribondi figli,</l>
+               <l>Che ancor pulcini un orrido serpente</l>
+               <l>Divorando si va tra folte frasche:</l>
+               <l>Svolazza intorno a lor la madre amante</l>
+               <l>E con strida acutissime si lagna;</l>
+               <l>Al figliuolin vorria farsi dappresso,</l>
+               <l>Ma timor la rattien del crudo mostro:</l>
+               <l>Madre infelice io pur così, piangendo</l>
+               <l>Con furioso piè scorrea la casa.</l>
+               <l>E oh fossi morta anch'io co' figli, e il core</l>
+               <l>Punto m'avesse un venenato strale.</l>
+               <l>Deh, perchè tu, che sulle donne imperi,</l>
+               <l>Cintia, perchè nol festi? Allor dolenti</l>
+               <l>Colle lor mani i genitori amati</l>
+               <l>Non senza onor posti ci avriano insieme</l>
+               <l>Sopra un sol rogo, e in urna d'oro accolte</l>
+               <l>L'ossa nostre in quel luogo avrian riposte,</l>
+               <l>Donde tutti nascemmo. Or essi in Tebe</l>
+               <l>Di cavalli nutrice hanno l'albergo,</l>
+               <l>E dell'aonio campo aran le zolle.</l>
+               <l>Nella città di Giuno io qui dimoro,</l>
+               <l>Nella steril Tirinto, e il cuore oppresso</l>
+               <l>Da immensi affanni ho sempre ad una guisa,</l>
+               <l>Nè vidi, nè vedrò tregua del pianto.</l>
+               <l>Per poco tempo il mio marito ho in casa,</l>
+               <l>Che l'attendono ognor gravi travagli</l>
+               <l>Ed in terra ed in mar. Lo spirto immoto</l>
+               <l>Certo di sasso egli ha, di ferro il petto.</l>
+               <l>Or tu le notti e i dì, quanti ne dona</l>
+               <l>Giove, com'acqua ognor ti struggi in pianto.</l>
+               <l>E nessun altro de' parenti è presto</l>
+               <l>A confortarmi, chè fra queste mura</l>
+               <l>Essi non han ricetto e albergan tutti</l>
+               <l>Oltre l'Istmo pinoso. Io qui non veggo</l>
+               <l>Alcuno, a cui mi volga, onde sollievo</l>
+               <l>Abbiane il mio dolor. Sola ritrovo</l>
+               <l>Pirra sorella mia. Ma questa ancora</l>
+               <l>Per Ificle suo sposo, e figlio tuo,</l>
+               <l>Troppo ha di che dolersi. Ah certo io credo</l>
+               <l>Ch'uom più misero il mondo alcun non abbia</l>
+               <l>Di que' due figli tuoi, che ad un mortale</l>
+               <l>Partoristi, e ad un Dio. Sì disse, e tacque</l>
+               <l>Megara, e intanto fuor delle palpebre</l>
+               <l>Spargea sul molle sen stille di pianto,</l>
+               <l>Che tacite scorrean del mel più vaghe,</l>
+               <l>Poichè gli estinti figli ed i lontani</l>
+               <l>Parenti rammentava. Alcmena anch'essa</l>
+               <l>Molli di pianto fea le bianche gote,</l>
+               <l>Trasse un sospir dal petto, e in savi accenti</l>
+               <l>Così la nuora a confortar si volse.</l>
+            </lg>
+            <lg>
+               <l>	O veramente misera in tua prole,</l>
+               <l>Che mai ti venne in mente? e perchè vuoi</l>
+               <l>Che ci turbiamo insiem, membrando i danni</l>
+               <l>Che certo or non piangiam la prima volta?</l>
+               <l>Non basta il mal, che in ogni dì ci è sopra</l>
+               <l>A farci tristi? E ben di pianger vago</l>
+               <l>Saria chi ad uno ad un contar volesse</l>
+               <l>Tutti i disastri suoi. Su, ti conforta</l>
+               <l>Chè non ci fur poi tanto avversi i numi.</l>
+               <l>Pur sempre ti vegg'io dal peso oppressa</l>
+               <l>Di mille affanni: e ben ti scuso, o figlia,</l>
+               <l>Che c'è noia talor la gioia ancora.</l>
+               <l>Quanto, o cara mi duol che a parte sia</l>
+               <l>Del mal che grave a noi pende sul capo!</l>
+               <l>A Proserpina io giuro, e alla velata</l>
+               <l>Cerere, a cui, se orribili sventure</l>
+               <l>Incontrar vuol, faccia spergiuri in prova</l>
+               <l>Chi c'è nemico, che al mio cor sei cara</l>
+               <l>Come se uscita dal mio sen, qui fossi</l>
+               <l>Or verginella ultima figlia in casa.</l>
+               <l>Nè credo io già che tu l'ignori. Or dunque,</l>
+               <l>Cara figliuola mia, deh non mi dire</l>
+               <l>Che di te non ho cura. E benchè forse</l>
+               <l>Più mi lamenti ancor dell'infelice</l>
+               <l>Niobe dal bel crin, degna di scusa</l>
+               <l>Non è madre, che piange un figlio oppresso,</l>
+               <l>Da travagli e da guai? ben dieci mesi</l>
+               <l>Pria di vederlo io lo portai nel grembo</l>
+               <l>E n'ebbi gravi doglie, e quasi a Pluto</l>
+               <l>N'andai per sua cagion. Tanto costommi</l>
+               <l>Il partorirlo. Or volto a nuova impresa</l>
+               <l>Solo partì, nè so, misera madre,</l>
+               <l>Se ritornato da lontane terre,</l>
+               <l>Più rivedrollo, e stringerollo al seno.</l>
+               <l>Ancor nel dolce sonno un tristo sogno</l>
+               <l>Venne a turbarmi, e temo assai ch'ai figli</l>
+               <l>La vision minacci un qualche danno.</l>
+               <l>Sembrommi Ercole mio con man robusta</l>
+               <l>Trattar sull'orlo d'un fiorito campo</l>
+               <l>Ben fabbricata zappa, e quasi fosse</l>
+               <l>Là tratto per mercè, scavar gran fossa.</l>
+               <l>Nudo era tutto, nè gabbano, o giubba</l>
+               <l>Avea che il ricoprisse. Or poichè giunto</l>
+               <l>Fu del lavoro al fine, ed ebbe fatto</l>
+               <l>A quella vigna un valido riparo,</l>
+               <l>Ficcò la zappa in rilevato luogo,</l>
+               <l>E le sue vesti, che lì presso aveva,</l>
+               <l>Era per indossar, quando ad un tratto</l>
+               <l>Uscito fuor della profonda fossa,</l>
+               <l>Vennegli intorno un instancabil fuoco,</l>
+               <l>E lampeggiando se gli avvolse al corpo.</l>
+               <l>E sempre addietro si traeva, e infine</l>
+               <l>Con i veloci piè si volse in fuga,</l>
+               <l>Che di Vulcan temea l'orrendo sdegno.</l>
+               <l>Ognor d'innanzi a sè di scudo in guisa</l>
+               <l>Movea la zappa, e si guardava intorno,</l>
+               <l>Perchè nol sorprendesse il fiero incendio.</l>
+               <l>Parvemi allor che coraggioso Ificle</l>
+               <l>Corresse a dargli aiuto: ahimè! che giunto</l>
+               <l>Ancor non era, e sdrucciolando, al suolo</l>
+               <l>Di botto stramazzò, nè più rizzosi,</l>
+               <l>Ma immobil si giacea, qual debol vecchio,</l>
+               <l>Cui suo malgrado a stramazzar costringe</l>
+               <l>La grave inferma etade. Ei fitto al suolo</l>
+               <l>Giace, finchè qualcun di là passando,</l>
+               <l>A rilevarlo non gli porga il braccio,</l>
+               <l>Mosso a timor dalla canuta barba,</l>
+               <l>Che vendetta su lui dal ciel trarrebbe.</l>
+               <l>Tal si volgeva in terra Ificle, il forte</l>
+               <l>Scotitor dello scudo, ed io frattanto</l>
+               <l>Piangea, che i figli miei vedea smarriti,</l>
+               <l>Finchè partito il sonno, i lumi aprii,</l>
+               <l>Allor che l'alba luccicava in cielo.</l>
+               <l>Tutta la notte questi sogni, o cara,</l>
+               <l>La mente mi turbàr. Deh vadan essi</l>
+               <l>Da noi lontano ad Euristeo sul capo<note resp="aut" place="foot">Era costumanza degli antichi il pregar gli Dei a rovesciare sul capo dei nemici loro le sventure, delle quali erano minacciati. <foreign lang="lat">Dii, meliora piis, erroremque hostibus illum</foreign> dice Virgilio, (Georg. Lib. III, v. 513) e Sostrata presso Terenzio: <foreign lang="lat">Ah obsecro te, istuc inimicis siet,/ Egon' confitear meum non esse filium qui sit meus</foreign>? (Heautontimorum. Act. V, sc. 3, v. 12 seq.). Similmente Orazio: (Carm. Lib. III, Od. 27, v. 21 seqq.). <foreign lang="lat">Hostium uxores, puerique caecos/ Sentiant motus orientis Austri, et/ Aequoris nigri fremitum et trementes Verbere ripas</foreign>. Teocrito fa dire al pastor Dameta (Idyll. VI, vers. 23 seq.): <foreign lang="lat">Telamo il vate, che m'annunzia guai,/ Seco li rechi, e a'figli suoi li serbi</foreign>. E Pedone Albinovano canta nella sua poesia sopra la morte di Druso Nerone, indirizzata a Livia Augusta (<hi rend="italic">Pedo Albinovanus</hi>, ad Liv. August. de morte Drusi): <foreign lang="lat">Urbs gemit, et vultum miserabilis induit unum,/ Gentibus adversis forma sit illa precor</foreign>.</note>;</l>
+               <l>E sia profeta il mio desir, nè vano</l>
+               <l>Per avverso destin lo renda il cielo.</l>
+            </lg>
+         </div1>
+         <div1 n="Senza titolo">
+            <lg>
+               <l>	Quando il ceruleo mar soavemente</l>
+               <l>Increspa il vento, al pigro core io cedo:</l>
+               <l>La Musa non mi alletta, e al mar tranquillo,</l>
+               <l>Più che alla Musa, amo sedere accanto.</l>
+               <l>Ma quando spuma il mar canuto, e l'onda</l>
+               <l>Gorgoglia, e s'alza strepitosa e cade,</l>
+               <l>Il suol riguardo, e gli arbori, e dal mare</l>
+               <l>Lungi men fuggo: allor sicura, e salda</l>
+               <l>Parmi la terra, allora in selva oscura</l>
+               <l>Seder m'è grato, mentre canta un pino</l>
+               <l>Al soffiar di gran vento<note resp="aut" place="foot">Simile a questo luogo elegantissimo è quello di Teocrito, (Idyll. I, v. 1 seq.) citato anche da Ermogene (De Ideis. Lib. II, cap. 3): ... <hi rend="italic">Oh quanto è grato/ Quel pin, che canta là vicino al fonte</hi>.</note>. Oh quanto è trista</l>
+               <l>Del pescator la vita, a cui la barca</l>
+               <l>È casa, e campo il mar infido, e il pesce</l>
+               <l>È preda incerta! Oh quanto dolcemente</l>
+               <l>D'un platano chiomato io dormo all'ombra!</l>
+               <l>Quanto m'è grato il mormorar del rivo</l>
+               <l>Che mai nel campo il villanel disturba.</l>
+            </lg>
+         </div1>
+         <div1>
+            <head>GLI AMANTI ODIATI</head>
+            <lg>
+               <l>	Pane amava Eco vicina,</l>
+               <l>Eco Fauno saltellante,</l>
+               <l>Fauno Lida, e il proprio amante</l>
+               <l>era in odio a ognun di lor.</l>
+            </lg>
+            <lg>
+               <l>	Quanto Pan per Eco ardea,</l>
+               <l>Tanto l'altro ognuno amava,</l>
+               <l>Tanto ognun l'amante odiava,</l>
+               <l>Pari all'odio era l'amor.</l>
+            </lg>
+            <lg>
+               <l>	Apprendete, alme ritrose!</l>
+               <l>Se chi v'ama non amate,</l>
+               <l>Fia che quando amor cerchiate,</l>
+               <l>V'odii, e fuggavi ogni cor.</l>
+            </lg>
+         </div1>
+         <div1>
+            <head>L'ALFEO ED ARETUSA</head>
+            <lg>
+               <l>	Poichè già dietro vistosi</l>
+               <l>Di Pisa il suolo ameno,</l>
+               <l>L'Alfeo scorrendo turgido,</l>
+               <l>Entrò del mare in seno;</l>
+            </lg>
+            <lg>
+               <l>	E fiori, e sacra polvere<note resp="aut" place="foot">L'Alfeo era riputato sacro, non solo come gli altri fiumi, ma anche per certe cause particolari. ... <hi rend="italic">Pascon ... vicino/ All'onde sacre del divino Alfeo</hi>: dice Teocrito (Idyll. XXVI, v. 9, seq.). Si credea che questo fiume fosse singolarmente caro a Giove Olimpico (Pausanias, In Eliac. prior. Lib. V). Però canta Pindaro (Olymp. Od. II, v. 22 seq.): <hi rend="italic">O gran figlio di Rea, Saturnio Giove,/ Ch'ami i gioghi d'Olimpo, e l'aspre lutte,/ E d'Alfeo la corrente</hi>.</note>
+               </l>
+               <l>In don recando, e fronde,</l>
+               <l>Trova Aretusa, e mescola</l>
+               <l>Con Aretusa l'onde.</l>
+            </lg>
+            <lg>
+               <l>	Poi d'altre grotte concave<note resp="aut" place="foot">Di questo poetico miracolo dell'Alfeo hanno parlato tra gli altri scrittori antichi Strabone (Geograph. Lib. VI), Pausania (In Eliac. prior. Lib. V), Plinio (Hist. Nat. Lib. XXI, cap. 5), Seneca (Natur. Qu. Lib. III, cap. 26), e Virgilio in quei versi (Aeneid. Lib. III, v. 693 e segg.): ... <foreign lang="lat">Nomen dixere priores/ Ortygiam. Alpheum fama est huc Elidis amnem/ Occultas egisse vias subter mare, qui nunc/ Ore, Arethusa, tuo siculis confunditur undis</foreign>. Ovidio conchiude così il lungo racconto che fa della favola di Aretusa (Metamorph., Lib. V, v. 636): ... <foreign lang="lat">Sed enim cognoscit amatas/ Amnis aquas, positoque viri, quod sumpserat, ore/ Vertitur in proprias, ut se mihi misceat, undas./ Delia rupit humum, caecisque ego mersa cavernis/ Advehor Ortygiam, quae me cognomine Divae/ Grata mihi, superas eduxit prima sub auras</foreign>.</note>
+               </l>
+               <l>Cheto bagnando il piede,</l>
+               <l>Passa; nè il grande Oceano</l>
+               <l>Del suo passar si avvede.</l>
+            </lg>
+            <lg>
+               <l>	Così, perito artefice,</l>
+               <l>Fa degli amanti il nume</l>
+               <l>Che per amore, impavido</l>
+               <l>Nuoti nel mare un fiume.</l>
+            </lg>
+         </div1>
+         <div1>
+            <head>ESPERO</head>
+            <lg>
+               <l>	O caro amabil Espero,</l>
+               <l>O luce aurea di Venere</l>
+               <l>Sacra di notte immagine,</l>
+               <l>Seconda il mio desir.</l>
+            </lg>
+            <lg>
+               <l>	Tu della luna argentea</l>
+               <l>Sol cedi al chiaro splendere;</l>
+               <l>Ascolta, astro carissimo,</l>
+               <l>Ascolta i miei sospir.</l>
+            </lg>
+            <lg>
+               <l>	Oscurità sovrastane,</l>
+               <l>Che già la luna pallida,</l>
+               <l>La luna, ch'oggi nacqueci,</l>
+               <l>Vicina è a tramontar.</l>
+            </lg>
+            <lg>
+               <l>	Sul mio cammin propizio</l>
+               <l>Spargi tua luce tacita:</l>
+               <l>Col mio pastore amabile</l>
+               <l>Io vado a conversar.</l>
+            </lg>
+            <lg>
+               <l>	Al passeggier pacifico,</l>
+               <l>Che viaggia in notte placida,</l>
+               <l>Non tendo occulte insidie,</l>
+               <l>Non a rubare io vo.</l>
+            </lg>
+            <lg>
+               <l>	Amo, ed amor trasportami</l>
+               <l>Vo pel mio ben sollecito,</l>
+               <l>Lo cerco, io vo' ch'egli amimi,</l>
+               <l>E pago allor sarò<note resp="aut" place="foot">Gemella di questo Idillio può sembrare la bella ode alla Luna di Milady Montaigu, che è veramente, come dice Algarotti, di atteggiamento greco. Eccola: <foreign lang="eng">Thou, silver Deity of secret Night/ Direct my footsteps throngh the woodland shade;/ Thou conscious witness of unknown delight,/ The Lover's Guardian, and the Muse's aid./ By thy pale beams I solitary rove:/ To thee my tender grief confide;/ Serenely sweet you gild the silent grove,/ My friend, my Goddess, and my guide./ Even thee, fair Queen, from thy amazing height,/ The charms of young Endimion drew,/ Veil'd in the mantle of concealing night,/ With all thy greatness, and thy coldness too</foreign>.</note>.</l>
+            </lg>
+         </div1>
+         <div1>
+            <head>AMORE ARANTE</head>
+            <p>
+               <add resp="ed">Epigramma</add>
+            </p>
+            <lg>
+               <l>	Amore un dì la fiaccola</l>
+               <l>Deposta, e i dardi suoi,</l>
+               <l>Un zaino tolse, e un pungolo,</l>
+               <l>Al giogo avvinse i buoi.</l>
+            </lg>
+            <lg>
+               <l>	Menò pel campo il vomere,</l>
+               <l>E il gran copioso e folto</l>
+               <l>Sparse sul solco fertile:</l>
+               <l>Poi disse al ciel rivolto:</l>
+            </lg>
+            <lg>
+               <l>	«O Giove, or tu propizio</l>
+               <l>Seconda il mio lavoro,</l>
+               <l>O per arar qui tornoti,</l>
+               <l>Qual per Europa, in toro.»</l>
+            </lg>
+         </div1>
+         <div1>
+            <head>IL BIFOLCHETTO</head>
+            <p>
+               <add resp="ed">Idillio attribuito</add>
+            </p>
+            <lg>
+               <l>	Eunice mi schernì, mentre parlarle</l>
+               <l>Dolcemente io voleva, e con rimbrotti</l>
+               <l>Via mi cacciò: «lungi di qua, bifolco,»</l>
+               <l>Mi disse acerbamente; «e che? presumi</l>
+               <l>Forse d'innamorarmi? o miserello,</l>
+               <l>Sprezzo rustici amori, io non conosco</l>
+               <l>Che vezzi di città. Nemmeno in sogno</l>
+               <l>Tu mi possederai. Che rozzo sguardo,</l>
+               <l>Che villano parlar; che vili scherzi!</l>
+               <l>Hai bella voce in ver, gentil favella,</l>
+               <l>Morbida e delicata chioma.</l>
+               <l>Che nere mani, che deformi labbra!</l>
+               <l>Certo tu l'hai malate. Oh qual d'intorno</l>
+               <l>Hai tristo odor<note resp="aut" place="foot">Sospetta il Meursio (Spicil. ad Theocr. Idyll. XXI, v. 10) che nel greco, in luogo di <foreign lang="grc">κακὸν ἐξόσδεις</foreign>, <hi rend="italic">tu hai tristo odore</hi>, abbia a leggersi: <foreign lang="grc">τράγον ἐξόσδεις</foreign>, <hi rend="italic">tu puzzi di capro</hi>. Infatti gli antichi chiamavano odor di capro certo fetore (Catullus, Carm. 67 et 69. Ovidius, De Arte Amandi, Lib. III. Horatius, Epod. Od. 12, v. 4 seq. Serm. Lib. I. Sat. 4, v. 92. Censorinus, De Die Natali, cap. 14).</note>! Via via. Non ammorbarmi.»</l>
+               <l>Sì disse, e si sputò tre volte in seno.</l>
+               <l>Da capo a piè squadrommi, e biascicava</l>
+               <l>Intanto fra le labbra e obliquamente</l>
+               <l>Volgeami l'occhio bieco. Ingalluzzossi,</l>
+               <l>Fiera di sua beltade, e a denti aperti,</l>
+               <l>Un riso beffator mi fe' sul volto.</l>
+               <l>Allor bollimmi il sangue. Io per la rabbia</l>
+               <l>Rosso in faccia mi fei qual fresca rosa.</l>
+               <l>Ella mi volse il tergo, ed io nel core</l>
+               <l>Serbo atroce rancor per quella infame</l>
+               <l>Che me così leggiadro ha preso a scherno.</l>
+            </lg>
+            <lg>
+               <l>	Pastori, dite il ver, non son io bello?</l>
+               <l>Che forse qualche Dio mi fece a un tratto</l>
+               <l>Da quel di pria diverso? A me sul volto</l>
+               <l>Fioria beltà, com'edera sul tronco,</l>
+               <l>E ornavami la barba. Eran le chiome</l>
+               <l>Sparse, qual appio, alle mie tempia intorno;</l>
+               <l>Bianca fronte splendea su ciglia nere;</l>
+               <l>Più di quei di Minerva erano i lumi</l>
+               <l>Vivi e sereni, e più d'una giuncata</l>
+               <l>Soave era la bocca, onde scorrea</l>
+               <l>D'un cereo favo il ragionar più dolce.</l>
+               <l>Grato è pure il mio canto, e grato il suono</l>
+               <l>che sulla canna io so, sulla sampogna,</l>
+               <l>Sul piffero destar, sulla traversa.</l>
+               <l>Bello mi dice, e m'ama ogni fanciulla</l>
+               <l>Della montagna. Eppur negommi amore,</l>
+               <l>Perchè pastor son io, la cittadina,</l>
+               <l>E mi fuggì, nè dar mi volle orecchio.</l>
+               <l>Certo ella non sapea che il bel Dionisio</l>
+               <l>Pasce egli pur ne' prati una vitella,</l>
+               <l>Nè che per un bifolco arse Ciprigna,</l>
+               <l>E al pasco i buoi menò sui Frigi monti.</l>
+               <l>Ch'Adone amò nelle foreste, e morto</l>
+               <l>Nelle foreste il pianse. Endimione</l>
+               <l>Non fu bifolco anch'egli? e non amollo</l>
+               <l>Cintia così bifolco, e dall'Olimpo</l>
+               <l>Non discendea per lui di Latmo al bosco,</l>
+               <l>E seco non dormia? Per un bifolco</l>
+               <l>Tu pur vai mesta, o Rea. Tu stesso errando</l>
+               <l>Per un giovin bifolco andasti, o Giove,</l>
+               <l>Sola i bifolchi amar disdegna Eunìce,</l>
+               <l>Di Venere maggior, di Cintia, e Rea.</l>
+               <l>Ciprigna, or tu più non amare alcuno</l>
+               <l>Nè in cittade, nè in monte, e sola omai</l>
+               <l>Poi che disparve il dì, vanne al riposo.</l>
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

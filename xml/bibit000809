@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie</title>
+      <author>Coluccio Salutati</author>
+    </titleStmt>
+    <extent>12 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000809</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Lirici toscani del Quattrocento</title>
+        <title type="part">v.</title>
+        <editor id="ed">Lanza, Antonio</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1975</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-10-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-05-27T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+
+<div1 type="sezione">
+<head>I</head>
+<div2 type="poesia">
+<head>Sonetto di Zanobi Tantini a ser Coluccio
+</head>
+<lg type="sonetto"><lg rend="italic">
+<l><foreign lang="lat">Quid tibi prodest </foreign>se per tutto il mondo</l>
+<l>la fama tua già fosse volgata?</l>
+<l><foreign lang="lat">Quid tibi prodest </foreign>aver raunata</l>
+<l>per tua bontà roba sanza fondo?</l></lg>
+<lg rend="italic">
+<l><foreign lang="lat">Quid tibi prodest </foreign>l'esser tu giocondo</l>
+<l>per aver de' figliuo' buona covata?</l>
+<l><foreign lang="lat">Quia sat nosti </foreign>ch'una mattinata</l>
+<l>fare ti può di dolore fecondo.</l></lg><lg rend="italic">
+<l><foreign lang="lat">Tempus est breve cum vita penosa:</foreign></l>
+<l>cedit corpus etiam giuvenile;</l>
+<l>in parvo trattu si fugge ogni cosa.</l></lg><lg rend="italic">
+<l><foreign lang="lat">Mors istat; </foreign>ma per timor servile</l>
+<l>pur ci occupiamo sanz'alcuna posa,</l>
+<l><foreign lang="lat">etternum tempus </foreign>reputando vile.</l></lg><lg rend="italic">
+<l>Ma sempre l'uomo erile</l>
+<l>non si conduce pure al punto stremo,</l>
+<l>ché molti ne 'nabissa il «ben faremo».</l>
+</lg>
+</lg></div2>
+<div2 type="poesia">
+
+<head>Risponde ser Coluccio a Zanobi Tantini
+</head>
+<lg type="sonetto"><lg>
+<l><foreign lang="lat">Prodest </foreign>fama a chi è del cuor sì mondo</l>
+<l>che fama sprezza che dall'uon sia data;</l>
+<l><foreign lang="lat">prodest </foreign>ricchezza a chi se l'ha 'cquistata,</l>
+<l>s'a Dio la rende per non gire al <add>pro</add>fondo.</l></lg><lg>
+<l><foreign lang="lat">Prodest stirpis </foreign>a chi quel lieto pondo</l>
+<l>fa che dirizzi a Dio la sua giornata,</l>
+<l>onde sicuro aspetta lor chiamata</l>
+<l>e in speme vive di stato secondo.</l></lg><lg>
+<l><foreign lang="lat">Bene viventi vita spazïosa</foreign></l>
+<l>semper contingit, nec unquam senile</l>
+<l>dolet corpus, o che fugga ritrosa</l></lg><lg>
+<l>fortuna <foreign lang="lat">mundi; </foreign>ma col cor virile</l>
+<l><foreign lang="lat">mortem spernit, </foreign>e solo a Dio si sposa</l>
+<l><foreign lang="lat">etterna curans </foreign>e 'l beato ovile.</l></lg><lg>
+<l>Ché l'anima gentile</l>
+<l>continuo pensa allo stato supremo</l>
+<l>e mena con virtù sempre suo remo.</l>
+</lg>
+</lg></div2></div1>
+<div1 type="sezione">
+<head>II</head>
+<div2 type="poesia">
+<head>Sonetto di Zanobi Tantini a ser Coluccio
+</head>
+<lg type="sonetto"><lg rend="italic">
+<l>Video santos fuggir questo tondo</l>
+<l>del mondo infetto per ogni boscata,</l>
+<l>urbes <add resp="ed">[et]</add> vicos e ogni brigata,</l>
+<l>per tenere da' sensi il cor rimondo.</l></lg><lg rend="italic">
+<l>Vide Batistam tanto mirabondo</l>
+<l>che 'nnanzi al parto fu santificata</l>
+<l>issius alma, pur, come pedata</l>
+<l>poté fermar, fuggì biondo biondo.</l></lg><lg rend="italic">
+<l>Vide Antonium e leggi sanza chiosa</l>
+<l>Ilarion, Romüaldo e lor stile,</l>
+<l>qua norunt la stanza perigliosa;</l></lg><lg rend="italic">
+<l>ultra Cirenem girono, oltra Tile.</l>
+<l>Non è Francesco ogni uomo; e chi la rosa</l>
+<l>carpet absque puntura da la stile?</l></lg><lg rend="italic">
+<l>Non è cosa esìle</l>
+<l>in gran tempesta tener fermo il remo,</l>
+<l>fuggendo i santi perché star volemo,</l></lg><lg rend="italic">
+<l>perché non aspettemo</l>
+<l>per colpa pena, per ben gioia, o forsa</l>
+<l>crediàn la vita aver sempre in borsa.</l>
+</lg>
+</lg></div2>
+<div2 type="poesia">
+
+<head>Risponde ser Coluccio a Zanobi Tantini
+</head>
+<lg type="sonetto"><lg>
+<l>Credi tu per dire: «Io mi nascondo,</l>
+<l>fuggo le genti e tengo ben serrata</l>
+<l><foreign lang="lat">mentem mundi rebus,</foreign> e gastigata</l>
+<l>tengo la carne, ond'io non mi confondo»,</l></lg><lg>
+<l><foreign lang="lat">petere stellas, </foreign>che nel ciel ritondo</l>
+<l>fonda la man divina, ond'è sì ornata</l>
+<l>regio cieli, mansïon beata?</l>
+<l>Se dici: «Il credo», or ecco io ti rispondo</l></lg><lg>
+<l><foreign lang="lat">quod nunquam fuit res </foreign>tanto gravosa</l>
+<l>o sì pugnente o 'ngegno sì sottile</l>
+<l><foreign lang="lat">quod mentem ducat </foreign>ove sia gioiosa.</l></lg><lg>
+<l><foreign lang="lat">Nam prius rediret </foreign>questo mondo in ile</l>
+<l>che sanza grazia mai si fesse sposa</l>
+<l>numinis veri, ch'è sì signorile.</l></lg><lg>
+<l>Ben giunse a quel cubile</l>
+<l>Petro e Paulo, ché così credemo</l>
+<l>senza fuggir il mondo, ove noi semo.</l></lg><lg>
+<l>Dal qual, se noi vorremo</l>
+<l>e se divina grazia non ci smorsa,</l>
+<l>verremo al ciel con ogni santo in borsa.</l>
+</lg>
+</lg></div2></div1>
+<div1 type="lirica">
+<head>III</head>
+<argument><p rend="italic">Ser Coluccio, parlando a madonna Elena.
+</p></argument>
+<lg type="sonetto"><lg>
+<l>Io ti priego per Dio, che t'amò tanto,</l>
+<l>quando crear dispuose la tua forma,</l>
+<l>i' ti priego per te, per cui s'informa</l>
+<l>ciascun d'amare il regno etterno e santo;</l></lg><lg>
+<l>i' ti priego per me, che sempre canto</l>
+<l>il tuo chiaro sprendor che mi trasforma;</l>
+<l>i' ti priego pel tuo nome, che storma</l>
+<l>e occupa già il mondo tutto quanto,</l></lg><lg>
+<l>Elena mia gentil, che le grandi arre</l>
+<l>delle immense virtù, che date ci hai,</l>
+<l>tu compia di pagar colle santi opre.</l></lg><lg>
+<l>E io prometto a te, se già le sbarre</l>
+<l>tosto del viver mio non passo e' guai,</l>
+<l>d'atternarti con penna in sonanti opre.</l>
+</lg>
+</lg></div1>
+<div1 type="sezioni">
+<head>IV</head>
+<div2 type="poesia">
+<head>Sonetto di Coluccio Salutati a Gian Galeazzo Visconti
+</head>
+<lg type="sonetto"><lg>
+<l>O scacciato dal ciel da Micael,</l>
+<l>ruina della sede d'Aquilon,</l>
+<l>o venenoso serpente Fiton,</l>
+<l>o falso ucciditor del giusto Abel;</l></lg><lg>
+<l>o mal commettitore Architofel,</l>
+<l>o successor d'incanti d'Eriton,</l>
+<l>maladicati l'alto Iddio, Sion,</l>
+<l>che benedisse i figli d'Israel!</l></lg><lg>
+<l>Contro ti sia la fede d'Abraam</l>
+<l>e l'orazion che fé Melchisedech</l>
+<l>e l'angel che diè storpio a Balaam!</l></lg><lg>
+<l>Nascer possa per te nuovo Lamech,</l>
+<l>che 'l sangue vendicò del fi' d'Adam;</l>
+<l>tal sia tuo fin qual fu d'Abimelech!</l></lg><lg>
+<l>Contro ti sia la grazia di Jacob,</l>
+<l>poi che procacci crescer pene a Job!</l>
+</lg>
+</lg></div2>
+<div2 type="poesia">
+
+<head>Risposta di Antonio Loschi, cancelliere del Duca, in vice di lui
+</head>
+<lg type="sonetto"><lg rend="italic">
+<l>O Cleopatra, o madre d'Ismael,</l>
+<l>o gran Semiramis di Babilon,</l>
+<l>io son più pio che 'l figliuol d'Amon,</l>
+<l>perché mi guarda l'angiol Rafael!</l></lg><lg rend="italic">
+<l>Ippolito, Narciso e Danïel</l>
+<l>sempre ho nel cor; né già come Sanson</l>
+<l>vinto sarò, né come Salamon,</l>
+<l>né come il gran marito d'Antrachel.</l></lg><lg rend="italic">
+<l>Il fuoco t'arda che arse Araam;</l>
+<l>in odio venga a Dio come Ismalech,</l>
+<l>o come al suo vicino Canaam!</l></lg><lg rend="italic">
+<l>E sventurata si' come Isposech,</l>
+<l>o come Sedechia o Roboam;</l>
+<l>nel tuo campo non nasca Semelech!</l></lg><lg rend="italic">
+<l>Se non ti basta, abbi quel di Job,</l>
+<l>e io senta la grazia di Iacob.</l>
+</lg>
+</lg></div2></div1>
+<div1 type="lirica">
+<head>V</head>
+<lg type="sonetto"><lg>
+<l>Qual cuor gentil fu mai, le punte d'oro</l>
+<l>per stimoli d'amor gravosi esperto,</l>
+<l>pianga di me el stato dubio e incerto</l>
+<l>e 'l fuoco ove ardo e non vivo e ne moro.</l></lg><lg>
+<l>Troppo la mente e li occhi mie van fuoro</l>
+<l>mirar sì alto e sperare tal merto;</l>
+<l>lasso! che, per voler guardar troppo erto,</l>
+<l>consumo gli anni e 'l viver dissonoro.</l></lg><lg>
+<l>La forma è sacra, in vista altera e franca</l>
+<l>me par; ma, ben che sia cosa tirena,</l>
+<l>fidarse ad om uman non se contenta.</l></lg><lg>
+<l>Cerca cosa a te par, anima stanca,</l>
+<l>ché gran soperbia ed ignoranza el mena</l>
+<l>chi vuol più che 'l poter, ch'aviva e stenta.</l>
+</lg>
+</lg></div1>
+<div1 type="lirica">
+<head>VI</head>
+
+<lg type="sonetto"><lg>
+<l>Qualunque è posto per seguir ragione</l>
+<l>fugga pietate, amor, odio e paura,</l>
+<l>giudichi ne' diritti con misura</l>
+<l>el tempo, el modo, el loco e le persone.</l></lg><lg>
+<l>Non abbia pertinace oppenione</l>
+<l>e solo ascolti fermo in dirittura;</l>
+<l>fugga dall'ira, sì che dismisura</l>
+<l>di mal giudicio non gli dia cagione.</l></lg><lg>
+<l>Gl'impronti e folli e lusinghieri scacci</l>
+<l>e 'l timido assicuri e 'l poverello,</l>
+<l>e le cose intrigate presto spacci.</l></lg><lg>
+<l>Più ami onore ch'empiersi il borsello,</l>
+<l>più cred' al ver ch'a chi riso gli facci,</l>
+<l>più in lui sie grazia che crudel coltello.</l></lg><lg>
+<l>D'ogni vizio ribello,</l>
+<l>e' soprattutto gli potenti imbrighi;</l>
+<l>e rei astuti e' cattivi gastighi.</l>
+</lg>
+</lg></div1>
+<div1 type="lirica">
+<head>VII</head>
+<argument><p rend="italic">Messer Coluccio a maestro Bernardo.
+</p></argument>
+<lg type="sonetto"><lg>
+<l>Se la cosa ch'uom vuole in sua natura</l>
+<l>si potesse veder se l'è perfetta,</l>
+<l>tal spesse volte col desir s'affretta</l>
+<l>che 'l non giugner terrebbe gran ventura.</l></lg><lg>
+<l>Però ben fa chi ha cosa incerta e scura:</l>
+<l>e', che non sa come di vizî è netta,</l>
+<l>tien la sua voglia sì col freno stretta</l>
+<l>che di penter non sente mai puntura.</l></lg><lg>
+<l>Or tòi quel ch'aspettat'hai con gran festa</l>
+<l>e, per veder se t'ho scoverto il vero,</l>
+<l>fa' tutto legga con la mente desta</l></lg><lg>
+<l>e che non sia nel contra dir leggiero,</l>
+<l>perché, se pur alcun dubio ti resta,</l>
+<l>son pronto al dichiarar col cor sincero.</l></lg><lg>
+<l>Ma ben ti priego che del bianco nero</l>
+<l>non facci per difendere 'l tuo torto:</l>
+<l>sia 'l soffistar fra noi sbandito e morto.</l>
+
+</lg>
+</lg></div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,3261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Egloghe pescatorie</title>
+      <author>Berardino Rota</author>
+    </titleStmt>
+    <extent>133 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000916</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Egloghe pescatorie</title>
+        <author>Rota, Berardino</author>
+        <publisher>RES</publisher>
+        <pubPlace>San Mauro Torinese</pubPlace>
+        <date>1990</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.914 - Poesia italiana dopo il 1945</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-05-06T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Alessia Scacchi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-05-26T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+
+<text>
+<body>
+<div1 n="Dedica">
+
+<argument>
+<p><emph>Scipione Ammirato al signor Giovan Francesco Mormile</emph></p></argument>
+
+
+<p>Già si vede chiaramente a che altezza et a che sommità vada
+crescendo la  bellissima nostra lingua toscana: poiché non solo si
+vede tuttavia riempire di prosatori e di poeti di grande stima e
+di conto, ma eziandio di varie sorti di poemi. In guisa che non
+solo di nulla cede alla lingua latina, ma di gran lunga da questo
+lato la supera e le va avanti, come oggi potete veder con
+l’egloghe Pescatorie del Signor Berardino Rota, primiero inventore
+di esse egloghe in questa lingua; delle quali, sì come una sola
+n’ebbe la Grecia, per quel ch’io mi sappia, così nulla si può dir
+che n’abbia avuta la latina nell’età sua dirittamente, poiché il
+Sannazzaro, che fe’ le Pescatorie Latine, fu a’ tempi de’ nostri
+padri, e non è convenevole che le fatiche di questo secolo si
+ripongano con quelle degli antichi. V’envio dunque questo nuovo
+presente, il quale mi persuado sia per dovervi esser caro, sì per
+esser parto d’un amico vostro e d’un gentiluomo della vostra
+patria, e sì per esser opera giovenile e conveniente eziandio da
+questa parte all’età di voi, poiché già sono ventisette anni
+ch’egli vi pose mano et ebbene per ascoltatrice Vittoria Colonna
+Marchesana di Pescara di buona memoria, a cui piacquero cotanto
+queste egloghe per la lor vaghezza e per li molti lumi e bellezze
+di che elle sono ripiene, che n’avea gran parte a memoria e
+recitavale e celebravale come frutto di sommo poeta et illustre,
+tutto che in assai breve spazio di tempo fussero da lui state
+dettate e composte. Vi piaceranno poi credo per lo riscontro che
+farete del Rota col Sannazzaro, sì perché diversamente hanno
+amendue trattato una stessa materia non solo nella lingua, ma
+nella cosa e ne’ concetti, e sì perché vi ricorderete aver l’uno
+scritto le latine a Mergillina e l’altro le volgari ad Echia, ove
+sono i suoi bellissimi orti, e per ciò da lui sotto nome di ninfa
+Egla chiamata: che sì come i luoghi par che si vagheggino insieme
+e gareggino di bellezza e di maggioranza, così vedrete i lor
+signori ciascuno nella lingua sua contender del principato e della
+precedenza. E qualunque se ne porti il pregio, ché in questo campo
+non entrerò io, assai è che la lode ne torni alla patria vostra,
+essendo amendue napoletani, e sì come questi vostro amicissimo et
+amantissimo, così quegli gentiluomo del vostro seggio e parente e
+congiunto della vostra famiglia. Se nobile poi e cortese persona
+ha d’aver caro che altri gli paghi il suo debito, o parte di esso,
+in quel miglior modo che per lui si può fare, non istimo che a voi
+abbia dal lato mio a recar noia che io con le robe d’altri paghi
+parte del credito che avete con meco in quella maniera che mi è
+conceduto, massimamente che, come balia di questo parto, da che io
+sono stato cagione di farlo uscir fuori (essendo il Signor
+Berardino, come sapete, rivolto ad ogni altro pensiero prima che a
+questo per la morte dell’onoratissima e carissima Signora sua
+moglie, tanto da lui illustremente lagrimata), si può
+ragionevolmente dire ch’io ci abbia parte et azione. Senza che non
+sarebbe forse gran cosa che un dì, come fa il Sannazzaro nella sua
+Arcadia, io aggiugnessi la prosa a queste egloghe e l’andassi di
+modo ordendo e tessendo che la mia fatica non dispiacesse, poiché
+il Signor Berardino, il quale avea questo pensiero, non ha potuto
+esseguirlo, impedito per le sue molte e varie occupazioni, come a
+ciascuno può esser noto. Ma io non mi sono aveduto, mentre vo’
+darvi conto d’ogni minima cosa, avervi impedito la lezione di più
+severi studi. E però fo fine, baciandovi le mani, e di tutto cuore
+raccomandandomivi.</p>
+<p>A’ XV di Luglio MDLX. Di Napoli.</p>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga I</head>
+<sp>
+<lg type="egloga">
+<head>Lida</head>
+
+
+
+<argument>
+<p>
+In questa prima egloga si fa l’invocazione delle Ninfe marine che
+abitano dintorno a Mergillina, per esser stato luogo celebrato e
+abitato dal Sannazzaro, il quale egli chiama Licone, sì come
+Virgilio talora invoca le Muse siciliane, intendendo Teocrito, che
+fu di Siracusa. Introduce poi Aminta pescatore dolersi
+dell’assenzia di Lida sua amata.
+</p></argument>
+
+<lg type="strofa">
+
+
+<l> Leggiadre ninfe, ch’al bel sasso intorno</l>
+<l>Scherzando ognor di Mergillina andate;</l>
+<l>Ninfe più d’altre assai felici e liete,</l>
+<l>Ninfe, per cui sen va superbo adorno</l>
+<l>Il nostro mar ch’a viva gloria alzate;</l>
+<l>Poi che udito cantar sì dolce avete</l>
+<l>Licone, il primo pregio e ’l primo vanto</l>
+<l>Di quanti pescator l’onda più prezza;</l>
+<l>Voi già, che del più basso umido fondo</l>
+<l>Usciste fuor ben mille volte al canto</l>
+<l>Tratte da meraviglia e da dolcezza</l>
+<l>Per asciugare al sol l’or crespo e biondo,</l>
+<l>Qualor sovra il bel colle egli cantando</l>
+<l>Quetava l’onda più turbata e fera,</l>
+<l>Quasi del mar latin quarta Sirena;</l>
+<l>A me, che l’orme sue ne vo cercando</l>
+<l>Spinto da voglia pellegrina altera,</l>
+<l>Mostrate ove le serba ancor l’arena;</l>
+<l>E mentre lascio gli orti aprici e cari</l>
+<l>De la bella Egla, ove talor ghirlanda</l>
+<l>Tesser soglio di fior toschi e romani</l>
+<l>Ne’ miei primi anni, e addolcir gli amari</l>
+<l>Pensier che nobil donna al cor mi manda,</l>
+<l>Ma parton poi da me fallaci e vani;</l>
+<l>Deh raccogliete intorno al vostro lido</l>
+<l>Il suon de’ novi accenti, acciò che aggiunga</l>
+<l>Là dove è il suo, né si disperda altronde:</l>
+<l>Anzi con pieno e fortunato grido</l>
+<l>Per voi riceva illustre vita e lunga,</l>
+<l>Mentre avran pesci l’acque e spume l’onde.</l>
+</lg><lg type="strofa">
+<l>La bella Dea che nel fiorito volto</l>
+<l>Ne mena lieto il dì, tutta di rose</l>
+<l>Spargendo l’aria, apria già l’uscio al sole,</l>
+<l>Quando il giovene Aminta al ciel rivolto</l>
+<l>Con le luci bagnate e lagrimose,</l>
+<l>Chiusa la via dal pianto a le parole,</l>
+<l>Mentre i compagni a la vicina riva</l>
+<l>Traean le reti, in un sospiro ardente</l>
+<l>Sciolse la voce al fine, e così disse:</l>
+</lg><lg type="strofa">
+<l>«Che farò, Lida mia, poich’è pur viva</l>
+<l>La vita senza te cieca e dolente,</l>
+<l>La vita mia, che per te piacque e visse?</l>
+<l>Teco il migliore, anzi la parte integra</l>
+<l>Di me si sta; teco si stanno i miei</l>
+<l>Spirti, teco i pensier tutti si stanno.</l>
+<l>E se viver la vita afflitta et egra</l>
+<l>Potesse un’ora, un’ora io non vorrei</l>
+<l>La vita viva in così vivo affanno.</l>
+<l>Lasso, quando più pare il ciel sereno,</l>
+<l>Il mar più queto altrui, notte e procella</l>
+<l>Senza te mi rassembra, e morte in vista</l>
+<l>La vita stessa, e veggio oscuro e pieno</l>
+<l>L’aer d’orrori, e la stagion più bella</l>
+<l>D’or in or più m’accora, e più m’attrista;</l>
+<l>Né perché colma ognor la rete a terra</l>
+<l>Torni più ch’io non bramo, aver mai cosa</l>
+<l>Posso lunge da te cara o soave.</l>
+</lg><lg type="strofa">
+<l>Dolce a stanco nocchier dopo la guerra</l>
+<l>De’ fieri venti lunga e perigliosa,</l>
+<l>Quando pace maggior l’aria e l’ond’have,</l>
+<l>Veder nel fido porto entrar la barca</l>
+<l>Rotta da l’onda tempestosa e ria;</l>
+<l>Dolce dopo talor grave fatica</l>
+<l>Trar la rete di pesci al lito carca;</l>
+<l>Dolce la vela a desiata via</l>
+<l>Drizzar, quando ne vien più l’aura amica.</l>
+</lg><lg type="strofa">
+<l>Ma più dolce eri a me, più cara assai,</l>
+<l>Tu, bella Lida mia, qualor fuggita</l>
+<l>Da la tua madre il dì mi ti mostravi</l>
+<l>fossa a pietà de’ miei dogliosi lai</l>
+<l>Dal balcon su la riva, e sola uscita</l>
+<l>De l’albergo talor pescando andavi</l>
+<l>Meco di scoglio in scoglio, or mezzo aperto</l>
+<l>Il giardin del bel seno, or chiuso tutto,</l>
+<l>Or su le spalle sciolto il crine aurato,</l>
+<l>Or l’avorio del piè nudo e scoverto,</l>
+<l>Per farmi in mezzo l’acque ardere in tutto;</l>
+<l>E ben era quel fin troppo beato:</l>
+<l>E talor meco or questa or quella conca</l>
+<l>Coglievi, e mi drizzavi or l’amo or l’esca</l>
+<l>Al mio lavor dolce compagna e presta:</l>
+<l>Or su l’arena, or sotto una spelonca,</l>
+<l>Cantavi al suon de l’onda pura e fresca,</l>
+<l>Tinta le guancie di pietate onesta.</l>
+<l>Ma poiché se’ da questo mar lontana,</l>
+<l>Non già dal mio pensier, che seco ognora</l>
+<l>Più viva, ove ch’io sia, ti raffigura,</l>
+<l>Né pur un passo mai mi t’allontana,</l>
+<l>E tanto più m’infiamma e m’innamora</l>
+<l>Quanto più ti dipinge e sorda e dura;</l>
+<l>E col bel raggio de’ beati lumi</l>
+<l>Altre piaggie rischiari, altre contrade,</l>
+<l>E da me forse altro penser ti toglie;</l>
+<l>E perché più mi dolga e mi consumi,</l>
+<l>Godi d’amor nemica e di pietade</l>
+<l>De le mie sempre nove eterne doglie,</l>
+<l>Amara a me più se’ d’ogni altro amaro.</l>
+<l>E quanto allora di dolcezza e gioia</l>
+<l>Porgevi agli occhi, e al cor per gli occhi poi,</l>
+<l>A cui l’arder per te solo fu caro,</l>
+<l>Tanto or da te mi ven tormento e noia,</l>
+<l>Che come prima avea da’ raggi tuoi</l>
+<l>Eterno giorno, or notte eterna io spero.</l>
+</lg><lg type="strofa">
+<l>Ben han ragion quest’occhi ogni altra luce</l>
+<l>Fuggir come nemica, e cercar solo</l>
+<l>Dove col velo suo più denso e nero</l>
+<l>Notte si stende, e maggior ombra adduce,</l>
+<l>Dove luogo più sia deserto e solo;</l>
+<l>Ché la vista fu lor sol cara e grata</l>
+<l>Per te goder, non già per altro, e questo</l>
+<l>Gli fe’ più lieti al mondo, e più felici.</l>
+<l>Or per rasserenar la vita orbata</l>
+<l>Vorrebono finir, piangendo il resto</l>
+<l>De’ tenebrosi miei giorni infelici.</l>
+<l>Ma nol consente...’ E qui vinto si tacque</l>
+<l>Da la forza del pianto e del dolore:</l>
+<l>E tutto ’l giorno in su l’arena giacque</l>
+<l>In compagnia del suo nemico Amore.</l>
+</lg></lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga II</head>
+
+<head>Cromi</head>
+
+
+<argument>
+<p>Cromi pescatore si duole di Nerina, amata da lui, per averlo
+abbandonato; poi racconta la contesa avuta con Licida in cantar a
+gara le bellezze e le lodi delle loro amate. Sotto il nome di
+Licida, così qui come in ogni altro luogo, s’intende la persona
+dell’Autore.
+</p></argument>
+
+<sp>
+<stage><emph>Cromi, Iola, Licida</emph></stage>
+</sp>
+
+<sp>
+<speaker>Cromi</speaker>
+
+<lg type="strofa">
+<l> Lascia la canna pur, lascia pur l’amo,</l>
+<l>Lascia, se puoi lasciar, Cromi, te stesso,</l>
+<l>Poiché la vita ancor fra mille morti</l>
+<l>Non vuol lasciarti, e t’ha lasciato, ahi lasso,</l>
+<l>Nerina tua, Nerina un tempo tua.</l>
+</lg></sp>
+
+<sp><speaker>Iola</speaker>
+<lg type="strofa">
+<l> Cromi, a che piangi? a che, misero, spargi</l>
+<l>Pur tante voci al vento? Or chi t’ascolta,</l>
+<l>Altri che questi scogli orridi e nudi?</l>
+<l>Deh non più, no: volgi il pensier molesto</l>
+<l>Che d’uno in altro duol ti muta e cangia</l>
+<l>A più tranquilla parte, a più dolce uso,</l>
+<l>E rasserena omai la mente oscura.</l>
+<l>Dimmi, quando l’altrier cotanto irata</l>
+<l>Si mostrò l’onda e ’l ciel gravato e nero,</l>
+<l>Onde tutto quel dì, tutta la notte</l>
+<l>De’ fieri venti il furioso assalto</l>
+<l>Non lasciò pur tentar l’acqua col remo,</l>
+<l>Che fe’ Licida allora, e tu che festi?</l>
+<l>Come ingannar poteste il tempo, e come</l>
+<l>Menar quelle noiose ore nemiche?</l>
+</lg></sp>
+
+<sp><speaker>Cromi</speaker>
+<lg type="strofa">
+<l> Lasso, che potea io, se non dolermi,</l>
+<l>Et accrescer ognor l’onde col fiume</l>
+<l>Di questi occhi dolenti, e co’ sospiri</l>
+<l>Arder l’acque l’arena i sassi e l’alga?</l>
+<l>Ma Licida, a cui tanto il ciel cortese</l>
+<l>Arrise sempre, a cui sempre di nove</l>
+<l>Grazie Fortuna il sen più largo aperse,</l>
+<l>Credendo d’addolcir l’amaro tosco</l>
+<l>De la trist’alma e porger tregua al duolo,</l>
+<l>A cantar m’invitò seco con patto</l>
+<l>Ch’io rispondessi; e poi così cantando</l>
+<l>Sciolse la lingua et io risposi al canto.</l>
+</lg></sp>
+
+<sp><speaker>Licida</speaker>
+<lg type="strofa">
+<l> Quando Terilla mia cogliendo il giorno</l>
+<l>Va per cotesta lieta amica riva</l>
+<l>Or questo or quel lapillo,</l>
+<l>Veggio rasserenar l’aria dintorno,</l>
+<l>E placido e tranquillo</l>
+<l>Dentro i begli occhi Amor la face avviva.</l>
+</lg></sp>
+
+<sp><speaker>Cromi</speaker>
+<lg type="strofa">
+<l> Quando Nerina mia specchiarsi io scorgo</l>
+<l>Nel puro fondo de la fresca riva,</l>
+<l>Dal bel lume s’infiamma</l>
+<l>Nettuno, et arde nel più basso gorgo,</l>
+<l>E la sua dolce fiamma</l>
+<l>Venere al sol de’ suoi begli occhi avviva.</l>
+</lg></sp>
+
+<sp><speaker>Licida</speaker>
+<lg type="strofa">
+<l> Terilla mia più dolce e più soave</l>
+<l>D’ogni maggior dolcezza,</l>
+<l>Più bella del più bel de la bellezza,</l>
+<l>Più del mar grata in vista il giorno c’have</l>
+<l>Col vento maggior pace,</l>
+<l>Quando ogni cosa tace,</l>
+<l>Deh corri a me, mentre di scoglio in scoglio</l>
+<l>Da le pietre le conche io spicco e coglio.</l>
+</lg></sp>
+
+<sp><speaker>Cromi</speaker>
+<lg type="strofa">
+<l> Nerina a me più dura e più ritrosa</l>
+<l>D’ogni maggior durezza,</l>
+<l>Più bella del più bel de la bellezza,</l>
+<l>Più del mar cruda in vista il dì che posa</l>
+<l>Men nel suo letto, e giace</l>
+<l>Più che l’aria fallace,</l>
+<l>Deh vola a me, deh me rendi a me stesso,</l>
+<l>Mentre a te questa rete io lego e tesso.</l>
+</lg></sp>
+
+<sp><speaker>Licida</speaker>
+<lg type="strofa">
+<l> Mentre Terilla al sole apre il tesoro</l>
+<l>De l’auree chiome, et io l’involo a prova</l>
+<l>Per entro quel fin oro</l>
+<l>Or questo sguardo or quel, par che dagli occhi</l>
+<l>Tal dolcezza al cor fiocchi,</l>
+<l>Che mille vite e mille allor vorrei</l>
+<l>Tutte perder per lei,</l>
+<l>Ché a perderne una sol poco mi giova;</l>
+<l>Né la gioia infinita</l>
+<l>Di quella dolce morte io cangerei</l>
+<l>Col maggior ben d’ogni più lieta vita.</l>
+</lg></sp>
+
+<sp><speaker>Cromi</speaker>
+<lg type="strofa">
+<l> Mentre Nerina mia ne’ be’ cristalli</l>
+<l>Del vicin fonte bagna il crin lucente,</l>
+<l>E tra perle e coralli</l>
+<l>In mille nodi poi l’adorna e stringe,</l>
+<l>Tal piacer move e spinge</l>
+<l>L’alma, che fugge e a se stessa s’invola</l>
+<l>Et al bel crin ne vola,</l>
+<l>Ove mostra goder sì novamente</l>
+<l>Fra l’oro crespo avolta,</l>
+<l>Che di quella prigion più si consola</l>
+<l>Che d’ogni libertà più cara e sciolta.</l>
+</lg></sp>
+
+<sp><speaker>Licida</speaker>
+<lg type="strofa">
+<l> Quando Terilla mia su quell’arena</l>
+<l>Con dolci cenni a sé mi chiama e stende</l>
+<l>La man bianca e gentile,</l>
+<l>Inusitata gioia al ciel mi mena:</l>
+<l>E sì nobil desio quest’alma accende,</l>
+<l>Che quel che altri più pregia, io tengo a vile.</l>
+</lg></sp>
+
+<sp><speaker>Cromi</speaker>
+<lg type="strofa">
+<l> Quando Nerina mia sotto quel monte</l>
+<l>Pescava meco (or chi fia mai che ’l creda?),</l>
+<l>Quanto il mar chiude in seno</l>
+<l>Parea ch’a l’aria de la bella fronte</l>
+<l>Prender devessi: e sol er’io la preda,</l>
+<l>E l’esca e l’amo il bel guardo sereno.</l>
+</lg></sp>
+
+<sp><speaker>Licida</speaker>
+<lg type="strofa">
+<l> Terilla, c’hai la fronte assai più chiara</l>
+<l>Che la fronte del sol, quando vien fuora</l>
+<l>De l’onde e ’l ciel rischiara,</l>
+<l>E la guancia vermiglia</l>
+<l>Più che la giovenetta e bionda Aurora,</l>
+<l>S’a me volgi le ciglia,</l>
+<l>Vedrai col vento inseme</l>
+<l>L’onda tacer ch’irata or ferve e freme.</l>
+</lg></sp>
+
+<sp><speaker>Cromi</speaker>
+<lg type="strofa">
+<l> Nerina, c’hai le chiome assai più bionde</l>
+<l>Che le chiome del sol, quando il bel raggio</l>
+<l>Alza il matin da l’onde,</l>
+<l>E la guancia vermiglia</l>
+<l>Più che la rosa il mese innanzi maggio,</l>
+<l>S’a me volgi le ciglia,</l>
+<l>Vedrai tornar tranquille</l>
+<l>L’onde ch’or vanno al cielo a mille a mille.</l>
+</lg></sp>
+
+<sp><speaker>Iola</speaker>
+<lg type="strofa">
+<l> Deh segui, Cromi, pur, né ti rincresca</l>
+<l>Dir quel che dopo te Licida disse,</l>
+<l>Così pietoso il ciel tosto ti renda</l>
+<l>Nerina tua, Nerina un tempo tua,</l>
+<l>Or d’altrui fatta, troppo indegnamente;</l>
+<l>Né dagl’inganni tuoi pesce mai scampi,</l>
+<l>Benché il più accorto, il più veloce sia</l>
+<l>Di quanti accoglie il mar nel salso grembo</l>
+<l>E meni il cristallin ceruleo carro</l>
+<l>De la reina di quest’acque Teti.</l>
+</lg></sp>
+
+<sp><speaker>Cromi</speaker>
+<lg type="strofa">
+<l> Quel che egli disse, or chi ridir potrebbe?</l>
+<l>Disse Licida più, ma così l’alma</l>
+<l>La rimembranza del perduto bene</l>
+<l>D’alto dolor subitamente oppresse,</l>
+<l>Che mi lasciò la voce e la parola,</l>
+<l>Né più, com’ei volea, potei seguirlo:</l>
+<l>Onde ancor la memoria si sgomenta,</l>
+<l>Né quel che averne poi più mi sovene.</l>
+</lg><lg type="strofa">
+<l>Ben ti dirò, ch’al suon de’ dolci accenti</l>
+<l>S’arrestaro i delfini e in mezzo il corso</l>
+<l>Lasciati i balli fur veduti a schiera</l>
+<l>Lungo spazio scherzar dintorno al lito;</l>
+<l>E posto il volo e se stesso in oblio,</l>
+<l>Fermo su l’ali or questo mergo or quello</l>
+<l>Ad ascoltarlo stette, e le sue note</l>
+<l>Insieme accompagnò cantando a gara;</l>
+<l>Finché vibrando il bel raggio d’argento</l>
+<l>La sorella del sol l’onde percosse,</l>
+<l>E di mill’occhi il gran volto del cielo</l>
+<l>Dipinto al mondo e luminoso apparve.</l>
+<l>Ma perché veggio Mopso in su l’arena</l>
+<l>Che t’aspetta a la rete, alzati e corri,</l>
+<l>Ch’io tornerò, poi che sì vole Amore,</l>
+<l>A le lagrime prime et al dolore.</l>
+</lg></sp>
+
+</div1>
+
+<div1 type="poesia">
+
+<head>Egloga III</head>
+
+<head>Scherzo</head>
+
+<argument>
+<p>Tico e Gillo pescatori scherzando si bestemmiano e punzecchiano
+insieme e, stando sempre sul grado, over decoro delle persone, non
+lasciano di raccontar molte cose piacevoli l’un l’altro, con tanta
+grazia et accorgimento di chi scrive, che si può quindi cavare
+esser così parimente difficile spiegar le cose picciole come le
+gravi.
+</p></argument>
+
+<sp>
+<stage><emph>Tico, Gillo, Cleonte</emph></stage>
+</sp>
+
+<sp>
+<speaker>Tico</speaker>
+<lg type="strofa">
+<l> Or poi che il fato mio malvagio e crudo</l>
+<l>Vuol ch’i’ t’incontri e ti riveggia, e sia</l>
+<l>La tua vista principio al novo giorno,</l>
+<l>Potrò ben io tornar povero e nudo</l>
+<l>Di preda a la magion: da la man mia</l>
+<l>Nel cavernoso e liquido soggiorno</l>
+<l>Staran securi i pesci. Or quale in terra</l>
+<l>Di più sinistro augurio esser può mostro</l>
+<l>Di te, che se’ del mar tempesta e fame?</l>
+</lg></sp>
+
+<sp><speaker>Gillo</speaker>
+<lg type="strofa">
+<l> Fame tempesta pestilenza e guerra</l>
+<l>Di tutti gli elementi al secol nostro</l>
+<l>Solo se’ tu: né so com’io ti chiame.</l>
+</lg></sp>
+
+<sp><speaker>Tico</speaker>
+<lg type="strofa">
+<l> Fuggite, o pescatori, ite lontani,</l>
+<l>Traete pur le reti, i legni al secco,</l>
+<l>E raccogliete e vele e remi e sarte:</l>
+<l>Ecco Scilla latrar cinta di cani,</l>
+<l>Ecco Cariddi assai più fiera, et ecco</l>
+<l>Importuna procella in ogni parte.</l>
+</lg></sp>
+
+<sp><speaker>Gillo</speaker>
+<lg type="strofa">
+<l> O rive sconsolate, o piaggie meste!</l>
+<l>Uscito a pena fuor se’ per l’arena,</l>
+<l>Ch’ogni cosa è cangiata in peggior forma.</l>
+</lg></sp>
+
+<sp><speaker>Tico</speaker>
+<lg type="strofa">
+<l> O infelice il corpo che ti veste,</l>
+<l>Spirto dannato a sempiterna pena,</l>
+<l>Per gire a Stige vera strada et orma.</l>
+</lg></sp>
+
+<sp><speaker>Gillo</speaker>
+<lg type="strofa">
+<l> Sventurata la rete il remo il legno,</l>
+<l>Sventurata la canna e l’amo e l’esca</l>
+<l>Che t’obedisce e serve; e guai a’ pesci,</l>
+<l>Trionfo vil di vincitore indegno.</l>
+<l>Miser colui che teco vive e pesca.</l>
+<l>Taci, per Dio, ch’a tutto ’l mondo incresci.</l>
+</lg></sp>
+
+<sp><speaker>Tico</speaker>
+<lg type="strofa">
+<l> Non se’ quel Gillo tu, snello et accorto,</l>
+<l>Che pur discinto e scalzo saltando ieri</l>
+<l>Da la tua barca al sasso di Filito</l>
+<l>(Et era men di mezzo braccio corto</l>
+<l>Lo spazio al salto) i piè destri e leggieri</l>
+<l>Cotanto avesti, e sì pronto et ardito</l>
+<l>Fosti, che come piombo in mar cadesti?</l>
+<l>E se non fosse stato o Glauco o Forco,</l>
+<l>Io non so ben chi fu, che con la mano</l>
+<l>Sua ti sostenne a forza, in mar saresti</l>
+<l>Rimasto cibo allora o d’orca o d’orco,</l>
+<l>O senza te felice il seme umano!</l>
+</lg></sp>
+
+<sp><speaker>Gillo</speaker>
+<lg type="strofa">
+<l> O beato colui, non mi sovene</l>
+<l>Se fu spagnuolo o pur francese Ulisse,</l>
+<l>Che de’ compagni suoi chiuse l’orecchie</l>
+<l>Al canto micidial de le Sirene;</l>
+<l>Né so s’un cieco o pur zoppo ne scrisse.</l>
+<l>E se coi morbi novi usar le vecchie</l>
+<l>Medicine uom potesse, o quanto, o quanto</l>
+<l>Grato mi fora oggi serrar le mie:</l>
+<l>O quanto volentier le chiuderei</l>
+<l>Per non udir così stridevol canto,</l>
+<l>Ch’apporta mezza notte a mezzo il die,</l>
+<l>Di Sirena infernal come tu sei.</l>
+</lg></sp>
+
+<sp><speaker>Tico</speaker>
+<lg type="strofa">
+<l> Io seguo pur, di’ ciò che vuoi, se il riso</l>
+<l>Non interrompe a le parole il corso.</l>
+</lg><lg type="strofa">
+<l>Or, poi che rotti e già squarciati i panni,</l>
+<l>Lacero il mento e sanguinoso il viso,</l>
+<l>Quasi zoppo delfin curvando il dorso,</l>
+<l>Grave d’umor, ma via più grave d’anni,</l>
+<l>A gran pena sorgesti al fin dal fondo</l>
+<l>Ardendo il viso di purpureo orgoglio,</l>
+<l>E ten gisti a sedere in su la rupe,</l>
+<l>Quel che più mosse a dolce riso il mondo,</l>
+<l>E penso ne ridesse anco lo scoglio,</l>
+<l>Fu che, credendo star ne l’alte e cupe</l>
+<l>Valli del mare, or l’uno or l’altro braccio</l>
+<l>Movevi a nuoto, e ’l crin bianco e negletto</l>
+<l>(Chiusi gli occhi ch’or apri, e pur non vedi,</l>
+<l>Qual cieco inviluppato in rete o laccio)</l>
+<l>Cercavi scior da l’alga ond’era stretto,</l>
+<l>E credo ch’a te stesso anco non credi;</l>
+<l>E talor appoggiato al destro fianco</l>
+<l>Versando da la bocca un largo rivo</l>
+<l>D’acque spumose e salse, a punto espresso</l>
+<l>Parevi il Tebro o l’Arno in saldo e bianco</l>
+<l>Marmo scolpito, benché assai più vivo</l>
+<l>Direi che di te fosse il marmo stesso.</l>
+</lg></sp>
+
+<sp><speaker>Gillo</speaker>
+<lg type="strofa">
+<l> Io so c’hai voto il sacco, e non ti resta</l>
+<l>Altro che dir; ma fia ben ch’odi ancora</l>
+<l>Or tu la mia, com’io la tua novella.</l>
+</lg><lg type="strofa">
+<l>Non se’ quel Tico tu, che ne la festa</l>
+<l>Che ’l primo dì d’aprile in su l’aurora</l>
+<l>Si suol far di Nettuno, in questa, in quella</l>
+<l>Sponda del nostro mar, sì presto e leve</l>
+<l>Corresti al pregio già, ch’era un tabarro</l>
+<l>Azzurro et un cappel di paglia tinto,</l>
+<l>Ch’ancor mostrasti al giuoco de la neve</l>
+<l>Nulla valer, com’uom dice, e dal carro</l>
+<l>Esser con un bue zoppo e giunto e vinto?</l>
+<l>Già ti sovien ch’a pena quattro o cinque</l>
+<l>Passi movesti al corso, assai più lento</l>
+<l>Di formica o testuggine, che quale</l>
+<l>Saetta giù cadesti, e le propinque</l>
+<l>E le lontane piaggie anco il lamento</l>
+<l>De l’ossa peste udiro, e tanto e tale</l>
+<l>Allor fu il riso, e tali e tanti i gridi</l>
+<l>Nel teatro di ninfe e pescatori,</l>
+<l>Che i pesci per timor fuggiro al centro,</l>
+<l>E lasciò Alcione i cari nidi.</l>
+<l>Ma l’esservi presenti Elenco e Dori</l>
+<l>Ti trafissero il cor più forte a dentro:</l>
+<l>Elenco il tuo rival, Dori l’amata</l>
+<l>Dolce tua pescatrice, anzi nemica.</l>
+<l>E quanto sviluppar le braccia, il collo</l>
+<l>Da l’arena tenace et ostinata</l>
+<l>Tentavi più, tant’ella e più t’intrica,</l>
+<l>Né giova forza usar di moto o crollo.</l>
+</lg></sp>
+
+<sp><speaker>Tico</speaker>
+<lg type="strofa">
+<l> Fra gli arbusti di state udir cicada</l>
+<l>Spesso si suole, e risonar la rana</l>
+<l>Ne’ laghi e negli stagni è vecchia usanza;</l>
+<l>Ma l’una e l’altra udir cosa è ben rada</l>
+<l>Ne’ liti e ne l’arene. O nova, o strana</l>
+<l>Voce, che l’una e l’altra inseme avanza!</l>
+</lg></sp>
+
+<sp><speaker>Gillo</speaker>
+<lg type="strofa">
+<l> E crederei che non tu solo al gioco</l>
+<l>Fosti, ma venne teco anco Lieo.</l>
+<l>Che ti bagnò del suo licore e tinse,</l>
+<l>Per mostrar la sua forza in ogni loco,</l>
+<l>E ch’a Bacco talor cede Nereo;</l>
+<l>In cotal guisa ti percosse e vinse.</l>
+<l>E tanta e tanta arena a te, ch’immerso</l>
+<l>Giacevi in quella, sparsero di sopra,</l>
+<l>Che fecer d’ima valle un alto colle;</l>
+<l>E poi ch’ivi sepolto, ivi sommerso</l>
+<l>T’ebber per far più dilettosa l’opra,</l>
+<l>Fosti d’acqua di mar bagnato e molle.</l>
+</lg></sp>
+
+<sp><speaker>Tico</speaker>
+<lg type="strofa">
+<l> Prima tacer vedrassi a mezzo verno</l>
+<l>Il gran campo del mar, quand’è più scosso</l>
+<l>Da Borea o d’Austro, o più ’l bagna Orione,</l>
+<l>Che taccia la tua lingua, o vivo inferno,</l>
+<l>O da l’ira di Giove arso e percosso</l>
+<l>Infame scoglio, o furial magione.</l>
+</lg></sp>
+
+<sp><speaker>Gillo</speaker>
+<lg type="strofa">
+<l> Lasciami pur, lasciami dir: le tue</l>
+<l>Parole non fur già tronche né rotte</l>
+<l>Come le mie da te. Corsero allora</l>
+<l>Gli spettatori: et a veder ben fue</l>
+<l>Cosa che tutto ’l dì, tutta la notte,</l>
+<l>Tenne chi ’l vide in gioia, e tiene ancora;</l>
+<l>Corsero dico, e in fin ad or le spalle</l>
+<l>Mostran la stampa del novel martiro,</l>
+<l>Che due e quattro et otto e dieci e venti</l>
+<l>Volte per entro l’arenosa valle,</l>
+<l>Or su or giù ti ravolgeano in giro,</l>
+<l>Come di polve fan rabbiosi venti;</l>
+<l>E ridendo e gridando: «O Palinuro</l>
+<l>Risorgi da l’arena, ove sepolto</l>
+<l>Giaci, né nudo già come il primero»,</l>
+<l>L’ispido crin di giunco e paliuro</l>
+<l>Ti coronaro, e ti lavaro il volto</l>
+<l>Di spuma, e ten fuggisti; et è pur vero.</l>
+</lg></sp>
+
+<sp><speaker>Cleonte</speaker>
+<lg type="strofa">
+<l> Quanto meglio fareste, o trascurati,</l>
+<l>A far quel che vi disse il vostro amico,</l>
+<l>Che per gir a Misen già la barchetta</l>
+<l>Post’ha ne l’acqua, e sono i remi armati.</l>
+<l>Sete sordi? A voi parlo, o Gillo, o Tico:</l>
+<l>Né altri fuor che voi sul lito aspetta.</l>
+</lg></sp>
+
+<sp><speaker>Gillo</speaker>
+<lg type="strofa">
+<l> O, o, scampa via, Gillo; ecco Cleonte</l>
+<l>Vecchio ritroso, or corri, or fuggi, or vola.</l>
+</lg></sp>
+
+<sp><speaker>Tico</speaker>
+<lg type="strofa">
+<l> O, o, scampa via, Tico; ecco Cleonte</l>
+<l>Vecchio ritroso, or corri, or fuggi, or vola.</l>
+</lg></sp>
+
+</div1>
+
+<div1 type="poesia">
+<head>Egloga IV</head>
+
+<head>Amarilli</head>
+
+<argument>
+<p>Dorila solo sopra il sasso di Mergillina, volgendo il parlare ad
+Amarilli sua amata lontana, le parla e ragiona come presente, e
+raccontandole gli antichi favori la priega che di nuovo ritorni
+all’amor suo et al fine le promette un bellissimo canestro tessuto
+da lui.
+</p></argument>
+
+<sp>
+
+<lg type="strofa">
+<l> A pena uscito il sol di mezzo il mare</l>
+<l>Asciutte ben le chiome d’oro avea,</l>
+<l>Quando dal sasso, ove superba e bella</l>
+<l>Sovra de l’onde Mergillina appare,</l>
+<l>Dorila pescator così dicea:</l>
+</lg><lg type="strofa">
+<l>«Ora, ch’è la stagion verde e novella,</l>
+<l>E scherza al lito il mar tacito e queto,</l>
+<l>E l’aura più che mai fresca e soave</l>
+<l>Col dolce fiato a riposar n’invita:</l>
+<l>Or ch’ogni augello innamorato e lieto</l>
+<l>Canta di ramo in ramo, e ’l ciel non have</l>
+<l>Nebbia d’intorno: or ch’è ricca e vestita</l>
+<l>La terra di mille erbe e mille fiori,</l>
+<l>E ne mostra il tesor di sua bellezza;</l>
+<l>Or che dal ciel con la sua viva fiamma</l>
+<l>La bella madre de’ lascivi amori</l>
+<l>Combatte il mondo et empie di dolcezza,</l>
+<l>E i pesci in mezzo l’acque, e l’acque infiamma,</l>
+<l>Corri, Amarilli mia, corrimi in braccio.</l>
+<l>Oggi tre giorni son che qui t’aspetto,</l>
+<l>Né saper posso ancor chi ti ritiene.</l>
+<l>È forse spento il foco, è rotto il laccio,</l>
+<l>Che t’arse e ti legò sì dolce il petto,</l>
+<l>Né di Dorila tuo più ti soviene?</l>
+<l>Dorila tuo, che più che gli occhi amavi,</l>
+<l>A cui di rose il crin sovente ornasti,</l>
+<l>A cui stanca dal collo ognor pendevi,</l>
+<l>Ma il primo scelto fior casta serbavi,</l>
+<l>Né del candido sen giamai lasciasti</l>
+<l>Toccare i duo be’ pomi, e non volevi</l>
+<l>Dopo una breve e dilettosa guerra</l>
+<l>Dar quella pace in tutto vinta e stanca,</l>
+<l>Ch’a più felici amanti Amor concede.</l>
+</lg><lg type="strofa">
+<l>Qui ne potrem sedere: e se la terra</l>
+<l>Non vuoi veder, su questa riva manca</l>
+<l>Andrem, dove il mar solo e ’l ciel si vede,</l>
+<l>Ove sorge con dolci e fresche linfe</l>
+<l>Un puro fonte in grembo a le salse acque,</l>
+<l>In cui spesso bagnar si suole il Dio</l>
+<l>Di questo mar con le più care Ninfe,</l>
+<l>Ov’a diporto con Europa giacque</l>
+<l>Giove, quando per mar corse e mugìo.</l>
+<l>E poi che arem con languida quiete</l>
+<l>Finita l’amorosa e dolce lutta</l>
+<l>E di vario color tinte le guancie,</l>
+<l>Quasi pesci guizzanti entro la rete,</l>
+<l>Intero un giorno et una notte tutta</l>
+<l>Consumeremo in queste e in quelle ciancie;</l>
+<l>Talor la rete al sol meco spiegando,</l>
+<l>E talor raccogliendo, e talor meco</l>
+<l>Or quella nassa risarcendo or questa;</l>
+<l>Or d’uno in altro scoglio andrem pescando.</l>
+<l>Né curerò, pur ch’io soggiorni teco,</l>
+<l>Che rubella mi sia l’onda e molesta,</l>
+<l>Scarso di pesci il mar, che teco ancora</l>
+<l>Rompa mill’ami e mille canne il giorno:</l>
+<l>Ché, qual più cara o preziosa preda</l>
+<l>Potrebbe darmi il ciel cortese allora</l>
+<l>Di te, bella Amarilli? E poich’intorno</l>
+<l>N’accorgerem che nullo occhio ne veda,</l>
+<l>Ritornerem più arditi e più bramosi</l>
+<l>A’ primi vezzi, ai dolci baci stretti,</l>
+<l>Coi fiati l’alme mescolando inseme:</l>
+<l>Sì che i più fortunati, i più gioiosi</l>
+<l>Amanti invidia aran di que’ diletti</l>
+<l>Non mai più visti, e de le gioie estreme.</l>
+</lg><lg type="strofa">
+<l>Qui, se ben ti rimembra, anco stendesti</l>
+<l>A me prima la mano, e questo è il luogo</l>
+<l>Ove il bel sen d’avorio terso e bianco</l>
+<l>Sovente mi scopristi, e mi porgesti</l>
+<l>Il primo bacio ch’a l’ardente giogo</l>
+<l>L’alma mia strinse, e dentro il lato manco</l>
+<l>Scolpìo l’atto soave, e non più il cielo</l>
+<l>Mi diede allor, che sovragiunse Filli:</l>
+<l>Filli, ch’or sì ti fa temer a torto,</l>
+<l>Poiché si vanta avermi dato un velo.</l>
+</lg><lg type="strofa">
+<l>Io giuro prima te, cara Amarilli,</l>
+<l>Venen mio dolce, e tempestoso porto;</l>
+<l>Io chiamo in testimon quest’onde, io giuro</l>
+<l>Il gran nume del mar, che se del vero</l>
+<l>Si può Filli vantare, o s’io t’inganno,</l>
+<l>Che sempre vegga il ciel piovoso oscuro,</l>
+<l>Adverso il vento, il mar gonfiato e nero,</l>
+<l>E s’arme ogni procella a mio sol danno.</l>
+</lg><lg type="strofa">
+<l>Quanto l’aurora è più vermiglia e chiara</l>
+<l>De l’ombra de la notte, e primavera</l>
+<l>Più bella assai del pigro e vecchio verno,</l>
+<l>Tanto, Amarilli, a me più dolce e cara</l>
+<l>D’ogni altra sei; né perché ognor più fiera</l>
+<l>Ti mostri, altra avrà mai l’alma in governo.</l>
+<l>Lasso, l’altrier, che mi giovò, se volse</l>
+<l>La vecchia madre del baiano Aminta</l>
+<l>Con la spuma del mar bagnarmi, e ’l lato</l>
+<l>Stringer con l’alga verde, e poi lo sciolse,</l>
+<l>Se la mia libertà più serva e vinta</l>
+<l>Si trova, e langue in doloroso stato?</l>
+<l>Deh, che più tardi omai? Se vuoi ch’io viva,</l>
+<l>Corri, per Dio, ché l’alma in tanti affanni</l>
+<l>Me lascia in tutto, e a te sen fugge e vola.</l>
+<l>Corri, per Dio, ma non presso a la riva:</l>
+<l>Sai ben ch’è pieno il mar tutto d’inganni;</l>
+<l>Che se ninfa talor incauta e sola</l>
+<l>Nettuno spaziar vede nel lido,</l>
+<l>Ratto la fura, e al mar contra sua voglia</l>
+<l>La trae piangendo, e quanto ella più chiama</l>
+<l>Soccorso, tanto invan più sparge il grido.</l>
+<l>Non creder già ch’io brami altro né voglia,</l>
+<l>Che quello che da te si vuole e brama.</l>
+</lg><lg type="strofa">
+<l>Io t’ho di giunchi bianchi inseme e neri</l>
+<l>Tessuto un bel canestro, ove vedrai</l>
+<l>Vario lavor di meraviglia nova.</l>
+<l>Nel fondo è il mar, vere le spume, e veri</l>
+<l>Dirai gli scogli, i pesci, e crederai</l>
+<l>Che l’onda ancor così finta si mova,</l>
+<l>E giureresti udirla nel vicino</l>
+<l>Lito già mormorar, se si potesse</l>
+<l>Finger con giunchi il mormorar de l’onda.</l>
+<l>Vedrai nel mezzo poi sorto un delfino,</l>
+<l>Che co’ suoi giri e con le squame spesse</l>
+<l>L’abbraccia tutto intorno, e lo circonda,</l>
+<l>E cantando Arion porta sul dorso,</l>
+<l>Al cui bel canto il mar par che gioisca,</l>
+<l>Et egli dal timor vinto trabocche;</l>
+<l>E già pentito mostra in mezzo il corso</l>
+<l>Voler tornare, e par che non ardisca</l>
+<l>Toccar l’acqua col piede, e pur la tocche’.</l>
+</lg><lg type="strofa">
+<l>Dorila non più disse, e gli occhi volti</l>
+<l>Vide Amarilli sua corrergli in grembo;</l>
+<l>Né fur più visti, perché dentro un nembo</l>
+<l>Di fior gli tenne Amor quel giorno occolti.</l>
+</lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga V</head>
+
+<head>Galatea, over magia</head>
+
+<argument>
+<p>Meri, udito lamentarsi per cagion d’Amore da Mopso suo amico, è
+da lui ammaestrato come per via di magie e d’incantesimi si possa
+da tal amor liberare.
+</p>
+</argument>
+
+<sp>
+<stage><emph>Meri, Mopso</emph></stage>
+</sp>
+
+<sp>
+<speaker>Meri</speaker>
+<lg type="strofa">
+<l> In qual parte del mondo, in qual sì strano</l>
+<l>Lito, in qual piaggia sì riposta et erma</l>
+<l>Fuggir potrò, ch’Amor meco non vegna?</l>
+<l>Amor, che ognor più forte arma la mano</l>
+<l>Contra quest’alma al suo ben sempre inferma,</l>
+<l>Superbo e lieto di mia morte indegna.</l>
+</lg><lg type="strofa">
+<l>Lasso, che fia di me? dove non sia</l>
+<l>Più Galatea, là dove il sol la chioma</l>
+<l>Non spiegò mai, n’andrò; forse che ’l laccio</l>
+<l>Rallenterà del cor, forse men fia</l>
+<l>Grave di miei dolci martir la soma;</l>
+<l>Forse ch’arà pur fin mio lungo impaccio.</l>
+<l>Ma che parl’io? Dovunque volgo il piede</l>
+<l>Mi seguirà la mente innamorata,</l>
+<l>E Galatea ne verrà meco inseme;</l>
+<l>Galatea, che nel cor donna si siede,</l>
+<l>Zoppo il giudicio, e la ragion legata,</l>
+<l>Ma ben vivo il desio, morta la speme.</l>
+<l>Non è qui sasso o filo d’alga o d’erba,</l>
+<l>Non è qui ninfa o pescator, ch’io sempre</l>
+<l>Non chiami al mio soccorso, e pure in seno</l>
+<l>Porto il foco che ’l cor nasconde e serba;</l>
+<l>Foco, che strugge in dilettose tempre,</l>
+<l>Né s’addolcisce in parte il mio veneno.</l>
+</lg><lg type="strofa">
+<l>Lasso, talor dopo lungo furore</l>
+<l>L’onda si tace e par che ’l mar s’acquete,</l>
+<l>E ’l vento posa et è l’aria tranquilla;</l>
+<l>Ma l’amorosa tempesta del core</l>
+<l>Trovar non può giamai porto o quiete,</l>
+<l>Né del gran foco mio scema favilla.</l>
+</lg><lg type="strofa">
+<l>O Galatea, di te mai non mi dolsi,</l>
+<l>Né mi voglio doler, né vo’ biasmarti,</l>
+<l>Perché m’abbi sommerso in mar di guai.</l>
+<l>Dogliomi ben di me, che troppo io volsi</l>
+<l>Tutto darmiti in preda, e troppo amarti,</l>
+<l>E senza filo in labirinto entrai.</l>
+<l>Anzi quanto più ognor procaccio e bramo</l>
+<l>Fuggir da la tua mano, e di me stesso</l>
+<l>Farmi signor, via più forte e tenace</l>
+<l>Legame stringe il core, e via più chiamo</l>
+<l>Mercede invan, che tu sempre più presso</l>
+<l>Mi sei per tormi e libertate e pace.</l>
+</lg></sp>
+
+<sp><speaker>Mopso</speaker>
+<lg type="strofa">
+<l> O troppo d’Amor leggi inique e torte!</l>
+<l>Eri pur dianzi il ben, la gioia, o Meri,</l>
+<l>Del gran Tirreno; or morte si sgomenta</l>
+<l>Di te, quasi più fiera orribil morte.</l>
+<l>Or tutti i tuoi desiri, i tuoi pensieri</l>
+<l>Nascon d’amaro, e più non ti ramenta</l>
+<l>De la rete né d’altro; or solo e mesto</l>
+<l>Ne vai dì e notte; or se’ la noia e ’l duolo</l>
+<l>Di tutto il mar, di tutti i pescatori.</l>
+</lg></sp>
+
+<sp><speaker>Meri</speaker>
+<lg type="strofa">
+<l> Qui se’, Mopso mio caro? Onde sì presto</l>
+<l>Ne vieni? Deh, per Dio, lasciami solo,</l>
+<l>Ma bene in compagnia di miei dolori.</l>
+<l>Già ti vid’io dov’il superbo lato</l>
+<l>Miseno stende al mar vago et altiero</l>
+<l>Del bel sepolcro e del suo troppo ardire.</l>
+</lg></sp>
+
+<sp><speaker>Mopso</speaker>
+<lg type="strofa">
+<l> Volea gir oltra, e poi tosto chiamato</l>
+<l>Fui da Licota, onde cangiai sentiero,</l>
+<l>E qui mi vedi; e certo al tuo languire</l>
+<l>Vorrei dar fine e sì ’l veder m’attrista</l>
+<l>Uom miser di pietà degno e d’aita,</l>
+<l>Ch’al tuo soccorso il sangue io spargerei.</l>
+</lg></sp>
+
+<sp><speaker>Meri</speaker>
+<lg type="strofa">
+<l> Che fia giamai, che la dogliosa e trista</l>
+<l>Alma console, o pur tronchi la vita,</l>
+<l>Oimè, più lunga assai ch’i’ non vorrei?</l>
+</lg>
+</sp>
+
+<sp><speaker>Mopso</speaker>
+<lg type="strofa">
+<l> Questo, ch’i’ ti dirò, serbalo a mente,</l>
+<l>Ch’è prezioso don di caro amico.</l>
+<l>S’io sempre al tuo com’al ben proprio intesi,</l>
+<l>Giura di non scoprirlo: ecco presente</l>
+<l>Nettuno il vede et ode; e quel ch’i’ dico</l>
+<l>Non ti potrà giovar, se tu ’l palesi.</l>
+<l>Simeta il disse ad Egla: Egla che fue</l>
+<l>Non men dotta che bella; Egla mia poi</l>
+<l>Me l’insegnò, quando io la nassa a pena</l>
+<l>Alzar potea sul legno, et ambedue</l>
+<l>Ad Erpili fur mastre, che co’ suoi</l>
+<l>Incantesmi stupir fe’ quest’arene.</l>
+</lg></sp>
+
+<sp><speaker>Meri</speaker>
+<lg type="strofa">
+<l> Forse qui t’ha condotto il mio destino</l>
+<l>Perch’io ritorni in libertate, e possa</l>
+<l>Campar al fin dagli amorosi scogli.</l>
+</lg></sp>
+
+<sp><speaker>Mopso</speaker>
+<lg type="strofa">
+<l> Discinto e scalzo a quel colle vicino</l>
+<l>Corri, e prendi nel sen quelle sette ossa</l>
+<l>Di foca ivi disperse, e dopo cogli</l>
+<l>Con la man dietro e gli occhi al ciel rivolti</l>
+<l>Quell’alga nera e quello assenzio bianco,</l>
+<l>E di spuma del mar gli bagna intorno.</l>
+<l>Lega tre fili, e poi che inseme avolti</l>
+<l>Con tre nodi gli arai tre volte al fianco,</l>
+<l>Di questo lito nel sinistro corno</l>
+<l>Al pastor di Nettuno alza un altare,</l>
+<l>E sovra vi porrai tutte le spoglie</l>
+<l>Ch’ella ti diè, che così Proteo vuole.</l>
+<l>Poi tutto nudo, ov’è più alto il mare,</l>
+<l>T’attuffa, e su risorgi, e con le foglie</l>
+<l>Di verbena t’asciuga al novo sole,</l>
+<l>E di’ cantando al fin queste parole:</l>
+</lg><lg type="strofa">
+<l>«A te che in fiume, in sasso</l>
+<l>Ti muti, in angue, e in foco,</l>
+<l>Proteo pastor del mar, su questa riva</l>
+<l>I’ alzo questo altare, e dal più basso</l>
+<l>Fondo de l’acque invoco,</l>
+<l>Perché pietoso del mio lungo affanno</l>
+<l>Mi cangi in quel ch’io era oggi è terzo anno,</l>
+<l>Quando sciolto ne giva.</l>
+<l>Odi, Proteo, odi, Proteo, esci a la riva.</l>
+</lg><lg type="strofa">
+<l>E tu che di quest’onde</l>
+<l>Pescator fosti, or Dio</l>
+<l>Se’, vecchio Glauco; e voi che per la riva</l>
+<l>Ven gite, o ninfe, e voi che ’l mare asconde,</l>
+<l>Uscite fuor, mentr’io</l>
+<l>Vi chiamo, uscite; e pietà mova e sforze</l>
+<l>Amor, perché la fiamma in tutto ammorze</l>
+<l>Ch’al cor sempre è più viva.</l>
+<l>Odi, Proteo, odi, Proteo, esci a la riva.</l>
+</lg><lg type="strofa">
+<l>Com’io spargo ne l’acque</l>
+<l>Queste ossa, e così sparte</l>
+<l>Sen vanno in altra piaggia, in altra riva;</l>
+<l>Così dal dì che Galatea mi piacque</l>
+<l>Or tutti in altra parte</l>
+<l>Vadano i miei pensier, tutti i desiri;</l>
+<l>Né più la cara libertà sospiri</l>
+<l>L’alma d’ogni ben priva.</l>
+<l>Odi, Proteo, odi, Proteo, esci a la riva.</l>
+</lg><lg type="strofa">
+<l>Come di mia nemica</l>
+<l>Oggi queste spoglie ardo</l>
+<l>Sovra l’altar ch’io sacro in questa riva,</l>
+<l>Così il desio ch’in me move e nutrica</l>
+<l>Un bel sereno sguardo,</l>
+<l>In tutto si dilegue; onde d’altrui</l>
+<l>Non fia più no, ma quel che dianzi io fui,</l>
+<l>Né mal mio grado viva.</l>
+<l>Odi, Proteo, odi, Proteo, esci a la riva.</l>
+</lg><lg type="strofa">
+<l>Come quest’alga e quella</l>
+<l>di ciascun filo io spoglio,</l>
+<l>E questo assenzio spargo in questa riva;</l>
+<l>Così te Galatea, da questa ancella</l>
+<l>Alma divello e toglio,</l>
+<l>E rompo et apro i ceppi e la prigione,</l>
+<l>E mi rendo a me stesso, a la ragione,</l>
+<l>Di cui donna mi priva.</l>
+<l>Odi, Proteo, odi, Proteo, esci a la riva.</l>
+</lg><lg type="strofa">
+<l>Come dispiego e snodo,</l>
+<l>Né dopo li raccolgo,</l>
+<l>Questi tre fili intorno a questa riva;</l>
+<l>Così del cor l’indissolubil nodo</l>
+<l>In tutto i’ tronco e sciolgo,</l>
+<l>Che fece Galatea d’un bel crin d’oro</l>
+<l>Per man d’Amor, del cui vago lavoro</l>
+<l>Natura in sé gioiva.</l>
+<l>Odi, Proteo, odi, Proteo, esci a la riva’.</l>
+</lg><lg type="strofa">
+<l>Poi che così cantato arai tre volte,</l>
+<l>E girato l’altar tre volte, e sparso</l>
+<l>Il cenere raccolto, un lauro ancora</l>
+<l>Ardi, che suol mostrar le cose occolte;</l>
+<l>Il quale a pena fia pur tocco et arso,</l>
+<l>Che l’udirai scoppiar tre volte: allora</l>
+<l>T’inchina, e ’l don ricevi, e saprai come</l>
+<l>In te più Galatea non viva, o regni:</l>
+<l>Utile exempio agli altri amanti, e specchio.</l>
+</lg></sp>
+
+<sp><speaker>Meri</speaker>
+<lg type="strofa">
+<l> Sempre lodato, o Mopso, il tuo bel nome</l>
+<l>Sarà da tutti i pescator più degni.</l>
+<l>Ecco ch’io t’obedisco, e m’apparecchio.</l>
+</lg></sp>
+
+<sp><speaker>Mopso</speaker>
+<lg type="strofa">
+<l> Va pur, Meri, va pur; troppo guadagno</l>
+<l>Farai, prima ch’asconda il sol la fronte.</l>
+<l>Io parto: ecco Licota il mio compagno,</l>
+<l>Che ne porta per ber l’acqua dal fonte.</l>
+</lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga VI</head>
+
+<head>Leucopetra</head>
+
+<argument>
+<p>Crati, sotto il quale intende il Signor Bernardino Martirano,
+già Segretario di questo Regno, e suo amicissimo e padrone di
+Pietrabianca, in questa egloga narra a Melanto la transformazione
+di Leucopetra, amata da Vesevo e da Sebeto.
+</p></argument>
+
+<sp>
+<stage><emph>Melanto, Crati</emph></stage>
+</sp>
+
+<sp>
+<speaker>Melanto</speaker>
+<lg type="strofa">
+<l> Perché sì tardi a noi ritorni, o Crati?</l>
+<l>Quattro giorni son già, che la tua rete</l>
+<l>Senza te sovra i remi al lito pende.</l>
+</lg></sp>
+
+<sp><speaker>Crati</speaker>
+<lg type="strofa">
+<l> Più tosto io non potei: cotanto irati</l>
+<l>Soffiaro i venti e fur l’onde inquiete,</l>
+<l>Che sapendo qual fé dal mar s’attende,</l>
+<l>Scioglier non volli da Pozzuolo il legno;</l>
+<l>Né men venir potea scorto dal piede,</l>
+<l>Fatto per gli anni grave in tutto e lento.</l>
+</lg></sp>
+
+<sp><speaker>Melanto</speaker>
+<lg type="strofa">
+<l> Lasciar più senza te ben era indegno</l>
+<l>Questa piaggia gentil, di cui non vede</l>
+<l>Più bella il sol, né fiede l’onda o ’l vento.</l>
+</lg></sp>
+
+<sp><speaker>Crati</speaker>
+<lg type="strofa">
+<l> Già mi piacque pescar per queste arene:</l>
+<l>Or son a tal, che volentier vorrei</l>
+<l>Girmene a qualche alpestra erma pendice.</l>
+<l>Passata è la stagion che le Sirene,</l>
+<l>Che Teti e Proteo e Glauco e gli altri Dei</l>
+<l>Si stavan qui nel buon tempo felice.</l>
+</lg></sp>
+
+<sp><speaker>Melanto</speaker>
+<lg type="strofa">
+<l> Di’, Crati mio, così non torni mai</l>
+<l>Vota dal mar la rete, e sempre sia</l>
+<l>Fortuna al tuo desir larga e cortese,</l>
+<l>Onde fu il luogo in pregio? io so che l’hai</l>
+<l>Pur a mente e nel core; et onde pria,</l>
+<l>Che ben tu ’l puoi sapere, il nome prese?</l>
+</lg></sp>
+
+<sp><speaker>Crati</speaker>
+<lg type="strofa">
+<l> Posson cotanto in me le tue parole,</l>
+<l>Caro Melanto, e tale è l’immortale</l>
+<l>Memoria de la ninfa onesta e bella,</l>
+<l>Ch’io tel dirò, mentre ne vieta il sole</l>
+<l>Quest’elce, s’or pur mi rimembra tale</l>
+<l>Qual l’udi’ ne l’età fresca e novella.</l>
+</lg><lg type="strofa">
+<l>Leucopetra fu già tra le marine</l>
+<l>Ninfe la più leggiadra e la più fera,</l>
+<l>Di cui la riva intorno e gli orti e ’l prato,</l>
+<l>E l’antro che qui vedi, e le vicine</l>
+<l>Acque del puro fonte, e ’l bel luogo era.</l>
+<l>Di costei, come volse Amore e ’l fato,</l>
+<l>Arse Vesevo, et arse ancor Sebeto</l>
+<l>Di Partenope figlio e di Nettuno,</l>
+<l>E di Vulcano l’altro e di Resina:</l>
+<l>E benché fu l’ardor lungo e secreto,</l>
+<l>Né mai voce di pianto, o priego alcuno</l>
+<l>Piegaro la donzella aspra e ferina,</l>
+<l>Anzi l’ira crescea con la bellezza</l>
+<l>Che fea le fiamme altrui più vive ardenti,</l>
+<l>Onde a ragion da l’altre sue compagne</l>
+<l>Pietra chiamata fu da la durezza;</l>
+<l>Gli afflitti amanti di dogliosi accenti</l>
+<l>Empìano intanto i liti e le campagne;</l>
+<l>Né mostro in mar sì novo e sì crudele</l>
+<l>Rimase, o scoglio pur sì duro intorno,</l>
+<l>Ch’a pianto et a pietà non si movesse</l>
+<l>De l’amorose lor triste querele.</l>
+<l>Ecco che per l’arena uscita un giorno,</l>
+<l>Lasciando fiamme ne’ vestigi impresse,</l>
+<l>Cogliendo conche gir sola e romita</l>
+<l>Vider la ninfa, e spinti dal desire</l>
+<l>Che mosse il piè le son da presso inseme,</l>
+<l>Con lagrime e sospir chiedendo aita</l>
+<l>Al troppo indegno lor grave martire.</l>
+</lg><lg type="strofa">
+<l>Vorria fuggir la giovenetta; e teme</l>
+<l>Che non procacci a se medesma danno.</l>
+<l>Infra due sta sospesa; or ferma or spinge</l>
+<l>Il piè più oltra; al fin fatta secura</l>
+<l>Da la desperazione e da l’affanno</l>
+<l>Che in lei varii pensier forma e dipinge</l>
+<l>(E pensando divien più sorda e dura,</l>
+<l>Anzi più cruda a se stessa e nemica),</l>
+<l>Fugge pallida e smorta, ancor che tarda</l>
+<l>Fuggir le par, ché fin porger non pote</l>
+<l>A quel che brama, e indarno s’affatica,</l>
+<l>Ché l’arena a la fuga il piè ritarda:</l>
+<l>E piangendo le guancie e ’l crin percote.</l>
+</lg><lg type="strofa">
+<l>Seguon gli amanti, a cui la speme aggiunge,</l>
+<l>Come il timor a lei, più lena e forza;</l>
+<l>Ma di costoro è più veloce il corso,</l>
+<l>Perché lo spron d’amor gli spinge e punge.</l>
+<l>Ella in van di campar s’ingegna e sforza,</l>
+<l>Ch’or l’un l’è sovra or l’altro, e pur soccorso</l>
+<l>Chiama, né mai verun soccorso appare.</l>
+<l>Già già par che la stringa or quegli or questi.</l>
+</lg><lg type="strofa">
+<l>Da la fatica al fin vinta ritenne</l>
+<l>Il passo, e stanca poi ne viene al mare,</l>
+<l>E dice: «O Dio, se mai priego intendesti,</l>
+<l>A cui lo scettro in alta sorte venne</l>
+<l>De l’ampio ondoso regno, odi il mio solo;</l>
+<l>E voi, o figlie di Nereo, ch’alzate</l>
+<l>Da l’onde il capo al suon de la mia voce,</l>
+<l>Movete ogni onda, e sia fine al mio duolo,</l>
+<l>Che venga ad inghiottirmi, o pur cangiate</l>
+<l>Quel solo in me, che sì m’offende e noce».</l>
+</lg><lg type="strofa">
+<l>Né disse più, ché fu tronca e percossa</l>
+<l>La preghiera dal pianto; e già rivolto</l>
+<l>Per tuffarsi ne l’acque avendo il passo,</l>
+<l>Ecco le corre un giel per mezzo l’ossa,</l>
+<l>Et immobil divien: ché ’l petto il volto,</l>
+<l>Fatta exangue e già grave, un novo sasso</l>
+<l>Le copre e cinge; e come vedi ancora</l>
+<l>In testimon di sua durezza eterno,</l>
+<l>Ignuda e Bianca Pietra appare in vista.</l>
+</lg><lg type="strofa">
+<l>Restan, com’ella, fredda selce allora</l>
+<l>I gioveni infelici, e sì l’interno</l>
+<l>Martire occupa i sensi, e sì gli attrista,</l>
+<l>Che pur non sanno ben come dagli occhi</l>
+<l>Si sia lor tolta, e come aprir le porte</l>
+<l>Debbiano al duol che li consuma et ange.</l>
+<l>Chiamano il ciel crudel, crudeli e sciocchi</l>
+<l>Chiaman se stessi, e più crudel la morte</l>
+<l>Che ’l filo al viver lor non tronca e frange.</l>
+<l>Aman la pietra ancor, né mai baciarla</l>
+<l>Restan dintorno; e mentre l’un col pianto</l>
+<l>La bagna, co’ sospir l’altro l’asciuga,</l>
+<l>E s’hanno ardir talor pur di toccarla,</l>
+<l>Senton sotto l’alpestro e duro manto</l>
+<l>Di lei, che trema ancor, l’antica fuga.</l>
+<l>Né di tante fatiche altro lor resta,</l>
+<l>Che voglia di morir, né questo ponno</l>
+<l>Pur impetrar dal ciel, che giunga a riva:</l>
+<l>Che quanto più la vita aspra e molesta</l>
+<l>Cercan finir fuggendo il cibo e ’l sonno,</l>
+<l>Tanto la vita al duol sempre è più viva;</l>
+<l>Né veggion sì riposta arena o scoglio</l>
+<l>Ove l’amato e bel nome scrivendo</l>
+<l>Non vadan sempre, e ’n questa e ’n quella parte</l>
+<l>Lascian memoria ognor d’alto cordoglio</l>
+<l>Con lamenti e sospir l’aria rompendo.</l>
+</lg><lg type="strofa">
+<l>Ma perché dir non posso a parte a parte</l>
+<l>Quel ch’avenne di lor, ché già dal cielo</l>
+<l>Cadut’è l’ombra, un altro dì t’aspetto,</l>
+<l>Ma non senza però nassa o tridente,</l>
+<l>Ad ascoltar, se pur dai fede al pelo,</l>
+<l>E ne fie quest’arena e seggio e letto.</l>
+</lg></sp>
+
+<sp><speaker>Melanto</speaker>
+<lg type="strofa">
+<l> Ahi cor di smalto, ahi cor che nulla sente!</l>
+<l>Et è pur dunque ver che in sì tranquilla</l>
+<l>Piaggia, che in sì bel lito, un tempo nacque</l>
+<l>Ninfa crudel più di Cariddi e Scilla?</l>
+<l>Si partì l’uno e l’altro in tanto, e tacque.</l>
+</lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga VII</head>
+
+<head>Sebeto</head>
+
+<argument>
+<p>Crati segue dimostrando la trasformazione di Vesevo in monte e
+di Sebeto in fiume poi che videro transformata Leucopetra.
+</p></argument>
+
+<sp>
+<stage><emph>Crati, Melanto, Sebeto</emph></stage></sp>
+
+<sp>
+<speaker>Crati</speaker>
+<lg type="strofa">
+<l> Passar quest’onde e gir di riva in riva</l>
+<l>Convien, Melanto, e ’n più secura arena</l>
+<l>Spiegar le reti et oprar l’amo e l’esca.</l>
+<l>Chi vuol viver così, per me si viva,</l>
+<l>Io già non voglio: andrò dove mi mena</l>
+<l>Il nemico destin; poiché non pesca</l>
+<l>Uom qui dintorno, che la preda a forza</l>
+<l>Nova arpia non gl’invole, e nova sfinge,</l>
+<l>E renda il suo sperar vano e fallace.</l>
+</lg></sp>
+
+<sp><speaker>Melanto</speaker>
+<lg type="strofa">
+<l> Quella cagion che fa dolerti e sforza,</l>
+<l>O Crati, a lamentar, quella mi spinge</l>
+<l>A tacer mal mio grado. O lieta pace,</l>
+<l>O felici ore, o mia vita beata,</l>
+<l>O cari scogli, o dilettosa piaggia,</l>
+<l>O dolce lito mio, chi mi ti toglie?</l>
+</lg></sp>
+
+<sp><speaker>Crati</speaker>
+<lg type="strofa">
+<l> O vecchiezza deserta e sconsolata,</l>
+<l>O veramente fera erma e selvaggia,</l>
+<l>O ben mostro infelice! A che non scioglie</l>
+<l>La vita mia, serbata a veder questo,</l>
+<l>Il duol, che ’l poria far, ma nol consente,</l>
+<l>Acciò ch’io porti a forza il fascio e ’l peso</l>
+<l>Di questa età più grave e più molesto!</l>
+</lg></sp>
+
+<sp><speaker>Melanto</speaker>
+<lg type="strofa">
+<l> Scaccia questi pensier ch’ognor la mente</l>
+<l>Combatter veggio, e t’han già vinto e preso,</l>
+<l>Ch’a te per favellar d’altro ne vegno.</l>
+<l>Ben ti dei ricordar quel che l’altr’ieri</l>
+<l>Mi promettesti dir sotto quell’elce.</l>
+<l>Deh su, comincia omai, mentre il tuo legno</l>
+<l>Traggon del mare al secco Aminta e Meri,</l>
+<l>Et io m’appoggio a la vicina selce.</l>
+</lg></sp>
+
+<sp><speaker>Crati</speaker>
+<lg type="strofa">
+<l> Or poi che pietra i dolorosi amanti</l>
+<l>Vider la cara donna, e in van chiamaro</l>
+<l>L’amato nome, e lungo strazio e guerra</l>
+<l>Fero a se stessi con sospiri e pianti,</l>
+<l>Ecco dal duol Vesevo interno amaro</l>
+<l>Rotto già cade, e poi tosto da terra</l>
+<l>Sorge, e crescendo d’ora in ora un monte</l>
+<l>Rassembra in vista, et è la barba il crine</l>
+<l>Selva già fatta che ’l circonda e cigne.</l>
+<l>L’ossa divengon sassi, e in due la fronte</l>
+<l>Parti si parte, e ’l miser tutto al fine</l>
+<l>Rivolto in nova forma in un si strigne;</l>
+<l>Ma, quel che parve più meraviglioso,</l>
+<l>L’ardor, ch’intorno il cor via più s’infiamma</l>
+<l>Dal vento di sospir, lunga stagione</l>
+<l>Tra le vene restò più forte ascoso,</l>
+<l>E sospirando uscì la chiusa fiamma</l>
+<l>Del monte fore, e già mi disse Egone,</l>
+<l>Che l’avo gliel contò, ch’insino al sasso</l>
+<l>De la cangiata ninfa e lungo il lido</l>
+<l>Mandò prima faville, onde ancor Arse</l>
+<l>Vedi le Pietre star di passo in passo.</l>
+</lg><lg type="strofa">
+<l>Né dopo molto poi s’intese il grido</l>
+<l>Che cotante dal cor lagrime sparse</l>
+<l>Sebeto, che ’l cordoglio in mezzo il foco</l>
+<l>Del petto, contra il natural costume,</l>
+<l>Ratto di pianto ampio ruscello aperse:</l>
+<l>Ond’egli dileguato a poco a poco,</l>
+<l>E liquido già tutto, in picciol fiume,</l>
+<l>Ch’ancor serba il suo nome, si converse;</l>
+<l>E parte e riga presso il bel paese</l>
+<l>Rendendo viva e rugiadosa l’erba</l>
+<l>Col pianto suo, finché raccolto in seno</l>
+<l>È dal padre Tirren pronto e cortese.</l>
+<l>E qualor li sovien de l’empia acerba</l>
+<l>Sventura de la ninfa, irato e pieno</l>
+<l>Correndo oltra l’usato, in vista sembra</l>
+<l>Rompere a forza il bel prato vicino</l>
+<l>E far oltraggio al margine fiorito.</l>
+</lg></sp>
+
+<sp><speaker>Melanto</speaker>
+<lg type="strofa">
+<l> Deh, Crati, non più, no, che per le membra</l>
+<l>Ir sento non so che, che già vicino</l>
+<l>I’ corro a morte in me stesso smarrito.</l>
+</lg></sp>
+
+<sp><speaker>Crati</speaker>
+<lg type="strofa">
+<l> Se tolta pur la fredda e lunga etate</l>
+<l>La memoria non m’ha con l’altre cose,</l>
+<l>Soviemmi ancor, ch’al più cocente sole,</l>
+<l>E ben di pianto degna e di pietate</l>
+<l>È la memoria, in voci alte e dogliose</l>
+<l>Disse Sebeto un dì queste parole.</l>
+</lg></sp>
+
+<sp><speaker>Sebeto</speaker>
+<lg type="strofa">
+<l> O sorda più del mar, nata di scoglio,</l>
+<l>Nutrita di velen da le balene,</l>
+<l>Deh ferma il passo, e rompi il duro orgoglio.</l>
+</lg><lg type="strofa">
+<l>L’istoria de le lunghe aspre mie pene</l>
+<l>Non ti dirò, che annoverar sarebbe</l>
+<l>Tutte di Libia le minute arene.</l>
+</lg><lg type="strofa">
+<l>Basti saver, che ben mi si devrebbe</l>
+<l>Giusta pietà da que’ begli occhi onesti</l>
+<l>Onde la fiamma al cor ne venne e crebbe.</l>
+</lg><lg type="strofa">
+<l>So che conosci Alcippe, e ch’intendesti</l>
+<l>Quanto ardea già di me, né mai la volli:</l>
+<l>Così l’anima mia legar sapesti.</l>
+</lg><lg type="strofa">
+<l>Omai ti san chiamare i sassi, i colli:</l>
+<l>Tante volte i’ ti chiamo, e così spesso</l>
+<l>Son da questi occhi il dì bagnati e molli.</l>
+</lg><lg type="strofa">
+<l>Io son Sebeto tuo, se pur me stesso</l>
+<l>Conosco bene, e tu ’l conosci; ascolta:</l>
+<l>I’ son quel ch’era dianzi, i’ son quel desso.</l>
+</lg><lg type="strofa">
+<l>Questa colomba ch’a la madre ho tolta</l>
+<l>Staman del nido, e tra fior bianchi e gialli</l>
+<l>Questa ghirlanda in mille nodi avolta</l>
+</lg><lg type="strofa">
+<l>Io t’ho serbato, e questi be’ coralli</l>
+<l>Purpurei e bianchi, che del nostro mare</l>
+<l>Colsi l’altrier ne’ lucidi cristalli.</l>
+</lg><lg type="strofa">
+<l>È ombra, anzi non è quel ch’esser pare</l>
+<l>Quel ch’ir ti fa superba; è men d’un fiore,</l>
+<l>Che non sarà diman com’oggi appare.</l>
+</lg><lg type="strofa">
+<l>Non vive sempre il bel vivo colore</l>
+<l>Del giglio e in un matin la spina perde</l>
+<l>Il tesor de le rose, il breve onore.</l>
+</lg><lg type="strofa">
+<l>A pena vien tra noi, che si disperde,</l>
+<l>E quasi insieme appare e si nasconde</l>
+<l>Mortal beltà, ch’a un punto è secca e verde.</l>
+</lg><lg type="strofa">
+<l>Nettuno è il padre mio, re di quest’onde;</l>
+<l>Né pescator è qui presso o lontano,</l>
+<l>Che più di me di nasse o reti abonde.</l>
+</lg><lg type="strofa">
+<l>Chi nuota più, chi più destra la mano</l>
+<l>Tiene al pescar, sia pur la notte o ’l giorno,</l>
+<l>Sia pur turbato il mar, sia queto e piano?</l>
+</lg><lg type="strofa">
+<l>Deh vieni omai: la piaggia, il lito intorno</l>
+<l>Ti chiama meco a l’ombra, et io ti chiamo</l>
+<l>Di questo lauro di be’ rami adorno,</l>
+</lg><lg type="strofa">
+<l>Poiché lasciai per te già l’esca e l’amo.</l>
+</lg></sp>
+
+<sp><speaker>Crati</speaker>
+<lg type="strofa">
+<l> Non disse più, ch’udir ben si potesse,</l>
+<l>Perché troncando il suon de’ suoi lamenti,</l>
+<l>Eco mossa a pietà per tutto il colle</l>
+<l>Con voci rispondea flebili e spesse;</l>
+<l>Né pietra il monte avea che de’ cocenti</l>
+<l>Sospir non s’infiammasse, o fatta molle</l>
+<l>Non fosse da l’umor degli occhi suoi.</l>
+</lg><lg type="strofa">
+<l>Questo fu il fin de’ gioveni infelici,</l>
+<l>Misero exempio di dolore eterno.</l>
+<l>Io non curo altro più: se meco vuoi,</l>
+<l>Potrai venir, ché in liti più felici</l>
+<l>Pescar ne fie concesso e state e verno.</l>
+</lg></sp>
+
+<sp><speaker>Melanto</speaker>
+<lg type="strofa">
+<l> Verrò dovunque andrai; ma perché temo</l>
+<l>Che non m’aspetti indarno al lito Iola,</l>
+<l>E sfornita ho la barca, e rotto un remo,</l>
+<l>E la rete lasciai bagnata e sola,</l>
+<l>Diman poi ragionar di ciò potremo.</l>
+</lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga VIII</head>
+
+<head>Tirsi</head>
+
+<argument>
+<p>Tirsi geloso, mentre si duole di non aver presente Filli sua
+amata e l’invita a venirsene a star seco, con bel modo, presa di
+ciò occasione, viene a celebrare tutti i vicini luoghi di Napoli.
+</p></argument>
+
+<sp>
+<speaker>Tirsi</speaker>
+<lg type="strofa">
+<l> Ecco la notte, il cui stellato manto</l>
+<l>Dipingon mille ardenti e be’ colori:</l>
+<l>Ecco ch’ognun s’acqueta, ecco che tace</l>
+<l>E dorme ogni onda; io sol ritorno al pianto,</l>
+<l>Esca sempre più nova a’ miei dolori;</l>
+<l>Né posso meco aver mai tregua o pace,</l>
+<l>O che rallegri il giovenetto giorno</l>
+<l>Col primo sol l’oriental contrada,</l>
+<l>O che l’ombra da’ monti il fosco velo</l>
+<l>Dispieghi e stenda e chiuda l’aria intorno,</l>
+<l>O ch’io peschi o ch’io nuoti, o posi o vada,</l>
+<l>Tra speranza e timor, tra foco e gelo,</l>
+<l>Un pensier mi combatte, un pensier solo</l>
+<l>Mi sforza a doler sempre; e quand’io spero</l>
+<l>Quetarmi in parte, allor veggio più nova</l>
+<l>La fiamma in mezzo il cor, più forte il duolo,</l>
+<l>E te più bella dentro al mio pensero;</l>
+<l>Né cosa al mondo mi diletta o giova.</l>
+</lg><lg type="strofa">
+<l>O Filli mia, che pro, s’ambo noi preme</l>
+<l>Un pari giogo, un pari ardor riscalda,</l>
+<l>S’un laccio et uno stral ne lega e punge,</l>
+<l>Se l’alme nostre ognor vivono inseme,</l>
+<l>Se quanto è più la voglia ardente e calda,</l>
+<l>Tanto dal fin più la speranza è lunge?</l>
+<l>Lasso, Filli, tu dormi, e mentre il sonno</l>
+<l>Dintorno agli occhi tuoi forse volando</l>
+<l>Di fiamma acceso è non men forte e viva,</l>
+<l>Io qui dolente piango, e mai non ponno</l>
+<l>Chiudersi gli occhi stanchi, e te cercando</l>
+<l>Di piaggia in piaggia vo, di riva in riva.</l>
+<l>Ma poi che non ti trovo in nulla parte,</l>
+<l>Ché gelosia mel vieta, e mi ti toglie</l>
+<l>L’empia matrigna, ovunque intorno al lido</l>
+<l>Le tue vestigie scorgo impresse o sparte,</l>
+<l>Orno di fiori e d’odorate foglie,</l>
+<l>E con questi occhi poi le bagno, e grido:</l>
+</lg><lg type="strofa">
+<l>«O Filli, ove ne vai? Qui potrai meco</l>
+<l>Al mormorar di be’ puri cristalli,</l>
+<l>Mentre a l’occhio del sole arde ogni cosa,</l>
+<l>A diporto seder: questo è lo speco</l>
+<l>Ove con Massa in amorosi balli</l>
+<l>Vico si gode; ove Cermena ascosa</l>
+<l>Giacque col suo Marisco, ove contento</l>
+<l>E lieto il fece al fin; né molto poi</l>
+<l>Cangiato fu per amoroso sdegno</l>
+<l>Nel cristallino mar del bel Sorrento</l>
+<l>D’Amalfi in sasso: Amalfi, che co’ suoi</l>
+<l>Pomi, co’ suoi licori, in tutto il regno</l>
+<l>Di Teti e di Nereo è la maggiore</l>
+<l>E la più bella e più vezzosa maga.</l>
+</lg><lg type="strofa">
+<l>Qui potrem consumar securi il die,</l>
+<l>Né ci potrà veder altri ch’Amore.</l>
+<l>Qui potrai, del mio strazio ingorda e vaga,</l>
+<l>Udir l’istoria de le pene mie,</l>
+<l>E quanto leve il dolce peso io senta.</l>
+<l>Come dal dì che ’n mar ti vidi ignuda</l>
+<l>Bagnar, tosto restai legato e preso.</l>
+<l>E mentre tutta a le mie voci intenta</l>
+<l>Forse starai men orgogliosa e cruda,</l>
+<l>Di voglia onesta et amorosa acceso</l>
+<l>Or i’ t’involerò quel bacio, or questo;</l>
+<l>E frema pur il mar, soffi Aquilone,</l>
+<l>Che non potran turbar l’alta mia gioia;</l>
+<l>E ti vedrai da me cinto e contesto</l>
+<l>Di mille il biondo crin varie corone;</l>
+<l>E se da presso il mar ti darà noia,</l>
+<l>Potrem salir su quel vicino colle,</l>
+<l>Ove non mai verno nevoso e rio</l>
+<l>Si sente, ove di piante giovenette</l>
+<l>Si vede selva, che rigata e molle</l>
+<l>È dal liquido piè d’un picciol rio,</l>
+<l>Ricca d’eterni fior, d’eterne erbette.</l>
+<l>Quindi Capri si vede in grembo a l’acque,</l>
+<l>E Vesevo con l’una e l’altra cima</l>
+<l>Alzarsi al cielo, e il monte più lontano</l>
+<l>In cui Tifeo già fulminato giacque;</l>
+<l>Ove Nice tra prime eletta e prima</l>
+<l>Tranquilla il mar col dir dolce e sovrano,</l>
+<l>E potrebbe quetar Cerbero irato:</l>
+<l>Nice, che nova Safo il magno sposo</l>
+<l>Ha tolto a morte e al mio Licida caro</l>
+<l>De la rete toscana il pregio ha dato.</l>
+</lg><lg type="strofa">
+<l>Quindi Procida ancor, quindi il fumoso</l>
+<l>Solforeo colle, e ’l sempre ameno e chiaro</l>
+<l>Pausilipo si vede, e ’l bel terreno</l>
+<l>Che la nobil Sirena orna et onora</l>
+<l>Col suo sepolcro e bagna il mio Sebeto.</l>
+<l>Quindi Baia vedrai, quindi Miseno,</l>
+<l>E Nisida, già ninfa un tempo et ora</l>
+<l>Novello scoglio, e ’l picciolo laureto</l>
+<l>De la figlia d’Amore e di Talia,</l>
+<l>Egla, ch’a par del sol chiara risplende</l>
+<l>Quando vien fuor de’ liti Eoi estremi,</l>
+<l>U’ la sua pena insieme e dolce e ria</l>
+<l>Licida piange, Licida, che fende</l>
+<l>Primiero il nostro mar con toschi remi,</l>
+<l>E pesca e nuota in disusati modi,</l>
+<l>E sì canta talor, che ben diresti</l>
+<l>Che torna altrui tosto quel canto a mente.</l>
+</lg><lg type="strofa">
+<l>Lasso, ben parlo a l’onde; io so che m’odi,</l>
+<l>O Filli mia; so che venir vorresti</l>
+<l>Qui dove è Tirsi tuo, ma nol consente</l>
+<l>La vecchia a’ prieghi miei sempre più dura.</l>
+<l>Qual Austro il fior d’ogni mio ben disperde?</l>
+<l>Qual aspe fiero morde et avelena</l>
+<l>La vita mia, ch’a forza in fin qui dura?</l>
+<l>La vita ch’al dolor sempre è più verde,</l>
+<l>Deserto scoglio, abbandonata rena.</l>
+</lg><lg type="strofa">
+<l>Ahi con quanta ragion piangendo, Meri,</l>
+<l>Presago del mio mal, mi disse: «O Tirsi,</l>
+<l>Fuggi Filli, per Dio: fuggi, ch’io veggio</l>
+<l>Che di seguire il vento agogni e speri,</l>
+<l>E non giova dapoi tardi il pentirsi,</l>
+<l>Che ’l ciel t’è contra e ti minaccia peggio».</l>
+</lg><lg type="strofa">
+<l>Misero, e chi m’ascolta, a che mi doglio?</l>
+<l>Ecco sparita l’ombra, ecco il dì luce:</l>
+<l>Forse Filli vedrò, che ’l mio cordoglio</l>
+<l>Farà minor con la sua bella luce.</l>
+</lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga IX</head>
+
+
+<head>Nice</head>
+
+<argument>
+<p>Si celebra in questa egloga il giorno del natal di Vittoria
+Colonna, Marchesana di Pescara, compresa da lui sotto il nome di
+Nice, che Vittoria significa: e per questo fare invoca la ninfa
+Egla, come fa Virgilio nel suo Pollione.
+</p></argument>
+
+<sp>
+<stage><emph>Timeta, Meliseo</emph></stage>
+
+<lg type="strofa">
+<l>Scendi dal tuo bel colle a la marina,</l>
+<l>O Egla, e lascia gli orti ov’Amor vive,</l>
+<l>Se ’l mormorar non hai del mare a sdegno,</l>
+<l>Or che convien solcar l’onda marina,</l>
+<l>E cercar altre piaggie et altre rive</l>
+<l>Con altri remi e con più destro legno.</l>
+<l>L’ondoso campo e l’umido sentiero</l>
+<l>Ch’io varco mostra a me libero e piano.</l>
+<l>Tu sei di Leda e l’una e l’altra stella</l>
+<l>Sola al mio navigar, quando è più fiero</l>
+<l>Il mar, quando più il porto appar lontano.</l>
+<l>Deh vieni più che mai vezzosa e bella,</l>
+<l>Deh vienne, o ninfa, e di più scelti fiori</l>
+<l>Cingi il dorato crin vaga et ornata;</l>
+<l>Mentre io con piena man ne vo spargendo</l>
+<l>Rose gigli amaranti edere allori</l>
+<l>A la memoria sacra et onorata,</l>
+<l>Cui debbo d’or in or, ma nulla rendo,</l>
+<l>Del dì natal di Nice, a cui le Muse</l>
+<l>Sono compagne e d’or in or più larga</l>
+<l>Versa l’onda Permesso alma e felice;</l>
+<l>A cui servon le Circi e le Meduse,</l>
+<l>A cui par ch’Elicona e vesta e sparga</l>
+<l>Di novelli laureti ogni pendice.</l>
+</lg><lg type="strofa">
+<l>Or canta meco quel ch’a Meliseo</l>
+<l>Disse Timeta, e quel che poi cantaro</l>
+<l>Insieme sotto il monte che nasconde</l>
+<l>Percosso il temerario empio Tifeo,</l>
+<l>Asilo de le Muse illustre e caro.</l>
+<l>Così di fior la piaggia, il lito abonde</l>
+<l>Di pesci, e nel tuo mar quasi in bel fonte</l>
+<l>Mal grado del furor d’Eolo e Nettuno</l>
+<l>Di specchiarti ad ognor ti si conceda.</l>
+</lg><lg type="strofa">
+<l>Quando più il sol con l’infiammata fronte</l>
+<l>Scalda la terra, e sembra arso e digiuno</l>
+<l>L’aer, come quel dì che ’l carro in preda</l>
+<l>Mal diede al figlio il Sol, che troppo volse,</l>
+<l>Timeta pescator primo e famoso</l>
+<l>Tra quanti il mar Tirreno onora e vede,</l>
+<l>Poi che l’altr’ier al sol la rete sciolse</l>
+<l>Là dove intorno il mar salso e spumoso</l>
+<l>Bagna e rinfresca al gran gigante il piede,</l>
+<l>Giunto al buon Meliseo, che la bonaccia</l>
+<l>Avea sovra un vicin sasso a pescare</l>
+<l>Invitato pur dianzi, ove sovente</l>
+<l>Si siede Proteo poi che a pascer caccia</l>
+<l>Fuor la greggia il matin dintorno al mare,</l>
+<l>Disse così tutto di gioia ardente.</l>
+</lg></sp>
+
+<sp><speaker>Timeta</speaker>
+<lg type="strofa">
+<l> Quando Nice dal ciel tra noi discese,</l>
+<l>D’altrettanto sereno</l>
+<l>La notte il carro suo stellato accese,</l>
+<l>E ne l’ampio bel seno</l>
+<l>Mostrò la terra un novo eterno aprile,</l>
+<l>E seco il mondo apprese</l>
+<l>Quant’è di pellegrino e di gentile.</l>
+</lg></sp>
+
+<sp><speaker>Meliseo</speaker>
+<lg type="strofa">
+<l> Quando Nice dal ciel tra noi discese,</l>
+<l>Di più raggi lucenti</l>
+<l>La sorella del sol la fronte accese,</l>
+<l>Et amorosi accenti</l>
+<l>Rinovò sovra i rami ogni augelletto.</l>
+<l>E seco il mondo apprese</l>
+<l>Quant’è di bel, d’onesto e di perfetto.</l>
+</lg></sp>
+
+<sp><speaker>Timeta</speaker>
+<lg type="strofa">
+<l> Quando Nice dal ciel qua giù discese,</l>
+<l>Crespata da soave e picciol vento</l>
+<l>L’onda di puro argento</l>
+<l>Lasciava spume di cristallo al lito;</l>
+<l>E ’l terren più che mai verde e fiorito</l>
+<l>Di non so che divin tosto s’accese.</l>
+</lg></sp>
+
+<sp><speaker>Meliseo</speaker>
+<lg type="strofa">
+<l> Quando Nice dal ciel qua giù discese,</l>
+<l>Sorse del mar con doppia luce il giorno,</l>
+<l>E stillarle dintorno</l>
+<l>Parea di grazie un nembo largo e spesso;</l>
+<l>E ’l mondo vago e ricco di se stesso</l>
+<l>D’un novo raggio di virtù s’accese.</l>
+</lg></sp>
+
+<sp><speaker>Timeta</speaker>
+<lg type="strofa">
+<l> Nice gentil, quel dì ch’a primavera</l>
+<l>Nascesti in grembo, Amore</l>
+<l>Smaltò di ricche gemme i sassi e l’acque,</l>
+<l>E fur le luci tutte a farti onore</l>
+<l>D’accordo in ogni spera;</l>
+<l>E teco insieme nacque</l>
+<l>La meraviglia de le cose prime.</l>
+</lg></sp>
+
+<sp><speaker>Meliseo</speaker>
+<lg type="strofa">
+<l> Nice gentil, quel dì ch’a primavera</l>
+<l>Nascesti in grembo, Amore</l>
+<l>In dolce fiamma accese i pesci e l’acque,</l>
+<l>E Dio dipinse in via più bel colore</l>
+<l>La matina e la sera;</l>
+<l>E teco insieme nacque</l>
+<l>Il più bel di Natura, il più sublime.</l>
+</lg></sp>
+
+<sp><speaker>Timeta</speaker>
+<lg type="strofa">
+<l> Nel dì che Nice il mondo</l>
+<l>Ornò di nova luce, ogni spelonca</l>
+<l>Di fiorite corone</l>
+<l>Ornaro i Dei de l’acque,</l>
+<l>E l’antico Tritone</l>
+<l>Rallegrò tutto il mar con la sua conca,</l>
+<l>Al cui suono i delfini intorno l’acque,</l>
+<l>In qua in là guizzando e saltellando,</l>
+<l>Per onorar il dì sacro e giocondo</l>
+<l>Menaro lieti e graziosi balli;</l>
+<l>E le ninfe scherzando</l>
+<l>Sen gìan per entro i bei puri cristalli.</l>
+</lg></sp>
+
+<sp><speaker>Meliseo</speaker>
+<lg type="strofa">
+<l> Nel dì che Nice il mondo</l>
+<l>Ornò di nova luce, il mar, la riva,</l>
+<l>Di fior vermigli e bianchi</l>
+<l>Cosperse il re de l’acque,</l>
+<l>E cinti il seno e i fianchi</l>
+<l>I pescatori e ’l crin tutti d’oliva,</l>
+<l>Copriro d’erbe nate in sen de l’acque</l>
+<l>Quel tridente, quel remo e quella barca</l>
+<l>Per onorar il dì sacro e giocondo;</l>
+<l>Né di pesci, qual pria, vili e limosi,</l>
+<l>Trasser la rete carca,</l>
+<l>Ma di ricchi lapilli e preziosi.</l>
+</lg></sp>
+
+<sp><speaker>Timeta</speaker>
+<lg type="strofa">
+<l> Nel dì che Nice nacque,</l>
+<l>Usciro al lito fuor gioiose ardite,</l>
+<l>Sciolte a l’aura le chiome,</l>
+<l>De l’onde quete e pure</l>
+<l>Cimotoe e Melite</l>
+<l>Cantando il nobil nome,</l>
+<l>E fer più chiare l’acque</l>
+<l>Sovra i mostri del mar liete e secure.</l>
+</lg></sp>
+
+<sp><speaker>Meliseo</speaker>
+<lg type="strofa">
+<l> Nel dì che Nice nacque</l>
+<l>Intrecciò di coralli e margherite</l>
+<l>Glauco le verdi chiome,</l>
+<l>E Proteo con figure</l>
+<l>Quasi dal cielo uscite</l>
+<l>Cantando il nobil nome</l>
+<l>A pascer fuor de l’acque</l>
+<l>Cacciò le gregge sue liete e secure.</l>
+</lg></sp>
+
+<sp><speaker>Timeta</speaker>
+<lg type="strofa">
+<l> Nice gentil, quel dì che con l’Aurora</l>
+<l>Sorgesti al mondo, et Anfitrite e Teti</l>
+<l>Sparser di perle e di coralli l’acque,</l>
+<l>E salutando il dì felice e l’ora</l>
+<l>Cantaro i mergi in dolci modi e lieti,</l>
+<l>E teco insieme nacque</l>
+<l>Quel ch’oggi più si pregia e più s’onora.</l>
+</lg></sp>
+
+<sp><speaker>Meliseo</speaker>
+<lg type="strofa">
+<l> Nice gentil, quel dì che le Sirene</l>
+<l>Lasciaro il mar sol per vederti, il sole</l>
+<l>Indorò d’altri raggi il lito e l’acque,</l>
+<l>E per li scogli intorno e per l’arene</l>
+<l>Cadde pioggia di rose e di viole,</l>
+<l>E teco insieme nacque</l>
+<l>La prima gioia al mondo, il primo bene.</l>
+</lg></sp>
+
+<sp><speaker>Timeta</speaker>
+<lg type="strofa">
+<l> Nel dì che Nice nacque e larghi i fati</l>
+<l>Ne fur di tanto ben, dianzi sì scarsi,</l>
+<l>Volando gìan l’aurette intorno i prati</l>
+<l>In compagnia di Clori e Pasitea;</l>
+<l>E Natura parea</l>
+<l>Dell’opra stessa sua meravigliarsi.</l>
+</lg></sp>
+
+<sp><speaker>Meliseo</speaker>
+<lg type="strofa">
+<l> Nel dì che Nice nacque e del suo lume</l>
+<l>Fu ricco e vago il mondo, arene d’oro</l>
+<l>Scoperse ogni ruscello, et ogni fiume</l>
+<l>Di nettare e di latte al mar correa;</l>
+<l>E Natura parea</l>
+<l>Se stessa ringraziar del bel lavoro.</l>
+</lg></sp>
+
+<sp>
+<lg type="strofa">
+<l>Qui poser fine i pescatori al canto;</l>
+<l>Poi Timeta tornò dove disciolte</l>
+<l>Avea le reti al sole in lungo giro,</l>
+<l>E Meliseo drizzato il filo alquanto</l>
+<l>La canna in man riprese una e due volte;</l>
+<l>Né dal mar tutto il dì mai si partiro,</l>
+<l>Finché dintorno al ciel le stelle usciro.</l>
+</lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga X</head>
+
+<head>Timeta</head>
+
+<argument>
+<p>Nigello e Dami pescatori si sfidano a cantare, proponendo i
+pegni e i premii al vincitore: il che fanno in presenza di Timeta,
+dimandandosi dubii l’un l’altro et invocando ciascuno gl’Iddii e
+l’amate in favor suo, ove per passaggio si viene a dire della
+proprietà di molti pesci.
+</p></argument>
+
+<sp>
+<stage><emph>Nigello, Dami, Timeta</emph></stage>
+</sp>
+
+<sp>
+<speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Or si può creder ben che ’l cigno al canto</l>
+<l>Ceda del mergo, poi che già cantando</l>
+<l>Melanto ha Dafni superato e vinto.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Come sel vinse? Io so ch’a forza il pianto</l>
+<l>Il giovene per duol ritenne, quando</l>
+<l>Di purpurea vergogna il volto tinto</l>
+<l>In man del vincitore il pegno diede.</l>
+<l>E quel ch’allora al pescator più dolse</l>
+<l>Fu che Licori sua v’era presente.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Far non potrai ch’io t’abbi a dar mai fede,</l>
+<l>Benché mel giuri: i’ so che Dafni tolse,</l>
+<l>Così l’altr’ier cantò soavemente,</l>
+<l>A tutti gli altri il pregio, e tu vedesti</l>
+<l>Ne le nozze di Nisa e di Palemo</l>
+<l>Ch’ei sol n’ebbe il tridente e la ghirlanda.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Taci, Nigello, omai; meglio potresti</l>
+<l>Ragionar come de’ torcersi il remo,</l>
+<l>Come la vela si raccolga o spanda,</l>
+<l>La rete allente o tragga e con qual esca</l>
+<l>S’ha de la canna maggior biasmo o lode,</l>
+<l>Ché troppo in van di ciò meco contrasti.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Chi canta a par di te, chi nuota o pesca?</l>
+<l>Misero chi ti vede, e più chi t’ode.</l>
+<l>Taci, taci pur tu: quando cantasti?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Qual maggior pianto o più noioso strido</l>
+<l>Udir si può che la tua voce? Al cui</l>
+<l>Flebile suon vist’ho augelli spesso</l>
+<l>Fuggir lasciando i figli al caro nido.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Deh se mill’occhi hai ne le cose altrui,</l>
+<l>Perché non vedi ben prima te stesso?</l>
+<l>Ma per saper chi più cantando avanzi,</l>
+<l>Alza la voce, e se contender vuoi,</l>
+<l>Ecco qui ’l pegno, ecco ’l più ardito e bello</l>
+<l>Cane che mai vedesti, il qual pur dianzi</l>
+<l>Un pastor diede a Cromi, e Cromi poi</l>
+<l>In cambio il mi mandò d’un bianco augello</l>
+<l>Ch’io li donai, né fu picciolo il dono,</l>
+<l>Poiché Leucippe mia mel diede in segno</l>
+<l>De la sua fé, del non suo finto ardore;</l>
+<l>Et io dentro una gabbia, a punto sono</l>
+<l>Oggi tre anni, il tenni; e per disdegno</l>
+<l>Nol volsi più, ché così volse Amore.</l>
+<l>Questo can mio, qualor vede dal lito</l>
+<l>Saltar guizzando dentro l’acque un pesce</l>
+<l>Ch’abbia rotta la rete o tronco l’amo,</l>
+<l>Tosto s’attuffa in mar veloce ardito,</l>
+<l>E con la preda fuor ritorna et esce,</l>
+<l>E m’ode e m’obedisce ognor che ’l chiamo:</l>
+<l>Ma tu qual pegno incontro oggi porrai?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Una sampogna io pongo, ecco, ch’a prova</l>
+<l>Vinse a Mopso Micon sonando, et io</l>
+<l>L’ebbi in dono da lui: questa udirai,</l>
+<l>Qualora avien che l’aura il dì la mova,</l>
+<l>Dolce sonar da sé. Con questa il mio</l>
+<l>Amoroso dolor par che s’acquete,</l>
+<l>E spesso al suon de la sua voce il mare</l>
+<l>Lasciano i pesci e per la rena vanno,</l>
+<l>Ond’io senza favor di nassa o rete</l>
+<l>Me n’empio il seno; e già porian campare,</l>
+<l>Ma gli diletta troppo il novo inganno.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Or comincia a cantare, ecco che viene</l>
+<l>Timeta: egli dirà chi vinca o ceda.</l>
+<l>Corri, Timeta: il nostro canto ascolta.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Corri, Timeta: il nostro canto ascolta.</l>
+</lg></sp>
+
+<sp><speaker>Timeta</speaker>
+<lg type="strofa">
+<l> Dite, ch’io pur disteso in queste arene</l>
+<l>V’ascolterò, sia di chi vuol la preda</l>
+<l>De la mia rete che nel mare ho sciolta.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Quando il bell’oro al vento</l>
+<l>Spiega Licinna mia, l’aria s’infiamma</l>
+<l>E ne gioisce innamorata intorno.</l>
+<l>E se non ch’io ritorno</l>
+<l>A’ miei sospiri e quelli</l>
+<l>Movono altrove e fan minor la fiamma,</l>
+<l>Il mondo in foco andrebbe;</l>
+<l>Né però dentro men l’incendio i’ sento.</l>
+<l>Or chi creder potrebbe</l>
+<l>Che possan tanto far biondi capelli?</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Quando i begli occhi gira</l>
+<l>Al mar Leucippe mia, l’onda s’infiamma</l>
+<l>E ne gioisce innamorata intorno.</l>
+<l>E se non ch’io ritorno</l>
+<l>Al pianto, acciò trabocchi</l>
+<l>Più de l’usato e tempri in mar la fiamma,</l>
+<l>Il mondo in foco andrebbe;</l>
+<l>Né però men si piange entro e sospira.</l>
+<l>Or chi creder potrebbe</l>
+<l>Che possan tanto far sol duo begli occhi?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> O Glauco, s’oggi io vinco, in ogni scoglio</l>
+<l>Scriverò le tue fiamme ad una ad una.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> O Proteo, s’oggi io vinco, in ogni scoglio</l>
+<l>Scolpirò le tue forme ad una ad una.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Licinna a me più de l’assenzio amara,</l>
+<l>Tu se’ la notte, il mio torbido verno.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Leucippe d’ogni dolce a me più cara,</l>
+<l>Tu se’ il mio giorno, il mio sereno eterno.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Dimmi, qual pesce è quel che nel mar sòle</l>
+<l>Entrar dal destro lato, uscir dal manco?</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Dimmi, qual pesce è quel che parer sòle</l>
+<l>Al caldo tempo nero, al freddo bianco?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> O Dori, fa ch’io vinca, et un monile</l>
+<l>Contesto avrai di conche e di coralli.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> O Teti, fa ch’io vinca, et un monile</l>
+<l>Contesto avrai di perle e di coralli.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Gigli, rose, due stelle al viso porta</l>
+<l>La pescatrice mia, ch’al core i’ porto.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Avorio, ostro, due soli al viso porta</l>
+<l>La pescatrice mia, ch’al core i’ porto.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Dimmi, qual pesce è quello, et abbi il pregio,</l>
+<l>che d’alga e limo sol s’informa e nasce?</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Dimmi, qual pesce è quello, et abbi il pregio,</l>
+<l>che d’alga e limo sol si nudre e pasce?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Ninfe di questa fresca amica riva,</l>
+<l>Dite, qual piaggia il mio bel sole infiora?</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Ninfe di questa fresca amica riva,</l>
+<l>Dite, qual lito il mio bel sole indora?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> S’un dì Licinna mia meco pescasse,</l>
+<l>Esser re di quest’onde io non vorrei.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> S’un dì Leucippe mia meco cantasse,</l>
+<l>Per gioia e per dolcezza io morirei.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Dimmi, qual pesce è quel che quando scorge</l>
+<l>L’inganno, tronca l’amo e campa e fugge?</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Dimmi, qual pesce è quel che quando scorge</l>
+<l>Più queto il mar nel fondo e campa e fugge?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> O figlie di Nereo, meco cantate,</l>
+<l>Che sarà vostra la sampogna, il cane.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> O Sirene, il mio canto accompagnate,</l>
+<l>Sì ch’io ne porti la sampogna, il cane.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Quando m’ode cantar Licinna il die,</l>
+<l>Fugge da me sdegnosa e si nasconde.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Quando Leucippe ode le pene mie,</l>
+<l>Con un sospir pietosa mi risponde.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Qual pesce quanto tocca, abbraccia e strigne,</l>
+<l>E l’ostriche col sasso apre et inganna?</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Qual pesce il mar di sangue asperge e tigne,</l>
+<l>Onde la vista di chi ’l segue appanna?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> O quanti doni, s’io vincessi, o quante</l>
+<l>Ghirlande aresti al tempio oggi, Portuno.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> O quante reti, s’io vincessi, o quante</l>
+<l>Canne aresti nel tempio oggi, Nettuno.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Che dirai tu, c’ha primavera al volto</l>
+<l>Questa fera ch’io seguo e mai non giungo?</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Che dirai tu, c’ha l’oriente al volto</l>
+<l>Questa ch’io ferir cerco e mai non pungo?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Dimmi, qual picciol pesce il mare accoglie,</l>
+<l>Che col delfin combatte e vincer pote?</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Dimmi, qual picciol pesce il mare accoglie,</l>
+<l>Che nel corso fermar gran legno pote?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> O Triton, s’oggi vinco, i’ ti prometto</l>
+<l>Alzarti un’ara intorno a quest’arena.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> O Nereo, s’oggi vinco, i’ ti prometto</l>
+<l>Sacrarti al tempio il cor d’una balena.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Qual pesce è quel che più degli altri vive</l>
+<l>Lunge da l’acque e del suo albergo fori?</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Qual pesce è quel che men degli altri vive</l>
+<l>Tosto ch’è de la rete uscito fori?</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Empi, Licinna mia, di fiori il grembo,</l>
+<l>Poi la mia fronte ne ’nghirlanda e fregia.</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Spargi, Leucippe mia, di fiori un nembo,</l>
+<l>Poi gli raccogli e ’l sen te n’orna e fregia.</l>
+</lg></sp>
+
+<sp><speaker>Dami</speaker>
+<lg type="strofa">
+<l> Eccoti la sampogna, e dimmi or quale</l>
+<l>Pesce è che pesca gli altri in mezzo l’acque?</l>
+</lg></sp>
+
+<sp><speaker>Nigello</speaker>
+<lg type="strofa">
+<l> Eccoti in tutto il cane, e dimmi or quale</l>
+<l>Pesce è che suol volar dentro de l’acque?</l>
+</lg></sp>
+
+<sp><speaker>Timeta</speaker>
+<lg type="strofa">
+<l> Gioveni pescatori, ambo felici</l>
+<l>Vi potete chiamar, così vi done</l>
+<l>Il mar se stesso, e sianvi i venti amici:</l>
+<l>Il canto è pari, e pari il guidardone.</l>
+</lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga XI</head>
+<head><emph>A monsignor illustrissimo Ridolfo Pio cardinale di Carpi</emph></head>
+
+<head>Tritone</head>
+
+<argument>
+<p>Tritone, dormendo, sente nel sonno sonar la sua conca; svegliato
+vede esser Fumone e, conoscendo tutto ciò farsi acciò che egli
+canti, si pone, a guisa del Sileno di Virgilio, a cantar molte
+favole di cose marittime. La materia e il verso sono, secondo la
+persona a cui l’egloga s’indirizza, tutti pieni di reverenda
+maestade e di gravità.
+</p></argument>
+
+<sp>
+<lg type="strofa">
+<l> O d’ogni alta virtù novo Oriente,</l>
+<l>Giorno seren di nostra oscura etate,</l>
+<l>Per cui vive valore e cortesia,</l>
+<l>Chiaro Ridolfo, il cui bel raggio ardente</l>
+<l>Ne mostra ognor di fede e di pietate</l>
+<l>La già smarrita e traviata via;</l>
+<l>A la cui ombra fido albergo eterno</l>
+<l>Tien già la bella e gloriosa fronde</l>
+<l>D’ogni celeste ben pregiato onore;</l>
+<l>O che nel sacro universal governo</l>
+<l>Circondato da cure alte e profonde</l>
+<l>Consumi in bel guadagno i giorni e l’ore,</l>
+<l>O che con calde e pie voci a Dio sparte</l>
+<l>Spirando odor di vita almo e divino</l>
+<l>Ne scopri in terra il ciel securo e vero,</l>
+<l>O che di bei concetti orni le carte,</l>
+<l>E vivi tal, che Celio et Aventino</l>
+<l>T’aspettan degno successor di Piero;</l>
+<l>Odi Licida tuo, Licida, a cui,</l>
+<l>In quest’onde che varca, il duce il segno</l>
+<l>Tu se’ più certo, odi il suo novo canto,</l>
+<l>Poi che tien chiuse Amor l’orecchie altrui,</l>
+<l>Se giovenetto stil di tanto è degno,</l>
+<l>Se pur un pescator degno è di tanto.</l>
+</lg><lg type="strofa">
+<l>Dove Sebeto in mar chiude il viaggio,</l>
+<l>Cinto di salci e canne il picciol corno,</l>
+<l>E fa bel ciò che riga e ciò che bagna,</l>
+<l>Quando amabile e cara il caldo raggio</l>
+<l>Ne fa più l’ombra e l’aura, e più dintorno</l>
+<l>Par ch’arda tutto il lito e la campagna,</l>
+<l>Stanchi già di pescare Ila e Fumone</l>
+<l>Sotto una presso il mar cava spelonca</l>
+<l>Fuggìan l’estivo ardor, quando a la riva</l>
+<l>Sovra l’alga giacer veggion Tritone</l>
+<l>Vinto dal sonno, e dietro avea la conca,</l>
+<l>E seco ogni onda in mar queta dormiva.</l>
+</lg><lg type="strofa">
+<l>Ecco che i pescator corrono e sono</l>
+<l>Taciti presso a lui quanto più ponno,</l>
+<l>E gli ruban la conca, e in bocca a pena</l>
+<l>Se l’ha messa Fumon, che non più il suono</l>
+<l>Rende qual suol, pur stride sì, che ’l sonno</l>
+<l>Gli rompe, ond’egli desto e da l’arena</l>
+<l>Risorto grida: «A che tentar volete</l>
+<l>Quel che non lice? A me solo dar volse</l>
+<l>Questo il padre Ocean: ma s’oggi forse</l>
+<l>Voi bramate ch’i’ suoni, ecco che sete</l>
+<l>Contenti, ecco ch’io suono’; e tosto tolse</l>
+<l>La conca in man che ’l pescator gli porse,</l>
+<l>Al cui strido ogni scoglio, ogni antro inseme</l>
+<l>Rimbomba, e fuori al lito esce del fondo</l>
+<l>Questo mostro e quel pesce, e dal più basso</l>
+<l>Centro par che la terra e l’onda treme,</l>
+<l>E scoppi l’aria e s’apra intorno il mondo.</l>
+</lg><lg type="strofa">
+<l>Egli appoggiato in su l’arena a un sasso</l>
+<l>Canta come già Peleo ingannar volle</l>
+<l>Teti dormendo, e qual più d’una volta</l>
+<l>Ella fatta or augello or tigre in tutto</l>
+<l>Fe’ de l’amante il desir vano e folle;</l>
+<l>E come al fin l’ebbe tra lacci avolta,</l>
+<l>E di lei colse il desiato frutto.</l>
+<l>Canta poi Bacco ritrovato al lito</l>
+<l>Dai fallaci nocchieri, e canta poi,</l>
+<l>Quando ei s’accorse del perverso inganno,</l>
+<l>Come arrestar fe’ il legno e sbigottito</l>
+<l>Lo stuol crudel rimase, che de’ suoi</l>
+<l>Empi desir portò vergogna e danno;</l>
+<l>Che mentre tenta l’uno i remi oprare,</l>
+<l>Fatto nero si vede e già di spine</l>
+<l>E di squame coperto, e quando spera</l>
+<l>L’altro la fune in man prender, nel mare</l>
+<l>Salta senza le braccia, e tutti al fine</l>
+<l>Diventati delfin nuotano a schiera.</l>
+</lg><lg type="strofa">
+<l>A questo aggiunge poi perché ne l’acque</l>
+<l>Ino col suo figliuol già si sommerse,</l>
+<l>E come lor cangiò l’aspetto e ’l nome</l>
+<l>Il re del mar, ché così a Vener piacque,</l>
+<l>E ’n questo e ’n quel Dio poi ambo converse,</l>
+<l>E quanto pianta fu la ninfa, e come</l>
+<l>Giunone irata le compagne sue</l>
+<l>Augelli e sassi fece. E di te disse,</l>
+<l>O Scilla, ancor qual fur dannose e vane</l>
+<l>Le prighiere di Glauco, e che mal fue</l>
+<l>Circe crudele, e ’n quanto duol poi visse</l>
+<l>L’amante, quando in mar rabbioso cane</l>
+<l>Latrar t’intese a torto, e poi che scoglio</l>
+<l>Ti vide, quanto pianse, e quanto ancora</l>
+<l>Ogni nocchier ti fugga, e perché festi,</l>
+<l>Rimembrando di Circe il fiero orgoglio,</l>
+<l>Senza compagni Ulisse. E come fora,</l>
+<l>Venere bella, tu del mar sorgesti</l>
+<l>Nata di spume, onde ’l bel nome hai preso.</l>
+<l>Or in giovenco, or in delfin Nettuno</l>
+<l>(Oh gran forza d’Amor!) muta e trasforma</l>
+<l>Celeste cor da terrena esca acceso.</l>
+<l>Or fa bifolco, or pescator Vertuno,</l>
+<l>Or cangia Proteo in questa, in quella forma,</l>
+<l>Et or Esaco in mar veste di piume,</l>
+<l>E come Icaro a l’acque il nome diede.</l>
+<l>Poi com’ogni onda al gran padre Oceano</l>
+<l>È costretta obedir; perch’ogni fiume</l>
+<l>Nasce da lui, perché a lui corre e riede,</l>
+<l>E sia il cerulo Dio non mai lontano</l>
+<l>Dal grembo de la sua bella Anfitrite:</l>
+<l>E perché alberghi il sol seco, e com’esca</l>
+<l>Fuor la mattina. Al fin gli occhi poi gira</l>
+<l>Ove le chiome sue verdi e fiorite</l>
+<l>Spiega e rivolge a l’onda pura e fresca</l>
+<l>Pausilipo, ch’ancor piange e sospira</l>
+<l>E grida. Ahi quanto in van Nisida amasti,</l>
+<l>O Pausilipo, un tempo; ahi come spesso</l>
+<l>Mentre ella era a seguir le fere intenta</l>
+<l>Con le tue voci i suoi piacer turbasti!</l>
+<l>Ah misero, ah dolente, a che te stesso</l>
+<l>Cerchi perder seguendo? Indarno tenta</l>
+<l>Ella da te fuggire; or basso or alto</l>
+<l>Corre per tutto il colle, e non è valle,</l>
+<l>Né si riposto speco, ove non entre</l>
+<l>Sol per campar da l’amoroso assalto.</l>
+<l>Dovunque torce il piè, par ch’a le spalle</l>
+<l>Ad or ad or le sopragiunghi, e mentre</l>
+<l>Crede lontan da te correr secura,</l>
+<l>Ogni fronde, ogni fior che move il vento</l>
+<l>La fa volger indietro, e ciò che intende,</l>
+<l>Ciò che vede, l’apporta ombra e paura;</l>
+<l>E quanto fugge più, tanto più lento</l>
+<l>Le pare il corso, e se stessa riprende.</l>
+</lg><lg type="strofa">
+<l>Ahi troppo incauto, ahi troppo fiero e crudo!</l>
+<l>Tu segui chi non fugge? Ove ne vai?</l>
+<l>Nisida è giunta al mar: come non vedi</l>
+<l>Nisida tua già scoglio orrido e nudo?</l>
+<l>Né fugge più, né te più teme omai:</l>
+<l>E pur oltra la segui, e sì nol credi?</l>
+</lg><lg type="strofa">
+<l>Volea dir più Triton, ma qui finìo,</l>
+<l>Ché la voce e la conca nol sostenne,</l>
+<l>E perché tosto a noi la notte venne,</l>
+<l>Sen tornò poi nel mare ond’egli uscìo.</l>
+</lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga XII</head>
+
+<head>Aminta</head>
+
+<argument>
+<p>Dafni et Aminta, dolendosi insieme di gelosia, con mirabile
+artificio, quasi a gara tra lor combattendo, scoprono infinite
+battaglie di questo potentissimo affetto dell’animo nostro.
+</p></argument>
+
+<sp>
+<stage><emph>Dafni, Aminta</emph></stage>
+</sp>
+
+<sp>
+<speaker>Dafni</speaker>
+<lg type="strofa">
+<l> Aminta, ove ne vai solo e dolente,</l>
+<l>Di lagrime bagnando il lito intorno</l>
+<l>Ove vestigio uman nullo si vede?</l>
+<l>Dov’è la canna tua, dove il tridente,</l>
+<l>Con cui toglier solevi e notte e giorno</l>
+<l>Al tiranno del mar tutte le prede?</l>
+</lg></sp>
+
+<sp><speaker>Aminta</speaker>
+<lg type="strofa">
+<l> Lasciami gir dov’il dolor mi guida,</l>
+<l>Lasciami, Dafni, gir; forse ch’a morte</l>
+<l>Pietoso de’ mie’ mali il piè mi spinge.</l>
+<l>Amor la pena che nel cor s’annida</l>
+<l>Non vuol ch’io scopra. acciò torni più forte,</l>
+<l>Qual foco vien maggior s’altri il ristringe,</l>
+<l>E pianga solo il mio solo cordoglio,</l>
+<l>Né turbi col mio amaro il dolce altrui.</l>
+</lg></sp>
+
+<sp><speaker>Dafni</speaker>
+<lg type="strofa">
+<l> Sciogli il freno ai lamenti, apri il camino</l>
+<l>Al pianto et ai sospir, ché teco io voglio</l>
+<l>Pianger quel ch’ora son, quel che già fui;</l>
+<l>Né ciò potrà vietarmi il fier destino.</l>
+</lg></sp>
+
+<sp><speaker>Aminta</speaker>
+<lg type="strofa">
+<l> A che più cerchi aggiunger duolo al duolo?</l>
+<l>Lasciami pianger pur com’io piangea,</l>
+<l>Poi che non so di cui lagnar mi debbia:</l>
+<l>Anzi il so ben; convien pianga me solo,</l>
+<l>Che più tardi ad Amor creder devea,</l>
+<l>Né seguir l’ombra, et abbracciar la nebbia.</l>
+</lg></sp>
+
+<sp><speaker>Dafni</speaker>
+<lg type="strofa">
+<l> Odi, Aminta, per Dio; si sfoga il core</l>
+<l>Con gli amici piangendo e giova spesso</l>
+<l>Scoprir l’affetto ch’è nemico interno.</l>
+<l>Trar bene anco del mar la canna fore</l>
+<l>I’ non potea, quando mi fu concesso</l>
+<l>E vederti e parlarti; e s’io ben scerno,</l>
+<l>Da quel dì t’ho nel cor portato e porto.</l>
+<l>Qual cagione a doler così ti mena?</l>
+<l>Qual t’ha pensier così percosso e vinto?</l>
+</lg></sp>
+
+<sp><speaker>Aminta</speaker>
+<lg type="strofa">
+<l> Quella ch’ogni altrui gioia, ogni conforto,</l>
+<l>Ogni dolce inacerba et avelena:</l>
+<l>Misero e lagrimoso labirinto,</l>
+<l>Fiera nemica di riposo e pace,</l>
+<l>Guerra et orror de l’amorosa turba,</l>
+<l>Nel più bel fiore ha secchi i miei desiri</l>
+<l>Gelosia, ch’ogni speme ancide e sface,</l>
+<l>Furia che più d’ogni altra il mondo turba,</l>
+<l>Malvagia se si cela o se si scopre,</l>
+<l>Nata d’odio d’invidia e di sospetto,</l>
+<l>Madre di sdegno di vendetta e d’ira.</l>
+</lg></sp>
+
+<sp><speaker>Dafni</speaker>
+<lg type="strofa">
+<l> S’ha più forza il dolor quando si copre,</l>
+<l>Ecco ch’io t’apro quanto chiude il petto,</l>
+<l>E saprai come Amor mi volve e gira.</l>
+<l>Vedrai che ’l duolo e ’l mal ch’or sì t’annoia</l>
+<l>Fia sommo bene a par del mio tormento,</l>
+<l>Vedrai come dal ciel si cade a terra,</l>
+<l>Come ’l pianto restò, sparve la gioia,</l>
+<l>Come la speme mia fu nebbia al vento,</l>
+<l>Come trarmi di pace e pormi in guerra</l>
+<l>Piacque al ciel, che ’l mio danno ha preso in gioco.</l>
+</lg></sp>
+
+<sp><speaker>Aminta</speaker>
+<lg type="strofa">
+<l> Deh non più no, per Dio, ché si rinfresca</l>
+<l>La mal saldata piaga e sento un gelo</l>
+<l>Ch’agghiaccia e stringe il core in mezzo il foco.</l>
+<l>Io solo son d’Amor la fame e l’esca,</l>
+<l>Trionfo al suo furore, in ira al cielo,</l>
+<l>In odio al mondo, e di me stesso a sdegno;</l>
+<l>Né quant’è in terra di dolcezza o bene</l>
+<l>Può scemar del mio mal picciola parte.</l>
+<l>A lo stral di fortuna immobil segno,</l>
+<l>Un nemico pensier sempre mi tiene</l>
+<l>L’assedio intorno a l’alma e ’n ogni parte</l>
+<l>Mi fa temer di quel ch’io men devrei.</l>
+<l>Mi fa talor veder quel che non veggio:</l>
+<l>Né perché di sbandirlo in parte io tenti,</l>
+<l>Posso far sì, che sempre agli occhi miei</l>
+<l>Il più noioso il più nemico il peggio</l>
+<l>La memoria non rechi e rappresenti;</l>
+<l>E parer certo il dubbio, il falso vero</l>
+<l>Mi fa talora, e vaneggiando sempre</l>
+<l>D’uno in altro timor mi torce e svia.</l>
+</lg></sp>
+
+<sp><speaker>Dafni</speaker>
+<lg type="strofa">
+<l> Misero me, che più possente e fero</l>
+<l>Strazio m’afflige in disusate tempre:</l>
+<l>Ché se forse pensier nel cor si cria</l>
+<l>Che un sol possa scemar de’ miei dolori,</l>
+<l>Un altro poi par ch’interrompa e tolga</l>
+<l>Ogni quiete ogni dolcezza a l’alma;</l>
+<l>Che la mia bella et infedel Licori</l>
+<l>Mi forma tal, che par che rompa e sciolga</l>
+<l>Il dolce nodo e doni altrui la palma.</l>
+</lg><lg type="strofa">
+<l>Come s’a mar tranquillo, a ciel sereno,</l>
+<l>Ne vien rete talor colma di pesce,</l>
+<l>Che l’aspetta con alto e lieto grido</l>
+<l>La stanca turba e par che l’apra il seno;</l>
+<l>Poi ecco l’aria e ’l mar commove e mesce</l>
+<l>Repentina tempesta e trema il lido;</l>
+<l>Così la cara mia preda amorosa</l>
+<l>Tolta mi fu, così la dolce e lieta</l>
+<l>Vita mia fu cangiata in pene e in pianto.</l>
+</lg></sp>
+
+<sp><speaker>Aminta</speaker>
+<lg type="strofa">
+<l> Deh ché più tosto sotto questa ombrosa</l>
+<l>Spelonca, mentre l’onda è muta e queta,</l>
+<l>Non sedemo a cantare? E sì col canto</l>
+<l>Farem minor la nostra pena acerba,</l>
+<l>Poi che cantando il duol si disacerba.</l>
+</lg><lg type="strofa">
+<l>Se dal lito venisse</l>
+<l>Oggi Cloride qui dov’io mi sono,</l>
+<l>Di questo e quel martire</l>
+<l>Ch’ella mi dà ben le darei perdono;</l>
+<l>Né curerei ch’allor l’alma sen gisse,</l>
+<l>Pur che ’l timor finisse col morire.</l>
+</lg></sp>
+
+<sp><speaker>Dafni</speaker>
+<lg type="strofa">
+<l> Se dal colle scendesse</l>
+<l>Oggi Licori qui dov’io mi sono,</l>
+<l>Di questo e quell’oltraggio</l>
+<l>Ch’ella mi fa ben le darei perdono;</l>
+<l>Né curerei che morte mi giungesse,</l>
+<l>Purché ver me volgesse il suo bel raggio.</l>
+</lg></sp>
+
+<sp><speaker>Aminta</speaker>
+<lg type="strofa">
+<l> Deh perché ’l dì che volse</l>
+<l>Amor ferirmi a l’aria del bel volto,</l>
+<l>Cloride mia col cor pur non mi tolse</l>
+<l>E l’intelletto e ’l senso?</l>
+<l>Ch’a pensar non avendo a quel ch’io penso,</l>
+<l>Tornerei a la rete onde son tolto.</l>
+</lg></sp>
+
+<sp><speaker>Dafni</speaker>
+<lg type="strofa">
+<l> Deh perché ’l dì che i venti</l>
+<l>Sen portaro la fé ch’a vile avesti,</l>
+<l>Licori mia, né già però ten penti,</l>
+<l>Così con la mia speme</l>
+<l>Non sen portaro i miei pensieri inseme?</l>
+<l>Ché con gli altri pescar tu mi vedresti.</l>
+</lg></sp>
+
+<sp><speaker>Aminta</speaker>
+<lg type="strofa">
+<l> Se talor pesce in mare</l>
+<l>Si move, o scuote fronda in ramo, ognuna</l>
+<l>Subitamente pare</l>
+<l>Che corra ad involarmi</l>
+<l>Cloride mia; né pur oso fidarmi</l>
+<l>Del mio penser, ch’ei non l’involi ancora.</l>
+<l>O nova pena et una,</l>
+<l>Temer ognun, ma più se stesso ognora!</l>
+</lg></sp>
+
+<sp><speaker>Dafni</speaker>
+<lg type="strofa">
+<l> S’avien che fremer onda,</l>
+<l>O spirar aura intorno al lito io oda,</l>
+<l>Par ch’ognuna risponda</l>
+<l>E dica: altrove è volta</l>
+<l>Licori tua, né già più Dafni ascolta:</l>
+<l>D’altri fia il pregio di sì lungo affanno.</l>
+<l>O nuova d’Amor froda,</l>
+<l>Che l’onde e i venti ancor guerra mi fanno.</l>
+</lg></sp>
+
+<sp><speaker>Aminta</speaker>
+<lg type="strofa">
+<l> Pescatori, ch’andate</l>
+<l>Per queste piaggie errando,</l>
+<l>S’asciugar vi volete</l>
+<l>Quando dal mar tutti bagnati sete,</l>
+<l>Deh ché non v’asciugate</l>
+<l>Nel foco di sospir ch’io dal cor mando?</l>
+</lg></sp>
+
+<sp><speaker>Dafni</speaker>
+<lg type="strofa">
+<l> Pescatori, ch’andate</l>
+<l>Nova preda cercando,</l>
+<l>Se troppo alte inquiete</l>
+<l>Vi paion l’onde ove pescar solete,</l>
+<l>Deh perché non pescate</l>
+<l>Nel mar che da questi occhi io verso e spando?</l>
+</lg></sp>
+
+<sp><speaker>Aminta</speaker>
+<lg type="strofa">
+<l> Soave è veder l’onda or basso or alto</l>
+<l>Ripercoter gli scogli e starne lunge.</l>
+<l>Soave è spesso ancor la rimembranza</l>
+<l>Del già passato tempestoso assalto,</l>
+<l>Quando a lito nocchier pallido giunge,</l>
+<l>Cui mancò dianzi in tutto la speranza</l>
+<l>Di mai più riveder l’aer natio.</l>
+<l>Soave udir gli augei che per la riva</l>
+<l>Cantan piangendo (e sì son anco amici)</l>
+<l>Lor fidi amori e, mentre al tempo rio</l>
+<l>Pendon sul nido, in flebil voce e viva</l>
+<l>Acquetan l’onde e fanno i liti aprici;</l>
+<l>Ma via più Dafni il tuo canto è soave.</l>
+</lg></sp>
+
+<sp><speaker>Dafni</speaker>
+<lg type="strofa">
+<l> Dolce è vedere il mar da l’aura amica</l>
+<l>Mover, disteso in bel fiorito prato</l>
+<l>Chinando il ciglio di pensier già grave</l>
+<l>Al suon de l’onde, e par ch’Amor gli dica:</l>
+<l>Teco son io con dolci sogni a lato.</l>
+<l>Dolce è veder di fonte in chiaro fondo</l>
+<l>Ninfa che lavi le sue membra ignuda,</l>
+<l>E ne copra talor, talor ne mostri</l>
+<l>Del bel fianco l’avorio intatto e mondo,</l>
+<l>Pietosa in parte dolcemente e cruda,</l>
+<l>E l’acque indori, inalabastre, inostri:</l>
+<l>Ma via più dolce e più soave assai,</l>
+<l>Aminta, è il tuo cantar, che la smarrita</l>
+<l>Moglie ch’Orfeo lasciò ritolto avrebbe.</l>
+<l>Or poiché il sol quasi già stanchi i rai</l>
+<l>Per riposar tramonta, e ’l mar m’invita</l>
+<l>Al suo trastullo, e contrastar sarebbe</l>
+<l>Peccato e fallo, andrò dov’è la barca,</l>
+<l>Se posso di me stesso esser pur donno.</l>
+</lg></sp>
+
+<sp><speaker>Aminta</speaker>
+<lg type="strofa">
+<l> Et io con l’alma al suo ben pigra e parca</l>
+<l>Resterò qui: forse quest’occhi ponno</l>
+<l>Chiudersi per pietate almen del sonno.</l>
+</lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga XIII</head>
+
+<head>Pocilla</head>
+
+<argument>
+<p>Questa egloga fu fatta dal Signor Berardino al tempo dell’altre
+sotto il nome di Telgone, il quale piangeva la sua morta Alcea:
+poi, essendogli morta la sua dolcissima et onoratissima moglie, e
+cambiati non senza proposito i nomi et accresciuta in molte parti
+e mutato l’ordine, sotto il nome di Berino piange Pocilla.
+</p></argument>
+
+<sp><speaker>Berino</speaker>
+<lg type="strofa">
+<l> Berino, dove se’? Berino, in vano</l>
+<l>Cerchi te stesso: ahi tu non se’ qual eri,</l>
+<l>Berino, no, che tanto oggi ti lagni.</l>
+<l>Poi ch’io non scoppio per dolore, o mano,</l>
+<l>O ferro, a che più tardi, e che più speri?</l>
+<l>Orsù, canta piangendo, e mentre piagni</l>
+<l>Sian l’arene e gli scogli i tuoi compagni.</l>
+</lg><lg type="strofa">
+<l>Poiché Pocilla mia più non m’ascolta,</l>
+<l>A voi parla Berino, o onde, a voi</l>
+<l>Onde, dal pianto suo fatte maggiori;</l>
+<l>Voi, che l’udiste già più d’una volta</l>
+<l>Cantar l’alte sue gioie, i piacer suoi,</l>
+<l>Udite, udite i suoi novi dolori,</l>
+<l>Mentre mille per gli occhi e mille fiumi</l>
+<l>Versano i tristi e lagrimosi lumi.</l>
+</lg><lg type="strofa">
+<l>Deh mentre piango intorno a queste arene</l>
+<l>Non n’esca a lito mai pur una fore,</l>
+<l>Ché ’l foco che dal cor lampeggia e vène</l>
+<l>Vi farebbe poi gir tutte in ardore:</l>
+<l>Il foco che più viva ognor mantene</l>
+<l>La bella stampa che m’impresse Amore</l>
+<l>In mezzo il cor con man sì salda e forte,</l>
+<l>Che non la pò tor via tempo né morte.</l>
+</lg><lg type="strofa">
+<l>A che per me ten parti, e torni, o sole,</l>
+<l>Se non ponno aggiornare i tuo’ be’ rai</l>
+<l>L’eterne notti di quest’occhi orbati?</l>
+<l>Che pote il mondo aver che mi console?</l>
+<l>Chi può dar fine a gl’infiniti guai?</l>
+<l>Nulla sono per me le stelle e i fati:</l>
+<l>Tutto quel ch’ora io son langue e si tace;</l>
+<l>Tutto quel ch’era io, sotterra giace.</l>
+</lg><lg type="strofa">
+<l>Pocilla, senza te deserto e cieco</l>
+<l>Quanto dopo mirai sempre mi parve:</l>
+<l>La vita mia tu ten portasti teco:</l>
+<l>Quel che Berino fu, teco disparve.</l>
+<l>Per tormi venne ben Morte, ma seco</l>
+<l>Poi non mi volse, ché sì mesta apparve</l>
+<l>A lei l’imagin mia, ch’ebbe timore</l>
+<l>Non l’uccidesse meco il mio dolore.</l>
+</lg><lg type="strofa">
+<l>Lasso, chi ’l crederà? Quanto altrui piace,</l>
+<l>Quanto altrui giova, a me rincresce e noce.</l>
+<l>O qual di morte fu duro lo sdegno!</l>
+<l>O come fu ’l mio ben corto e fugace!</l>
+<l>Piacciati questa amica ultima voce,</l>
+<l>O Pocilla, gradir dal tuo bel regno,</l>
+<l>Ove perde il destin, perdono i lustri,</l>
+<l>Ove altro mare, ov’altre piaggie illustri.</l>
+</lg><lg type="strofa">
+<l>Ove del sol più luminosa e bella</l>
+<l>Ti fa la tua virtù vivace ardente;</l>
+<l>Ove lieta stagion sempre novella</l>
+<l>Godi sovra il mortal vaga e lucente;</l>
+<l>Ove nova a nocchier felice stella,</l>
+<l>Perpetuo seren, novo Oriente,</l>
+<l>Oriente e seren ch’altrui riluci,</l>
+<l>Ma solo a me tempesta e notte adduci.</l>
+</lg><lg type="strofa">
+<l>Quando fia mai che da te lunge asciutto</l>
+<l>I’ porti il viso? O dal dolore interno</l>
+<l>Respiri un punto a me stesso nemico?</l>
+<l>I’ pur dianzi era teco intero e tutto,</l>
+<l>Or men che mezzo, anzi son vivo inferno;</l>
+<l>Né pò il tosco e l’assenzio ond’io nutrico</l>
+<l>Tutti i pensieri miei, tutti i desiri,</l>
+<l>Addolcir quanto, o sol, tu scaldi e giri.</l>
+</lg><lg type="strofa">
+<l>Ma che sperar, ma che bramare in terra</l>
+<l>Senza te posso? Ecco di doglie in doglie</l>
+<l>Rinasco sempre, e d’una in altra guerra;</l>
+<l>Né ’l mio nodo vital Morte discioglie,</l>
+<l>Anzi di me trionfa, e non m’atterra.</l>
+<l>O vita, o pace mia, chi mi ti toglie?</l>
+<l>Ove se’ tu? io, lasso, ove rimango?</l>
+<l>Tu perla orientale, io rena, io fango.</l>
+</lg><lg type="strofa">
+<l>Chi del mio gran tesoro a mio gran danno</l>
+<l>S’è voluto arricchire? O morte acerba,</l>
+<l>O stelle invidiose, o fier destino,</l>
+<l>Ben opraste ver me forza et inganno.</l>
+<l>Non è qui conca, o filo d’alga o d’erba,</l>
+<l>Non è speco lontan, scoglio vicino,</l>
+<l>Che te meco non pianga e ’l tuo bel nome</l>
+<l>Non chiami ognor, ma non saprei dir come.</l>
+</lg><lg type="strofa">
+<l>Ahi quante volte, e non mi sogno, io sento</l>
+<l>Nettuno e Glauco e ’l gran Pastor del mare</l>
+<l>Empir il ciel di flebile lamento,</l>
+<l>Poiché t’han cerca, e non ti pon trovare;</l>
+<l>E Dori e Teti, il biondo crine al vento,</l>
+<l>Sparso e lacero il sen, con larghe amare</l>
+<l>Lagrime gir correndo il lito intorno,</l>
+<l>E far, squarciato il viso, al mar ritorno.</l>
+</lg><lg type="strofa">
+<l>Dove se’, mio bel sol, dove sparito?</l>
+<l>Per te mi piacquer già l’arene e l’acque.</l>
+<l>Ben ti cerco io, ma in nulla parte spero</l>
+<l>Trovarti qui. Deh qual tronco e romito</l>
+<l>Lasciasti il viver mio, che sol mi piacque</l>
+<l>Per goder te? Per te lieto et altero</l>
+<l>Men giva de la rete e de la canna:</l>
+<l>Or l’una e l’altra a pianger mi condanna.</l>
+</lg><lg type="strofa">
+<l>Ma sarà ben ch’io posi e ch’io mi stenda</l>
+<l>Su quest’arena breve spazio, e mute</l>
+<l>Altri versi, altre note: il fier costume</l>
+<l>Forse anco muta il cor perché riprenda</l>
+<l>Lena a dolersi. Or tu forza e virtute</l>
+<l>Dammi dal cielo, o dolce, o caro lume,</l>
+<l>Insin ch’io mi dilegui e mi consume.</l>
+</lg><lg type="strofa">
+<l>Per te la pescagion, per te del mare</l>
+<l>Fu l’arte in pregio e di tutt’altre in cima:</l>
+<l>Per te la piaggia, il lito insieme andare</l>
+<l>Ben potea con città nobile e prima;</l>
+<l>E con le cose più leggiadre e care</l>
+<l>Gir quelle che men pregia il vulgo e stima:</l>
+<l>Tu sola far potei di bassa e vile</l>
+<l>Ogni cosa in un punto alta e gentile.</l>
+</lg><lg type="strofa">
+<l>Et è pur ver che non mi sia concesso</l>
+<l>Guardar i luoghi ove talor ti vidi?</l>
+<l>E se pur l’occhio va contra se stesso,</l>
+<l>Riempio l’aria di dogliosi stridi,</l>
+<l>E tutto da me lunge et a te presso</l>
+<l>Esclamo e dico: o dolci, o cari nidi,</l>
+<l>Onde al celeste suo aer felice</l>
+<l>Tornò la mia gentil bella Fenice!</l>
+</lg><lg type="strofa">
+<l>Or chi mi vieta il gir, chi mi ritiene,</l>
+<l>Chi chiude il passo, o chi raffrena il corso?</l>
+<l>Un uom fuor d’ogni aita e d’ogni spene</l>
+<l>Devrebbe aver da morte almen soccorso.</l>
+<l>Chi per la vesta e per lo crin mi tiene</l>
+<l>Che da Capre o dal Gallo o da Caporso</l>
+<l>Non mi gitti nel mar dov’è più alto?</l>
+<l>Fora ben dolce e ben gioioso il salto.</l>
+</lg><lg type="strofa">
+<l>Forse chi sa, se nova Dea fra l’onde</l>
+<l>Io ti trovassi, e m’acquetassi in parte?</l>
+<l>E pur non mi sovien che mi t’asconde</l>
+<l>Oscuro sasso, e solitaria parte.</l>
+<l>In tanto di lontan voce risponde</l>
+<l>E dice: non ti giova o studio od arte;</l>
+<l>Misero, chi tu cerchi or è nel cielo,</l>
+<l>E le Grazie hanno in Cipro il suo bel velo.</l>
+</lg><lg type="strofa">
+<l>Il velo, in cui tutto ’l più bel ripose</l>
+<l>Venere insieme con le Grazie a gara,</l>
+<l>E chiuser fra la neve eterne rose,</l>
+<l>Robini e perle in poca parte e cara.</l>
+<l>O belle, o non più viste al mondo cose,</l>
+<l>Per cui del ciel la luce oggi è più chiara,</l>
+<l>E morte a doppio ingiuriosa e dura,</l>
+<l>E la mia vita inabissata oscura!</l>
+</lg><lg type="strofa">
+<l>Deh perché non son io come colei</l>
+<l>Che vide in sonno e poi trovò lo sposo</l>
+<l>Sommerso in mare e per favor di Dei</l>
+<l>Or piange augello il suo stato doglioso?</l>
+<l>Che via più lungamente piangerei</l>
+<l>I miei fedeli amori e l’amoroso</l>
+<l>Naufragio mio; ma tu ten gisti al porto,</l>
+<l>Io rimasi nel mar fra vivo e morto.</l>
+</lg><lg type="strofa">
+<l>Quanto t’invidio, o ben coppia felice,</l>
+<l>A cui sposi et augelli un letto, un nido</l>
+<l>Comun fu sempre, a cui cantando lice</l>
+<l>L’onda quetar quando più batte il lido.</l>
+<l>Lasso, perché di me fosti, o Ceice,</l>
+<l>Più fortunato? se più caro o fido</l>
+<l>Di me non fosti a la tua bella ninfa:</l>
+<l>Io ’l giuro per quest’aria e questa linfa.</l>
+</lg><lg type="strofa">
+<l>Io perché son dal mio gran ben disgiunto,</l>
+<l>Tu vivi ognor col tuo? O perché io,</l>
+<l>Come tu, pur non mi sommersi a un punto</l>
+<l>Nel profondo ocean del pianto mio?</l>
+<l>Ben potev’io sforzato esser e giunto</l>
+<l>Dal vento de’ sospir, cui pote il Dio</l>
+<l>Ceder come men forte a gran ragione,</l>
+<l>Che frena et Euro e Noto et Aquilone.</l>
+</lg><lg type="strofa">
+<l>In fin al cielo alzar l’onda potrebbe</l>
+<l>La forza de’ sospir ch’esce del core,</l>
+<l>E l’Euxino e l’Egeo picciol sarebbe</l>
+<l>Campo per dar il corso al suo furore;</l>
+<l>E se ciò far non valse, almen devrebbe</l>
+<l>Cenere or farmi il sospiroso ardore.</l>
+<l>Ho pur udito dir che Vesevo arse,</l>
+<l>E quasi al ciel mandò le fiamme e sparse.</l>
+</lg><lg type="strofa">
+<l>Chi crederà che ’l mar languidi e neri</l>
+<l>Produca pesci e monstruose larve</l>
+<l>Dal dì che ten partisti? E pur l’altr’ieri</l>
+<l>L’onda di pece e solfo in vista apparve:</l>
+<l>Febo pallido mosse i suoi corsieri,</l>
+<l>Coperti tutti a brun, da l’acque e parve</l>
+<l>In guisa tal, come quel dì ch’al fiume</l>
+<l>Cadde il figliuol che sì mal resse il lume.</l>
+</lg><lg type="strofa">
+<l>Più non odo cantar com’io solea,</l>
+<l>Accordando con l’onde il dolce canto,</l>
+<l>Melite, Lalla, Tolla, Afra e Rotea,</l>
+<l>Compagne che t’amaro e pianser tanto;</l>
+<l>Con cui, qualora il sol girato avea</l>
+<l>La sua quadriga e gìa spiegando il manto</l>
+<l>La notte a l’ombre e ’l dipingea di stelle,</l>
+<l>Opre solei tu far maestre e belle.</l>
+</lg><lg type="strofa">
+<l>Talor bagnar la rete al mar solevi</l>
+<l>Con Milla tua fedel casta compagna,</l>
+<l>E ’l giorno poi s’a noia il lito avevi,</l>
+<l>Ten givi a spaziar per la campagna,</l>
+<l>E questo fiore e quel vaga coglievi;</l>
+<l>Or poggiavi a la villa e, più d’Aragna</l>
+<l>E di tutt’altre dotta in bel lavoro,</l>
+<l>Il filo ornavi a par de l’ostro e l’oro.</l>
+</lg><lg type="strofa">
+<l>Ma che non pote Amor, che far non pote</l>
+<l>Forza d’impetuoso alto dolore?</l>
+<l>Ecco che parla in favolose note</l>
+<l>Divenuto poeta un pescatore.</l>
+<l>Dove amoroso stral giunge e percote,</l>
+<l>Il rozzo e ’l vile subito vien fore;</l>
+<l>Et ho spesso cantar Licida udito</l>
+<l>A guisa di città, non già di lito.</l>
+</lg><lg type="strofa">
+<l>Qual giorno senza il sol, senza la luna</l>
+<l>Notte, senza fior prato, o rio senz’acque,</l>
+<l>Tal io rimasi in vesta vile e bruna</l>
+<l>Al tuo partire; ogni augelletto tacque</l>
+<l>Poi che tacesti, e tutte ad una ad una</l>
+<l>Egla tronche le chiome in terra giacque;</l>
+<l>Né valse Antiniana e Mergellina</l>
+<l>A consolarla mai sera e mattina.</l>
+</lg><lg type="strofa">
+<l>Chi poria dir quanto si dolse, e quanto</l>
+<l>Pianse con bassa e lagrimosa fronte</l>
+<l>Bagnuola tua? E fu sì largo il pianto,</l>
+<l>Ch’accrebbe doppia vena al suo bel fonte.</l>
+<l>Gli orti tinsero in nero il verde manto,</l>
+<l>Gli orti tuoi cari; e ’l bel vicino monte,</l>
+<l>Dapoi ch’oscura nebbia il ricoperse,</l>
+<l>Tremò con suono orrendo, e poi s’aperse.</l>
+</lg><lg type="strofa">
+<l>Et io perché, se più di tutti piango,</l>
+<l>Se più di tutti a gran ragion mi doglio,</l>
+<l>Non mi dileguo in pianto e non rimango</l>
+<l>Fonte, se mille fonti agli occhi accoglio?</l>
+<l>O vita, vita no, ma polve e fango,</l>
+<l>Ecco a morte i’ mi dono, a te mi toglio.</l>
+<l>A Dio scogli, a Dio mare, et a Dio venti,</l>
+<l>A Dio reti, a Dio nasse, a Dio tridenti.</l>
+</lg></sp>
+</div1>
+
+<div1 type="poesia">
+<head>Egloga XIV</head>
+
+<head>Eco</head>
+
+<argument>
+<p>Licida in questa egloga si duole d’amore e per ciò si rivolge ad
+Eco e si lamenta e piagne e scopre molti affetti amorosi: alla
+fine, ravedutosi che egli facea male, si rivolge al Signore Iddio,
+pregandolo che come fece degli altri pescatori, così faccia ancora
+di lui tirandolo dalla rete al cielo.
+</p></argument>
+
+<sp><speaker>Licida</speaker>
+<lg type="strofa">
+<l> O crudo Amor, se mai pietate avesti</l>
+<l>D’un giovene infelice, odi il lamento</l>
+<l>Che seco non ha mai tregua né pace:</l>
+<l>Così tu lusinghier legar sapesti</l>
+<l>Il poverel sol con due trecce al vento</l>
+<l>Disciolte e sparse, e sì sel soffre e tace.</l>
+<l>Già se’ tu pescator come son io,</l>
+<l>Che ’n largo mar di pianto or questa or quella</l>
+<l>Anima la tua man depreda e pesca;</l>
+<l>Et è l’ultimo fin del tuo desio</l>
+<l>Per vincer donna disdegnosa e bella</l>
+<l>Adoprar altre reti altr’amo altr’esca.</l>
+<l>E’ ti convien aver cura talora</l>
+<l>De’ pescatori, e porger loro aita,</l>
+<l>Se di spuma del mar Venere nacque,</l>
+<l>E di Venere tu se’ figlio ancora;</l>
+<l>Ma tu se’ morte altrui, Venere è vita.</l>
+<l>Né devi minor parte aver ne l’acque,</l>
+<l>Ch’avesti et hai nel foco. Ahi lasso, al fine</l>
+<l>Veggio ch’al mio languir l’orecchia hai chiusa;</l>
+<l>Ché la tua donna e mia tal volle e vòle,</l>
+<l>Iella, onor de le ninfe marine,</l>
+<l>Decima del mar Grazia e quarta Musa,</l>
+<l>Degna di Giove e de l’amor del Sole.</l>
+</lg><lg type="strofa">
+<l>Che farò dunque? A te sola mi volgo,</l>
+<l>O bella un tempo ninfa, or voce, or suono,</l>
+<l>Che ti stai per li scogli e per li sassi.</l>
+<l>Pietosa ascolta, o Eco, e s’io mi dolgo,</l>
+<l>S’io rompo il tuo silenzio, avrò perdono</l>
+<l>Certo da te, che non potesti i passi</l>
+<l>Chiuder pur ad Amor, quando al cor fisso</l>
+<l>Ti lasciò il caro e vago giovenetto</l>
+<l>Che mal già vide il fonte, di se stesso</l>
+<l>Omicida crudel vano Narcisso,</l>
+<l>Narcisso di se stesso odio e diletto,</l>
+<l>Narcisso ch’anco fior te fugge, e spesso</l>
+<l>Per non udirti in terra si nasconde,</l>
+<l>E ben la terra gli è cortese amica,</l>
+<l>Com’a pietà di tua lunga preghiera</l>
+<l>Gli fu quel dì che da l’amor de l’onde</l>
+<l>A sé ’l raccolse in sen di verde aprica</l>
+<l>Piaggia, cangiando in fior quel che uom dianzi era.</l>
+</lg><lg type="strofa">
+<l>Misera, so ben io quante fiate,</l>
+<l>Quand’era il sordo amante in fuga volto,</l>
+<l>Tu ’l chiamasti gridando: «Ove ne vai,</l>
+<l>Narcisso, ove ne vai? La tua beltate</l>
+<l>Ti mena a morte. Ah troppo folle, ah stolto,</l>
+<l>Ferma il piè, torna indietro. Or quale avrai</l>
+<l>Compagna per li colli e per le selve</l>
+<l>Che più di me ti segua, e sempre intorno</l>
+<l>Ti sia coi veltri e con lo spiedo a lato</l>
+<l>Per gir cacciando queste e quelle belve?</l>
+<l>Et or sotto una quercia, or sotto un orno,</l>
+<l>T’asciugherò le rose e i gigli al fiato</l>
+<l>Di Zefiro, le rose e i gigli al viso</l>
+<l>Che porti a mezzo verno, e fien cagione</l>
+<l>De la tua morte inseme e de la mia’.</l>
+</lg><lg type="strofa">
+<l>Ah, Licida, qual se’ da te diviso?</l>
+<l>Chi la memoria in tutto e la ragione</l>
+<l>T’ha tolto a un tempo? E pur convien che sia.</l>
+<l>Ben ho pur troppo ond’io mi dolga e lagne</l>
+<l>Senza cercando gir del male altrui.</l>
+<l>Rispondi, o Eco, a mie voci dolenti,</l>
+<l>Rispondi, o Eco: i liti e le campagne</l>
+<l>Sanno quel ch’oggi i’ son, quel ch’i’ già fui.</l>
+<l>Deh accompagna, o Eco, i miei lamenti.</l>
+</lg><lg type="strofa">
+<l>O Cimodoce, o Doto, o Panopea,</l>
+<l>Voi chiamo in testimon, che quattro et otto</l>
+<l>Volte già mi vedeste in su quel colle,</l>
+<l>E so ch’altri che voi non sen dolea,</l>
+<l>Stender le braccia a l’aria e ’l capo sotto</l>
+<l>Poner al mento, d’amor ebro e folle,</l>
+<l>Per voler giù precipitarmi in mare,</l>
+<l>Spegner credendo in mezzo l’acque il foco.</l>
+</lg><lg type="strofa">
+<l>Ahi quante volte il dì, quante son corso</l>
+<l>Per l’onde fuor notando ad incontrare</l>
+<l>O foca, o ceta, e ciò tenne anco a poco</l>
+<l>Amor cui nulla val chieder soccorso,</l>
+<l>Perché quel mostro m’inghiottisse a un punto.</l>
+</lg><lg type="strofa">
+<l>Ogni cosa ho tentato, e mare e terra,</l>
+<l>Et aria e foco e cielo et erbe e tutti</l>
+<l>I tempi e le stagioni, et arso e punto</l>
+<l>Pur mi ritrovo, e son de la mia guerra</l>
+<l>Desperazione e morte al fine i frutti.</l>
+<l>Ma vada io pur oltra la Tana e Calpe,</l>
+<l>Parli pur io di quella cosa o questa,</l>
+<l>Ch’a te convien al fin sempre ritorni,</l>
+<l>A te che nata se’ di scoglio e d’alpe.</l>
+<l>O Iella crudel, bella et onesta,</l>
+<l>Non so qual più, cui le mie notti e i giorni</l>
+<l>Tutti già diedi allor che mal ti vidi:</l>
+<l>È dunque ver, che non toccò la scorza</l>
+<l>Del tuo cor mai sospiro o priego alcuno</l>
+<l>E del mio strazio sì ten godi e ridi?</l>
+<l>E pur devrebbe aver teco la forza</l>
+<l>Amor, c’hai tu con lui, che non pur uno</l>
+<l>Ma cento colpi il dì contra te move</l>
+<l>In vano, e tu prigion negli occhi il porti,</l>
+<l>Rotti gli strali e spennacchiate l’ale.</l>
+<l>O che ’l mondo s’invecchi o si rinove,</l>
+<l>O che sian lunghi i giorni o che sian corti,</l>
+<l>Quanto mi dona il mar, quanto mi vale</l>
+<l>Il mar, è tuo; né mai senza il tuo nome</l>
+<l>Stesi canna, alzai nassa, o rete sciolsi,</l>
+<l>E diedi sempre a te la maggior parte</l>
+<l>D’ogni mia preda. Or perché dunque, or come</l>
+<l>Mi sprezzi e fuggi? A tutt’altro mi tolsi</l>
+<l>Per tutto darmi a te, né volli altr’arte,</l>
+<l>Né mai da la città tornai al lito,</l>
+<l>Ch’or questo dono or quel non ti recassi.</l>
+<l>E pur non son tre giorni, anzi son due,</l>
+<l>Ch’io ti comprai un cintolino ordito</l>
+<l>A verde, a rosso, ond’il bel fianco ornassi,</l>
+<l>Et un velo sottil ch’opra ben fue</l>
+<l>O di Pocilla, o de la sua compagna;</l>
+<l>E pur i doni e ’l donator non prezzi</l>
+<l>Più che soglia vent’onda, od onda scoglio.</l>
+</lg><lg type="strofa">
+<l>Ma poiché invano uom duolsi, in van si lagna,</l>
+<l>Che più ritardi, o mano, a che non spezzi</l>
+<l>La canna e l’amo? Licida non voglio</l>
+<l>Esser più io: al sol, benché per tempo,</l>
+<l>Pendan le reti, mie dolci fatiche;</l>
+<l>Itene, pesci, pur dove volete.</l>
+<l>Lunga stagione e le parole e il tempo</l>
+<l>Perduto abbiamo; o liti, o piaggie amiche,</l>
+<l>Voi fido testimon ne foste e sete.</l>
+</lg><lg type="strofa">
+<l>Ben fora tempo omai lo stanco legno</l>
+<l>Da l’amorose e torbide tempeste</l>
+<l>Ritrar in porto, e quella ond’egli è carco</l>
+<l>Merce dannosa di Nettuno al regno</l>
+<l>Gittar, sì che né polve anco vi reste;</l>
+<l>E consecrar, trovato il dritto varco,</l>
+<l>La veste mia dal mar rotta e bagnata,</l>
+<l>La veste che ben fu d’Aragna un velo,</l>
+<l>A chi rifarla e rasciugar può solo.</l>
+</lg><lg type="strofa">
+<l>Tu dunque, alto Signor, cui fu sì grata</l>
+<l>Bassa umil voglia, e da la rete al cielo</l>
+<l>Chiamasti i pescator, vedi ch’io solo,</l>
+<l>Ch’io debile gran mar solco, né posso</l>
+<l>Punto da me che rilevar mi vaglia,</l>
+<l>Tra perigliose sirti errando sempre.</l>
+<l>Il mio navigio già sdrucito e scosso</l>
+<l>Ricuci e ferma sì, che la battaglia</l>
+<l>Possa schernir de le terrene tempre,</l>
+<l>Né giovenil desio più mi distempre.</l>
+</lg>
+</sp>
+</div1>
+</body>
+</text>
+</TEI.2>

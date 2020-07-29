@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie</title>
+      <author>Branca Brancacci</author>
+    </titleStmt>
+    <extent>2 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000207</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Lirici toscani del Quattrocento</title>
+        <title type="part">v.</title>
+        <editor id="ed">Lanza, Antonio</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1973</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-01-21T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-05-27T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="poesia">
+<head>I</head>
+<argument><p>
+Ser di ser Branca Brancacci quando era nelle Stinche.
+</p></argument>
+<lg type="sonetto"><lg>
+<l>O voi ch'entrate dentro a questo chiostro,</l>
+<l>se' luoghi e gli abitanti guarderete,</l>
+<l>cogli occhi della mente voi vedrete</l>
+<l>ch'alcun dolor non è simile al nostro.</l></lg><lg>
+<l>Noi di calamità siamo ampio mostro,</l>
+<l>disposti al freddo al caldo a fame a sete,</l>
+<l>e liberi già fummo com voi sète,</l>
+<l>né già ci pesa dello stato vostro.</l></lg><lg>
+<l>Ma ben preghiam che 'n voi piatà s'accenda</l>
+<l>di porger prieghi al sommo Creatore,</l>
+<l>che grata libertà presto ci renda;</l></lg><lg>
+<l>e per caritativo e dolce amore,</l>
+<l>la man piatosa ognun di voi distenda</l>
+<l>a porgerci di borsa alcun favore.</l></lg><lg>
+<l>Ché Cristo redentore</l>
+<l>a cento doppi poi merito rende</l>
+<l>a chi del suo ne' carcerati spende.</l>
+</lg>
+</lg></div1>
+</body>
+</text>
+</TEI.2>

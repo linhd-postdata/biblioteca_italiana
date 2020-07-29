@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Il Gierusalemme</title>
+      <author>Torquato Tasso</author>
+    </titleStmt>
+    <extent>56 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000169</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Il Gierusalemme</title>
+        <author>Tasso, Torquato</author>
+        <editor id="ed">Caretti, Lanfranco</editor>
+        <publisher>Zara</publisher>
+        <pubPlace>Parma</pubPlace>
+        <date>stampa 1993</date>
+        <note>Copia anastatica del ms. Urbinate-Latino 413</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.4 - Poesia italiana. 1542-1585</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-09-01T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-09-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="dedica" n="Dedica">
+<p>ALL'ILLUSTRISSIMO ED ECCELLENTISSIMO SIGNORE IL SIGNORE GUIDOBALDO FELTRIO DELLA ROVERE DUCA DI URBINO</p>
+</div1>
+</front>
+<body>
+<div1 type="parte">
+<head>LIBRO PRIMO</head>
+<argument><p rend="italic">Piero heremita ritornando da Gierusalemme, ove havea veduto i Christiani
+di quel paese menar sotto la tirannide de' Turchi vita acerbissima, e
+miserabile, e le sacre reliquie esser dall' insolentia de' barbari havute in
+dispregio e profanate; narra queste cose a i Christiani d' Europa, e quindi
+prendendo occasione con molte publiche et ardenti orationi gli esorta all'
+acquisto di terra santa: sì che molti principi, e molti cavalieri con privato
+consiglio da varie parti a questa impresa s' inviaro: i quali
+finalmente congiuntisi insieme, dopo haver date molte rotte a' Turchi, et a'
+Persiani, s' accostano a Gierusalemme. Onde il principio dell' opera si
+prende.</p></argument>
+<lg type="ottava">
+<head><add resp="ed">1</add></head>
+<l>L' Armi pietose io canto, e l' alta impresa</l>
+<l>Di Gotifredo, e de' Christiani Heroi;</l>
+<l>Da cui Gierusalem fu cinta, e presa</l>
+<l>E n' hebbe impero illustre origin poi.</l>
+<l>Tu Re del ciel, come al tuo foco accesa</l>
+<l>La mente fu di quei fedeli tuoi,</l>
+<l>Tal me n' accendi; e se tua santa luce</l>
+<l>Fu lor nell' opre, a me nel dir sia Duce.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">2</add></head>
+<l>E tu che forse a rinovar gli esempi</l>
+<l>Del famoso Goffredo eletto fusti,</l>
+<l>E puoi Giudea non pur, ma i Persi, e gli empi</l>
+<l>Mauri, e gl' Indi domare, e i Traci ingiusti,</l>
+<l>sì che l' invidia homai de i prischi tempi</l>
+<l>Cessi, e la gloria de i Romani Augusti</l>
+<l>Ascolta quel, che d' altrui scrivo e canto,</l>
+<l>E fra me di te stesso auguro intanto.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">3</add></head>
+<l>Questa, che spiego hor de i gran fatti altrui</l>
+<l>Antiqua tela, e parte adorno, e fingo;</l>
+<l>È verace pittura e certa, in cui</l>
+<l>Le tue future glorie adombro, e pingo.</l>
+<l>Febo a sé mi rapisce, et io di lui</l>
+<l>Ripien, sue voglie a seguitar m' accingo:</l>
+<l>E l' acceso pensier scorge hor palese</l>
+<l>i simolacri di vicine imprese.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">4</add></head>
+<l>Già mi par di veder la Quercia d' auro</l>
+<l>Spiegata trionfar per l' Asia intorno,</l>
+<l>E 'l gran Nilo inchinarsi al bel Metauro,</l>
+<l>Et arricchirgli de' suoi fregi il corno.</l>
+<l>Già d' andarne mi par cinto di lauro</l>
+<l>Fra' tuoi, c' havran di palme il crine adorno;</l>
+<l>E fra le trombe, e fra il romor de l' armi</l>
+<l>sonar mia cetra, e' miei non rozi carmi.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">5</add></head>
+<l>Hor; mentre quasi novo augel, ch' apprenda</l>
+<l>Formar le note, e gir volando a stuolo,</l>
+<l>Fo di me prova, onde sicuro io prenda</l>
+<l>Di te cantando poi solingo volo;</l>
+<l>Sovra me la gran Quercia i rami estenda:</l>
+<l>Che questo schermo incontra i Fati ho solo.</l>
+<l>Così sua scorza le sue lodi stesse</l>
+<l>In sé riserbi eternamente impresse.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">6</add></head>
+<l>Già scorrea vincitor per l' Oriente</l>
+<l>L' esercito christian da Dio condutto;</l>
+<l>E Tarso in suo poter novellamente,</l>
+<l>E d' Antiochia il regno havean ridutto;</l>
+<l>E vinta, e morta innumerabil gente</l>
+<l>De' Persi, e quasi Persia in lei distrutto;</l>
+<l>Indi Tripoli presa, in quella parte</l>
+<l>S' eran le schiere sue fermate, e sparte.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">7</add></head>
+<l>Quando il chiaro Goffredo, a cui commesso</l>
+<l>Lo scettro fu de l' honorata impresa,</l>
+<l>Scorgendo egual desire in tutti espresso</l>
+<l>C' homai Gierusalem sia cinta, e presa;</l>
+<l>E sentendo egli anchor l' affetto istesso</l>
+<l>Di maggior fiamma haver sua mente accesa,</l>
+<l>Tutte le genti sparse in un raccolse;</l>
+<l>E vèr le sacre mura il campo volse.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">8</add></head>
+<l>Allhor, ch' a Febo in Oriente sono</l>
+<l>Del ciel dischiuse l' indorate porte,</l>
+<l>Di trombe udissi, e di tamburi un suono,</l>
+<l>Ond' al camino ogni guerrier s' esorte.</l>
+<l>Non è sì grato a mezo Agosto il tuono,</l>
+<l>Che speranza di pioggia al mondo apporte,</l>
+<l>Come fu grato a l' animose genti</l>
+<l>L' alto romor de' bellici strumenti.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">9</add></head>
+<l>Tosto ciascun da gran desio compunto</l>
+<l>Veste le membra de l' usate spoglie:</l>
+<l>E tosto appar di tutte l' arme in punto;</l>
+<l>Tosto sotto i suoi Duci ognun s' accoglie:</l>
+<l>E l' ordinato stuolo in un congiunto</l>
+<l>Tutte le sue bandiere al vento scioglie;</l>
+<l>E nel vessillo Imperiale e grande</l>
+<l>La trionfante croce al ciel si spande.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">10</add></head>
+<l>La vincitrice insegna in mille giri</l>
+<l>Alteramente si rivolge intorno:</l>
+<l>E par ch' in lei più riverente spiri</l>
+<l>L' aura; e che splenda in lei più chiaro il giorno;</l>
+<l>E che lunge la polve indi si tiri,</l>
+<l>Né le macchi de l' aria il manto adorno,</l>
+<l>E che nel suo passar l' altere fronti</l>
+<l>Pieghino humili d' ognintorno i monti.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">11</add></head>
+<l>Intanto il sol, che de' celesti campi</l>
+<l>Va più sempre avanzando, e in alto ascende,</l>
+<l>L' armi percuote, e ne trahe fiamme, e lampi,</l>
+<l>Tremuli, e chiari, ond' ogni vista offende:</l>
+<l>L' aria par di faville intorno avampi,</l>
+<l>E di stellato ciel sembianza rende;</l>
+<l>E con fieri nitriti, il suon s' accorda</l>
+<l>Del ferro scosso, e le campagne assorda.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">12</add></head>
+<l>Il Capitan, che de' nimici aguati</l>
+<l>Le proprie schiere assicurar desia,</l>
+<l>Molti a cavallo leggermente armati</l>
+<l>A scoprir il paese intorno invia:</l>
+<l>E inanzi i guastatori havea mandati,</l>
+<l>Da cui si debba agevolar la via;</l>
+<l>E i voti luoghi empir, e spianar gli erti:</l>
+<l>E da cui siano i chiusi passi aperti.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">13</add></head>
+<l>Conduce ei sempre a le maritime onde</l>
+<l>Vicino il campo per sicure strade,</l>
+<l>Sapendo ben, che le propinque sponde</l>
+<l>L' amica armata costeggiando rade:</l>
+<l>La qual può far che sempre il campo abonde</l>
+<l>De i necessari arnesi, e de le biade;</l>
+<l>E di ciò che la vita altrui sostiene,</l>
+<l>Quello arrecando da remote arene.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">14</add></head>
+<l>Geme il vicino mar sotto l' incarco</l>
+<l>Di mille curvi abeti, e mille pini,</l>
+<l>e per esso homai più sicuro varco</l>
+<l>In luogo alcun non s' apre a i saracini:</l>
+<l>Ch' oltra quei , c' ha Georgio armati, e Marco</l>
+<l>Ne i Venetiani, e Liguri confini,</l>
+<l>Altri Inghilterra, e Scotia, et altri Olanda:</l>
+<l>Et altri Francia, e Grecia altri ne manda.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">15</add></head>
+<l>E questi, che son tutti insieme uniti</l>
+<l>Con saldissimo laccio in un volere,</l>
+<l>S' eran carchi e provisti in varij liti</l>
+<l>Di ciò ch' è d' huopo a le terrestri schiere:</l>
+<l>Le quai trovando liberi, e sforniti</l>
+<l>I passi de' nimici a le frontiere,</l>
+<l>In corso velocissimo sen' vanno</l>
+<l>Là 've Christo soffrio mortale affanno.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">16</add></head>
+<l>Non v' è gente pagana insieme accolta;</l>
+<l>Non muro cinto di profonda fossa,</l>
+<l>Non monte alpestre, o gran torrente, o folta</l>
+<l>Selva, che 'l lor viaggio arrestar possa:</l>
+<l>Così de gli altri fiumi il Re talvolta</l>
+<l>Quando superbo oltra misura ingrossa,</l>
+<l>Fuor de le sponde ruinoso scorre,</l>
+<l>Né cosa è mai, che se gli ardisca opporre.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">17</add></head>
+<l>Giunse il campo a Mausse, ove a le sue</l>
+<l>Piaggie fann' ombra d' alto monte i gioghi;</l>
+<l>Con doni indi a Labilla accolto fue,</l>
+<l>Perché su quel terren l' ira non sfoghi:</l>
+<l>Vide o Serepta poi le mura tue;</l>
+<l>Et arrivò di Tiro a i colti luoghi:</l>
+<l>Tiro di Cadmo albergo: e intorno intorno</l>
+<l>Di vive fonti, e di giardini adorno.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">18</add></head>
+<l>Indi partito andò per strada angusta</l>
+<l>Sin che d' Accona al lieto pian ne venne;</l>
+<l>Ove d' Accona il Re con dritta e giusta</l>
+<l>Conditione amico lor divenne.</l>
+<l>Scorser Cesarea poi, ch' a la vetusta</l>
+<l>Etate hebbe altro nome, e nol ritenne;</l>
+<l>Fra il Carmelo passando, e fra l' arena</l>
+<l>Di marine co<del>n</del>chiglie, e d' alghe piena.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">19</add></head>
+<l>Antipatrida poscia (a destra mano</l>
+<l>Lasciando di Nettun l' onde spumose)</l>
+<l>Gli accolse, et Ioppe; e per lo steril piano</l>
+<l>Passaro a Lida, ove son l' ossa ascose,</l>
+<l>L' ossa honorate del guerrier christiano,</l>
+<l>Che 'l vorace serpente a morte pose:</l>
+<l>Quivi spesso in suo honor si mira, et ode</l>
+<l>Vaporar Tempi, e cantar hinni et ode.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">20</add></head>
+<l>Quinci per dritta, e spatiosa strada</l>
+<l>La bramata città siede non lunge;</l>
+<l>E perc' huom mova a lenti passi, e vada</l>
+<l>Onusto e grave, in un dì sol vi giunge.</l>
+<l>O quanto intender questo a tutti aggrada:</l>
+<l>O quanto più il disio gl' instiga e punge:</l>
+<l>O quanto, o quanto a lor sorge molesta</l>
+<l>La notte poi, che dal camin gli arresta.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">21</add></head>
+<l>Invida notte a che veloce torni?</l>
+<l>A che t' opponi a i desideri nostri?</l>
+<l>Forse di Giugno hor son scemati i giorni?</l>
+<l>Cieli, e serbate hor sì gli ordini vostri?</l>
+<l>Deh perché almen tu più lucente i corni</l>
+<l>Non scopri o Luna, o la via n' apri, e mostri[?]</l>
+<l>O fosse il tempo, ch' a i tuoi rai sen' fugge,</l>
+<l>L' ombra, c' hor noi, non pur la terra adugge.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">22</add></head>
+<l>Ma lasso, che più sempre horrido velo</l>
+<l>C' involve, né vagar gli occhi consente.</l>
+<l>Mira che cieco abisso, e come il cielo</l>
+<l>Le belle faci d' ognintorno ha spente.</l>
+<l>Perché non arde in noi quel vivo zelo,</l>
+<l>Onde altri il dì fu d' arrestar possente,</l>
+<l>Tal che s' ei non restasse, almen l' imago</l>
+<l>Rimanesse di lui nell' aer vago.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">23</add></head>
+<l>Così parla ciascun, né più rifugi</l>
+<l>Trova da quel desio, che 'l petto accende:</l>
+<l>Anzi tutto sdegnoso i pigri indugi</l>
+<l>De la notte fra sé biasma e riprende;</l>
+<l>E mira adhor adhor dove pertugi</l>
+<l>S' apran nel padiglion, se 'l dì risplende;</l>
+<l>Et ingannando adhor adhor se stesso</l>
+<l>Dice: homai deve il giorno esser' appresso.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">24</add></head>
+<l>E fuori esce sovente al cielo aperto</l>
+<l>Per veder se pur anco il dì si schiare,</l>
+<l>O s' ha l' aurato crine a noi scoperto</l>
+<l>La stella, che dinanzi a l' alba appare:</l>
+<l>E se pur dorme alcun, nel sogno certo</l>
+<l>La bramata città veder gli pare;</l>
+<l>Et inchinar le sacre mura, e 'l santo</l>
+<l>Terren baciar, et innondar di pianto.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">25</add></head>
+<l>Ma queste vision tosto ha interrotte</l>
+<l>Con ingrata favella un de' compagni;</l>
+<l>Che chieggia altrui, se molto anchor di notte</l>
+<l>Spatio vi resti; e si lamenti, e lagni.</l>
+<l>O che divisi come vinte, e rotte</l>
+<l>Le forze hostil, faranno ampi guadagni.</l>
+<l>O che pien d' ardimento, a gli altri giuri</l>
+<l>D' esser fra' primi ad assaltar que' muri.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">26</add></head>
+<l>Non quando al giorno nubiloso e breve</l>
+<l>S' inchina il sol mentre crediam che poggi,</l>
+<l>Et inasprir di ghiaccio, e d' alta neve</l>
+<l>Si veggion biancheggiar d' intorno i poggi</l>
+<l>Sembra la notte così lunga, e greve</l>
+<l>A peregrin, che traviato alloggi</l>
+<l>In duro bosco, e sotto 'l freddo Giove</l>
+<l>Esposto giaccia ov' egli tuona, e piove.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">27 (ms. 113)</add></head>
+<l>Come allhor questa fredda notte estiva,</l>
+<l>Che per un breve giro a la sua mèta</l>
+<l>I veloci corsier spronando giva,</l>
+<l>Lunga parve a ciascuno et inquieta.</l>
+<l>Ma quando l' alba fastidita, e schiva</l>
+<l>Del suo vecchio Titon, se n' uscì lieta,</l>
+<l>Tosto ciascuno il suo camin riprese</l>
+<l>Né suon di tromba, o di tamburo attese.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">28 (114)</add></head>
+<l>Del lor desio l' impetuoso corso</l>
+<l>L' accorto capitan segue e seconda:</l>
+<l>Che più lieve saria di porre il morso</l>
+<l>A l' ocean quando erge al ciel più l' onda;</l>
+<l>O frenar Borea, allhor, che scuote il dorso</l>
+<l>De l' Apennino, e i legni in mare affonda:</l>
+<l>Per che vadino uniti e con misura</l>
+<l>Cangino i ratti passi egli procura.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">29 (115)</add></head>
+<l>Ali ha ciascuno al core, et ali al piede,</l>
+<l>Né del suo ratto andar però s' accorge.</l>
+<l>Ma quando il sol gli aridi campi fiede</l>
+<l>Con via più crudi strali, e in alto sorge;</l>
+<l>Ecco apparir Gierusalem si vede:</l>
+<l>Ecco additar Gierusalem si scorge:</l>
+<l>Ecco da mille voci unitamente</l>
+<l>Gierusalemme salutar si sente.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">30 (116)</add></head>
+<l>Così di naviganti audace stuolo,</l>
+<l>Che mova a ricercar estranio lido,</l>
+<l>E 'n mar dubbioso, e sotto ignoto polo</l>
+<l>Provi spesso il furor del vento infido;</l>
+<l>Se alfin discopre il disiato suolo</l>
+<l>Lo saluta da lungi in lieto grido;</l>
+<l>E l' uno a l' altro il mostra, e 'ntanto oblia</l>
+<l>la noia, e 'l mal de la passata via.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">31 (109)</add></head>
+<l>Al gran piacer, che quella pirma vista</l>
+<l>Dolcemente spirò nell' altrui petto,</l>
+<l>Alta contrition successe mista</l>
+<l>Di timoroso, e riverente affetto.</l>
+<l>Non osan pur, d' assicurar la vista</l>
+<l>Là 'v' hebbe il vero Dio lungo ricetto,</l>
+<l>Dove morì; dove sepolto fue;</l>
+<l>Dove poi rivestì le membra sue.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">32 (110)</add></head>
+<l>Sommessi accenti, e tacite parole,</l>
+<l>Rotti singulti, e flebili sospiri</l>
+<l>De la gente che in un s' allegra e duole,</l>
+<l>Fan che per l' aria un mormorio s' aggiri:</l>
+<l>Come per l' alte selve udir si suole,</l>
+<l>S' avien, che tra le fronde il vento spiri;</l>
+<l>O come in fra gli scogli, o presso a i lidi</l>
+<l>Freme il percosso mar con rauchi stridi.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">33 (111)</add></head>
+<l>Nudo ciascuno il piè calca il sentiero;</l>
+<l>Che l' esempio de' Duci ogni altro move.</l>
+<l>Serico fregio, o d' or, piuma, o cimiero</l>
+<l>Superbo dal suo capo ognun rimove;</l>
+<l>Et insieme del cor l' habito altiero</l>
+<l>Depone, e ca<del>l</del>de, e pie lagrime piove.</l>
+<l>Pur quasi al pianto habbia la via rinchiusa,</l>
+<l>Vèr Dio parlando ognun se stesso accusa.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">34 (112)</add></head>
+<l>Dunque ove tu Signor, di mille rivi</l>
+<l>Sanguinosi, il terren lasciasti asperso</l>
+<l>D' amaro pianto almen due fonti vivi</l>
+<l>In sì acerba memoria hoggi io non verso?</l>
+<l>Agghiacciato mio cor, che non derivi</l>
+<l>Per gli occhi, e stilli in lagrime converso?</l>
+<l>Duro mio cor, che non ti spetri, e frangi?</l>
+<l>Pianger ben merti ognihor, s' hora non piangi.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">35 (027)</add></head>
+<l>Così col guardo in ver la terra volto,</l>
+<l>E col pensiero in verso il ciel levato,</l>
+<l>Parla ciascuno, e 'l riverente volto</l>
+<l>Di pietoso pallor porta segnato.</l>
+<l>Intanto il campo dal camin distolto</l>
+<l>E presso la città s' era fermato;</l>
+<l>E intorno in Capitan mira e discorre</l>
+<l>Gli alloggiamenti ove sia meglio a porre.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">36 (028)</add></head>
+<l>Siede Gierusalem sovra duo monti:</l>
+<l>Né molto spatio di larghezza prende:</l>
+<l>E mira intorno il pian con quatro fronti;</l>
+<l>Ma l' una più de l' altre in lungo estende.</l>
+<l>La terra, ov' egli sta, non vive fonti,</l>
+<l>Non lago, o fiume, o rio feconda rende;</l>
+<l>Di selve, e paschi è priva, e secca et arsa,</l>
+<l>E in più luoghi di valli horride sparsa.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">37 (029)</add></head>
+<l>Ha da quel lato donde il giorno appare,</l>
+<l>Del famoso Giordan le placid' onde:</l>
+<l>E da la parte Occidental, del mare</l>
+<l>Mediterraneo l' arenose sponde.</l>
+<l>Verso Borea è Bethel, che drizzò l' are</l>
+<l>Al vitel d' oro, e la Samaria; e d' onde</l>
+<l>Austro move talhor piovoso nembo</l>
+<l>Bethelem, che 'l gran parto accolse in grembo.</l>
+</lg>
+<lg>
+<l><note place="inter" anchored="yes"><p><emph>Qui manca una stanza dello accamparsi dell'esercito.</emph></p></note></l></lg>
+<lg type="ottava">
+<head><add resp="ed">38 (030)</add></head>
+<l>Il dì seguente, allhor che l' aura estiva</l>
+<l>Più dolce schermo è dal solare sdegno,</l>
+<l>Veggion cinti venir di verde oliva</l>
+<l>L' ignude tempie d' amicizia in segno;</l>
+<l>Due cavalier, che da rimota riva</l>
+<l>Giungean di novo al Palestino regno:</l>
+<l>E intende il Capitan ch' alte ambasciate</l>
+<l>Recan da Solimano a lui mandate.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">39 (031)</add></head>
+<l>Da Soliman, che 'l Nilo, e i campi regge</l>
+<l>Fecondi e lieti per la negra arena,</l>
+<l>Più potente di quanti iniqua legge</l>
+<l>Di reo profeta a danno eterno mena.</l>
+<l>Sembra questi pastor, che l' altrui gregge</l>
+<l>Soffrir viste da' lupi amara pena,</l>
+<l>De le sue teme e 'l già vicin periglio</l>
+<l>Tenta fuggir con l' arte, e col consiglio.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">40 (032)</add></head>
+<l>Et a ragione i miseri successi</l>
+<l>De' Persi, e Turchi a lui temenza danno</l>
+<l>Che 'l fier nimico, ne i suoi regni stessi</l>
+<l>Non rechi un giorno anchor l' istesso danno</l>
+<l>Né può soffrir che più vicin s' appressi,</l>
+<l>E divenendo di Giudea Tiranno,</l>
+<l>Maggior si faccia, e con più certe forze</l>
+<l>Contra l' Imperio suo s' erga, e rinforze.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">41 (033)</add></head>
+<l>E tanto più che d' alto amor congiunto</l>
+<l>Era col Re de la provincia Hebrea.</l>
+<l>E già sovra di sé giurando assunto</l>
+<l>Di conservarlo in stato ei preso havea.</l>
+<l>Da queste cure stimolato, e punto</l>
+<l>Continuamente nel pensier volgea,</l>
+<l>Come salvando i regni altrui potesse,</l>
+<l>Assicurar le sue provincie stesse.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">42 (034)</add></head>
+<l>Pur egli è saggio, e con diritta lance</l>
+<l>Sue forze, e le nimiche insieme pesa;</l>
+<l>Né vuol prima adoprar spade né lance,</l>
+<l>Che tardi è spenta guerra tosto accesa.</l>
+<l>Ma con minaccie, e lusinghevol ciance</l>
+<l>Tentar, se distornar potrà l' impresa:</l>
+<l>E sol per questo effetto in messaggieri</l>
+<l>Manda al chiaro Buglion ambo i guerrieri.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">43 (035)</add></head>
+<l>Alete è l' uno, a cui soave asperse</l>
+<l>Di dolce mèl Calliopea la lingua</l>
+<l>Che sa come con voci adorne, e terse</l>
+<l>Mova gli affetti, e come poi gli estingua</l>
+<l>Huomo timido, e cauto, e di perverse</l>
+<l>Maniere, e cui sol l' altrui danno impingua</l>
+<l>Cui sempre invidia turba il cor maligno,</l>
+<l>E i sembianti asserena amico ghigno.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">44 (036)</add></head>
+<l>Argante l' altro ha nome, il più gagliardo,</l>
+<l>Cavallier de l' Egitto, e 'l più feroce,</l>
+<l>Di gigantea statura, e d' empio sguardo,</l>
+<l>D' horribili fattezze, e d' aspra voce;</l>
+<l>Ruvido in atto, e ne i costumi, e tardo</l>
+<l>Di lingua sì, come di man veloce:</l>
+<l>A cui sua spada è Dio, sua spada è legge;</l>
+<l>E ciò che brama quasi honesto elegge.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">45 (037)</add></head>
+<l>Chieser questi udienza et al cospetto</l>
+<l>Del famoso Goffredo ammessi entraro,</l>
+<l>E in humil seggio, et in vestire schietto</l>
+<l>Fra i suoi Duci sedente il ritrovaro:</l>
+<l>Che verace valor, benché negletto</l>
+<l>Fa di se stesso a sé fregio sì chiaro,</l>
+<l>C' huopo non è c' huom lo circondi, e cinga;</l>
+<l>Di gemme, e d' auro, o Tirio succo il tinga.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">46 (038)</add></head>
+<l>Come fu dentro Alete, e 'l capitano</l>
+<l>Scorse, e quei chiari suoi mastri di guerra,</l>
+<l>Mentre il compagno del suo orgoglio insano</l>
+<l>Fa mostra, e come suol vaneggia et erra;</l>
+<l>Sovra il petto ei posò la destra mano;</l>
+<l>E piegò il capo, e chinò gli occhi a terra.</l>
+<l>Poi gravemente sollevolli; e in tardo</l>
+<l>Giro a torno rivolse humile il guardo.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">47 (039)</add></head>
+<l>Rivolge il guardo, e le straniere genti,</l>
+<l>E le strane maniere intento ammira,</l>
+<l>Gli habiti in lor diversi, e i portamenti,</l>
+<l>E le sembianze varie, e gli anni mira;</l>
+<l>Ma l' istesso vigor da gli occhi ardenti,</l>
+<l>E da gli atti feroci in tutti spira:</l>
+<l>E qual la gioventude anchor robusta</l>
+<l>Qui si mostra fra lor l' età vetusta.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">48 (040)</add></head>
+<l>Con ruvidezza militare incolti</l>
+<l>Stanno, e con signoril decoro altieri.</l>
+<l>L' elmo, il sole, il sudor, la polve i volti</l>
+<l>Lor tinto ha di colori adusti, e neri.</l>
+<l>Ivi le cicatrici, et ivi scolti</l>
+<l>Sono i trionfi anchor, de i vinti imperi;</l>
+<l>E lor natia beltà, non già si vaga,</l>
+<l>Ma con più maestà le viste appaga.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">49 (041)</add></head>
+<l>Ma sovra tutti con serena, e dolce,</l>
+<l>Et ampia fronte il Capitan riluce:</l>
+<l>E mostra ben che degnamente ei folce</l>
+<l>Sì nobil pondo, e che de gli altri è Duce.</l>
+<l>Bionde ha le chiome, azurri gli occhi, e molce</l>
+<l>Suo guardo i cori, e riverenza induce:</l>
+<l>Regale il naso, e curvo alquanto s' erge;</l>
+<l>E vivace color le gote asperge.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">50 (042)</add></head>
+<l>Nell' ampio petto, e nelle spalle assembra</l>
+<l>Te Marte; e nelle sciolte e lunghe braccia:</l>
+<l>Muscolose, et ossute ha l' altre membra:</l>
+<l>Né parte è in lui, che non s' ammiri, e piaccia.</l>
+<l>Fiso il contempla Alete, e intanto membra</l>
+<l>Gli alti suoi fatti; e doppia il cor gli agghiaccia</l>
+<l>Meraviglia, et impetra: alfin si scosse</l>
+<l>Da stordigion sì lunga, e i detti mosse.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">51 (043)</add></head>
+<l>O vincitor di perigliosa guerra</l>
+<l>Principe eccelso: che tanto osi e puoi;</l>
+<l>O di gloria maggior d' ogni altro in terra;</l>
+<l>Ma non egual di gloria a i pregi tuoi:</l>
+<l>Il nome tuo, che termine non serra,</l>
+<l>Celebrato risuona anchor fra noi:</l>
+<l>E la fama, d' Egitto in ogni parte</l>
+<l>Chiare del tuo valor novelle ha sparte.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">52 (044)</add></head>
+<l>Né v' è fra tanti alcun, che non l' ascolte,</l>
+<l>Com' egli suol, le meraviglie estreme;</l>
+<l>Ma dal mio Re, con istupore accolte</l>
+<l>Sono non sol, ma con diletto insieme:</l>
+<l>Et altrui raccontarle anco più volte</l>
+<l>S' appaga, et ama in te ciò ch' altri teme.</l>
+<l>Ama il valore, e volontario elegge</l>
+<l>Teco unirsi d' amor, se non di legge.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">53 (045)</add></head>
+<l>Da sì bella cagion dunque sospinto</l>
+<l>L' amicizia, e la pace a te richiede:</l>
+<l>E 'l mezo, onde l' un resti a l' altro avinto</l>
+<l>Sia la virtù, s' esser non può la fede.</l>
+<l>Ma perché intese, che già t' eri accinto</l>
+<l>Armato ad assalir ciò ch' ei possede,</l>
+<l>Volse pria, ch' altro male indi seguisse,</l>
+<l>Ch' a te la mente sua per noi s' aprisse.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">54 (046)</add></head>
+<l>E la sua mente è tal: che s' appagarti</l>
+<l>Vorrai di quanto hai fatto in guerra tuo,</l>
+<l>Né Giudea molestar, né l' altre parti,</l>
+<l>Le quali accolte ha sotto il furor suo;</l>
+<l>Ei promette all' incontro assicurarti</l>
+<l>Il non ben fermo stato: e se voi duo</l>
+<l>Sarete uniti, hor quando i Turchi o i Persi</l>
+<l>Potranno unqua sperar di rihaversi!</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">55 (047)</add></head>
+<l>Gran cose, o sire, in picciol tempo hai fatte,</l>
+<l>Che mai dal tempo non saran conquise:</l>
+<l>Tante prese città, tante disfatte,</l>
+<l>Tante squadre fugate, e tante uccise;</l>
+<l>Tante sol col tuo nome esterrefatte</l>
+<l>Strane genti, e dal ciel nostro divise:</l>
+<l>E se ben acquistar puoi novi Imperi,</l>
+<l>Acquistar nova gloria indarno speri.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">56 (048)</add></head>
+<l>Giunta è tua gloria al sommo, e per l' inanzi</l>
+<l>Fuggir l' incerte guerre a te conviene:</l>
+<l>Ch' ove tu vinca, sol di stato avanzi;</l>
+<l>Né tua gloria maggior per ciò diviene:</l>
+<l>E gl' Imperi acquistati e presi inanzi</l>
+<l>Perdi, e la fama, se 'l contrario aviene:</l>
+<l>Né dee chi drittamente opra e discorre</l>
+<l>Il molto incontra 'l poco a rischio porre.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">57 (049)</add></head>
+<l>Ma l' haver sempre vinto in ogni impresa,</l>
+<l>E l' ardor de l' età, che bolle, e ferve;</l>
+<l>E 'l sentir l' alma d' ingordigia accesa</l>
+<l>Di tributarie far provincie, e serve;</l>
+<l>E 'l consiglio d' alcun, cui forse pesa,</l>
+<l>Ch' altri gli acquisti suoi sempre conserve,</l>
+<l>Faran peraventura a te la pace</l>
+<l>Fuggir più, che la guerra altri non face.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">58 (050)</add></head>
+<l>T' esorteranno a seguitar la strada,</l>
+<l>Che t' è da' Fati largamente aperta;</l>
+<l>A non ripor questa honorata spada,</l>
+<l>Al cui valore ogni vittoria è certa,</l>
+<l>Sin che la legge di Macon non cada,</l>
+<l>Sin che l' Asia per lei non sia deserta:</l>
+<l>Dolci cose ad udir, e dolci inganni,</l>
+<l>Ond' escon poi sovente estremi danni.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">59 (051)</add></head>
+<l>Ma quando effetto alcun nol ti contenda,</l>
+<l>Né il lume adombri in te de la ragione,</l>
+<l>Vederai ch' ove tu la guerra imprenda</l>
+<l>Hai di temer, non di sperar cagione:</l>
+<l>Che Fortuna qua giù varia, a vicenda</l>
+<l>Mandandoci avventure, hor triste, hor buone;</l>
+<l>Né grandezza durar può lungamente,</l>
+<l>Se 'l principio, e se 'l mezo è violente.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">60 (052)</add></head>
+<l>Dimmi, s' a' danni tuoi l' Egitto move</l>
+<l>D' oro, e d' armi potente, e di consiglio;</l>
+<l>E s' avien, che la guerra anco rinove</l>
+<l>Il Perso, il Turco, e di Cassano il figlio;</l>
+<l>Quai forze opporre a sì gran furia, o dove</l>
+<l>Ritrovar potrai scampo al tuo periglio;</l>
+<l>T' affida forse il Re malvagio Greco;</l>
+<l>Lo qual da' sacri patti unito è teco?</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">61 (053)</add></head>
+<l>La fede Greca a chi non è palese?</l>
+<l>Tu da un sol tradimento ogni altro impara;</l>
+<l>Anzi da mille: ch' a te mille ha rese</l>
+<l>Insidie già l' infida terra avara.</l>
+<l>Adunque chi già il passo a voi contese</l>
+<l>Per voi la vita esporre hor si prepara?</l>
+<l>E chi le vie, ch' altrui comuni sono,</l>
+<l>Negò, del proprio sangue hor farà dono?</l>
+</lg>
+<lg><l><note place="inter" anchored="yes"><p><emph>Qui si ragionerà de gli aiuti di Francia.</emph></p></note></l></lg>
+<lg type="ottava">
+<head><add resp="ed">62 (054)</add></head>
+<l>Ma forse hai sir locata ogni tua speme,</l>
+<l>In queste squadre, ond' ora cinto siedi;</l>
+<l>E quei, ch' ad uno ad un vincesti, insieme</l>
+<l>Di vincer anco agevolmente credi.</l>
+<l>Se ben le schiere tue, già molto sceme</l>
+<l>Da quel, che allhora fur, tu stesso vedi;</l>
+<l>Se ben novo nemico a te s' accresce;</l>
+<l>E gli Egittij co' Persi, e Turchi mesce.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">63 (055)</add></head>
+<l>Hor, se tu pur istimi esser fatale,</l>
+<l>Che non ti possa il ferro vincer mai,</l>
+<l>Siati concesso, e siasi a punto tale</l>
+<l>Il decreto del ciel, qual tu lo fai;</l>
+<l>Vinceratti la fame: a questo male</l>
+<l>Che difesa per Dio, che schermo havrai?</l>
+<l>Vibri contra costei la spada, e stringi</l>
+<l>La lancia, e la vittoria anco ti fingi.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">64 (056)</add></head>
+<l>Ogni campo d' intorno arso, e distrutto</l>
+<l>Ha la provida man de gli habitanti;</l>
+<l>E in alte mura, e in chiuse torri il frutto</l>
+<l>Riposto al tuo venir più giorni inanti.</l>
+<l>Tu, ch' ardito sin qui ti sei condutto,</l>
+<l>Onde speri nudrir cavalli e fanti?</l>
+<l>Dirai: l' armata in mar cura ne prende.</l>
+<l>Da' venti dunque il viver tuo depende?</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">65 (057)</add></head>
+<l>Impera forse tua fortuna a' venti?</l>
+<l>E gli avvince a sua voglia, e gli dislega,</l>
+<l>E 'l mar sordo a le preci, et a i lamenti</l>
+<l>Mutato stile al suo voler si piega?</l>
+<l>O non potranno pur l' Egittie genti,</l>
+<l>e le Perse, e le Turche unite in lega,</l>
+<l>Così potente armata in un raccorre,</l>
+<l>Ch' a questi legni tuoi si possa opporre?</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">66 (058)</add></head>
+<l>Doppia vittoria, a te signor, bisogna,</l>
+<l>S' hai de l' impresa a riportar l' honore:</l>
+<l>Una perdita sola, alta vergogna</l>
+<l>Può cagionarti, e danno anco maggiore:</l>
+<l>ch' ove la nostra armata in rotta pogna</l>
+<l>La tua, qui poi di fame il campo more:</l>
+<l>E se tu sei perdente indarno poi</l>
+<l>Saran vittoriosi i legni tuoi.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">67 (059)</add></head>
+<l>Hora se in stato tal tu pur rifiuti</l>
+<l>Col Re del grande Egitto, e pace e tregua,</l>
+<l>Si dirà poi, che a l' altre tue virtuti</l>
+<l>La giovenil prudenza hor non s' adegua.</l>
+<l>Ma piaccia al ciel, che 'l tuo pensier si muti,</l>
+<l>Se a guerra è volto, e che 'l contrario segua,</l>
+<l>ch' alte fatiche hai sin adhor sofferte</l>
+<l>Per le strade d' honor spinose et erte.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">68 (060)</add></head>
+<l>Chi per maggior periglio in pregio salse</l>
+<l>Men de' thesori, o de la vita scarso?</l>
+<l>Chi sudò mai più sotto l' armi, et alse?</l>
+<l>Chi l' altrui sangue, o 'l suo più volte ha sparso?</l>
+<l>Le piaggie, e i monti il sanno, e l' onde salse,</l>
+<l>Ove sei vincitor sì spesso apparso.</l>
+<l>Tempo è già di riposo, e 'l chiede, e 'l brama</l>
+<l>Chiunque i tuoi gran merti honora et ama.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">69 (061)</add></head>
+<l>Né voi, che ne i perigli, e negli affanni,</l>
+<l>E nella gloria a lui sete consorti,</l>
+<l>Il favor di fortuna hor tanto inganni,</l>
+<l>Che nove guerre a provocar v' esorti.</l>
+<l>Ma qual nocchier, che da' marini inganni</l>
+<l>Ridutto ha i legni a i desiati porti,</l>
+<l>Raccor devreste homai le sparse vele;</l>
+<l>Né fidarvi di novo al mar crudele.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">70 (062)</add></head>
+<l>Qui tacque Alete, e 'l suo parlar seguiro</l>
+<l>Con basso mormorar quei forti heroi:</l>
+<l>E ben ne gli atti dispettosi apriro</l>
+<l>Quanto ciascun quella proposta annoi.</l>
+<l>Il capitan rivolse gli occhi in giro</l>
+<l>Tre volte, e quatro, e mirò in fronte i suoi;</l>
+<l>E poi nel volto del pagan gli affisse;</l>
+<l>E stendendo la man così gli disse:</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">71 (063)</add></head>
+<l>Perch' io ben sappia, c' huom più tosto aggiunga</l>
+<l>A quell' ultimo fine, ov' egli intende,</l>
+<l>Se del determinar lo spatio allunga,</l>
+<l>Che se veloce a l' operar discende;</l>
+<l>Non vo' però che la dimora lunga</l>
+<l>Sospenda voi, poi che né me sospende,</l>
+<l>Tua dolce lingua, sì che in dubbio torni</l>
+<l>Quel, che s' è stabilito ha già più giorni.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">72 (064)</add></head>
+<l>Sappi che tanto habbiam sin hor sofferto</l>
+<l>In mar, e in terra, a l' aria chiara, e scura,</l>
+<l>Solo accioché ne fosse il calle aperto</l>
+<l>A quelle sacre e venerabil mura,</l>
+<l>Per acquistarci apo Dio gratia e merto</l>
+<l>Togliendo lor da servitù sì dura;</l>
+<l>Né mai, pur che s' adempia opra sì pia,</l>
+<l>Regno, o vita arrischiar grave ne fia.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">73 (065)</add></head>
+<l>Che non ambitiosi avari affetti</l>
+<l>Sprone ci furo in questa impresa, o guida.</l>
+<l>(Sgombri il padre del ciel, da' nostri petti</l>
+<l>Peste sì rea, se in alcun pur s' annida</l>
+<l>Né soffra che l' asperga, e che l' infetti</l>
+<l>Di velen dolce, che piacendo ancida)</l>
+<l>Ma la Sua man che i duri cuor penetra</l>
+<l>Soavemente, e gli ammollisce, e spetra.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">74 (066)</add></head>
+<l>Questa ha noi mossi e questa ha noi condutti</l>
+<l>D' ogni periglio tratti, e d' ogni impaccio.</l>
+<l>Questa fa piani i monti e i fiumi asciutti,</l>
+<l>L' ardor toglie a la state, al verno il ghiaccio:</l>
+<l>Questa placa del mar gli horridi flutti;</l>
+<l>Questa i venti ristringe in duro laccio:</l>
+<l>Quindi son l' alte mura, e prese, et arse:</l>
+<l>Quindi l' armate schiere uccise e sparse.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">75 (067)</add></head>
+<l>Quindi l' ardir, quindi la speme nasce,</l>
+<l>Non da le frali nostre forze, e stanche:</l>
+<l>Non da l' armata; non da quante pasce</l>
+<l>Genti la Grecia; e non da l' armi Franche:</l>
+<l>Pur che costei non ci abbandoni e lasce,</l>
+<l>Che dobbiamo curar ch' altri ci manche?</l>
+<l>Chi sa come difende, e come fere</l>
+<l>Soccorso a' suoi perigli altro non chere.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">76 (068)</add></head>
+<l>Ma quando di sua aita ella ne privi</l>
+<l>Per gli error nostri, o per giudicij occulti,</l>
+<l>Chi fia di noi ch' esser sepulto schivi</l>
+<l>Ove i membri di Dio fur già sepulti?</l>
+<l>Noi morirem; né invidia avremo a i vivi;</l>
+<l>Noi morirem; ma non morremo inulti:</l>
+<l>Né l' Asia riderà di nostra morte:</l>
+<l>Né piangeremo noi la nostra sorte.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">77 (069)</add></head>
+<l>Non creder già, che noi fuggiam la pace,</l>
+<l>Come guerra mortal si fugge, e pave:</l>
+<l>Che l' amicizia del tuo Re ne piace;</l>
+<l>Né l' unirci con lui ci sarà grave:</l>
+<l>Ma s' al suo scettro la Giudea soggiace</l>
+<l>Tu 'l sai; dunque perché tal cura n' have?</l>
+<l>De' regni altrui l' acquisto ei non ci vieti;</l>
+<l>E regga in pace i suoi felici e lieti.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">78 (070)</add></head>
+<l>Qui finì di parlar e sdegno, e rabbia</l>
+<l>Per tai detti ad Argante il cor trafisse.</l>
+<l>Né 'l celò già, ma con enfiata labbia</l>
+<l>Si trasse inanti al capitano: e disse:</l>
+<l>Chi la pace non vuol la guerra s' habbia,</l>
+<l>Che penuria giamai non fu di risse:</l>
+<l>E ben la pace ricusar tu mostri,</l>
+<l>Se non t' acqueti a i primi detti nostri.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">79 (071)</add></head>
+<l>Indi, il suo manto per il lembo prese,</l>
+<l>E 'l curvò in mezo; e quello inanzi sporto</l>
+<l>Col braccio insieme, a dir così riprese</l>
+<l>Al capitan, mirando bieco, e torto:</l>
+<l>O vincitor de le più dubbie imprese,</l>
+<l>In questo seno istesso ecco io t' apporto,</l>
+<l>E pace, e guerra: hor tu di lor t' apprendi</l>
+<l>A quella, che per te miglior comprendi.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">80 (072)</add></head>
+<l>L' atto altiero e 'l parlar tutti commosse</l>
+<l>A chiamar guerra in un concorde grido,</l>
+<l>Non attendendo che risposto fosse</l>
+<l>Com' ei già s' accingea, dal buon Goffrido.</l>
+<l>Allhor quel crudo spiegò il seno e scosse</l>
+<l>il manto, e disse: a guerra homai vi sfido.</l>
+<l>E 'l disse in atto sì feroce ed empio,</l>
+<l>Che parve aprir di Giano il chiuso Tempio.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">81 (073)</add></head>
+<l>Parve ch' aprendo il seno indi trahesse</l>
+<l>Il furor pazzo, e la discordia fiera:</l>
+<l>E che ne gli occhi suoi lucenti ardesse</l>
+<l>Horrida face d' Infernal Megera.</l>
+<l>Forse già quel, c' hor da tre monti oppresse</l>
+<l>Scuote le membra, incontra i Dei tal era.</l>
+<l>Tal forse, e tanto il vide Flegra al cielo</l>
+<l>Giove sfidando alzar la faccia, e 'l telo.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">82 (074)</add></head>
+<l>Così sendo fra lor risposto e detto</l>
+<l>La coppia de' pagan congedo tolse.</l>
+<l>E 'l magnanimo Duce, a cui nel petto</l>
+<l>Cortesia pari al gran valor s' accolse,</l>
+<l>Di spada Argante, e di lucente elmetto</l>
+<l>Ornare Alete a la partita volse.</l>
+<l>Finissimo era l' elmo e già lo scelse</l>
+<l>Tra mille prede, e propria spoglia felse.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">83 (075)</add></head>
+<l>Vi sorge per cimiero horrido e grande</l>
+<l>Serpe che si dislunga; e 'l collo snoda;</l>
+<l>Su le zampe s' innalza; e l' ali spande.</l>
+<l>E piega in arco la forcuta coda;</l>
+<l>Par che faville fuor da gli occhi mande,</l>
+<l>Fumo dal naso, e che 'l suo fischio s' oda.</l>
+<l>D' argento è la materia, e in più colori</l>
+<l>Da gli smalti distinta appar di fuori.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">84 (076)</add></head>
+<l>La spada anchora è d' artificio egregio,</l>
+<l>Ma nell' opre miglior, che bella in vista;</l>
+<l>Pesante, e lunga, e di torneo fu pregio,</l>
+<l>Ove col sangue, e non con l' or s' acquista.</l>
+<l>La si prese l' altier quasi in dispregio,</l>
+<l>E poi che l' hebbe disnudata e vista;</l>
+<l>Disse: potrà la man, ch' or la riceve,</l>
+<l>Con lei pagar ciò, che per lei ti deve.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">85 (077)</add></head>
+<l>Ahi che festi, Goffredo? ahi che crudele</l>
+<l>Armi contra i tuoi stessi iniqua mano?</l>
+<l>Con quai lamenti, oimè, con quai querele</l>
+<l>Sospirerai quest' empio don, ma in vano?</l>
+<l>O di che generoso, e che fedele</l>
+<l>Sangue per tal cagion fia sparso il piano.</l>
+<l>Sparso il piano sarà del sangue altrui,</l>
+<l>Ma più del pianto assai de gli occhi tui.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">86 (078)</add></head>
+<l>Pensoso Alete a la città ritorno</l>
+<l>Fece, e lieto colui, che 'l mondo sdegna.</l>
+<l>E 'l capitan per lo seguente giorno</l>
+<l>Le genti invita a general rassegna:</l>
+<l>Che veder vuol come d' arnesi adorno</l>
+<l>Ciascuno, e di destrieri instrutto vegna,</l>
+<l>Per far, ch' a quelli, il cui bisogno il chieggia;</l>
+<l>Quanto in lei fia, l' armata indi proveggia.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">87 (079)</add></head>
+<l>Già coronato di purpurei fiori</l>
+<l>Sorto, se n' era il sol dal salso letto,</l>
+<l>E quasi in bel zafir dolci colori</l>
+<l>S' accoglievan del ciel nel vago aspetto;</l>
+<l>Quando ordinatamente usciron fuori</l>
+<l>Tutte le schiere al designato effetto;</l>
+<l>E più volte girando in largo piano,</l>
+<l>Mostra fer di se stesse al capitano.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">88 (080)</add></head>
+<l>Spiega primiero Ugon la Fiordiligi</l>
+<l>Tra cinquemila cavalier, c' ha scelti,</l>
+<l>Parte d' amici suoi, parte di ligi</l>
+<l>Ne gli Aquitani popoli, e ne i Celti,</l>
+<l>E Ligeri, e Garona, e 'l gran Parigi;</l>
+<l>E i dolci alberghi dal pensiero svelti,</l>
+<l>Pensa ognun sol come vittoria, o morte</l>
+<l>Gli apra del Ciel le meritate porte.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">89 (081)</add></head>
+<l>Di pensieri, e d' honori, e d' armi pieno,</l>
+<l>E d' ingegno, e di lingua, e d' or possente</l>
+<l>Segue Odoardo, a cui commesso ha il freno</l>
+<l>L' Inglese Re de la sua fiera gente:</l>
+<l>Gente, che 'l mar col procelloso seno</l>
+<l>Ha dal mondo divisa, e differente</l>
+<l>La feo natura, et invecchiata usanza</l>
+<l>D' habiti, di costumi, e di sembianza.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">90 (082)</add></head>
+<l>Tre mila fanti ha qui, che già le sponde</l>
+<l>Pressero di Tamigi, e di Sabrina;</l>
+<l>E che videro il capo alzar su l' onde</l>
+<l>Tarvedo, e i piè lavarsi a la marina.</l>
+<l>Altretanti con lor d' archi, e di fionde</l>
+<l>Armati, e cinti di pelle ferina,</l>
+<l>Da gli aspri monti, e da le selve manda</l>
+<l>Ebuda, e Thile, e la rimota Irlanda.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">91 (083)</add></head>
+<l>Gli seconda Argilan, qual presso a Thebe</l>
+<l>Già Capaneo con orgoglioso volto;</l>
+<l>Minacciosa d' Elvetii audace plebe</l>
+<l>Seco el conduce in grosso stuolo e folto:</l>
+<l>Che 'l ferro uso a far solchi, e franger glebe</l>
+<l>In nove forme, e in più degne opre ha volto:</l>
+<l>E con la man, che guardò rozi armenti,</l>
+<l>Par che i Regi sfidar nulla paventi.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">92 (084)</add></head>
+<l>Né l' Eremita affaticar lo stanco</l>
+<l>Corpo rifiuta sotto ferrea salma,</l>
+<l>Che dal peso terren lo spirto franco</l>
+<l>S' alza, qual da gran fascio oppressa palma</l>
+<l>Né sì natura indebolir può il fianco,</l>
+<l>Come il vero valor rinforza l' alma:</l>
+<l>Vecchio honorato, onde felici esempi</l>
+<l>Prenda ogni etade, e gli erga altari, e Tempi.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">93 (085)</add></head>
+<l>Crespa ei la fronte, e di pel bianco ha mista</l>
+<l>La chioma, e gli occhi irsuto ciglio adombra:</l>
+<l>La rabuffata barba, in doppia lista</l>
+<l>Divisa cade, e 'l ventre, e 'l seno ingombra.</l>
+<l>Cotal già forse, e sì pensoso in vista</l>
+<l>Le quercie, e i Tassi sotto pallid' ombra</l>
+<l>Accolser Paulo; e per diserte rupi</l>
+<l>L' udiro Hinni cantar cinghiali, e lupi.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">94 (086)</add></head>
+<l>Schiera è con lui, che in lunghe vesti avvolte</l>
+<l>Portò le membra un tempo, e 'l capo rase;</l>
+<l>E chiuse celle, e tra le selve folte</l>
+<l>Contemplando habitò solinghe case.</l>
+<l>Questi cangiati studi han l' armi tolte,</l>
+<l>Come voce del Ciel lor persuase.</l>
+<l>Pochi hora sono, e già fur molti, e morto</l>
+<l>L' Ungaro ingiusto ha 'l rimanente a torto.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">95 (087)</add></head>
+<l>Né te Gusman dentro al pudico letto,</l>
+<l>Potuto ha ritener la sposa amata.</l>
+<l>Pianse, squarciò i bei crin, percosse il petto</l>
+<l>Per distornar la tua fatale andata.</l>
+<l>Dunque, dicea, crudel, più che 'l mio aspetto</l>
+<l>Del mar l' horrida faccia a te fia grata?</l>
+<l>Fian l' armi al braccio tuo più caro peso,</l>
+<l>Che 'l picciol figlio, a' dolci scherzi inteso?</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">96 (088)</add></head>
+<l>Regge costui l' Aragonesi schiere,</l>
+<l>E di sei mila fanti è capitano;</l>
+<l>Genti di corda i piè calzate, e nere</l>
+<l>Le chiome, e i volti, e di rapace mano:</l>
+<l>Che videro il Salone, e l' onde Hibere</l>
+<l>Gir mormorando per lo steril piano;</l>
+<l>E 'l mare, a cui Mallorca il nome diede,</l>
+<l>Mugghiar superbo, e far de' legni prede.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">97 (089)</add></head>
+<l>Con virtù pari appresso, e con maggiore</l>
+<l>Numero a doppio il bel Clotareo viene:</l>
+<l>Clotareo hor de la Francia illustre honore,</l>
+<l>E de la Francia allhor surgente spene:</l>
+<l>Giovinetto Regal, d' invitto core;</l>
+<l>Cui più d' altri Goffredo in pregio tiene;</l>
+<l>Et a lui caro è sì, che i suoi vassalli,</l>
+<l>Et i suoi mercenarii in cura dalli.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">98 (090)</add></head>
+<l>Di questi parte è Leuca, e nacque, e crebbe</l>
+<l>In Tullo e Nanzi, e ne' confini loro;</l>
+<l>Parte, che 'l Reno e l' Histro algente bebbe,</l>
+<l>Corse al ferro non men pronta, ch' a l' oro:</l>
+<l>Né le tiepide stuffe ad essi increbbe</l>
+<l>Lasciar, né i prandi, ove sì lieti foro;</l>
+<l>Ove mandando coronate attorno</l>
+<l>Le colme tazze, consumaro il giorno.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">99 (091)</add></head>
+<l>Ecco l' Italia segue, ecco il vessillo</l>
+<l>Con la mitra Real, con l' auree chiavi.</l>
+<l>Ecco da Pietro eletto il gran Camillo</l>
+<l>Move squadre d' acciar lucenti e gravi,</l>
+<l>Lieto, ch' a tanta impresa il ciel sortillo,</l>
+<l>Ove col sangue altrui le macchie lave</l>
+<l>Nostre, e di Roma, o degnamente almeno</l>
+<l>Apra cadendo a nobil morte il seno.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">100 (092)</add></head>
+<l>Gente non è, che stringa spada, o ruote</l>
+<l>Fionda, che d' agguagliar questi si vanti.</l>
+<l>Ristretti vanno, e intorno il ciel percuote</l>
+<l>Un horrido fragor d' arme sonanti.</l>
+<l>Pista geme la terra, e 'l tergo scuote</l>
+<l>Sotto il gran peso di cavalli e fanti.</l>
+<l>Lampeggia il ferro al sol, qual Tauro, o libra</l>
+<l>Lucente, e incontra lui suoi raggi vibra.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">101 (093)</add></head>
+<l>Guida costui non pur Sennoni, e Buoi,</l>
+<l>Piceni, e Thoschi, et Rutuli, e Sabini,</l>
+<l>E quei, che Roma, ne i gran colli tuoi</l>
+<l>Nudristi, e ne i bei campi a te vicini,</l>
+<l>Ma gli concede anchor Tancredi i suoi</l>
+<l>Brutij, Marsi, Peligni, e Salentini,</l>
+<l>E i Peuceti, e' Lucani, a cui famose</l>
+<l>Spiegò già Pesto l' odorate rose.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">102 (094)</add></head>
+<l>E quei, che la Sirena in sen nudrio,</l>
+<l>Nel molle sen di fior vago e di fronde;</l>
+<l>O 'l fumante Pozzuol là dove aprio</l>
+<l>Natura le sulfuree e tiepide onde;</l>
+<l>E chi lasciato ha il dolce aer natio</l>
+<l>Di Linterno, che l' ossa illustri asconde;</l>
+<l>E chi da carchi rami i frutti colse</l>
+<l>Nel bel Sorento, e i pesci in rete accolse.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">103 (095)</add></head>
+<l>A lui pur anco il glorioso conte</l>
+<l>Di Montefeltro i suoi guerrier concede;</l>
+<l>I suoi guerrier, cui la canuta fronte</l>
+<l>Del gran Padre Apennin ricetto diede,</l>
+<l>Là ' ve scendendo dal paterno fonte</l>
+<l>Drizza il Metauro a i liti d' Adria il piede,</l>
+<l>E l' uno, e l' altro nelle parti estreme</l>
+<l>Vien con gli erranti cavallieri insieme.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">104 (096)</add></head>
+<l>Di possenti cavalli, e di diverse</l>
+<l>Imprese adorna, e 'n lucide armi altiera</l>
+<l>Ultimamente al Capitan s' offerse</l>
+<l>De gli erranti guerrier la bella schiera.</l>
+<l>Né Simoenta mai, né Xanto scerse</l>
+<l>Sì magnanimi Heroi; né la primiera</l>
+<l>Nave mai tali al vello d' or gli addusse</l>
+<l>Perché Alcide tra quelli, o Theseo fusse.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">105 (097)</add></head>
+<l>Con questi alcun non va, cui palma, o lauro</l>
+<l>La vincitrice destra, e 'l crin non fregi;</l>
+<l>Alcun non va, che scosso il Perso, o 'l Mauro</l>
+<l>Non habbia, o 'l Turco de i maggior suoi pregi.</l>
+<l>Che potran contra questi il ferro, e l' auro,</l>
+<l>O pur gl' inganni de gli Egittij Regi?</l>
+<l>Speran tant' oltra andar vincendo a gara,</l>
+<l>Che lor del Nilo il capo ignoto appara.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">106 (098)</add></head>
+<l>Il coraggioso Otton de gli altri è Duce,</l>
+<l>Cui sovra l' Histro la vezzosa Flora</l>
+<l>Furtivamente, a la mondana luce</l>
+<l>Produsse a un Re commista humil pastora:</l>
+<l>E qual fuor de le nubi il sol traluce</l>
+<l>Sorgendo, e i crini a gli alti monti indora,</l>
+<l>Tal parve, ch' egli il suo valore aprisse</l>
+<l>Mentre in povero stato occulto visse.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">107 (099)</add></head>
+<l>Hor del Romano Re palese figlio</l>
+<l>Un feroce corsier saltando move.</l>
+<l>E 'n cima l' elmo scopre, e nel vermiglio</l>
+<l>Scudo, l' imperiale augel di Giove,</l>
+<l>Che presi i polli entro a l' adunco artiglio</l>
+<l>Al sol gli volge, e fa le certe prove,</l>
+<l>Credendo solo a la virtù del lume</l>
+<l>Più ch' a l' ugne, et al rostro, et a le piume.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">108 (100)</add></head>
+<l>Immerso in profondissimo pensiero</l>
+<l>Da lui Tancredi alquanto iva in disparte:</l>
+<l>Che nel suo petto Amor s' apre il sentiero</l>
+<l>Tra i santi affanni, e nel fervor di Marte.</l>
+<l>Il bel Tempio di Vesta è il suo cimiero,</l>
+<l>Ond' escon molte fiamme al cielo sparte.</l>
+<l>E scritto appar nel più sublime loco:</l>
+<l>Esca ognihor si rinova al mio gran foco.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">109 (101)</add></head>
+<l>Ornan lo scudo al Castigliano Hernando</l>
+<l>Cinque di Mori incoronati capi,</l>
+<l>De' suoi fatti memoria; et al Normando</l>
+<l>Roberto il pinge industre schiera d' api:</l>
+<l>Che par che vada in verde prato errando,</l>
+<l>Et in sua preda i più bei fior si capi.</l>
+<l>Et un leone ad una Quercia avvinto</l>
+<l>Ha nello scudo il Bonarel dipinto.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">110 (102)</add></head>
+<l>Ha Vincilao Rangon la bella conca,</l>
+<l>Onde Venere solca ignuda il mare.</l>
+<l>E in quatro parti una spezzata ronca</l>
+<l>Sovra l' elmetto di Currado appare:</l>
+<l>La destra a lui spietato ferro ha tronca;</l>
+<l>E sol può la sinistra in guerra oprare,</l>
+<l>E così l' opra ognihor, che i suoi nimici</l>
+<l>Prendon dal suo apparir sinistri auspici.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">111 (103)</add></head>
+<l>Con lor s' accoppia il Longobardo Astolfo</l>
+<l>E gli ondeggia sul capo azurra piuma.</l>
+<l>Etna ha costui, che da l' acceso solfo</l>
+<l>Vome faville incontra il cielo, e fuma.</l>
+<l>Porta Gonzaga un tempestoso golfo,</l>
+<l>Che tra gli scogli è rotto, e ferve, e fuma.</l>
+<l>Al Fiamingo Roberto horrida spiega</l>
+<l>Medusa i crini, e al collo i serpi lega.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">112 (104)</add></head>
+<l>Segue Ermiferro, e non ha 'l braccio carco</l>
+<l>Di scudo, né di spada adorna il fianco.</l>
+<l>Ma gli suonano a tergo i dardi e l' arco;</l>
+<l>E gli pende la mazza al lato manco.</l>
+<l>Di cimiero, e di piume ha l' elmo scarco</l>
+<l>Candide l' armi sono, e 'l destrier bianco</l>
+<l>E mostra anchora alta letitia in viso</l>
+<l>D' haver con man pietosa il frate ucciso.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">113 (105)</add></head>
+<l>Porta l' Orse il Visconte, a cui non lice</l>
+<l>Lavarsi i velli entro 'l marino sale;</l>
+<l>Nello scudo d' Arbante aurea Fenice</l>
+<l>Di purpura si fascia il capo, e l' ale.</l>
+<l>È in quel di Claramon pinta Euridice,</l>
+<l>A cui morde il talone aspe fatale:</l>
+<l>Nel cimier d' Eberardo apre le corna</l>
+<l>Dorate il tauro, e i piè di stelle adorna.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">114 (106)</add></head>
+<l>Gli è giunta al fianco la sua fida moglie,</l>
+<l>Che in atto militar se stessa doma.</l>
+<l>Animo altier, pietose e caste voglie,</l>
+<l>Quai non Atene mai vide né Roma:</l>
+<l>Che soffrio di lasciar l' usate spoglie</l>
+<l>E soffrio di lasciar la bella chioma</l>
+<l>Sol per lui non lasciar; e fessi audace</l>
+<l>Non men di Marte, che di lui seguace.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">115 (107)</add></head>
+<l>Con questi, e con molti altri insieme ir volle</l>
+<l>Il chiaro Ubaldo, che de gli Umbri è conte:</l>
+<l>Chiaro da l' orse insin dove più bolle</l>
+<l>La Libia, a i rai del fervido Fetonte:</l>
+<l>E sovra tutti alternamente estolle</l>
+<l>Le spalle, e 'l petto, e l' honorata fronte;</l>
+<l>E da tre mete d' or, purpurei lampi</l>
+<l>Sparge, e del cielo illustra i lieti campi.</l>
+</lg>
+<lg type="ottava">
+<head><add resp="ed">116 (108)</add></head>
+<l>Qual tauro, che se stesso in guerra accende</l>
+<l>Solingo errando ove più l' ira il mena,</l>
+<l>Su le gran corna d' adirarsi apprende,</l>
+<l>D' urtar possente, e di ferir con lena;</l>
+<l>Co' vani colpi irrita i venti, e fende</l>
+<l>Co' piè la terra, e spande al ciel l' arena;</l>
+<l>Salta, e mugge saltando, e già li sembra</l>
+<l>Con l' altrui piaghe insanguinar sue membra.</l>
+</lg>
+</div1>
+</body>
+</text>
+</TEI.2>

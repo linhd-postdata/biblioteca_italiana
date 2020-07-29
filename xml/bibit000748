@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Ah! troppo è ver</title>
+    </titleStmt>
+    <extent>11 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000748</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tre cantate per voci e strumenti</title>
+        <author>Stradella, Alessandro</author>
+        <editor id="ed">Gianturco, Carolyn</editor>
+        <editor id="ed2">Zolesi, Ilaria</editor>
+        <publisher>Laaber Verlag</publisher>
+        <pubPlace>Laaber</pubPlace>
+        <date>1997</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>600</date>
+    </creation>
+    <langUsage><language id="codice">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2001-10-10T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Chiara Comastri</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale in SGML</item>
+    </change>
+    <change>
+      <date>2003-06-23T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione - Conversione in XML e validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+<castList n="Personaggi">
+<castItem><role>Lucifero</role></castItem>
+<castItem><role>Angelo</role></castItem>
+<castItem><role>Maria Vergine</role></castItem>
+<castItem><role>San Gioseppe</role></castItem>
+<castItem><role>Pastore primo</role></castItem>
+<castItem><role>Pastore secondo</role></castItem>
+<castItem><role>Coro di Furie</role></castItem>
+</castList></front>
+<body>
+<div1 n="Ah! troppo è ver che sempre">
+<sp><speaker>LUCIFERO</speaker>
+<lg type="verso-libero">
+<l>Ah! troppo è ver che sempre,</l>
+<l>ad onta di <name>Satan</name>, s'aggiran gl'astri</l>
+<l>e con tiranne tempre</l>
+<l>scuotono a' danni miei fieri disastri!</l></lg>
+<lg type="strofa">
+	<l rend="indent" n="5">E sarà chi non s'accinga,</l>
+	<l>miei seguaci, alla vendetta</l>
+	<l>e con bellica saetta</l>
+	<l>contro il nemico Ciel l'odio non spinga?</l></lg>
+<lg type="verso-libero">
+<l>Sa versar nel mio core aspro veleno</l>
+<l n="10">un insolito suon d'eteree corde:</l>
+<l>con melodia concorde</l>
+<l>vibra all'orecchie mie dardi canori,</l>
+<l>– onde tem'io che dal superno regno,</l>
+<l>del <name>Padre</name> ad obedir l'ostil disegno</l>
+<l n="15">non scenda il <name>Figlio</name> a tormentarmi il seno –.</l>
+<l>Ite pronti a discior del vero i nodi</l>
+<l>e adoprate a mio pro l'armi e le frodi!</l></lg></sp>
+
+
+<sp><speaker>CORO DI FURIE</speaker>
+<lg type="strofa">
+	<l rend="indent">Al cenno orribile</l>
+	<l>del re dell'<name>Erebo</name></l>
+	<l n="20">corran le <name>Furie</name></l>
+	<l>e con terribile</l>
+	<l>valore intrepido</l>
+	<l>scaglino fulmini.</l></lg></sp>
+
+
+<sp><speaker>LUCIFERO</speaker>
+<lg type="verso-libero">
+<l>Ite a spiar del suol gl'antri più chiusi</l>
+<l n="25">e del fato i secreti or sian delusi.</l></lg></sp>
+
+
+<sp><speaker>ANGELO</speaker>
+<lg type="strofa">
+	<l rend="indent">Su pastori, alla gioia, al diletto</l>
+	<l>ogni petto disposto si renda</l>
+	<l>e risplenda tra vivi contenti,</l>
+	<l>or che, spenti di <name>Febo</name> gl'ardori</l>
+	<l n="30">fra i rigori d'un tetto gelato,</l>
+	<l>umanato risiede il <name>Sol</name> divino.</l></lg>
+
+
+<lg type="verso-libero">
+<l>Al celeste <name>Bambino</name>,</l>
+<l>che in albergo brutal scioglie i vagiti,</l>
+<l>con ossequi graditi</l>
+<l n="35">tributo d'umiltà porga il mortale</l>
+<l>e si palesi al mondo il gran <name>Natale</name>.</l></lg></sp>
+
+
+<sp><speaker>PASTORE SECONDO</speaker>
+	<lg type="strofa">
+	<l rend="indent">Qual alto concento</l>
+	<l>d'angelico accento</l>
+	<l>consiglia a gioir?</l>
+	<l rend="indent" n="40">Qual face stellante</l>
+	<l>di fausto sembiante</l>
+	<l>n'invita a seguir?</l></lg>
+
+
+<lg type="verso-libero">
+<l>Andiam là dove il fato</l>
+<l>ha dentro un vil tugurio il Ciel traslato</l>
+<l n="45">e in rustica magion cangia l'<name>Empiro</name>.</l>
+<l>Compagni, che miro?</l></lg></sp>
+
+
+<sp><speaker>MARIA VERGINE</speaker>
+<lg type="strofa">
+	<l rend="indent">Sovrano mio bene,</l>
+	<l>mia spene, mio cor,</l>
+	<l>quest'alma ch'in calma</l>
+	<l n="50">gioisce per te,</l>
+	<l>dal seno materno</l>
+	<l>l'interno suo amor</l>
+	<l>con piogge serene</l>
+	<l>riversa al tuo piè</l>
+	<l n="55">e con dovuto omaggio</l>
+	<l>dell'alba tua beata adora il raggio.</l></lg>
+
+
+<lg type="verso-libero">
+<l>Concedi ai falli umani ampio perdono</l>
+<l>e sia il mio priego intercessor del dono.</l></lg></sp>
+<sp><speaker>PASTORE PRIMO</speaker>
+<lg type="verso-libero">
+<l>Al riverito piede</l>
+<l n="60">del maestoso <name>Infante</name></l>
+<l>offriam d'affetto umil votiva fede,</l>
+<l>che dalle sacre piante</l>
+<l>del <name>Regnator dell'Etra</name></l>
+<l>supplicante desir mercede impetra.</l></lg>
+
+
+<lg type="strofa">
+	<l rend="indent" n="65">Deh, ricevi i nostri voti</l>
+	<l>che devoti</l>
+	<l>ti portiam, supremo <name>Nume</name>.</l>
+	<l>Né dal tuo provido lume</l>
+	<l>si permetta</l>
+	<l n="70">che negletta</l>
+	<l>di pastorale stuol sia la preghiera,</l>
+	<l>ma la tua benigna sfera</l>
+	<l>volga a noi</l>
+	<l>sempiterno il favor de' giri suoi.</l></lg></sp>
+
+
+<sp><speaker>SAN GIOSEPPE</speaker>
+<lg type="verso-libero">
+<l n="75">Del nostro amato figlio</l>
+<l>la propizia bontà</l>
+<l>l'infinita pietà,</l>
+<l>alle suppliche vostre inclina il ciglio</l>
+<l>e con prodiga sorte</l>
+<l n="80">dalla clemenza sua v'apre le porte.</l></lg></sp>
+
+
+<sp><speaker>CORO</speaker>
+	<lg type="strofa">
+	<l rend="indent">Or che luci sì belle</l>
+	<l>con fulgori soavi</l>
+	<l>trattan del Ciel le chiavi</l>
+	<l>e trionfan le stelle,</l>
+	<l n="85">non san coi lampi lor pugnar gli abissi,</l>
+	<l>ché soggetti non son gli astri all'ecclissi.</l></lg></sp></div1>
+
+</body></text>
+</TEI.2>

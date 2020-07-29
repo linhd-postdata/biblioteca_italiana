@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inni e Odi</title>
+            <author>Alessandro Manzoni</author>
+         </titleStmt>
+         <extent>36240 Kb in UTF-8</extent>
+         <publicationStmt>
+            <publisher>Biblioteca Italiana</publisher>
+            <pubPlace>Roma</pubPlace>
+            <date>2008</date>
+            <idno>bibit000695</idno>
+            <availability>
+               <p>Questa risorsa digitale è liberamente accessibile per uso
+                        personale o scientifico. Ogni uso commerciale è vietato</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Collezione BibIt</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Poesie e tragedie</title>
+               <author>Manzoni, Alessandro</author>
+               <editor id="ed">Boggione, Valter</editor>
+               <publisher>Utet</publisher>
+               <pubPlace>Torino</pubPlace>
+               <date>2002</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <samplingDecl>
+            <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                digitale</p>
+         </samplingDecl>
+         <editorialDecl>
+            <correction method="silent" status="medium">
+               <p>Livello medio: controllo a video con collazione con edizione di
+                        riferimento</p>
+            </correction>
+            <quotation form="data" marks="all">
+               <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+            </quotation>
+            <hyphenation eol="none">
+               <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+            </hyphenation>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy id="CGB">
+               <bibl>Classificazione generi BibIt</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date>800</date>
+         </creation>
+         <langUsage>
+            <language id="ita">Italiano</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="CGB">
+               <term>Poesia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>Data sconosciuta anteriore al 2000</date>
+            <respStmt>
+               <name>LIZ</name>
+            </respStmt>
+            <item>Digitalizzazione</item>
+         </change>
+         <change>
+            <date>Data sconosciuta anteriore al 2000</date>
+            <respStmt>
+               <name>LIZ</name>
+            </respStmt>
+            <item>Correzione linguistica</item>
+         </change>
+         <change>
+            <date>2003-12-09T00:00:00.000+01:00</date>
+            <respStmt>
+               <name>Marta Zanazzi</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Codifica XML - Codifica con software</item>
+         </change>
+         <change>
+            <date>2008-08-04T00:00:00.000+01:00</date>
+            <respStmt>
+               <name>Valeriano Fiori</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Codifica XML - Codifica manuale</item>
+         </change>
+         <change>
+            <date>2004-01-20T00:00:00.000+01:00</date>
+            <respStmt>
+               <name>Elena Pierazzo</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Validazione</item>
+         </change>
+         <change>
+            <date>2008-09-12T00:00:00.000+01:00</date>
+            <respStmt>
+               <name>Carla Deiana</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Validazione</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 n="Il Natale">
+            <head>IL NATALE</head>
+            <lg type="non-definito">
+               <lg>
+                  <l>Qual masso che dal vertice</l>
+                  <l>di lunga erta montana,</l>
+                  <l>abbandonato all'impeto</l>
+                  <l>di rumorosa frana,</l>
+                  <l>per lo scheggiato calle</l>
+                  <l>precipitando a valle,</l>
+                  <l>batte sul fondo e sta;</l>
+               </lg>
+               <lg>
+                  <l>là dove cadde, immobile</l>
+                  <l>giace in sua lenta mole;</l>
+                  <l>né, per mutar di secoli,</l>
+                  <l>fia che riveda il sole</l>
+                  <l>della sua cima antica,</l>
+                  <l>se una virtude amica</l>
+                  <l>in alto nol trarrà:</l>
+               </lg>
+               <lg>
+                  <l>tal si giaceva il misero</l>
+                  <l>figliol del fallo primo,</l>
+                  <l>dal dì che un'ineffabile</l>
+                  <l>ira promessa all'imo</l>
+                  <l>d'ogni malor gravollo,</l>
+                  <l>donde il superbo collo</l>
+                  <l>più non potea levar.</l>
+               </lg>
+               <lg>
+                  <l>Qual mai tra i nati all'odio,</l>
+                  <l>quale era mai persona</l>
+                  <l>che al Santo inaccessibile</l>
+                  <l>potesse dir: perdona?</l>
+                  <l>far novo patto eterno?</l>
+                  <l>al vincitore inferno</l>
+                  <l>la preda sua strappar?</l>
+               </lg>
+               <lg>
+                  <l>Ecco ci è nato un Pargolo,</l>
+                  <l>ci fu largito un Figlio:</l>
+                  <l>le avverse forze tremano</l>
+                  <l>al mover del suo ciglio:</l>
+                  <l>all'uom la mano Ei porge,</l>
+                  <l>che si ravviva, e sorge</l>
+                  <l>oltre l'antico onor.</l>
+               </lg>
+               <lg>
+                  <l>Dalle magioni eteree</l>
+                  <l>sgorga una fonte, e scende,</l>
+                  <l>e nel borron de' triboli</l>
+                  <l>vivida si distende:</l>
+                  <l>stillano mele i tronchi;</l>
+                  <l>dove copriano i bronchi,</l>
+                  <l>ivi germoglia il fior.</l>
+               </lg>
+               <lg>
+                  <l>O Figlio, o Tu cui genera</l>
+                  <l>l'Eterno, eterno seco;</l>
+                  <l>qual ti può dir de' secoli:</l>
+                  <l>Tu cominciasti meco?</l>
+                  <l>Tu sei: del vasto empiro</l>
+                  <l>non ti comprende il giro:</l>
+                  <l>la tua parola il fe'.</l>
+               </lg>
+               <lg>
+                  <l>E Tu degnasti assumere</l>
+                  <l>questa creata argilla?</l>
+                  <l>qual merto suo, qual grazia</l>
+                  <l>a tanto onor sortilla</l>
+                  <l>se in suo consiglio ascoso</l>
+                  <l>vince il perdon, pietoso</l>
+                  <l>immensamente Egli è.</l>
+               </lg>
+               <lg>
+                  <l>Oggi Egli è nato: ad Efrata,</l>
+                  <l>vaticinato ostello,</l>
+                  <l>ascese un'alma Vergine,</l>
+                  <l>la gloria d'Israello,</l>
+                  <l>grave di tal portato:</l>
+                  <l>da cui promise è nato,</l>
+                  <l>donde era atteso uscì.</l>
+               </lg>
+               <lg>
+                  <l>La mira Madre in poveri</l>
+                  <l>panni il Figliol compose,</l>
+                  <l>e nell'umil presepio</l>
+                  <l>soavemente il pose;</l>
+                  <l>e l'adorò: beata!</l>
+                  <l>innanzi al Dio prostrata,</l>
+                  <l>che il puro sen le aprì.</l>
+               </lg>
+               <lg>
+                  <l>L'Angel del cielo, agli uomini</l>
+                  <l>nunzio di tanta sorte,</l>
+                  <l>non de' potenti volgesi</l>
+                  <l>alle vegliate porte;</l>
+                  <l>ma tra i pastor devoti,</l>
+                  <l>al duro mondo ignoti,</l>
+                  <l>subito in luce appar.</l>
+               </lg>
+               <lg>
+                  <l>E intorno a lui per l'ampia</l>
+                  <l>notte calati a stuolo,</l>
+                  <l>mille celesti strinsero</l>
+                  <l>il fiammeggiante volo;</l>
+                  <l>e accesi in dolce zelo,</l>
+                  <l>come si canta in cielo,</l>
+                  <l>A Dio gloria cantar.</l>
+               </lg>
+               <lg>
+                  <l>L'allegro inno seguirono,</l>
+                  <l>tornando al firmamento:</l>
+                  <l>tra le varcate nuvole</l>
+                  <l>allontanossi, e lento</l>
+                  <l>il suon sacrato ascese,</l>
+                  <l>fin che più nulla intese</l>
+                  <l>la compagnia fedel.</l>
+               </lg>
+               <lg>
+                  <l>Senza indugiar, cercarono</l>
+                  <l>l'albergo poveretto</l>
+                  <l>que' fortunati, e videro,</l>
+                  <l>siccome a lor fu detto,</l>
+                  <l>videro in panni avvolto,</l>
+                  <l>in un presepe accolto,</l>
+                  <l>vagire il Re del Ciel.</l>
+               </lg>
+               <lg>
+                  <l>Dormi, o Fanciul; non piangere;</l>
+                  <l>dormi, o Fanciul celeste:</l>
+                  <l>sovra il tuo capo stridere</l>
+                  <l>non osin le tempeste,</l>
+                  <l>use sull'empia terra,</l>
+                  <l>come cavalli in guerra,</l>
+                  <l>correr davanti a Te.</l>
+               </lg>
+               <lg>
+                  <l>Dormi, o Celeste: i popoli</l>
+                  <l>chi nato sia non sanno;</l>
+                  <l>ma il dì verrà che nobile</l>
+                  <l>retaggio tuo saranno;</l>
+                  <l>che in quell'umil riposo,</l>
+                  <l>che nella polve ascoso,</l>
+                  <l>conosceranno il Re.</l>
+               </lg>
+            </lg>
+         </div1>
+         <div1 n="La Passione">
+            <head>LA PASSIONE</head>
+            <lg type="non-definito">
+               <lg>
+                  <l>O tementi dell'ira ventura,</l>
+                  <l>cheti e gravi oggi al tempio moviamo,</l>
+                  <l>come gente che pensi a sventura,</l>
+                  <l>che improvviso s'intese annunziar.</l>
+                  <l>Non s'aspetti di squilla il richiamo;</l>
+                  <l>nol concede il mestissimo rito:</l>
+                  <l>qual di donna che piange il marito,</l>
+                  <l>è la veste del vedovo altar.</l>
+               </lg>
+               <lg>
+                  <l>Cessan gl'inni e i misteri beati,</l>
+                  <l>tra cui scende, per mistica via,</l>
+                  <l>sotto l'ombra de' pani mutati,</l>
+                  <l>l'ostia viva di pace e d'amor.</l>
+                  <l>S'ode un carme: l'intento Isaia</l>
+                  <l>proferì questo sacro lamento,</l>
+                  <l>in quel dì che un divino spavento</l>
+                  <l>gli affannava il fatidico cor.</l>
+               </lg>
+               <lg>
+                  <l>Di chi parli, o Veggente di Giuda?</l>
+                  <l>Chi è costui che, davanti all'Eterno,</l>
+                  <l>spunterà come tallo da nuda</l>
+                  <l>terra, lunge da fonte vital?</l>
+                  <l>questo fiacco pasciuto di scherno,</l>
+                  <l>che la faccia si copre d'un velo,</l>
+                  <l>come fosse un percosso dal cielo,</l>
+                  <l>il novissimo d'ogni mortal?</l>
+               </lg>
+               <lg>
+                  <l>Egli è il Giusto che i vili han trafitto,</l>
+                  <l>ma tacente, ma senza tenzone;</l>
+                  <l>Egli è il Giusto; e di tutti il delitto</l>
+                  <l>il Signor sul suo capo versò.</l>
+                  <l>Egli è il santo, il predetto Sansone,</l>
+                  <l>che morendo francheggia Israele;</l>
+                  <l>che volente alla sposa infedele</l>
+                  <l>la fortissima chioma lasciò.</l>
+               </lg>
+               <lg>
+                  <l>Quei che siede sui cerchi divini,</l>
+                  <l>e d'Adamo si fece figliolo;</l>
+                  <l>né sdegnò coi fratelli tapini</l>
+                  <l>il funesto retaggio partir:</l>
+                  <l>volle l'onte, e nell'anima il duolo,</l>
+                  <l>e l'angosce di morte sentire,</l>
+                  <l>e il terror che seconda il fallire,</l>
+                  <l>Ei che mai non conobbe il fallir.</l>
+               </lg>
+               <lg>
+                  <l>La repulsa al suo prego sommesso,</l>
+                  <l>l'abbandono del Padre sostenne:</l>
+                  <l>oh spavento! l'orribile amplesso</l>
+                  <l>d'un amico spergiuro soffrì.</l>
+                  <l>Ma simile quell'alma divenne</l>
+                  <l>alla notte dell'uomo omicida:</l>
+                  <l>di quel Sangue sol ode le grida,</l>
+                  <l>e s'accorge che Sangue tradì.</l>
+               </lg>
+               <lg>
+                  <l>Oh spavento! lo stuol de' beffardi</l>
+                  <l>baldo insulta a quel volto divino,</l>
+                  <l>ove intender non osan gli sguardi</l>
+                  <l>gl'incolpabili figli del ciel.</l>
+                  <l>Come l'ebbro desidera il vino,</l>
+                  <l>nell'offese quell'odio s'irrita;</l>
+                  <l>e al maggior dei delitti gl'incita</l>
+                  <l>del delitto la gioia crudel.</l>
+               </lg>
+               <lg>
+                  <l>Ma chi fosse quel tacito reo,</l>
+                  <l>che davanti al suo seggio profano</l>
+                  <l>strascinava il protervo Giudeo,</l>
+                  <l>come vittima innanzi a l'altar,</l>
+                  <l>non lo seppe il superbo Romano;</l>
+                  <l>ma fe' stima il deliro potente,</l>
+                  <l>che giovasse col sangue innocente</l>
+                  <l>la sua vil sicurtade comprar.</l>
+               </lg>
+               <lg>
+                  <l>Su nel cielo in sua doglia raccolto</l>
+                  <l>giunse il suono d'un prego esecrato:</l>
+                  <l>i celesti copersero il volto:</l>
+                  <l>disse Iddio: Qual chiedete sarà.</l>
+                  <l>E quel Sangue dai padri imprecato</l>
+                  <l>sulla misera prole ancor cade,</l>
+                  <l>che mutata d'etade in etade,</l>
+                  <l>scosso ancor dal suo capo non l'ha.</l>
+               </lg>
+               <lg>
+                  <l>Ecco appena sul letto nefando</l>
+                  <l>quell'Afflitto depose la fronte,</l>
+                  <l>e un altissimo grido levando,</l>
+                  <l>il supremo sospiro mandò:</l>
+                  <l>gli uccisori esultanti sul monte</l>
+                  <l>di Dio l'ira già grande minaccia;</l>
+                  <l>già dall'ardue vedette s'affaccia,</l>
+                  <l>quasi accenni: Tra poco verrò.</l>
+               </lg>
+               <lg>
+                  <l>O gran Padre! per Lui che s'immola,</l>
+                  <l>cessi alfine quell'ira tremenda;</l>
+                  <l>e de' ciechi l'insana parola</l>
+                  <l>volgi in meglio, pietoso Signor.</l>
+                  <l>Sì, quel Sangue sovr'essi discenda;</l>
+                  <l>ma sia pioggia di mite lavacro:</l>
+                  <l>tutti errammo; di tutti quel sacro-</l>
+                  <l>santo Sangue cancelli l'error.</l>
+               </lg>
+               <lg>
+                  <l>E tu, Madre, che immota vedesti</l>
+                  <l>un tal Figlio morir sulla croce,</l>
+                  <l>per noi prega, o regina de' mesti,</l>
+                  <l>che il possiamo in sua gloria veder;</l>
+                  <l>che i dolori, onde il secolo atroce</l>
+                  <l>fa de' boni più tristo l'esiglio,</l>
+                  <l>misti al santo patir del tuo Figlio,</l>
+                  <l>ci sian pegno d'eterno goder.</l>
+               </lg>
+            </lg>
+         </div1>
+         <div1 n="La Risurrezione">
+            <head>LA RISURREZIONE</head>
+            <lg type="ottonari">
+               <lg>
+                  <l>È risorto: or come a morte</l>
+                  <l>la sua preda fu ritolta?</l>
+                  <l>come ha vinte l'atre porte,</l>
+                  <l>come è salvo un'altra volta</l>
+                  <l>Quei che giacque in forza altrui?</l>
+                  <l>Io lo giuro per Colui</l>
+                  <l>che da' morti il suscitò,</l>
+               </lg>
+               <lg>
+                  <l>è risorto: il capo santo</l>
+                  <l>più non posa nel sudario;</l>
+                  <l>è risorto: dall'un canto</l>
+                  <l>dell'avello solitario</l>
+                  <l>sta il coperchio rovesciato:</l>
+                  <l>come un forte inebbriato</l>
+                  <l>il Signor si risvegliò.</l>
+               </lg>
+               <lg>
+                  <l>Come a mezzo del cammino,</l>
+                  <l>riposato alla foresta,</l>
+                  <l>si risente il pellegrino,</l>
+                  <l>e si scote dalla testa</l>
+                  <l>una foglia inaridita,</l>
+                  <l>che dal ramo dipartita,</l>
+                  <l>lenta lenta vi risté:</l>
+               </lg>
+               <lg>
+                  <l>tale il marmo inoperoso,</l>
+                  <l>che premea l'arca scavata,</l>
+                  <l>gittò via quel Vigoroso,</l>
+                  <l>quando l'anima tornata</l>
+                  <l>dalla squallida vallea,</l>
+                  <l>al Divino che tacea:</l>
+                  <l>Sorgi, disse, io son con Te.</l>
+               </lg>
+               <lg>
+                  <l>Che parola si diffuse</l>
+                  <l>tra i sopiti d'Israele!</l>
+                  <l>Il Signor le porte ha schiuse!</l>
+                  <l>il Signor, l'Emmanuele!</l>
+                  <l>O sopiti in aspettando,</l>
+                  <l>è finito il vostro bando:</l>
+                  <l>Egli è desso, il Redentor.</l>
+               </lg>
+               <lg>
+                  <l>Pria di Lui nel regno eterno</l>
+                  <l>che mortal sarebbe asceso?</l>
+                  <l>A rapirvi al muto inferno,</l>
+                  <l>vecchi padri, Egli è disceso:</l>
+                  <l>il sospir del tempo antico,</l>
+                  <l>il terror dell'inimico,</l>
+                  <l>il promesso Vincitor.</l>
+               </lg>
+               <lg>
+                  <l>Ai mirabili Veggenti,</l>
+                  <l>che narrarono il futuro,</l>
+                  <l>come il padre ai figli intenti</l>
+                  <l>narra i casi che già furo,</l>
+                  <l>si mostrò quel sommo Sole</l>
+                  <l>che, parlando in lor parole,</l>
+                  <l>alla terra Iddio giurò;</l>
+               </lg>
+               <lg>
+                  <l>quando Aggeo, quando Isaia</l>
+                  <l>mallevaro al mondo intero</l>
+                  <l>che il Bramato un dì verria;</l>
+                  <l>quando assorto in suo pensiero,</l>
+                  <l>lesse i giorni numerati,</l>
+                  <l>e degli anni ancor non nati</l>
+                  <l>Daniel si ricordò.</l>
+               </lg>
+               <lg>
+                  <l>Era l'alba; e molli il viso,</l>
+                  <l>Maddalena e l'altre donne</l>
+                  <l>fean lamento sull'Ucciso;</l>
+                  <l>ecco tutta di Sionne</l>
+                  <l>si commosse la pendice,</l>
+                  <l>e la scolta insultatrice</l>
+                  <l>di spavento tramortì.</l>
+               </lg>
+               <lg>
+                  <l>Un estranio giovinetto</l>
+                  <l>si posò sul monumento:</l>
+                  <l>era folgore l'aspetto,</l>
+                  <l>era neve il vestimento:</l>
+                  <l>alla mesta che 'l richiese</l>
+                  <l>diè risposta quel cortese:</l>
+                  <l>È risorto; non è qui.</l>
+               </lg>
+               <lg>
+                  <l>Via co' palii disadorni</l>
+                  <l>lo squallor della viola:</l>
+                  <l>l'oro usato a splender torni:</l>
+                  <l>sacerdote, in bianca stola,</l>
+                  <l>esci ai grandi ministeri,</l>
+                  <l>tra la luce de' doppieri,</l>
+                  <l>il Risorto ad annunziar.</l>
+               </lg>
+               <lg>
+                  <l>Dall'altar si mosse un grido:</l>
+                  <l>Godi, o Donna alma del cielo;</l>
+                  <l>godi; il Dio cui fosti nido</l>
+                  <l>a vestirsi il nostro velo,</l>
+                  <l>è risorto, come il disse:</l>
+                  <l>per noi prega: Egli prescrisse,</l>
+                  <l>che sia legge il tuo pregar.</l>
+               </lg>
+               <lg>
+                  <l>O fratelli, il santo rito</l>
+                  <l>sol di gaudio oggi ragiona;</l>
+                  <l>oggi è giorno di convito;</l>
+                  <l>oggi esulta ogni persona:</l>
+                  <l>non è madre che sia schiva</l>
+                  <l>della spoglia più festiva</l>
+                  <l>i suoi bamboli vestir.</l>
+               </lg>
+               <lg>
+                  <l>Sia frugal del ricco il pasto;</l>
+                  <l>ogni mensa abbia i suoi doni;</l>
+                  <l>e il tesor negato al fasto</l>
+                  <l>di superbe imbandigioni,</l>
+                  <l>scorra amico all'umil tetto,</l>
+                  <l>faccia il desco poveretto</l>
+                  <l>più ridente oggi apparir.</l>
+               </lg>
+               <lg>
+                  <l>Lunge il grido e la tempesta</l>
+                  <l>de' tripudi inverecondi:</l>
+                  <l>l'allegrezza non è questa</l>
+                  <l>di che i giusti son giocondi;</l>
+                  <l>ma pacata in suo contegno,</l>
+                  <l>ma celeste, come segno</l>
+                  <l>della gioia che verrà.</l>
+               </lg>
+               <lg>
+                  <l>Oh beati! a lor più bello</l>
+                  <l>spunta il sol de' giorni santi;</l>
+                  <l>ma che fia di chi rubello</l>
+                  <l>torse, ahi stolto! i passi erranti</l>
+                  <l>nel sentier che a morte guida?</l>
+                  <l>Nel Signor chi si confida</l>
+                  <l>col Signor risorgerà.</l>
+               </lg>
+            </lg>
+         </div1>
+         <div1 n="La Pentecoste">
+            <head>LA PENTECOSTE</head>
+            <lg type="non-definito">
+               <lg>
+                  <l>Madre de' Santi; immagine</l>
+                  <l>della città superna;</l>
+                  <l>del Sangue incorruttibile</l>
+                  <l>conservatrice eterna;</l>
+                  <l>tu che, da tanti secoli,</l>
+                  <l>soffri, combatti e preghi;</l>
+                  <l>che le tue tende spieghi</l>
+                  <l>dall'uno all'altro mar;</l>
+               </lg>
+               <lg>
+                  <l>campo di quei che sperano;</l>
+                  <l>Chiesa del Dio vivente;</l>
+                  <l>dov'eri mai? qual angolo</l>
+                  <l>ti raccogliea nascente,</l>
+                  <l>quando il tuo Re, dai perfidi</l>
+                  <l>tratto a morir sul colle,</l>
+                  <l>imporporò le zolle</l>
+                  <l>del suo sublime altar?</l>
+               </lg>
+               <lg>
+                  <l>E allor che dalle tenebre</l>
+                  <l>la diva spoglia uscita,</l>
+                  <l>mise il potente anelito</l>
+                  <l>della seconda vita;</l>
+                  <l>e quando, in man recandosi</l>
+                  <l>il prezzo del perdono,</l>
+                  <l>da questa polve al trono</l>
+                  <l>del Genitor salì;</l>
+               </lg>
+               <lg>
+                  <l>compagna del suo gemito,</l>
+                  <l>conscia de' suoi misteri,</l>
+                  <l>tu, della sua vittoria</l>
+                  <l>figlia immortal, dov'eri?</l>
+                  <l>In tuo terror sol vigile,</l>
+                  <l>sol nell'obblio secura,</l>
+                  <l>stavi in riposte mura,</l>
+                  <l>fino a quel sacro dì,</l>
+               </lg>
+               <lg>
+                  <l>quando su te lo Spirito</l>
+                  <l>rinnovator discese,</l>
+                  <l>e l'inconsunta fiaccola</l>
+                  <l>nella tua destra accese;</l>
+                  <l>quando, segnal de' popoli,</l>
+                  <l>ti collocò sul monte,</l>
+                  <l>e ne' tuoi labbri il fonte</l>
+                  <l>della parola aprì.</l>
+               </lg>
+               <lg>
+                  <l>Come la luce rapida</l>
+                  <l>piove di cosa in cosa,</l>
+                  <l>e i color vari suscita</l>
+                  <l>dovunque si riposa;</l>
+                  <l>tal risonò moltiplice</l>
+                  <l>la voce dello Spiro:</l>
+                  <l>l'Arabo, il Parto, il Siro</l>
+                  <l>in suo sermon l'udì.</l>
+               </lg>
+               <lg>
+                  <l>Adorator degl'idoli,</l>
+                  <l>sparso per ogni lido,</l>
+                  <l>volgi lo sguardo a Solima,</l>
+                  <l>odi quel santo grido:</l>
+                  <l>stanca del vile ossequio,</l>
+                  <l>la terra a LUI ritorni:</l>
+                  <l>e voi che aprite i giorni</l>
+                  <l>di più felice età,</l>
+               </lg>
+               <lg>
+                  <l>spose che desta il subito</l>
+                  <l>balzar del pondo ascoso;</l>
+                  <l>voi già vicine a sciogliere</l>
+                  <l>il grembo doloroso;</l>
+                  <l>alla bugiarda pronuba</l>
+                  <l>non sollevate il canto:</l>
+                  <l>cresce serbato al Santo</l>
+                  <l>quel che nel sen vi sta.</l>
+               </lg>
+               <lg>
+                  <l>Perché, baciando i pargoli,</l>
+                  <l>la schiava ancor sospira?</l>
+                  <l>e il sen che nutre i liberi</l>
+                  <l>invidiando mira?</l>
+                  <l>non sa che al regno i miseri</l>
+                  <l>seco il Signor solleva?</l>
+                  <l>che a tutti i figli d'Eva</l>
+                  <l>nel suo dolor pensò?</l>
+               </lg>
+               <lg>
+                  <l>Nova franchigia annunziano</l>
+                  <l>i cieli, e genti nove;</l>
+                  <l>nove conquiste, e gloria</l>
+                  <l>vinta in più belle prove;</l>
+                  <l>nova, ai terrori immobile</l>
+                  <l>e alle lusinghe infide,</l>
+                  <l>pace, che il mondo irride,</l>
+                  <l>ma che rapir non può.</l>
+               </lg>
+               <lg>
+                  <l>O Spirto! supplichevoli</l>
+                  <l>a' tuoi solenni altari;</l>
+                  <l>soli per selve inospite;</l>
+                  <l>vaghi in deserti mari;</l>
+                  <l>dall'Ande algenti al Libano,</l>
+                  <l>d'Erina all'irta Haiti,</l>
+                  <l>sparsi per tutti i liti,</l>
+                  <l>uni per Te di cor.</l>
+               </lg>
+               <lg>
+                  <l>Noi T'imploriam! Placabile</l>
+                  <l>Spirto discendi ancora,</l>
+                  <l>a' tuoi cultor propizio,</l>
+                  <l>propizio a chi T'ignora;</l>
+                  <l>scendi e ricrea; rianima</l>
+                  <l>i cor nel dubbio estinti;</l>
+                  <l>e sia divina ai vinti</l>
+                  <l>mercede il vincitor.</l>
+               </lg>
+               <lg>
+                  <l>Discendi Amor; negli animi</l>
+                  <l>l'ire superbe attuta:</l>
+                  <l>dona i pensier che il memore</l>
+                  <l>ultimo dì non muta:</l>
+                  <l>i doni tuoi benefica</l>
+                  <l>nutra la tua virtude;</l>
+                  <l>siccome il sol che schiude</l>
+                  <l>dal pigro germe il fior;</l>
+               </lg>
+               <lg>
+                  <l>che lento poi sull'umili</l>
+                  <l>erbe morrà non colto,</l>
+                  <l>né sorgerà coi fulgidi</l>
+                  <l>color del lembo sciolto,</l>
+                  <l>se fuso a lui nell'etere</l>
+                  <l>non tornerà quel mite</l>
+                  <l>lume, dator di vite,</l>
+                  <l>e infaticato altor.</l>
+               </lg>
+               <lg>
+                  <l>Noi T'imploriam! Ne' languidi</l>
+                  <l>pensier dell'infelice</l>
+                  <l>scendi piacevol alito,</l>
+                  <l>aura consolatrice:</l>
+                  <l>scendi bufera ai tumidi</l>
+                  <l>pensier del violento;</l>
+                  <l>vi spira uno sgomento</l>
+                  <l>che insegni la pietà.</l>
+               </lg>
+               <lg>
+                  <l>Per Te sollevi il povero</l>
+                  <l>al ciel, ch'è suo, le ciglia,</l>
+                  <l>volga i lamenti in giubilo,</l>
+                  <l>pensando a cui somiglia:</l>
+                  <l>cui fu donato in copia,</l>
+                  <l>doni con volto amico,</l>
+                  <l>con quel tacer pudico,</l>
+                  <l>che accetto il don ti fa.</l>
+               </lg>
+               <lg>
+                  <l>Spira de' nostri bamboli</l>
+                  <l>nell'ineffabil riso;</l>
+                  <l>spargi la casta porpora</l>
+                  <l>alle donzelle in viso;</l>
+                  <l>manda alle ascose vergini</l>
+                  <l>le pure gioie ascose;</l>
+                  <l>consacra delle spose</l>
+                  <l>il verecondo amor.</l>
+               </lg>
+               <lg>
+                  <l>Tempra de' baldi giovani</l>
+                  <l>il confidente ingegno;</l>
+                  <l>reggi il viril proposito</l>
+                  <l>ad infallibil segno;</l>
+                  <l>adorna la canizie</l>
+                  <l>di liete voglie sante;</l>
+                  <l>brilla nel guardo errante</l>
+                  <l>di chi sperando muor.</l>
+               </lg>
+            </lg>
+         </div1>
+         <div1 n="Il nome di Maria">
+            <head>IL NOME DI MARIA</head>
+            <lg type="non-definito">
+               <lg>
+                  <l>Tacita un giorno a non so qual pendice</l>
+                  <l>salia d'un fabbro nazaren la sposa;</l>
+                  <l>salia non vista alla magion felice</l>
+                  <l>d'una pregnante annosa;</l>
+               </lg>
+               <lg>
+                  <l>e detto salve a lei, che in reverenti</l>
+                  <l>accoglienze onorò l'inaspettata,</l>
+                  <l>Dio lodando, sclamò: Tutte le genti</l>
+                  <l>mi chiameran beata.</l>
+               </lg>
+               <lg>
+                  <l>Deh! con che scherno udito avria i lontani</l>
+                  <l>presagi allor l'età superba! Oh tardo</l>
+                  <l>nostro consiglio! oh degl'intenti umani</l>
+                  <l>antiveder bugiardo!</l>
+               </lg>
+               <lg>
+                  <l>Noi testimoni che alla tua parola</l>
+                  <l>ubbidiente l'avvenir rispose,</l>
+                  <l>noi serbati all'amor, nati alla scola</l>
+                  <l>delle celesti cose,</l>
+               </lg>
+               <lg>
+                  <l>noi sappiamo, o Maria, ch'Ei solo attenne</l>
+                  <l>l'alta promessa che da Te s'udìa,</l>
+                  <l>Ei che in cor la ti pose: a noi solenne</l>
+                  <l>è il nome tuo, Maria.</l>
+               </lg>
+               <lg>
+                  <l>A noi Madre di Dio quel nome sona:</l>
+                  <l>Salve beata! che s'agguagli ad esso</l>
+                  <l>qual fu mai nome di mortal persona,</l>
+                  <l>o che gli vegna appresso?</l>
+               </lg>
+               <lg>
+                  <l>Salve beata! in quale età scortese</l>
+                  <l>quel sì caro a ridir nome si tacque?</l>
+                  <l>in qual dal padre il figlio non l'apprese?</l>
+                  <l>quai monti mai, quali acque</l>
+               </lg>
+               <lg>
+                  <l>non l'udiro invocar? La terra antica</l>
+                  <l>non porta sola i templi tuoi, ma quella</l>
+                  <l>che il Genovese divinò, nutrica</l>
+                  <l>i tuoi cultori anch'ella.</l>
+               </lg>
+               <lg>
+                  <l>In che lande selvagge, oltre quei mari</l>
+                  <l>di sì barbaro nome fior si coglie,</l>
+                  <l>che non conosca de' tuoi miti altari</l>
+                  <l>le benedette soglie?</l>
+               </lg>
+               <lg>
+                  <l>o Vergine, o Signora, o Tuttasanta,</l>
+                  <l>che bei nomi ti serba ogni loquela!</l>
+                  <l>Più d'un popol superbo esser si vanta</l>
+                  <l>in tua gentil tutela.</l>
+               </lg>
+               <lg>
+                  <l>Te, quando sorge, e quando cade il die,</l>
+                  <l>e quando il sole a mezzo corso il parte,</l>
+                  <l>saluta il bronzo che le turbe pie</l>
+                  <l>invita ad onorarte.</l>
+               </lg>
+               <lg>
+                  <l>Nelle paure della veglia bruna,</l>
+                  <l>Te noma il fanciulletto; a Te, tremante,</l>
+                  <l>quando ingrossa ruggendo la fortuna,</l>
+                  <l>ricorre il navigante.</l>
+               </lg>
+               <lg>
+                  <l>La femminetta nel tuo sen regale</l>
+                  <l>la sua spregiata lacrima depone,</l>
+                  <l>e a Te, beata, della sua immortale</l>
+                  <l>alma gli affanni espone;</l>
+               </lg>
+               <lg>
+                  <l>a Te che i preghi ascolti e le querele,</l>
+                  <l>non come suole il mondo, né degl'imi</l>
+                  <l>e de' grandi il dolor col suo crudele</l>
+                  <l>discernimento estimi.</l>
+               </lg>
+               <lg>
+                  <l>Tu pur, beata, un dì provasti il pianto;</l>
+                  <l>né il dì verrà che d'oblianza il copra:</l>
+                  <l>anco ogni giorno se ne parla; e tanto</l>
+                  <l>secol vi corse sopra.</l>
+               </lg>
+               <lg>
+                  <l>Anco ogni giorno se ne parla e plora</l>
+                  <l>in mille parti; d'ogni tuo contento</l>
+                  <l>teco la terra si rallegra ancora,</l>
+                  <l>come di fresco evento.</l>
+               </lg>
+               <lg>
+                  <l>Tanto d'ogni laudato esser la prima</l>
+                  <l>di Dio la Madre ancor quaggiù dovea;</l>
+                  <l>tanto piacque al Signor di porre in cima</l>
+                  <l>questa fanciulla ebrea.</l>
+               </lg>
+               <lg>
+                  <l>O prole d'Israello, o nell'estremo</l>
+                  <l>caduta, o da sì lunga ira contrita,</l>
+                  <l>non è Costei che in onor tanto avemo,</l>
+                  <l>di vostra fede uscita?</l>
+               </lg>
+               <lg>
+                  <l>Non è Davidde il ceppo suo? Con Lei</l>
+                  <l>era il pensier de' vostri antiqui vati,</l>
+                  <l>quando annunziaro i verginal trofei</l>
+                  <l>sopra l'inferno alzati.</l>
+               </lg>
+               <lg>
+                  <l>Deh! a Lei volgete finalmente i preghi,</l>
+                  <l>ch'Ella vi salvi, Ella che salva i suoi;</l>
+                  <l>e non sia gente né tribù che neghi</l>
+                  <l>lieta cantar con noi:</l>
+               </lg>
+               <lg>
+                  <l>Salve, o degnata del secondo nome</l>
+                  <l>o Rosa, o Stella ai periglianti scampo,</l>
+                  <l>inclita come il sol, terribil come</l>
+                  <l>oste schierata in campo.</l>
+               </lg>
+            </lg>
+         </div1>
+         <div1 n="Strofe per una prima comunione">
+            <head>STROFE PER UNA PRIMA COMUNIONE</head>
+            <lg type="non-definito">
+               <head>PRIMA DELLA MESSA.</head>
+               <l>Sì, Tu scendi ancor dal cielo;</l>
+               <l>sì, Tu vivi ancor tra noi;</l>
+               <l>solo appar, non è, quel velo:</l>
+               <l>Tu l'hai detto; il credo, il so;</l>
+               <l>come so che tutto puoi,</l>
+               <l>che ami ognora i tuoi redenti,</l>
+               <l>che s'addicono i portenti</l>
+               <l>a un amor che tutto può.</l>
+            </lg>
+            <lg type="non-definito">
+               <head>ALL'OFFERTORIO.</head>
+               <lg>
+                  <l>Chi dell'erbe lo stelo compose?</l>
+                  <l>chi ne trasse la spiga fiorita?</l>
+                  <l>chi nel tralcio fe' scorrer la vita?</l>
+                  <l>chi v'ascose - dell'uve il tesor?</l>
+                  <l>Tu, quel Grande, quel Santo, quel Bono,</l>
+                  <l>che or qual dono - il tuo dono riprendi;</l>
+                  <l>Tu, che in cambio, qual cambio! ci rendi</l>
+                  <l>il tuo Corpo, il tuo Sangue, o Signor.</l>
+               </lg>
+               <lg>
+                  <l>Anche i cor che T'offriamo son tuoi:</l>
+                  <l>ah! il tuo dono fu guasto da noi;</l>
+                  <l>ma quell'alta Bontà che li fea,</l>
+                  <l>li riceva quai sono, a mercé;</l>
+                  <l>e vi spiri, col soffio che crea,</l>
+                  <l>quella fede che passa ogni velo,</l>
+                  <l>quella speme che more nel cielo,</l>
+                  <l>quell'amor che s'eterna con Te.</l>
+               </lg>
+            </lg>
+            <lg type="non-definito">
+               <head>ALLA CONSACRAZIONE.</head>
+               <l>Ostia umìl, Sangue innocente;</l>
+               <l>Dio presente, – Dio nascoso;</l>
+               <l>Figlio d'Eva, eterno Re!</l>
+               <l>china il guardo, Iddio pietoso,</l>
+               <l>a una polve che Ti sente,</l>
+               <l>che si perde innanzi a Te.</l>
+            </lg>
+            <lg type="non-definito">
+               <head>PRIMA DELLA COMUNIONE.</head>
+               <l>Questo terror divino,</l>
+               <l>questo segreto ardor,</l>
+               <l>è che mi sei vicino,</l>
+               <l>è l'aura tua, Signor!</l>
+               <l>Sospir dell'alma mia,</l>
+               <l>Sposo, Signor, che fia</l>
+               <l>nel tuo superno amplesso!</l>
+               <l>quando di Te Tu stesso</l>
+               <l>mi parlerai nel cor!</l>
+            </lg>
+            <lg type="non-definito">
+               <head>ALLA COMUNIONE.</head>
+               <l>Con che fidente affetto</l>
+               <l>vengo al tuo santo trono,</l>
+               <l>m'atterro al tuo cospetto,</l>
+               <l>mio Giudice, mio Re!</l>
+               <l>con che ineffabil gaudio</l>
+               <l>tremo dinanzi a Te!</l>
+               <l>Cenere e colpa io sono:</l>
+               <l>ma vedi Chi T'implora,</l>
+               <l>Chi vuole il tuo perdono,</l>
+               <l>Chi merita, Chi adora,</l>
+               <l>Chi rende grazie in me.</l>
+            </lg>
+            <lg type="non-definito">
+               <head>DOPO LA COMUNIONE.</head>
+               <l>Sei mio; con Te respiro:</l>
+               <l>vivo di Te, gran Dio!</l>
+               <l>Confuso a Te col mio</l>
+               <l>offro il tuo stesso amor.</l>
+               <l>Empi ogni mio desiro;</l>
+               <l>parla, ché tutto intende;</l>
+               <l>dona, ché tutto attende,</l>
+               <l>quando T'alberga, un cor.</l>
+            </lg>
+         </div1>
+         <div1 n="Il cinque maggio">
+            <head>IL CINQUE MAGGIO</head>
+            <argument>
+               <p>ODE</p>
+            </argument>
+            <lg type="non-definito">
+               <lg>
+                  <l>Ei fu. Siccome immobile,</l>
+                  <l>dato il mortal sospiro,</l>
+                  <l>stette la spoglia immemore</l>
+                  <l>orba di tanto spiro,</l>
+                  <l>così percossa, attonita</l>
+                  <l>la terra al nunzio sta,</l>
+               </lg>
+               <lg>
+                  <l>muta pensando all'ultima</l>
+                  <l>ora dell'uom fatale;</l>
+                  <l>né sa quando una simile</l>
+                  <l>orma di piè mortale</l>
+                  <l>la sua cruenta polvere</l>
+                  <l>a calpestar verrà.</l>
+               </lg>
+               <lg>
+                  <l>Lui folgorante in solio</l>
+                  <l>vide il mio genio e tacque;</l>
+                  <l>quando, con vece assidua,</l>
+                  <l>cadde, risorse e giacque,</l>
+                  <l>di mille voci al sonito</l>
+                  <l>mista la sua non ha:</l>
+               </lg>
+               <lg>
+                  <l>vergin di servo encomio</l>
+                  <l>e di codardo oltraggio,</l>
+                  <l>sorge or commosso al subito</l>
+                  <l>sparir di tanto raggio;</l>
+                  <l>e scioglie all'urna un cantico</l>
+                  <l>che forse non morrà.</l>
+               </lg>
+               <lg>
+                  <l>Dall'Alpi alle Piramidi,</l>
+                  <l>dal Manzanarre al Reno,</l>
+                  <l>di quel securo il fulmine</l>
+                  <l>tenea dietro al baleno;</l>
+                  <l>scoppiò da Scilla al Tanai,</l>
+                  <l>dall'uno all'altro mar.</l>
+               </lg>
+               <lg>
+                  <l>Fu vera gloria? Ai posteri</l>
+                  <l>l'ardua sentenza; nui</l>
+                  <l>chiniam la fronte al Massimo</l>
+                  <l>Fattor, che volle in lui</l>
+                  <l>del creator suo spirito</l>
+                  <l>più vasta orma stampar.</l>
+               </lg>
+               <lg>
+                  <l>La procellosa e trepida</l>
+                  <l>gioia d'un gran disegno,</l>
+                  <l>l'ansia d'un cor che indocile</l>
+                  <l>serve, pensando al regno;</l>
+                  <l>e il giunge, e tiene un premio</l>
+                  <l>ch'era follia sperar;</l>
+               </lg>
+               <lg>
+                  <l>tutto ei provò: la gloria</l>
+                  <l>maggior dopo il periglio,</l>
+                  <l>la fuga e la vittoria,</l>
+                  <l>la reggia e il tristo esiglio:</l>
+                  <l>due volte nella polvere,</l>
+                  <l>due volte sull'altar.</l>
+               </lg>
+               <lg>
+                  <l>Ei si nomò: due secoli,</l>
+                  <l>l'un contro l'altro armato,</l>
+                  <l>sommessi a lui si volsero,</l>
+                  <l>come aspettando il fato;</l>
+                  <l>ei fe' silenzio, ed arbitro</l>
+                  <l>s'assise in mezzo a lor.</l>
+               </lg>
+               <lg>
+                  <l>E sparve, e i dì nell'ozio</l>
+                  <l>chiuse in sì breve sponda,</l>
+                  <l>segno d'immensa invidia</l>
+                  <l>e di pietà profonda,</l>
+                  <l>d'inestinguibil odio</l>
+                  <l>e d'indomato amor.</l>
+               </lg>
+               <lg>
+                  <l>Come sul capo al naufrago</l>
+                  <l>l'onda s'avvolve e pesa,</l>
+                  <l>l'onda su cui del misero,</l>
+                  <l>alta pur dianzi e tesa,</l>
+                  <l>scorrea la vista a scernere</l>
+                  <l>prode remote invan;</l>
+               </lg>
+               <lg>
+                  <l>tal su quell'alma il cumulo</l>
+                  <l>delle memorie scese!</l>
+                  <l>Oh quante volte ai posteri</l>
+                  <l>narrar sé stesso imprese,</l>
+                  <l>e sull'eterne pagine</l>
+                  <l>cadde la stanca man!</l>
+               </lg>
+               <lg>
+                  <l>Oh quante volte, al tacito</l>
+                  <l>morir d'un giorno inerte,</l>
+                  <l>chinati i rai fulminei,</l>
+                  <l>le braccia al sen conserte,</l>
+                  <l>stette, e dei dì che furono</l>
+                  <l>l'assalse il sovvenir!</l>
+               </lg>
+               <lg>
+                  <l>E ripensò le mobili</l>
+                  <l>tende, e i percossi valli,</l>
+                  <l>e il lampo de' manipoli,</l>
+                  <l>e l'onda dei cavalli,</l>
+                  <l>e il concitato imperio,</l>
+                  <l>e il celere ubbidir.</l>
+               </lg>
+               <lg>
+                  <l>Ahi! forse a tanto strazio</l>
+                  <l>cadde lo spirto anelo,</l>
+                  <l>e disperò; ma valida</l>
+                  <l>venne una man dal cielo,</l>
+                  <l>e in più spirabil aere</l>
+                  <l>pietosa il trasportò;</l>
+               </lg>
+               <lg>
+                  <l>e l'avviò, pei floridi</l>
+                  <l>sentier della speranza,</l>
+                  <l>ai campi eterni, al premio</l>
+                  <l>che i desideri avanza,</l>
+                  <l>dov'è silenzio e tenebre</l>
+                  <l>la gloria che passò.</l>
+               </lg>
+               <lg>
+                  <l>Bella Immortal! benefica</l>
+                  <l>fede ai trionfi avvezza!</l>
+                  <l>scrivi ancor questo, allegrati;</l>
+                  <l>ché più superba altezza</l>
+                  <l>al disonor del Golgota</l>
+                  <l>giammai non si chinò.</l>
+               </lg>
+               <lg>
+                  <l>Tu dalle stanche ceneri</l>
+                  <l>sperdi ogni ria parola:</l>
+                  <l>il Dio che atterra e suscita,</l>
+                  <l>che affanna e che consola,</l>
+                  <l>sulla deserta coltrice</l>
+                  <l>accanto a lui posò.</l>
+               </lg>
+            </lg>
+         </div1>
+         <div1 n="Marzo 1821">
+            <head>MARZO 1821</head>
+            <argument>
+               <p>ODE</p>
+            </argument>
+            <opener>
+               <salute>ALLA ILLUSTRE MEMORIA DI TEODORO KOERNER POETA E SOLDATO DELLA INDIPENDENZA GERMANICA MORTO SUL CAMPO DI LIPSIA IL GIORNO XVIII D'OTTOBRE MDCCCXIII NOME CARO A TUTTI I POPOLI CHE COMBATTONO PER DIFENDERE O PER RICONQUISTARE UNA PATRIA</salute>
+            </opener>
+            <lg type="non-definito">
+               <lg>
+                  <l>Soffermati sull'arida sponda,</l>
+                  <l>volti i guardi al varcato Ticino,</l>
+                  <l>tutti assorti nel novo destino,</l>
+                  <l>certi in cor dell'antica virtù,</l>
+                  <l>han giurato: Non fia che quest'onda</l>
+                  <l>scorra più tra due rive straniere:</l>
+                  <l>non fia loco ove sorgan barriere</l>
+                  <l>tra l'Italia e l'Italia, mai più!</l>
+               </lg>
+               <lg>
+                  <l>L'han giurato: altri forti a quel giuro</l>
+                  <l>rispondean da fraterne contrade,</l>
+                  <l>affilando nell'ombra le spade</l>
+                  <l>che or levate scintillano al sol.</l>
+                  <l>Già le destre hanno strette le destre;</l>
+                  <l>già le sacre parole son porte:</l>
+                  <l>O compagni sul letto di morte,</l>
+                  <l>o fratelli su libero suol.</l>
+               </lg>
+               <lg>
+                  <l>Chi potrà della gemina Dora,</l>
+                  <l>della Bormida al Tanaro sposa,</l>
+                  <l>del Ticino e dell'Orba selvosa</l>
+                  <l>scerner l'onde confuse nel Po;</l>
+                  <l>chi stornargli del rapido Mella</l>
+                  <l>e dell'Oglio le miste correnti,</l>
+                  <l>chi ritogliergli i mille torrenti</l>
+                  <l>che la foce dell'Adda versò,</l>
+               </lg>
+               <lg>
+                  <l>quello ancora una gente risorta</l>
+                  <l>potrà scindere in volghi spregiati,</l>
+                  <l>e a ritroso degli anni e dei fati,</l>
+                  <l>risospingerla ai prischi dolor:</l>
+                  <l>una gente che libera tutta,</l>
+                  <l>o fia serva tra l'Alpe ed il mare;</l>
+                  <l>una d'arme, di lingua, d'altare,</l>
+                  <l>di memorie, di sangue e di cor.</l>
+               </lg>
+               <lg>
+                  <l>Con quel volto sfidato e dimesso,</l>
+                  <l>con quel guardo atterrato ed incerto,</l>
+                  <l>con che stassi un mendico sofferto</l>
+                  <l>per mercede nel suolo stranier,</l>
+                  <l>star doveva in sua terra il Lombardo;</l>
+                  <l>l'altrui voglia era legge per lui;</l>
+                  <l>il suo fato, un segreto d'altrui;</l>
+                  <l>la sua parte, servire e tacer.</l>
+               </lg>
+               <lg>
+                  <l>O stranieri, nel proprio retaggio</l>
+                  <l>torna Italia, e il suo suolo riprende;</l>
+                  <l>o stranieri, strappate le tende</l>
+                  <l>da una terra che madre non v'è.</l>
+                  <l>Non vedete che tutta si scote,</l>
+                  <l>dal Cenisio alla balza di Scilla?</l>
+                  <l>non sentite che infida vacilla</l>
+                  <l>sotto il peso de' barbari piè?</l>
+               </lg>
+               <lg>
+                  <l>O stranieri! sui vostri stendardi</l>
+                  <l>sta l'obbrobrio d'un giuro tradito;</l>
+                  <l>un giudizio da voi proferito</l>
+                  <l>v'accompagna all'iniqua tenzon;</l>
+                  <l>voi che a stormo gridaste in quei giorni:</l>
+                  <l>Dio rigetta la forza straniera;</l>
+                  <l>ogni gente sia libera, e pera</l>
+                  <l>della spada l'iniqua ragion.</l>
+               </lg>
+               <lg>
+                  <l>Se la terra ove oppressi gemeste</l>
+                  <l>preme i corpi de' vostri oppressori,</l>
+                  <l>se la faccia d'estranei signori</l>
+                  <l>tanto amara vi parve in quei dì;</l>
+                  <l>chi v'ha detto che sterile, eterno</l>
+                  <l>saria il lutto dell'itale genti?</l>
+                  <l>chi v'ha detto che ai nostri lamenti</l>
+                  <l>saria sordo quel Dio che v'udì?</l>
+               </lg>
+               <lg>
+                  <l>Sì, quel Dio che nell'onda vermiglia</l>
+                  <l>chiuse il rio che inseguiva Israele,</l>
+                  <l>quel che in pugno alla maschia Giaele</l>
+                  <l>pose il maglio, ed il colpo guidò;</l>
+                  <l>quel che è Padre di tutte le genti,</l>
+                  <l>che non disse al Germano giammai:</l>
+                  <l>Va, raccogli ove arato non hai;</l>
+                  <l>spiega l'ugne; l'Italia ti do.</l>
+               </lg>
+               <lg>
+                  <l>Cara Italia! dovunque il dolente</l>
+                  <l>grido uscì del tuo lungo servaggio;</l>
+                  <l>dove ancor dell'umano lignaggio,</l>
+                  <l>ogni speme deserta non è;</l>
+                  <l>dove già libertade è fiorita,</l>
+                  <l>dove ancor nel segreto matura,</l>
+                  <l>dove ha lacrime un'alta sventura</l>
+                  <l>non c'è cor che non batta per te.</l>
+               </lg>
+               <lg>
+                  <l>Quante volte sull'Alpe spiasti</l>
+                  <l>l'apparir d'un amico stendardo!</l>
+                  <l>quante volte intendesti lo sguardo</l>
+                  <l>ne' deserti del duplice mar!</l>
+                  <l>Ecco alfin dal tuo seno sboccati,</l>
+                  <l>stretti intorno a' tuoi santi colori,</l>
+                  <l>forti, armati de' propri dolori,</l>
+                  <l>i tuoi figli son sorti a pugnar.</l>
+               </lg>
+               <lg>
+                  <l>Oggi, o forti, sui volti baleni</l>
+                  <l>il furor delle menti segrete:</l>
+                  <l>per l'Italia si pugna, vincete!</l>
+                  <l>Il suo fato sui brandi vi sta.</l>
+                  <l>O risorta per voi la vedremo</l>
+                  <l>al convito de' popoli assisa,</l>
+                  <l>o più serva, più vil, più derisa,</l>
+                  <l>sotto l'orrida verga starà.</l>
+               </lg>
+               <lg>
+                  <l>Oh giornate del nostro riscatto!</l>
+                  <l>oh dolente per sempre colui</l>
+                  <l>che da lunge, dal labbro d'altrui,</l>
+                  <l>come un uomo straniero, le udrà!</l>
+                  <l>che a' suoi figli narrandole un giorno</l>
+                  <l>dovrà dir sospirando: Io non c'era;</l>
+                  <l>che la santa vittrice bandiera</l>
+                  <l>salutata quel dì non avrà.</l>
+               </lg>
+            </lg>
+         </div1>
+         <div1 n="Il proclama di Rimini">
+            <head>IL PROCLAMA DI RIMINI
+<lb/>FRAMMENTO DI CANZONE.
+<lb/>APRILE 1815</head>
+            <lg>
+               <l>O delle imprese alla più degna accinto,</l>
+               <l>signor che la parola hai proferita,</l>
+               <l>che tante etadi indarno Italia attese;</l>
+               <l>ah! quando un braccio le teneano avvinto</l>
+               <l>genti che non vorrian toccarla unita,</l>
+               <l>e da lor scissa la pascean d'offese;</l>
+               <l>e l'ingorde udivam lunghe contese</l>
+               <l>dei re tutti anelanti a farle oltraggio;</l>
+               <l>in te sol uno un raggio</l>
+               <l>di nostra speme ancor vivea, pensando</l>
+               <l>ch'era in Italia un suol senza servaggio,</l>
+               <l>ch'ivi slegato ancor vegliava un brando.</l>
+            </lg>
+            <lg>
+               <l>Sonava intanto d'ogni parte un grido,</l>
+               <l>Libertà delle genti e gloria e pace!</l>
+               <l>ed aperto d'Europa era il convito;</l>
+               <l>e questa donna di cotanto lido,</l>
+               <l>questa antica gentil donna pugnace</l>
+               <l>degna non la tenean dell'alto invito:</l>
+               <l>essa in disparte, e posto al labbro il dito,</l>
+               <l>dovea il fato aspettar dal suo nemico,</l>
+               <l>come siede il mendico</l>
+               <l>alla porta del ricco in sulla via;</l>
+               <l>alcun non passa che lo chiami amico,</l>
+               <l>e non gli far dispetto è cortesia.</l>
+            </lg>
+            <lg>
+               <l>Forse infecondo di tal madre or langue</l>
+               <l>il glorioso fianco? o forse ch'ella</l>
+               <l>del latte antico oggi le vene ha scarse?</l>
+               <l>o figli or nutre, a cui per essa il sangue</l>
+               <l>donar sia grave? o tali a cui più bella</l>
+               <l>pugna sembri tra loro ingiuria farse?</l>
+               <l>Stolta bestemmia! eran le forze sparse,</l>
+               <l>e non le voglie; e quasi in ogni petto</l>
+               <l>vivea questo concetto:</l>
+               <l>Liberi non sarem se non siam uni;</l>
+               <l>ai men forti di noi gregge dispetto,</l>
+               <l>fin che non sorga un uom che ci raduni.</l>
+            </lg>
+            <lg>
+               <l>Egli è sorto, per Dio! Sì, per Colui</l>
+               <l>che un dì trascelse il giovinetto ebreo</l>
+               <l>che del fratello il percussor percosse;</l>
+               <l>e fattol duce e salvator de' sui,</l>
+               <l>degli avari ladron sul capo reo</l>
+               <l>l'ardua furia soffiò dell'onde rosse;</l>
+               <l>per quel Dio che talora a stranie posse,</l>
+               <l>certo in pena, il valor d'un popol trade;</l>
+               <l>ma che l'inique spade</l>
+               <l>frange una volta, e gli oppressor confonde;</l>
+               <l>e all'uom che pugna per le sue contrade</l>
+               <l>l'ira e la gioia de' perigli infonde.</l>
+            </lg>
+            <lg>
+               <l>Con Lui, signor, dell'itala fortuna</l>
+               <l>le sparse verghe raccorrai da terra,</l>
+               <l>e un fascio ne farai nella tua mano.</l>
+            </lg>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

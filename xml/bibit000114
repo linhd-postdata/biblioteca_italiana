@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>La palingenesi politica</title>
+      <author>Vincenzo Monti</author>
+    </titleStmt>
+    <extent>27 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000114</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Canti e poemi di Vincenzo Monti</title>
+        <title type="part">v.</title>
+        <author>Monti, Vincenzo</author>
+        <editor id="ed">Carducci, Giosue</editor>
+        <publisher>G. Barbera</publisher>
+        <pubPlace>Firenze</pubPlace>
+        <date>1891</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.6 - Poesia italiana. Periodo del rinnovamento, 1748-1814.</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-04-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Chiodi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-04-19T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 n="Dedica">
+<opener>
+<salute>
+ALLA MAESTÀ CATTOLICA DI GIUSEPPE NAPOLEONE,<lb/>
+re delle Spagne e delle Indie
+</salute>
+<signed>VINCENZO MONTI.</signed>
+</opener>
+<p>Sire, Fra tutte le idee a noi pervenute dell'antica filosofia mi è sembrata sempre la più sublime quella dell'<hi rend="italic">anima universale</hi>, idea che scaturita dal capo del divino Pittagora venne poi abbellita dalle splendide fantasie di due altri ingegni celesti, Platone e Virgilio. E questo spirito animatore, che internamente scorrendo tutta la macchina dell'universo lo agita lo rimescola, lo vivifica, mi sembra pure la sola nobile idea, che trasportata dal mondo fisico al mondo morale ci presenti l'immagine della gran mente, che, riempiendo oggi di sè stessa tutta la terra e precipuamente l'Europa, ritoglie questa bella parte del mondo all'antico funesto caos dei suoi sistemi politici, ne riordina i discordi elementi, ne ristaura le membra e le informa di miglior vita. Ecco, o Sire, il subbietto a cui ho tentato di dare poetico vestimento, ornando di colori caldi e sensibili le fredde astrazioni della filosofia e gli arcani processi della politica. Fra le benefiche <hi rend="italic">palingenesie</hi> che sono materia a questi versi, ogni amico dell'indipendenza del continente ammira, o Sire, e commenda l'ispana restaurazione. Tre volte beata cotesta generosa nazione, se tutto saprà conoscere il beneficio! se chiusi non terrà gli occhi alla luce delle vere ed alte virtù del monarca che il cielo le ha inviato per ritornarla grande e felice! E felice me pure, se quella sovrana clemenza, che un anno fa dal trono di Napoli mi guardo sì benigna, vorrà pure adesso da quello di Spagna accettare cortesemente il rispettoso tributo che le presento della perenne mia gratitudine e della mia profondissima devozione.</p>
+<quote rend="block">
+<lg lang="lat">
+<l>Spiritus intus alit, totamque infusa per artus</l>
+<l>Mens agitat molem, et magno se corpore miscet.</l>
+</lg>
+<bibl><author>VIRG.</author>, <title>Aen.</title>, VI.</bibl>
+</quote>
+</div1>
+</front>
+<body>
+<div1>
+<head>La palingenesi politica</head>
+<lg>
+<l>Dell'ercinio cantore era già queta</l>
+<l>La bellicosa lira, e queti i tuoni</l>
+<l>Della gallica folgore che lungi</l>
+<l>Di Friedlando su l'orrenda valle</l>
+<l>Mettea sazia di strage i lampi estremi</l>
+<l>Di sarmatico sangue rubicondi.</l>
+<l>E già, rimessa al generoso fianco</l>
+<l>L'arbitra delle pugne invitta spada,</l>
+<l>Stendea placato il vincitor la mano</l>
+<l>All'attonito vinto, e dell'olivo</l>
+<l>Sul domato Niemene offría la fronda.</l>
+<l>Vide d'Europa le congiunte destre</l>
+<l>De' due sommi potenti, e su la speme</l>
+<l>Del suo riposo fe sereno il ciglio:</l>
+<l>E, misto al suon dell'onda che superba</l>
+<l>Dell'alto giuramento al mar correa,</l>
+<l>Sul fiero campo della morte il dolce</l>
+<l>Inno udissi di pace, che le scalde</l>
+<l>Nereidi intonar lungo le prode</l>
+<l>Della baltica Teti. Così, quando</l>
+<l>Giove in Flegra percosso ebbe le fronti</l>
+<l>D'Encelado e Tifeo, lungo i ruscelli</l>
+<l>Del néttare immortal nella beata</l>
+<l>Città de' numi le celeste Muse</l>
+<l>La vittoria cantar del genitore.</l>
+<l>All'alta melodìa tutte d'olimpo</l>
+<l>Echeggiavan le cime, e da lontano</l>
+<l>Dal fulmine spezzate e ancor fumenti</l>
+<l>Di Pelio e d'Ossa rispondean le rupi;</l>
+<l>Mentre cinto di gloria entro i lor giri</l>
+<l>Ricomponeva le sconvolte sfere</l>
+<l>L'onnipotente senno, e inebriata</l>
+<l>Dell'almo canto l'aquila divina</l>
+<l>Su l'estinte saette appiè del trono</l>
+<l>Le grand'ali abbassando s'addormìa.</l>
+<l>Ma non dorme del mio Giove terreno</l>
+<l>L'aligera ministra, nè lo strale,</l>
+<l>Ai forti artigli consegnato, è spento.</l>
+<l>Vive le fiamme ne mantien l'orgoglio</l>
+<l>Dell'obbliqua Albion che nel delitto</l>
+<l>Cerca sua gloria. Di novelli sdegni</l>
+<l>La turbata pupilla ecco lampeggia</l>
+<l>Dell'offeso mio sire: ed io fedele</l>
+<l>Sul carro il seguirò delle divine</l>
+<l>Figlie di Giove, che di là dal sole</l>
+<l>Ne' regni della bella eternitate</l>
+<l>Portano il grido delle belle imprese.</l>
+<l>Oh di prisco valor, di prisca fede</l>
+<l>Inclito seggio, ispana terra! E quella</l>
+<l>Non se' tu, che in Sagunto all'amistade</l>
+<l>Del punico ladron morte prepose?</l>
+<l>Or qual demenza all'amistà ti sprona</l>
+<l>Della nuova Cartago? A diradarti</l>
+<l>La lunga notte in che languisci avvolta</l>
+<l>Un almo sole alfin ti splende, un sole</l>
+<l>Del cui limpido raggio innamorata</l>
+<l>Si fea più bella la regal Sirena,</l>
+<l>Che ancor devota il guarda e lo saluta:</l>
+<l>E tu chiudi le ciglia? e stolta i nembi,</l>
+<l>Per offuscarlo, e le tempeste invochi</l>
+<l>Del britannico cielo? Oh sventurata!</l>
+<l>A punir la tua colpa il mio signore</l>
+<l>Alza irato la spada, che, battuta</l>
+<l>Contra i superbi alla celeste incude,</l>
+<l>Di mortal brando paragon non teme.</l>
+<l>Diè questa spada al buon Traiano un giorno</l>
+<l>L'eterno imperador, quando al suo piede</l>
+<l>Tutti prostese della terra i regi.</l>
+<l>Dopo quel divo, il Cesare l'ottenne</l>
+<l>Che, l'impero del mondo in due diviso,</l>
+<l>Largì la dote che fu morte a Roma.</l>
+<l>Spento il gran donator, giacque per molte</l>
+<l>Età nascoso l'incorrotto acciaro,</l>
+<l>Finchè del magno Carlo alla possente</l>
+<l>Destra pervenne e suscitar fu visto</l>
+<l>D'occidente lo scettro in Campidoglio.</l>
+<l>Ed or nel pugno di più forte erede</l>
+<l>Dopo mill'anni a trionfar venuto</l>
+<l>I suoi regni racquista; e alla vagina</l>
+<l>(Così volge il destin) non fia che torni</l>
+<l>Finchè non taccia innanzi a lui la terra.</l>
+<l>Curvate il capo al possessor novello</l>
+<l>Del fatal brando, pirenee montagne;</l>
+<l>Umìl ti prostra, ibera donna. Ei viene;</l>
+<l>Move tre passi, e al quarto è giunto. E voi</l>
+<l>D'ogni gente avversari, Angli superbi,</l>
+<l>Celerate la fuga; e dite al vostro</l>
+<l>Re che del sangue dell'Europa è chiuso</l>
+<l>L'orribile mercato, e non a lui</l>
+<l>Ma solo al grande che pietoso il chiuse,</l>
+<l>A lui solo il valor diè questo impero.</l>
+<l>Sian vostro regno e scogli e sirti e flutti,</l>
+<l>Case degne di voi: ma non lasciate,</l>
+<l>Algosa razza, per regnar, le vostre</l>
+<l>Ondeggianti prigioni. Ivi son tutte</l>
+<l>Le vostre posse. D'ogni suol rifiuto,</l>
+<l>Voi toccate la terra, e più non siete.</l>
+<l>Su le pronte rapito ali d'amore</l>
+<l>(Di quell'amor che, nato in cor gentile</l>
+<l>Dal beneficio, agl'immortali innalza</l>
+<l>De' mortali il sentire), io sospingea</l>
+<l>L'affannoso pensier su l'adorate</l>
+<l>Orme del giusto alle cui tempie il cielo,</l>
+<l>Sol per tornarlo al suo splendor, concede</l>
+<l>L'ispano diadema. E, palpitando,</l>
+<l>Col veder della mente m'avvolgea</l>
+<l>Dentro il turbo crudel, che su l'ibero</l>
+<l>Dal britannico lido si, diffuse:</l>
+<l>E di Giuseppe su le sacre chiome</l>
+<l>Ruggir l'intesi, e lui vid'io serena</l>
+<l>Portar la fronte che traverso al velo</l>
+<l>Della nube feral splendea più bella.</l>
+<l>Come allor che da livida palude</l>
+<l>S'alza negro vapor, che invidioso</l>
+<l>D'Iperione al folgorante figlio</l>
+<l>Copre il nitido volto e non l'offende;</l>
+<l>Sola s'attrista della tolta luce</l>
+<l>La famiglia de' fior che moribonda</l>
+<l>Il mesto capo inchina, e pregar sembra</l>
+<l>L'amato raggio che la torni in vita:</l>
+<l>Tale in mezzo all'offese era il sembiante</l>
+<l>Dell'augusto Giuseppe, e tal de' probi,</l>
+<l>Cui l'absenza struggea del sacro aspetto,</l>
+<l>L'amoroso dolor. Ma in sua virtude</l>
+<l>Vanne l'alto guerrier che vede e vince,</l>
+<l>Che vuole e puote ciò che vuole; e spersa</l>
+<l>Fu l'anglica procella, e serenato</l>
+<l>L'ispano cielo che al beante raggio</l>
+<l>Del caro si ravviva astro novello.</l>
+<l>Io la grave frattanto arpa d'Ullino</l>
+<l>Venía toccando, e su le varie fila</l>
+<l>Dell'invitto mio sir tessea le geste</l>
+<l>Maravigliose: e l'armonía de' forti</l>
+<l>Carmi e il parlar che dal profondo seno</l>
+<l>Traggon dell'alma le potenti Muse</l>
+<l>Dell'invidia facea su i verdi crini</l>
+<l>Rabbiose e stolte sibilar le serpi.</l>
+<l>Ma inferma nel levarsi all'atto obbietto</l>
+<l>Si smarriva la mente, perdea l'ali</l>
+<l>La vinta fantasìa; chè di quel magno</l>
+<l>Intorno alla regal diva presenza</l>
+<l>Tale un timor si crea tale un rispetto,</l>
+<l>Che le ginocchia ed il pensiero atterra.</l>
+<l>Perch'io vòlto in quell'uopo alla reina</l>
+<l>Calliope dicea: — Tu scorgi, o diva,</l>
+<l>Del tuo divoto sacerdote il corto</l>
+<l>Immaginar, tu vedi la sublime</l>
+<l>Maestosa caligine che cela</l>
+<l>Questo re della gloria. E tu, de' regi</l>
+<l>Compagna eterna e degli eroi, deh! sgombra</l>
+<l>Sgombra il vel che l'occulta, e vista dimmi</l>
+<l>Che in luce aperta sostener lo possa;</l>
+<l>Ch'io ben veggo i baleni ed odo i tuoni</l>
+<l>Che fan palese il suo potere e l'alta</l>
+<l>Dai re temuta volontà suprema;</l>
+<l>Ma del profondo ordinator pensiero</l>
+<l>Non discerno le vie. — Non indagarle</l>
+<l>Presuntuoso, rispondea la diva:</l>
+<l>Su l'opre sue sta scritto: Adora e taci.</l>
+<l>Nè l'immago cercar del suo valore</l>
+<l>Nell'antica virtù; chè smorti emblemi</l>
+<l>Sono Alcide e Teséo, nè prode in Pindo</l>
+<l>Fama solleva che tant'alto ascenda.</l>
+<l>Non il guerriero per la cui vendetta</l>
+<l>L'eterno figlio di Saturno i neri</l>
+<l>Sopraccigli inchinò, su l'immortale</l>
+<l>Capo agitando le divine chiome,</l>
+<l>Onde tutto tremava il vasto olimpo;</l>
+<l>Non l'altro che da cento accompagnato</l>
+<l>Figli di numi la vocale antenna</l>
+<l>Fra l'orrende Simplegadi sospinse,</l>
+<l>E la furia sprezzò che in fier conflitto</l>
+<l>Coll'Europa a cozzar l'Asia spingea</l>
+<l>Sgominando due mari ed amendue</l>
+<l>Col grand'urto scotendo i continenti,</l>
+<l>Finchè carco d'eroi per quella via</l>
+<l>D'Argo passando il sacro pino al fiero</l>
+<l>Cozzo fin pose, e si placaro immote</l>
+<l>Le concorrenti furibonde rupi;</l>
+<l>Nè di qual più lodato o la romana</l>
+<l>Storia esalti o l'argiva il glorioso</l>
+<l>Nome ti porga di paraggio ardire;</l>
+<l>Chè nell'opre del senno e della mano</l>
+<l>Levar su tutti ad un sol tempo il grido,</l>
+<l>E alle genti dar leggi, e degl'imperi</l>
+<l>Cangiar l'aspetto e ricrearli in meglio,</l>
+<l>E coll'arti di Palla e di Sofia</l>
+<l>Temprar l'ire di Marte, e la severa</l>
+<l>Ragion di stato serenar col dolce</l>
+<l>Delle Grazie sorriso e delle Muse,</l>
+<l>Nè il divo germe di Filippo il seppe</l>
+<l>Nè il dittator nè Ciro; e la veloce</l>
+<l>Operosa virtù di questo nuovo</l>
+<l>Verace Enosigeo va per occulti</l>
+<l>Sì profondi sentier, che seguitarla</l>
+<l>Non può la vista interior. Ma pure,</l>
+<l>Perchè dell'alta ed ineffabil mente</l>
+<l>Sotto mistico vel l'opra tu vegga,</l>
+<l>A portentosa vision lo sguardo</l>
+<l>Intendi ardito, e mi t'accosta. — Ed io</l>
+<l>M'appressai coraggioso: e la divina</l>
+<l>Pimplea su gli occhi coll'ambrosio dito</l>
+<l>Due vivifiche stille mi diffuse</l>
+<l>Del collirio immortal che degli eterni</l>
+<l>Irriga la pupilla, e, la mia fronte</l>
+<l>Percotendo, gridò: — Comtempla e scrivi. —</l>
+<l>Guardai: e vidi a me dinanzi un negro</l>
+<l>Infinito oceán, che per tempesta</l>
+<l>Da fieri venti combattuto mugge,</l>
+<l>Orrido campo di battaglia all'ira</l>
+<l>De' discordi elementi. Per la vasta</l>
+<l>Tumultuosa oscurità divise</l>
+<l>Vagolar si vedean forme tremende</l>
+<l>Di mostruosi gnomi, altri d'acquoso</l>
+<l>Vapor composti ed altri d'aere ed altri</l>
+<l>Di terrestri sostanze. Han d'atra fiamma</l>
+<l>Da nitri generata e da bitumi</l>
+<l>I più truci la faccia; e tutti insieme</l>
+<l>Azzuffati e confusi in fiera guisa</l>
+<l>Per signorìa fan pugna, e sempre in guerra</l>
+<l>Ognun perde ognun vince e mai non regna.</l>
+<l>E qual le nubi aggira e ne sprigiona</l>
+<l>Fòlgori e tuoni; e qual nell'onde irate</l>
+<l>Devolve le montagne e le sommerge,</l>
+<l>Sì che punte di scogli al guardo mio</l>
+<l>Parean dell'Alpi le sepolte cime;</l>
+<l>E qual con faci d'inestinto asbesto</l>
+<l>Per secreti cunicoli ne' fianchi</l>
+<l>Delle rupi penétra, e cerca i rivi</l>
+<l>D'asfalto e zolfo su cui dorme intatta</l>
+<l>Di Vulcano la forza. A queste i gnomi</l>
+<l>Asfaltiche correnti approssimaro</l>
+<l>L'atre facelle; e tosto il dilatato</l>
+<l>Aere tonava, e, impetuoso urtando</l>
+<l>L'opposto fianco delle balze, aprìa</l>
+<l>Voragin di foco. Dal bollente</l>
+<l>Seno dell'onde le roventi creste</l>
+<l>Sollevavano i monti, e, liquefatti</l>
+<l>Scogli eruttando e fiamme e schiuma e fumo</l>
+<l>E di liquido vetro ardenti fiumi,</l>
+<l>Pingean l'abisso di terribil luce.</l>
+<l>Dalla lite crudel che terra e mare</l>
+<l>Ed aria e fuoco si movean furenti</l>
+<l>Inorridita rifuggìa natura:</l>
+<l>Ed io la strana vision pensoso</l>
+<l>Contemplando venía, ma il senso arcano</l>
+<l>Nell'intelletto ancor non discendea.</l>
+<l>Già mi voltava a dimandar; quand'ecco</l>
+<l>Una gran voce, che dall'alto venne,</l>
+<l>Su l'abisso gridò: — Silenzio, o flutti;</l>
+<l>Pace, irati elementi. — E subitana</l>
+<l>Una luce seguì, che con possenti</l>
+<l>Fulgidi strali saettava il volto</l>
+<l>Delle tenébre; e le disperse. Allora</l>
+<l>Uno spirto divin corse su l'acque</l>
+<l>Inferocite, e le calmò; le cinse</l>
+<l>Di sue grand'ali, e fecondonne il grembo;</l>
+<l>Le divise dal secco, e immantinente</l>
+<l>Alzâr la testa le montagne ed ime</l>
+<l>Giacquer le valli; i tortuosi passi</l>
+<l>Sciolsero i rivi mormoranti, e tale</l>
+<l>Nell'inerte terreno alma s'infuse</l>
+<l>Che tutto si vestì d'erbe e di fiori</l>
+<l>E d'olezzanti arbusti e d'ardue selve</l>
+<l>Onde la terra il sacro capo inchioma.</l>
+<l>Penetrò la vital forza i recessi</l>
+<l>Delle squallide rupi, e nelle fredde</l>
+<l>Vene del masso imprigionò del foco</l>
+<l>L'eterna e schietta elementar scintilla.</l>
+<l>Poi, di vergine luce un grazioso</l>
+<l>Raggio frangendo, colorò le gemme</l>
+<l>Il rubino lo smeraldo lo zaffiro:</l>
+<l>Le caverne vestì di cristallini</l>
+<l>Ingemmamenti e stalagmiti, a cui</l>
+<l>Diêr vaghezza e splendor con aurea polve</l>
+<l>Il cinabro e l'azzurro. Anco il marino</l>
+<l>Zoofite animossi, anco la pietra</l>
+<l>Che volge l'ago al polo. Apparve in somma</l>
+<l>In ogni lato la virtù dell'almo</l>
+<l>Spirto che interno percorrea la terra,</l>
+<l>E in tutte infuso le sue parti tutta</l>
+<l>Agitava la mole, e col gran corpo</l>
+<l>Si mescolando, in ciò che parla o nuota</l>
+<l>O pasce o vola diffondea la vita.</l>
+<l>Composte le feroci ire intestine</l>
+<l>E all'orror tolta in che giacea sommersa,</l>
+<l>La rinnovata terra al divo spiro</l>
+<l>Vivificante da' suoi verdi altari</l>
+<l>Porgea laudi e profumi, che l'aurette</l>
+<l>Rapìan su l'ali sussurranti e, intorno</l>
+<l>Spargendoli e di mille un odor solo</l>
+<l>Temperando, alle nari una fragranza</l>
+<l>Porgean che dentro ti scendea nel core;</l>
+<l>Mentre di ramo in ramo saltellando</l>
+<l>Lieti gli augelli di soave canto</l>
+<l>Ricreavan le selve, e da per tutto</l>
+<l>Candida e bella sorridea la pace.</l>
+<l>Dal giocondo spettacolo rapita</l>
+<l>La mia mente bevea tutta dolcezza;</l>
+<l>Ma incerto errava l'intelletto ancora</l>
+<l>Colla rosata man diemmi il secondo</l>
+<l>Colpo la diva su la larga fronte;</l>
+<l>E ratto, come tocca dallo strale</l>
+<l>Del galvanico elettro, entro il cerèbro</l>
+<l>Scintillò la fibrilla intuitiva.</l>
+<l>La mia scorta sorrise, e vie più bella</l>
+<l>Raggiando replicò: — Contempla e scrivi. —</l>
+<l>Guardai: e tosto un ampio e popoloso</l>
+<l>Mondo m'apparve, su le cui racchiuse</l>
+<l>Da temperata zona alme contrade</l>
+<l>Dolci versava della luce i fiumi</l>
+<l>Un benefico sole, e de' suoi doni</l>
+<l>Godea far pompa liberal natura.</l>
+<l>Lo cingea da tre lati il circonfuso</l>
+<l>Mare, e di mille peregrine merci</l>
+<l>Tre altri mondi gli porgean tributo.</l>
+<l>Di scienza superbe e d'ogni cara</l>
+<l>Arte gentile, ma di cor divise</l>
+<l>E di leggi e di brame e di costumi,</l>
+<l>Di questa bella region le genti</l>
+<l>In mutua guerra si struggean delire.</l>
+<l>L'un coll'altro cozzanti e insanguinati</l>
+<l>Ondeggiavano i troni, altri scommessi</l>
+<l>Da perfidi consigli, altri da falsa</l>
+<l>Arte di regno trabalzati, ed altri</l>
+<l>Per destre inette o per funesta lega</l>
+<l>O per ferocia femminil caduchi:</l>
+<l>E intorno a lor s'udìa cupo levarsi</l>
+<l>Suon di pianti e sospir, sospiri e pianti</l>
+<l>Delle suggette nazion vendute.</l>
+<l>Perocchè dall'atlantica marina</l>
+<l>Circondato di nembi ergea la testa</l>
+<l>Immenso formidabile nefando</l>
+<l>Regal fantasma, che una man stendea</l>
+<l>Su le porte del dì, l'altra su l'onda</l>
+<l>Che i destrieri del Sol stanchi riceve,</l>
+<l>E tutti di Nettuno i vasti regni</l>
+<l>Di sua grand'ombra ricopriva. A lui</l>
+<l>L'Orto edùca e l'Occaso i preziosi</l>
+<l>Suoi calami e legumi e l'odorate</l>
+<l>Selve e la scorza che all'infermo è vita.</l>
+<l>Nudron le pinte a lui morbide pelli</l>
+<l>Le belve peregrine, e l'afra madre,</l>
+<l>Orrenda merce!, partorisce i figli.</l>
+<l>A lui perenne di tre mondi oppressi</l>
+<l>La ricchezza s'aduna. Ed egli, il cupo</l>
+<l>Sen della terra co' rapaci artigli</l>
+<l>Lacerando, dell'auro apre le fonti</l>
+<l>E le inghiotte; dell'auro che natura</l>
+<l>Ne' più cupi recessi avea nascoso,</l>
+<l>Del suo parto fatal forse pentita.</l>
+<l>Coll'incantato corruttor metallo</l>
+<l>Compra il crudele e guerre e sangue e colpe</l>
+<l>E lagrime di genti, e con catene</l>
+<l>D'auro tessute avviluppando i troni</l>
+<l>A cader li sospigne: indi maligno</l>
+<l>Esulta, e cresce della lor caduta.</l>
+<l>Io fremente il mirava, e con irata</l>
+<l>Penna la fiera vision scrivea,</l>
+<l>Che già sgombra di nebbie e luminosa</l>
+<l>Mi lampeggiava nell'aperta mente:</l>
+<l>Quando improvvisa un'altra luce emerse,</l>
+<l>E in mezzo al mar di quella luce un trono</l>
+<l>Adamantino, tutto dentro e fuori</l>
+<l>Di sempre vigilanti occhi ripieno;</l>
+<l>Che pari al trono in Patmo un dì veduto</l>
+<l>Mettea fòlgori e lampi e tuoni e gridi.</l>
+<l>Sedeavi eccelsa in mezzo una guerriera</l>
+<l>Regal sembianza che spargea ne' petti</l>
+<l>Riverenza e terror. Cinta di due</l>
+<l>Folgoranti corone era la chioma;</l>
+<l>L'una d'auro splendea, l'altra di ferro:</l>
+<l>Ed altre il pugno ne tien strette, ed altre</l>
+<l>Per sempre infrante ne calpesta il piede.</l>
+<l>Ritti intorno al terribile guerriero</l>
+<l>Co' forti ferri al fianco e gli elmi al crine</l>
+<l>Stavansi molti bellicosi eroi</l>
+<l>Aspettando il suo cenno. Innanzi a lui</l>
+<l>Su vasta immensurabile pianura</l>
+<l>Di diverso color l'aura agitava</l>
+<l>Dieci mila bandiere, e con fracasso</l>
+<l>Simigliante di molte acque al fragore</l>
+<l>Altissime dicean voci infinite:</l>
+<l>— Gloria d'Europa al servator supremo. —</l>
+<l>E quel supremo servator su l'ali</l>
+<l>De' quattro venti di procelle armato</l>
+<l>Inviava il suo spirto, che de' regi</l>
+<l>Visitava le colpe e ne sperdea</l>
+<l>Come polve l'orgoglio e la possanza.</l>
+<l>Degli alti federati e degli amici</l>
+<l>Visitava la fede, e la copría</l>
+<l>Delle larghe sue penne o di regale</l>
+<l>Serto dotata la rendea più salda.</l>
+<l>Di nazion cadute o in sonno avvinte</l>
+<l>Visitava le piaghe; e, come dolce</l>
+<l>Raggio di sole che ridesta i fiori</l>
+<l>Dal turbine battuti, ei di novella</l>
+<l>Vita le genti rintegrava e a ferme</l>
+<l>Destre efficaci commetteane il freno.</l>
+<l>Ed una ne vid'io che giovinetta,</l>
+<l>Ma d'alto senno e d'alto cor ministra,</l>
+<l>Tratta lo scettro già secura, e giusto</l>
+<l>Così l'estolle sul commesso regno</l>
+<l>Che null'altro è più bello e più felice.</l>
+<l>Tutte d'Europa quel possente spirto</l>
+<l>Visitava le prode; e della truce</l>
+<l>Larva del mar tiranna apparso a fronte</l>
+<l>Scintillò s'ingrandì spinse fra gli astri</l>
+<l>L'eccelso capo, e trasmutossi in sole</l>
+<l>Che tutta quanta illuminò la terra.</l>
+<l>Si converse a quel Sol l'Indo che beve</l>
+<l>Il sacro Gange, e di Saibbo assiso</l>
+<l>Su la tomba agitò le sue catene:</l>
+<l>Lo vide il Perso e salutollo, e al raggio</l>
+<l>Di quella luce riforbendo il ferro</l>
+<l>Verso Bengala balenar lo fece.</l>
+<l>Lo mirar del gangetico Neréo</l>
+<l>Le Cicladi infinite, e d'ogni parte</l>
+<l>Sclamavano concordi immense voci:</l>
+<l>— Gloria de' mari al vindice supremo. —</l>
+<l>— Gloria — rispose l'Occidente; e armata</l>
+<l>Di consiglio d'onore e di vendetta</l>
+<l>— Gloria — iterava colla man sul brando</l>
+<l>L'americana Libertade. Un solo</l>
+<l>Era del mondo il grido, ed una sola</l>
+<l>Contro il fiero de' mari empio tiranno</l>
+<l>La giusta e santa e salutar congiura.</l>
+<l>Io guardava ed udiva; e, nel segreto</l>
+<l>Del mio pensier de' due veduti abissi</l>
+<l>E de' due spirti animator le vie</l>
+<l>Paragonando, nel crear del primo</l>
+<l>Vedea l'immago del secondo, e tutta</l>
+<l>D'ardite fantasìe d'alte parole</l>
+<l>E d'alti affetti la vestìa. Quand'ecco</l>
+<l>Frettolosa avanzarsi e sbigottita</l>
+<l>Bellissima una dea che terra e cielo</l>
+<l>Di sue care sembianze innamorava.</l>
+<l>Candido come neve allor caduta</l>
+<l>Vestimento l'avvolge. Ha nella destra</l>
+<l>Di verde oliva un ramuscel; su gli occhi</l>
+<l>Due lagrime pietose. In questa forma</l>
+<l>Si trasse innanzi al gran sedente, e disse:</l>
+<l>— Questo ramo è tuo dono. Ed io pur dianzi</l>
+<l>Da te protetta, nel regal giardino</l>
+<l>Il piantai dell'Europa, e con attenta</l>
+<l>Solerte cura l'educava. Ahi lassa!</l>
+<l>Su l'Istro, che ancor fresche ed alte serba</l>
+<l>L'orme che l'ugna vi stampò de' tuoi</l>
+<l>Procellosi destrieri, un negro sorge</l>
+<l>Turbo improvviso che l'amata fronda</l>
+<l>Schiantar minaccia e fecondar di largo</l>
+<l>Sangue novello le tedesche glebe.</l>
+<l>Alza lo scettro, vindice possente</l>
+<l>Del tradito mio nume, e mi difendi. —</l>
+<l>Tacque, e piangendo si coprì d'un velo.</l>
+<l>A quei detti, a quel pianto, ad offuscarsi</l>
+<l>Di nubi incominciò l'adamantino</l>
+<l>Trono e a volver di fumo immense rote,</l>
+<l>D'ira svegliata orrendo segno; e dentro</l>
+<l>Alla densa caligine da spessi</l>
+<l>Lampi divisa si sentían profondi</l>
+<l>Correre i tuoni e strepitar le folgori</l>
+<l>Di partir desíose. I circostanti</l>
+<l>Eroi dal fianco trassero fremendo</l>
+<l>Le generose spade. In un momento</l>
+<l>Si spiegâr s'agitaro le diverse</l>
+<l>Dieci mila bandiere e le veloci</l>
+<l>Selve di ferri che dal Sol percossi</l>
+<l>Mettean barbaglio agli occhi e téma al petto.</l>
+<l>Nelle spade securi e più nel core</l>
+<l>Taciturni procedono e terribili</l>
+<l>Gli ordinati squadroni. In lunga riga</l>
+<l>Scudo a scudo elmo ad elmo e fianco a fianco</l>
+<l>Si strigne; e al moto delle teste vedi</l>
+<l>L'un coll'altro toccarsi i rilucenti</l>
+<l>Cimieri e l'onda dell'eccelse piume.</l>
+<l>Sotto il piè de' guerrieri e de' cavalli</l>
+<l>Trema la terra e nubi alza di polve,</l>
+<l>Che da lunge veduta al ciel rotarsi</l>
+<l>Fa delle madri impallidir la gota</l>
+<l>E il coraggio brillar de' giovinetti,</l>
+<l>Che d'illustre sudor bagnarsi anelano</l>
+<l>Nelle fervide mischie e il dorso premere</l>
+<l>Di focoso destrier fra tube e timpani.</l>
+<l>Tutto m'offría d'intorno una tremenda</l>
+<l>Faccia di guerra: ma l'eccelso sire,</l>
+<l>Che d'auro e ferro si ghirlanda e siede</l>
+<l>Sul trono di veglianti occhi stellato</l>
+<l>Fuor della nube non mandava ancora</l>
+<l>La voce che de' re cangia i destini:</l>
+<l>Voce al turbo simìl che sul cespuglio</l>
+<l>Passa innocente e l'arduo cedro atterra.</l>
+<l>Meste intorno al caduto e paventose</l>
+<l>Stan le piante minori; ed egli in grande</l>
+<l>Spazio prosteso imputridisce, e il piede</l>
+<l>Dell'armento l'insulta e del pastore.</l>
+<l>Di novità bramoso io nell'udire</l>
+<l>Tutta inviava e nel veder la mente,</l>
+<l>Quando lieve scotendomi l'accorta</l>
+<l>Pieride dicea: — Vate, in quel buio</l>
+<l>Bolle il vaso dell'ira, e le negre ali</l>
+<l>Spiega già l'ora del final castigo.</l>
+<l>Se non le tarpa un dio, fiera di canto</l>
+<l>Avrai materia. Or tu le viste cose,</l>
+<l>Severo ingegno, nelle carte scrivi</l>
+<l>Destinate a color che questo tempo</l>
+<l>Diranno antico e menzogner. — Disparve,</l>
+<l>Così detto, la diva; e dileguossi</l>
+<l>La portentosa vision. Raccolsi</l>
+<l>Tosto i pensieri; e ciò che vidi io scrissi.</l>
+</lg>
+</div1>
+</body>
+</text>
+</TEI.2>

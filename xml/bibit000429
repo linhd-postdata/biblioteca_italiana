@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Linguaccio</title>
+      <author>Baldassarre Olimpo degli Alessandri</author>
+    </titleStmt>
+    <extent>81 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2005</date>
+      <idno>bibit000429</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Libro nuovo chiamato linguaccio</title>
+        <author>Alessandri, Caio Baldassarre Olimpo degli da Sassoferrato</author>
+        <editor id="ed">Bruschi, Clito</editor>
+        <publisher>Centro culturale Baldassarre Olimpo</publisher>
+        <pubPlace>Sassoferrato</pubPlace>
+        <date>1993</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT-Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT-Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2005-01-24T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Laura Sarzi Braga</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2005-02-24T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+
+<front>
+<div1 n="Dedica">
+<opener><salute>Caio Baldassarre Olimpo da Sassoferrato allo morigerato e litterato giovene Francesco Buoncambio perosino.</salute></opener>
+
+<p>Poscia, Francesco mio, te cognobbi te amai di core e giorno e nocte ho pensato in qual modo potessi io farte cosa grata. Pensando che te dilecti de rime e sei de la turba del monte Parnaso allumno, avendo io questa mia bassa e ruzza operetta composta per essere al presente ogni cità piena quasi de pestifere lingue e colma di pessimi detractori, a te pensai intitularla perché sei nemico de latratori, nemico  de viziosi. Te prego adonque l'acepti e pigli di bona voglia sì come io te la dono et ascrivo ch'i' so certo non sarà questa a guisa le altre doe, quale sono state intitulate alli ingrati et a me fatti poco benivoli non già per mio difecto. Non di meno so che sempre Olimpo sarà nella mente di Francesco Buoncambio, a cui me ricomando io, ricomando el libro e quello che amo quanto la propria vita, Ieronimo Olimpo, mio caro nepote. <foreign lang="lat">Nil aliud. Vale et memor esto et opus tuis manibus committo sub quarum umbra volatum accipiet.</foreign></p>
+</div1>
+</front>
+<body>
+<div1>
+<head>Sonecto a Francesco Buoncambio perosino</head>
+<lg type="sonetto">
+<lg><l>Francesco mio, non ho più ricco dono</l>
+<l>da posserte donare altro che questo,</l>
+<l>ma tu sei saggio, prudente e modesto,</l>
+<l>che pigliarai de cor quel ch'io ragiono.</l></lg>
+<lg><l>E se 'l presente non è così buono</l>
+<l>como rechiede el tuo sapere onesto,</l>
+<l>n'arai un altro, e forsi sarà presto,</l>
+<l>de più dolcezza e de più gentil suono,</l></lg>
+<lg><l>perché, Francesco, mai se perde teco</l>
+<l>anzi più presto se guadagna e avanza,</l>
+<l>tanto è la stirpe tua maravigliosa.</l></lg>
+<lg><l>Se non m'offenderà quel Fanciul cieco</l>
+<l>spero adempire ancor la mia speranza,</l>
+<l>ché sei buon cambio sempre d'ogni cosa.</l></lg>
+</lg>
+</div1>
+<div1>
+<head>(Invocazione)</head>
+
+<p>1</p>
+<lg><l>Falcifero Saturno vecchio e Giove,</l>
+<l>armipotente Marte e biondo Apollo,</l>
+<l>Mercurio annunziator de cose nove,</l>
+<l>tridentiger Neptunno, freddo e mollo,</l>
+<l>cieco Cupido, che fai tante prove,</l>
+<l>ché unqua non sei de saectar satollo,</l>
+<l>dateme aiuto e fate non se extingua</l>
+<l>che narrar possa el vizio d'ogni lingua.</l></lg>
+
+<p>2</p>
+<lg><l>Abonda tanto questo cieco mondo</l>
+<l>del vizio del latrar, ch'io son disposto</l>
+<l>cantar di quello, acciò ch'a tondo a tondo</l>
+<l>a quanti se ne trovan sia preposto.</l>
+<l>E se lo stil non è molto profondo</l>
+<l>fa che 'l subiecto non te sia discosto,</l>
+<l>ché vederai ch'è in questo el mio volere,</l>
+<l>letizia te darà, gaudio e piacere.</l></lg>
+
+<p>3</p>
+<lg><l>Legi, che vederai che quel ch'io dico</l>
+<l>è tutta verità, non è bugia</l>
+<l>e se del vizio tu sarai nemico,</l>
+<l>molto te piacerà questa opra mia.</l>
+<l>Se pur te piace, fa che tu sia amico,</l>
+<l>ché sol benivolenza el cor desìa</l>
+<l>e sol brama l'ingegno, el studio e l'arte</l>
+<l>de le malvaggie lingue empir le carte.</l></lg>
+
+<p>4</p>
+<lg><l>Domine, labia mea et os aperies</l>
+<l>che de tal lingue possa dir l'inganni,</l>
+<l>le qual peggiore in mundo non reperies</l>
+<l>da por discordia nelli eterni scanni.</l>
+<l>Assai più ch'io non dico ancora invenies</l>
+<l>ch'a dir sua falsità voglion duo anni:</l>
+<l>però gli occhi, Signore, ad te levavi,</l>
+<l>quum tribularer fortiter clamavi.</l></lg>
+</div1>
+<div1>
+<head>Strambotti contra le lingue</head>
+
+<div2>
+<head>1</head>
+
+<lg><l>Idio fece la lingua all'uman gregge</l>
+<l>che laudasse Lui del benefizio</l>
+<l>e che parlasse de sua santa legge</l>
+<l>e non dicesse mal, ch'è tristo vizio,</l>
+<l>ma questa, che se stessa non corregge,</l>
+<l>ingrata se dimostra al suo servizio,</l>
+<l>ché d'altro dice mal de Chi l'ha fatta</l>
+<l>questa linguaccia venenosa e matta.</l></lg>
+</div2>
+<div2>
+<head>2</head>
+
+<lg><l>Questa linguaccia, stando nel cubile,</l>
+<l>sol pensa de dir mal d'ogni persona,</l>
+<l>educata e notrita in el porcile</l>
+<l>e per dir mal sol merta la corona,</l>
+<l>in tutte l'altre cose inepta e vile</l>
+<l>per dir mal d'altro sua fama risona,</l>
+<l>e dicese per tutto a tondo a tondo</l>
+<l>che la più trista lingua sei del mondo.</l></lg>
+</div2>
+<div2>
+<head>3</head>
+
+<lg><l>Ogni fiata che parli mal di me</l>
+<l>tu fai ch'io son da più che non sei tu.</l>
+<l>Come vuol che te sia prestata fe',</l>
+<l>lingua, che più ribalda unqua non fu?</l>
+<l>Fa che prima correggi el vizio a te</l>
+<l>'nanzi che gli altri cerchi poner giù,</l>
+<l>perché è vergogna a dir l'altrui difetto</l>
+<l>quando che de tal vizio hai pieno el petto.</l></lg>
+</div2>
+<div2>
+<head>4</head>
+
+<lg><l>Quel credito, che Dio già m'ha concesso,</l>
+<l>non me 'l potrà levar tuo parlar tristo.</l>
+<l>Fa che prima cognoschi ben te stesso</l>
+<l>e se 'l farai, farai un grande aquisto;</l>
+<l>se non, sarai un giorno a morte a presso,</l>
+<l>ché sovente per dir mal se n'è visto.</l>
+<l>Pur di' mal sempre, ch'a te s'aconvene,</l>
+<l>ché tu non mi pòi far né mal né bene.</l></lg>
+</div2>
+<div2>
+<head>5</head>
+
+<lg><l>Come pò dir mal d'altro uno usuraio</l>
+<l>come pò dir mal d'altro un giocatore</l>
+<l>come pò dir mal d'altro un temerario</l>
+<l>come pò dir mal d'altro un robatore</l>
+<l>come pò dir mal d'altro uno afalsario</l>
+<l>come pò dir mal d'altro un ciarlatore</l>
+<l>come pò dir mal d'altro un che fa male</l>
+<l>come pò dir mal d'altro un bestiale?</l></lg>
+</div2>
+<div2>
+<head>6</head>
+
+<lg><l>O lingua serpentina, atendi teco,</l>
+<l>ché sai ben che sei nata in el peccato!</l>
+<l>Tu credi ch'io non veggia e che sia cieco</l>
+<l>e più che mai non festi io ho studiato.</l>
+<l>Tu sei ben d'ignoranza uno empio speco</l>
+<l>e pensi d'esser forsi un terzo Cato.</l>
+<l>Tace, non dir più mal, fanne la prova,</l>
+<l>ché sempre un bel parlar dilecta e giova.</l></lg>
+</div2>
+<div2>
+<head>7</head>
+
+<lg><l>Se cognosce l'argento al paragone</l>
+<l>se cognosce el soldato nella guerra</l>
+<l>se cognosce al parlare uno schiavone</l>
+<l>se cognosce el bifolco arando in terra</l>
+<l>se cognosce a viltate un ch'è poltrone</l>
+<l>al piede del caval quel che ben ferra</l>
+<l>se cognosce gustando un dolce pomo:</l>
+<l>cusì al dir mal se cognosce un tristo omo.</l></lg>
+</div2>
+<div2>
+<head>8</head>
+
+<lg><l>Spesso una lingua perfida e villana</l>
+<l>ad molte poverelle l'onor toglie.</l>
+<l>Spesso una lingua venenosa e strana</l>
+<l>fa partire el marito da la moglie.</l>
+<l>Spesso una lingua fraudolente e vana</l>
+<l>a chi ben vive fa cambiar le voglie:</l>
+<l>però contra de queste ognun se mova,</l>
+<l>ché la pratica sua noce e non giova.</l></lg>
+</div2>
+<div2>
+<head>9</head>
+
+<lg><l>Molte lingue d'altrui dicano male</l>
+<l>che con la zappa se danno sul piede.</l>
+<l>Tal spesso biasma altrui che nulla vale</l>
+<l>e non cognosce onor, gloria, né fede.</l>
+<l>O tristo vizio! o pazzo naturale,</l>
+<l>ché 'l ver dir non si pò, se non se vede!</l>
+<l>Ma quel proverbio è chiaro e non me inganna:</l>
+<l>tal biasma altrui che se stesso condanna.</l></lg>
+</div2>
+<div2>
+<head>10</head>
+
+<lg><l>El porco sempre brama star nel loto,</l>
+<l>brama star la ranocchia nel pantano,</l>
+<l>el negro corvo, augello a tutti noto,</l>
+<l>desidra la carogna exposta al piano:</l>
+<l>cusì questo linguaccio ha fatto voto</l>
+<l>dir sempre mal d'altrui parlando in vano,</l>
+<l>e proprio fa come lo scarafone,</l>
+<l>che dove più c'è puzza lì se pone.</l></lg>
+</div2>
+<div2>
+<head>11</head>
+
+<lg><l>Sai perché dici mal?Ché 'l mal te piace.</l>
+<l>El ben diresti, si tu fussi bono.</l>
+<l>Un om prudente e saggio ascolta e tace</l>
+<l>una campana trista ha tristo sono</l>
+<l>un tristo cane abaia e fasse audace</l>
+<l>che da natura all'abaiare è prono:</l>
+<l>cusì una lingua trista tristamente</l>
+<l>bisogna sempre parle de la gente.</l></lg>
+</div2>
+<div2>
+<head>12</head>
+
+<lg><l>Mentre d'altro scoprir cerca el difetto</l>
+<l>non vede el suo peccato che è palese;</l>
+<l>mentre che 'l tosco n'escie dal suo petto</l>
+<l>meglio farìa de procacciar le spese.</l>
+<l>O disoluto, o nefando concetto!</l>
+<l>O lingue, nel mal dire ognora accese!</l>
+<l>non dicete più mal ch'a Dio non piace!</l>
+<l>Ma chiunque nasce tristo mai non tace.</l></lg>
+</div2>
+<div2>
+<head>13</head>
+
+<lg><l>Lingue maligne, perfide e ribalde,</l>
+<l>dicete pur quel che volete dire.</l>
+<l>Solo a dir mal sete costante e salde,</l>
+<l>lingue proterve, despietate e dire!</l>
+<l>Sempre nel male oprar fervide e calde</l>
+<l>avendo in parlar falso ogni desire,</l>
+<l>dicete pur, ch'avete un largo spazio,</l>
+<l>perché del vostro dire io ve n' disgrazio.</l></lg>
+</div2>
+<div2>
+<head>14</head>
+
+<lg><l>Chi da natura nasce ciarlatrice</l>
+<l>che dica sempre mal sempre bisogna</l>
+<l>e mentre che de gli altri parla e dice</l>
+<l>non s'acorge che in capo ha tanta rogna,</l>
+<l>che seccarà la lingua e la radice</l>
+<l>e mentre parla se stessa svergogna;</l>
+<l>e però meglio sarìa de tacere,</l>
+<l>ché chi mal dice el mal cerca d'avere.</l></lg>
+</div2>
+<div2>
+<head>15</head>
+
+<lg><l>Questo vostro mal dir poco me noce</l>
+<l>ma nocerà col tempo bene a voi.</l>
+<l>Chi 'l fuoco piglia in man la man glie coce:</l>
+<l>si se lamenta, non ha ragion poi.</l>
+<l>Però, lingue bugiarde, false e atroce,</l>
+<l>guardate prima quel che sete voi:</l>
+<l>ché tal molesta e dice mal d'altrui</l>
+<l>e quel che d'altro dice tocca a lui.</l></lg>
+</div2>
+<div2>
+<head>16</head>
+
+<lg><l>So che m'avete inteso quel che ho ditto</l>
+<l>e se altri non m'intende, m'intendo io.</l>
+<l>Chi offeso m'ha io l'ho nel core scritto</l>
+<l>e col tempo el vedrà, si piace a Dio!</l>
+<l>Io so' di questa terra e non di Egitto</l>
+<l>e vedrasse col tempo l'esser mio</l>
+<l>e spero, o lingue serpentine e stolte,</l>
+<l>che sarìte a lo sterco ancor sepolte!</l></lg>
+</div2>
+<div2>
+<head>17</head>
+
+<lg><l>Quanto meglio sarìa dir sempre bene,</l>
+<l>ché del ben dir s'aquista pregio e vanto!</l>
+<l>Chi d'altro dice mal sol cerca pene,</l>
+<l>ché del brutto parlar s'aquista el pianto.</l>
+<l>Però ciascuno el parlar suo refrene,</l>
+<l>ma voi diresti mal del primo santo</l>
+<l>che sta nel cielo, e però sequitate</l>
+<l>e poi vedete que ne guadagnate!</l></lg>
+</div2>
+<div2>
+<head>18</head>
+
+<lg><l>Io del vostro parlar fo poco stima,</l>
+<l>ché poco noce un verme ad un leone.</l>
+<l>Se dir voglio de voi con prosa e rima,</l>
+<l>el dirò meglio e con altro sermone</l>
+<l>che sentire el farò per sino in cima</l>
+<l>al chiaro ciel le vostre confugione.</l>
+<l>E non pensate, no, ch'io non vaneggio!</l>
+<l>Non dicete unqua mal,ché fate el peggio</l></lg>
+</div2>
+<div2>
+<head>19</head>
+
+<lg><l>O perversa natura! o mal costume,</l>
+<l>a dir mal d'altro senza fructo alcuno!</l>
+<l>Come el soporte, o sempiterno Nume,</l>
+<l>questo acerbo latrare et importuno?</l>
+<l>Perché non le disperde o le consume</l>
+<l>queste lingue contrarie al ben comuno</l>
+<l>acciò che mai non dicano più male</l>
+<l>queste lingue crudele e bestiale?</l></lg>
+</div2>
+<div2>
+<head>20</head>
+
+<lg><l>Que fructo avete voi del mal dir vostro?</l>
+<l>Malivolenza solo e inimicizia.</l>
+<l>Voi, lingue, perturbate el secul nostro</l>
+<l>con le vostre parol, vostra tristizia,</l>
+<l>ma spero nel Signor de l'alto chiostro</l>
+<l>che a tempo purgarà vostra malizia:</l>
+<l>però dicete ben, per mio conseglio,</l>
+<l>e lassate el mal dir ch'è molto meglio.</l></lg>
+</div2>
+<div2>
+<head>21</head>
+
+<lg><l>S'è visto uno omo essere stato morto</l>
+<l>sol per mal dire, sol per una parola.</l>
+<l>Non dicete più mal che avete el torto</l>
+<l>e chi mal dice mente per la gola.</l>
+<l>O che poca alegrezza, o rio conforto,</l>
+<l>s'aquista del mal dire! O sozza scòla!</l>
+<l>Però lassate el vostro parlar brutto,</l>
+<l>ché del mal dir s'aquista poco frutto.</l></lg>
+</div2>
+<div2>
+<head>22</head>
+
+<lg><l>Le mie orecchie non sol cento lingue</l>
+<l>ma saziarebbe ancor mille campane,</l>
+<l>sì che pur latra, favella e distingue,</l>
+<l>ché tue parole al fin son false e vane.</l>
+<l>Uno orso fiero, rogoglioso e pingue,</l>
+<l>non stima nulla un pargolecto cane:</l>
+<l>cusì io stimo te, le tue parole,</l>
+<l>ch'un tristo al savio mai nocer non pole.</l></lg>
+</div2>
+<div2>
+<head>23</head>
+
+<lg><l>Se l'om ponesse mente al favellare</l>
+<l>del vulgo inerte, vile et ignorante,</l>
+<l>el ce sarebbe in ver troppo da fare</l>
+<l>che santo Iobbe non sarìa costante.</l>
+<l>Lassa pur dir chi vol che non ha pare,</l>
+<l>de' fare a questi orecchie de mercante,</l>
+<l>non te curare ancor quel che se dica,</l>
+<l>ché mal sull'alber pò tacer la pica.</l></lg>
+</div2>
+<div2>
+<head>24</head>
+
+<lg><l>Se tu sei vecchio e non pòi far l'amore</l>
+<l>non dar fastidio a chiunque lo pò fare</l>
+<l>e si perso hai la forza e 'l tuo vigore</l>
+<l>la castità non voler predicare.</l>
+<l>Se tu non senti el iovenile ardore</l>
+<l>non volere a chi 'l sente biastemare</l>
+<l>e non dir più, non fare, o vecchio rio,</l>
+<l>ché fatto hai peggio tu che non fo io!</l></lg>
+</div2>
+<div2>
+<head>25</head>
+
+<lg><l>Vo' ch'io te dia uno optimo conseglio:</l>
+<l>non dar fastidio a chi non te dà impaccio,</l>
+<l>fatti li fatti tuoi che è molto meglio</l>
+<l>e guarda non t'involgi in qualche laccio.</l>
+<l>Si tu non dormi, ancor sappie ch'io veglio</l>
+<l>e tardo non sarò che parrò vaccio.</l>
+<l>Vive a tuo modo e lassa far chi vole,</l>
+<l>ché nocen sempre le triste parole.</l></lg>
+</div2>
+<div2>
+<head>26</head>
+
+<lg><l>Si mal di me dicesse Sipione</l>
+<l>o Pitaco, Biante o Periandro,</l>
+<l>si mal di me dicesse Cicerone,</l>
+<l>Ercole, Achille, Cesare, Alexandro,</l>
+<l>si mal di me dicesse el gran Solone,</l>
+<l>Curio, Fabrizio, Camillo et Evandro,</l>
+<l>ne pigliarebbe pena e gran dolore:</l>
+<l>ma si mal dice un tristo, m'è favore.</l></lg>
+</div2>
+<div2>
+<head>27</head>
+
+<lg><l>Dica pur chiunque vol, ch'io non mi curo</l>
+<l>ch'al suo dispetto pur farò a mio modo.</l>
+<l>Saldo in amarla starò come un muro</l>
+<l>né per sua lingua se solverà el nodo</l>
+<l>e quanto più sarà el suo parlar duro</l>
+<l>allor d'amarla più scaldarò el chiodo,</l>
+<l>sì che dica ognun pur quel che glie pare,</l>
+<l>ché quanto più diràn più voglio amare.</l></lg>
+</div2>
+<div2>
+<head>28</head>
+
+<lg><l>Lingue più false che la falsitade</l>
+<l>lingue più triste assai che la tristezza</l>
+<l>lingue più crude che la crudeltade</l>
+<l>lingue più dure assai che la durezza</l>
+<l>lingue più inique che l'iniquitade</l>
+<l>lingue più brutte assai che la bruttezza</l>
+<l>lassate el vostro dire acerbo e fello!</l>
+<l>ché buon frutto racoglie un parlar bello.</l></lg>
+</div2>
+<div2>
+<head>29</head>
+
+<lg><l>Questo linguaccio, se la diva mia</l>
+<l>sta nella chiesa a dir l'orazione,</l>
+<l>dice che 'l fa per far l'ipocresia,</l>
+<l>per far creder che l'opre sue sian bone.</l>
+<l>Si gravemente camina per via</l>
+<l>dice che fa troppo reputazione.</l>
+<l>El far ben non li giova, non gli vale,</l>
+<l>ché sempre questa lingua dice male.</l></lg>
+</div2>
+<div2>
+<head>30</head>
+
+<lg><l>Madonna, si sarai come sono io,</l>
+<l>lassa pur dir chi vol, non ne fo caso.</l>
+<l>Se conforme sarai al voler mio</l>
+<l>el petto tuo del cor mio sarà vaso</l>
+<l>e dica chiunque vol, sceleste e rio,</l>
+<l>ché 'l menarò, come bufal pe 'l naso.</l>
+<l>Fa che tu si' fidel, ferma e costante,</l>
+<l>ché rar noce el parlare al fido amante.</l></lg>
+</div2>
+<div2>
+<head>31</head>
+
+<lg><l>Chi refrenar sa la sua lingua bene</l>
+<l>saggio se pò chiamar più ch'altro in terra.</l>
+<l>Chi cerca de dir mal cerca aver pene,</l>
+<l>chi cerca de dir mal cerca aver guerra.</l>
+<l>A qualche tristo dir mal s'apartene,</l>
+<l>ché non cognosce pur se nel dire erra.</l>
+<l>Donque, lingua crudel, tuo dir sparagna,</l>
+<l>ché se perde al mal dir, non se guadagna.</l></lg>
+</div2>
+<div2>
+<head>32</head>
+
+<lg><l>Tu sei contenta, egli l'ha ben saputo,</l>
+<l>che tu no 'l vedi e non te sta da presso,</l>
+<l>e per mal suo voresti fosse muto,</l>
+<l>che non te nominasse cusì spesso.</l>
+<l>T'incresce, dici, averlo cognosciuto</l>
+<l>e che non iace nella terra impresso.</l>
+<l>Pur di' quel che te parché intende et ode</l>
+<l>e quanto più mal dici, allor più gode.</l></lg>
+</div2>
+<div2>
+<head>33</head>
+
+<lg><l>Sopra de questa lingua cada el fuoco,</l>
+<l>sopra de questa lingua venga un morbo,</l>
+<l>una cloaca sia de questa el luoco,</l>
+<l>mezzar se possa como in terra el sorbo.</l>
+<l>stracciata sia da lupi a poco a poco,</l>
+<l>mangiarla possa uno afamato corbo,</l>
+<l>poscia che nel mal dir se fa gagliarda</l>
+<l>questa lingua crudel, falsa e busiarda.</l></lg>
+</div2>
+<div2>
+<head>34</head>
+
+<lg><l>Lingue colme di tosco e de veneno,</l>
+<l>lingue colme di peste, absenzio e fele,</l>
+<l>al vostro favellar s'apra el terreno</l>
+<l>per inghioctirve, o rie lingue crudele!</l>
+<l>Lingue, de voi l'inferno ognor sia pieno</l>
+<l>che s'odan fine al ciel vostre querele,</l>
+<l>poiché col vostro dire empio e mordace</l>
+<l>perturbate el mio ben, la vera pace.</l></lg>
+</div2>
+<div2>
+<head>35</head>
+
+<lg><l>Quanti mostrano al volto esserme amici</l>
+<l>che dentro al cor desidran la mia morte!</l>
+<l>Sequeno molti altrui, s'i' son felici,</l>
+<l>che fugon poscia alla contraria sorte.</l>
+<l>Questi son crudi e perfidi nemici</l>
+<l>che vengon simulati alle mie porte,</l>
+<l>quai portano alla bocca ambrosia e mele,</l>
+<l>in petto tosco amaro, absenzio e fele.</l></lg>
+</div2>
+<div2>
+<head>36</head>
+
+<lg><l>Quanti se vantan d'aver fatto e detto</l>
+<l>con molte vaghe e caste damigelle,</l>
+<l>d'aver fruito el volto, el seno, el petto,</l>
+<l>e sonli state a tutte l'or ribelle!</l>
+<l>O perfido parlare e maledetto,</l>
+<l>da por discordia fra le chiare stelle!</l>
+<l>Però non sia chi creda così presto</l>
+<l>quando el parlare è falso e disonesto.</l></lg>
+</div2>
+<div2>
+<head>37</head>
+
+<lg><l>Non pensi e creda alcun che l'amor mio,</l>
+<l>quale io te porto, sia mai disonesto:</l>
+<l>in terra tu me sei celeste Idio</l>
+<l>però forza è che sia l'amore onesto.</l>
+<l>Si tu sei la mia speme, el mio desio,</l>
+<l>servo tuo sarò io, fido e modesto,</l>
+<l>e si la voce mia te sola chiama</l>
+<l>è sol per darte onor, trionfo e fama.</l></lg>
+</div2>
+<div2>
+<head>38</head>
+
+<lg><l>Si fosse alcun che dir voglia el contrario,</l>
+<l>ha pur gran torto,ché non sa el mio core.</l>
+<l>Io sol del petto mio so' secretario:</l>
+<l>amor non è dove non è l'onore!</l>
+<l>Chi ama per vergogna è molto vario</l>
+<l>e non se pò chiamar degno amatore:</l>
+<l>e però, donna, se 'l cor mio te brama,</l>
+<l>è sol per darte onor, trionfo e fama.</l></lg>
+</div2>
+<div2>
+<head>39</head>
+
+<lg><l>S'io son de questa donna fido amante</l>
+<l>cerco ben d'inalzarla in sino al cielo.</l>
+<l>Si mentre vivo glie sarò costante</l>
+<l>eterno esser farò suo mortal velo.</l>
+<l>E si dal capo per sino alle piante</l>
+<l>lodo costei che luce più che Delo,</l>
+<l>si da lei cerco l'amorosa trama</l>
+<l>è sol per dargli onor, trionfo e fama.</l></lg>
+</div2>
+<div2>
+<head>40</head>
+
+<lg><l>Sì che tace ormai, lingua, più non dire</l>
+<l>di quella ch'al mio cor porto scolpita,</l>
+<l>ché ancor col tempo potresti pentire</l>
+<l>e per el tuo mal dir perder la vita,</l>
+<l>ché tal fine ha chi cerca far morire</l>
+<l>altrui a torto, per sua calamita.</l>
+<l>Però di' pur di me, di lei ti sfama,</l>
+<l>ché lei del mondo è onor, trionfo e fama.</l></lg>
+</div2>
+</div1>
+<div1>
+
+<head>Sonetti de le lingue</head>
+
+<div2>
+<head>1</head>
+<lg type="sonetto">
+<lg><l>Una malvaggia lingua dice male</l>
+<l>de pontifici, regi e imperatori,</l>
+<l>dice de conti, principi e signori,</l>
+<l>de vescovi, vicario e cardinale.</l></lg>
+<lg><l>Una pessima lingua bestiale</l>
+<l>offusca col mal dir gli altrui onori,</l>
+<l>biasma speziale, barbier, fabri, sartori,</l>
+<l>e l'altrui danno non gl'incresce e cale,</l></lg>
+<lg><l>de preti, frati, monaci, eremiti,</l>
+<l>de maritate, vedove e donzelle,</l>
+<l>de gioveni, vecchi, mammoli e mariti,</l></lg>
+<lg><l>con sue falze parole, inique e felle,</l>
+<l>a guisa pazzi, insani e sbalorditi</l>
+<l>biasima e sancti, Idio, el ciel, le stelle.</l></lg>
+</lg>
+</div2>
+<div2>
+<head>2</head>
+<lg type="sonetto">
+<lg><l>La trista lingua taglia più ch'un brando</l>
+<l>la trista lingua coce più che 'l fuoco</l>
+<l>la trista lingua offende assai, non poco</l>
+<l>la trista lingua el ben fa gire in bando.</l></lg>
+<lg><l>La trista lingua fa gir lagrimando</l>
+<l>quelle che furno già con festa e giuoco,</l>
+<l>la trista lingua mai non trova luoco</l>
+<l>la trista lingua sempre va piccando.</l></lg>
+<lg><l>La trista lingua morde a guisa el tasso</l>
+<l>la trista lingua ancide qual veneno</l>
+<l>la trista lingua passa qual saecta.</l></lg>
+<lg><l>La trista lingua in dir mal solo ha spasso</l>
+<l>ch'altro non tien nel suo fallace seno:</l>
+<l>sì ch'abbia sempre mal, si glie dilecta!</l></lg>
+</lg>
+</div2>
+</div1>
+<div1>
+<head>Madrigale de le lingue</head>
+
+<lg><l>Si parli mal di me,</l>
+<l>lingua, di te dirò quanto mal posso,</l>
+<l>farotte romper l'osso</l>
+<l>per la sincera mia costante fè.</l>
+<l>Tu sei lasciva e trista,</l>
+<l>nemica de virtù, del viver santo:</l>
+<l>che 'l fuoco sia 'l tuo manto,</l>
+<l>poscia che per tuo amor danno s'aquista.</l>
+<l>Oh, si' tagliata in pezzi</l>
+<l>per esser pasto delle impaste fiere!</l>
+<l>Poiché non vuoi tacere,</l>
+<l>acciò ch'un'altra a dir mal non s'avezzi.</l></lg>
+</div1>
+<div1>
+<head>Immascarate da recitare el Carnevale</head>
+
+<div2>
+<head>Immascarata prima</head>
+
+<argument><p>Nel tempo del festevole carnevale, perché suole essere gran copia di pestifere lingue, Olimpo per dar solazzo con alquanti giovani de Sassoferrato andorono cantando questa immascarata portando ognuno una lingua tormentata in una tabella apesa alla cima de una asta. Cominciando a cantare un gentil giovene disse questa invocazione a Venere, sonando el generoso Olimpo.</p></argument>
+
+<p>1</p>
+<lg><l>Vener, che guidi l'amorosa turba,</l>
+<l>e tu, Cupido, valoroso arciero,</l>
+<l>fa ch'io possa narrar de chi conturba</l>
+<l>el tuo divino regno, grato e vero,</l>
+<l>d'ogni lingua che 'l nostro amor disturba</l>
+<l>con suo maligno dir fallace e fiero:</l>
+<l>concedimi favor dal divin scanno</l>
+<l>che de tal lingua possa dir l'inganno.</l></lg>
+
+<p>2</p>
+<lg><l>Questo ch'è ricco, grazioso e bello,</l>
+<l>che a l'asta porta, come chiar si vede,</l>
+<l>una lingua forata col cortello</l>
+<l>col suo mal dir gli ha tolta ogni mercede.</l>
+<l>O favellar busiardo, iniquo e fello,</l>
+<l>pazzo è quel pur che a l'empio dir tuo crede!</l>
+<l>Fate ciascun como fa questo tale:</l>
+<l>ch'una lingua crudel merta ogni male.</l></lg>
+
+<p>3</p>
+<lg><l>Questo altro, ch'una lingua in fuoco porta,</l>
+<l>non pol passare avante el vicinato</l>
+<l>dove dimora quella che 'l conforta</l>
+<l>perché una lingua a torto l'ha incolpato,</l>
+<l>dicendo che d'uno acto ella s'è accorta,</l>
+<l>che a pie' de l'uscio el giorno gli ha parlato:</l>
+<l>però la porta in fiamma, ardente fuoco,</l>
+<l>ché lingua trista non merta altro luoco.</l></lg>
+
+<p>4</p>
+<lg><l>Quante vaghe, modeste damigelle</l>
+<l>per un dir tristo perden lor ventura!</l>
+<l>E però questo, ch'ha le guance belle,</l>
+<l>che generoso nacque de natura,</l>
+<l>tira una lingua fuor de le mascelle</l>
+<l>con la tinaglia insanguinata e dura:</l>
+<l>perché chi dice quel che non glie tocca</l>
+<l>merta la lingua aver fuor de la bocca.</l></lg>
+
+<p>5</p>
+<lg><l>Questo altro, che felice al mondo nacque,</l>
+<l>ha passata la lingua con un chiodo,</l>
+<l>perché mentre che visse mai non tacque,</l>
+<l>ma sempre disse mal, commesse frodo</l>
+<l>contra colei che tanto al suo cuor piacque,</l>
+<l>che stretto l'ha con grazioso nodo:</l>
+<l>però la porta con un chiodo afflitta,</l>
+<l>ché mover non se possa, ma stia fitta.</l></lg>
+
+<p>6</p>
+<lg><l>Questo vago, polito giovenetto,</l>
+<l>ch'una lingua fa qui mangiare a un cane,</l>
+<l>ha perso ogni conforto, ogni diletto</l>
+<l>sol per parole acerbe, inique e strane.</l>
+<l>Da lingue triste nasce ogni difetto,</l>
+<l>da lingue venenose, aspre e villane,</l>
+<l>sì ch'a portarla in tal guisa è condutto,</l>
+<l>ché chi 'l mal dice aver deve mal frutto.</l></lg>
+
+<p>7</p>
+<lg><l>Questo che più d'ogni altro ha del galante</l>
+<l>solicito, sicur, secreto e solo,</l>
+<l>una lingua crudel con serpe tante</l>
+<l>portando va, che se cognosca el dolo,</l>
+<l>perché la diva sua, alma e prestante,</l>
+<l>del mondo ha tolta e messa al terzo polo:</l>
+<l>però la porta, publico e palese,</l>
+<l>acciò che gli altri impari alle sue spese.</l></lg>
+
+<p>8</p>
+<lg><l>Questo altro che sta qui pallido e smorto</l>
+<l>qual non se trova mai colore in viso,</l>
+<l>è stato privo del suo gran conforto,</l>
+<l>d'una che sembra el lieto Paradiso,</l>
+<l>per una lingua, qual glie fa gran torto,</l>
+<l>dicendo che di lei se piglia el riso:</l>
+<l>stanco l'ha fatto e non è più gagliardo</l>
+<l>una lingua crudele, un dir busiardo.</l></lg>
+
+<p>9</p>
+<lg><l>Questo, gran tempo, l'ha sequita certo</l>
+<l>e stava in grazia della sua signora,</l>
+<l>pure una lingua cruda l'ha diserto</l>
+<l>dicendo ch'el non ha pan per un'ora.</l>
+<l>El cor gl'ha reso, qual gl'aveva offerto,</l>
+<l>per una lingua iniqua e traditora:</l>
+<l>e fatto gl'ha lassar sì bel stendardo</l>
+<l>una lingua crudele, un dir busiardo.</l></lg>
+
+<p>10</p>
+<lg><l>Una lingua crudele e venenosa</l>
+<l>è stato causa che costui ha perso</l>
+<l>la sua ninfa gentile e graziosa,</l>
+<l>qual più lucea ch'el sol ne l'universo.</l>
+<l>Però la porta qui, stracciata e rosa,</l>
+<l>che per lo suo mal dir quasi è sumerso:</l>
+<l>cagione è sol del suo socorso tardo</l>
+<l>una lingua crudele, un dir busiardo.</l></lg>
+</div2>
+<div2>
+<head>Immascarata seconda</head>
+
+<argument><p>Olimpo da Sassoferrato mirando in nella sua terra e molti altri luochi essere poca iustizia, egli sotto velato cortice fingendo parlar delle donne voleva riprendere un iudice e pretore ch'era in Sassoferrato e finse li strazi d'uno tormentato core in molte maniere: quale era in nel fuoco, quale in l'ancudine, quale saectato, sì come si pò vedere nelli strambocti. E fecela recitare ad alcuni gioveni, ognuno portando pinto un core tormentato, e andavano cantando pe' le strade, dove miravano molte donne belle. E Olimpo suona un dolce leuto e un altro un cetarone acordato con quello dando dilecto alli ascoltanti, ma molto più alle damigelle delli vaghi giovenetti inamorati.</p></argument>
+
+<p>1</p>
+<lg><l>Voi che per ascoltar sete d'intorno</l>
+<l>siate pregati darce audienza,</l>
+<l>ché spero sentirete in questo giorno</l>
+<l>como gli amanti stanno in penitenza,</l>
+<l>vedrete como con infamia e scorno</l>
+<l>le damigelle danno la sentenza,</l>
+<l>vedrete come son pien de malizia,</l>
+<l>perché nel mondo non c'è più iustizia.</l></lg>
+
+<p>2</p>
+<lg><l>L'abiam servite con solicitudine</l>
+<l>e per ristor ne dà tormento e lucto.</l>
+<l>O pena grande! o grande amaritudine,</l>
+<l>ché al tanto ben servir non c'è più fructo!</l>
+<l>El miser cor posto han sopra l'ancudine</l>
+<l>e col martello el bacte e frange tucto,</l>
+<l>solazzo poi ne fanno e gran letizia,</l>
+<l>ché al mondo più non regna la iustizia.</l></lg>
+
+<p>3</p>
+<lg><l>Se domandiam del servir la mercede,</l>
+<l>ne dice villania, poi ce desprezza.</l>
+<l>Se le servemo ancor con pura fede,</l>
+<l>più crudeltà ce mostra, assai più asprezza.</l>
+<l>Non c'è iustizia più, non più sue erede,</l>
+<l>ma odio, iniquità, fraude e durezza.</l>
+<l>Per ben servir s'aquista inimicizia,</l>
+<l>ch'al mondo più non regna la iustizia.</l></lg>
+
+<p>4</p>
+<lg><l>Questo, che tanto tempo s'è straziato</l>
+<l>per servir queste crude damigelle,</l>
+<l>per premio el cor dolente gli ha squartato</l>
+<l>con le sue bianche mane inique e felle.</l>
+<l>O flagizio nefando! o gran peccato,</l>
+<l>farse a iustizia a tutte l'or ribelle!</l>
+<l>De quelle ingrate n'è pur gran divizia</l>
+<l>perché nel mondo non c'è più iustizia.</l></lg>
+
+<p>5</p>
+<lg><l>Questo altro afflicto assai pallido e smorto</l>
+<l>per ben servir costei glie mangia el core,</l>
+<l>né provede iustizia a tanto torto</l>
+<l>a questo meschinel, che indarno more,</l>
+<l>né pò trovare a tanto mal conforto</l>
+<l>ché quanto l'ama più, più el scaccia fore.</l>
+<l>Non vo' dir più, perché me par stultizia,</l>
+<l>ch'al mondo più non regna la iustizia.</l></lg>
+
+<p>6</p>
+<lg><l>Questo altro, che nel volto se languisce,</l>
+<l>vede l'afflicto cor nel freddo ghiaccio,</l>
+<l>e questa ingrata non lo exaudisce</l>
+<l>anzi più lo tormenta e li dà impaccio;</l>
+<l>e d'acusarla el miser non ardisce</l>
+<l>acciò non strenga più suo duro laccio,</l>
+<l>ché queste crude ognun tormenta e invizia</l>
+<l>ch'al mondo più non regna la iustizia.</l></lg>
+
+<p>7</p>
+<lg><l>Gente, ch'avete inteso el parlar nostro,</l>
+<l>tutte imparate senno a nostre spese.</l>
+<l>Non c'è iustizia più, ch'io ve 'l dimostro,</l>
+<l>in questa terra o vero altro paese.</l>
+<l>Dico: — patroni non sete del vostro</l>
+<l>perché iustizia non fa più difese.</l>
+<l>Cura v'abiate ognun, gente patrizia,</l>
+<l>perché nel mondo non c'è più iustizia.</l></lg>
+</div2>
+<div2>
+<head>Immascarata terza</head>
+
+<argument><p>El generoso Olimpo de Sassoferrato avendo amata più anni una leggiadra donna, quella dopo, como è costume delle donne, cambiò fantasia e volere e molto ingrata se dimostrò. Egli fece da uno optimo scultore, o volemo dire pintore che tale forsi non fu Apelle né Praxitele, pingere una ingrata in questo modo: una donna nuda sedendo sopra el mondo con una fede rotta d'oro in mano, perché l'ingrato non cura fede, con uno Cupido ligato a presso, avendo rotto l'arco, li strali, con la iustizia sotto li piedi, con uno stravaglio da man destra, con li compassi rotti, che denota el tempo perso, con piatti di fuoco gettati sotto sopra, con un breve titulo de sopra: Hec habeo quid cum non desistam. Cusì pinta, Olimpo con alquanti gioveni la portò per la terra al tempo de carnevale, cantando questi strambocti de sotto notati.</p></argument>
+
+<p>1</p>
+<lg><l>Voi che mirate questa donna nuda</l>
+<l>de questo meschinel rompé la fede,</l>
+<l>ad ogni tempo a lui è stata cruda,</l>
+<l>né poddé mai da lei aver mercede.</l>
+<l>Vedete como de tormento suda!</l>
+<l>Ella, ridendo del suo mal, si sede.</l>
+<l>Voi altre oneste e vaghe damigelle,</l>
+<l>siate piacevol, sì voi sete belle.</l></lg>
+
+<p>2</p>
+<lg><l>Questo altro che d'amor mai non fu scarco</l>
+<l>ché sempre amata l'ha più che se stesso,</l>
+<l>gli ha rotto de Cupido el strale e l'arco,</l>
+<l>como vedete egli ligato a presso;</l>
+<l>né mai non volse donarli un riso parco,</l>
+<l>un dolce sguardo mai glie fu concesso:</l>
+<l>ma non per questo cerca de lassarla</l>
+<l>anzi più forte ogni ora vole amarla.</l></lg>
+
+<p>3</p>
+<lg><l>Questo altro, c'ha portato già tanti anni</l>
+<l>el iugo al collo per placar costei</l>
+<l>sperando aver ristor de gravi affanni,</l>
+<l>delli affannati et amorosi omei,</l>
+<l>ma questa pronta e destra alli sui danni</l>
+<l>el iugo sotto i piedi tien con lei:</l>
+<l>per darli el premio ognor del suo servito</l>
+<l>gli ha tolto l'intellecto e l'appetito.</l></lg>
+
+<p>4</p>
+<lg><l>Vedete ch'ella sede sopra el mondo</l>
+<l>perché non stima el ciel, l'aer, la terra.</l>
+<l>E però questo, ch'ha 'l volto iocondo,</l>
+<l>non trova pace alla crudel sua guerra,</l>
+<l>ché questa cerca ognor de porlo al fondo</l>
+<l>e per non lo sguardar sua luce serra:</l>
+<l>però imparate voi, né siate crude,</l>
+<l>si non ve farìm penger tutte nude!</l></lg>
+</div2>
+<div2>
+<head>Immascarata quarta</head>
+
+<argument><p>In questa immascarata Olimpo dimostra quanta infamia sia lo imbiaccarse e fecela per fare vergognare certe donne, quale senza rispecto e modo se la ponevano. In nella quale immascarata forono molti gioveni vestiti da mercanti e portavano bussoletti, albarelli da pelar le ciglia, acque, mollica de pane e de luoco in luoco dove erano alcune donne, quale se ingersavano, cantavano questi sotto scripti strambocti con gran dilecto delli omini e poca satisfazione delle donne, quali a tali bellecti sono use atendere. E ben che tutte correseno a sentire per non parere essere de quelle, gli rencresceva assai e non poco que Olimpo in tal guisa cantava.</p></argument>
+
+<p>1</p>
+<lg><l>Donne, siam mercatanti genovesi</l>
+<l>e venem dalle parte de l'Egipto,</l>
+<l>cercato abbiamo ancor molti paesi</l>
+<l>e dal grave camino ognuno è afflicto.</l>
+<l>Molti denari abbiamo ancor dispesi</l>
+<l>como veder se pò,ché 'l tutto è scripto:</l>
+<l>per contentar le vaghe damigelle</l>
+<l>portamo molte cose da far belle.</l></lg>
+
+<p>2</p>
+<lg><l>Se alcuna donna fosse bianca e smorta,</l>
+<l>che roscia un poco se volesse fare,</l>
+<l>questo un degno verzin con seco porta</l>
+<l>ch'al fuoco proprio fa rasemigliare,</l>
+<l>e pezze de levante assai che importa</l>
+<l>per buon mercato a tutte ne vuol dare.</l>
+<l>Venetene a comprar, non induciate,</l>
+<l>voi giovenette, che ognor ve conciate.</l></lg>
+
+<p>3</p>
+<lg><l>E si alcuna è che vol pelar le ciglia,</l>
+<l>questo ch'è qui porta le tenagliole</l>
+<l>e faralle sottile a maraviglia</l>
+<l>e quando che 'l pel carpe, non gli dole.</l>
+<l>Farattene a piacere, o bella figlia:</l>
+<l>quanto glie ne vol dar, tanto ne vole.</l>
+<l>Venetene a comprar e siate prompte,</l>
+<l>ché son bone a pelar sino alla fronte.</l></lg>
+
+<p>4</p>
+<lg><l>Si alcuna donna al sol se fosse incotta</l>
+<l>questo ha un'acqua da mondarla presto,</l>
+<l>acqua rosata, chiusa sopra e sotta,</l>
+<l>lacte de donna con incenso pesto.</l>
+<l>Un'oncia de ciascuna sol ce botta</l>
+<l>e chiara d'ovo ponci e poi l'agresto.</l>
+<l>Venetene a comprar,ché fa a piacere:</l>
+<l>el modo ve dirà che s'ha a tenere.</l></lg>
+
+<p>5</p>
+<lg><l>Madonna, si te vuol far bianco el viso,</l>
+<l>va' da custui che tien l'acqua perfetta,</l>
+<l>con fior de biacca è fatta, non intriso,</l>
+<l>e canfora e borace, pura e netta.</l>
+<l>Lume de roco ancor non sia diviso,</l>
+<l>acqua de gigli e zucche vol se metta.</l>
+<l>Se 'l modo vol saper poi e la via,</l>
+<l>parla con lui un poco, figlia mia.</l></lg>
+
+<p>6</p>
+<lg><l>Questo altro porta l'acqua d'olivella,</l>
+<l>stillato aceto, alume, zuccarina,</l>
+<l>ch'ogni madonna parer fa una stella,</l>
+<l>tanto è gentile, chiara, degna e fina.</l>
+<l>E si un'altra vol parer più bella</l>
+<l>oleo de tartar fin, non da dozina:</l>
+<l>e così ingannarai tuo inamorato,</l>
+<l>ché starai proprio a guisa lo scialbato.</l></lg>
+
+<p>7</p>
+<lg><l>Questo ha spesi ducati cinquecento</l>
+<l>in acqua destillata de sambuco,</l>
+<l>si ne volete sta al vostro talento,</l>
+<l>de cipolle, de giglio porta el suco.</l>
+<l>Questo altro qui, ch'è pien de valimento,</l>
+<l>como vedete a pena lo conduco,</l>
+<l>e porta del sal bianco e sputo fino</l>
+<l>a chi volesse far lo scortechino.</l></lg>
+
+<p>8</p>
+<lg><l>Questo altro porta un degno solimato</l>
+<l>e mollica de pan, che concia bene,</l>
+<l>e porta de l'aceto destillato</l>
+<l>che la carne fa chiara e la mantene.</l>
+<l>Litargirio d'argento ha vantegiato</l>
+<l>che gran denaro in Africa glie vene.</l>
+<l>Comprate questo e lassate la gersa,</l>
+<l>ché voi ve la ponete alla riversa.</l></lg>
+
+<p>9</p>
+<lg><l>O vaghi giovenetti innamorati,</l>
+<l>prego non ve fidate delle donne</l>
+<l>che stanno proprio a guisa li scialbati.</l>
+<l>Maximamente queste gran madonne</l>
+<l>con le loro acque v'hanno incatenati.</l>
+<l>Quanti difecti glie copren le gonne!</l>
+<l>Partiamci, o miei fratelli, d'esto loco,</l>
+<l>dove che guadagnato ce abbiam poco.</l></lg>
+</div2>
+<div2>
+<head>Immascarata quinta</head>
+
+<argument><p>De carnevale el faceto Olimpo per recreazione comprò con alquanti gioveni molti pomi naranci, li quali portando a cavallo andavano per la terra de Sassoferrato sonando un dolce leuto. E poscia ognuno, dove più gli andava la fantasia, gettava le poma; ma inanze un generoso giovene cominciava a dire duo strambocti, quali sono qui di sotto notati. E poscia finiti quelli e date le poma, diceva li altri dui, li quali glie possono dire altri gioveni et acomodarli al suo proposito.</p></argument>
+
+<p>1</p>
+<lg><l>O donne mansuete e graziose,</l>
+<l>con lieto volto e con suave riso</l>
+<l>tutte preghiam che non state nascose,</l>
+<l>che dimonstrate a noi vostro almo viso.</l>
+<l>Naranci ve portiam, donne formose.</l>
+<l>discese dal celeste Paradiso.</l>
+<l>Non ve sdegnate, o donne de valore,</l>
+<l>con man pigliarle e molto più col core.</l></lg>
+
+<p>2</p>
+<lg><l>Questi pomi son vaghi e redolenti</l>
+<l>ma molto più voi sete, o damigelle.</l>
+<l>Per far li vostri amanti oggi contenti</l>
+<l>pigliate questi pomi, o chiare stelle,</l>
+<l>acciò che sia dal cor, da l'alme spenti</l>
+<l>l'odii, li sdegni e non siate rubelle.</l>
+<l>Le poma ve donam con lieto volto:</l>
+<l>ma 'l cor per forza voi n'avete tolto.</l></lg>
+
+<p>3</p>
+<lg><l>Per parte qui de questo giovenecto,</l>
+<l>che v'ha donate le suave poma,</l>
+<l>ringrazia, o donna, el vostro divo aspecto,</l>
+<l>vostri occhi, vostra fronte e vostra coma.</l>
+<l>Non ve sdegnate porvele nel pecto,</l>
+<l>pecto ch'agli orsi ponerìa la soma!</l>
+<l>Con festa e gioco in man ve le portate</l>
+<l>pensando spesso a chi ve l'ha donate.</l></lg>
+
+<p>4</p>
+<lg><l>Ve ringrazio tanto, tanto, tanto,</l>
+<l>tanto che no 'l potrebbe dir persona</l>
+<l>non che 'l mio discordato e flebil canto,</l>
+<l>né questo che per voi el liuto sona.</l>
+<l>Partir convienci con singulti e pianto</l>
+<l>da queste ch'han de l'altre la corona.</l>
+<l>Restate in pace et a voi la gran mercede:</l>
+<l>se 'l dono è poco, è ricco assai de fede.</l></lg>
+</div2>
+</div1>
+<div1>
+<head>Capitoli de le lingue</head>
+
+<div2>
+<head>1</head>
+
+<lg><l>Lingua crudel, perversa, empia e fallace,</l>
+<l>metti pur mal tra noi,ché non potrai</l>
+<l>turbare el nostro amor, la nostra pace.</l>
+<l>Lingua crudel, si sempre mal dirai</l>
+<l>di me, de la mia donna, ognor più forte,</l>
+<l>saldo e costante ognun ritrovarai.</l>
+<l>Lingua più cruda che la crudel morte,</l>
+<l>cerca pur de turbar nostra mercede</l>
+<l>ch'aperte fien più de pietà le porte.</l>
+<l>Lingua, di' pur,ché 'l tuo dir non se crede</l>
+<l>dalla signora mia gentile e bella</l>
+<l>e mai non mancarà la nostra fede.</l>
+<l>Lingua nefanda, despiatata e fella,</l>
+<l>mette pur mal fra noi che non te giova,</l>
+<l>ché non credemo all'empia tua favella.</l>
+<l>Lingua, ogni giorno di' pur cosa nova,</l>
+<l>mette pur mal fra noi che nulla vale</l>
+<l>perché del nostro amor fatto è la prova.</l>
+<l>Lingua mordace, falsa e bestiale,</l>
+<l>mette pur mal fra noi, quanto te pare,</l>
+<l>ch'ognor più me serà fida e leale.</l>
+<l>Lingua assueta, avezza al mormorare,</l>
+<l>mette pur mal fra noi,ché 'l stretto nodo</l>
+<l>per tuo mal dir non se pò deslegare.</l>
+<l>Lingua toscosa, colma d'ogni frodo,</l>
+<l>mette pur mal fra noi che 'l tempo perdi,</l>
+<l>ch'a dispartirme non c'è via, né modo.</l>
+<l>Lingua, che per mal dir più te rinverdi,</l>
+<l>mette pur mal tra noi,ché gli aurei strali</l>
+<l>de' nostri pecti ognor seran più verdi.</l>
+<l>Lingua, che vai spargendo tanto errore,</l>
+<l>mette pur mal, che perdi le parole,</l>
+<l>ch'ella m'ha dato e io gli ho dato el core.</l>
+<l>Lingua che 'l ben d'altrui te incresce e duole</l>
+<l>più presto sarai tu de dir mal stanca,</l>
+<l>ché non l'ame de cor quanto se puole:</l>
+<l>ch'una sincera fede mai non manca.</l></lg>
+</div2>
+<div2>
+<head>2</head>
+
+<lg><l>Perfide lingue, ch'ognor seminate</l>
+<l>busìe, odii, rancor, discordia e guerra,</l>
+<l>perché chi vive ben sempre incolpate?</l>
+<l>Perfide lingue, per voi ogni terra</l>
+<l>s'abassa, manca, se ruina e sface,</l>
+<l>ché mal dicete de chi mai non erra.</l>
+<l>Lingue, a cui tanto el rio mormorar piace,</l>
+<l>per el vostro mal dir più non se vede</l>
+<l>amicizia union concordia e pace.</l>
+<l>Perfide lingue, d'ogni infamia erede,</l>
+<l>de duol, fraude, inganni e tradimenti,</l>
+<l>per el vostro mal dir non c'è più fede.</l>
+<l>Perfide lingue, qual con vani accenti</l>
+<l>cercate dare el giorno a tutte l'ore</l>
+<l>pene, strazii, dolor, danni e tormenti!</l>
+<l>Perfide lingue, causa d'ogni errore,</l>
+<l>col mal dir vostro ognor gite cercando</l>
+<l>vituperio, vergogna e disonore.</l>
+<l>Lingue, col vostro dire empio e nefando</l>
+<l>omini, donne, vergene e donzelle</l>
+<l>spesso dispersi vanno e lacrimando.</l>
+<l>Perfide lingue, despiatate e felle,</l>
+<l>nascon da voi sol disdegnosi fructi:</l>
+<l>frasche, minzogne, zinzanie e novelle.</l>
+<l>Perfide lingue, quanti son conducti</l>
+<l>in gran desperazione e per voi stanno</l>
+<l>con lacrime, suspir, con pianti e lucti!</l>
+<l>Lingue crudel, che sol porgete affanno,</l>
+<l>furor, incendio, morte, orgoglio e fuoco,</l>
+<l>lassate quel mal dir che porta danno,</l>
+<l>pigliando un bel parlar che costa poco.</l></lg>
+</div2>
+<div2>
+
+<head>3</head>
+
+<lg><l>Dica pur mal di me quanto dir puole</l>
+<l>ogni persona, ch'io nulla me curo</l>
+<l>perché chi mal non fa non se ne duole.</l>
+<l>Dica pur mal di me con parlar duro</l>
+<l>ogni lingua nefanda, aspra e villana,</l>
+<l>perché chi mal non fa vive sicuro.</l>
+<l>Dica pur mal di me ogni lingua vana,</l>
+<l>dica pur mal di me con parlar forte</l>
+<l>perché chi mal non fa la mente ha sana.</l>
+<l>Dica pur mal di me per fato o sorte</l>
+<l>ogni bugiardo, ogni nimico mio</l>
+<l>perché chi mal non fa non cura morte.</l>
+<l>Dica pur mal di me con parlar rio</l>
+<l>ogni crudo sceleste, ogni mendace</l>
+<l>perché chi mal non fa lo aiuta Idio.</l>
+<l>Dica pur mal di me con dir fallace</l>
+<l>ogni verboso et ogni detractore</l>
+<l>perché chi mal non fa se ne dà pace.</l>
+<l>Dica pur mal di me con gran furore</l>
+<l>ogni vipera lingua e venenosa</l>
+<l>perché chi mal non fa sempre ha favore.</l>
+<l>Dica pur mal di me, dica ogni cosa</l>
+<l>ogni donna superba et arrogante</l>
+<l>perché chi mal non fa se ne riposa.</l>
+<l>Dica pur mal di me, poi se ne vante,</l>
+<l>dica pur mal di me con alta voce</l>
+<l>perché chi mal non fa sempre è costante.</l>
+<l>Dica pur mal di me con dire atroce,</l>
+<l>abbia di me pur falsa openione</l>
+<l>ch'a l'om giusto el mal poco glie noce,</l>
+<l>perché chi mal non fa sempre ha ragione.</l></lg>
+</div2>
+<div2>
+
+<head>4</head>
+
+<lg><l>Madonna, perché dice mal di me?</l>
+<l>In che te do molestia? in che te noco?</l>
+<l>Forsi perché te porto troppa fè.</l>
+<l>Madonna, perché dice in ogni loco</l>
+<l>che te serìa piacer vederme morto?</l>
+<l>Forsi perché tuo nome excelso invoco.</l>
+<l>Madonna, perché dice: — hai pur gran torto!</l>
+<l>Che t'ho fatto io perché me sei nemica?</l>
+<l>Forsi perché non chieggia a te conforto.</l>
+<l>Madonna, la ragion me sforza el dica:</l>
+<l>— che t'ho fatto io che non me pòi vedere?</l>
+<l>Forsi perché ognor cerco me si' amica.</l>
+<l>Madonna, perché non te puoi tenere</l>
+<l>che non diche di me quanto mal puoi?</l>
+<l>Forsi perché cerco io farte a piacere.</l>
+<l>Madonna, che ho fatto io alli occhi tuoi</l>
+<l>che verso me se mostran tanto irati?</l>
+<l>Perché dico: — di me fa quel che vuoi?</l>
+<l>Madonna, chi son poco aventurati:</l>
+<l>se dican ben, par sempre dican male</l>
+<l>e chi dice el contrario son laudati.</l>
+<l>Madonna mia, celeste et immortale,</l>
+<l>è questo el premio del donato core</l>
+<l>che spetto io, servo tuo, fido e leale?</l>
+<l>Madonna, perché a me rabbia e furore?</l>
+<l>Tu dice mal de chi te lauda tanto,</l>
+<l>adonque io merto mal per darte onore.</l>
+<l>Madonna, se de te favello e canto</l>
+<l>donque tu dice mal di me per tutto:</l>
+<l>è questo el pregio, el guidardone, el vanto?</l>
+<l>Madonna, del mal dir racoglio el frutto,</l>
+<l>perché da te, madonna, ho tal parole.</l>
+<l>O crudel lingua! o parlar falzo e brutto,</l>
+<l>poscia che per dir ben, dir mal se suole!</l></lg>
+</div2>
+<div2>
+
+<head>5</head>
+
+<lg><l>Se già te laudai per la più bella,</l>
+<l>ne son pentito e dico che tu sei</l>
+<l>de forme brutta, falsa, iniqua e fella.</l>
+<l>Se dissi già ch'in ciel te fen li dei,</l>
+<l>ora dico: — sei fatta nell'inferno</l>
+<l>da Pluto, Cerbar, dalli spirti rei.</l>
+<l>Se già dissi de far tuo nome eterno,</l>
+<l>ne son pentito e sper mutarai stile,</l>
+<l>l'ora, la nocte, el giorno, state e verno.</l>
+<l>Se già dissi: — madonna hai del gentile,</l>
+<l>ne son pentito e dico: — sei villana,</l>
+<l>bizzarra, desdegnosa, inepta e vile.</l>
+<l>Se già dissi: — madonna, sei umana,</l>
+<l>ne son pentito e dico: — sei superba,</l>
+<l>altiera, furibonda, ingrata e strana.</l>
+<l>Se già dissi ch'in te se posa e serba</l>
+<l>virtù, prudenza, pace e cortesia,</l>
+<l>dico che più d'ogni altra sei acerba.</l>
+<l>Se già dissi, madonna, ch'eri pia,</l>
+<l>ne son pentito e dico: — sei crudele</l>
+<l>qual lupa o serpe o qual leonza ria.</l>
+<l>Se già dissi: — sei dolce a guisa un mele,</l>
+<l>ne son pentito e dico: — sei amara</l>
+<l>qual tosco, qual veneno, absenzio e fele.</l>
+<l>E se già dissi: — a me tu sei pur cara,</l>
+<l>ne son pentito perché sei rapace,</l>
+<l>ingorda, insaziabile et avara.</l>
+<l>E se già dissi: — tu sola a me piace,</l>
+<l>ne son pentito e dico apertamente:</l>
+<l>— non t'amo, t'odio, l'esser tuo me spiace.</l>
+<l>E se 'l fior già te dissi della gente,</l>
+<l>ne son pentito e fece grande errore,</l>
+<l>perché sei traditora e fraudolente.</l>
+<l>Se già cercava darte fama e onore,</l>
+<l>ne son pentito e vo' darte vergogna,</l>
+<l>infamia, vituperio e disonore,</l>
+<l>perché chi cerca sempre trova rogna.</l></lg>
+</div2>
+<div2>
+
+<head>6</head>
+
+<lg><l>Tace, lingua crudel! tace, non dire,</l>
+<l>lingua, che lacerar te possan gli orsi!</l>
+<l>tace, che Cerbar te possa inghiottire!</l>
+<l>Tace, che fermo credo, senza forsi,</l>
+<l>te vederò stracciar tutta minuta</l>
+<l>da cani e lupi con rabiosi morsi.</l>
+<l>Lingua, che deventar tu possi muta</l>
+<l>quando che metti mal tra el patre e 'l figlio,</l>
+<l>lingua più amara ch'eboro, cicuta.</l>
+<l>Tace, lingua crudel, senza consiglio,</l>
+<l>tace,ché tu sei quella iniqua e cruda</l>
+<l>che tra moglie e marito pon bisbiglio.</l>
+<l>Lingua, che restar possi tutta ignuda</l>
+<l>in mezzo el fuoco, fra serpenti e tassi,</l>
+<l>lingua più falsa che Simone e Giuda.</l>
+<l>Lingua, per te se fan lite e fracassi,</l>
+<l>che te possa veder dilacerare</l>
+<l>fra sterpi, spini, rovi, alberi e sassi.</l>
+<l>Tace, lingua crudel, non mormorare,</l>
+<l>che possi in fra lo sterco esser sepolta</l>
+<l>poscia ch'ogni ben cerchi ruinare.</l>
+<l>Tace, lingua malvaggia, insana e stolta,</l>
+<l>che te possa veder tagliare in pezzi,</l>
+<l>né requie trovar possi una sol volta.</l>
+<l>Malvaggia lingua, lassa i crudi avezzi,</l>
+<l>di' ben, non dir più mal,ché 'l mal dir noce!</l>
+<l>e si col tuo parlare altrui disprezzi,</l>
+<l>te sarà dato spesso in su la voce.</l></lg>
+</div2>
+<div2>
+
+<head>7</head>
+
+<lg><l>Fortuna alpestra, despiatata e fella,</l>
+<l>opra contra di me quel che tu vole</l>
+<l>ché de po' la tempesta vien la stella.</l>
+<l>Dica pur chi vol dir quel che dir pole,</l>
+<l>sia l'empia sorte contra me fallace</l>
+<l>perché de po' la nocte torna el sole.</l>
+<l>Fortuna, di me fa quel che te piace</l>
+<l>e sìeme el ciel pur quanto vole avaro</l>
+<l>perché de po' la guerra vien la pace.</l>
+<l>Pazienza, poi ch'alle mie spese imparo!</l>
+<l>Tempo serà che serò fuor de stento</l>
+<l>ché 'l ciel de po' la nebbia se fa chiaro.</l>
+<l>Se 'l fato acerbo è del mio mal contento,</l>
+<l>tempo serà che me serà felice</l>
+<l>ché eterno esser non pò grave tormento.</l>
+<l>Si alcuna lingua de me parla e dice,</l>
+<l>tempo serà che ne serà pentita</l>
+<l>ché spesso l'arbor secca e le radice.</l>
+<l>Se li dei non me danno pace e aìta,</l>
+<l>tempo serà che me daran conforto</l>
+<l>perché se dice: — quel ch'ha tempo ha vita.</l>
+<l>Se 'l pianeta crudel me fa gran torto,</l>
+<l>tempo serà che me farà ragione</l>
+<l>ché navigando ben se gionge al porto.</l>
+<l>Se 'l folle mio destin me dà passione,</l>
+<l>tempo serà che me darà alegrezza</l>
+<l>perché non dura sempre una stagione.</l>
+<l>Si al presente me trovo in gran bassezza,</l>
+<l>tempo serà che serò in alto ancora</l>
+<l>perché de po' l'amar vien la dolcezza.</l>
+<l>Si l'alma mia gentil s'affligge ognora,</l>
+<l>tempo serà che serò fuor de' guai,</l>
+<l>ché aiuta sempre Idio a chi l'adora:</l>
+<l>e poi non dura un tempo sempre mai!</l></lg>
+</div2>
+</div1>
+<div1>
+<head>Frottola de le lingue</head>
+
+<lg><l>Lingua, non dir più male</l>
+<l>ché 'l mal dir non diletta</l>
+<l>e chi fa 'l mal l'aspetta</l>
+<l>e vollo el giusto.</l>
+<l>O lingua, el dir robusto</l>
+<l>despiace molto a Dio,</l>
+<l>parlare umile e pio</l>
+<l>a tutti piace.</l>
+<l>Lingua, el parlar mordace</l>
+<l>fa l'omo tener stolto</l>
+<l>e fallo esser sepolto</l>
+<l>de l'onore.</l>
+<l>Lingua, non far più errore,</l>
+<l>non biasimare altrui</l>
+<l>ché torna sovra voi</l>
+<l>poscia l'inganno.</l>
+<l>Lingua, non dar più danno,</l>
+<l>guarda prima chi sei</l>
+<l>ché 'l mal dir porge omèi,</l>
+<l>tormento e pena.</l>
+<l>Lingua, tuo dir refrena</l>
+<l>e 'l tuo parlar sparagna,</l>
+<l>del ben dir se guadagna</l>
+<l>e non se perde.</l></lg>
+</div1>
+<div1>
+<head>Barzelletta de le lingue</head>
+
+<lg><l>Tu non merti altro amatore</l>
+<l>se non qualche stolto e pazzo,</l>
+<l>con quel giochi e fai solazzo,</l>
+<l>con quel parli de l'amore.</l>
+<l>Tu non merti altro amatore.</l>
+<l>Se te guarda un citadino,</l>
+<l>fuggi, tu non el vuoi vedere,</l>
+<l>poi con qualche contadino</l>
+<l>per parlar stai a sedere,</l>
+<l>perché quel non pò sapere</l>
+<l>si tu hai fento el tuo colore!</l>
+<l>Tu non merti altro amatore.</l>
+<l>Qualche vecchio, novo amante,</l>
+<l>tu recerchi che sei vecchia</l>
+<l>e con lui fai del galante</l>
+<l>ch'a tua biacca ognor se specchia,</l>
+<l>al dir suo porgi l'orecchia</l>
+<l>che te rende fama et onore!</l>
+<l>Tu non merti altro amatore.</l>
+<l>Sei nimica a' virtuosi,</l>
+<l>fuggi sempre un om gentile,</l>
+<l>gli occhi tuoi mostri pietosi</l>
+<l>sempre a qualche pazzo o vile:</l>
+<l>chi notriti en nel porcile</l>
+<l>tu porti in mezzo el core!</l>
+<l>Tu non merti altro amatore.</l>
+<l>Strengi pur nella centura</l>
+<l>per mostrar d'aver bel petto,</l>
+<l>altro non ce pon mai cura</l>
+<l>se non chi ha poco intelletto:</l>
+<l>a lor volgi el finto aspetto</l>
+<l>ch'egli son dal tuo splendore!</l>
+<l>Tu non merti altro amatore.</l>
+<l>Giura pur quanto più sai</l>
+<l>che me vuoi esser nemica,</l>
+<l>io te giur: — me 'l pensai,</l>
+<l>perché fusti sempre aprica</l>
+<l>e de pazzi e vecchi amica</l>
+<l>o de qualche servitore!</l>
+<l>Tu non merti altro amatore.</l>
+<l>Tu vuoi bene a chi ogni giorno</l>
+<l>guarda l'uscio e 'l tuo balcone,</l>
+<l>a chi sempre infamia e scorno</l>
+<l>te fa aver dalle persone,</l>
+<l>a quel dài consolazione,</l>
+<l>a quel porgi el tuo favore!</l>
+<l>Tu non merti altro amatore.</l>
+<l>Del tuo petto è secretario</l>
+<l>forsi un om da farne stima?</l>
+<l>Un che sta come el lunario,</l>
+<l>che de alocchi tien la cima,</l>
+<l>un che sempre in prosa e rima</l>
+<l>dice male a tutte l'ore!</l>
+<l>Tu non merti altro amatore.</l>
+<l>Sei, madonna, cognosciuta</l>
+<l>per la pratica qual tiene:</l>
+<l>non t'avesse io mai veduta,</l>
+<l>perché ditt'ho tanto bene?</l>
+<l>Non arìa,ché non conviene,</l>
+<l>laudar chi è senza onore!</l>
+<l>Tu non merti altro amatore.</l>
+<l>Non sei più, si fusti bella,</l>
+<l>però fuggi da chi 'l vede:</l>
+<l>usa pur la tua favella</l>
+<l>col tuo amante che te crede,</l>
+<l>quello arà da te mercede</l>
+<l>che sempre ha qualche dolore!</l>
+<l>Tu non merti altro amatore.</l>
+<l>Chiunque è usa tra villani</l>
+<l>sempre, sempre ha del villano:</l>
+<l>e chi dorme con li cani</l>
+<l>pulce trova con le mano.</l>
+<l>Ho mio tempo speso in vano</l>
+<l>a laudare un brutto fiore!</l>
+<l>Tu non merti altro amatore.</l>
+<l>Vada pure ognun ch'è brutto</l>
+<l>a veder questa megera</l>
+<l>ch'averà da lei el frutto</l>
+<l>perché solo in pazzi spera,</l>
+<l>a vil gente bona ciera</l>
+<l>sempre fa, non a megliore!</l>
+<l>Tu non merti altro amatore.</l></lg>
+</div1>
+<div1>
+<head>Egloga.</head>
+
+<p>In questa egloga sequente Olimpo recita una narrazione, quale dice essere nelli libri de Santi Patri, dove se comprende che l'omo non pò viver tanto bene, che sempre qualcuno el biasima: e chi la vole bianca, chi roscia, chi verde e tal gialla. Et è da notare bene e lassar dire chi vuole; fa che la vita tua piaccia a Dio, del resto non te curare, quia soli Deo servire regnare est. Pensano molti alcuni esser dannati che sono in grazia, e molti pensano alcuni essere in grazia che sono dannati, come aserisce San Gregorio, però ognuno rafreni la sua lingua bene, che <foreign lang="lat">intentio iudicat omnes.</foreign></p>
+<stage>Interlocutori: el patre, figliolo et externo, quali scontrano el patre et el figloilo.</stage>
+
+<lg><l>Voi che qui sete sol per ascoltare</l>
+<l>un breve exempio nostro brevemente</l>
+<l>serà compìto, se volete dare</l>
+<l>silenzio alquanto, o valorosa gente.</l>
+<l>Tanta dolcezza ve farem gustare</l>
+<l>quanta ébben forsi mai le vostre mente</l>
+<l>e quel che se dirà ve prego a tutti</l>
+<l>che ve ricordi,ché faran buon frutti.</l></lg>
+<sp><speaker>Patre</speaker><l>Dolce figliolin mio, ligiadro e bello,</l>
+<l>vanne a la stalla e fa che metti imponto</l>
+<l>quel nostro grato e piccolo asinello.</l></sp>
+<sp><speaker>Figliolo</speaker><l>Io anderò, mio patre, destro e prompto,</l>
+<l>e farò tutto quel che voi volete.</l>
+<l>Sta' su! Sei forsi dal dormir defonto?</l>
+<l>Dimme, asinello mio, hai ancor sete?</l>
+<l>Che farai, bestia? làssate imbastare!</l>
+<l>L'asino è in ordine, eccol qua, vedete.</l></sp>
+<sp><speaker>Patre</speaker><l>Or su, figliol, ch'io voglio caminare.</l>
+<l>Monta a cavallo tu, io girò a piede.</l></sp>
+<sp><speaker>Figliolo</speaker><l>Dolce mio patre, questo no 'l vo' fare.</l></sp>
+<sp><speaker>Patre</speaker><l>Ce salirò, figliol, per la mia fede,</l>
+<l>e tu presto caminarai inante.</l>
+<l>Arri, su, dico! Pur tu non me crede!</l></sp>
+<sp><speaker>Externo</speaker><l>Guarda, vecchio malvagio! gran furfante,</l>
+<l>questo pover figliol fa gir de trotto!</l>
+<l>Non starìa meglio a lui, ch'ha dur le piante?</l>
+<l>Diavol, fallo gir col capo sotto,</l>
+<l>che se rompa la spalla! Oh, bello onore</l>
+<l>ce fai, gire a caval! Tu sei el bel ghiotto!</l>
+<l>Perdio, vecchio, s'i' fosse a te signore,</l>
+<l>te farìa gire a piedi al tuo dispetto!</l>
+<l>Guarda quel mamol, cola dal sudore!</l></sp>
+<sp><speaker>Patre</speaker><l>O figliol mio, che sii tu benedetto,</l>
+<l>vien qua, monta a cavallo! Hai tu sentito</l>
+<l>quel ch'ha ditto quello om? Che gran difetto!</l></sp>
+<sp><speaker>Figliolo</speaker><l>Patre, lassate dir. Camino ardito.</l>
+<l>Toccate l'asinel quanto ve piace,</l>
+<l>par che voi siate al suo parlar smarrito!</l></sp>
+<sp><speaker>Patre</speaker><l>Vien qua, figliol, che Dio te dia la pace!</l>
+<l>Forsi che lor non ciarlaranno più:</l>
+<l>salta sù, presto gagliardo et audace.</l></sp>
+<sp><speaker>Figliolo</speaker><l>Arri, arri! Forsi ch'io vo troppo presto?</l></sp>
+<sp><speaker>Patre</speaker><l>Non me ne cur, camina quanto vuole.</l></sp>
+<sp><speaker>Figliolo</speaker><l> Que farai, bestia? Quanto sei rubesto!</l>
+<l>Dio ve salve.</l></sp>
+<sp><speaker>Externo</speaker><l>Ben venga. Assai me dole</l>
+<l>di te, vecchio, che vai per extà fiero.</l>
+<l>A questo putto per sì caldo sole,</l>
+<l>tu hai el pè greve et egli l'ha legero,</l>
+<l>fa caminare, ad ello ch'è più forte,</l>
+<l>cusì l'omo se fa gagliardo e fiero.</l>
+<l>Forsi serà cagion de la tua morte,</l>
+<l>si te riscalde per questo viaggio;</l>
+<l>fa a senno mio, non tentar più la sorte!</l></sp>
+<sp><speaker>Patre</speaker><l>Io non me cur de caminar, per ch'aggio</l>
+<l>ormai la pelle dura e non me noce.</l></sp>
+<sp><speaker>Externo</speaker><l>Tu devi esser per certo un om selvaggio.</l>
+<l>Or su, figliolo, ascolta la mia voce,</l>
+<l>non lassar più tuo patre caminare!</l>
+<l>Non vi' ch'è stanco e dal calor si coce?</l></sp>
+<sp><speaker>Figliolo</speaker><l>Non so per certo che me debbia fare:</l>
+<l>tu me consegli non vada a cavallo,</l>
+<l>quell'altro per suo dir me fe' montare!</l></sp>
+<sp><speaker>Externo</speaker><l>Smonta giù, figliol mio, te prego, fallo,</l>
+<l>che te serà mercede, e lassa gire</l>
+<l>el vecchio che pon spesso el piede in fallo!</l></sp>
+<sp><speaker>Figliolo</speaker><l>A questa fiata te voglio obedire.</l>
+<l>Ècco me sceso in terra al tuo piacere!</l>
+<l>Veder voglio io che più vorranno dire,</l>
+<l>que cosa è questa io no 'l posso sapere.</l>
+<l>Voglio che l'asin vada senza soma,</l>
+<l>forsi ch'ormai gli farìmo tacere.</l></sp>
+<sp><speaker>Externo</speaker><l>La bestia non deve esser ancor doma</l>
+<l>ch'andate a piede ciaschedun de voi!</l>
+<l>O che gente de' andare a stare in Roma!</l>
+<l>Monstrate esser stolti (en)trambe doi:</l>
+<l>possète a caval gire ognuno un poco</l>
+<l>e dar la biava a l'asino da poi!</l></sp>
+<sp><speaker>Patre</speaker><l>Figliol, tu senti che per ogni luoco</l>
+<l>de noi se parla. Sai quel che facemo?</l>
+<l>Cavalcàm tutti doi, che gli arda el fuoco!</l></sp>
+<sp><speaker>Figliolo</speaker><l>Camina, bestia, se non, perdìo, temo</l>
+<l>che sentirai sonar spesso el bastone!</l>
+<l>Quel ciarlatore acontentato avemo,</l>
+<l>questo asin sentirà troppa passione:</l>
+<l>noi pesam troppo.</l></sp>
+<sp><speaker>Patre</speaker><l>Lassa pur sentire!</l></sp>
+<sp><speaker>Externo</speaker><l>O vecchio pazzo! o brutto lumacone,</l>
+<l>non vedi che questo asin fai morire?</l>
+<l>So che, perdìo, no 'l portarà già el vento,</l>
+<l>né manco averà voglia de natrire!</l>
+<l>O vecchio, che non sii tu mai contento!</l>
+<l>Tu sei tornato in senno, mamolino;</l>
+<l>vi' che già l'asino è de vita spento?</l>
+<l>O povero asinel, pover meschino,</l>
+<l>non son presti cusì darte a mangiare:</l>
+<l>cusì non mangien lor né pan né vino!</l></sp>
+<sp><speaker>Patre</speaker><l>Non so più que me fare.</l>
+<l>Senti tu mormorare</l>
+<l>quel ch'è là?</l>
+<l>Donque viene un poco qua,</l>
+<l>figliol mio,</l>
+<l>voglio veder, perdìo,</l>
+<l>que cosa è questa!</l>
+<l>Piglia tu su la testa</l>
+<l>et io la coda,</l>
+<l>la corda al collo annoda</l>
+<l>e tira forte.</l></sp>
+<sp><speaker>Externo</speaker><l>O maledetta sorte,</l>
+<l>que vol dir questo?</l>
+<l>Vecchio, tu sei foresto,</l>
+<l>lassa gire!</l></sp>
+<sp><speaker>Patre</speaker><l>Io ce voglio morire,</l>
+<l>el voglio alzare.</l></sp>
+<sp><speaker>Externo</speaker><l>Tu cerchi de crepare!</l></sp>
+<sp><speaker>Patre</speaker><l>Io te voglio narrare el tutto.</l>
+<l>Me so condutto</l>
+<l>in fine a questo loco</l>
+<l>e caminando un poco</l>
+<l>in su l'asino io stava,</l>
+<l>venne uno e gridava</l>
+<l>dicendo:</l>
+<l>— come io comprendo</l>
+<l>tu fai male</l>
+<l>e monstri poco sale</l>
+<l>avere in zucca</l>
+<l>e deve essere sciucca</l>
+<l>de cervello!</l>
+<l>Questo figliol bello</l>
+<l>non pò più!</l>
+<l>Alora io dissi: — su,</l>
+<l>ascende tu, figliolo!</l>
+<l>Caminando un pezzolo</l>
+<l>scontro un altro,</l>
+<l>parìa nel viso scaltro</l>
+<l>e sapiente,</l>
+<l>incontinente</l>
+<l>comenzò a dire:</l>
+<l>— vecchio, cerchi morire!</l>
+<l>A piede lassa gire</l>
+<l>questo fanciulletto,</l>
+<l>che glie sarà diletto</l>
+<l>e gioia.</l>
+<l>Poi con affanno e noia</l>
+<l>senza alcuno intervallo salemmo</l>
+<l>e poco in vero stemmo.</l>
+<l>Disse un altro: — que fate</l>
+<l>che voi scorticate</l>
+<l>el somaro!</l>
+<l>A quel suo dire amaro</l>
+<l>scendemmo a piede.</l>
+<l>Un altro, per mia fede,</l>
+<l>ce disse:</l>
+<l>— sei più astuto che Ulisse!</l>
+<l>O gente senza fede,</l>
+<l>ha l'asino e va a piede!</l>
+<l>In fede bona</l>
+<l>ognun borbotta e ragiona</l>
+<l>secondo el suo apetito,</l>
+<l>io so' quasi smarrito</l>
+<l>e non so que me fare:</l>
+<l>ognuno vuol ciarlare</l>
+<l>del compagno.</l>
+<l>Si tu atendi al guadagno,</l>
+<l>dice: — fa l'usura!</l>
+<l>Si alcun altro ha cura</l>
+<l>a le possessione,</l>
+<l>se dice ch'è ladrone</l>
+<l>e fraudolente;</l>
+<l>si vive alegramente,</l>
+<l>dice: — è un gualandrello!</l>
+<l>e: — c'ha poco cervello</l>
+<l>e vedere!</l>
+<l>Si alcun se vol tenere</l>
+<l>in gravità,</l>
+<l>se dice ch'el fa</l>
+<l>ch'egli è superbo.</l>
+<l>O rio parlare acerbo,</l>
+<l>falso e brutto!</l>
+<l>Si un va remesso tutto</l>
+<l>per la via,</l>
+<l>dice: — fa l'ipocrisia</l>
+<l>e fenge el santo!</l>
+<l>Se alcun se dà vanto</l>
+<l>de quel ch'è ver ch'ha fatto,</l>
+<l>si dice ch'egli è matto</l>
+<l>e pazzo,</l>
+<l>piglia vecchio in solazzo</l>
+<l>e per piacere,</l>
+<l>ché non se pò tenere</l>
+<l>le lingue in questa terra</l>
+<l>che meterìano guerra</l>
+<l>in fra la Trinitade e in fra li santi.</l>
+<l>Quanti singulti e pianti</l>
+<l>causan questi linguacci!</l>
+<l>Stanno in su piumacci</l>
+<l>e pensan male,</l>
+<l>o lingue bestiale,</l>
+<l>al vizio avezze!</l>
+<l>o lingue pien d'asprezze</l>
+<l>e de tristizie!</l>
+<l>lingue pien de malizie</l>
+<l>e tradimenti!</l>
+<l>non sieno mai contenti</l>
+<l>e lieti!</l>
+<l>Gl'omini discreti</l>
+<l>e dotti</l>
+<l>non curano i ciarlotti</l>
+<l>e li busiardi</l>
+<l>perché i giorni son tardi!</l>
+<l>In pace restate e non curate l'altrui parole.</l>
+<l>Vive a tuo modo e lassa dir chi vole.</l>
+<l>Or te ne va pur col nome de Dio,</l>
+<l>e noi questa altra via ch'è qua pigliamo</l>
+<l>dolce, iocondo e car figliolin mio!</l>
+<l>A voi che qui restati confortiamo</l>
+<l>che a l'altrui favellar non date cura,</l>
+<l>ché chi mal dice ha de Mateo un ramo.</l></sp>
+</div1>
+<div1>
+<head>Laude d'una pastorella.</head>
+
+<opener><salute>A Ieronimo delli Severi da Sassoferrato, altramente ditto Tempesta, Baldasarre Olimpo.</salute></opener>
+
+<lg><l>O dolce e caro e gentil mio Tempesta,</l>
+<l>ascolta e senti un poco una novella</l>
+<l>come una mamoletta pastorella</l>
+<l>me fece amor sentire un dì de festa.</l>
+<l>La vidde caminar ligiadra e presta,</l>
+<l>discalza, senza aver cuffia o cappella,</l>
+<l>senza camorra, solo in sottanella,</l>
+<l>umil, piacevol, graziosa et onesta.</l>
+<l>Me piacque tanto la sua nobil grazia</l>
+<l>ch'io me disposi farmeli sugetto,</l>
+<l>e de parlarli unqua non ebbe audazia,</l>
+<l>ma fece nella mente un tal concetto</l>
+<l>de laudarla ben ch'ella me strazia</l>
+<l>acciò che tu ne possi aver diletto.</l></lg>
+</div1>
+<div1>
+<head><foreign lang="lat">P. Hieronymi Olympi Sentinatis dialogus.</foreign></head>
+
+<lg lang="lat"><l>Quid facit hic autor? Silvestrem laudat amicam</l>
+<l>et laudes coeli tollit ad astra suas.</l>
+<l>Hei! Pudor est civi campestrem laude puellam</l>
+<l>quippe sequi? Quid tum, sunt in amore pares.</l>
+<l>Qua ratione pares? Formosam diligit ipse</l>
+<l>formosus. Tener est, ipsa tenella magis.</l>
+<l>Sanguine dissimiles igitur pro crimine habendum est?</l>
+<l>Quid refert? Error hic venialis erit.</l></lg>
+</div1>
+<div1>
+<head>LAUDE D'UNA PASTORELLA</head>
+<lg>
+<head>1</head>
+<l>Vesta qual donna vol velluto o seta,</l>
+<l>raso, damasco, ciambellotto ancora,</l>
+<l>vesta broccato per parer più lieta</l>
+<l>e vestase d'or fin che più l'infiora,</l>
+<l>spenda in rosato chi pur vol moneta</l>
+<l>e in quel vago color che più l'onora:</l>
+<l>ché più galante è la mia pastorella</l>
+<l>quando de rete porta la cappella.</l></lg>
+<lg>
+<head>2</head>
+<l>Le guance de la mia pastorelluccia</l>
+<l>rasembran proprio dua mela rosciole.</l>
+<l>I gentil labri de la sua boccuccia</l>
+<l>paron due fraganelle volte al sole</l>
+<l>e le sue carne odoran de mentuccia</l>
+<l>e de silvestre e mammole viole.</l>
+<l>Le tette sono dur, vaghette e belle,</l>
+<l>che par che sien dua mela caponcelle.</l></lg>
+<lg>
+<head>3</head>
+<l>La pastorella mia quando fa el pane</l>
+<l>mena le braccia e tutta la persona,</l>
+<l>poscia sul spasso batte ambe le mane</l>
+<l>che per la strada tutto el batter suona;</l>
+<l>e le spianate fa rotonde e piane,</l>
+<l>le quale a chi l'aiuta poi le dona,</l>
+<l>poscia va al forno per veder si è caldo.</l>
+<l>Si la saluto, dice: — sei un ribaldo!</l></lg>
+<lg>
+<head>4</head>
+<l>La pastorella mia se stava un giorno</l>
+<l>de fuora al campo a coglier le muriche</l>
+<l>con un visetto sì polito e adorno</l>
+<l>che tal non forno de li dèi l'amiche.</l>
+<l>Sovente la guardava d'ogni intorno</l>
+<l>ch'era geloso in sin de le formiche</l>
+<l>ch'al piede scalzo suo non glie mordesseno</l>
+<l>e de le spin che non me la pongesseno.</l></lg>
+<lg>
+<head>5</head>
+<l>La pastorella mia portava in testa</l>
+<l>una ghirlanda tessuta de fiori</l>
+<l>e geva per la villa ardita e presta</l>
+<l>a giovenetti amanti ardendo e cori.</l>
+<l>Non con altro vestire et altra vesta</l>
+<l>né con altre camorre de colori,</l>
+<l>ma sol discalza con un mezzo lana</l>
+<l>ninfa bella pareva de Diana.</l></lg>
+<lg>
+<head>6</head>
+<l>Quando se vol guardare al chiaro specchio</l>
+<l>la pastorella mia, sì galantina,</l>
+<l>mette de l'acqua chiara dentro al secchio</l>
+<l>et ivi guarda sua faccia divina.</l>
+<l>Cusì le treccie drizza con un stecchio</l>
+<l>e mentre el fa nell'acqua se rinchina,</l>
+<l>se volge e move e fa come una biscia</l>
+<l>mentre ch'al specchio se fa bella e liscia.</l></lg>
+<lg>
+<head>7</head>
+<l>Va la mia pastorella el giorno scalza</l>
+<l>e spesso la molesta qualche pietra,</l>
+<l>tanta pietà di lei el cor m'incalza</l>
+<l>che vien la faccia mia pallida e tetra.</l>
+<l>E quinci or quinde corre, salta e balza,</l>
+<l>or fila, or canta et or sufragio impetra,</l>
+<l>ma sper che per amor dei pie' discreti</l>
+<l>diventeranno i saxi ancor tapeti.</l></lg>
+<lg>
+<head>8</head>
+<l>Si scalza va la pastorella mia</l>
+<l>non l'offenden le pietre dure e i sassi</l>
+<l>perché sta in suo potere, in sua balìa</l>
+<l>de rompere el diamante con suoi passi.</l>
+<l>È tanto graziosa e tanto pia</l>
+<l>che fa lassar lo sdegno agli orsi, ai tassi,</l>
+<l>e si va scalza, el pie' non se consuma</l>
+<l>ch'ogni cosa per lei diventa piuma.</l></lg>
+<lg>
+<head>9</head>
+<l>O che dolce veder quando ella tesse,</l>
+<l>o che dolce veder quando lavora,</l>
+<l>o che dolce veder sua membra fesse,</l>
+<l>o che dolce veder quando va fora,</l>
+<l>o che dolce veder quando ella avesse</l>
+<l>el bianco guarnelletto che la onora,</l>
+<l>o che dolce sentir quando favella</l>
+<l>la dolce mia ioconda pastorella!</l></lg>
+<lg>
+<head>10</head>
+<l>Portan le cetadin cuffie e gorgiere,</l>
+<l>ambre, perle, coralli, anelli d'oro</l>
+<l>e per gir più superbe e gir più altiere</l>
+<l>portan le veste de sutil lavoro.</l>
+<l>Per farse vagheggiar, farse vedere</l>
+<l>se pongano alla chiesa a presso el coro,</l>
+<l>ma più vaghetta è la mia pastorella</l>
+<l>quando de rete porta la cappella.</l></lg>
+<lg>
+<head>11</head>
+<l>El superbo vestir, la portatura</l>
+<l>de nova foggia, trionfante e vaga,</l>
+<l>le veste preziose oltra misura</l>
+<l>che tutto l'oriente non le appaga,</l>
+<l>le veste, manto alla tua carne pura,</l>
+<l>de cordiale amore el cor m'allaga.</l>
+<l>Le veste nobil de sì gran valore</l>
+<l>a chi non pensa a te el fa servitore.</l></lg>
+<lg>
+<head>12</head>
+<l>O robiconde scarpe, che 'l bel pede</l>
+<l>de quella mia inimica el giorno copre!</l>
+<l>O scarpa, perché lei non sente o vede</l>
+<l>quel che la sua passion con te discopre?</l>
+<l>O scarpa, de' narrar te la mia fede</l>
+<l>ad quella fabricata al ciel di sopre!</l>
+<l>O scarpe, che a sui pedi voi starìte,</l>
+<l>che lei da me non fuga glie derìte.</l></lg>
+<lg>
+<head>13</head>
+<l>La cuffia, che tu porti all'aurea testa,</l>
+<l>sotto la qual s'asconde i bei crin d'oro,</l>
+<l>la cuffia che tu porti tanto onesta</l>
+<l>te fa discesa dal superno coro,</l>
+<l>la cuffia de color tanto modesta</l>
+<l>d'un non più visto singular lavoro,</l>
+<l>la cuffia d'una seta ricca e fina</l>
+<l>a seguitarte a tutte l'or m'inclina.</l></lg>
+<lg>
+<head>14</head>
+<l>O vaga fronzaletta, che la fronte</l>
+<l>adorni de colei che 'l cor m'annoda,</l>
+<l>o fronzaletta, che le chiome agionte</l>
+<l>hai di costei, che glie fan tanta loda,</l>
+<l>o fronzaletta, che mie voglie pronte</l>
+<l>fai a seguir chi 'l ciel non vol ch'io oda,</l>
+<l>o fronzaletta, che la fai sì degna,</l>
+<l>diglie che verso me sia più benegna!</l></lg>
+<lg>
+<head>15</head>
+<l>La collana, che porti al bianco collo</l>
+<l>sì nobil ch'ogni cor duro adolcisce</l>
+<l>de riguardarla non son mai sattollo,</l>
+<l>ché sol di lei mio corpo se notrisce.</l>
+<l>La collana da tor la luce a Apollo</l>
+<l>sì bella ch'ogni spirto se smarrisce,</l>
+<l>la collana, che al collo intorno pende</l>
+<l>d'una amorosa fiamma ognor m'accende.</l></lg>
+<lg>
+<head>16</head>
+<l>O chiaro specchio, dove quel bel viso</l>
+<l>reluce de colei ch'ognor me sprezza,</l>
+<l>o specchio, ove si specchia el Paradiso</l>
+<l>che lei a te, tu a lei rendi chiarezza,</l>
+<l>o specchio, bel più che quel de Narciso,</l>
+<l>dove si vede chi 'l mio mal non prezza,</l>
+<l>o specchio lampegiante, almo e sereno,</l>
+<l>dimonstraglie el cor mio chi porta in seno!</l></lg>
+<lg>
+<head>17</head>
+<l>O gran dolcezza, o Dio che gran diletto,</l>
+<l>o dolce remirar, dolce vedere,</l>
+<l>o che dolce sembiante, o dolce aspetto,</l>
+<l>o dolce gaudio, o che dolce piacere,</l>
+<l>o gran consolazion senza difetto,</l>
+<l>o dolce liquefar, dolce sapere,</l>
+<l>quando ne va discalza, in sottanella,</l>
+<l>la mia dolce suave pastorella!</l></lg>
+<lg>
+<head>18</head>
+<l>O gran diletto a vederla filare,</l>
+<l>o gran diletto a vederla cusire,</l>
+<l>o gran diletto a vederla lavare,</l>
+<l>o gran diletto de sentirla dire,</l>
+<l>o gran diletto a sentirla cantare,</l>
+<l>o gran diletto è de vederla ordire,</l>
+<l>o gran diletto a veder la pianella</l>
+<l>de la mia dolce e vaga pastorella!</l></lg>
+<lg>
+<head>19</head>
+<l>La pastorella mia conciava el lino</l>
+<l>e glie tremava l'uno e l'altro fianco,</l>
+<l>lasso da canto io stava a capo chino</l>
+<l>a vagheggiarli el petto fresco e bianco</l>
+<l>e deceva pian piano: — ohimè, meschino,</l>
+<l>aiutame, perdìo, ch'io vengo manco!</l>
+<l>Aiutame d'un sol soave bascio,</l>
+<l>o pastorella bianca più che 'l cascio!</l></lg>
+<lg>
+<head>20</head>
+<l>Geva cogliendo la mia pastorella</l>
+<l>per un fiorito prato l'insalata</l>
+<l>senza portare in capo la cappella</l>
+<l>e per fine al ginocchio era insaccata,</l>
+<l>discalza con li piedi, in sottanella</l>
+<l>e con le braccia fine al mezzo alzata</l>
+<l>e cantando diceva con dolore:</l>
+<l>— porto un cortello in mano e l'altro al core!</l></lg>
+<lg>
+<head>21</head>
+<l>O suave piacer vederla ridere,</l>
+<l>o suave piacer quando ella sede,</l>
+<l>o gran malenconia vederla stridere,</l>
+<l>o gran malenconia si non se vede,</l>
+<l>o gran piacer vederla el pan dividere,</l>
+<l>o suave piacer quando sta in piede,</l>
+<l>o gran piacer quando empie la conocchia,</l>
+<l>ma più dolce piacere è si me adocchia!</l></lg>
+<lg>
+<head>22</head>
+<l>Duo giorni fra condense selve e folte,</l>
+<l>fra sterpi, colli, ripe, piagge e grotte,</l>
+<l>stato, madonna, son tra fiere sciolte,</l>
+<l>fra gente rozze, salvatiche e indotte.</l>
+<l>E mirando nel ciel le stelle molte</l>
+<l>nella caliginosa e tetra notte</l>
+<l>me pareva per certo ch'ogni stella</l>
+<l>fosse la mia ioconda pastorella.</l></lg>
+<lg>
+<head>23</head>
+<l>Mirando poi la fredda e bassa luna</l>
+<l>diceva: — in mezzo a quella sta madonna,</l>
+<l>chiamava poscia l'invida fortuna</l>
+<l>dicendo: — oh, perché non la veggio in gonna!</l>
+<l>e diventando l'aria tutta bruna</l>
+<l>diceva: — o Dio, che fa la mia colonna?</l>
+<l>Surgendo poi la chiara aurora bella</l>
+<l>diceva: — questa è la mia pastorella!</l></lg>
+<lg>
+<head>24</head>
+<l>Vedendo el sol col lampeggiante raggio,</l>
+<l>— ecco madonna — dissi — questa è dessa!</l>
+<l>E mirando mo' un, mo' un altro faggio</l>
+<l>dissi ai compagni: — madonna s'apressa!</l>
+<l>E cusì sempre per tutto el viaggio</l>
+<l>sopra di te la fantasia ho messa</l>
+<l>apropriando con le mie parole</l>
+<l>ch'eri tu quella luna, stella e sole.</l></lg>
+</div1>
+<div1>
+<head>Frottola alla pastorella.</head>
+
+<lg><l>La pastorella mia</l>
+<l>con l'acqua della fonte</l>
+<l>se lava el dì la fronte</l>
+<l>e 'l seren petto.</l>
+<l>In bianco guarnelletto</l>
+<l>umilmente conversa,</l>
+<l>solimato né gersa</l>
+<l>non adopra.</l>
+<l>Non porta che la copra</l>
+<l>balzi, cuffie e gorgiere</l>
+<l>come voi, donne altiere</l>
+<l>e superbe.</l>
+<l>Una ghirlanda d'erbe</l>
+<l>se pon nell'aurea testa</l>
+<l>e va ligiadra e presta</l>
+<l>e acostumata.</l>
+<l>E spesso va insaccata</l>
+<l>per fin quasi al genocchio</l>
+<l>e con festevol occhio</l>
+<l>sempre ride.</l>
+<l>Si la guardo, non stride</l>
+<l>come queste altre ingrate,</l>
+<l>è piena d'onestate</l>
+<l>e gentilezza.</l>
+<l>Con tal delicatezza</l>
+<l>porta una vectarella</l>
+<l>de sovra la cappella</l>
+<l>che m'abaglia.</l>
+<l>Alcuna fiata scaglia</l>
+<l>da me non per fuggire</l>
+<l>ma per farme languire</l>
+<l>e poi ritorna.</l>
+<l>Ohimé, ch'è tanto adorna</l>
+<l>la dolce mia bambina</l>
+<l>che pare un fior de spina</l>
+<l>a primavera!</l>
+<l>Beato chi in lei spera</l>
+<l>e chi la segue ognora!</l>
+<l>Beato quel ch'adora</l>
+<l>le sue guance!</l>
+<l>O dolci scherzi e ciance</l>
+<l>porgen quei duo labretti</l>
+<l>che paron rubinetti</l>
+<l>e fraganelle!</l>
+<l>Le picciole mamelle</l>
+<l>paron due fresche rose</l>
+<l>de maggio, gloriose</l>
+<l>in sul matino.</l>
+<l>El suo parlar divino</l>
+<l>spezzar farebbe un ferro,</l>
+<l>so certo ch'io non erro,</l>
+<l>dico el vero.</l>
+<l>Dà luce all'emispero</l>
+<l>la mia pastorelluccia</l>
+<l>e con la sua boccuccia</l>
+<l>piove mele.</l>
+<l>È saggia, ancor fidele,</l>
+<l>non se corroccia e sdegna,</l>
+<l>qualche fiata se ingegna</l>
+<l>per piacere.</l>
+<l>Quando io la sto a vedere</l>
+<l>parla, ride e motteggia,</l>
+<l>alor mio cor vaneggia</l>
+<l>e trema tutto.</l>
+<l>Ohimè, che m'ha condutto</l>
+<l>che si la sento un poco,</l>
+<l>divento un caldo foco</l>
+<l>e poi m'aghiaccio!</l>
+<l>E molto più disfaccio</l>
+<l>si veggio le sue ciglia</l>
+<l>minute ad maraviglia.</l>
+<l>O ciel, ch'io moro!</l>
+<l>Li suoi capelli d'oro,</l>
+<l>i denticelli mondi,</l>
+<l>bianchi, politi e tondi</l>
+<l>me fan vivo.</l>
+<l>Io son poi del cor privo</l>
+<l>si la veggio ballare,</l>
+<l>ché me fa consumare</l>
+<l>a parte a parte.</l>
+<l>Non ho ingegno né arte</l>
+<l>ch'io possa laudarla,</l>
+<l>ma sempre voglio amarla</l>
+<l>in fine a morte.</l></lg>
+</div1>
+<div1>
+<head><foreign lang="lat">In generosissimi Olympi laudem, ad lectorem fratris</foreign></head>
+
+<lg lang="lat"><l>Hieronymi Castalii Fabriani carmen.</l>
+<l>Non ita in Annibalem duro certamine quondam</l>
+<l>qui velut in misso fulmine terror erat</l>
+<l>Scipio sevierat, non sic animosus Achilles</l>
+<l>Hectoris abscerpsit viscera Priamidae</l>
+<l>quam meus hic celebris celebri resonante Camena</l>
+<l>Baldasar in lingua prelia dura ciet.</l>
+<l>Numina nam coeli, nam cuncta elementa polosa</l>
+<l>in chaos antiquum lingua profana trhait</l>
+<l>iste sed eternum sic caeci Acherontis in undas</l>
+<l>egit ut accensas liquerit illa faces.</l>
+<l>Ergo calore pio, lector placidissime, Olympum</l>
+<l>prosequere et coeli defer ad astra. Vale.</l></lg>
+</div1>
+<div1>
+<head><foreign lang="lat">Idem ad lectorem</foreign></head>
+
+<p><foreign lang="lat">Meo sane Olympo quid quaeso prestantius, lector humanissime, si intueare concionantem perterrebere, commendabisque si interpretantem diserentenque secretioria Aristotelis permirabere, si curas hominum suavi concentu suae citharae demulcentem et ipse demulceberis, ubertim omnes Charites ille infudit natura, Olympi humanitatem et mores castissimos tum cetera sui animi ornamenta subticeo, quae quottidie magis elucebunt. Igitur fave et tu lector precareque illi foelicitatem leta aura: edidit multa, parat nobiliora eritque (aspirent celites) gloria latii sempiterna. Vale.</foreign></p>
+</div1>
+<div1>
+<head><foreign lang="lat">P. Hieronumus Olympus sentinas ad lectorem.</foreign></head>
+
+<lg lang="lat"><l>Non canit hic celsos rigidi Mavortis honores</l>
+<l>nec Iovis et Stigii regna superba dei;</l>
+<l>non canit Hypomonis quis cum decepta puella</l>
+<l>mala fuit, quaestus nec Philomela tuos;</l>
+<l>non canit hic Troiae exitium neque bella Latini,</l>
+<l>quorum causa quidem cerva perempta fuit;</l>
+<l>non canit astrorum coeli quoque signa tonantis,</l>
+<l>nec raptum et fedum iudicium Paridis;</l>
+<l>non canit hic segetes Cereris neque vina Liei</l>
+<l>dulcia, nec terram vertere arando bobus:</l>
+<l>sed quid mordenti modulatur carmine crimen</l>
+<l>linguarum, possint quas lacerare canes.</l>
+<l>Haec seminant lites, spargunt quoque semina belli,</l>
+<l>qua causa in cineres menia celsa ruunt.</l>
+<l>Hunc mercare librum cupiens compescere linguas</l>
+<l>quoque docet dulcis utere lector opus.</l></lg>
+</div1>
+<div1>
+<head>Baldassarre Olimpo al suo libretto.</head>
+
+<lg><l>Caro libretto mio, sta paziente,</l>
+<l>ché se non fusti già remunerato</l>
+<l>da quello a cui da me fusti donato</l>
+<l>per celebrarlo fra la mortal gente,</l>
+<l>un solo un giorno te farà un presente</l>
+<l>che d'ogni strazio serai liberato,</l>
+<l>ch'ogn'omo non dimonstra essere ingrato</l>
+<l>et io con fede l'amarò sovente.</l>
+<l>Soporta, segui pur, lassa pur dire,</l>
+<l>taci,ché manca presto la minzogna</l>
+<l>e per mal dir sono tenuti sciocchi.</l>
+<l>Chiunque guidato sia da sdegno et ire</l>
+<l>credo per fermo e certo che bisogna</l>
+<l>dal più sublime luoco in giù trabocchi.</l></lg>
+</div1>
+</body>
+</text>
+</TEI.2>

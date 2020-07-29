@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie</title>
+      <author>Benuccio</author>
+    </titleStmt>
+    <extent>5 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001587</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Lirici toscani del Quattrocento</title>
+        <title type="part">v.</title>
+        <editor id="ed">Lanza, Antonio</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1975</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-07-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-07-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+
+
+<text>
+<body>
+
+<div1 type="lirica">
+<head>I</head><argument><p>
+Canzona di Benuccio barbiere, che spesso i nostri Signori
+mandavan per lui per aver piacere di suoi sonetti e ballate
+e mai da loro poté avere alcun premio; e però fece loro
+questa canzona.
+</p></argument>
+<lg type="canzone"><lg>
+<l>O be' signor, poi che mangiato avete</l>
+<l>la 'mbandigione e la vivanda tutta,</l>
+<l>un bel panier di frutta</l>
+<l>vi vo' donare in tre parti partito,</l>
+<l>perché la mensa non rimanga asciutta</l>
+<l>a sullazzar la dilettevol sete;</l>
+<l>ma prima intenderete</l>
+<l>i nomi loro e com'egli è sortito.</l>
+<l>Dieci per ogni parte, ognun fiorito,</l>
+<l>e l'una delle tre nïente lassa,</l>
+<l>ché saporita passa</l>
+<l>senza gittarne; e gli altri di fuor netti,</l>
+<l>emperò che perfetti</l>
+<l>dentro non sono; e gli altri di fuor mondi,</l>
+<l>però che dentro son molto giocondi.</l></lg><lg>
+<l>Di fichi e d'uve il primo è colmo e pieno,</l>
+<l>di pere e mele <del resp="ed">(son pur testé colte)</del>;</l>
+<l>cotogne ancor ci ha molte,</l>
+<l>cederni e muse che par un diletto;</l>
+<l>frave e more con esse son raccolte,</l>
+<l>sorbe dure e mature acolte in fieno</l>
+<l>da non venir mai meno;</l>
+<l>così le vo' riposte in luogo netto.</l>
+<l>Dirò 'l secondo, poiché 'l primo è detto,</l>
+<l>cioè di quegli che son buon di fuori.</l>
+<l>Tutti di buon sapori</l>
+<l>son, come gli altri, e d'ottima ragione;</l>
+<l>e dinanzi si pone</l>
+<l>il datter per migliore, e tal mi pare,</l>
+<l>ch'ad altro frutto nol sapre' aguagliare.</l></lg><lg>
+<l>Ciriege ci ha d'ogni ragion che sia,</l>
+<l>e molte muniache e pesche ancora;</l>
+<l>di giugiole s'infiora</l>
+<l>questa seconda parte del paniere,</l>
+<l>tal ch'a vedello tutto m'inamora,</l>
+<l>tanto è ripieno d'ogni leggiadria.</l>
+<l>Le susine per via</l>
+<l>già non mi caddon di tutte maniera,</l>
+<l>né quella che rallegra il barattiere,</l>
+<l>quando la puote aver con un pan caldo</l>
+<l><del resp="ed">(e, per intender saldo,</del></l>
+<l><del resp="ed">nespole dico, e sono poco sane)</del>;</l>
+<l>carube con melane</l>
+<l>e molte cornie belle e colorite,</l>
+<l>che del Terresto ben paiono uscite.</l></lg><lg>
+<l>La terza parte melarance e pigne,</l>
+<l>ed èvi la lumia e la nocciuola,</l>
+<l>non due o una sola,</l>
+<l>ma gran dovizia ci ha di queste e quelle;</l>
+<l>quelle c'han dentro color di viuola,</l>
+<l>mele granate ricolte di vigne;</l>
+<l>noci non ci ha maligne,</l>
+<l>amandorle, castagne e zaccherelle;</l>
+<l>fistuche ancora in ultimo con elle.</l>
+<l>Più bel presente non fu mai veduto,</l>
+<l>però sia ricevuto</l>
+<l>in grazia da voi, gentil signori.</l>
+<l>Gustate lor savori,</l>
+<l>come son dolci, buoni e odorosi,</l>
+<l>e come son perfetti e saporosi.</l>
+<l>— E vederete ben s'io son perfetto</l>
+<l>e buon lavorator dell'orto mio;</l>
+<l>ma, 'n buona fé di Dio,</l>
+<l>che la brinata mi ci fa gran danno!</l>
+<l>Che, se non frutta meglio in quest'altr'anno,</l>
+<l>me ne conviene andare alla montagna,</l>
+<l>e con una mia ragna</l>
+<l>i' piglierò d'ogni ragione uccelli.</l>
+<l>E giuochi non son belli,</l>
+<l>chi perde il tempo in acquistar la state!</l>
+<l>Rendetemi il paniere e a Dio siate.</l>
+
+</lg>
+</lg></div1>
+</body>
+</text>
+</TEI.2>

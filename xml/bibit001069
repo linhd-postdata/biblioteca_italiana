@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Odi e sonetti</title>
+      <author>Ugo Foscolo</author>
+    </titleStmt>
+    <extent>19 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001069</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Le opere</title>
+        <title type="part">Poesie e carmi : poesie, Dei sepolcri, poesie postume, Le Grazie</title>
+        <author>Foscolo, Ugo</author>
+        <editor id="ed">Pagliai, Francesco</editor>
+        <editor id="ed2">Folena, Gianfranco</editor>
+        <editor id="ed3">Scotti, Mario</editor>
+        <publisher>F. Le Monnier</publisher>
+        <pubPlace>Firenze</pubPlace>
+        <date>1985</date>
+        <note>Edizione nazionale</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.6 - Poesia italiana. Periodo del rinnovamento, 1748-1814.</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-09-30T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Daniele Silvi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-10-20T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1 type="dedica">
+<head>Dedica</head>
+
+<opener>
+<salute>A <abbr>GIO.</abbr> BATTISTA NICCOLINI FIORENTINO</salute>
+</opener>
+
+<p>A te, giovinetto di belle speranze, io dedico questi versi:
+non perchè ti sieno di esempio, chè nè io professo poesia, nè
+li stampo cercando onore, ma per rifiutare così tutti gli altri
+da me per vanità giovenile già divolgati. Ti saranno bensì
+monumento della nostra amicizia, e sprone, ad onta delle tue
+disavventure, alle lettere, veggendo che tu sei caro a chi le
+coltiva, forse con debole ingegno, ma con generoso animo.
+E la sola amicizia può vendicare gli oltraggi della fortuna, e
+guidare senza adulazione gl'ingegni sorgenti alla gloria.</p>
+
+<closer>
+<dateline>Milano 2 aprile 1803.</dateline>
+<signed>Ugo Foscolo.</signed>
+</closer>
+ </div1>
+
+
+<div1 type="canzone ode">
+<head> A LUIGIA PALLAVICINI CADUTA DA CAVALLO </head>
+
+<lg>
+<l>I balsami beati</l>
+<l>Per te le Grazie apprestino,</l>
+<l>Per te i lini odorati</l>
+<l>Che a Citerea porgeano</l>
+<l>Quando profano spino</l>
+<l>Le punse il piè divino,</l>
+<l>Quel dì che insana empiea</l>
+<l>Il sacro Ida di gemiti,</l>
+<l>E col crine tergea</l>
+<l>E bagnava di lagrime</l>
+<l>Il sanguinoso petto</l>
+<l>Al ciprio giovinetto.</l>
+<l>Or te piangon gli amori,</l>
+<l>Te fra le dive Liguri</l>
+<l>Regina e diva! e fiori</l>
+<l>Votivi all'ara portano</l>
+<l>D'onde il grand'arco suona</l>
+<l>Del figlio di Latona.</l>
+<l>E te chiama la danza</l>
+<l>Ove l'aure portavano</l>
+<l>Insolita fragranza,</l>
+<l>Allor che a' nodi indocile</l>
+<l>La chioma al roseo braccio</l>
+<l>Ti fu gentile impaccio.</l>
+<l>Tal nel lavacro immersa,</l>
+<l>Che fiori, dall'inachio</l>
+<l>Clivo cadendo, versa,</l>
+<l>Palla i dall'elmo liberi</l>
+<l>Crin su la man che gronda</l>
+<l>Contien fuori dell'onda.</l>
+<l>Armoniosi accenti</l>
+<l>Dal tuo labbro volavano,</l>
+<l>E dagli occhi ridenti</l>
+<l>Traluceano di Venere</l>
+<l>I disdegni e le paci,</l>
+<l>La speme, il pianto, e i baci.</l>
+<l>Deh! perchè hai le gentili</l>
+<l>Forme e l'ingegno docile</l>
+<l>Vòlto a studj virili?</l>
+<l>Perchè non dell'Aonie</l>
+<l>Seguivi, incauta, l'arte,</l>
+<l>Ma ludi aspri di Marte?</l>
+<l>Invan presaghi i venti</l>
+<l>Il polveroso agghiacciano</l>
+<l>Petto e le reni ardenti</l>
+<l>Dell'inquieto alipede,</l>
+<l>Ed irritante il morso</l>
+<l>Accresce impeto al corso.</l>
+<l>Ardon gli sguardi, fuma</l>
+<l>La bocca, agita l'ardua</l>
+<l>Testa, vola la spuma,</l>
+<l>Ed i manti volubili</l>
+<l>Lorda e l'incerto freno,</l>
+<l>Ed il candido seno;</l>
+<l>E il sudor piove, e i crini</l>
+<l>Sul collo irti svolazzano,</l>
+<l>Suonan gli antri marini</l>
+<l>Allo incalzato scalpito</l>
+<l>Della zampa che caccia</l>
+<l>Polve e sassi in sua traccia.</l>
+<l>Già dal lito si slancia</l>
+<l>Sordo ai clamori e al fremito,</l>
+<l>Già già fino alla pancia</l>
+<l>Nuota… e ingorde si gonfiano</l>
+<l>Non più memori l'acque</l>
+<l>Che una Dea da lor nacque.</l>
+<l>Se non che il re dell'onde</l>
+<l>Dolente ancor d'Ippolito</l>
+<l>Surse per le profonde</l>
+<l>Vie dal Tirreno talamo,</l>
+<l>E respinse il furente</l>
+<l>Col cenno onnipotente.</l>
+<l>Quei dal flutto arretrosse</l>
+<l>Ricalcitrando e, orribile!</l>
+<l>Sovra l'anche rizzosse;</l>
+<l>Scuote l'arcion, te misera</l>
+<l>Su la petrosa riva</l>
+<l>Strascinando mal viva.</l>
+<l>Pera chi osò primiero</l>
+<l>Discortese commettere</l>
+<l>A infedele corsiero</l>
+<l>L'agil fianco femineo,</l>
+<l>E aprì con rio consiglio</l>
+<l>Nuovo a beltà periglio!</l>
+<l>Chè or non vedrei le rose</l>
+<l>Del tuo volto sì languide,</l>
+<l>Non le luci amorose</l>
+<l>Spiar ne' guardi medici</l>
+<l>Speranza lusinghiera</l>
+<l>Della beltà primiera.</l>
+<l>Di Cintia il cocchio aurato</l>
+<l>Le cerve un dì traeano,</l>
+<l>Ma al ferino ululato</l>
+<l>Per terrore insanirono,</l>
+<l>E dalla rupe etnea</l>
+<l>Precipitar la Dea.</l>
+<l>Gioian d'invido riso</l>
+<l>Le abitatrici olimpie,</l>
+<l>Perchè l'eterno viso</l>
+<l>Silenzioso, e pallido</l>
+<l>Cinto apparia d'un velo</l>
+<l>Ai conviti del cielo:</l>
+<l>Ma ben piansero il giorno</l>
+<l>Che dalle danze efesie</l>
+<l>Lieta facea ritorno</l>
+<l>Fra le devote vergini,</l>
+<l>E al ciel salia più bella</l>
+<l>Di Febo la sorella.</l>
+</lg>
+ </div1>
+
+
+<div1 type="canzone ode">
+<head> ALLA AMICA RISANATA </head>
+
+<lg>
+<l>Qual dagli antri marini</l>
+<l>L'astro più caro a Venere</l>
+<l>Co' rugiadosi crini</l>
+<l>Fra le fuggenti tenebre</l>
+<l>Appare, e il suo viaggio</l>
+<l>Orna col lume dell'eterno raggio,</l>
+<l>Sorgon così tue dive</l>
+<l>membra dall'egro talamo,</l>
+<l>E in te beltà rivive,</l>
+<l>L'aurea beltate ond'ebbero</l>
+<l>Ristoro unico a' mali</l>
+<l>Le nate a vaneggiar menti mortali.</l>
+<l>Fiorir sul caro viso</l>
+<l>Veggo la rosa, tornano</l>
+<l>I grandi occhi al sorriso</l>
+<l>Insidiando; e vegliano</l>
+<l>Per te in novelli pianti</l>
+<l>Trepide madri, e sospettose amanti.</l>
+<l>Le Ore che dianzi meste</l>
+<l>Ministre eran de' farmachi,</l>
+<l>Oggi l'indica veste,</l>
+<l>E i monili cui gemmano</l>
+<l>Effigiati Dei</l>
+<l>Inclito studio di scalpelli achei,</l>
+<l>E i candidi coturni</l>
+<l>E gli amuleti recano</l>
+<l>Onde a' cori notturni</l>
+<l>Te, Dea, mirando obbliano</l>
+<l>I garzoni le danze,</l>
+<l>Te principio d'affanni e di speranze.</l>
+<l>O quando l'arpa adorni</l>
+<l>E co' novelli numeri</l>
+<l>E co' molli contorni</l>
+<l>Delle forme che facile</l>
+<l>Bisso seconda, e intanto</l>
+<l>Fra il basso sospirar vola il tuo canto</l>
+<l>Più periglioso; o quando</l>
+<l>Balli disegni, e l'agile</l>
+<l>Corpo all'aure fidando</l>
+<l>Ignoti vezzi sfuggono</l>
+<l>Dai manti, e dal negletto</l>
+<l>Velo scomposto sul sommosso petto.</l>
+<l>All'agitarti, lente</l>
+<l>Cascan le trecce, nitide</l>
+<l>Per ambrosia recente,</l>
+<l>mal fide all'aureo pettine</l>
+<l>E alla rosea ghirlanda</l>
+<l>Che or con l'alma salute april ti manda.</l>
+<l>Così ancelle d'Amore</l>
+<l>A te d'intorno volano</l>
+<l>Invidiate l'Ore,</l>
+<l>Meste le Grazie mirino</l>
+<l>Chi la beltà fugace</l>
+<l>Ti membra, e il giorno dell'eterna pace.</l>
+<l>Mortale guidatrice</l>
+<l>D'oceanine vergini</l>
+<l>La Parrasia pendice</l>
+<l>Tenea la casta Artemide</l>
+<l>E fea terror di cervi</l>
+<l>Lungi fischiar d'arco cidonio i nervi.</l>
+<l>Lei predicò la fama</l>
+<l>Olimpia prole; pavido</l>
+<l>Diva il mondo la chiama,</l>
+<l>E le sacrò l'Elisio</l>
+<l>Soglio, ed il certo telo,</l>
+<l>E i monti, e il carro della luna in cielo.</l>
+<l>Are così a Bellona,</l>
+<l>Un tempo invitta amazzone,</l>
+<l>Die' il vocale Elicona;</l>
+<l>Ella il cimiero e l'egida</l>
+<l>Or contro l'Anglia avara</l>
+<l>E le cavalle ed il furor prepara.</l>
+<l>E quella a cui di sacro</l>
+<l>Mirto te veggo cingere</l>
+<l>Devota il simolacro,</l>
+<l>Che presiede maromoreo</l>
+<l>Agli arcani tuoi lari</l>
+<l>Ove a me sol sacerdotessa appari</l>
+<l>Regina fu, Citera</l>
+<l>E Cipro ove perpetua</l>
+<l>Odora primavera</l>
+<l>Regnò beata, e l'isole</l>
+<l>Che col selvoso dorso</l>
+<l>Rompono agli euri e al grande Ionio il corso.</l>
+<l>Ebbi in quel mar la culla,</l>
+<l>Ivi erra ignudo spirito</l>
+<l>Di Faon la fanciulla,</l>
+<l>E se il notturno zeffiro</l>
+<l>Blando sui flutti spira</l>
+<l>Suonano i liti un lamentar di lira:</l>
+<l>Ond'io, pien del nativo</l>
+<l>Aer sacro, su l'Itala</l>
+<l>Grave cetra derivo</l>
+<l>Per te le corde eolie,</l>
+<l>E avrai divina i voti</l>
+<l>Fra gl'inni miei delle insubri nepoti.</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[1]</head>
+
+<lg>
+<l>Forse perchè della fatal quiete</l>
+<l>Tu sei l'imago a me sì cara vieni</l>
+<l>O Sera! E quando ti corteggian liete</l>
+<l>Le nubi estive e i zeffiri sereni,</l>
+<l>E quando dal nevoso aere inquiete</l>
+<l>Tenebre e lunghe all'universo meni</l>
+<l>Sempre scendi invocata, e le secrete</l>
+<l>Vie del mio cor soavemente tieni.</l>
+<l>Vagar mi fai co' miei pensier su l'orme</l>
+<l>Che vanno al nulla eterno; e intanto fugge</l>
+<l>Questo reo tempo, e van con lui le torme</l>
+<l>Delle cure onde meco egli si strugge;</l>
+<l>E mentre io guardo la tua pace, dorme</l>
+<l>Quello spirto guerrier ch'entro mi rugge.</l>
+</lg>
+</div1>
+
+<div1 type="sonetto">
+<head>[2]</head>
+
+<lg>
+<l>Non son chi fui; perì di noi gran parte:</l>
+<l>Questo che avanza è sol languore e pianto.</l>
+<l>E secco è il mirto, e son le foglie sparte</l>
+<l>Del lauro, speme al giovenil mio canto.</l>
+<l>Perchè dal dì ch'empia licenza e Marte</l>
+<l>Vestivan me del lor sanguineo manto,</l>
+<l>Cieca è la mente e guasto il core, ed arte</l>
+<l>La fame d'oro, arte è in me fatta, e vanto.</l>
+<l>Che se pur sorge di morir consiglio,</l>
+<l>A mia fiera ragion chiudon le porte</l>
+<l>Furor di gloria, e carità di figlio.</l>
+<l>Tal di me schiavo, e d'altri, e della sorte,</l>
+<l>Conosco il meglio ed al peggior mi appiglio,</l>
+<l>E so invocare e non darmi la morte.</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[3]</head>
+<epigraph><p>PER LA SENTENZA CAPITALE PROPOSTA NEL GRAN CONSIGLIO CISALPINO CONTRO LA LINGUA LATINA</p></epigraph>
+
+<lg>
+<l>Te nudrice alle muse, ospite e Dea</l>
+<l>Le barbariche genti che ti han doma</l>
+<l>Nomavan tutte; e questo a noi pur fea</l>
+<l>Lieve la varia, antiqua, infame soma.</l>
+<l>Chè se i tuoi vizj, e gli anni, e sorte rea</l>
+<l>Ti han morto il senno ed il valor di Roma,</l>
+<l>In te viveva il gran dir che avvolgea</l>
+<l>Regali allori alla servil tua chioma.</l>
+<l>Or ardi, Italia, al tuo Genio ancor queste</l>
+<l>Reliquie estreme di cotanto impero;</l>
+<l>Anzi il Toscano tuo parlar celeste</l>
+<l>Ognor più stempra nel sermon straniero,</l>
+<l>Onde, più che di tua divisa veste,</l>
+<l>Sia il vincitor di tua barbarie altero.</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[4]</head>
+
+<lg>
+<l>Perchè taccia il rumor di mia catena</l>
+<l>Di lagrime, di speme, e di amor vivo,</l>
+<l>E di silenzio; chè pietà mi affrena</l>
+<l>Se con lei parlo, o di lei penso e scrivo.</l>
+<l>Tu sol mi ascolti, o solitario rivo,</l>
+<l>Ove ogni notte amor seco mi mena,</l>
+<l>Qui affido il pianto e i miei danni descrivo,</l>
+<l>Qui tutta verso del dolor la piena.</l>
+<l>E narro come i grandi occhi ridenti</l>
+<l>Arsero d'immortal raggio il mio core,</l>
+<l>Come la rosea bocca, e i rilucenti</l>
+<l>Odorati capelli, ed il candore</l>
+<l>Delle divine membra, e i cari accenti</l>
+<l>m'isegnarono alfin pianger d'amore.</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[5]</head>
+
+<lg>
+<l>Così gl'interi giorni in lungo incerto</l>
+<l>Sonno gemo! ma poi quando la bruna</l>
+<l>Notte gli astri nel ciel chiama e la luna,</l>
+<l>E il freddo aer di mute ombre è coverto;</l>
+<l>Dove selvoso è il piano e più deserto</l>
+<l>Allor lento io vagando, ad una ad una</l>
+<l>Palpo le piaghe onde la rea fortuna,</l>
+<l>E amore, e il mondo hanno il mio core aperto.</l>
+<l>Stanco mi appoggio or al troncon d'un pino,</l>
+<l>Ed or prostrato ove strepitan l'onde,</l>
+<l>Con le speranze mie parlo e deliro.</l>
+<l>per te le mortali ire e il destino</l>
+<l>Spesso obbliando, a te, donna, io sospiro:</l>
+<l>Luce degli occhi miei chi mi t'asconde?</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[6]</head>
+
+<lg>
+<l>Meritamente, però ch'io potei</l>
+<l>Abbandonarti, or grido alle frementi</l>
+<l>Onde che batton l'alpi, e i pianti miei</l>
+<l>Sperdono sordi del Tirreno i venti.</l>
+<l>Sperai, poichè mi han tratto uomini e Dei</l>
+<l>In lungo esilio fra spergiure genti</l>
+<l>Dal bel paese ove or meni sì rei,</l>
+<l>Me sospirando, i tuoi giorni fiorenti,</l>
+<l>Sperai che il tempo, e i duri casi, e queste</l>
+<l>Rupi ch'io varco anelando, e le eterne</l>
+<l>Ov'io qual fiera dormo atre foreste,</l>
+<l>Sarien ristoro al mio cor sanguinente;</l>
+<l>Ahi vota speme! Amor fra l'ombre inferne</l>
+<l>Seguirammi immortale, onnipotente.</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[7]</head>
+
+<lg>
+<l>Solcata ho fronte, occhi incavati intenti,</l>
+<l>Crin fulvo, emunte guance, ardito aspetto,</l>
+<l>Labbro tumido acceso, e tersi denti,</l>
+<l>Capo chino, bel collo, e largo petto;</l>
+<l>Giuste membra; vestir semplice eletto;</l>
+<l>Ratti i passi, i pensier, gli atti, gli accenti;</l>
+<l>Sobrio, umano, leal, prodigo, schietto;</l>
+<l>Avverso al mondo, avversi a me gli eventi:</l>
+<l>Talor di lingua, e spesso di man prode;</l>
+<l>Mesto i più giorni e solo, ognor pensoso,</l>
+<l>Pronto, iracondo, inquieto, tenace:</l>
+<l>Di vizj ricco e di virtù, do lode</l>
+<l>Alla ragion, ma corro ove al cor piace:</l>
+<l>Morte sol mi darà fama e riposo.</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[8]</head>
+
+<lg>
+<l>E tu ne' carmi avrai perenne vita</l>
+<l>Sponda che Arno saluta in suo cammino</l>
+<l>Partendo la città che del latino</l>
+<l>Nome accogliea finor l'ombra fuggita.</l>
+<l>Già dal tuo ponte all'onda impaurita</l>
+<l>Il papale furore e il ghibellino</l>
+<l>Mescean gran sangue, ove oggi al pellegrino</l>
+<l>Del fero vate la magion si addita.</l>
+<l>Per me cara, felice, inclita riva</l>
+<l>Ove sovente i piè leggiadri mosse</l>
+<l>Colei che vera al portamento Diva</l>
+<l>In me volgeva sue luci beate,</l>
+<l>Mentr'io sentìa dai crin d'oro commosse</l>
+<l>Spirar ambrosia l'aure innamorate.</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[9]</head>
+
+<lg>
+<l>Nè più mai toccherò le sacre sponde</l>
+<l>Ove il mio corpo fanciulletto giacque,</l>
+<l>Zacinto mia, che te specchi nell'onde</l>
+<l>Del greco mar da cui vergine nacque</l>
+<l>Venere, e fea quelle isole feconde</l>
+<l>Col suo primo sorriso, onde non tacque</l>
+<l>Le tue limpide nubi e le tue fronde</l>
+<l>L'inclito verso di colui che l'acque</l>
+<l>Cantò fatali, ed il diverso esiglio</l>
+<l>Per cui bello di fama e di sventura</l>
+<l>Baciò la sua petrosa Itaca Ulisse.</l>
+<l>Tu non altro che il canto avrai del figlio,</l>
+<l>O materna mia terra; a noi prescrisse</l>
+<l>Il fato illacrimata sepoltura.</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[10]</head>
+
+<lg>
+<l>Un dì, s'io non andrò sempre fuggendo</l>
+<l>Di gente in gente, me vedrai seduto</l>
+<l>Su la tua pietra, o fratel mio, gemendo</l>
+<l>Il fior de' tuoi gentili anni caduto.</l>
+<l>La Madre or sol suo dì tardo traendo</l>
+<l>Parla di me col tuo cenere muto,</l>
+<l>Ma io deluse a voi le palme tendo</l>
+<l>E sol da lunge i miei tetti saluto.</l>
+<l>Sento gli avversi numi, e le secrete</l>
+<l>Cure che al viver tuo furon tempesta,</l>
+<l>E prego anch'io nel tuo porto quiete.</l>
+<l>Questo di tanta speme oggi mi resta!</l>
+<l>Straniere genti, almen le ossa rendete</l>
+<l>Allora al petto della madre mesta.</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[11]</head>
+
+<lg>
+<l>Pur tu copia versavi alma di canto</l>
+<l>Su le mie labbra un tempo, Aonia Diva,</l>
+<l>Quando de' miei fiorenti anni fuggiva</l>
+<l>La stagion prima, e dietro erale intanto</l>
+<l>Questa, che meco per la via del pianto</l>
+<l>Scende di Lete ver la muta riva:</l>
+<l>Non udito or t'invoco; ohimè! soltanto</l>
+<l>Una favilla del tuo spirto è viva.</l>
+<l>E tu fuggisti in compagnia dell'ore,</l>
+<l>O Dea! tu pur mi lasci alle pensose</l>
+<l>Membranze, e del futuro al timor cieco.</l>
+<l>Però mi accorgo, e mel ridice amore,</l>
+<l>Che mal ponno sfogar rade, operose</l>
+<l>Rime il dolor che deve albergar meco.</l>
+</lg>
+ </div1>
+
+<div1 type="sonetto">
+<head>[12]</head>
+
+<lg type="versi">
+<l>Che stai? già il secol l'orma ultima lascia;</l>
+<l>Dove del tempo son le leggi rotte</l>
+<l>Precipita, portando entro la notte</l>
+<l>Quattro tuoi lustri, e obblio freddo li fascia.</l>
+<l>Che se vita è l'error, l'ira, e l'ambascia,</l>
+<l>Troppo hai del viver tuo l'ore prodotte;</l>
+<l>Or meglio vivi, e con fatiche dotte</l>
+<l>A chi diratti antico esempj lascia.</l>
+<l>Figlio infelice, e disperato amante,</l>
+<l>E senza patria, a tutti aspro e a te stesso,</l>
+<l>Giovine d'anni e rugoso in sembiante,</l>
+<l>Che stai? breve è la vita, e lunga è l'arte;</l>
+<l>A chi altamente oprar non è concesso</l>
+<l>Fama tentino almen libere carte.</l>
+
+</lg>
+ </div1>
+
+</body>
+</text>
+</TEI.2>

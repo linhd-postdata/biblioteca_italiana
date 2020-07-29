@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie</title>
+      <author>Antonio Manetti</author>
+    </titleStmt>
+    <extent>3 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000387</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Lirici toscani del Quattrocento</title>
+        <title type="part">v.</title>
+        <editor id="ed">Lanza, Antonio</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1975</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-09-19T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-05-27T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="poesia">
+<head>I</head>
+<argument><p rend="italic">A Mariotto Davanzati per la morte del Burchiello
+</p></argument>
+<lg type="sonetto">
+<lg><l>Veloce in alto mar solcar vedemo</l>
+<l>un burchielletto assai leggiero e snello,</l>
+<l>carco di gran tesauro e d'un gioiello</l>
+<l>bel sì ch'un simil mai veder potemo.</l></lg><lg>
+<l>Nove donne el movien, benché 'l supremo</l>
+<l>tenea Caliopè e dal castello</l>
+<l>el timon dirizzando di pennello</l>
+<l>con l'occhio al polo, e l'altre erano al remo.</l></lg><lg>
+<l>E quanto rallegrar vedemo e porti</l>
+<l>dove toccò, perch'or lo cuopre l'onde,</l>
+<l>tanto pianger veggiamo e far querela.</l></lg><lg>
+<l>E se nulla è che 'l lor viver conforti,</l>
+<l>è che 'l gioiel rinvolto nelle fronde</l>
+<l>d'un lauro verde alcun'acqua non vela.</l>
+</lg>
+</lg></div1>
+<div1 type="poesia">
+<head>II</head>
+
+<lg type="sonetto">
+<lg><l>Fia ogni cosa chiara e sempre bruna,</l>
+<l>gli uomini sottoposti agli animali,</l>
+<l>e gli uselletti voleran sanza ali,</l>
+<l>figliuo' perfetti non con donna alcuna;</l></lg><lg>
+<l>e il governo de' pesci fortuna,</l>
+<l>in paradiso in tenebrosi mali</l>
+<l>e in tranquillo stato l'infernali,</l>
+<l>dov'è ogni gloria passïon s'aduna;</l></lg><lg>
+<l>e non si vedrà in ciel pianeti o stelle,</l>
+<l>il mare arato com'è or la terra,</l>
+<l>e primavera priva di verdezze,</l></lg><lg>
+<l>e sarà una tutte le favelle</l>
+<l>e io sentirò l'alma in mortal guerra,</l>
+<l>prima ch'i' lasci le tuo gran bellezze.</l>
+</lg>
+</lg>
+</div1>
+</body>
+</text>
+</TEI.2>

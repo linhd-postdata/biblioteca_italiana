@@ -1,0 +1,1750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rime</title>
+            <author>Baldassarre Castiglione</author>
+         </titleStmt>
+         <extent>50500 Kb in UTF-8</extent>
+         <publicationStmt>
+            <publisher>Biblioteca Italiana</publisher>
+            <pubPlace>Roma</pubPlace>
+            <date>2008</date>
+            <idno>bibit000441</idno>
+            <availability>
+               <p>Questa risorsa digitale è liberamente accessibile per uso
+                        personale o scientifico. Ogni uso commerciale è vietato</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Collezione BibIt</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Rime e giochi di corte</title>
+               <author>Castiglione, Baldassarre</author>
+               <editor id="ed">Fantato, Michela</editor>
+               <publisher>Eurograf</publisher>
+               <pubPlace>Canneto sull'Oglio</pubPlace>
+               <date>2004</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <samplingDecl>
+            <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                digitale</p>
+         </samplingDecl>
+         <editorialDecl>
+            <correction method="silent" status="medium">
+               <p>Livello medio: controllo a video con collazione con edizione di
+                        riferimento</p>
+            </correction>
+            <quotation form="data" marks="all">
+               <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+            </quotation>
+            <hyphenation eol="none">
+               <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+            </hyphenation>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy id="CGB">
+               <bibl>Classificazione generi BibIt</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date>500</date>
+         </creation>
+         <langUsage>
+            <language id="ita">Italiano</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="CGB">
+               <term>Poesia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06-08T00:00:00.000+02:00</date>
+            <respStmt>
+               <name>Novadata systems</name>
+            </respStmt>
+            <item>Digitalizzazione - OCR</item>
+         </change>
+         <change>
+            <date>2008-06-30T00:00:00.000+02:00</date>
+            <respStmt>
+               <name>Silvio Cosco</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Correzione linguistica</item>
+         </change>
+         <change>
+            <date>2008-07-30T00:00:00.000+02:00</date>
+            <respStmt>
+               <name>Ilenia Sabelli</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Codifica XML - Codifica manuale</item>
+         </change>
+         <change>
+            <date>2008-09-04T00:00:00.000+02:00</date>
+            <respStmt>
+               <name>Carla Deiana</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Validazione</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 n="Poesie">
+            <div2 n="I. Alma ebriacha, che da cerchii sciolta">
+               <head>I.</head>
+               <lg>
+                  <lg>
+                     <l>Alma ebriacha, che da cerchii sciolta</l>
+                     <l>di queste mortal botte, le cantine</l>
+                     <l>lasciasti sconsolata in pianto, e 'n doglia</l>
+                     <l>dal locho ove ti stai pietosa ascolta</l>
+                     <l>i tinazi, le botte et le vettine,</l>
+                     <l>che quivi intorno ala tua fragil spoglia</l>
+                     <l>dollor eterno invoglia</l>
+                     <l>a pianger la tua morte, e il lor destino</l>
+                     <l>e di fiaschi, bicheri, et di bochali, trophei sacri, e imortali,</l>
+                     <l>fano con malvagia vernaza, e vino,</l>
+                     <l>al'ossa del lor caro Bernardino.</l>
+                  </lg>
+                  <lg>
+                     <l>Poi che crudel avara e acerba morte,</l>
+                     <l>da noi ti spinse, et quella mano audace</l>
+                     <l>non caciò il vin dal molto acquato ventre,</l>
+                     <l>sbirro, o fachin non vide questa corte</l>
+                     <l>lieto, ma lachrimoso, e senza pace</l>
+                     <l>né serrà mai ch'alcun più alegro c'entre,</l>
+                     <l>ma mesto e tristo, mentre</l>
+                     <l>ricordaransi quelle gran zuchate</l>
+                     <l>che dava lor la tua bontà natia</l>
+                     <l>là su l'Ave Maria</l>
+                     <l>o 'nanzi giorno, pria che le brigate</l>
+                     <l>aprisser le botege lor serate.</l>
+                  </lg>
+                  <lg>
+                     <l>Ohimè che terra, e fato il rosso viso</l>
+                     <l>che solea far altrui, mai sempre lieto</l>
+                     <l>sì come tu da noi già mai diviso</l>
+                     <l>non eri giorno, o note, hor chi ci vede</l>
+                     <l>per ché ci fugì come l'onbra il sole</l>
+                     <l>più non si fan parole,</l>
+                     <l>per molto honor fra mulatieri, e cochi</l>
+                     <l>più la nostra ragion non si diffonde,</l>
+                     <l>ma ogniun chi vol ci offende</l>
+                     <l>a chi porta le legne, e apiza fochi</l>
+                     <l>sian divenuti pasatempi, e giochi.</l>
+                  </lg>
+                  <lg>
+                     <l>Nostre disugualanze hor son eguali</l>
+                     <l>ch'eran fra il bochal grande, e il bochaletto</l>
+                     <l>che ti stava ala mensa sempre a i fianchi,</l>
+                     <l>hor bochalin, e bochalon, bochali</l>
+                     <l>siamo ad un modo, senza alcun rispetto</l>
+                     <l>ci pongono vilmente soto i banchi</l>
+                     <l>tuti sani, neri, e bianchi,</l>
+                     <l>né lunga servitù giova ad alcuno</l>
+                     <l>né sono più tra noi li ultimi, o primi,</l>
+                     <l>non è più alcun che stimi,</l>
+                     <l>che Pier da Trento, e quel camerer bruno,</l>
+                     <l>bevin di quel, che non ne beve ogniuno.</l>
+                  </lg>
+                  <lg>
+                     <l>Bandite son le calse, e casetini</l>
+                     <l>i forcier, i bancheti, e quelli armari</l>
+                     <l>che facean tra noi picecharia</l>
+                     <l>di confetti salami, et di tomini,</l>
+                     <l>de ova, de fruti, e d'altri mille rari</l>
+                     <l>sogetti d'aguzar la fantasia</l>
+                     <l>a dir tocha pur via</l>
+                     <l>alegramente il tuo sotil bichero</l>
+                     <l>e quelle suppe in vin fate la sera,</l>
+                     <l>quando de state li era</l>
+                     <l>da far altrui abandonar l'impero</l>
+                     <l>et la cathedra insieme di San Piero.</l>
+                  </lg>
+                  <lg>
+                     <l>Onde se si doliam sì amaramente</l>
+                     <l>Pia[n]gemo la tua morte, et sì a ragione</l>
+                     <l>si lamentamo al tuo sepolchro intorno</l>
+                     <l>non ne lasciar qua mesti eternamente</l>
+                     <l>ma fa in vita ritorno</l>
+                     <l>che vien la estate, e tu sai pur che i vini</l>
+                     <l>serbiamo per la tua spongosa lora</l>
+                     <l>aciò tu li habii ogni hora</l>
+                     <l>chiari, freschi, bruschin, dolci, e divini</l>
+                     <l>deh non lasciar che altri li goda e spini.</l>
+                  </lg>
+                  <lg>
+                     <l>Colma d'affani, e di disperatione,</l>
+                     <l>canzon tu poi ben dire</l>
+                     <l>che morto il general de' Bernardini</l>
+                     <l>spenti son da le botte, i mossolini.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="II. Quando per farsi honore">
+               <head>II.</head>
+               <lg>
+                  <l>Quando per farsi honore</l>
+                  <l>quel ver Signore et fattor nostro eterno</l>
+                  <l>vol qua fra noi scoprir il suo valore</l>
+                  <l>per quanto in me discerno</l>
+                  <l>prima mostra un bel cielo</l>
+                  <l>co 'l zafirato velo</l>
+                  <l>un bel sol, una luna</l>
+                  <l>le stelle ad una ad una</l>
+                  <l>ch'hanno di noi la notte, e il dì governo</l>
+                  <l>poi ci scopre una fresca primavera</l>
+                  <l>una cocent'estate,</l>
+                  <l>un temperato autunno e un freddo verno</l>
+                  <l>et poi di genti una gran folta schiera</l>
+                  <l>dispari in voci, in volto, in voglie nate</l>
+                  <l>et per far via più degno il secol nostro</l>
+                  <l>alor fra noi mostra il bel sembiante vostro.</l>
+               </lg>
+            </div2>
+            <div2 n="III. Per far il mondo pien di maraviglia">
+               <head>III.</head>
+               <lg>
+                  <l>Per far il mondo pien di maraviglia</l>
+                  <l>quel buon fabro dil cielo</l>
+                  <l>vi fe' sì bella sotto un mortal velo,</l>
+                  <l>che nessuna altra in terra vi somiglia.</l>
+                  <l>O bellezze divine, o viso santo</l>
+                  <l>o sacri et bei costumi</l>
+                  <l>che fatte al secol nostro honor cotanto,</l>
+                  <l>felice è ben quel pianto</l>
+                  <l>ch'esce per voi da rugiadosi lumi,</l>
+                  <l>felice ché vi mira,</l>
+                  <l>felice l'alma, che per voi sospira.</l>
+               </lg>
+            </div2>
+            <div2 n="IV. Chi vol veder opra celeste et rara">
+               <head>IV.</head>
+               <lg>
+                  <l>Chi vol veder opra celeste et rara</l>
+                  <l>vegga questa mia dea et sua beltade,</l>
+                  <l>le gracie et l'honestade</l>
+                  <l>che quanto far può il ciel per lei s'impara.</l>
+                  <l>Felice ben son io che in questa etade</l>
+                  <l>hora mi trovo nato</l>
+                  <l>con sì benigno fato</l>
+                  <l>che mi fa servo in questo mortal velo</l>
+                  <l>alla bellezza, all'honestà del cielo.</l>
+               </lg>
+            </div2>
+            <div2 n="V. Per far un bello intiero">
+               <head>V.</head>
+               <lg>
+                  <l>Per far un bello intiero</l>
+                  <l>che ben fra mille donne era diviso</l>
+                  <l>il ciel col suo mirabil magistero</l>
+                  <l>quel tutto diede a voi con sì bel viso,</l>
+                  <l>così dal paradiso</l>
+                  <l>scese quel bel ch'avete</l>
+                  <l>et per favor divino in voi soggiorna.</l>
+                  <l>Tal che non donna più, ma un angel sete</l>
+                  <l>et è la terra hormai per voi sì adorna</l>
+                  <l>che già co' ciel di parità contende</l>
+                  <l>et il suo stesso error Giove riprende.</l>
+               </lg>
+            </div2>
+            <div2 n="VI. Signora, i' vo pensando">
+               <head>VI.</head>
+               <lg>
+                  <l>Signora, i' vo pensando</l>
+                  <l>come possibil sia</l>
+                  <l>che questa lingua mia</l>
+                  <l>ardisca dir del vostro alto valore,</l>
+                  <l>et quando più fra me vo ripensando</l>
+                  <l>più riprendo il mio errore</l>
+                  <l>che mi sforza parlar di tanta altura.</l>
+                  <l>Ma quella humana angelica persona</l>
+                  <l>così la voce affranca et m'assicura</l>
+                  <l>che quando quel bel nome in cuor mi sona</l>
+                  <l>la lingua sempre in vostro honor ragiona.</l>
+               </lg>
+            </div2>
+            <div2 n="VII. Signora, hor che fra noi non si ritrova">
+               <head>VII.</head>
+               <lg>
+                  <l>Signora, hor che fra noi non si ritrova</l>
+                  <l>di voi la più felice</l>
+                  <l>et che per vera prova</l>
+                  <l>'l valor vostro è più, ch'altri non dice</l>
+                  <l>mercé del grande cielo</l>
+                  <l>che vi die' sì felice e dolce sorte,</l>
+                  <l>in questo mortal velo</l>
+                  <l>ch'amor sprezzate, ogni fortuna et morte</l>
+                  <l>godete hor lieta col fedel consorte</l>
+                  <l>l'alto favor de la vostra alma stella</l>
+                  <l>che troppo honesta sete, e troppo bella.</l>
+               </lg>
+            </div2>
+            <div2 n="VIII. Signora, il dissi, et hor giurando il dico">
+               <head>VIII.</head>
+               <lg>
+                  <l>Signora, il dissi, et hor giurando il dico,</l>
+                  <l>che la più bella tra le belle sete</l>
+                  <l>ma pietà non havete;</l>
+                  <l>poi fra me dico, forse che l'eterna</l>
+                  <l>providenza superna</l>
+                  <l>per non far opra a sé stessa rubella</l>
+                  <l>volse senza pietà farve sì bella.</l>
+               </lg>
+            </div2>
+            <div2 n="IX. Quando nella mia dea io penso et ardo">
+               <head>IX.</head>
+               <lg>
+                  <l>Quando nella mia dea io penso et ardo</l>
+                  <l>amor io giurerei</l>
+                  <l>che quanto è bel tra voi, quel tanto è in lei</l>
+                  <l>sola sé stessa et nulla altra somiglia</l>
+                  <l>et veggio in un suo sguardo</l>
+                  <l>mille volti, la morte et la mia v[ita]</l>
+                  <l>in fm ciò ch'è in costei è maraviglia</l>
+                  <l>et è la gracia tanto infinita</l>
+                  <l>ch'ardisco dir, e il dico, al mio dispe[tto]</l>
+                  <l>ch'il ciel privo di lei non è perfetto.</l>
+               </lg>
+            </div2>
+            <div2 n="X. Signiora, una gran piaga">
+               <head>X.</head>
+               <lg>
+                  <l>Signiora, una gran piaga</l>
+                  <l>al mio petto s'annida</l>
+                  <l>sanarla ogn'huom si sfida.</l>
+                  <l>Un medicco fanciul chiamato Amore</l>
+                  <l>m'aperse un giorno il petto sina al cuore</l>
+                  <l>per sanar lei et mitigar l'ardore.</l>
+                  <l>Al fin, mi disse poi</l>
+                  <l>che non potea sanarsi senza voi.</l>
+               </lg>
+               <closer>
+                  <salute>A Guglielmo Canferri<lb/>
+
+Al Molto Magnifico S.r mio osser.mo el S.re fretada rognossa di Porto X. Giulio in Roma in strada 
+Julia</salute>
+               </closer>
+            </div2>
+            <div2 n="XI. Sotto altro cielo e più diverso clima">
+               <head>XI.</head>
+               <lg>
+                  <l>Sotto altro cielo e più diverso clima</l>
+                  <l>u' l'extremo occean Britania cinge,</l>
+                  <l>ver' la stella ch'in mar mai non se tinge,</l>
+                  <l>lontan dal bel tuo paese ove da prima</l>
+                  <l>scorser nascendo gli occhi mei</l>
+                  <l>del vivo sol de' dolci ochi suavi.</l>
+                  <l>Voi questo di madonna celebrate</l>
+                  <l>ch'io nacqui al mundo sol per render fede</l>
+                  <l>coi miei martir quanta è vostra beltate.</l>
+               </lg>
+            </div2>
+            <div2 n="XII. Poscia che sotto ' l ciel nostro intelletto">
+               <head>XII.</head>
+               <lg>
+                  <lg>
+                     <l>Poscia che sotto ' l ciel nostro intelletto,</l>
+                     <l>vile in bassa pregion quasi si muore,</l>
+                     <l>se d'amor non l'aviva ardente effetto,</l>
+                  </lg>
+                  <lg>
+                     <l>né cosa è che ci renda al gran fattore</l>
+                     <l>più conformi, e di lui c'innazi a paro,</l>
+                     <l>ch'è pura luce d'amoroso ardore,</l>
+                  </lg>
+                  <lg>
+                     <l>et ringratio amor, che del più illustre, e chiaro</l>
+                     <l>raggio m'accese, ch'entro nel suo impero</l>
+                     <l>huom mai scaldasse più gradito, e caro.</l>
+                  </lg>
+                  <lg>
+                     <l>Mercé di mortal dea che con severo</l>
+                     <l>ciglio mi scorge in alto, e 'n cui traluce</l>
+                     <l>di celeste splendor un lampo altiero,</l>
+                  </lg>
+                  <lg>
+                     <l>così foss'io 'l gran ciel ch'in giro adduce</l>
+                     <l>le fisse stelle, per ché in tale stato</l>
+                     <l>di lei mirar potrei l'intiera luce.</l>
+                  </lg>
+                  <lg>
+                     <l>Questa vita ch'alcun dice, è quasi un prato</l>
+                     <l>ov'è nascosto il serpe, e quindi nasce,</l>
+                     <l>ch'alcun non vi si trova esser beato</l>
+                  </lg>
+                  <lg>
+                     <l>onde altri brama esser già morto in fasce,</l>
+                     <l>altri dolenti di sua dura sorte</l>
+                     <l>sol di lamenti, e di sospir si pasce,</l>
+                  </lg>
+                  <lg>
+                     <l>o se pur doglia non l'ingombra, o morte</l>
+                     <l>queto e contento altro giamai non vive</l>
+                     <l>che l'hore del piacer son rare e corte.</l>
+                  </lg>
+                  <lg>
+                     <l>Queste a me care, et honorate rive</l>
+                     <l>non così udran a me nei colli intorno</l>
+                     <l>non così udrete voi dolci aure estive,</l>
+                  </lg>
+                  <lg>
+                     <l>aure figlie del sol che al caldo giorno</l>
+                     <l>soavi raggirate il ciel sereno,</l>
+                     <l>portate queste voci d'ogni intorno</l>
+                  </lg>
+                  <lg>
+                     <l>ch'io dalla contentezza accolto in seno</l>
+                     <l>forse sol sotto il cerchio della luna</l>
+                     <l>lieto mi vivo, e fortunato a pieno,</l>
+                  </lg>
+                  <lg>
+                     <l>non per altra caggion che per quest'una</l>
+                     <l>che nacqui al tempo vostro, e piacque poi</l>
+                     <l>che vostro io fossi all'alta mia fortuna.</l>
+                  </lg>
+                  <lg>
+                     <l>Donna degna d'impero, i' dicco a voi,</l>
+                     <l>che le gratie immortali al mondo spente</l>
+                     <l>con l'antico valor sendete a noi,</l>
+                  </lg>
+                  <lg>
+                     <l>s'io stendessi 'l mio nome oltre la gente</l>
+                     <l>dal mar d'Atlante, o sovra il verde lito</l>
+                     <l>che vede 'l sol quand'esce d'oriente,</l>
+                  </lg>
+                  <lg>
+                     <l>e 'l poco mio poter fosse infinito</l>
+                     <l>tanto nol prezzarei quanto m'apago</l>
+                     <l>che ' l fidel mio servir sia a voi gradito.</l>
+                  </lg>
+                  <lg>
+                     <l>Al desir mio così contento, e pago</l>
+                     <l>dogliomi sol che par non sia l'ingegno,</l>
+                     <l>né risponda lo stil leggiadro e vago</l>
+                  </lg>
+                  <lg>
+                     <l>per ché vagar potessi entro 'l bel regno</l>
+                     <l>de' vostri honor, ma qual ingegno ad arte</l>
+                     <l>verrà giamai che gionga al'alto segno?</l>
+                  </lg>
+                  <lg>
+                     <l>Ché le lodi vergate in dotte carte</l>
+                     <l>dal'origin del mondo accolte insieme</l>
+                     <l>di voi non vaglion la men degna parte.</l>
+                  </lg>
+                  <lg>
+                     <l>Poi ché questo non posso, le supreme</l>
+                     <l>forze del cuor rivolgo ai vostri rai,</l>
+                     <l>et indi andando fin all'hore estreme</l>
+                  </lg>
+                  <lg>
+                     <l>adorerovi, e pregherò che mai</l>
+                     <l>il vostro amor da me non sia diviso</l>
+                     <l>e ' l dolce lume, onde già il ciel mirai,</l>
+                  </lg>
+                  <lg>
+                     <l>non mi si toglia del mio paradiso.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="XIII. Voi che di perle, e d'hostro">
+               <head>XIII.</head>
+               <lg>
+                  <lg>
+                     <l>Voi che di perle, e d'hostro</l>
+                     <l>non sol ornata, anci d'ogni virtute,</l>
+                     <l>acciò ch'al mondo diate ogni salute</l>
+                     <l>sete discesa dal supremo chiostro.</l>
+                  </lg>
+                  <lg>
+                     <l>Ohimè per ché 'l bel viso</l>
+                     <l>da me mai sempre amato</l>
+                     <l>che mi suol far beato</l>
+                     <l>non lasciate mirar tall'hora fiso?</l>
+                  </lg>
+                  <lg>
+                     <l>Se là donde scendeste</l>
+                     <l>in voi regnava amor et honestade</l>
+                     <l>perché qua giù tant'odio, e crudeltade?</l>
+                     <l>Deh dolce anima mia</l>
+                     <l>siate ver' me tal hor cortese e pia.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="XIV. Ecco la bella fronte, e ' l dolce nodo">
+               <head>XIV.</head>
+               <lg>
+                  <lg>
+                     <l>Ecco la bella fronte, e ' l dolce nodo,</l>
+                     <l>gli occhi, i labri formati in Paradiso,</l>
+                     <l>e 'l mento dolcemente in sé diviso</l>
+                     <l>per man d'Amor composto, e in dolce modo.</l>
+                  </lg>
+                  <lg>
+                     <l>O vivo mio bel sol, perché non odo</l>
+                     <l>le soavi parole, e 'l dolce riso</l>
+                     <l>sì come chiaro veggio il sacro viso,</l>
+                     <l>per cui sempre pur piango, e mai non godo?</l>
+                  </lg>
+                  <lg>
+                     <l>E voi cari, beati, et dolci lumi</l>
+                     <l>per far gli oscuri miei giorni più chiari</l>
+                     <l>passato havete tanti monti, e fiumi.</l>
+                  </lg>
+                  <lg>
+                     <l>Hor qui nel duro essiglio in pianti amari,</l>
+                     <l>sostinete, ch'ardendo, i' me consumi,</l>
+                     <l>ver' di me più che mai scarsi et avari.</l>
+                  </lg>
+               </lg>
+               <closer>
+                  <dateline>MCXIII</dateline>
+               </closer>
+            </div2>
+            <div2 n="XV. Quando il tempo che ' l ciel con gli anni gira">
+               <head>XV.</head>
+               <lg>
+                  <lg>
+                     <l>Quando il tempo che ' l ciel con gli anni gira,</l>
+                     <l>havrà distrutto questo fragil legno,</l>
+                     <l>com'hor qualche marmoreo antico segno</l>
+                     <l>Roma tra tue roine ogn'huom ammira;</l>
+                  </lg>
+                  <lg>
+                     <l>verran quei, dove ancor' qui vita non spira,</l>
+                     <l>a contemplar l'espressa in bel dissegno</l>
+                     <l>beltà divina da l'humano ingegno,</l>
+                     <l>onde alcun havrà invidia a c'hor sospira.</l>
+                  </lg>
+                  <lg>
+                     <l>Altri, a cui nota sia vostra sembianza,</l>
+                     <l>e di mia mano insieme in altro loco</l>
+                     <l>vostro valor, e ' l mio martir depinto;</l>
+                  </lg>
+                  <lg>
+                     <l>quest'è certo diran quel chiaro fuoco,</l>
+                     <l>ch'acceso da desio più che speranza</l>
+                     <l>nel cuor del Castiglion mai non fia estinto.</l>
+                  </lg>
+               </lg>
+               <closer>
+                  <dateline>MDXIX</dateline>
+               </closer>
+            </div2>
+            <div2 n="XVI. Meco a batalia i' ti disfido Amore">
+               <head>XVI.</head>
+               <lg>
+                  <lg>
+                     <l>Meco a batalia i' ti disfido Amore</l>
+                     <l>né le tue temo gloriose imprese</l>
+                     <l>ancor ch'el sommo Giove a te si rese,</l>
+                     <l>in pioggia in legno et altro orrore.</l>
+                  </lg>
+                  <lg>
+                     <l>So che [t'avanzi], ché al tuo gran furore</l>
+                     <l>niuno resiste né alle tue contese,</l>
+                     <l>perché vint'hai coll'opre tue palese</l>
+                     <l>la man d'Alcide et di Marte il furore.</l>
+                  </lg>
+                  <lg>
+                     <l>Tu mi facesti schiavo a una Regina</l>
+                     <l>et hor al tuo dispreggio, al tuo dispetto</l>
+                     <l>vuo' romper l'arco, i strali, e la faretra,</l>
+                  </lg>
+                  <lg>
+                     <l>adonque tu con tua possa divina</l>
+                     <l>potrai far ch'i' ami un discortese petto,</l>
+                     <l>un fredo giaccio et indurata pietra?</l>
+                  </lg>
+               </lg>
+               <closer>C. Mor.</closer>
+            </div2>
+            <div2 n="XVII. Da qual parte del ciel et da qual choro">
+               <head>XVII.</head>
+               <lg>
+                  <lg>
+                     <l>Da qual parte del ciel et da qual choro</l>
+                     <l>de' bei spirti che 'l cerchio empireo serra</l>
+                     <l>quest'Angel venne ad habitar la terra</l>
+                     <l>cinto il bel crin di trionfal alloro?</l>
+                  </lg>
+                  <lg>
+                     <l>Il divin canto suo ch'ammiro e honoro</l>
+                     <l>ogni canto mortal vince et atterra</l>
+                     <l>et con nova harmonia dà pace et guerra</l>
+                     <l>a l'alme, il provo che gioisco et moro.</l>
+                  </lg>
+                  <lg>
+                     <l>Tra quanto bagna il mar et gira il sole</l>
+                     <l>sì chiara voce et sì rari concenti</l>
+                     <l>mai non s'udir, né sì dolci parole,</l>
+                  </lg>
+                  <lg>
+                     <l>o de le cose rade al mondo il sole</l>
+                     <l>donna, che puoi con amorosi accenti</l>
+                     <l>mover i sassi et acquetar i venti.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="XVIII. Se per un sguardo o per un rider finto">
+               <head>XVIII.</head>
+               <lg>
+                  <lg>
+                     <l>Se per un sguardo o per un rider finto</l>
+                     <l>tropp'alta impresa a seguitar mi posi,</l>
+                     <l>madonna errai, et del mio error mi scusi</l>
+                     <l>quel cieco Amor che m'ha nel laccio avinto.</l>
+                  </lg>
+                  <lg>
+                     <l>Non fia però se non per morte estinto</l>
+                     <l>quel'ardente desir ch'al cuor mi chiusi</l>
+                     <l>de i vostri raggi dolcemente infusi,</l>
+                     <l>c'havrian a seguitar un marmo spinto.</l>
+                  </lg>
+                  <lg>
+                     <l>Cerco cosa inegual al'esser mio,</l>
+                     <l>et so che col pensar trappasso il segno,</l>
+                     <l>ma se mi sforza Amor, che far poss'io?</l>
+                  </lg>
+                  <lg>
+                     <l>L'alto sperar non fa già l'huom indegno?</l>
+                     <l>Anzi indegno è chi abbassa il suo desio,</l>
+                     <l>dunque non m'haver donna a giuoco, e a sdegno.</l>
+                  </lg>
+               </lg>
+               <closer>
+                  <salute>A Guglielmo Canferri<lb/>
+
+Al Molto Magnifico S.r mio osser.mo el S.re fretada rognossa di Porto X. Giulio in Roma in strada 
+Julia</salute>
+               </closer>
+            </div2>
+            <div2 n="XIX. A quel che per superbia alza la cresta">
+               <head>XIX.</head>
+               <lg>
+                  <lg>
+                     <l>A quel che per superbia alza la cresta</l>
+                     <l>e per salire a maggior dignitate</l>
+                     <l>getta il cappuccio, e l'habito da Santo</l>
+                     <l>per porsi quadra una berretta in testa.</l>
+                  </lg>
+                  <lg>
+                     <l>Non gli fidatte qualche bella vesta</l>
+                     <l>da farlo conparir fra le brigatte</l>
+                     <l>ché la torà se [passo] gli ne date</l>
+                     <l>per servirsene il giorno della festa.</l>
+                  </lg>
+                  <lg>
+                     <l>Ché s'egli getta via lo scappolare</l>
+                     <l>per rubare ad un prete una beretta,</l>
+                     <l>che farà d'una vesta singulare</l>
+                  </lg>
+                  <lg>
+                     <l>s'egli vedrà di poter farla netta?</l>
+                     <l>Forse la rubarà non per rubare</l>
+                     <l>ma per cangiar veste se diletta.</l>
+                  </lg>
+                  <lg>
+                     <l>Questa è una bona incetta</l>
+                     <l>e usata da costui bene in testa</l>
+                     <l>vestirà come un Re con pocca spessa.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="XX. Hor dove sei mia sola et alma speme">
+               <head>XX.</head>
+               <lg>
+                  <lg>
+                     <l>Hor dove sei mia sola et alma speme</l>
+                     <l>che di me porti la più cara parte?</l>
+                     <l>E come il dì da noi co 'l sol si parte,</l>
+                     <l>cossì ne va con toi begl'occhi insieme.</l>
+                  </lg>
+                  <lg>
+                     <l>Meco lassi il disio, che ognor mi preme,</l>
+                     <l>di riveder chi me, da me, diparte.</l>
+                     <l>Sì mi governa Amor, e con tal arte,</l>
+                     <l>che ovonque vado si sospira e geme.</l>
+                  </lg>
+                  <lg>
+                     <l>Crudeli stelle, e dura dipartita</l>
+                     <l>ch'io provo, ahi lasso, de ' l mio caro bene</l>
+                     <l>onde m'era soave ogni tormento,</l>
+                  </lg>
+                  <lg>
+                     <l>per far amare le mie dolci pene,</l>
+                     <l>e per gettar le mie faticche al vento,</l>
+                     <l>[m'allon]tanate il lume de mia vita.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="XXI. Amor che voi più farmi se mia diva">
+               <head>XXI.</head>
+               <opener>
+                  <salute>A Amore</salute>
+               </opener>
+               <lg>
+                  <lg>
+                     <l>Amor che voi più farmi se mia diva</l>
+                     <l>lontana stassi et io carco di pene</l>
+                     <l>non trovo altro conforto né altro bene</l>
+                     <l>che andar piagnendo a l giaccio e a l'ombra estiva?</l>
+                  </lg>
+                  <lg>
+                     <l>Ne 'l tempo che mia spemme più fioriva</l>
+                     <l>fu dolce la mia pace e le cathene</l>
+                     <l>foron soave, e il don che mi mantene</l>
+                     <l>ameno e nullo amar di lei n'usciva.</l>
+                  </lg>
+                  <lg>
+                     <l>Hor che mia dura sorte sì me ha privo</l>
+                     <l>del maggior ben che 'l ciel donar mi possa</l>
+                     <l>giamai per altro amor sarò contento.</l>
+                  </lg>
+                  <lg>
+                     <l>Tu sai ch'è ella per me, et io son vivo</l>
+                     <l>ne 'l suo bel volto: adonque il sangue e l'ossa</l>
+                     <l>debbon patir per liei dolce tormento.</l>
+                  </lg>
+               </lg>
+               <closer>Fr. P.</closer>
+            </div2>
+            <div2 n="XXII. Spiriti illustri che purgate i chiostri">
+               <head>XXII.</head>
+               <lg>
+                  <lg>
+                     <l>Spiriti illustri che purgate i chiostri</l>
+                     <l>ispandete nel vergar le dotte carte,</l>
+                     <l>non ragionate più d'Apollo o Marte</l>
+                     <l>o d'Hercol domator de' fieri mostri.</l>
+                  </lg>
+                  <lg>
+                     <l>Ma consumando gli alti pensier vostri</l>
+                     <l>lodate quel che con mirabil arte</l>
+                     <l>monstrata ha sua virtute in ogni parte,</l>
+                     <l>nova cosa è miracol a' dì nostri.</l>
+                  </lg>
+                  <lg>
+                     <l>Questi col senno et con la destra invitta</l>
+                     <l>che morto ha novamente il fier tyranno,</l>
+                     <l>degno è di statua, et di corona d'oro,</l>
+                  </lg>
+                  <lg>
+                     <l>onde vedrassi di cotal lavoro</l>
+                     <l>tesser sua libertate, e uscir d'affanno</l>
+                     <l>Fiorenza bella e non fia ponto afflitta.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="XXIII. Crin d'oro crespi, inanellati et tersi">
+               <head>XXIII.</head>
+               <lg>
+                  <lg>
+                     <l>Crin d'oro crespi, inanellati et tersi,</l>
+                     <l>più ch'ambra chiari, e più che ' l sol lucenti,</l>
+                     <l>per quai, mentre al mirar fur gli occhi intenti</l>
+                     <l>ad aure calde, il freddo cuor apersi.</l>
+                  </lg>
+                  <lg>
+                     <l>Onde avvien che per voi gli occhii miei fersi</l>
+                     <l>d'Amore et di fredd'acque due torrenti,</l>
+                     <l>onde avvien che per voi sospir cocenti</l>
+                     <l>traga mai sempre, e l'alma habbia dolersi.</l>
+                  </lg>
+                  <lg>
+                     <l>Creddo ch'Amor in voi, le face, e i strali</l>
+                     <l>nasconda, con i quai fiere et incende</l>
+                     <l>quelli che di vedervi hanno diletto,</l>
+                  </lg>
+                  <lg>
+                     <l>sol posso dir che colpi aspri e mortali</l>
+                     <l>nel mirar voi sentomi far nel petto</l>
+                     <l>e flamma nascer ch'ad ognor l'accende.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="XXIV. Fiumme gentil che volgi pure, e chiare">
+               <head>XXIV.</head>
+               <lg>
+                  <lg>
+                     <l>Fiumme gentil che volgi pure, e chiare</l>
+                     <l>onde d'argento, alle cui rive amene</l>
+                     <l>nuova terestre dea sovente viene</l>
+                     <l>con altre ninfe più dilette, e care.</l>
+                  </lg>
+                  <lg>
+                     <l>Fra quanti fiumi e rivi accoglie il mare,</l>
+                     <l>dal freddo Eusino alli cocenti arene,</l>
+                     <l>là dove caspe l'occean sostiene</l>
+                     <l>più beato di te null'altro appare.</l>
+                  </lg>
+                  <lg>
+                     <l>Di bisogno all'herbose amate sponde,</l>
+                     <l>fedel pastor al dipartir del giorno</l>
+                     <l>pien d'honorato ardor così dicea,</l>
+                  </lg>
+                  <lg>
+                     <l>gridò una voce all'hor d'intorno l'onde:</l>
+                     <l>non c'è colei, che me basar potea,</l>
+                     <l>lasso, et d'altrui qui più non fa soggiorno.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="XXV. Anima mia gentil, io parto e lasso">
+               <head>XXV.</head>
+               <lg>
+                  <lg>
+                     <l>Anima mia gentil, io parto e lasso</l>
+                     <l>a voi, e in poter vostro il mio core</l>
+                     <l>che così vol, e mel comanda amore</l>
+                     <l>e di duol mi distruggo ad ogni passo.</l>
+                  </lg>
+                  <lg>
+                     <l>Né vedrò acqua mai arbore o sasso</l>
+                     <l>in questo viaggio mio pien di dolore</l>
+                     <l>ch'io non veggia il bel viso, che d'ardore</l>
+                     <l>m'empie, e di libertà m'ha privo et casso.</l>
+                  </lg>
+                  <lg>
+                     <l>Fra tanto voi se del mio ardor vi cale</l>
+                     <l>ricordatevi prego almen tall'hora</l>
+                     <l>di me che pur son vostro, et del mio male</l>
+                  </lg>
+                  <lg>
+                     <l>che se ciò sia, parrammi d'hor in hora</l>
+                     <l>men lieve il mal, e potrà darmi tale</l>
+                     <l>nuova il mio cuore, che con voi dimora.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="XXVI. Scrisse già frate Carlo a un mio vicino">
+               <head>XXVI.</head>
+               <lg>
+                  <lg>
+                     <l>Scrisse già frate Carlo a un mio vicino</l>
+                     <l>un bel notando il qual afferma e mente</l>
+                     <l>che 'l più di queste donne giovinette</l>
+                     <l>che paion rose accolte giù dal spino,</l>
+                  </lg>
+                  <lg>
+                     <l>di varii effetti son sera e mattino</l>
+                     <l>come tra prati anchor fiori et herbette</l>
+                     <l>per ché suso le porte, en tacolette</l>
+                     <l>e più che capre al maggio entro ' l giardino</l>
+                  </lg>
+                  <lg>
+                     <l>angeli rasembran passeggiando 'n via</l>
+                     <l>con gli occhi bassi, et se nel tempio stanno</l>
+                     <l>son tutte sante in dir l'Ave Maria.</l>
+                  </lg>
+                  <lg>
+                     <l>Civette naturale sopra 'l scano</l>
+                     <l>standosi alle finestre, in gelosia</l>
+                     <l>si posson dir tant'atti et gesti fanno.</l>
+                  </lg>
+                  <lg>
+                     <l>Resta l'ultimo danno</l>
+                     <l>per ché nel letto a l'huom in foggia strette</l>
+                     <l>gli sonno a' fianchi tarme, e al cuor saette.</l>
+                  </lg>
+                  <lg>
+                     <l>Sì che per simil strette</l>
+                     <l>esorto ognun che puote a lontanarsi</l>
+                     <l>e chi sciolto si trova a non legarsi.</l>
+                  </lg>
+               </lg>
+            </div2>
+         </div1>
+         <div1 n="Giochi rimati">
+            <div2 n="I. Se mai mostrò natura ogni suo ingegno">
+               <head>I.</head>
+               <argument>
+                  <p>Del sole</p>
+               </argument>
+               <lg>
+                  <l>Se mai mostrò natura ogni suo ingegno,</l>
+                  <l>ogni sua forza, ogni sua industria et arte</l>
+                  <l>fu quando fe' di voi il gran dissegno.</l>
+               </lg>
+            </div2>
+            <div2 n="II. Il sol è sol, ma chi 'l Genepr'odora">
+               <head>II.</head>
+               <argument>
+                  <p>Del Genepro</p>
+               </argument>
+               <lg>
+                  <l>Il sol è sol, ma ch[i] 'l Genepr'odora</l>
+                  <l>sente sì raro odor, sì dolce cosa</l>
+                  <l>che vive e muor ben mille volt'al'hora.</l>
+               </lg>
+            </div2>
+            <div2 n="III. Biasman tutte il Cattar, et io sempre">
+               <head>III.</head>
+               <argument>
+                  <p>Del Cattaro</p>
+               </argument>
+               <lg>
+                  <l>Biasman tutte il Cattar, et io sempre</l>
+                  <l>meco haverlo vorrei, la notte, il giorno</l>
+                  <l>tanto si fan le sue con le mie tempre.</l>
+               </lg>
+            </div2>
+            <div2 n="IV. La santa voglia che t'induce al luoco">
+               <head>IV.</head>
+               <opener>
+                  <salute>A chi si volesse far monicha</salute>
+               </opener>
+               <lg>
+                  <l>La santa voglia che t'induce al luoco</l>
+                  <l>stretto da muri e d'obbedienza pieno</l>
+                  <l>sarà di tua beltà sepulcro e fuoco.</l>
+               </lg>
+            </div2>
+            <div2 n="V. Vedrasi volar i monti sopra il cielo">
+               <head>V.</head>
+               <opener>
+                  <salute>A una costante (Vittoria)</salute>
+               </opener>
+               <lg>
+                  <l>Vedrasi volar i monti sopra il cielo</l>
+                  <l>il nero biancho farsi, e farsi chiaro</l>
+                  <l>pria che di volontà si muti pelo.</l>
+               </lg>
+            </div2>
+            <div2 n="VI. Di mirarte ciaschun si ferma stancho">
+               <head>VI.</head>
+               <opener>
+                  <salute>A una vestita a biancho (Collaltina)</salute>
+               </opener>
+               <lg>
+                  <l>Di mirarte ciaschun si ferma stancho</l>
+                  <l>satio non già, sì ben rispond'in fatto</l>
+                  <l>a l'alma, a' tuoi pensier, l'habbito biancho.</l>
+               </lg>
+            </div2>
+            <div2 n="VII. Come più mai potrà esser tra noi">
+               <head>VII.</head>
+               <opener>
+                  <salute>A una da' begl'occhi (Barbara)</salute>
+               </opener>
+               <lg>
+                  <l>Come più mai potrà esser tra noi</l>
+                  <l>bella donna, se la natura e Dio</l>
+                  <l>han posto ogni beltà ne gl'occhi tuoi?</l>
+               </lg>
+            </div2>
+            <div2 n="VIII. Cara pallaza mia, fa presto presto">
+               <head>VIII.</head>
+               <lg>
+                  <l>Cara pallaza mia, fa presto presto</l>
+                  <l>mena le mani, i pié, non star a banda</l>
+                  <l>che in breve, ti so dir, farai del resto.</l>
+               </lg>
+            </div2>
+            <div2 n="IX. S'a gl'occhi, a le tue man, al col, al viso">
+               <opener>
+                  <salute>A una che sotto panni habbia chiera di cativa robba et che in volto sia bella 
+(Maura)</salute>
+               </opener>
+               <lg>
+                  <l>S'a gl'occhi, a le tue man, al col, al viso</l>
+                  <l>corispondenti son quel'altre menbra</l>
+                  <l>vo' dir che proprio sei unl paradiso.</l>
+               </lg>
+            </div2>
+            <div2 n="X. I vostr'occhi, che mai si satian puonto">
+               <head>X.</head>
+               <argument>
+                  <p>Nanfrona</p>
+               </argument>
+               <lg>
+                  <l>I vostr'occhi, che mai si satian puonto</l>
+                  <l>d'occider, di furar i cor d'altrui</l>
+                  <l>del mio, spero ancor mi rendin cuonto.</l>
+               </lg>
+            </div2>
+            <div2 n="XI. Ben si può dirvi, o rosa senza spina">
+               <head>XI.</head>
+               <argument>
+                  <p>Elena</p>
+               </argument>
+               <lg>
+                  <l>Ben si può dirvi, o rosa senza spina,</l>
+                  <l>l'unica bella, perch'in voi si vede</l>
+                  <l>gratie che a poche il ciel largo destina.</l>
+               </lg>
+            </div2>
+            <div2 n="XII. Può esser, vitta mia, non ti rincrescha">
+               <head>XII.</head>
+               <lg>
+                  <l>Può esser, vitta mia, non ti rincrescha</l>
+                  <l>vedermi ogn'hor morir, che sempre t'hebbi</l>
+                  <l>sola del viver mio per cibo et escha.</l>
+               </lg>
+            </div2>
+            <div2 n="XIII. Io non so se non invan dolermi">
+               <head>XIII.</head>
+               <lg>
+                  <l>Io non so se non invan dolermi,</l>
+                  <l>chiamar fortuna il ciel empio et crudele</l>
+                  <l>poi ché i tuoi sdegni in me si restan fermi.</l>
+               </lg>
+            </div2>
+            <div2 n="XIV. Le muse viniranno un giorno insieme">
+               <head>XIV.</head>
+               <argument>
+                  <p>May</p>
+               </argument>
+               <lg>
+                  <l>Le muse viniranno un giorno insieme</l>
+                  <l>a coronarvi d'edera over d'alloro</l>
+                  <l>premio conforme alla sì lunga speme.</l>
+               </lg>
+            </div2>
+            <div2 n="XV. Privo in tutto son io d'ogni mio bene">
+               <head>XV.</head>
+               <lg>
+                  <l>Privo in tutto son io d'ogni mio bene</l>
+                  <l>et nudo et grave et solo et peregrino</l>
+                  <l>vo misurando i campi et le mie pene.</l>
+               </lg>
+            </div2>
+            <div2 n="XVI. Gli occhi bagnati porto e 'l viso chino">
+               <head>XVI.</head>
+               <lg>
+                  <l>Gli occhi bagnati porto e 'l viso chino</l>
+                  <l>e 'l cor in doglia, e l'alma fuor di speme,</l>
+                  <l>né d'haver cerco men fero destino.</l>
+               </lg>
+            </div2>
+            <div2 n="XVII. Amor io non mi pento">
+               <head>XVII.</head>
+               <lg>
+                  <l>Amor io non mi pento</l>
+                  <l>d'esser ferita de la tua saetta</l>
+                  <l>s'un tuo sì picciol ben tanto diletta.</l>
+               </lg>
+            </div2>
+            <div2 n="XVIII. Terminato ha Giove farvi Dea">
+               <head>XVIII.</head>
+               <argument>
+                  <p>S. Ortensia</p>
+               </argument>
+               <lg>
+                  <l>Terminato ha Giove farvi Dea</l>
+                  <l>del terzo cielo, poi ch'ei chiar s'avede</l>
+                  <l>che questo loco vostro esser dovea.</l>
+               </lg>
+            </div2>
+            <div2 n="XIX. Come attenere vi potrete al capo tondo">
+               <head>XIX.</head>
+               <argument>
+                  <p>Sole</p>
+               </argument>
+               <lg>
+                  <l>Come attenere vi potrete al capo tondo</l>
+                  <l>se manca del suo crin biondo e sutile?</l>
+                  <l>Però donna pensate all'alto pondo.</l>
+               </lg>
+            </div2>
+            <div2 n="XX. Tante lodi non potrian dirsi in versi">
+               <head>XX.</head>
+               <argument>
+                  <p>Anna</p>
+               </argument>
+               <lg>
+                  <l>Tante lodi non potrian dirsi in versi</l>
+                  <l>quante merta il famoso vostro nome</l>
+                  <l>però a cantarne ogn'un par che s'immersi.</l>
+               </lg>
+            </div2>
+            <div2 n="XXI. Bocca di perle e di rubini ornata">
+               <head>XXI.</head>
+               <lg>
+                  <l>Bocca di perle e di rubini ornata</l>
+                  <l>perché la mia con teco non s'appiata?</l>
+               </lg>
+            </div2>
+            <div2 n="XXII. Creovi certo il cielo così bella">
+               <head>XXII.</head>
+               <argument>
+                  <p>S. Colaltina</p>
+               </argument>
+               <lg>
+                  <l>Creovi certo il cielo così bella</l>
+                  <l>sì cortese e leggiadra, e sì prudente,</l>
+                  <l>per ché specchio nel mondo foste, e stella.</l>
+               </lg>
+            </div2>
+            <div2 n="XXIII. Quand'è in giovin età senno e infinita">
+               <head>XXIII.</head>
+               <argument>
+                  <p>S. Ifigenia</p>
+               </argument>
+               <lg>
+                  <l>Quand'è in giovin età senno e infinita</l>
+                  <l>honestate, e valor, con leggiadria</l>
+                  <l>creder a ogn'altro ben poi ciò m'invita.</l>
+               </lg>
+            </div2>
+            <div2 n="XXIV. Chi brama altrui seguir in santi gesti">
+               <head>XXIV.</head>
+               <argument>
+                  <p>S. Co. Torella</p>
+               </argument>
+               <lg>
+                  <l>Chi brama altrui seguir in santi gesti</l>
+                  <l>in prudenza, in valor, in cortesia,</l>
+                  <l>risguardi voi poi d'essequir non resti</l>
+               </lg>
+            </div2>
+            <div2 n="XXV. Gratie, virtù, e valor con honestade">
+               <head>XXV.</head>
+               <argument>
+                  <p>Contessa C.</p>
+               </argument>
+               <lg>
+                  <l>Gratie, virtù, e valor con honestade</l>
+                  <l>fur poste in voi donna reale et bella</l>
+                  <l>per hornamento sol di nostra etade.</l>
+               </lg>
+            </div2>
+            <div2 n="XXVI. Sì come navicella in mar battuta">
+               <head>XXVI.</head>
+               <argument>
+                  <p>Ginepro</p>
+               </argument>
+               <lg>
+                  <l>Sì come navicella in mar battuta</l>
+                  <l>da fieri venti poi si mette in porto</l>
+                  <l>così spero a' miei mali al fin conforto.</l>
+               </lg>
+            </div2>
+            <div2 n="XXVII. Il mondo lascio, et me consacro e duono">
+               <head>XXVII.</head>
+               <argument>
+                  <p>S. Giulia</p>
+               </argument>
+               <lg>
+                  <l>Il mondo lascio, et me consacro e duono</l>
+                  <l>all'alto mio signore e creatore</l>
+                  <l>né in altro pensier mai per entrar sono.</l>
+               </lg>
+            </div2>
+            <div2 n="XXVIII. Per boschi, per le strade e per li campi">
+               <head>XXVIII.</head>
+               <lg>
+                  <l>Per boschi, per le strade e per li campi</l>
+                  <l>vo tutto giorno, e poi gionto alla sera</l>
+                  <l>non veggo che da mal mi levi o scampi.</l>
+               </lg>
+            </div2>
+            <div2 n="XXIX. Queste quercie, questi olmi e questi sassi">
+               <head>XXIX.</head>
+               <lg>
+                  <l>Queste quercie, questi olmi e questi sassi,</l>
+                  <l>queste fonti, quest'ombre, e piaggie sanno</l>
+                  <l>quante per voi ferrite il cuor mi passi.</l>
+               </lg>
+            </div2>
+            <div2 n="XXX. Voglii o non vogli, per me non sarà mai">
+               <head>XXX.</head>
+               <lg>
+                  <l>Voglii o non vogli, per me non sarà mai</l>
+                  <l>ch'io non porti scolpito il suo bel nome</l>
+                  <l>in mezo del cuor mio colmo di guai.</l>
+               </lg>
+            </div2>
+            <div2 n="XXXI. Honeste donne virtuose et belle">
+               <head>XXXI.</head>
+               <argument>
+                  <p>Sig.ra Peverara</p>
+               </argument>
+               <lg>
+                  <l>Honeste donne virtuose et belle</l>
+                  <l>venete ad honorar questa signora,</l>
+                  <l>ch'è fra voi come luna fra le stelle.</l>
+               </lg>
+            </div2>
+            <div2 n="XXXII. Voi che state pensando così fiso">
+               <head>XXXII.</head>
+               <argument>
+                  <p>Domenega</p>
+               </argument>
+               <lg>
+                  <l>Voi che state pensando così fiso</l>
+                  <l>che par che maraviglia il cor v'ingombri</l>
+                  <l>al creder mio chiamate il paradiso.</l>
+               </lg>
+            </div2>
+            <div2 n="XXXIII. Ha la gola di neve, e latte il seno">
+               <head>XXXIII.</head>
+               <argument>
+                  <p>Ifigenia</p>
+               </argument>
+               <lg>
+                  <l>Ha la gola di neve, e latte il seno,</l>
+                  <l>d'ebbano i cigli, e di coral la bocca</l>
+                  <l>questa che mi conduce a venir meno.</l>
+               </lg>
+            </div2>
+            <div2 n="XXXIV. Ha da farmi costui credo, morire">
+               <head>XXXIV.</head>
+               <argument>
+                  <p>Tibino</p>
+               </argument>
+               <lg>
+                  <l>Ha da farmi costui credo, morire</l>
+                  <l>tanta fierezza haver mostra nel core,</l>
+                  <l>però Signor risguarda al mio servire .</l>
+               </lg>
+            </div2>
+            <div2 n="XXXV. Come non veggo donna qui di voi">
+               <head>XXXV.</head>
+               <argument>
+                  <p>S. Camilla</p>
+               </argument>
+               <lg>
+                  <l>Come non veggo donna qui di voi</l>
+                  <l>più illustre, più bella e più gentile</l>
+                  <l>così i dì vostri sian sempre tra noi.</l>
+               </lg>
+            </div2>
+            <div2 n="XXXVI. Leggiadre donne hebbe l'antica etade">
+               <head>XXXVI.</head>
+               <argument>
+                  <p>Auditora</p>
+               </argument>
+               <lg>
+                  <l>Leggiadre donne hebbe l'antica etade</l>
+                  <l>ma di gran longa voi, et quelle et quelle</l>
+                  <l>vanzate in qual si volia qualitade.</l>
+               </lg>
+            </div2>
+            <div2 n="XXXVII. Non è che tua beltà non sia infinita">
+               <head>XXXVII.</head>
+               <argument>
+                  <p>Pantasilea</p>
+               </argument>
+               <lg>
+                  <l>Non è che tua beltà non sia infinita,</l>
+                  <l>si può ben dire che sei tanto crudele</l>
+                  <l>chi t'ama brami ogn'hor torli la vita.</l>
+               </lg>
+            </div2>
+            <div2 n="XXX VIII. In te donna gentil somma beltade">
+               <head>XXX VIII.</head>
+               <argument>
+                  <p>Zabarille</p>
+               </argument>
+               <lg>
+                  <l>In te donna gentil somma beltade</l>
+                  <l>ogn'hor si vede, ma più ch'importa ancora</l>
+                  <l>senno maturo alla più verde etade.</l>
+               </lg>
+            </div2>
+            <div2 n="XXXIX. Sì bella nata son, sì riccha anchora">
+               <head>XXXIX.</head>
+               <opener>
+                  <salute>Alla C.sa Genevra Cavriani</salute>
+               </opener>
+               <lg>
+                  <l>Sì bella nata son, sì riccha anchora</l>
+                  <l>ch'a poche di sue sorte invidia porto</l>
+                  <l>et lodo il mio voler, più sempre ogn'hora.</l>
+               </lg>
+            </div2>
+            <div2 n="XL. I cigli arcati ognun per maraviglia">
+               <head>XL.</head>
+               <opener>
+                  <salute>Alla Malaspina</salute>
+               </opener>
+               <lg>
+                  <l>[I] cigli arcati ognun per maraviglia</l>
+                  <l>[ruo]ta pensando di voi la gran beltade</l>
+                  <l>[...] connesso ancor la gran spariglia.</l>
+               </lg>
+            </div2>
+            <div2 n="XLI. Acciò vostra beltà longa si mostri">
+               <head>XLI.</head>
+               <opener>
+                  <salute>Alla S.ra Giudit</salute>
+               </opener>
+               <lg>
+                  <l>Acciò vostra beltà longa si mostri</l>
+                  <l>rara tra noi in questi primi assalti</l>
+                  <l>adaggio andate a far i fatti vostri.</l>
+               </lg>
+            </div2>
+            <div2 n="XLII. Gola di puro latte e seno di neve">
+               <head>XLII.</head>
+               <lg>
+                  <l>Gola di puro latte e seno di neve</l>
+                  <l>gote sembianti a matutine rose</l>
+                  <l>le vostre son madonna.</l>
+               </lg>
+            </div2>
+            <div2 n="XLIII. elio è donque fermarsi in altro fondo">
+               <head>XLIII.</head>
+               <lg>
+                  <l>Hor dell'oro mirate il pel nel fondo,</l>
+                  <l>melio è donque fermarsi in altro fondo,</l>
+                  <l>melio è donque lasciar questo secondo.</l>
+               </lg>
+            </div2>
+            <div2 n="XLIV. Unico mio bel sol, la vista vostra">
+               <head>XLIV.</head>
+               <lg>
+                  <l>Unico mio bel sol, la vista vostra</l>
+                  <l>m'abbaglia sì, ch'a forza le mie pene</l>
+                  <l>oblio tutte, ov'ella mi si mostra.</l>
+               </lg>
+            </div2>
+            <div2 n="XLV. Dal ciel scesa qua giù voi sete in terra">
+               <head>XLV.</head>
+               <argument>
+                  <p>Sig.ra Isa. Gonzaga</p>
+               </argument>
+               <lg>
+                  <l>Dal ciel scesa qua giù voi sete in terra</l>
+                  <l>donna, il cui valor si mostra chiaro</l>
+                  <l>per dar al mondo pace, et torli guerra.</l>
+               </lg>
+            </div2>
+            <div2 n="XLVI. Poi ch'io di quel ben, son priva et cassa">
+               <head>XLVI.</head>
+               <argument>
+                  <p>Gandina</p>
+               </argument>
+               <lg>
+                  <l>Poi ch'io di quel ben, son priva et cassa</l>
+                  <l>che sol volli, et pregiai, più che me stessa</l>
+                  <l>ogn'altro ben in me dispregio, ahi lassa</l>
+               </lg>
+            </div2>
+            <div2 n="XLVII. Meco, et ben ha di ciò gran tuort'amore">
+               <head>XLVII.</head>
+               <argument>
+                  <p>Celera</p>
+               </argument>
+               <lg>
+                  <l>Meco, et ben ha di ciò gran tuort'amore</l>
+                  <l>le vigilie son tali, e i dolor tanti</l>
+                  <l>ch'invidia non ho a chi penando more.</l>
+               </lg>
+            </div2>
+            <div2 n="XLVIII. Io son del mio mal vaga, et del morire">
+               <head>XLVIII.</head>
+               <lg>
+                  <l>Io son del mio mal vaga, et del morire</l>
+                  <l>sarei, se non ch'io bramo a' giorni miei</l>
+                  <l>vendetta pur veder del mio languire.</l>
+               </lg>
+            </div2>
+            <div2 n="XLIX. Ben potrà sempre il mondo dir di voi">
+               <head>XLIX.</head>
+               <argument>
+                  <p>Cesar</p>
+               </argument>
+               <lg>
+                  <l>Ben potrà sempre il mondo dir di voi,</l>
+                  <l>questa fera, et crudel a morte spinse</l>
+                  <l>un, che l'amò via più che gli occhi suoi.</l>
+               </lg>
+            </div2>
+            <div2 n="L. Il biancho crin ch'ognor ti vedo in testa">
+               <head>L.</head>
+               <opener>
+                  <salute>Al m.ro di casa</salute>
+               </opener>
+               <lg>
+                  <l>Il biancho crin ch'ognor ti vedo in testa</l>
+                  <l>mi fa fermo pensar che 'l tuo pensiero</l>
+                  <l>bel dritto è ver camin terà la pesta.</l>
+               </lg>
+            </div2>
+            <div2 n="LI. S'il tuo pianeta non m'ingana l'occhio">
+               <head>LI.</head>
+               <opener>
+                  <salute>Al m.ro di stalla</salute>
+               </opener>
+               <lg>
+                  <l>S'il tuo pianeta non m'ingana l'occhio</l>
+                  <l>ti vedo un dì magnar da un cavallo</l>
+                  <l>come se proprio fosti un bel ranocchio.</l>
+               </lg>
+            </div2>
+            <div2 n="LII. Al nome, al viso, sei l'apostol santo">
+               <head>LII.</head>
+               <opener>
+                  <salute>A Pavolo despensier</salute>
+               </opener>
+               <lg>
+                  <l>Al nome, al viso, sei l'apostol santo</l>
+                  <l>
+                     <foreign lang="lat">vas panis</foreign>, però tien drit'il conto</l>
+                  <l>a ciò simigli a lui in ogni canto.</l>
+               </lg>
+            </div2>
+            <div2 n="LIII. Credo forsi che sei di qualche prova">
+               <head>LIII.</head>
+               <opener>
+                  <salute>Al spenditor</salute>
+               </opener>
+               <lg>
+                  <l>Credo forsi che sei di qualche prova</l>
+                  <l>in questo grado tuo; ma dimi un pocho</l>
+                  <l>s'il sai, il tanto biastemar, che giova?</l>
+               </lg>
+            </div2>
+            <div2 n="LIV. O officio divin, ch'ognun t'adora">
+               <head>LIV.</head>
+               <opener>
+                  <salute>Al canevaro</salute>
+               </opener>
+               <lg>
+                  <l>O officio divin, ch'ognun t'adora,</l>
+                  <l>ognun ti brama, ognun ti fa carezze,</l>
+                  <l>compagno d'i mosolin, et de la lora.</l>
+               </lg>
+            </div2>
+            <div2 n="LV Estote parati, ben dice il testo">
+               <head>LV</head>
+               <opener>
+                  <salute>A ms. Gerolomin</salute>
+               </opener>
+               <lg>
+                  <l>
+                     <foreign lang="lat">Estote parati</foreign>, ben dice il testo</l>
+                  <l>perché la milza un dì, faraten una</l>
+                  <l>né impiastro giovarà, né pollo pesto.</l>
+               </lg>
+            </div2>
+            <div2 n="LVI. Tu pai un gni gnò, ma l'hai pelata">
+               <head>LVI.</head>
+               <opener>
+                  <salute>Al pela stafero</salute>
+               </opener>
+               <lg>
+                  <l>Tu pai un gni gnò, ma l'hai pelata</l>
+                  <l>ser sotio, va pur ch'io t'imprometto</l>
+                  <l>che pescha la farai quest'invernata.</l>
+               </lg>
+            </div2>
+            <div2 n="LVII. hi brama altrui seguir in santi gesti">
+               <head>LVII.</head>
+               <lg>
+                  <l>Quante donne leggiadre e gratiose</l>
+                  <l>chi brama altrui [seguir] in santi gesti</l>
+                  <l>in prudenza in valor in cortesia.</l>
+               </lg>
+            </div2>
+            <div2 n="LVIII. Il gentilhomo che perse la cestia per la simia">
+               <head>LVIII.</head>
+               <lg>
+                  <l>Il gentilho[mo] che perse la cestia per la simia</l>
+                  <l>che si mise a letto.</l>
+               </lg>
+               <closer>Camillo mantovano<lb/>
+Gugliemo Mantua</closer>
+            </div2>
+            <div2 n="LIX. L'huomo che per sgravar l'asino vi montò su">
+               <head>LIX.</head>
+               <lg>
+                  <l>L'huomo che per sgravar l'asino vi montò su</l>
+                  <l>et si mise il sacco in spalla.</l>
+               </lg>
+               <closer>Camillo mantovano<lb/>
+Gugliemo Mantua</closer>
+            </div2>
+            <div2 n="LX. Colui che non volendo andar il suo cavallo">
+               <head>LX.</head>
+               <lg>
+                  <l>Colui che non volendo andar il suo cavallo</l>
+                  <l>gli levò le briglie et missoli la cavezza</l>
+                  <l>l'attaccò a una carretta.</l>
+               </lg>
+            </div2>
+            <div2 n="LXI. Questa è la bella vaga et leggiadra ninfa">
+               <head>LXI.</head>
+               <lg>
+                  <l>Questa è la bella / vaga et / leggiadra / ninfa</l>
+                  <l>che con le proprie mani fabricò / l'amenissimo</l>
+                  <l>et / fiorito / giardino ov'era posto / il</l>
+                  <l>drittissimo et / odoroso / cipresso sop[r]a il</l>
+                  <l>qual sedeano / i piacevoli et / vaghi / augeletti</l>
+                  <l>che cantavano. / Come potrò lasciarti anima</l>
+                  <l>mia [...]?</l>
+               </lg>
+            </div2>
+            <div2 n="LXII. Io sono il chiaro pastor della alma Dea che">
+               <head>LXII.</head>
+               <lg>
+                  <l>Io sono il chiaro pastor della / alma Dea che</l>
+                  <l>fe' fare paragon con / Marte, che tutti i</l>
+                  <l>cavaglier vincea, alla / ventura che stava posta</l>
+                  <l>nell' / incanto dell' I arco che il Duca fece per</l>
+                  <l>la sua / cara sposa / figliola dell'Imperatore.</l>
+               </lg>
+            </div2>
+            <div2 n="LXIII. Questo è il chiaro fonte onde spirano odori">
+               <head>LXIII.</head>
+               <lg>
+                  <l>Questo è il chiaro fonte / onde spirano odori</l>
+                  <l>soavissimi / d'acque nanfe / con che le belle</l>
+                  <l>donne si lavano / i sereni volti / i bianchissimi</l>
+                  <l>petti / et le candide mani / che traggono di</l>
+                  <l>corpo l'alme / et i cuori delli amanti, / che poi</l>
+                  <l>vivono per gran miracolo d'amore.</l>
+               </lg>
+            </div2>
+            <div2 n="LXIV. Questa è la bella madre del dio Cupido">
+               <head>LXIV.</head>
+               <lg>
+                  <l>Questa è la bella madre / del dio Cupido,</l>
+                  <l>che porta / l'arco a chi è posta la corda / c'ha</l>
+                  <l>tirato'l dardo c'ha ferito / lo cuore</l>
+                  <l>dell'inamorato et / raro campion delle legiadre</l>
+                  <l>et/ belle donne.</l>
+               </lg>
+            </div2>
+            <div2 n="LXV. Questi sono i lacci che stringono l'inamorato">
+               <head>LXV.</head>
+               <lg>
+                  <l>Questi sono i lacci che stringono / l'inamorato</l>
+                  <l>core c'ha fatto duono delli/ corali</l>
+                  <l>ch'assomigliano alla / dolce bocca c'ha</l>
+                  <l>basato/ la bianca mano c'ha fatto / la corda di</l>
+                  <l>quell'/ archo, c'ha tirato/ la saetta c'ha</l>
+                  <l>ucciso/ la flera, c'ha guasto/ gli arbori verdi</l>
+                  <l>posti nel/ bel giardino piantato per man</l>
+                  <l>d'amore.</l>
+               </lg>
+               <closer>Camillo</closer>
+            </div2>
+            <div2 n="LXVI. Questo è il pongente dardo che trafisse nel">
+               <head>LXVI.</head>
+               <lg>
+                  <l>Questo è il pongente dardo che trafisse nel</l>
+                  <l>pietoso cuor della / bella ninfa, che con / le</l>
+                  <l>delicate mani accolse i dolci pomi del / bel</l>
+                  <l>tronco nato nel / vago giardino ornato di varii</l>
+                  <l>fiori e / fresche rose.</l>
+               </lg>
+               <closer>Camillo</closer>
+            </div2>
+            <div2 n="LXVII. Mie trecce di fino oro">
+               <head>LXVII.</head>
+               <lg>
+                  <l>Mie trecce di fino oro,</l>
+                  <l>mia fronte altera e saggia,</l>
+                  <l>miei occhi relucente</l>
+                  <l>mio nasoprofilato,</l>
+                  <l>miei labri corallini,</l>
+                  <l>mie guancie fresche rose,</l>
+                  <l>mio mento in due diviso,</l>
+                  <l>mia gola d'alabastro,</l>
+                  <l>mio petto di pur latte,</l>
+                  <l>mie man di bianca neve,</l>
+                  <l>mie gratie al mondo sole</l>
+                  <l>son saette ch'i cor trafige e passa.</l>
+               </lg>
+            </div2>
+            <div2 n="LXVIII. Voi ben sete felice">
+               <head>LXVIII.</head>
+               <lg>
+                  <l>Voi ben sete felice</l>
+                  <l>per ché virtù comparve,</l>
+                  <l>dal ciel scese honestate,</l>
+                  <l>ogni bellezza nacque,</l>
+                  <l>la pace era nel mondo,</l>
+                  <l>ogni spirito gioiva,</l>
+                  <l>regnava il dolce amore,</l>
+                  <l>le gratie eran presenti,</l>
+                  <l>cantavano gli augelli,</l>
+                  <l>fiorita era la t[er]ra,</l>
+                  <l>il cielo era sereno</l>
+                  <l>quando nasceste al mondo alma gentile.</l>
+               </lg>
+            </div2>
+            <div2 n="LXIX. Voi ben sete infelice">
+               <head>LXIX.</head>
+               <lg>
+                  <l>Voi ben sete infelice</l>
+                  <l>per ché virtù disparve,</l>
+                  <l>perdissi l'honestade,</l>
+                  <l>ogni brutezza nacque,</l>
+                  <l>discordia era nel mondo,</l>
+                  <l>amore era tiranno,</l>
+                  <l>le gratie eran absenti,</l>
+                  <l>era rozzo ogni spirto,</l>
+                  <l>non cantavan gli augelli,</l>
+                  <l>incolta era la terra,</l>
+                  <l>il cielo era turbato</l>
+                  <l>quando nasceste al mondo alma sdegnosa.</l>
+               </lg>
+            </div2>
+         </div1>
+         <div1 n="Appendice">
+            <div2 n="I. Un dolce sguardo in li ochi avari">
+               <head>I.</head>
+               <argument>
+                  <p>Recipe</p>
+               </argument>
+               <lg>
+                  <lg>
+                     <l>Un dolce sguardo in li ochi avari</l>
+                     <l>che già nel cor profundo agionger senti</l>
+                     <l>
+                        <foreign lang="lat">item</foreign> ove labri, rose, perle e denti</l>
+                     <l>misce in labre rosate</l>
+                     <l>dolci parole, risi molti e cari.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <foreign lang="lat">Item</foreign>. Hor sia che [poi] fugite, altri 
+pensieri</l>
+                     <l>sian lieti risi, dure fatiche [poi] sia riso e canto</l>
+                     <l>forsi candidi fian i giorni neri</l>
+                     <l>ne la extrema Britania io non son tanto</l>
+                     <l>peregrino che a me sian li hospiti fieri.</l>
+                     <l>Patria el mundo a un cor francho è in ogni canto.</l>
+                  </lg>
+               </lg>
+            </div2>
+            <div2 n="II. Acqua da partire">
+               <head>II.</head>
+               <argument>
+                  <p>Recipe</p>
+               </argument>
+               <list>
+                  <label>Acqua da partire</label>
+                  <item>oncie 2</item>
+                  <label>Sale armoniaco</label>
+                  <item>oncie l</item>
+                  <label>Limadura di azale</label>
+                  <item>oncie 2</item>
+                  <label>Ingiostro</label>
+                  <item>oncie 6</item>
+               </list>
+               <p>Il tutto va mescolato ben insieme, poi ponerlo in una bocalina di vetro, et coprirla con 
+cera et carta bergamina; et lassandola star così per un sei hore potrai poi servirtene a far la 
+medicina.</p>
+            </div2>
+            <div2 n="III. Argento di copella un quarto di oncia">
+               <head>III.</head>
+               <argument>
+                  <p>Recipe</p>
+               </argument>
+               <lg>
+                  <l>Argento di copella un quarto di oncia</l>
+                  <l>limato, et disolvilo in una oncia di acqua forta,</l>
+                  <l>poi fa essalare l'acqua; et quando la vorai far</l>
+                  <l>essalar farai che la sia in un pugnatino piciolo</l>
+                  <l>su le cernici simplici, acciò senti solum il</l>
+                  <l>caldo; et quando sarà essalata l'acqua restarà</l>
+                  <l>in fondo l'argento in fondo, che parerà</l>
+                  <l>calcina; poi pilia detto argento et componelo</l>
+                  <l>con mezo to di oncia di olio di belzoino, et fa</l>
+                  <l>che volta resti come colla liquida; et di questo</l>
+                  <l>ongerai benissimo il loco necessario la sera et</l>
+                  <l>la mattina. Se ti parerà potrai farti lavare la</l>
+                  <l>testa o la barba, che la virtù non perderà nulla,</l>
+                  <l>se ti farai fregar con drappi caldi et netti, et</l>
+                  <l>così havrai in una notte sola l'intento tuo et il</l>
+                  <l>medesimo farai segondo il tuo bisogno.</l>
+               </lg>
+            </div2>
+            <div2 n="IV. Indarno veggio ben che m'affatico">
+               <head>IV.</head>
+               <argument>
+                  <p>Sonetto dil Boatto</p>
+               </argument>
+               <lg>
+                  <lg>
+                     <l>Indarno veggio ben che m'affatico</l>
+                     <l>pensando col mio dir trovar mercede</l>
+                     <l>poi ché sol una, al fier dolor non crede</l>
+                     <l>e de ascoltar si sdegna quel ch'io dico.</l>
+                  </lg>
+                  <lg>
+                     <l>Pur non dimen qual importun mendico</l>
+                     <l>premio richeggio de l'estrema fede</l>
+                     <l>e son contento come chiar si vede</l>
+                     <l>di cui brama 'l mio mal, essere amico,</l>
+                  </lg>
+                  <lg>
+                     <l>perché col tempo servendo forse anco</l>
+                     <l>potrà chi l'ha indurita al fin spetrare</l>
+                     <l>ch'instabil io [ritrovo] ogn'alta stella.</l>
+                  </lg>
+                  <lg>
+                     <l>Sempre ho servito e servir voglio a quella</l>
+                     <l>ch'in terra vivo, e in ciel puommi beare,</l>
+                     <l>non curo se per lei di vita manco.</l>
+                  </lg>
+               </lg>
+               <closer>
+                  <salute>Al mio carissimo quanto fratello ms. Bernardino del Pia</salute>
+               </closer>
+               <ps>
+                  <p>Mandovi carissimo, più che mio fratello, il sonetto dil Boatto qual già più giorni vi promissi; 
+molti altri né l'opera sua vi sono assai belli, delli quali [grande] essendo il mio 
+desiderio haverne copia, o a bocca o cum littere fatemi sapere il voler vostro, et ciò che far 
+[...] quello ho di questo fatto; in caso che non vogliate tutta l'opera vedere, come più 
+volte havete ver' me ricusato; et son vostro riccomandomi sempre.</p>
+               </ps>
+            </div2>
+            <div2 n="V. Com'han potuto le varole asendere">
+               <head>V.</head>
+               <argument>
+                  <p>Sonetto del [...]</p>
+               </argument>
+               <lg>
+                  <lg>
+                     <l>Com'han potuto le varole asendere</l>
+                     <l>sul volto d'una giovane bellissima,</l>
+                     <l>qual tra le donne egli è molto rarissima,</l>
+                     <l>per fargli forsi sua bellezza perdere.</l>
+                  </lg>
+                  <lg>
+                     <l>Almen in loco si potes' nascondere</l>
+                     <l>salite fosser, ch'una minutissima</l>
+                     <l>non si vedesse in facia sua letissima</l>
+                     <l>che potesse suo volto più risplendere.</l>
+                  </lg>
+                  <lg>
+                     <l>Le donne insembre supplicar dovirebero</l>
+                     <l>al sommo Giove che da ogni macola</l>
+                     <l>el viso lhoro fosse sempre libero.</l>
+                  </lg>
+                  <lg>
+                     <l>I' veggio che de invidia è stato trapola</l>
+                     <l>tal caso, como ciò più dotti scrisero</l>
+                     <l>ma sper ch'in brevi giorni ella fia scap[ola].</l>
+                  </lg>
+               </lg>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

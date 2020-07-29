@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>La visione d'Ezechiello</title>
+      <author>Vincenzo Monti</author>
+    </titleStmt>
+    <extent>11 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001183</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Canti e poemi di Vincenzo Monti</title>
+        <title type="part">v.</title>
+        <author>Monti, Vincenzo</author>
+        <editor id="ed">Carducci, Giosue</editor>
+        <publisher>G. Barbera</publisher>
+        <pubPlace>Firenze</pubPlace>
+        <date>1886</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>700</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.6 - Poesia italiana. Periodo del rinnovamento, 1748-1814.</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-04-09T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marina Larena</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-04-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 n="Dedica">
+<opener><salute>In lode dell'abate Francesco Giannotti predicatore in Ferrara. Al cardinale Scipione Borghese legato a latere di Ferrara.</salute></opener>
+
+<salute>Eminent.mo e Rever.mo Principe.</salute>
+<p>Le opere insigni non han bisogno di appoggio. Basta il nome di chi le scrisse o il pregio de' libri per interessare l'attenzione di chiunque. Ma uno scherzo poetico, che nè dal merito della poesia nè dalla età dell'autore e neppur dalla mole può lusingarsi di richiamare a sè l'altrui sguardo, uop'è che porti in fronte l'augusto nome d'un rispettabile Mecenate. Soglion così talvolta gli avveduti architetti negli sconci ed irregolari edifizi ornar più che mai l'esterno aspetto, per interessare con la speciosità almeno della nobil facciata l'occhio del passeggero. Il solo nome d'un graziosissimo principe, che è la delizia di questa città e che rende assai più belle co' personali suoi pregi le ferme glorie dell'illustre sua famiglia, saprà conciliare a' miei versi quella benevolenza, che altronde sperano invano. Che se mai questo stesso rende più colpevole la mia arditezza ch'io presenti a V.E. un sì meschino parto de' miei scarsi talenti; ricordatevi, principe eminentissimo, che i vostri pari non sono mai più gloriosi, che quando sono benefici. Tal che se non basta per mia difesa il nome del chiarissimo oratore che è l'oggetto di questi versi, compiacetevi almeno di voi medesimo che con quell'aria di placidissima serenità che vi brilla sul viso, tacitamente mi faceste coraggio, perchè soddisfacessi un antico mio desiderio di riprotestarmi dinanzi al pubblico tutto col più rispettoso e profondo ossequio</p>
+<closer>
+<salute>Di Vostra Eminenza,</salute>
+<dateline>Ferrara, il 7 aprile 1776,</dateline>
+<signed>Umil.mo Dev.mo Obb.mo servo.
+Vincenzo Monti.</signed></closer></div1>
+
+<div1>
+<head>La visione d'Ezechiello.</head>
+
+<epigraph><lg><l><foreign lang="lat">Et dimisit me in medio campi, qui erat plenus ossibus</foreign></l></lg>
+<bibl>(Ezech. XXXVII, 1).</bibl></epigraph>
+
+<lg>
+<l>Colà dove il real padre Eridàno</l>
+<l>Dai campi ocnei scendendo urta con fiero</l>
+<l>Corno la riva alla dritta mano,</l>
+<l>A respirar d'un venticel leggiero</l>
+<l>I molli fiati che venían dal monte</l>
+<l>Mi trassi in compagnia del mio pensiero.</l>
+<l>Del chiaro sole mi fería la fronte</l>
+<l>Il raggio mattutin, tal che più schietto</l>
+<l>Non comparve giammai su l'orizzonte.</l>
+<l>Vista sì dolce all'affannato petto</l>
+<l>Di mie cure togliea l'aspro tormento,</l>
+<l>Insolito spirando almo diletto:</l>
+<l>Quando mugghiar dall'aquilone io sento</l>
+<l>E repente appressarsi un procelloso</l>
+<l>Turbo, forier di notte e di spavento.</l>
+<l>Celossi il dì sereno; e al minaccioso</l>
+<l>Passar del nembo l'onda risospinta</l>
+<l>Si sollevò dall'imo gorgo ascoso.</l>
+<l>E quindi in giro strascinata e spinta</l>
+<l>Dal vorticoso vento ecco scagliarsi</l>
+<l>Nube di lampi incoronata e tinta,</l>
+<l>E tutta a me dintorno avvilupparsi,</l>
+<l>E in un baleno colle gravi some</l>
+<l>Dell'oppresse mie membra alto levarsi.</l>
+<l>A quel trabalzo per terror le chiome</l>
+<l>Mi si arricciaro: ed io da tergo intanto</l>
+<l>Voce sentii, che mi chiamò per nome.</l>
+<l>— Scrivi, gridò, quel che tu vedi. — Al santo</l>
+<l>Suon di queste parole un terso vetro</l>
+<l>Si fe tosto la nube in ogni canto.</l>
+<l>Guardai davanti, e mi rivolsi indietro:</l>
+<l>E campo d'insepolte inaridite</l>
+<l>Ossa m'apparve abbominoso e tetro.</l>
+<l>O voi che sani d'intelletto udite</l>
+<l>Gli alti portenti e il favellare arcano,</l>
+<l>Quel ch'io già scrivo nel pensier scolpite.</l>
+<l>Vidi. In aspetto spaventoso e strano</l>
+<l>Di scheletri facea l'orrida massa</l>
+<l>Funesto ingombro al desolato piano.</l>
+<l>L'altere ciglia in riguardarli abbassa</l>
+<l>Il fasto umano, e baldanzosa in atto</l>
+<l>Morte col piede li calpesta e passa.</l>
+<l>Io timido mi stava e stupefatto</l>
+<l>All'oggetto feral: quando spiccossi</l>
+<l>Un lampo, e corse per l'immenso tratto.</l>
+<l>Tremò del ciel la porta, e spalancossi:</l>
+<l>S'incurvâr rispettosi i firmamenti:</l>
+<l>E dalle sfere un cherubin calossi.</l>
+<l>Volò su le robuste ale de' venti.</l>
+<l>Carche di foco e fumo avea le spalle</l>
+<l>E un cerchio in fronte di carboni ardenti.</l>
+<l>Venìa rotando per l'etereo calle</l>
+<l>Di baleni una pioggia; e ritto alfine</l>
+<l>Fermossi in mezzo alla tremenda valle.</l>
+<l>Ne misurò col guardo ogni confine;</l>
+<l>Fe poscia un cenno colla destra: e innante</l>
+<l>Uom gli comparve di canuto crine.</l>
+<l>Era placido e grave il suo sembiante;</l>
+<l>E lunga a lui dagli omeri una vesta</l>
+<l>Sacerdotal scendea fino alle piante.</l>
+<l>Chinò la faccia riverente onesta</l>
+<l>Quell'ignoto ministro. E il cherubino</l>
+<l>La mano gli posò sopra la testa;</l>
+<l>Poi staccossi dal capo aureo divino</l>
+<l>Un acceso carbon diffonditore</l>
+<l>Di spirito possente e pellegrino,</l>
+<l>E i labbri gli toccò. L'igneo calore</l>
+<l>Avvampò su le guance, e via discese</l>
+<l>Più violento a ribollir nel core.</l>
+<l>E dopo, il portentoso angelo prese</l>
+<l>Di mele un favo; e su la bocca intero</l>
+<l>Del buon servo lo sciolse e lo distese:</l>
+<l>— Parla, quindi gli disse in tuon severo,</l>
+<l>Parla a quest'ossa algenti: e riverito</l>
+<l>Fia di tua voce il sacrosanto impero. —</l>
+<l>Ed egli, ubbidiente alzando il dito,</l>
+<l>Gridò: — Sorgete, aridi teschi, or ch'io</l>
+<l>E membra e polpe a rivestir v'invito.</l>
+<l>Tacque: e tosto un bisbiglio un brulichìo</l>
+<l>Ed un cozzar di crani e di mascelle</l>
+<l>E di logore tibie allor s'udìo.</l>
+<l>Già tu le vedi frettolose e snelle</l>
+<l>Ricercarsi a vicenda, e insiem legarne</l>
+<l>Le congiunture, e vincolarsi in quelle.</l>
+<l>Vedi su l'ossa risalir la carne,</l>
+<l>Intumidirsi il ventre, e il corpo tutto</l>
+<l>Di liscia pelle ricoperto andarne.</l>
+<l>Ma giacea questo ancor vôto ed asciutto</l>
+<l>Del vivo spirto, che dal colle eterno</l>
+<l>Un dì si trasse a passeggiar sul flutto.</l>
+<l>— Che fai, lento? esclamò l'angel superno.</l>
+<l>Lo spirto eccitator d'aure viventi</l>
+<l>Di queste salme omai chiama al governo. —</l>
+<l>Le inspirate di Dio voci possenti</l>
+<l>Sciolse l'altro dal labbro: e tosto venne</l>
+<l>Quello spirto dai quattro opposti venti.</l>
+<l>Sì dolcemente dibattea le penne,</l>
+<l>Che soffiando nei corpi a poco a poco</l>
+<l>Fe rizzarli su i piedi e li sostenne.</l>
+<l>Svegliò nel petto della vita il foco,</l>
+<l>Scosse le fibre, ed agitò le vene:</l>
+<l>Ed ogni caldo umor corse al suo loco.</l>
+<l>Dispensatrice di novella spene</l>
+<l>Allor rifulse un'iride tranquilla</l>
+<l>Su le vôlte del cielo ampie e serene.</l>
+<l>La mia nube d'incontro arde e sfavilla</l>
+<l>Di pacifica luce, e mi percuote</l>
+<l>D'ineffabili raggi la pupilla.</l>
+<l>Più forte intanto s'infiammar le gote</l>
+<l>Di lui, che fu dal cherubin prescritto</l>
+<l>Operator di sì bell'opre ignote:</l>
+<l>E a quelli che, ascoltando il santo editto</l>
+<l>Della divina inimitabil voce,</l>
+<l>Fatto da morte a vita avean tragitto,</l>
+<l>Piantò in faccia un feral tronco di croce;</l>
+<l>E nel sembiante scintillò di zelo</l>
+<l>Divorator che l'alma investe e cuoce.</l>
+<l>Piegossi allor per riverenza il cielo</l>
+<l>All'arbore adorato, e curvo agli occhi</l>
+<l>Si fe coll'ale il cherubino un velo.</l>
+<l>Al grand'esempio inteneriti e tocchi</l>
+<l>Di penitenza i figli umilemente</l>
+<l>Abbassaro la fronte ed i ginocchi:</l>
+<l>E un cupo pianto udissi ed un frequente</l>
+<l>Picchiar di petti e un sospirar, che ai numi</l>
+<l>Come fumo ascendea d'incenso ardente.</l>
+<l>Quindi alzò l'uom di Dio tre volte i lumi,</l>
+<l>E favellò. Dal labbro amico e dolce</l>
+<l>Gli uscìan soavi d'eloquenza i fiumi;</l>
+<l>Qual mattutino venticel che molce</l>
+<l>La fresca erbetta, e in margine al ruscello</l>
+<l>Lambisce i fiori, li lusinga e folce.</l>
+<l>Egli parlò d'un mansueto agnello:</l>
+<l>E fu sì mite il suo parlar, che il core</l>
+<l>Mi sentii tutto innamorar per quello.</l>
+<l>Parlò della pietà del mio signore:</l>
+<l>E fu sì caro il suo parlar, che in viso</l>
+<l>Spirommi il fiato dell'eterno amore.</l>
+<l>Parlò della bontà del paradiso:</l>
+<l>E fu sì vago il suo parlar, che attenti</l>
+<l>L'udiro i cieli e lampeggiar d'un riso.</l>
+<l>D'una madre narrò gli aspri tormenti:</l>
+<l>E fu sì mesto il suo narrar, che i monti</l>
+<l>Squarciaro il fianco ai dolorosi accenti.</l>
+<l>Poscia degli empi a sgomentar le fronti</l>
+<l>Le parole vibrò qual furibondo</l>
+<l>Torrente che rovescia argini e ponti.</l>
+<l>Tuonò sul fuoco del tartareo fondo:</l>
+<l>E fu sì forte quel tuonar, che spinto</l>
+<l>Mi credetti all'abisso imo e profondo.</l>
+<l>D'ira nel volto e di squallor dipinto</l>
+<l>Tuonò nunzio di stragi e di procelle:</l>
+<l>E Libano si scosse e Terebinto.</l>
+<l>Tuonò sul giorno in cui verran le agnelle</l>
+<l>Dai capretti divise, e al suon di tromba</l>
+<l>Vedransi in cielo vacillar le stelle:</l>
+<l>E parve un fiero turbine che romba</l>
+<l>Tempestoso per l'aria, e alfin su i campi</l>
+<l>Impauriti si trabalza e piomba.</l>
+<l>Ma in questo mezzo per gli eccelsi ed ampi</l>
+<l>Spazi d'olimpo il cherubino un nembo</l>
+<l>Sciolse di tanti e sì focosi lampi,</l>
+<l>Che smorto io caddi e abbarbagliato in grembo</l>
+<l>Della mia nube che al di sotto aprissi:</l>
+<l>E sprigionato da quel denso lembo,</l>
+<l>Giacqui su l'erba; e quel che vidi io scrissi.</l></lg>
+</div1>
+</body>
+</text>
+</TEI.2>

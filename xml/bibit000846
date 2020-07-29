@@ -1,0 +1,2027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Bucolicum carmen</title>
+      <author>Francesco Petrarca</author>
+    </titleStmt>
+    <extent>110 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000846</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Opera omnia</title>
+        <author>Petrarca, Francesco</author>
+        <editor id="ed">Stoppelli, Pasquale</editor>
+        <publisher>Lexis Progetti Editoriali</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1997</date>
+        <note>L'edizione elettronica fa riferimento al testo a cura di A. Avena, Padova 1906. Egloghe I e XI: testo revisionato da E. Bianchi, in F.P, Rime, Trionfi e poesie latine, Milano-Napoli, Ricciardi 1951; Egloga X: da F.P., Laurea occidens (Buc. Carm. X), testo, trad. e commento a cura di G. Martellotti, Roma 1968.</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>300</date>
+    </creation>
+    <langUsage><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.1 - POESIA ITALIANA, PRIMO PERIODO FINO AL 1375</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-07-01T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Valeriano Fiori</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-07-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="egloga"><head>I</head>
+<head>Parthenias</head>
+<stage>Collocutores: <emph>Silvius</emph> et <emph>Monicus</emph></stage>
+<sp><speaker>SIL.</speaker><l>Monice, tranquillo solus tibi conditus antro,</l>
+<l>Et gregis et ruris potuisti spernere curas;</l>
+<l>Ast ego dumosos colles silvasque pererro,</l>
+<l>Infelix! Quis fata neget diversa gemellis?</l>
+<l>Una fuit genitrix; at spes non una sepulcri!</l></sp>
+<sp><speaker>MON.</speaker><l>Silvi, quid quereris? Cuntorum vera laborum</l>
+<l>Ipse tibi causa es. Quis te per devia cogit?</l>
+<l>Quis vel inaccessum tanto sudore cacumen</l>
+<l>Montis adire iubet, vel per deserta vagari</l>
+<l>Muscososque situ scopulos fontesque sonantes?</l></sp>
+<sp><speaker>SIL.</speaker><l>Hei michi! Solus Amor. Sic me venerata benigne</l>
+<l>Aspiciat, spes nostra, Pales. Dulcissimus olim</l>
+<l>Parthenias michi, iam puero cantare solebat</l>
+<l>Hic ubi Benacus, vitrea pulcherrimus alvo</l>
+<l>Persimilem natum fundit sibi. Venerat etas</l>
+<l>Fortior; audebam nullo duce iam per opacum</l>
+<l>Ire nemus, nec lustra feris habitata timebam;</l>
+<l>Mutatamque novo frangebam carmine vocem</l>
+<l>Emulus, et fame dulcedine tactus inani:</l>
+<l>Ecce peregrinis generosus pastor ab oris,</l>
+<l>Nescio qua de valle, canens nec murmure nostro,</l>
+<l>Percussit flexitque animum; mox omnia cepi</l>
+<l>Temnere, mox solis numeris et carmine pasci.</l>
+<l>Paulatim crescebat amor; quid multa? canendo</l>
+<l>Quod prius audieram didici, musisque coactis,</l>
+<l>Quo michi Parthenias biberet de fonte notavi.</l>
+<l>Nec minus est ideo cultus michi; magnus uterque,</l>
+<l>Dignus uterque coli, pulcra quoque dignus amica.</l>
+<l>Hos ego cantantes sequor et divellere memet</l>
+<l>Nec scio, nec valeo; mirorque quod horrida nondum</l>
+<l>Silva, nec aerii ceperunt currere montes.</l>
+<l>Verum ubi iam videor collectis viribus olim</l>
+<l>Posse aliquid, soleo de vertice montis ad imas</l>
+<l>Ferre gradum valles; ibi fons michi sepe canenti</l>
+<l>Plaudit, et arentes respondent undique cautes.</l>
+<l>Vox mea non ideo grata est michi, carmina quanquam</l>
+<l>Laudibus interdum tollant ad sidera Nimphe.</l>
+<l>Dum memini quid noster agat, quid ve advena pastor,</l>
+<l>Uror et in montes flammata mente revertor.</l>
+<l>Sic eo, sic redeo. Nitar, si forte Camene</l>
+<l>Dulce aliquid dictare velint quod collibus altis</l>
+<l>Et michi complaceat, quod lucidus approbet ether;</l>
+<l>Non rauce leve murmur aque, nec cura, nec ardor</l>
+<l>Defuerint. Si fata viam et mens tarda negarit,</l>
+<l>Stat, germane, mori. Nostrorum hec summa laborum.</l></sp>
+<sp><speaker>MON.</speaker><l>O! si forte queas durum hoc transcendere limen!</l>
+<l>Quid refugis, turpesque casas et tuta pavescis</l>
+<l>Otia? Quid frontem obducis? Nemo antra coactus</l>
+<l>Nostra petit; plures redeunt a limine frustra.</l></sp>
+<sp><speaker>SIL.</speaker><l>Non pavor hic animi fuerat; si forsitan aures</l>
+<l>Dulcibus assuetas inamena silentia tangunt,</l>
+<l>Miraris? Natura quidem fit longior usus.</l></sp>
+<sp><speaker>MON.</speaker><l>O! iterum breve si mecum traducere tempus</l>
+<l>Contingat sileatque fragor rerumque tumultus,</l>
+<l>Dulcius hic quanto media sub nocte videbis</l>
+<l>Psallere pastorem! Reliquorum oblivia sensim</l>
+<l>Ingeret ille tibi; non carmen inane negabis,</l>
+<l>Quod modo sollicitat, quod te suspendit hiantem.</l></sp>
+<sp><speaker>SIL.</speaker><l>Quis, queso, aut quonam genitus sub sidere pastor</l>
+<l>Hoc queat? Audivi pastorum carmina mille,</l>
+<l>Mille modos; quenquam nostris equare caveto.</l></sp>
+<sp><speaker>MON.</speaker><l>Audisti quo monte duo fons unicus edit</l>
+<l>Flumina? sive ubinam geminis ex fontibus unum</l>
+<l>Flumen aquas sacrumque caput cum nomine sumit?</l></sp>
+<sp><speaker>SIL.</speaker><l>Audivi ut quondam puer hispidus ille nitentis</l>
+<l>Lavit apollineos ad ripam gurgitis artus.</l>
+<l>Felices limphe que corpus tangere tanti</l>
+<l>Promeruere dei! Fluvius, si vera loquuntur,</l>
+<l>Per cinerum campos ultricibus incidit undis.</l></sp>
+<sp><speaker>MON.</speaker><l>Hunc igitur, dulci mulcentem sidera cantu,</l>
+<l>Illa tulit tellus; licet experiare, iuvabit.</l></sp>
+<sp><speaker>SIL.</speaker><l>O! ego novi hominem. Cives et menia parve</l>
+<l>Sepe Ierosolime memorat, nec vertitur inde;</l>
+<l>Semper habet lacrimas et pectore raucus anelat.</l>
+<l>Hi Romam Troiamque canunt et prelia regum,</l>
+<l>Quid dolor et quid amor possit, quid ve impetus ire,</l>
+<l>Qui fluctus ventosque regat, qui spiritus astra;</l>
+<l>Necnon et triplicis sortitos numina regni</l>
+<l>Expingunt totidem varia sed imagine fratres;</l>
+<l>Sceptriferum summumque Iovem facieque serena,</l>
+<l>Inde tridentiferum moderatoremque profundi</l>
+<l>Ceruleumque comas medium, fuscumque minorem;</l>
+<l>Torva latus servat coniunx, aterque paludis</l>
+<l>Navita tartaree piceas redit itque per undas,</l>
+<l>Tergeminusque canis latrat; tum dura severis</l>
+<l>Pensa trahunt manibus fixa sub lege sorores;</l>
+<l>Quinetiam stygias eterna nocte tenebras</l>
+<l>Anguicomasque simul Furias templumque forumque,</l>
+<l>Tum silvas et rura canunt atque arma virosque</l>
+<l>et totum altisonis illustrant versibus orbem.</l></sp>
+<sp><speaker>MON.</speaker><l>Hic unum canit ore Deum, quem turba deorum</l>
+<l>Victa tremit, celum nutu qui temperat almum,</l>
+<l>Ethera qui librat liquidum, qui roris acervos,</l>
+<l>Quique nives spargit gelidas et nube salubri</l>
+<l>Elicit optatos herbis sitientibus imbres;</l>
+<l>Qui tonat et trepidum rapidis quatit aera flammis,</l>
+<l>Tempora sideribus, qui dat sua semina terris;</l>
+<l>Qui pelagus fluitare iubet, consistere montes;</l>
+<l>Qui corpus mentemque dedit, quibus addidit artes</l>
+<l>Innumeras geminum cumulans ab origine munus;</l>
+<l>Qui vite mortisque vices, queque optima fessos</l>
+<l>Fert super astra viam docuit repetitque monendo.</l>
+<l>Hunc meus ille canit; neu raucum dixeris, oro:</l>
+<l>Vox solida est penetransque animos dulcore latenti.</l>
+<l>Iure igitur, patriis primum celebratus in arvis,</l>
+<l>Attigit et vestros saltus, lateque sonorum</l>
+<l>Nomen habet: que rura Padus, que Tybris et Arnus,</l>
+<l>Que Rhenus Rodanusque secant, queque abluit equor</l>
+<l>Omnia iam resonant pastoris carmina nostri.</l></sp>
+<sp><speaker>SIL.</speaker><l>Experiar, si fata volent; nunc ire necesse est.</l></sp>
+<sp><speaker>MON.</speaker><l>Quo, precor? aut quis te stimulus, que cura perurget?</l></sp>
+<sp><speaker>SIL.</speaker><l>Urget amor Muse; quoniam modo litore in Afro</l>
+<l>Sidereum iuvenem genitumque a stirpe deorum</l>
+<l>Fama refert magnis implentem pascua factis;</l>
+<l>Te, Polipheme, tuis iam vi stravisse sub antris</l>
+<l>Dicitur et lybicos silvis pepulisse leones,</l>
+<l>Lustraque submissis audax incendere flammis.</l>
+<l>Hunc simul italidesque nurus, puerique, senesque</l>
+<l>Attoniti adverso certatim a litore laudant.</l>
+<l>Carmine fama sacro caret hactenus, et sua virtus</l>
+<l>Premia deposcit; pavitans ego carmina cepi</l>
+<l>Texere: tentabo ingenium, vox forte sequetur;</l>
+<l>Orphea promeritum modulabor harundine parva.</l></sp>
+<sp><speaker>MON.</speaker><l>I sospes, variosque vie circumspice casus.</l></sp></div1>
+<div1 type="egloga"><head>II</head>
+<head>Argus</head>
+<stage>Collocutores: <emph>Ydeus</emph>, <emph>Phitias</emph> et <emph>Silvius</emph>.</stage>
+<sp><speaker>YDE.</speaker><l>Aureus occasum iam sol spectabat, equosque</l>
+<l>Pronum iter urgebat facili transmittere cursu;</l>
+<l>Nec nemorum tantam per secula multa quietem</l>
+<l>Viderat ulla dies: passim saturata iacebant</l>
+<l>Armenta et lenis pastores somnus habebat;</l>
+<l>Pars teretes baculos, pars nectere serta canendo</l>
+<l>Frondea, pars agiles calamos; tum fusca nitentem</l>
+<l>Obduxit Phebum nubes, precepsque repente</l>
+<l>Ante expectatum nox affuit; horruit ether</l>
+<l>Grandine terribili; certatim ventus et imber</l>
+<l>Sevire et fractis descendere fulmina nimbis.</l>
+<l>Altior, ethereo penitus convulsa fragore,</l>
+<l>Corruit et colles concussit et arva cupressus,</l>
+<l>Solis amor quondam, solis pia cura sepulti;</l>
+<l>Nec tamen evaluit fatalem avertere luctum</l>
+<l>Solis amor, vicitque pium fors dura favorem.</l>
+<l>Prescius, heu! nimium vates tum, Phebe, fuisti,</l>
+<l>Dum sibi dumque aliis: – Erit hec lacrimabilis arbor,</l>
+<l>Dixisti. – Ingentis strepitu tremefacta ruine,</l>
+<l>Pastorum mox turba fugit, quecunque sub illa</l>
+<l>Per longum secura diem consederat umbra;</l>
+<l>Pars repetit montes, tuguri pars limina fidi,</l>
+<l>Pars specubus terreque caput submittit hianti.</l>
+<l>Silvius et Phitias scopulum fortassis eundem</l>
+<l>Precipiti petiere gradu, geminisque cavernis</l>
+<l>Occuluere animas trepidi, nec pauca gementes.</l>
+<l>Post, ubi laxatis tempestas fracta parumper</l>
+<l>Nubibus et celi siluerunt murmura fessi,</l>
+<l>Incipit illacrimans Phitias: – O Iupiter alme,</l>
+<l>Si scelus hoc nostrum meruit, si rustica sordet</l>
+<l>Pastorum pietas, silvis ignosce! precamur;</l>
+<l>Innocui miserere gregis, meliorque capellas</l>
+<l>Collige dispersas; teneris signata labellis</l>
+<l>Ubera te moveant, nisi forte oblivia lactis</l>
+<l>Illius astrigere nectar tibi suggerit aule:</l>
+<l>De grege nempe fuit nutrix tua! – Talia questus,</l>
+<l>Subticuit, pectusque manu percussit et ora.</l>
+<l>Silvius, audita rupis de parte querela,</l>
+<l>(Nam neque se coram cernebant, obice parvo</l>
+<l>Pretente silicis ramoque comante dirempti)</l>
+<l>Concussa sic mente refert, gemitumque coercens:</l>
+<l>– O Phitia, Phitia; fateor, sic astra minari</l>
+<l>Iampridem adverti, postquam flamantia Martis</l>
+<l>Lumina, et imbrifera Saturnum in parte morantem,</l>
+<l>Obsessumque Iovem, et Venerem transversa tuentem,</l>
+<l>Sibila ventorum postquam peregrina notavi.</l>
+<l>Nonne procul nebulas, limo exalante palustri,</l>
+<l>Surgere et in nostrum delatas vidimus axem?</l>
+<l>Nonne grues profugas, turpesque ad litora mergos?</l>
+<l>Num corvos, fulicasque vagas, num sidera mesta</l>
+<l>Vidimus et nimbo velatam abscedere Pheben,</l>
+<l>Tum que multa olim nascentis signa procelle</l>
+<l>Silvicole cecinere senes? Sed ferre necesse est.</l>
+<l>Hec est vita hominum, Phitia; sic leta dolendis</l>
+<l>Alternat fortuna ferox. Eat ordine mundus</l>
+<l>Antiquo; nobis rerum experientia prosit:</l>
+<l>Quo grex cumque miser ruerit, consistere pulcrum est. –</l>
+<l>– Care michi in primis et semper maxime Silvi,</l>
+<l>Respondit Phitias, oculos, te consule, tergam;</l>
+<l>Tu modo, si quod habes damni solamen acerbi,</l>
+<l>Tempestiva graves relevent oblivia casus. – </l>
+<l>– Imo, ait ille, tuum est que condita carmina servas</l>
+<l>Mecum partiri: Daphnis pastoribus olim,</l>
+<l>Et tibi nunc ingens merito cantabitur Argus.</l>
+<l>Quid tibi non nobis, Phitias? num tu quoque carmen</l>
+<l>Argeum vocitare libet? Nimis omnia celas. – </l>
+<l>– Incipe; forte sequar, nisi vox tua terreat, – inquit</l>
+<l>Silvius. Ille alta fregit suspiria voce:</l></sp>
+<sp><speaker>PHI.</speaker><l>Arge, decus rerum! Silve dolor, Arge, relicte!</l>
+<l>Hoc licuit rapide sacro de corpore morti?</l>
+<l>Hoc ausa est tellus? te, qui stellantis Olimpi</l>
+<l>Iam solus spectator eras, humus obruit atra?</l>
+<l>Quo favor, et nostri rediit quo gloria secli?</l>
+<l>Quis tempestates prenoscet ab ethere longe?</l>
+<l>Quis michi voce feras quercusque et saxa movebit,</l>
+<l>Aut longam dulci traducet carmine noctem?</l>
+<l>Quis terrebit apros? quis tendet retia dammis?</l>
+<l>Quis visco captabit aves? quis, flumine mergens,</l>
+<l>Ah! miseras curabit oves? quis sacra Cibeles,</l>
+<l>Atque humilem, Admeti famulantem in gramine, Phebum</l>
+<l>Rite canet? quem nocturnus trepidabit abactor?</l>
+<l>Quem noscent dociles alta sub rupe capelle?</l>
+<l>Quem vigiles, fidique canes? quem dulcis amica?</l>
+<l>Quis michi solennes statuet per litora ludos,</l>
+<l>Insuetam patrio renovans ex more palestram?</l>
+<l>A quo consilium dubii, divinaque late</l>
+<l>Silvestres responsa ferent? quis tempore in arcto</l>
+<l>Suplicibus prestabit opem? pulcherrime quondam</l>
+<l>Arge, amor ac luctus Driadum, quid silva, quid antrum,</l>
+<l>Quid sine te colles? et post te vivere quisquam</l>
+<l>Aut volet, aut poterit? Pastores, credite, mors est</l>
+<l>Vivere post Argum. Iam nunc arescere circum</l>
+<l>Stagna, lacus, fontes, ipsumque videbitis equor;</l>
+<l>Spiritus alter erit ventis, color alter in herbis,</l>
+<l>Floribus alter odor; solitos nec poma sapores</l>
+<l>Servabunt, nec prata comas, nec flumina limphas,</l>
+<l>Vellera nec pecudes, nec opimas campus aristas.</l>
+<l>Omnia namque oculis unus (nec fallimur) ille</l>
+<l>Letificare suis et fecundare solebat.</l>
+<l>Illo silva fuit semper sub principe tuta;</l>
+<l>Pax inerat fronti, purgabat nubila verbo.</l>
+<l>Ille abiit; fortuna suos mutata fatigat.</l></sp>
+<sp><speaker>SIL.</speaker><l>Extorques lacrimas; nec iam michi vivere dulce est</l>
+<l>Post Argum. Sed vivaci parebimus astro.</l></sp>
+<sp><speaker>PHI.</speaker><l>Effugis! Agnosco: Nusquam sine carmine, Silvi.</l>
+<l>Si libet ire, cane; post i, tua damna recense.</l></sp>
+<sp><speaker>SIL.</speaker><l>Pastorum rex Argus erat, cui lumina centum</l>
+<l>Lincea, cui centum vigiles cum sensibus aures,</l>
+<l>Centum artes, centumque manus, centumque lacerti,</l>
+<l>Lingua sed una fuit, cum qua rupesque ferasque</l>
+<l>Flecteret et fixas terre divelleret ornos.</l>
+<l>Ille diu clarus silvis, perque omnia notus,</l>
+<l>Pascua, formosis cantatus ubique puellis,</l>
+<l>Mille greges niveos pascens per mille recessus.</l>
+<l>Postquam pertesum est nemorum longique laboris,</l>
+<l>Irrediturus abit, volucrique per avia saltu</l>
+<l>Evolat in montes. Illinc de vertice summo</l>
+<l>Despicit et nostras curas nostrosque tumultus,</l>
+<l>Regnateque videt quanta est angustia silve;</l>
+<l>Alloquiturque Iovem et viduum commendat ovile.</l>
+<l>Arge, vale! Nos te cunti, mora parva, sequemur.</l></sp>
+<sp><speaker>YDE.</speaker><l>His dictis, abeunt; patrii Sulmonis ad arva</l>
+<l>Contendit Phitias, silvas petit alter etruscas;</l>
+<l>Solus ego afflicto merens in litore mansi.</l></sp></div1>
+<div1 type="egloga"><head>III</head>
+<head>Amor pastorius</head>
+<stage>Collocutores: <emph>Stupeus</emph> et <emph>Dane</emph></stage>
+<sp><speaker>STU.</speaker><l>Et quis erit precibus finis, mea cura, fugeque?</l>
+<l>Fige pedem, Dane, precor et miserere tuorum.</l></sp>
+<sp><speaker>DANE</speaker><l>Que Phebum sprevit, quem non spretura putetur?</l>
+<l>Quere alias curas; fis importunus amando.</l></sp>
+<sp><speaker>STU.</speaker><l>Hinc labor, hinc amor exagitant, coguntque trementem</l>
+<l>Interrupta loqui. Sit respirare parumper!</l>
+<l>Vis, dolus, insidie cessant; depone pavorem,</l>
+<l>Et nostros audire, sedens, dignare labores.</l></sp>
+<sp><speaker>DANE</speaker><l>Fare igitur, cupidasque manus frenare memento.</l></sp>
+<sp><speaker>STU.</speaker><l>Dane, ego te solam deserto in litore primum</l>
+<l>Aspexi, dubius hominemne deamne viderem;</l>
+<l>Aurea sic rutilo flagrabat murice palla,</l>
+<l>Sic celum late insolito complebat odore;</l>
+<l>Dulcia sidereas iactabant ora favillas,</l>
+<l>Ardentesque comas humeris disperserat aura.</l>
+<l>Dirigui. Sol cum radiis certabat iniquo</l>
+<l>Marte tuis: Totum non nostro lumine corpus</l>
+<l>Fulgebat, timuique deos ne, forte videndo,</l>
+<l>Arderent raperentque prius quam vulnera nosses</l>
+<l>Nostra, vel occultos incensi pectori ignes.</l>
+<l>Accedo; cupiensque gravis primordia morbi</l>
+<l>Pandere, vix sicco vocem pulmone revulsi.</l>
+<l>Acris inexpletum, vultu indignante locuta,</l>
+<l>Effugis; incessus decuit, nam verba profundo</l>
+<l>Insedere animo et liquidis hesere medullis.</l>
+<l>Ex illo lacrime et miserum suspiria pectus</l>
+<l>Flatibus assiduis tundunt atque imbre tepenti.</l>
+<l>Tu tandem (que sola potes) miserere, modumque</l>
+<l>Pone malis, si iusta peto, si cognita narro.</l></sp>
+<sp><speaker>DANE</speaker><l>Quot placuit mea forma viris, quot torsit amantes</l>
+<l>Dinumerare piget; placuit super omnia Phebo.</l>
+<l>Aureus ille comam, nitido spectabilis arcu,</l>
+<l>Ingenio citharaque potens, Iove patre superbus,</l>
+<l>Spretus et indignans abiit: stat conscia curvi</l>
+<l>Ripa senis, memorantque patris sub gurgite Nimphe.</l>
+<l>Tu, quid habes, quo posse putes hoc frangere saxum?</l></sp>
+<sp><speaker>STU.</speaker><l>Quisquis amore voles solido tranquillus et alta</l>
+<l>Pace frui, maiora fuge et nimis alta caveto.</l>
+<l>Illic contemptus et iurgia mixta querelis,</l>
+<l>Atraque perpetuis bachantur nubila ventis.</l>
+<l>Quinetiam vitare parem (licet obstrepat error</l>
+<l>Publicus) admoneo; fidum tibi iunge minoris</l>
+<l>Pectus, ubi obsequium pernox, humilesque vicissim</l>
+<l>Blanditie, dulcisque timor: res cognita paucis.</l>
+<l>Alta petunt omnes. Utinam michi tale dedissem</l>
+<l>Consilium! Sed cogit amor, perque ardua vinctum</l>
+<l>Luctantemque rapit. Victor fuit ille deorum,</l>
+<l>Molliaque herculeis aptavit pensa lacertis.</l>
+<l>Tu, cui libertas salva est, tibi consule, Dane.</l></sp>
+<sp><speaker>DANE</speaker><l>Consilium laudo; sedenim que prima petebam,</l>
+<l>Prima taces: spes summa tuos que nutrit amores?</l></sp>
+<sp><speaker>STU.</speaker><l>Pretereo quecunque tribus mea pectora lustris</l>
+<l>Ingenti siluere fide, gemitusque latentes,</l>
+<l>Et vigiles noctes, et que fert plurima secum</l>
+<l>Immitis dum sevit amor, que forte benigno</l>
+<l>Iudice sint aliquid; tamen hec periisse sinamus.</l>
+<l>Sic ierit; tulerit tales michi vita labores;</l>
+<l>Debitus incaute fuerit furor iste iuvente.</l>
+<l>Haud tacuisse velim, quod, cum mea pauca putarem</l>
+<l>Posse placere tibi, studui si musica forte</l>
+<l>Ars michi ferret opem, quod te sonus atque camene,</l>
+<l>Non auri fulgor caperet; frustraque timebam</l>
+<l>Hanc etiam tentasse viam; raucumque videbar</l>
+<l>Nescio quid strepere, donec mea carmina Faunos</l>
+<l>Non puduit Driadesque pari celebrare favore.</l>
+<l>Sepe quidem ramum vidi dulcedine tentas</l>
+<l>Linquere, et attonitas in me spectare capellas,</l>
+<l>Spernere apes cithisum, mutas estate cicadas.</l>
+<l>Letabar. Nec nata prius fiducia nostri est,</l>
+<l>Quam sacer ille michi: – Cane fidens, – diceret Argus.</l></sp>
+<sp><speaker>DANE</speaker><l>Et merito; namque ille fuit qui talia posset.</l>
+<l>Iure iubere suo, nosset qui talia solus.</l>
+<l>At tu, si qua recens studium tibi contulit, effer.</l></sp>
+<sp><speaker>STU.</speaker><l>Dane, nostra quies, noster labor atque voluptas,</l>
+<l>Unam ego te dominam, teque hostem affusus adoro.</l>
+<l>Tu decus es nemorum, tu spes pastoribus ingens;</l>
+<l>Te vates magnique duces, te Iupiter altus</l>
+<l>Diligit, ac iaculo refugit violare trisulco,</l>
+<l>Quo ferit omne nemus. Te, quam pharetratus Apollo,</l>
+<l>Quam celebres arsere dei, nunc Stupeus ardet,</l>
+<l>Pastor inops, lentusque gregis contemptor opimi;</l>
+<l>Dives erit, si pulcra voces sua carmina, Dane.</l></sp>
+<sp><speaker>DANE</speaker><l>Plus aliquid, quam rebar, eras; reverentia nostri</l>
+<l>Impedit. Adde aliud; poteris fortasse placere.</l></sp>
+<sp><speaker>STU.</speaker><l>Forte die medio, dum me meus urget amaror,</l>
+<l>Sive amor in silvas, subito vox contigit aures</l>
+<l>Dulcior humana. Stupui: levis unda nitentes</l>
+<l>Per pronum herboso volvebat calle lapillos.</l>
+<l>Prominet ipse locus, murmurque secutus aquarum,</l>
+<l>Purpurea in ripa laurique comantis ad umbram,</l>
+<l>Virgineam aspicio, celo plaudente, choream.</l>
+<l>Flecto gradum propere. Tunc una sonantior omni</l>
+<l>Ex numero: – Si fata tuos hoc tramite gressus</l>
+<l>Rara movent, aude divinos cernere vultus. – </l>
+<l>Hec ait, et dextram tenuit; tremor omnis abibat</l>
+<l>Posse loqui; incipio: – Quin vos michi parcite, dive;</l>
+<l>Error Amorque trahunt; sector vestigia dure,</l>
+<l>Heu michi! sparsa fere; fugit illa, meosque dolores</l>
+<l>Nescit. – Ad hec Virgo, subridens: – Novimus, inquit,</l>
+<l>Omnia. Thesalidem sequeris per confraga Danem;</l>
+<l>Fabula iampridem aoniis notissima lucis.</l>
+<l>I certus, lentescet enim; tamen accipe ramum</l>
+<l>Hunc prius. – Et tenero frondosum pollice ramum</l>
+<l>Decerpsit, cupidoque michi porrexit, et: – Ibis,</l>
+<l>Ibis, ait, dicesque novem vidisse sorores,</l>
+<l>Quas vulgus spectare nequit, quas nulla profanis</l>
+<l>Mens curis imbuta videt. Si plura rogaris,</l>
+<l>Dic vidisse, quibus vi bella movere dolisque</l>
+<l>Quam tutum, preceps docuit de turre Pireneus,</l>
+<l>Voce vel ingenio Pice docuere loquaces.</l>
+<l>Dic sacro te monte vagas; dic fontis ad undam</l>
+<l>Quem pedis impulsu, genitus cervice Meduse,</l>
+<l>Alatus perfodit equus; dic nexa canentes</l>
+<l>Orbibus imparibus, vario modulamine vocum,</l>
+<l>Cuncta novem, variosque animorum ex ordine motus;</l>
+<l>Quid fame predulcis amor, vocisque levamen,</l>
+<l>Quid studium, ingeniique vigor, quid culta cerebri</l>
+<l>Ora tenacis agat; post hec, quisnam impetus, et quod</l>
+<l>Iudicium, etheree quenam discretio menti,</l>
+<l>Quidve potens mulcere aures. In fine fugaces</l>
+<l>Huc, Dane – dic – verte oculos. Regina sonori</l>
+<l>Hunc michi prima chori ramum dedit arbore vulsum,</l>
+<l>Quem tibi monstrarem; volucrem iubet illa monetque,</l>
+<l>Hemonie post signa fuge, consistere tandem:</l>
+<l>Ferrea sit quamvis, motam pietate videbis. – </l></sp>
+<sp><speaker>DANE</speaker><l>Motaque sum; sequere et collem properemus in illum.</l></sp>
+<sp><speaker>STU.</speaker><l>Perge! Labor nullus tecum iuga prendere Olimpi.</l></sp>
+<sp><speaker>DANE</speaker><l>Scis quo colle sedes? maiestas quanta locorum est?</l></sp>
+<sp><speaker>STU.</speaker><l>Imperiosus apex dare circum iura videtur</l>
+<l>Collibus, et celo silvas despectat aperto.</l></sp>
+<sp><speaker>DANE</speaker><l>Huc ego pastores memini victricia sertis</l>
+<l>Tempora, et arboreis spoliis ornata, referre</l>
+<l>Curribus invectos niveis delubra deorum.</l>
+<l>Intereram iam leta, virens; spectare iuvabat</l>
+<l>Cum ductore greges captos, tristesque iuvencos,</l>
+<l>Exuviasque graves peregrinis montibus actas,</l>
+<l>Et longos rerum strepitus, pompasque frementes:</l>
+<l>Huc ab yperboreis per vim custodibus aurum</l>
+<l>Griphibus ereptum, magnos pervenit in usus;</l>
+<l>Huc Asie predas informi squalida tergo;</l>
+<l>Huc quoque nutantes tulit indica belua turres.</l>
+<l>Quid te multa morer? Quicquid nemus undique pressis</l>
+<l>Extulit uberibus, hoc est in monte coactum.</l>
+<l>Hic iusti sedere patres, hic viva iuventus,</l>
+<l>Hic caste lusere nurus; hoc pastor in antro</l>
+<l>Maximus insidiis periit, nec pulcer Adonis</l>
+<l>Vulnificos evasit apros. Sed tristia linquo.</l>
+<l>Hoc ipsos est fama deos habitare cacumen;</l>
+<l>Hoc caput est nemorum, domus hec Iovis ampla tonantis;</l>
+<l>Hic, natum complexa suum, Lathona Sibille</l>
+<l>Agnita fatiloque, pastori ostensa superbo est;</l>
+<l>Hec iuga magnanimus, scipionibus actus eburnis,</l>
+<l>(Sic crevit fortuna loci!) tua cura, subactis</l>
+<l>Saltibus ex lybicis rediens, puer ille revisit</l>
+<l>Et secum rudis ille senex. Post tempore multo</l>
+<l>Cantantes venere alii, quos dicere longum est,</l>
+<l>Partheniasque tuus, triplicis modulator avene.</l>
+<l>Omnibus hic viridi frondebant tempora lauro.</l>
+<l>Hic ego, dissimili quanquam sub sidere, sertum</l>
+<l>Fronde tamen simili faciam tibi: porrige ramum,</l>
+<l>Quem sacra Castalie regnatrix tradidit alme;</l>
+<l>Illius hoc nostrumque simul tibi munus habeto:</l>
+<l>Linque alias curas et noster protinus esto.</l></sp>
+<sp><speaker>STU.</speaker><l>Nunc vigilasse iuvat; dulce est meminisse laborum.</l></sp></div1>
+<div1 type="egloga"><head>IV</head>
+<head>Dedalus</head>
+<stage>Collocutores: <emph>Gallus</emph> et <emph>Tirrenus</emph></stage>
+<sp><speaker>GAL.</speaker><l>Tale quis ingenium, tanti quis muneris usum?</l>
+<l>Ut niveum compegit ebur, nervosque loquentes</l>
+<l>Addidit ac numeros! Dic, o Tirrene, quis ille?</l>
+<l>Dedalus? Anne alius dextre successor et artis?</l></sp>
+<sp><speaker>TIR.</speaker><l>Dedalus ipse fuit, nec falleris omine, Galle,</l>
+<l>Artificum stupor eternus, quem docta potensque</l>
+<l>Miratur natura virum; michi maximus ille</l>
+<l>Argutam dedit hanc citharam plectrumque modosque.</l></sp>
+<sp><speaker>GAL.</speaker><l>Cuius amor meriti? cuius pulcherrima merces?</l></sp>
+<sp><speaker>TIR.</speaker><l>Nullius. Nam sponte meum quesivit amorem,</l>
+<l>Dignus quem silve, quem grex, quem pastor adoret.</l></sp>
+<sp><speaker>GAL.</speaker><l>Qua tamen hec regione tibi sors obvia venit?</l></sp>
+<sp><speaker>TIR.</speaker><l>Est nemus aerium, trabibus quo frigida quernis</l>
+<l>Submovet umbra diem; non illic aura, nec estus,</l>
+<l>Non gregis aut hominum vernos premit ungula flores;</l>
+<l>Fontibus aversis circum duo flumina surgunt,</l>
+<l>Hoc secat Etruscos, petit illud gurgite Romam:</l>
+<l>Hic, quasi venturi presagus, tristia mecum</l>
+<l>Plurima volvebam, flebam quoque; vidit ab alto</l>
+<l>Dedalus annosas inter considere fagos;</l>
+<l>Accessit, citharamque ferens: – puer, accipe, dixit;</l>
+<l>Hac casus solare tuos, hac falle laborem. – </l></sp>
+<sp><speaker>GAL.</speaker><l>Infelix! ubi tunc aberam? Fortasse fuisset</l>
+<l>Hec fortuna alii; citharam michi Dedalus illam;</l>
+<l>Novit enim egregie, atque interdum visus amare est.</l></sp>
+<sp><speaker>TIR.</speaker><l>Hanc minime; sed forte aliam, nam milia multa</l>
+<l>Ille habet et large partitur munera in omnes,</l>
+<l>Galle; sed, ante diu quam presens silva vireret,</l>
+<l>Hec fuerat promissa michi. Namque anxia partu</l>
+<l>Mater anelanti Lucinam voce rogabat,</l>
+<l>Et mestum, ignarus lucis, iam limen adibam;</l>
+<l>Attulit ecce pium fors Dedalon; haud mora, mixto</l>
+<l>Vagitu gemituque gravi concussus, apertas</l>
+<l>Substitit ante fores; deque obstetricibus uni:</l>
+<l>– Si puer est, citharam dabimus; si nata, monile,</l>
+<l>Dixerat, ac speculum; – subitoque evanuit. Inde</l>
+<l>Polliciti rediitque memor, factoque beavit.</l></sp>
+<sp><speaker>GAL.</speaker><l>Utilis invidie species imitatio fervens,</l>
+<l>Incutiensque animo stimulos, Tirrene, fatebor.</l>
+<l>Ardeo nunc similem citharam, nisi forsitan ista</l>
+<l>(Quod malim) caruisse velis. Sunt vellera nobis</l>
+<l>Mollia, sunt hedi; pretium, vel grande licebit,</l>
+<l>Ipse rei parve statuas. Parebitur ultro.</l></sp>
+<sp><speaker>TIR.</speaker><l>Grande rei parve? Cithare solatia nescis;</l>
+<l>Rem magnam (sit nota) voces: fastidia mulcet,</l>
+<l>Lassatos animos refovet, solatur amicos,</l>
+<l>Gaudia restituit, pellit de pectore luctum,</l>
+<l>Exiccat lacrimas, compescit flebile murmur,</l>
+<l>Spes revehit, frangitque metus, vultumque serenat.</l></sp>
+<sp><speaker>GAL.</speaker><l>Quid pretio maiore vetat vel magna pacisci?</l></sp>
+<sp><speaker>TIR.</speaker><l>Non michi setigeri quantumvis pascitur usquam</l>
+<l>Villigerique gregis, nedum leve vellus et hedi</l>
+<l>Sit pretium cithare; non si tibi gurgite latos</l>
+<l>Ambiat Hermus agros, rutilisque oblimet arenis.</l>
+<l>Quid michi divitie? quid rerum mutus acervus?</l>
+<l>Nostras cernis opes: Hec est, qua crebra rebellis</l>
+<l>Prelia fortune mundique prementia vincla</l>
+<l>Pauperiemque levo; rigidas hac sepe per Alpes,</l>
+<l>Perque nemus vacuum, perque atra silentia noctis</l>
+<l>Fisus eo; plaudunt volucres et concava saxa,</l>
+<l>Interea tristes fugiunt per nubila cure.</l></sp>
+<sp><speaker>GAL.</speaker><l>Laude sitim cumulas; fer opem, optatoque potiri,</l>
+<l>Te duce, contingat; vivam memor emoriarque.</l></sp>
+<sp><speaker>TIR.</speaker><l>Sera animum que cura subit? Brevis ecce iuvente</l>
+<l>Flos cecidit. Tunc tempus erat! Iam discere turpe est</l>
+<l>Quod pulcrum didicisse foret. Sic volvitur etas,</l>
+<l>Omnia sic volvit fugiens, ac nescia freni.</l>
+<l>Sorte tua contentus abi, citharamque relinque;</l>
+<l>Est quibus a teneris tractata suaviter annis.</l></sp>
+<sp><speaker>GAL.</speaker><l>Posceris auxilium; tu consulis? Incipe rebus</l>
+<l>Mecum; verba aliis, quos possunt verba movere.</l>
+<l>Poscimus hanc avide; toto nil pulcrius orbe est.</l></sp>
+<sp><speaker>TIR.</speaker><l>Pulcra movent oculos, sed prosunt apta fruenti;</l>
+<l>In partesque venit pudor atque modestia voti.</l></sp>
+<sp><speaker>GAL.</speaker><l>O felix, o care deis, Tirrene, supernis!</l></sp></div1>
+<div1 type="egloga"><head>V</head>
+<head>Pietas pastoralis</head>
+<stage>Collocutores: <emph>Martius</emph>, <emph>Apitius</emph> et <emph>Festinus</emph></stage>
+<sp><speaker>MAR.</speaker><l>Quid genitrix veneranda dolet, germane? quid illi</l>
+<l>Accidit hoc dignum gemitu? quorsumve recentes</l>
+<l>Mesta pluet lacrimas, nec lumina nostra madescent?</l></sp>
+<sp><speaker>API.</speaker><l>Cuncta vorant anni volucres; domat omnia tempus</l>
+<l>Indomitum; cecidit matris fortuna decorque,</l>
+<l>Arentique virens senio dat terga iuventus.</l></sp>
+<sp><speaker>MAR.</speaker><l>Aspice quot circum stabiles, urgentibus annis,</l>
+<l>Et virides cernuntur anus. Aliunde profecto</l>
+<l>Luctus et offensi veniunt suspiria cordis.</l>
+<l>Querere nos causas, fatisque obstare repertis</l>
+<l>Suadet amor, pietasque iubet, meritumque reposcit</l>
+<l>Altricis, partusque labor, fastidia, cure.</l></sp>
+<sp><speaker>API.</speaker><l>Vim nescit natura pati; licet omnia certent</l>
+<l>Pectora ab adverso, cunctas licet advocet artes</l>
+<l>Humanum genus et studio contendat inani,</l>
+<l>Invictum caput illa ferens, contemnet habenas.</l></sp>
+<sp><speaker>MAR.</speaker><l>Hec prope diis natura pares iubet esse parentes.</l></sp>
+<sp><speaker>API.</speaker><l>Hec eadem prohibet cursum prevertere vite,</l>
+<l>Et rerum turbare vices. Iuvenescere mater</l>
+<l>Nostra nequit; varia est pietas; de coniuge quisque</l>
+<l>Cogitet et parvis studeat succurrere natis.</l></sp>
+<sp><speaker>MAR.</speaker><l>De genitrice nichil? Sedenim michi maxima matris</l>
+<l>Cura subest vidue; nil hac michi carius usquam.</l></sp>
+<sp><speaker>API.</speaker><l>Quis vetat esse pium? Munus leve dulcia verba.</l>
+<l>Hos humeros, has illa manus, hec brachia nobis</l>
+<l>Sola dedit, donisque suis ea sola fruatur.</l>
+<l>Non comes esse sibi, quascunque vocarit in oras,</l>
+<l>Abnuo, nec fragili baculum me ferre senecte.</l></sp>
+<sp><speaker>MAR.</speaker><l>Dii tibi consilium celo tribuere sereno;</l>
+<l>Nunc pietas sua regna tenet, sua possidet arma:</l>
+<l>Filius es, matri vin subveniamus egenti?</l></sp>
+<sp><speaker>API.</speaker><l>Fare; quid expectas? Omnis mora torquet amantem.</l></sp>
+<sp><speaker>MAR.</speaker><l>Est domus ampla sibi, nemoroso condita colle,</l>
+<l>Dudum magnanimi longo quam tempore fratres</l>
+<l>Obsequiis coluere piis. Tum cognita late</l>
+<l>Mater erat, saltus nimis invidiosa per omnes,</l>
+<l>Felix et partu, et silvestribus inclita gaçis,</l>
+<l>Ac nemorum regina potens; mors invida natos</l>
+<l>Preripuit misere, perierunt corpora fratrum.</l>
+<l>Fama viget. Nos ludibrio dilata iuventus</l>
+<l>Spiramus; sed fama iacet, tenebrisque sepulta est.</l>
+<l>Sub nobis mutata domus fortuna; tot annis</l>
+<l>Incolumis, nostros cecidit non passa furores.</l>
+<l>Hec matri reparanda domus; nil gratius illi,</l>
+<l>Ni quo fata premunt, fractis consurgere bustis</l>
+<l>Aspiceret natos et tempora prisca reverti.</l></sp>
+<sp><speaker>API.</speaker><l>Milia sunt hominum, curarum milia mille:</l>
+<l>Quisque sibi sapiens. Unde hec tibi somnia frater?</l>
+<l>Pellere pauperiem labor est mortalibus ingens,</l>
+<l>Cui nunquam speranda quies; nos sorte maligna</l>
+<l>Vivere per silvas ulla vix possumus arte;</l>
+<l>Et (tecum, germane, loquor) non furta rapinis</l>
+<l>Mixta iuvant, plenis nec prede ab ovilibus acte.</l>
+<l>Tu nova tecta paras ruiture attollere matri?</l></sp>
+<sp><speaker>MAR.</speaker><l>Non nova, sed veterum turpes reparare ruinas</l>
+<l>Da, frater, da, care, manus partemque virilem</l>
+<l>Sponte subi; vincat pietas invicta laborem.</l>
+<l>Siccemus pariter lacrimas, et mesta parentis</l>
+<l>Pectora, ne tales doleat genuisse, levemus.</l></sp>
+<sp><speaker>API.</speaker><l>Cura supervacui pectus quatit! Occidit illa</l>
+<l>Spes sobolis, que cuncta procul compleverat arva,</l>
+<l>Nec muris contenta suis, nec cespite parvo.</l>
+<l>Ad paucos reditum; pascent nos avia baccis</l>
+<l>Arboreis, duplicisque capax testudinis antrum,</l>
+<l>Dum tonat, excipiet, ventosque arcebit et imbres,</l>
+<l>Mater ubi alternis convivia festa diebus</l>
+<l>Hic aget atque illic, geminoque fruetur honore.</l></sp>
+<sp><speaker>MAR.</speaker><l>Coniugibus despecta quidem et calcata superbis,</l>
+<l>Ac dominas habitura nurus! Quin flectere tandem</l>
+<l>Et monitus meliora vide: Genitricis uterque</l>
+<l>Tecta colat, limenque pius venerator adoret,</l>
+<l>Quod sacri tetigere pedes. Non aspera mando;</l>
+<l>Dulce est annose iuvenem servire parenti.</l>
+<l>Non in vestibulo pudeat me mane videri</l>
+<l>Sollicitum, quid mandet anus. Quin septa laremque</l>
+<l>Molimur, solitas sedes? Hinc iussa nepotes</l>
+<l>Accipiant, hic una domus, nec scissa potestas,</l>
+<l>Nec fratrum divisus honos. Vicinia iunctos</l>
+<l>Horrebit; virtus gladio plus vera timetur.</l>
+<l>Aggrediamur opus, quedam leviora videntur</l>
+<l>Expertis; genitrix, animos si cernat amicos,</l>
+<l>Ipsa aderit; nam pascit oves, pascitque iuvencos,</l>
+<l>Unde istas cumulamus opes. Ars fallere matrem</l>
+<l>Prima quidem pueris! Fortune frusta vetuste,</l>
+<l>Preterea et terre salis altum infodit acervum,</l>
+<l>Quem cupido quondam pecori blandita latenter</l>
+<l>Miscuit et sapidas aspergine reddidit herbas;</l>
+<l>Insuper ad veteres ortos, umbrosaque Tempe,</l>
+<l>Saturnique domos, et que possedimus ultra</l>
+<l>(Lidius at nunc hospes habet) violentus ab alto</l>
+<l>Monte cadit rivus, qui, dum sua rura revisit,</l>
+<l>Impedit invalidam transverso gurgite matrem.</l>
+<l>Pons fuit hic, manibus sanctorum structus avorum,</l>
+<l>Tempus in hoc solidus; tacitos quo tramite fures,</l>
+<l>Qui gregibus pestem, silvis suprema parabant,</l>
+<l>Repperit argutus nocturno tempore pastor;</l>
+<l>Collaque sic meritis fregit. Tua dextera pontem</l>
+<l>Hunc (tibi nota loquor) tumidas effudit in undas,</l>
+<l>Dumque nocere michi properas, matrique tibique</l>
+<l>Et gregibus silvisque noces. Sed iurgia mitto.</l>
+<l>Hic nostram modo poscit opem; sine crimine quamvis,</l>
+<l>Non onerum partem tecum tolerare recuso.</l></sp>
+<sp><speaker>API.</speaker><l>Compulit in facinus tua longa superbia. Verum</l>
+<l>Cimba brevis fluvio est, habilis transire volenti;</l>
+<l>Rus breve trans fluvium superest; fortuna solutos</l>
+<l>Angustat, finesque locat quos fratribus olim</l>
+<l>Tam bene pacatis quam nos sumus. Arcta priorum,</l>
+<l>Arcta extremorum confinia; at inter utrumque</l>
+<l>Laxarunt sua rura senes. Audacia letos</l>
+<l>Non stabiles habet eventus: En omnia demum</l>
+<l>Ad primas rediere vias, forsque improba giro</l>
+<l>Lusit in assiduo. Quid quod sine ponte manemus</l>
+<l>Tutius in ripa? Iam, quantum ad cetera, serum est</l>
+<l>Edificare domos sub tempus velle sepulcri.</l></sp>
+<sp><speaker>FES.</speaker><l>Quid vano sermone leves consumitis horas?</l>
+<l>Tertius ille minor, quem vos calcare soletis,</l>
+<l>Silvas frater habet; iam fundamenta domorum</l>
+<l>Sede locat patria; genitrix sibi rura gregemque</l>
+<l>Credidit et nati gremio secura quiescit.</l>
+<l>Parent cuncta sibi. Curas agit ille seniles</l>
+<l>Ense puer stricto, laqueisque sub arbore tensis,</l>
+<l>Quis avium furumque pedes et colla premantur.</l>
+<l>Pinguibus arentes tenerisque ab ovilibus arcent</l>
+<l>Fortia claustra lupos, tristis non murmurat ursus,</l>
+<l>Sanguineus non sevit aper, non sibilat anguis,</l>
+<l>Non rapidi predas abigunt ex more leones,</l>
+<l>Non aquile curvis circumdant unguibus agnos;</l>
+<l>Excelso, predulce canens, sedet aggere custos.</l>
+<l>Pascua tuta silent. Audit iam litus utrumque</l>
+<l>Carmen, et extremus calaber ligurumque recessus,</l>
+<l>Undifragi sectique tenens convexa Pelori.</l>
+<l>Si vocem extulerit, Mauros turbabit et Indos,</l>
+<l>Arctoasque nives, austrique calentis arenas.</l>
+<l>Imperat is vobis linguam cohibere; capellas</l>
+<l>Ite domum tondere inopes. Negat almaque mater</l>
+<l>Partem uteri vos esse sui, suppostaque iurat</l>
+<l>Pignora falsa sibi: Vallis te proxima misit,</l>
+<l>Apenninigene qua prata virentia silve</l>
+<l>Spoletina metunt armenta gregesque protervi;</l>
+<l>Te longinqua dedit tellus et pascua Rheni.</l></sp>
+<sp><speaker>MAR.</speaker><l>Nunc memini: Audieram veteres narrare bubulcos.</l></sp></div1>
+<div1 type="egloga"><head>VI</head>
+<head>Pastorum pathos</head>
+<stage>Collocutores: <emph>Pamphilus</emph> et <emph>Mitio</emph></stage>
+<sp><speaker>PAM.</speaker><l>Quis nemus omne vagis lacerandum prebuit hircis?</l>
+<l>Quid silve meruere mee, quas rore superno</l>
+<l>Iupiter, et rivis spumantibus horrida coniunx,</l>
+<l>Impiger atque olim Pyreos Phaniosque rigarunt?</l>
+<l>Que rabies furtim, segetes dum carpit acerbas,</l>
+<l>Spes et opes turbavit agri? cui pulcer Hiberus,</l>
+<l>Delitie nostrumque decus, sub tempus aratri</l>
+<l>Non timuit prunas crepitantibus addere lauris,</l>
+<l>Quis prope consumptus, dextram nisi noster Apollo</l>
+<l>Porgeret afflicto, montesque efferret in altos?</l></sp>
+<sp><speaker>MIT.</speaker><l>Pastorum sors dura nimis! Date frena capellis,</l>
+<l>Indomitos cohibete greges, simul ubera multo</l>
+<l>Lacte fluant semper... magicas non movimus artes!</l>
+<l>Et nunc iste ferox lites et iurgia secum</l>
+<l>Instruit, ac, saxum et nodosa repagula gestans,</l>
+<l>Quot maledicta parat, poterit maledicta mereri,</l>
+<l>Ense perire suo, quod fert reperire venenum.</l>
+<l>Blanditiis tamen aggrediar: Quo Pamphile et unde?</l>
+<l>Quosve locos habitas? serum tua claustra revisis!</l>
+<l>Quid fremis? inque gravi qui fervet spiritus ore?</l></sp>
+<sp><speaker>PAM.</speaker><l>Furcifer hic, Mitio? nec te durissima sontem</l>
+<l>Sorbet adhuc tellus? Iam iam mirabile nullum est,</l>
+<l>Si nemus et messes atque omnia, versa retrorsum,</l>
+<l>Spem lusere meam. Cui proh! custodia culti</l>
+<l>Credita ruris erat? cui grex pascendus in herba?</l>
+<l>Intempestivis perierunt mortibus agni;</l>
+<l>Defessi periere boves, hircique supersunt,</l>
+<l>Immundique sues, quos luxus et otia tendunt:</l>
+<l>Turba nociva satis, nulla que lege per agros</l>
+<l>Spargitur insultans, virgultaque dentibus urit;</l>
+<l>Iam montes infecit odor, nostramve quietem.</l></sp>
+<sp><speaker>MIT.</speaker><l>Haud inopina quidem patior convitia; dudum</l>
+<l>Singula nam tacito tractans sub pectore mecum</l>
+<l>Vaticinatus eram: – Iam turbidus ille redibit,</l>
+<l>Nec servi tergo, nec amici parcere fame</l>
+<l>Doctus, nec rigida pietatem admittere fronte. – </l>
+<l>Pamphile, quam facile est alienam carpere vitam!</l>
+<l>Quam durum servare suam! Te forte magistro,</l>
+<l>Segnior haud gregibus mors ac lupus ingruat albis?</l>
+<l>Nequicquam baculoque minax vultuque venires;</l>
+<l>Nil tibi tristis hiems (quanquam cessura rigori</l>
+<l>Illa tuo), nil ver dubium, nil morbidus auster,</l>
+<l>Nil tibi de proprio violenta remitteret estas;</l>
+<l>Non volucres segeti, non mitibus umbra racemis,</l>
+<l>Non caper arboribus, non bucula parceret herbis.</l></sp>
+<sp><speaker>PAM.</speaker><l>Nonne ego pastor eram, dum trux, turpissime rerum,</l>
+<l>Nereus, adverso pascens in vertice tauros,</l>
+<l>Transversum deiecit humi, et pecus omne parabat</l>
+<l>Vi rapere? obluctor; donec violentior ille</l>
+<l>Exuit hirsutam tunicam, nudumque reliquit.</l></sp>
+<sp><speaker>MIT.</speaker><l>Quid potius tractare velim quot, tempore parvo,</l>
+<l>Tunc nostri cecidere greges? Est sanguine vallis</l>
+<l>Pinguis adhuc; cecis raptim congesta cavernis,</l>
+<l>Ossa iacent; horrore ferit locus ipse tuentes.</l>
+<l>Non tibi, non aliis licuit mandare macello</l>
+<l>Membra boum; sparsere lupi, sparsere leones!</l></sp>
+<sp><speaker>PAM.</speaker><l>Dii tibi sint hostes! At non iacuere magistri;</l>
+<l>Non rauci siluere canes; quod seva sinebat</l>
+<l>Extremum fortuna, fuit: spoliare cadentes</l>
+<l>Et niveas urbi, dominoque remittere pelles.</l>
+<l>Tu michi quid servas, nisi cornua dempta iuvencis?</l></sp>
+<sp><speaker>MIT.</speaker><l>Servo aurum, teneris quod compensavimus agnis;</l>
+<l>Servo habiles scyatos, et agresti urgere labellum</l>
+<l>Subere non dignor, rudium miseretque parentum.</l>
+<l>Adde quod ars, duce me, multum pastoria crevit:</l>
+<l>Discolor en talos thirreno ex more coturnus</l>
+<l>Circumit; effulgens obnubit tempora iaspis;</l>
+<l>Candida sydonio ter murice vellera tinxi,</l>
+<l>Et magnos peperi pro munere lactis amicos.</l>
+<l>Sponsa nitet gemmis, collumque monilibus ambit,</l>
+<l>Et mecum fusca secura recumbit in umbra;</l>
+<l>Non glacie nivibusque rigens, nec solibus usta,</l>
+<l>Qualis erat tua turpis anus, dum rura tenebas;</l>
+<l>Regia, si spectes, non nostra videbitur uxor.</l>
+<l>Tum passim herbosis ludunt in vallibus edi,</l>
+<l>Inque volutabris segnes innata voluptas</l>
+<l>Conglomerat versatque sues; non humida pastor</l>
+<l>Fortior antra subit. Sedeo iaceoque supinus,</l>
+<l>Multa canens que dictat amor, nec crastina curans;</l>
+<l>Commissique gregis ludos et prelia cerno.</l>
+<l>Tu querulus tristisque mane; tu dente canino,</l>
+<l>Qua rabies tulerit, semper mordere paratus.</l></sp>
+<sp><speaker>PAM.</speaker><l>Ergo, impure, tuum nostris cum sentibus aurum</l>
+<l>Iungis? ut indignos habitus tibi preferat uxor,</l>
+<l>Rebus honusta suis? ut tu meliore cubili</l>
+<l>Membra loces, somnumque animo vigilante fugacem</l>
+<l>Excipias oculis, et turbida visa fatigent?</l>
+<l>Concilient ut vasa sitim, causasque timendi</l>
+<l>Inveniant, et forma domus, et cara supellex?</l>
+<l>Heu! labor insanus precio cumulare periclum;</l>
+<l>Heu! furor extremus nupte parere furenti.</l>
+<l>Turpis, adulteria et thalami tot probra pudendi</l>
+<l>Dissimulare potes? Nempe hi, quos fingis amicos,</l>
+<l>Coniugis inceste facilem rapuere pudorem,</l>
+<l>Insidiasque parant etiam tibi; lumina tolle</l>
+<l>Immodico depressa mero; lupus instat ovili,</l>
+<l>Antraque pervigiles circumstant ditia fures.</l></sp>
+<sp><speaker>MIT.</speaker><l>Furibus est mecum contractum sanguine porci</l>
+<l>Fedus, et inferni descriptum regis in ara;</l>
+<l>Invisum superis sacrum fortasse, profundis</l>
+<l>Acceptum sed iure deis, quibus ere litatum est.</l>
+<l>Non ego, ieiune confringant pinguia tygres</l>
+<l>Septa licet, totoque fremens ruat ethere grando,</l>
+<l>Armentisque satisque necem ferat acrior annus,</l>
+<l>Pauper ero: tantum scrobibus commisimus atris!</l></sp>
+<sp><speaker>PAM.</speaker><l>Tolle ferum, scelerate, sacrum, quod Iupiter et Sol</l>
+<l>Erubuit potuitque Iubar..! Sed acerba relatu</l>
+<l>Pretereo; quid pastor eras, per litora gaças</l>
+<l>Convehis, et neutrum perages feliciter. Aude</l>
+<l>Linquere iam silvas, urbesque videre remotas,</l>
+<l>Pandere vela nothis, tumidas tentare procellas;</l>
+<l>Uxor enim ignotis iampridem in collibus errat</l>
+<l>Et, patrium limen thalamumque egressa pudicum,</l>
+<l>Illa sequetur ovans meretrix famosa, procosque</l>
+<l>Secum aget ardentes et olentes turpiter hircos,</l>
+<l>Herba peregrine quibus est iam grata paludis.</l></sp>
+<sp><speaker>MIT.</speaker><l>Quid, pater, obscuris animos ambagibus imples?</l>
+<l>Longaque nunc seris quid litibus otia frangis?</l>
+<l>Desine iam mestis alacres incessere verbis.</l>
+<l>Dic, age; dic breviter quicquid fert impetus et mens.</l></sp>
+<sp><speaker>PAM.</speaker><l>Es meritus post vincla crucem, post verbera ferrum.</l>
+<l>Supplicium breve! Quin potius sine fine dolores</l>
+<l>Carceris eterni, vel si quid tristius usquam est,</l>
+<l>Serve infide, fugax, dominoque ingrate benigno.</l></sp>
+<sp><speaker>MIT.</speaker><l>Crude senex, gestare crucem, tolerare cathenas</l>
+<l>Si nescis, sors ipsa tua est. Vulgata per omnes</l>
+<l>Fabula iam saltus, Nerei terrore superbi</l>
+<l>Destituisse gregem, medio nisi tristis Apollo</l>
+<l>Sistere calle gradum, non vertere terga iuberet.</l>
+<l>Cetera nam sileo, domino quam fidus in arctis</l>
+<l>Casibus, ut possint deserte ignoscere caule.</l></sp>
+<sp><speaker>PAM.</speaker><l>Et fugi, et redii; timui Pastoris iniqui</l>
+<l>Verbera; nulla metum facilem damnaverit etas.</l>
+<l>Flumine mox lavi maculas, pallorque recessit.</l>
+<l>Que tibi causa fuge? cur claustra quieta relinquis?</l>
+<l>Cur, longinqua sequens, quercus contemnis avitas?</l>
+<l>Quo claves, vesane, rapis? Quin, abice, rerum</l>
+<l>Tantarum si cura premit; per menia saltu</l>
+<l>Errantes cogentur oves sub tecta reverti:</l></sp>
+<sp><speaker>MIT.</speaker><l>Iam michi magna placent; inopis num semper ovilis</l>
+<l>Servus ero? Dulcem cantando nactus amicam,</l>
+<l>Formosus fieri studeo; solemque perosus,</l>
+<l>Antra umbrosa colo frontemque manusque recenti</l>
+<l>Fonte novans. Speculum Coridon bizantius istud,</l>
+<l>Quo michi complaceo, dono dedit; omnia novit</l>
+<l>Et patitur coniunx, quoniam sua multa vicissim</l>
+<l>Dura fero. Vos ignotas iactetis amicas,</l>
+<l>Me mea perpetuis foveat complexibus Epy.</l></sp>
+<sp><speaker>PAM.</speaker><l>Infamis mulier, multisque infausta maritis,</l>
+<l>Te foveat demens! Prior Epycus ille, profanos</l>
+<l>Lapsus in amplexus, cecinit per rura, per urbes</l>
+<l>Quam coniunx generosa sibi; prior ipse puellam</l>
+<l>Nactus ad irriguos secum traduxerat ortos;</l>
+<l>Ludibrioque habitus vivens moriensque, iacentem</l>
+<l>Exedere canes et perminxere sepulcrum.</l>
+<l>Letior haud aliis post hunc; sed adultera forte</l>
+<l>Fida tibi; fruere et speculum Coridonis habeto.</l>
+<l>Eternum gemat ille miser, pastoribus aule</l>
+<l>Qui primus mala dona dedit! Formosus haberi</l>
+<l>Dum petis, et capiti circumdas serta nivoso,</l>
+<l>(Ignotum tot pondus avis) dum floribus antrum,</l>
+<l>Dumque pedum, delire, rosis silvestribus ornas,</l>
+<l>Omnia depereant; quando impia sidera celo,</l>
+<l>Impia fors terris superant. Intercidat una</l>
+<l>Cura gregis; rurisque labor, studium peculi.</l></sp>
+<sp><speaker>MIT.</speaker><l>Succedet michi forte aliquis – nec longius hinc iam</l>
+<l>(Augurio nisi fallor) abest – qui tristis inersque</l>
+<l>Mitia preduris excuset facta repulsis,</l>
+<l>Alvernasque ferat Romana in pascua sordes.</l></sp>
+<sp><speaker>PAM.</speaker><l>Quem talem, nisi te genitum fortasse, minaris?</l>
+<l>En tua tota fides! En laudum summa tuarum!</l>
+<l>Peiorem si terra parit, tunc optimus ipse,</l>
+<l>Inque nocens Mitio. Sic crimen crimine purgas?</l>
+<l>Vive late, gaude vitii maioris ad umbram.</l></sp>
+<sp><speaker>MIT.</speaker><l>Letus agam, moriarque dolens; tu, tristis utrumque,</l>
+<l>Nescio quid confusa tibi tua somnia servent.</l></sp>
+<sp><speaker>PAM.</speaker><l>Par fuerat meminisse, quibus bonus ille periclis</l>
+<l>Ista paravit herus. Laniatum vepribus aspris</l>
+<l>Vidimus. Heu, quanti miserans armenta redemit</l>
+<l>Perdita, sublimi veniens mercator Olimpo!</l>
+<l>Quam tenuis victus, quam nulla superbia verum</l>
+<l>Ruris habet dominum! Tu luxuriaris in arvis</l>
+<l>Illius; ipse sua sitiens ac sobrius aula est.</l></sp>
+<sp><speaker>MIT.</speaker><l>Immemor ille sui, et, verum fateamur, avarus!</l>
+<l>Perdere pauca timet, cum possit perdere multa.</l>
+<l>Impiger horrisonis pastores vocibus implet;</l>
+<l>Hinc didicisse potes, semperque in fontibus egras</l>
+<l>Mersat oves, tondere iubens, ne vellera lappe</l>
+<l>Intricent, prohibens ipsis a sepibus hircos;</l>
+<l>Ostentatque rubos itidem sterilesque miricas,</l>
+<l>(Pascua dura feris) famulos macieque geluque</l>
+<l>Conficit, ac tolerare famem somnumque sitimque</l>
+<l>Edocet, adiungitque minas atque intonat ore;</l>
+<l>Dulcia cunta vetat, iubet aspera; culta cavebis,</l>
+<l>Avia lustrabis, montes superabis iniquos,</l>
+<l>Et pedibus nudis tribulos calcabis acutos.</l>
+<l>Moribus his hominum quisquam de sanguine natum</l>
+<l>Dixerit? aut raros illi miretur amicos?</l>
+<l>Contra ego, me memini domino servire potenti;</l>
+<l>Perdere magnificum; multis placuisse decorum.</l>
+<l>Vis ubi nulla premit, quis tot consumet aristas?</l>
+<l>Quod pecus assiduo peraget tot gramina morsu?</l>
+<l>Lascivos errare greges, hircosque procaces</l>
+<l>Coniugio gaudere sinas. Simul ipse iocabor.</l>
+<l>Dum mea me coniunx, dum me mea suspicit Epy;</l>
+<l>Vos vestros servate, meos michi linquite mores.</l></sp>
+<sp><speaker>PAM.</speaker><l>Infelix, sic noscis herum? dum tutus in umbra</l>
+<l>Stare putas, aderit, prevertens gaudia luctu.</l></sp>
+<sp><speaker>MIT.</speaker><l>Men verbis terrere paras? Presentia fortes</l>
+<l>Despiciunt; timidos etiam distantia terrent.</l></sp></div1>
+<div1 type="egloga"><head>VII</head>
+<head>Grex infectus et suffectus</head>
+<stage>Collocutores: <emph>Mitio</emph> et <emph>Epy</emph></stage>
+<sp><speaker>MIT.</speaker><l>Dulcior his silvis, et gramine dulcior arvi,</l>
+<l>Gratior his antris, et gratior amne sonoro,</l>
+<l>Huc modo, dum sum solus, ades, mea nobilis Epy.</l></sp>
+<sp><speaker>EPY</speaker><l>Nulla dies, Mitio, nostros abrumpat amores;</l>
+<l>Nulla dies gremio caput hoc disiungat amato:</l>
+<l>Ultro adsum, semperque adero, nec sponte revellar –</l></sp>
+<sp><speaker>MIT.</speaker><l>O mea (nam dulce est animum exonerare loquendo)</l>
+<l>Quid michi nunc stomaci reris? Precordia quantum</l>
+<l>Fellis habet sparsi! Mordax modo Pamphilus acri</l>
+<l>Perculit incautum penitus, pupugitve querela,</l>
+<l>Multa minax. Absentis heri sub fine pavorem</l>
+<l>Obtulit intrepido; fortem fortissima contra</l>
+<l>Frons stetit hec. Nunc, cara comes, tot dulcia mecum,</l>
+<l>Tot letos partita dies, partire quod instat.</l>
+<l>Ne pigeat, numeremus oves, numeremus et hircos.</l>
+<l>Seu gravis iste redit, seu forsitan ille tremendus,</l>
+<l>Vera licet fictis pretexere crimina verbis;</l>
+<l>Stet modo frons eadem, conceptaque formula fandi.</l></sp>
+<sp><speaker>EPY</speaker><l>Lanigerum quodcunque pecus servare solebas</l>
+<l>Mors rapuit, vel morbus habet; per gramina ripe</l>
+<l>Pascitur alterius quicquid superesse dedit fors.</l>
+<l>Febris iners, scabiesque tenax, violentaque tussis</l>
+<l>Iam vacuos populantur agros; premit horrida sudor</l>
+<l>Mucidus, et rigidi configunt tergora dumi.</l>
+<l>Tutius abfuerint, ne furtim leta pererret</l>
+<l>Mesta lues capita, et serpens per ovilia pestis.</l>
+<l>Cetera nosse datur, refer huc tua lumina tantum.</l></sp>
+<sp><speaker>MIT.</speaker><l>Perge, meum culmen, mea spes, mea tota voluptas.</l></sp>
+<sp><speaker>EPY</speaker><l>Ille, procul fulvo quem cernis ludere tergo,</l>
+<l>Vertice conspicuum, setis cui discolor albis</l>
+<l>Barba genas mentumque tegit, per pascua late</l>
+<l>Noscitur immitis, frondisque petulcus et herbe.</l>
+<l>Hunc etiam cupide metuunt perferre capelle,</l>
+<l>Sic duras tenerasque tegit, sic pondere toto</l>
+<l>Irruit, incumbens miseris, Veneremque nec ullam</l>
+<l>Respuit. Haud proprie fit segnior inde marite,</l>
+<l>Que paribus signata notis et concolor illi est.</l>
+<l>Ipse quidem, luxu immodico lassatus et annis,</l>
+<l>Iam senuit; sed dura fero recalensque senectus.</l>
+<l>Ille procax, parili totus licet ardeat estu,</l>
+<l>Viribus haud paribus fruitur; tamen omnia turbat</l>
+<l>Septa furens, nullasque sinit dormire quietas</l>
+<l>Somnifera sub nocte capras; sed ovilia circum</l>
+<l>Hunc animus, non sanguis agit; dumque aspera prensat</l>
+<l>Colla, parum stabiles fregisse per oscula dentes</l>
+<l>Cernitur, et vocis paulatim perdidit usum.</l>
+<l>Quem, quotiens video, subitus quatit ilia risus,</l>
+<l>Ut fragilis dumeta petit, crebrosque himeneos,</l>
+<l>Et Venerem gelidis ardentem naribus omni</l>
+<l>Tempore suspirans, inamenum spargit odorem.</l>
+<l>Tertius ille autem, distortis cornibus, atra</l>
+<l>Luxuria effervens, teneris male temperat edis.</l>
+<l>His multum debere memor grex ipse fatetur;</l>
+<l>Horum namque licet circum presepia natos</l>
+<l>Enumerare leves, atque agmina multa nepotum.</l>
+<l>Ille, piger senio, torpet; tamen integer olim</l>
+<l>Ludere clam solitus, virides nec spernere frondes.</l>
+<l>Nunc iacet et celum spectat. Premit arduus ille,</l>
+<l>Proceris gaudens per silvam insistere ramis.</l>
+<l>Permeat hic valles, longinquaque rura peragrat.</l>
+<l>Esurit ille rubos, fulgentibus imminet undis,</l>
+<l>Nec toto satianda Tago sitis arida fervet.</l>
+<l>Ille ferox animi est, et torva fronte minatur.</l>
+<l>Ecce duo obnixis qui se se cornibus urgent;</l>
+<l>Sepe graves silvis olim excivere tumultus,</l>
+<l>Nunc multo graviora parant, atque omnia turbant.</l>
+<l>Ecce duo morbo impliciti: Niger iste quiescit,</l>
+<l>Candidus ille silet; scabiem fricat ille vetustam.</l>
+<l>Ille quidem, toto quem cernis ab agmine solum,</l>
+<l>Natura generosus erat; sed, non sua tondens</l>
+<l>Gramina, sollicito tacitus terit avia gressu.</l>
+<l>Huic hostis generosus item, sed fractior evo,</l>
+<l>Contigerat; mors alterius certamen utrinque</l>
+<l>Conclusit. Non ille vadum torrentis aquosi,</l>
+<l>Nec iuga saxosi timuisset carpere montis.</l>
+<l>Dux gregis ille fuit, dum nostra reliquimus olim</l>
+<l>Pascua; primus iter rapidum per lubrica flexit,</l>
+<l>Hortatus sotios; mox cetera turba secuta est,</l>
+<l>Unde diu letos vacui deduximus annos.</l></sp>
+<sp><speaker>MIT.</speaker><l>Quid non longa rapit, seclis fugientibus, etas?</l>
+<l>Decrevit grex ecce situ: Que culpa? Quis error?</l>
+<l>Immortale homini nichil est; moriemur et ipsi.</l>
+<l>Ludere consilium, nec euntis temporis horam</l>
+<l>Perdere segnitie, curasque repellere inanes;</l>
+<l>Ni forsan tibi nunc aliud, dilecta, videtur.</l></sp>
+<sp><speaker>EPY</speaker><l>Prorsus idem: Quid enim restet? Que meta malorum?</l>
+<l>Ambiguum, licet ille gravis promissa minasque</l>
+<l>Iudicis inculcet, res pendet; ludere prestat</l>
+<l>Interea, et primam morti subducere partem.</l>
+<l>Quam sapiens sileo (semper tibi fida profecto</l>
+<l>Hortatrix, atque una, fui) presentibus uti</l>
+<l>Et gaudere bonis, fato mandare futura,</l>
+<l>Blanditiis profugam assiduis revocare iuventam</l>
+<l>Et retinere manu, properanti obstare senecte.</l>
+<l>Sed, si tangit amor pecoris, muliebribus aurem</l>
+<l>Consiliis adverte tuam, nisi forte pudori est.</l></sp>
+<sp><speaker>MIT.</speaker><l>Dic, mea, dic, requies, thalami dic gloria nostri.</l></sp>
+<sp><speaker>EPY</speaker><l>Hos tibi fecunde matres peperere: Quid heres</l>
+<l>Sanguine in externo? Veteri nova cornua serto</l>
+<l>Floribus ex nostris ornabimus. Ipse latentem</l>
+<l>Pamphilus haud noscat fraudem; nec degener istis</l>
+<l>Sanguis inest, humilisque gregis vestigia servant.</l>
+<l>Liquitur hic luxu, non pinguia pabula desint</l>
+<l>Coniugiumque frequens; implebit ovilia solus.</l>
+<l>Errantes studet ille senes transcendere cursu,</l>
+<l>Et facit. Ille gregem longe post terga reliquit.</l>
+<l>Aspicis hunc tumidum? Meditatur prendere truncos</l>
+<l>Mordicus, et vacuas cornu iam verberat auras.</l>
+<l>Mitior hunc vultu sequitur; michi crede, sed ille est</l>
+<l>Sevus et hirsuto multum truculentior apro.</l>
+<l>Me spectante, parem spoliavit coniuge nuper,</l>
+<l>Et potitur camuris nunc naribus ac pede torto.</l>
+<l>Illum inopem, pavidumque procul per saxa fugavit.</l>
+<l>Hi turpes, rerum indocti, latitare videntur;</l>
+<l>Sed sine consuescant, discent tot multa magistris.</l>
+<l>Hi duo – Quid reris? – fatales dulcibus uvis,</l>
+<l>Iam pingues, mustoque graves; hos, pelle revulsa,</l>
+<l>Persolves leso (venient triaterica) Bacho.</l>
+<l>En tibi par aliud; ratio famuletur amori,</l>
+<l>Dignum laude licet, blandis prope lenius agnis.</l>
+<l>En quoque par longe varium; pratum ille modesto</l>
+<l>Dente metit, ramos patulos vorat alter hiatu,</l>
+<l>Teque tuumque gregem rauca qui voce fatiget,</l>
+<l>Meque fugare locis informi murmure possit,</l>
+<l>Spumeus ac frendens, tunsoque simillimus urso.</l>
+<l>Hos tibi romulei miserunt gramina saltus;</l>
+<l>Cetera de nostris veniunt tibi gaudia lucis.</l>
+<l>Hinc alii, atque alii accrescent; fors prona favebit.</l></sp>
+<sp><speaker>MIT.</speaker><l>O pecudum decus eximium, reginaque silve,</l>
+<l>Perge, age, iunge greges, et cornua flore rubenti</l>
+<l>His quoque circumda; grex esse videbitur unus.</l>
+<l>Hunc tamen oblita es; numeris ascribe merentem:</l></sp>
+<sp><speaker>EPY</speaker><l>Invisa regione satum, quem florea vallis</l>
+<l>Paverit, et nostri spretorem miserit arvi:</l>
+<l>Pellicis imperio premimur; moribundus et unus</l>
+<l>Introeat, spatiumque brevis non expleat anni.</l></sp>
+<sp><speaker>MIT.</speaker><l>Iram frange, precor: nil unquam tale iubebo.</l>
+<l>Iam tranquilla redi, quoniam res magna peracta est.</l>
+<l>Pamphilus ut redeat, iustas licet arte querelas</l>
+<l>Abstulimus, tacitam mestus sibi sorbeat iram.</l></sp>
+<sp><speaker>EPY</speaker><l>Multa quidem curis dedimus, iamque hora quietis</l>
+<l>Nos vocat. Accelera; glacies premat hispida colles,</l>
+<l>Brachia nos nexi, molli iaceamus in ulva.</l></sp></div1>
+<div1 type="egloga"><head>VIII</head>
+<head>Divortium</head>
+<stage>Collocutores: <emph>Ganimedes</emph> et <emph>Amiclas</emph></stage>
+<sp><speaker>GAN.</speaker><l>Quo fugis? Expecta; liceat condiscere causas</l>
+<l>Discidii. Tu nostra puer, (nisi fallor), amabas</l>
+<l>Pascua. Quo pastos abigis cum matribus agnos,</l>
+<l>Ingrate atque oblite mei rerumque mearum?</l></sp>
+<sp><speaker>AMI.</speaker><l>Parce, parens, damnare tuum. Puer, ipse fateris,</l>
+<l>Hac pavi regione gregem. Tibi letior annis</l>
+<l>Tunc animus fuerat; nunc intractabilis, asper.</l>
+<l>Me quoque vivendo patientia prima reliquit.</l></sp>
+<sp><speaker>GAN.</speaker><l>Consilium solet esse senum, iuvenumque voluptas;</l>
+<l>Tu michi deliras senior; tum vallis amator</l>
+<l>Unius, deserta vagus nunc avia tentas.</l></sp>
+<sp><speaker>AMI.</speaker><l>Propositum mutat sapiens; at stultus inheret:</l>
+<l>Res, tempus, fortuna, locus firmata frequenter</l>
+<l>Consilia alternant. Macie turpique veterno</l>
+<l>Terga pecus confecta gerit; squalentia sentes</l>
+<l>Vellera dilacerant. Quid agam? Nec pocula fontis</l>
+<l>Tuta, nec herbarum morsus sucique salubres.</l>
+<l>Ipse aer suspecta michi suspiria reddit.</l>
+<l>Quin iustam permitte fugam, et miserere coacti.</l>
+<l>Nam potes. Ecce etenim veni ad tua gramina pauper,</l>
+<l>Pauperiorque domum redeo, non lacte nec edis</l>
+<l>Auctior, invidia et solis iam ditior annis.</l>
+<l>Adde supercilii pondus, quod non gravis equet</l>
+<l>Ethna iugis, non Ossa rigens, non altus Olimpus.</l>
+<l>Id prius equanimis tuleram; indignantior etas</l>
+<l>Est senium, rugeque animos in verba ministrant.</l>
+<l>Triste senex servus! Sit libera nostra senectus.</l>
+<l>Serva iuventa retro est; servilem libera vitam</l>
+<l>Mors claudat; memor usque mei subsiste valeque;</l>
+<l>Me fatum tentare meum sine pascua circum.</l></sp>
+<sp><speaker>GAN.</speaker><l>En animi servum memoris! Sic omnia ventus</l>
+<l>Abstulit? Has mereor grates, hec premia reddis?</l>
+<l>Ut nil prestiterim, multum, licet impar, amavi.</l></sp>
+<sp><speaker>AMI.</speaker><l>Verba quidem verbis, res rebus; purus amori</l>
+<l>Sed solus debetur amor; gratusque memorque</l>
+<l>Sum, quia te semper, postquam michi notus, amavi;</l>
+<l>Et, dum vita comes, si quid michi credis, amabo.</l></sp>
+<sp><speaker>GAN.</speaker><l>Quo properas igitur? Que te magis allicit ora?</l>
+<l>Unanimes que causa repens disiungit amicos?</l>
+<l>Perdit enim servi nomen cui libera mens est.</l></sp>
+<sp><speaker>AMI.</speaker><l>Aspice fagifero tangentem vertice montem</l>
+<l>Nubila, tum gravida fontes tellure crepantes,</l>
+<l>Unde ruens pelagis confunditur unda quaternis;</l>
+<l>Aspice preruptum scopulis extantibus alte</l>
+<l>Ire sub astra iugum. Lapis ille impervius olim,</l>
+<l>Punicus hesperio donec sibi pastor aceto</l>
+<l>Fecit et igne viam, nostris pastoribus ingens</l>
+<l>Diluvium stragemque ferens; hoc forte per estum</l>
+<l>Solus ego ac sitiens nuper sub colle vagabar.</l>
+<l>Gillias erranti se se comitemque ducemque</l>
+<l>Obtulit, et vivas digito direxit ad undas.</l>
+<l>Progredior, vallesque novas et pinguia late</l>
+<l>Rura noto, sed sepe oculos in terga reflectens.</l>
+<l>Iam latus hoc sordere michi, iam turbidus ether</l>
+<l>Cepit ad occasum, iam sidera mesta videri.</l>
+<l>Agnosco validum patrie revocantis amorem;</l>
+<l>Illic et viole melius per roscida pallent,</l>
+<l>Per dumeta rose melius redolentque rubentque,</l>
+<l>Purior ac patrius illic michi prata pererrat</l>
+<l>Rivus, et ausonie sapor est iam dulcior herbe.</l></sp>
+<sp><speaker>GAN.</speaker><l>Spreta fides igitur comitum tam certa piorum,</l>
+<l>Cum quibus et niveas laqueis viscoque columbas</l>
+<l>Gaudebas, dammasque plagis tentare fugaces?</l>
+<l>Cum quibus et Capree soles, umbrasque Leonis,</l>
+<l>Et Tauri flores, et adulte Virginis uvas</l>
+<l>Carpere, vel fando cuntantem impellere noctem,</l>
+<l>Vel longum breviare diem sermone iocisque,</l>
+<l>Et requie molli durum condire laborem?</l></sp>
+<sp><speaker>AMI.</speaker><l>Nil spretum, nisi silva ferox pastorque protervus,</l>
+<l>et gignens aconita solum, et mestissimus auster</l>
+<l>Et plumbo infecti latices, et turbine tortus</l>
+<l>Pulvis, et umbra nocens, et grandinis ira sonore.</l></sp>
+<sp><speaker>GAN.</speaker><l>An prius ista tibi tam longum ignota per evum?</l></sp>
+<sp><speaker>AMI.</speaker><l>Nota prius, fateor; tenuit me pestifer usus</l>
+<l>Luctantem, me vester amor, me forma puelle</l>
+<l>Blandior illecebris. Sed iam cum tempore sensim</l>
+<l>Omnia mutantur; studium iuvenile senecte</l>
+<l>Displicet, et variant cure variante capillo.</l></sp>
+<sp><speaker>GAN.</speaker><l>Hic vulgo iam notus eras, nec carior alter</l>
+<l>Vel michi vel sotiis; silvis errabis in illis,</l>
+<l>Et mecum mansisse voles cupiesque reverti.</l></sp>
+<sp><speaker>AMI.</speaker><l>Nil penitus non esse potest; fortuna gubernat</l>
+<l>Res hominum, valet illa piis obsistere ceptis,</l>
+<l>Illa favere malis. At, si presagia quicquam</l>
+<l>Nostra ferunt certi, levis est ad prima recursus</l>
+<l>Principia. Huc genitor profugus me ruris aviti</l>
+<l>Finibus infantem rapuit, ripaque palustri</l>
+<l>Exposuit miserum atque abiit. Per quattuor inde</l>
+<l>Servio lustra tibi; nulla est iniuria iustus</l>
+<l>Libertatis amor; patrii quoque cura sepulcri est</l>
+<l>Tempestiva seni. Iantandem absiste precari,</l>
+<l>Atque iterum, pater alme, vale, dextramque relaxa.</l></sp>
+<sp><speaker>GAN.</speaker><l>Ah! miser. Et merita quis te cum laude canentem</l>
+<l>Audiet, aut levi describet carmina lauro?</l></sp>
+<sp><speaker>AMI.</speaker><l>Expectando quidem fessus raucusque canendo,</l>
+<l>Attuleram, vereor, vocis fastidia nostre.</l>
+<l>Fors aliis placiturus eo; non una per omnes</l>
+<l>Est hominis fortuna dies. Nunc mane quietum</l>
+<l>Turbida lux sequitur; nunc matutina serenus</l>
+<l>Nubila vesper agit. Sic tempestatibus atris</l>
+<l>Tutus adest portus; sic litora puppe tenentes</l>
+<l>Tempestas inopina ferit. Spes, terror ubique</l>
+<l>Iuxta habitant; fortuna vaga est et protinus, inter</l>
+<l>Quamvis pressa manus, ceu lubricus effluit anguis.</l>
+<l>Nil habet ista magis tua nunc opulentia certi</l>
+<l>Quam mea paupertas; ubi pluris signa favoris</l>
+<l>Et minus est fidei. Sed iam me Gillias, audi,</l>
+<l>Sollicitat damnatque moras, et Phebus hiberum</l>
+<l>Vergit ad oceanum, montem nix occupat altum.</l>
+<l>Balatu moveor pecoris, nec candida dulci</l>
+<l>Mugitu ingeminans cessat revocare iuvenca.</l>
+<l>Ire libet; liceat; nusquam sunt carmina tanti.</l></sp>
+<sp><speaker>GAN.</speaker><l>Men iuvenem pavisse domi et finxisse docendo,</l>
+<l>Ut doctum nova silva senem, novus hospes haberet?</l>
+<l>Sic labor agricolis longus, brevis inde voluptas:</l>
+<l>Arva domant aliis. Sic fessus nauta quietis</l>
+<l>Invehit ancipiti delatas equore merces.</l>
+<l>Nosco meum sidus: aliis utenda paravi.</l>
+<l>Fatum agnosco tuum: primis nam pauper ab annis</l>
+<l>Pauper eris senior, pauper morieris, Amicla.</l>
+<l>I, tamen; ipse meis (quando hoc immobile votum est)</l>
+<l>Te sine, quod nollem, iam solus pascar acervis.</l></sp>
+<sp><speaker>AMI.</speaker><l>Ipse per estatem mediam, vel colle virenti,</l>
+<l>Valle vel umbrosa, nitidique in margine fontis</l>
+<l>Solus apollinea modulans sub fronde sedebo,</l>
+<l>Lanigerumque gregem pascam, et loca florea circum</l>
+<l>Mellificas imitabor apes. Te dives habebit</l>
+<l>Silva, sed urentes turbabunt otia cure.</l></sp></div1>
+<div1 type="egloga"><head>IX</head>
+<head>Querulus</head>
+<stage>Collocutores: <emph>Philogeus</emph> et <emph>Theophilus</emph></stage>
+<sp><speaker>PHI.</speaker><l>Heu lacere fragmenta domus! Heu sidus agello</l>
+<l>Triste meo! Quid votivi nunc stirpibus imbres?</l>
+<l>Quid pecori studium? Segeti quid lenior aura,</l>
+<l>Aut soles valuere pii? Sors aspera ruris</l>
+<l>Semper, et immenso tenuis fortuna paratu!</l>
+<l>Agricola infelix, ubi primum cornua tollens</l>
+<l>Floriger annus adest, circum sua gaudia fertur,</l>
+<l>Rastra manu versans rigida scabrosque ligones;</l>
+<l>Urget in arva boves, sulcoque annixus inheret.</l>
+<l>Inserit hic ramos, herbas hinc ungue nocentes</l>
+<l>Vellit, et utilibus lolium secernit avenis.</l>
+<l>Hinc fodit et ripam bellis brumalibus armat;</l>
+<l>Inde leves prono devertit tramite rivos,</l>
+<l>Nil vel inexpertum linquens, vel segniter idem</l>
+<l>Expertus, sed cunta nimis. Tum nubila ab austro</l>
+<l>Suspicit, et secum pluvias incusat inertes,</l>
+<l>Tranquillosque dies operi ventosque faventes</l>
+<l>Invocat, ac celum precibus votisque fatigat.</l>
+<l>Heu! misero. Postquam sudore exhaustus anhelo</l>
+<l>Spes cernit florere suas iamque horrea laxat,</l>
+<l>Ecce, fremens, sata culta truci vertigine nimbus</l>
+<l>Obruit, et longos anni brevis hora labores</l>
+<l>Una necat, pereuntque seni sua somnia fesso.</l>
+<l>Adde peregrinas volucres populantia campum</l>
+<l>Agmina, tectorum lapsus, incendia, fures;</l>
+<l>Adde gravem morbos nebulam mortesque pluentem,</l>
+<l>Innumerosque gregis casus, hominumque ruinas.</l>
+<l>Qualia nunc flemus mesti! Et vix flere relictum est,</l>
+<l>Ora metus mortis quoniam trepidantia claudit.</l>
+<l>Heu! Heu! Quo me cura tulit? Quo cecus habendi</l>
+<l>Traxit amor? Poteram vulgo quot tutius artes,</l>
+<l>Quot rerum tentare vias! Cur ultima lecta est?</l>
+<l>Paupertate labor mixtus, semperque malignam</l>
+<l>Scalpere tellurem, querulasque optare cicadas?</l></sp>
+<sp><speaker>THE.</speaker><l>Quid gemis? Aut quenam usque adeo fortuna molesta est?</l></sp>
+<sp><speaker>PHI.</speaker><l>Quid gemis? Heu mea rura vides? Fons ecce laborum</l>
+<l>Atque operum! Spes ecce mee! Quid vivere longum</l>
+<l>Fert homini? Nec desinimus nocitura precari.</l>
+<l>Que modo dumivagis fuerant angusta capellis</l>
+<l>Antra, vacant; rareque procul languentis oberrant</l>
+<l>Relliquie armenti, quas mors violenta per orbem</l>
+<l>Spargit et insequitur; non equoris obice vasti,</l>
+<l>Non celi terreque situ, non denique totis</l>
+<l>Caucaseis arcenda iugis; sic omnia victrix</l>
+<l>Proterit et latos depascitur ordine saltus,</l>
+<l>Exemplis caritura quidem, tenuemque nepotum</l>
+<l>Vix habitura fidem, superant si forte nepotes;</l>
+<l>Nec finem modo fata parant imponere rebus.</l></sp>
+<sp><speaker>THE.</speaker><l>Nosse mali causas ingens solet esse levamen.</l>
+<l>Dissere, si nosti, que tante pestis origo.</l></sp>
+<sp><speaker>PHI.</speaker><l>Multa dei celant hominem; non omnia servus</l>
+<l>Clausa videt domini, cum sit mortalis uterque.</l>
+<l>Que tamen in silvis crebrescat fabula, dicam:</l>
+<l>Cerne sinus pelagi geminos, quos maxima frangunt</l>
+<l>Flumina, et adverso dirimentia gurgite terras:</l>
+<l>Hunc hirsuta premit glacies, et bruma perennis</l>
+<l>Asperat, horrificoque infestant murmure tigres;</l>
+<l>Illum blanda rosis non arescentibus estas</l>
+<l>Temperat, et virides fantur per plana volucres.</l>
+<l>Hos, alio prius orta, sinus afflaverat, orbe;</l>
+<l>Hinc nostris translata lues iam regnat in arvis.</l></sp>
+<sp><speaker>THE.</speaker><l>Quo mare tam facili transivit et ethera saltu?</l></sp>
+<sp><speaker>PHI.</speaker><l>Illuc, heu! cupidi (stimulat sua quemque libido)</l>
+<l>Pervenit pars una gregis, sucosque veneni</l>
+<l>Et diras gustavit aquas. Atque inde revertens,</l>
+<l>Mox peritrura, cohors late contagia fudit.</l>
+<l>Pastorem pastor, pecudem pecus inficit egra;</l>
+<l>Spirat enim saniem inclusam pulmonis adusti</l>
+<l>Alitus, infaustis aspirant flatibus euri.</l>
+<l>Intereunt iumenta, boves, durique bubulci;</l>
+<l>Graminaque et segetes vacuis moribundus aristis</l>
+<l>Imminet, et culmum componit messor inanem.</l>
+<l>Nec morbi modus ullus adest; velocibus alis</l>
+<l>Mors volat; externos frustra glomeramus odores.</l>
+<l>His etiam sua pestis inest. Quid demoror? Omnes</l>
+<l>Occidimus, nisi fata minas placata remittunt.</l>
+<l>Quanquam quid reliqui est miseris? Iam falce recurva</l>
+<l>Ultima rura metunt, graia qua vectus ab ora</l>
+<l>Marmoreoque novam designans limite silvam,</l>
+<l>Inclita magnificus posuit confinia pastor.</l></sp>
+<sp><speaker>THE.</speaker><l>Falleris, ah! demens; nam iusta et sera merentes</l>
+<l>Pastores ferit ira Dei, populumque rebellem.</l>
+<l>Effugite, o ceci, securaque poscite regna.</l></sp>
+<sp><speaker>PHI.</speaker><l>Nec mora tuta quidem, nec iam fuga tutior usquam;</l>
+<l>Obvia mors prevertit enim, et, quocunque movemur,</l>
+<l>Mille parat medio laqueos et retia calle.</l></sp>
+<sp><speaker>THE.</speaker><l>Accipe consilium propere; cuntatio namque</l>
+<l>Lenta fuit semper subitis inimica periclis:</l>
+<l>Huc, huc volve oculos; hec est via recta sine ullis</l>
+<l>Insidiis, predura quidem calcataque paucis,</l>
+<l>Sed super aerios arcto que tramite colles</l>
+<l>Perferat et sistat fessum in regione quieta.</l>
+<l>Illic vita habitat; leva sed olentis averni</l>
+<l>Sulphureis stant stagna vadis; ibi lurida mortis</l>
+<l>Signa vides, atroque polum nigrescere fumo.</l>
+<l>Hos evade lacus; dextrum michi prende cacumen.</l></sp>
+<sp><speaker>PHI.</speaker><l>Enitar; tu me sequere et miserere iuvando.</l>
+<l>Quin prior i, tardum attollens, et porrige dextram.</l></sp>
+<sp><speaker>THE.</speaker><l>UItimus ac primus adero, pellamque trahamque;</l>
+<l>Tu modo, nec labor officiat, tibi solus adesto.</l></sp></div1>
+<div1 type="egloga"><head>X</head>
+<head>Laurea occidens</head>
+<stage>Collocutores: <emph>Socrates</emph> et <emph>Silvanus</emph></stage>
+<sp><speaker>SOC.</speaker><l>Quid, Silvane, doles? Tante que causa querele?</l></sp>
+<sp><speaker>SIL.</speaker><l>Heu, Socrates, quem vix reliquum fortuna ruine</l>
+<l>Dura sinit nostre, nescis, dulcissime, nescis</l>
+<l>Quid querar, et quam iusta michi sit causa dolendi?</l></sp>
+<sp><speaker>SOC.</speaker><l>Auguror; especto sed rem cumulatius ex te.</l>
+<l>Fare miser misero; non aspernabere luctus</l>
+<l>Participem comitemque ioci quem letus habebas.</l></sp>
+<sp><speaker>SIL.</speaker><l>Nescis prevalidi rumpunt ut verba dolores?</l>
+<l>Quid me, care, iubes fari? Pastoria nunquid</l>
+<l>Materia est lugere deas? Tamen accipe quantum</l>
+<l>Singultus lacrimeque sinunt. Fuit alta remotis</l>
+<l>Silva locis, qua se, diversis montibus acti,</l>
+<l>Sorga nitens Rodano pallensque Ruentia miscent.</l>
+<l>Hic michi, quo fueram tusco translatus ab Arno,</l>
+<l>(Sic hominum res fata rotant!) fuit aridulum rus.</l>
+<l>Dum colui indigui atque operi successit egestas.</l>
+<l>Id reputans avertor enim piguitque laborum</l>
+<l>Pertesumque inopis studii; tandemque relinquens</l>
+<l>Arva inarata, vagus silvis spatiabar apricis.</l>
+<l>Verum inter scopulos nodosaque robora quercus</l>
+<l>Creverat ad ripam fluvii pulcherrima laurus.</l>
+<l>Huc rapior, dulcisque semel postquam attigit umbra,</l>
+<l>Omnis in hanc vertor; cessit mea prima voluptas.</l>
+<l>Rusticus ardor erat, sed erat gratissimus ardor</l>
+<l>Ille michi insueto, qui me, mortalia prorsus</l>
+<l>Oblitum immemoremque mei, meminisse iubebat</l>
+<l>Hanc unam, curasque et totum huc volvere tempus.</l>
+<l>Sic ruris desertus honos, et quicquid in enses</l>
+<l>Precipitat, pax parta animi, pulsique tumultus;</l>
+<l>Has ego delitias et opes, hec regna putavi.</l></sp>
+<sp><speaker>SOC.</speaker><l>Perge. Quis interea neglecti vultus agelli?</l></sp>
+<sp><speaker>SIL.</speaker><l>Nec novi, nec nosse velim; michi laurea cure</l>
+<l>Sola fuit. Sed iam, Socrates – ignosce – gemendum est.</l></sp>
+<sp><speaker>SOC.</speaker><l>Imo age, perge, precor; pariter lacrimabimur ambo,</l>
+<l>Et pietas communis enim et iactura dolorque.</l></sp>
+<sp><speaker>SIL.</speaker><l>Laurea culta michi, nec me situs asper et horrens</l>
+<l>Arcuit incepto; propriis nec viribus ausus,</l>
+<l>Externos volui consultor adire colonos.</l>
+<l>Nec longe tenuere vie, nec tempus iniquum</l>
+<l>Ac durum tardavit opus. Vulgata tenebam</l>
+<l>Ascrei consulta senis; tamen altius ire</l>
+<l>Mens erat, ac variis artem solidare magistris.</l>
+<l>Dux michi nullus erat, nisi amor fervorque videndi.</l>
+<l>Primum iter in Latium, qua pulcher Mintius uda,</l>
+<l>Formoso de patre oriens, interluit arva.</l>
+<l>Hic Venetum celsis extantem in milibus unum,</l>
+<l>Pastorem agricolam bellatoremque vicissim,</l>
+<l>Conspiciens, dextre modulantem in vertice ripe,</l>
+<l>Accedo et brevibus percontor plurima verbis.</l>
+<l>Iussus ab hoc Asiam graiasque invisere terras,</l>
+<l>Vix Athesim attigeram, patrii qua limina montis</l>
+<l>Deserit et letos fugiens amplecitur agros,</l>
+<l>Ecce veronei per prata virentia Martis</l>
+<l>Ire duos video; canit hic, legit ille salubre</l>
+<l>Herbarum genus et pecori bonus applicat egro.</l>
+<l>Progredior; calidusque Aponus gelidusque Timavus</l>
+<l>Iam spatiis equis aberant, dum pervigil alas</l>
+<l>Intempestivum quatiens dominoque molestum</l>
+<l>Perstrepuit levo ville de culmine Gallus;</l>
+<l>Mox, baculo excussus, mestum cantoribus omen</l>
+<l>Prebuit. Hinc nullo resonantia litora cantu</l>
+<l>Procurvosque sinus tacitus sequor. Obvia tandem</l>
+<l>Rura sonora animum vocemque et verba dedere.</l>
+<l>Letior illa lego. Smyrnam sub fine viarum</l>
+<l>Perventum, cecumque senem, sed multa videntem</l>
+<l>Convenio. Isque, italo missum ut cognovit ab orbe,</l>
+<l>Prosiluit dextramque dedit, nemorumque profundo</l>
+<l>Accubitu et fusca fessum statione recepit,</l>
+<l>Attonitumque manu penetralibus intulit umbris.</l>
+<l>Figo oculos et cuncta libens et singula circum</l>
+<l>Visa noto, cupidumque fruor sermone senili</l>
+<l>Insolitus. Dii, qualem hominem! Quid divite celo</l>
+<l>Subtrahitis terre rarum breve munus egenti?</l>
+<l>Hunc magni circum comites, lectissima turba,</l>
+<l>Stabant. Iuxta autem cuntis sublimior unus,</l>
+<l>Cui grege de toto supremus cesserat hircus,</l>
+<l>Fortunas casusque ducum regumque canebat.</l>
+<l>Nec casum tamen ille suum sortemque repostam,</l>
+<l>Nec tristes in terga canes instare videbat,</l>
+<l>Regibus attonso flendus post fata capillo.</l>
+<l>Iuxta alter senio infractus iuveniliter alta</l>
+<l>Voce canens; furere hinc dictus, sed voce furorem</l>
+<l>Diluit et falso quesivit crimine laudem.</l>
+<l>Sacra, sacerdotes canit hic; ille arma tubasque:</l>
+<l>Inde deum favor, inde virum. Per lesbia captum</l>
+<l>Rura lupum salvumque gregem, iaculoque liraque</l>
+<l>Fretus, et hinc clarus factis, hinc cantibus alter.</l>
+<l>Altera solliciti laqueos cantabat amoris</l>
+<l>Docta puella, choris doctorum immixta virorum,</l>
+<l>Cynnameus roseo calamus cui semper ab ore</l>
+<l>Pendulus, et dulces mulcebant astra querele.</l>
+<l>Hanc Chous late cantata Bachide notus,</l>
+<l>Hanc Clarius caram suspirans carmine Lyden,</l>
+<l>Et quem Cyrenis genitum dedit Africa Nilo;</l>
+<l>Hanc theius samio pastor stupet igne liquescens;</l>
+<l>Nec minus hanc nostrique procul mirantur amantes,</l>
+<l>Voce omnes humili et querula, simul impare cantu.</l>
+<l>Pone senex pueri in gremio, vix mole soporis</l>
+<l>Lumina pressa movens, lenibat cantibus auras;</l>
+<l>Mox siluit victus, cesserunt carmina somno:</l>
+<l>Argutum dircea palus amisit olorem.</l>
+<l>Vidi sidonio pastorem rure profectum,</l>
+<l>Annua quem morbi vis extinctura diebus</l>
+<l>Angeret alternum natalibus, ultima donec</l>
+<l>Una animam doctosque modos abrumperet hora.</l>
+<l>Unum ibi cecropii contemptum in gramine saltus,</l>
+<l>Ingenio rectum, claudum pede, voce calenti</l>
+<l>Sparthanos in bella canes accendere vidi;</l>
+<l>Unum voce parem summis, per litora longe</l>
+<l>Solum, qui populo leges et iura dedisset,</l>
+<l>Iamque senex musis operam daret, urbe relicta.</l>
+<l>Vidi aquilam calvi circumvolitare sedentis</l>
+<l>Ore caput pleno, simul illum lumina campo</l>
+<l>Defixum, immota meditantem carmina fronte.</l>
+<l>Vidi, expectatum ut caneret dulcedine multa,</l>
+<l>Obriguisse senem, vocemque in faucibus imis</l>
+<l>Arctatam. Musas animam rapuisse putares,</l>
+<l>Sic cubito incumbens similisque erat ore canenti:</l>
+<l>Fistula pallenti pendebat muta labello.</l>
+<l>Hunc alius, Musis qui pastor amicior almis,</l>
+<l>Sed minus acceptus silvis et victor ut arte</l>
+<l>Iudicio sic victus erat, de more solebat</l>
+<l>Victorem ridere suum: quod iudicis equi</l>
+<l>Carmen inops, quod fama vagis incertior auris.</l>
+<l>Vidi qui fixas raperet spes, adderet iras,</l>
+<l>Cogeret ad certam flammanti carmine mortem.</l>
+<l>Vidi alium, silvis pulsum, mox carmine dulci</l>
+<l>Extinxisse odium. Quid enim vim carminis equat?</l>
+<l>Temnere opes tanti causam preciumque laboris</l>
+<l>Vidi aliquos, artesque bonas celebrare; sed inter</l>
+<l>Hos fuit ampla sacri lege hac qui iura parentis</l>
+<l>Stringeret; hoc merito doctas laudaret Athenas.</l>
+<l>Vidi qui multre assiduus numeroque superbus,</l>
+<l>Lacte premens fragilem fiscellam rumperet acri;</l>
+<l>Qui nova mactatis oneraret plaustra iuvencis;</l>
+<l>Qui sale terga boum tereret laniata rigenti,</l>
+<l>Et qui sparsa sedens pastorum furta notaret;</l>
+<l>Biblida qui vetito cantaret amore furentem;</l>
+<l>Qui caneret solem ac lunam, stellantiaque arva</l>
+<l>Scinderet et volucri celum sulcaret aratro;</l>
+<l>Qui vivos plectro lapides aptaret ovili,</l>
+<l>Colle sub aonio funeste ad pabula ripe;</l>
+<l>Quique palestrita et pictor primoque sub evo</l>
+<l>Cantor, ad extremum cursorque aucepsque fuisset;</l>
+<l>Quique illi fesso tandem et dormire paranti</l>
+<l>Ex levibus calamis pulvinar stravit amenum;</l>
+<l>Quique, truces cantu solitus mulcere leones,</l>
+<l>Iustitia et cithara insignis, venerabilis annis,</l>
+<l>Incola silvarum primus, quem Trachia vidit</l>
+<l>Aeriam dulci Rodopen dum voce moveret,</l>
+<l>Precipitem fidibus blandis dum sisteret Hebrum.</l>
+<l>Huic duo per montes auritaque rura canenti</l>
+<l>Perpetui comites; dextre germanus inheret,</l>
+<l>Filius at leve; tegit illum linea vestis,</l>
+<l>Iste, sacer musis, plenum de fonte reposto</l>
+<l>Atque pium cratera patri porgebat anelo.</l>
+<l>Inde canum pecudumque fuit volucrumque ferarumque</l>
+<l>Arguti Frigis ad numeros spectare choream.</l>
+<l>Denique Graiorum latebras, Asieque vireta,</l>
+<l>Hebreosque graves et carmine trita minaci</l>
+<l>Gramina Iordanis peregrinaque nomina lustrans,</l>
+<l>Mollia rura Arabum salis indiga ditia mellis,</l>
+<l>Affixusque oculis animoque intentus ubique,</l>
+<l>Vidi alios atque inde alios. Non omnia passim</l>
+<l>Visa sequor. Vidi sicula regione creatum,</l>
+<l>Ac sotios, quibus horridulum cantare voluptas</l>
+<l>Prima gregem, latebrisque minas vitare leonum;</l>
+<l>Quique alios supra tenet ortum a carmine nomen;</l>
+<l>Quique gregem calida gelidus male pavit in Ethna;</l>
+<l>Qui docet ephesios, tirios qui rumpere campos.</l>
+<l>Docto ac dulcisono divulsus ab agmine, tandem</l>
+<l>Flector; ibi unum omnes, nemorum quem turpis habebat</l>
+<l>Angulus, et tenui ridebant pascua nutu,</l>
+<l>Nudus ut ille iugis Macedum raucumque canendo</l>
+<l>Indignum magni predonis rettulit aurum.</l>
+<l>Sed quid ago? Aut patriis quorsum peregrinor ab arvis?</l>
+<l>Doctior inde domum; fesso dum remige portu</l>
+<l>Brundusii egresso iuvenis placidissimus alto</l>
+<l>Occurrens trepidam porrexit ab aggere dextram,</l>
+<l>Maternumque ostendit avum per rura iacentis</l>
+<l>Apulie calabrumque nemus sub valle Galesi,</l>
+<l>Ingenio agricolam nulla tamen arte colentem</l>
+<l>Plana virum video. Nec secum multa locutus,</l>
+<l>Eminus Arunceque ducem populumque saluto,</l>
+<l>Moris aratores veteris; quaque Aufidus equor</l>
+<l>Fertur in adriacum, patrio sub sole perustum,</l>
+<l>Libertum dominoque lira gregibusque placentem</l>
+<l>Alloquor. Inde alius gelidi Sulmonis alumnus</l>
+<l>Multa iocans, longamque aciem per opaca latentum</l>
+<l>Ostendens digito, fuscos aperire recessus</l>
+<l>Tentavit frustra. Vultus densissima nubes</l>
+<l>Texerat ambiguos, dubium vix murmur ad aures</l>
+<l>Aura tulit. Quantum in nobis oblivia possunt!</l>
+<l>Unus in hoc numero, gaudens se condere vivo</l>
+<l>Fonte, deos nemorum fluviorum arsisse puellas;</l>
+<l>Equoreosque alius memorabat carmine nostro</l>
+<l>Insuetum cecinisse deos; aliusque vicissim</l>
+<l>Montanum imparibus carmen variabat avenis.</l>
+<l>Hinc procul, et Latio et musis carissimus afris,</l>
+<l>Fluctivagos alius numerans sub gurgite pisces,</l>
+<l>Aurea plectra, apio cinctus viridante, movebat.</l>
+<l>Hinc alius, rutilumque crocum et candentia carpens</l>
+<l>Lilia, tum varios iungebat in ordine flores.</l>
+<l>Multa libens sileo. Sed iam michi nota tenenti,</l>
+<l>Longa brevi stringens aderat suspiria cantu,</l>
+<l>Paupertas quem tuta iuvet, quem delius ardor.</l>
+<l>Calvus amans alius, restinctam carmine flammam</l>
+<l>Flens quasi supplicium properataque tempora fati;</l>
+<l>Accensamque alius, dubium romanus an umber:</l>
+<l>Umber erat, varieque minax et blandus amice.</l>
+<l>Notior inde alius fluviali occurrit Aquino,</l>
+<l>Turbidus aspectu et ruralibus horridus armis;</l>
+<l>Arpinati alius silva, cui pauper amictus,</l>
+<l>Victus inops ac difficilis, sed leta canenti</l>
+<l>Frons erat et nullo vite turbata labore.</l>
+<l>Protinus hinc gemine tangebant sidera quercus,</l>
+<l>Unde salus pecori bis contigit, altera dextre</l>
+<l>Altera laus lingue; magnos brevis herba iuvencos</l>
+<l>Fecerat; una duos contexerat umbra gigantes.</l>
+<l>Hinc quoque vidi alium campano carmina fastu</l>
+<l>Implentem et multum gracili sibi voce placentem.</l>
+<l>Sic, venerabundus, dominantis limina Rome</l>
+<l>Ingredior. Stupor hic tremulam suppressit avenam</l>
+<l>Pila inter tristesque tubas strepitumque rotarum.</l>
+<l>At studio rerum latia dum demoror urbe,</l>
+<l>Forte procul tenuem dubia vix aure susurrum</l>
+<l>Grandevi senis excipio, doceorque paternis</l>
+<l>Hunc primum cecinisse modis. Audentior alter</l>
+<l>Posteriorque; humili quamvis de stirpe parentum</l>
+<l>Ortus et adriacum iussus migrare Pisaurum,</l>
+<l>Posthabuit quem tunc horrebant undique colles,</l>
+<l>Agrestem summo imperio preponere musam</l>
+<l>Non veritus facilique hedere submittere lauros.</l>
+<l>Hic alienigenam servum, quem carcer honestus</l>
+<l>Fecerat ingenuum multaque ornaverat arte,</l>
+<l>Audivi cantare hominum moresque dolosque</l>
+<l>Atque metus curasque senum et iuvenilia furta</l>
+<l>Lenonumque artes, iam tempore murmuris afri</l>
+<l>Oblitum, atque italo texentem pectine carmen.</l>
+<l>Hic cui relligio silvestris et inclita rerum</l>
+<l>Copia et ignoti nichil usquam, ut prisca ferebat</l>
+<l>Fama, sed Esonides carmen cum vellere fulvo;</l>
+<l>Qui canit Alcidem; qui Thesea; quique, cruentis</l>
+<l>Fratribus in campum adductis, ad mollia castra</l>
+<l>Transfugit occultus blandumque cupidinis agmen.</l>
+<l>Relliquias qui, Troia, tuas et frusta legebat</l>
+<l>Meonio neglecta seni. Qui prole decora</l>
+<l>Coniugio memori studiosum ornaverat usum;</l>
+<l>Qui mensas versuque gregem laceraret edacem,</l>
+<l>Et qui laudate caneret convitia gentis.</l>
+<l>Parcior hunc nono pascebat caseus anno;</l>
+<l>Hunc videas dextra rigidam gestare securim,</l>
+<l>Ornantem officii generoso gutture pompam.</l>
+<l>Hunc gravitas; illum censura severior effert.</l>
+<l>Hic tenui vinclo profugos qui nexuit annos,</l>
+<l>Secula pyerio nisus cohibere furore;</l>
+<l>Pennatas Musas qui martia traxit ad arma,</l>
+<l>Punica dum latio ferveret in orbe procella;</l>
+<l>Indixit qui bella feris, silvasque tumultu</l>
+<l>Miscuit, apta vagis cudens venantibus arma;</l>
+<l>Tramite qui largo troianum Anthenora colles</l>
+<l>Duxit ad Euganeos; necnon, comitante marito,</l>
+<l>Bis raptam fessis Helenam qui reddidit Argis;</l>
+<l>Phillida qui querulam; Pheacum qui voce latina</l>
+<l>Luxuriem moresque canit; quique Hectora supra</l>
+<l>Ylion eversum Troiamque a stirpe revulsam;</l>
+<l>Quique nurum dotemque Iovi convexit opimam.</l>
+<l>Linquo senem, qui discipulum per prata sonorum</l>
+<l>Hesperiamque tubam docto conflaverat ore.</l>
+<l>Linquo virum fortem, posita qui casside, mestus,</l>
+<l>Sed iussus plenusque ire saliebat honeste;</l>
+<l>Unde alium domini vidi meruisse favorem.</l>
+<l>Hic quoque, nam memini, miserum solabar amantem,</l>
+<l>Amentemque magis, cui vis erat ampla canore</l>
+<l>Vocis et ingenii magnus sub pectore torrens.</l>
+<l>Ast amor exitio pastorum publica pestis,</l>
+<l>Blandus ubi immitem peperit furor ille furorem.</l>
+<l>Forte oculos avidumque animum septena per antra</l>
+<l>Nobilibus famosa iugis et opaca moventi,</l>
+<l>Collis, ubi Archadie celeberrima carmine nimpha</l>
+<l>Arte patrum curas fugitivaque verba ligarat,</l>
+<l>Monstratur, celsoque virens in vertice laurus</l>
+<l>Admonuit nostre et dulcem renovavit amorem.</l>
+<l>Tum frondosa, ingens ramis, altissima fagus</l>
+<l>Optatamque gregi gregis ac ductoribus umbram</l>
+<l>Fundebat, volucrum sedes aptissima nidis,</l>
+<l>Assiduumque sonans varioque exercita cantu.</l>
+<l>Atque hic, multa iubens, e sede verendus acerna,</l>
+<l>Formosusque gigas lucum omnem fronte serena</l>
+<l>Et pastorali rus maiestate regebat,</l>
+<l>Otia ni desint, nulli usquam voce secundus.</l>
+<l>Dulciter ille quidem (quanquam raucescere curis</l>
+<l>Musa solet) sed rara canens, frontesque canentum</l>
+<l>Exornans niveis vittis et fronde perenni.</l>
+<l>Ille, ubi pastoris properatum funus amati</l>
+<l>Flevit, inexplicitum carmen mandasse duobus</l>
+<l>Fertur, et angusta limam sub lege dedisse:</l>
+<l>Iusso alacres instare operi, rerumque suarum</l>
+<l>Immemores, aliena manu tractare magistra</l>
+<l>Conspiceres, laudemque alii, sibi velle laborem.</l>
+<l>Tres nemorum dominos et eodem cespite, musis</l>
+<l>Intentos gregibusque simul, spectare decorum,</l>
+<l>Dulce fuit. Quorum unus iter cantabat acuta</l>
+<l>Voce suum; niger ille oculos gestuque venusto,</l>
+<l>Pastorum pavor ac stimulus. Contra ille secundus</l>
+<l>Totus amor, placida doctus nil fronte negare.</l>
+<l>Tertius impexis estus et frigora et imbres</l>
+<l>Assuetus perferre comis; qui, multa videndo,</l>
+<l>Omnes ambierat silvas, cigneaque serum</l>
+<l>Carmina iam properans vicina morte canebat.</l>
+<l>Longe ibi trans fluvium, regum inter busta seorsum,</l>
+<l>Unus erat, rutilus divini ruris arator,</l>
+<l>Qui pinguem scabro sulcabat vomere campum.</l>
+<l>Huic comes hinc prudens, hinc sedulus alter aranti</l>
+<l>Certabant rigido glebas confringere rastro.</l>
+<l>Terra ferax fessique boves et laurea nusquam,</l>
+<l>Nusquam hedere, aut mirtus, viridis non gloria serti,</l>
+<l>Non studium Muse, fragilis vox. Area sacro</l>
+<l>Fonte recens, atque alta domus; tum pinea late</l>
+<l>Silva virens dulcesque olee; gremioque decorum</l>
+<l>Clara fovens roseo puerum stat limine virgo.</l>
+<l>Hic matrona fuit, ortis que lecta remotis</l>
+<l>Vimineis calathis templo aurea poma sacravit.</l>
+<l>Mira loquar supraque fidem; sed carmina vidi</l>
+<l>Hic hominis pariterque aquile bovis atque leonis</l>
+<l>Hispanum nostra modulantem voce iuvencum.</l>
+<l>Procedo, iam ruris opes visurus etrusci:</l>
+<l>Hinc michi Vulterris iuvenis fuit obvius altis,</l>
+<l>Cultor agri rigidus; patrieque in menibus alter</l>
+<l>Lenior, at sterilem versando expertus arenam.</l>
+<l>Cunta dehinc inculta iacent; adversa sed inter</l>
+<l>Imus ad hispanos cultus. Est Corduba testis,</l>
+<l>Civis et alta canens ad solem vertice nudo,</l>
+<l>Nil patrii sermonis habens, nil frontis hibere.</l>
+<l>Testis et Emerita est, et Bilbilis, atque vadosis</l>
+<l>Gadibus ora tepens, noctem que sera diemque</l>
+<l>Ultima surgentem solem videt atque cadentem.</l>
+<l>Hinc ego Burdegalam repetens, in litore cerno,</l>
+<l>Equor ubi ambiguum refluo ferit amne Garumna,</l>
+<l>Multiloquum magnumque senem, quem templa Vasati</l>
+<l>Nominis ausonii dederant. Urbanior inde</l>
+<l>Unus, aquis ubi fessus Atax languentibus exit,</l>
+<l>Occupat eloquio; notus procul ille Larisse,</l>
+<l>Notus apud Thebas. Sedenim tiberina latine</l>
+<l>Docti omnes per rura loqui; tuque, inclita Narbo,</l>
+<l>Carmina piscoso referens accepta Benaco.</l>
+<l>Sum nimius; sed visa trahunt, ignosce, tenentque.</l>
+<l>Dulcia postremo tuguri vix limina parvi,</l>
+<l>Orbe peragrato, et laurum mea regna revisi...</l></sp>
+<sp><speaker>SOC.</speaker><l>Undique convectis ornans, reor, artibus illam.</l></sp>
+<sp><speaker>SIL.</speaker><l>Longus ero, si cunta sequar; sic illa parentis</l>
+<l>Nature et nostro fuerat suffulta favore,</l>
+<l>Ut neque Dodonam, nec Cretam Iupiter illi,</l>
+<l>Nec Venus Ydaliam aut Amathum, Eurotamque Dyana,</l>
+<l>Nec Delon Cirramque suam preferret Apollo.</l>
+<l>Ille quidem assidue, repeto, volucresque sagittas</l>
+<l>Atque arcum pharetramque agilem citharamque solebat</l>
+<l>Illuc ferre suam ramoque aptare virenti.</l>
+<l>Nescio quid (fateor, Socrates; tamen omnia nosti)</l>
+<l>Divinum ramis inerat; per gramina circum</l>
+<l>Ludere Amadriades passim Nimphasque videres.</l>
+<l>Hanc, superum rapido dum fulmine rex quatit orbem,</l>
+<l>Liquerat intactam, solio veneratus ab alto.</l>
+<l>Romuleam vidi sobolem pubemque superbam</l>
+<l>Imperio et trabeis sacras hinc carpere frondes;</l>
+<l>Vidi hominum genus argutum doctumque canendi</l>
+<l>Esse sub hac cupide, et rarissima texere serta.</l>
+<l>Ipse ego (quid longus, quid non valet improbus usus?)</l>
+<l>Edidici variare modos, ac multa per herbam</l>
+<l>Sed non magna canens, demum me frondibus isdem</l>
+<l>Exorno; celsos poteram nec prendere ramos,</l>
+<l>Ni sublatum humeris tenuisset maximus Argus.</l>
+<l>Hinc michi primus honor, dulcis labor, otia leta,</l>
+<l>Pastorumque favor multus, collesque per omnes</l>
+<l>Illicet agnosci incipio digitoque notari.</l>
+<l>Laurea cognomen tribuit michi, laurea famam,</l>
+<l>Laurea divitias; fueram qui pauper in arvis,</l>
+<l>Dives eram in silvis, nec me felicior alter.</l>
+<l>Sed letum fortuna oculo suspexit iniquo:</l>
+<l>Forte aberam, silvasque ieram spectare vetustas;</l>
+<l>Pestifer hinc eurus, hinc humidus irruit auster;</l>
+<l>Ac, stratis late arboribus, mea gaudia laurum</l>
+<l>Extirpant franguntque truces, terreque cavernis</l>
+<l>Brachia ramorum, frondesque tulere comantes.</l>
+<l>Hei michi! Quo nunc fessus eam? Quibus anxius umbris</l>
+<l>Recreer, aut ubi iam senior nova carmina cantem?</l>
+<l>Illic notus eram; quo nunc vagus orbe requirar?</l>
+<l>Que me terra capit? Potes ad tua damna reverti,</l>
+<l>Infelix, sparsasque solo conquirere frondes</l>
+<l>Et laceros ramos, et iam sine cortice truncum</l>
+<l>Amplecti, lacrimisque arentia membra rigare.</l>
+<l>Ibis? An ignotas fugies moriturus in oras,</l>
+<l>Infaustum vivaxque caput? Dulcissima rerum</l>
+<l>Spes abiit. Quid vita manes invisa fruenti?</l>
+<l>Quid fragilis lentusque dolor precordia versas?</l></sp>
+<sp><speaker>SOC.</speaker><l>Pertimui, longeque aliud te flere putavi.</l></sp>
+<sp><speaker>SIL.</speaker><l>Heu! heu! parva igitur flendi tibi causa videtur?</l></sp>
+<sp><speaker>SOC.</speaker><l>Nulla quidem potius; lacrimosis parce querelis:</l>
+<l>Est dolor usque loquax. Laurum non eurus et auster,</l>
+<l>Sed superi rapuere sacram et felicibus arvis</l>
+<l>Inseruere dei; pars corticis illa caduci</l>
+<l>Oppetiit, pars radices vivacior egit</l>
+<l>Elisiosque novo fecundat germine campos.</l>
+<l>Vidimus his oculis superos, Silvane, verendos</l>
+<l>Leniter avulsam meliori in parte locantes.</l></sp>
+<sp><speaker>SIL.</speaker><l>Vidisti? An mesto solamen fingis amico?</l></sp>
+<sp><speaker>SOC.</speaker><l>Vidi equidem et comperta loquor. Vestigia suplex</l>
+<l>Consequere, atque precare aditum, verbisque caveto</l>
+<l>Invidiam conflare deis; quod honestius opta,</l>
+<l>Transire in terras, ubi nunc tua gloria vivit.</l></sp>
+<sp><speaker>SIL.</speaker><l>Dii faciant: precor ecce humilis semperque precabor.</l></sp></div1>
+<div1 type="egloga"><head>XI</head>
+<head>Galathea</head>
+<stage>Collocutrices: <emph>Niobe</emph>, <emph>Fusca</emph> et <emph>Fulgida</emph></stage>
+<sp><speaker>NIO.</speaker><l>Duc, soror, ad tumulum gelidique ad saxa sepulcri.</l></sp>
+<sp><speaker>FUS.</speaker><l>Quid lacrimis alimenta petis, germana? Quid optas?</l></sp>
+<sp><speaker>NIO.</speaker><l>Est gemitus magni solamen grande doloris,</l>
+<l>Afflictamque animam relevant suspiria, questus.</l>
+<l>Enecat arctatus mentem dolor; optima mesti</l>
+<l>Pectoris est medicina palam lugere. Fuisset</l>
+<l>Idem animus semper! Nunquam hec precordia torpor</l>
+<l>Verteret in silicem; nocuit tacuisse dolenti.</l>
+<l>Mitto autem; cupidam modo duc ubi copia flendi.</l></sp>
+<sp><speaker>FUS.</speaker><l>Carpe iter hac qua nodosis innexa capistris</l>
+<l>Colla boum, crebrasque canum sub limine parvo</l>
+<l>Videris excubias gilvosque ad claustra molossos.</l>
+<l>Ille locus tua damna tegit, iamque aspice contra:</l>
+<l>Hic Galathea sita est, qua nil natura creavit</l>
+<l>Pulcrius in terris, nisi nos amor usque fefellit.</l>
+<l>Depone hic quodcunque premit; complectere bustum;</l>
+<l>Oscula fer saxis; umbre dic verba silenti.</l>
+<l>Heu nimis arcta domus, tanto domus atra decori!</l>
+<l>Hec sedes, Galathea, tibi est? Quam fulgere cernens</l>
+<l>Sol stupuit, fassusque parem fassusque subinde</l>
+<l>Maiorem, attonitus serum se se abdidit undis.</l>
+<l>Hec sedes, Galathea, tibi? Vos sidera celo</l>
+<l>Statis? In occiduo ludis temone, Boete?</l>
+<l>Iupiter, ore poli lustras convexa sereno?</l>
+<l>Is gelidus cum falce senex, armatus Orion?</l>
+<l>Luna, vices peragis solitas, volucerque deorum</l>
+<l>Interpres, nomenque Venus positura vicissim?</l>
+<l>Hic pallens, Galathea, iaces: iam terra cinisque,</l>
+<l>Iam nichil; etherea nisi forsan spiritus arce</l>
+<l>Vivit, et inde videt flentes tranquillus amicas.</l>
+<l>Nil michi respondes, anime pars altera nostre,</l>
+<l>Optima pars eadem? Dextras adhibete precanti,</l>
+<l>Siqua fides mundo est, pietas seu prisca superstes.</l>
+<l>Heu! Lapidem infestum qua nunc, soror, arte revolvam?</l>
+<l>Irruam in amplexus, figam oscula; dulce cadaver</l>
+<l>Hoc referam moribunda sinu, fotumque sacellis</l>
+<l>Inferam et archanis divum penetralibus abdam.</l>
+<l>Addam perpetuos celebret quos mundus honores;</l>
+<l>Virgineos addam cetus, ritusque verendos</l>
+<l>Et sua sacra dee; nec fax nec carmina deerunt,</l>
+<l>Femineas longe lateque sonantia laudes.</l>
+<l>Heu michi predurum lapidem, grave pondus inersque!</l>
+<l>Deficio sub fasce, soror, nitensque fatisco.</l></sp>
+<sp><speaker>FUS.</speaker><l>Surge, soror, surge; sacrumque cadavere corpus</l>
+<l>Commaculare cave. Placeant presentia; frustra</l>
+<l>Preteritum expectes; tuta est oblivio amanti.</l>
+<l>Nempe hesterna dies ulla nequit arte reverti;</l>
+<l>Mors adimit curas, mors omnia vincla resolvit.</l>
+<l>Iam satis est fletum, nostros mors fregit amores.</l></sp>
+<sp><speaker>NIO.</speaker><l>Fregissetque utinam nostros mors equa labores!</l>
+<l>Speravi, prope nam steterat; miseramque fefellit.</l>
+<l>Vivo, sed infelix, et luctus servor in omnes.</l></sp>
+<sp><speaker>FUS.</speaker><l>Parcius! En levo tristis tibi Fulgida calle</l>
+<l>Advenit, et tacita castigat fronte querelas.</l></sp>
+<sp><speaker>FUL.</speaker><l>Quid, misere ceceque animi, mortalia fletis</l>
+<l>Tam graviter? Quid fles, Niobe? Quin incipe vitam</l>
+<l>Scire pati, quamcunque dedit sors dura dabitque.</l>
+<l>Et me torquet amor, desiderioque meorum</l>
+<l>Permoveor. Sed quid facias? Arma irrita calces</l>
+<l>adversus stimulum; melior patientia pressis;</l>
+<l>Multa sibi facit ipse animus leviora ferendo.</l>
+<l>Quid gemitis? Moritura fuit Galathea; deinceps</l>
+<l>Immortalis erit. Proprio tabescere damno</l>
+<l>Non amor; alterius sortem lugere secundam</l>
+<l>Invidia est. Quantum nobis decesserit omnes</l>
+<l>Scimus, et ingrato quantum decesserit orbi;</l>
+<l>Sed ferimus. Vos desinite, ac meliora tenentem</l>
+<l>Suspicite, et celum terris optate relictis.</l></sp>
+<sp><speaker>FUS.</speaker><l>Fabula! Quis alis celum terrestria prendent?</l></sp>
+<sp><speaker>FUL.</speaker><l>Ethereis; sic terra suum, sic astra reposcunt.</l></sp>
+<sp><speaker>FUS.</speaker><l>Credulitas vulgata quidem; nos certa probamus.</l></sp>
+<sp><speaker>FUL.</speaker><l>Fusca, locis imis habitas; nos summa tenemus,</l>
+<l>Et celi terreque situm speculamur ab alto.</l></sp>
+<sp><speaker>NIO.</speaker><l>Ambages veteres et inenodabile verum</l>
+<l>Mittite, et integram venturis tradite litem.</l>
+<l>Fulgida, quin potius (Musas nam noscis agrestes)</l>
+<l>Dic titulum busto, relegat quem serior etas.</l></sp>
+<sp><speaker>FUL.</speaker><l>Hic liquit Galathea suum pulcherrima corpus;</l>
+<l>Libera iamque polos et regia tecta Tonantis</l>
+<l>Ipsa quidem superumque choros mensasque frequentat.</l>
+<l>Mors roseos artus, mors candida colla genasque</l>
+<l>Sidereosque oculos tetigit, vultusque serenos</l>
+<l>Obscura demersit humo. Mortalia quisquam</l>
+<l>Diligat, aut speret stabiles hic figere plantas?</l>
+<l>Quid genus, aut probitas? Quid opes? Quid forma? Quid etas?</l>
+<l>Quid ve decens cultus? Quid gloria nominis ingens?</l>
+<l>Omnia contigerant; manus abstulit omnia mortis.</l>
+<l>Nuda, domum repetens, e carcere fugit amato.</l></sp>
+<sp><speaker>NIO.</speaker><l>Nuda quidem minime, quam gloria vestit, amictus</l>
+<l>Clarior assidue longisque recentior annis.</l>
+<l>Hanc quecunque sibi vultuque animoque per evum</l>
+<l>Aut cantu aut sermone placens cupiensque placere,</l>
+<l>Deferet ante oculos; hanc nos, dum spiritus iste</l>
+<l>Artubus herebit miseris et vivere coget,</l>
+<l>Hanc, vel apud Manes nebulosaque flumina Lethes,</l>
+<l>Exemplarque pudicitie formamque decoris,</l>
+<l>Corde sub hoc semper memori pietate feremus.</l>
+<l>Tum nostro, Galathea, tuum de pectore nomen</l>
+<l>Exibit, fugient propriis dum sedibus astra,</l>
+<l>Mellis apes studium linquent, nidosque columbe,</l>
+<l>Coniugium turtur, predam lupus, arbuta capre,</l>
+<l>Custodita dolos mulier, mendacia servus.</l></sp></div1>
+<div1 type="egloga"><head>XII</head>
+<head>Conflictatio</head>
+<stage>Collocutores: <emph>Multivolus</emph> et <emph>Volucer</emph></stage>
+<sp><speaker>MUL.</speaker><l>Que nova fers, Volucer? Quisnam stupor? Unde vehis te?</l></sp>
+<sp><speaker>VOL.</speaker><l>Arduus in tenero pingues Pan gramine tauros</l>
+<l>Et molles pascebat oves; Pan maximus olim</l>
+<l>Pastorum et silva late celeberrimus omni,</l>
+<l>Faustula quem complexa sinu mulcente fovebat.</l>
+<l>Viderat hunc fusca gelidaque sub ilicis umbra</l>
+<l>Arthicus armipotens, secumque hec, turbidus ira:</l>
+<l>«Hunccine perpetua gaudentem pace videbo,</l>
+<l>Securoque sinam resupinum stertere sommo?</l>
+<l>Sit satis hanc novi, (dextramque erexit in altum)</l>
+<l>Excutiam madida cerebri de sede soporem».</l>
+<l>Dixit, et omne fretum refugasque exterruit undas,</l>
+<l>Horridaque extremis vox est audita Britannis.</l>
+<l>At, sonitu ingenti penitus torpore fugato,</l>
+<l>Pan caput extulerat, gremioque innixus amice,</l>
+<l>Multa prius secum frendens, ac multa volutans:</l>
+<l>«Unde – ait – ista tibi tam insulsa superbia, demens?</l>
+<l>Unde furor? Nescis vires, stolidissime, nostras?</l>
+<l>Spernis opum cumulos, spectatos spernis amicos?</l>
+<l>Experiere quidem; serum tentasse dolebis».</l>
+<l>«Fidus avaritie nunquam continget amicus,</l>
+<l>(Ille refert) at divitie sunt premia belli.</l>
+<l>His ne putas tardare minis? Incendis et urges.</l>
+<l>Desine, nec ventos, nec turgida verba timemus.</l>
+<l>Est animus, sunt arma michi, dubiisque probatum</l>
+<l>Pectus amicorum. Sunt qui tibi terga, iubente</l>
+<l>Me, feriant, dextrumque premant latus atque sinistrum;</l>
+<l>Ipse genas frontemque manu baculoque retundam.</l>
+<l>Non tibi par animus, non est manus apta duello».</l>
+<l>Pan timuit, flectensque oculos, hinc aspicit atque hinc</l>
+<l>Intonsis instare ferox pastoribus agmen.</l>
+<l>Sustulit horrificam vocem, qua flumina et agri,</l>
+<l>Et mare vicinum infremuit, collesque remoti;</l>
+<l>Ac procul aeriam clamor pervenit ad Alpem.</l>
+<l>Undique conveniunt, et qui per frigida Tempe</l>
+<l>Herbivagos aluere greges armentaque belli</l>
+<l>Grata deo, et qui lanifice dilecta Minerve,</l>
+<l>Et qui frondipetas nemoroso monte capellas</l>
+<l>Glandilegosque sues et amantes prata iuvencos.</l>
+<l>Turba ingens; unoque omnes in gurgite tandem</l>
+<l>Sordidulum lavere pecus, qua rura secanti</l>
+<l>Dux Italus fluvio dedit aurea cingere templa.</l>
+<l>Tot deerant alimenta viris, nisi Pana virili</l>
+<l>Faustula sollicitum curarum parte levasset;</l>
+<l>Nam grege de magno decimum largissima quemque</l>
+<l>Obtulit, atque famem sedavit pinguibus edis.</l>
+<l>«Ah! meretrix, – obliqua tuens, ait Arthicus illi – </l>
+<l>Immemorem sponsi cupidus quam mungit adulter,</l>
+<l>Hec tua tota fides? Sic, sic, aliena ministras?»</l>
+<l>Erubuit, nichil ausa palam, nisi mollia pacis</l>
+<l>Verba; sed assuetis noctem complexibus egit,</l>
+<l>Et tacitam submisit opem. Muliebribus ardens</l>
+<l>Atque imbuta odiis, occultas ruminat iras;</l>
+<l>At gelido stat flamma metu. Iam brachia uterque</l>
+<l>Pastor ad ambigui certaminis orsa parabat;</l>
+<l>Iam studiis adverse acies, iamque arma fremebant.</l>
+<l>Queque suos vocat ore deos: Hec menia Troie,</l>
+<l>Arturumque canit; pugilum canit illa labores,</l>
+<l>Monstrificumque refert Carolum. Tum iurgia late</l>
+<l>Iactantur, toto volitant convitia celo.</l>
+<l>Pan fraudes pensique nichil fandique piique,</l>
+<l>(Nota quod infamis testetur fabula caude)</l>
+<l>Obicit, exiliique locos et inhospita tesqua</l>
+<l>Hostibus humani generi, lingueque trementis</l>
+<l>Barbariem, et rauco crepitantia verba palato.</l>
+<l>Ille autem: «Tibi verba placent, michi facta relinque.</l>
+<l>Et tamen expediam nodosa volumina lingue,</l>
+<l>Et loquar ecce aliquid; faciet res ipsa disertum:</l>
+<l>Te ne tegis digito? Periuria, furta, rapinas</l>
+<l>Novimus, oppressos homines, elusa deorum</l>
+<l>Numina, que dignas tandem me vindice penas</l>
+<l>Exposcunt; orantque preces lacrimeque perorant</l>
+<l>Quas anus infelix, mulier miserabilis, expes,</l>
+<l>Pollicitis decepta tuis, noctesque diesque</l>
+<l>Fundit, et ingratum queritur deserta nepotem,</l>
+<l>Serva canum. Tu prima quidem, tu summa malorum</l>
+<l>Causa, negas? Scelerum semper tu perfidus auctor,</l>
+<l>Induis arma fremens, eadem mox abicis arma.</l>
+<l>Illa gemit surdumque vocat, non irrita iusto,</l>
+<l>Spes ubi nulla tui, mittens suspiria celo.</l>
+<l>Mater et ipsa dolens rogitat misereque sorori,</l>
+<l>Increpitans te, poscit opem, fratresque superbo</l>
+<l>Affusi mestique greges silveque precantur.</l>
+<l>Quem non movissent? Sed inesorabilis unus,</l>
+<l>Durus, inhumanus, ferus, horrens despicis omnes.</l>
+<l>Quid tamen officio retrahit, nisi pectoris ardor</l>
+<l>Impius et fulvi sitis importuna metalli?</l>
+<l>Scilicet attonitus fulgenti incumbis acervo.</l>
+<l>Hinc stupor ille oculis, hinc illa oblivio menti</l>
+<l>Celestum atque anime. Sed quem tibi crimina finem</l>
+<l>Promittunt, audi; nam sepe illustria multum</l>
+<l>Multum animos exempla movent: In flumine tusco</l>
+<l>Pastor avarus erat, quem par sitis impulit, equi</l>
+<l>Federis oblitum, patrios transcendere saltus.</l>
+<l>Occidit is merito. Gravis at contagia culpe</l>
+<l>Immeritum parili traxerunt turbine natum,</l>
+<l>Infaustumque gregem innumeris texere sagittis.</l>
+<l>Nunquam, si fidei vel si memor ille decoris,</l>
+<l>Parcius aut sitiens, tanta cum strage suorum</l>
+<l>Assirias gustasset opes aurique saporem».</l>
+<l>Arthicus hec torrens. Motus Pan talia contra:</l>
+<l>«Si vacat exemplis tempus dare: Sevus Eoum</l>
+<l>Pastor ad Eufratem fuerat, cui sanguine fuso</l>
+<l>Esset, – inhumanum! – sitienti horrenda voluptas.</l>
+<l>Ille ferox similisque tui confinia ruris,</l>
+<l>Sevitia stimulante pari, dum despicit ampli,</l>
+<l>Incustoditos vidue trascendit in agros,</l>
+<l>Incautumque neci natum dedit. Anxia mater</l>
+<l>Omnem continuit fixa sub mente dolorem,</l>
+<l>Evomuitque simul. Pastor temerarius ictu</l>
+<l>Feminei mucronis obit, truncusque gelato</l>
+<l>Non aurum bibit ore nitens, sed pocula Martis,</l>
+<l>Concretam saniem et tepidum de cede cruorem».</l>
+<l>«Ergo, age; quando pares exemplis, (Arthicus infit)</l>
+<l>Brachia tentemus, succedant verbera verbis.</l>
+<l>Quid, modo Colchorum, volucres, orientis odores;</l>
+<l>Quidve gule et ventris irritamenta capacis</l>
+<l>Omnia? Quid pelago vehemens echinus, inersque</l>
+<l>Rumbus, et ornati squamis rutilantibus, olim</l>
+<l>Ferreus aurata quos fixerit hamus arena,</l>
+<l>Sub venetis clam mersus aquis? Quid vulnere crebro</l>
+<l>Si qua vel hispano natat ingens belua ponto,</l>
+<l>Vel lybicis iactata vadis, peregrinaque monstra</l>
+<l>Profuerint? Quid palmitibus seu dempta falernis,</l>
+<l>Seu Ligurum decerpta iugis ardentia vina?</l>
+<l>Queque ferax gemino transmisit colle Vesevus</l>
+<l>Dolia, precipiti rapidum spumantia musto?</l>
+<l>Queque dedit Meroe, soli subiecta propinquo?</l>
+<l>Preterea, quid lenta quies, quid mollis in umbra</l>
+<l>Et sopor et rauci per florea gramina fontes?</l>
+<l>Omnia in exitium vertent, et blanda voluptas</l>
+<l>Conficiet bellum. Mulier tua sola iuvare</l>
+<l>Te volet et poterit! Validum prius egra leonem</l>
+<l>Sternet ovis, prius armigerum philomena tonantis.»</l>
+<l>Dixerat. Ille autem: «Quorsum per iurgia tandem?</l>
+<l>Quid mecum comune tibi?» «Nil – Arthicus inquit – </l>
+<l>Nil tecum comune michi; nam, iudice fato,</l>
+<l>Destituunt victum, victorem cunta sequuntur.</l>
+<l>Huius in arbitrium non nostra sponte venimus;</l>
+<l>Tu cogis, tu iustitie contemptor et equi,</l>
+<l>Quem cecum fortuna facit pariterque superbum.</l>
+<l>Quid tua nunc numeras? Tumidos quid volvis ocellos?</l>
+<l>Undique venturos iam iam tibi fingis amicos?</l>
+<l>Obstruxit tua fama vias; in tempore iussi</l>
+<l>Tum (michi crede) aderunt, lentus dum luce sub una</l>
+<l>Gramine caucaseo pastus bibet agnus Hiberum».</l>
+<l>Hec dicens, medie pedibus iam stagna paludis</l>
+<l>Frangebat. Pan contra aditus et ovilia sepsit</l>
+<l>Vepribus, et fluvio circumdedit antra sequaci.</l>
+<l>Transierat; subitoque ingens per rura tumultus</l>
+<l>Exoritur. Timui, fateor, meque inde recepi,</l>
+<l>Panaque turbatum penitusque per arva liqui</l>
+<l>Solivagum; mox, ambigua dum mente reflector,</l>
+<l>Heu! victum vinctumque gravi sine mora catena</l>
+<l>Prospicio trans stagna rapi, non libera celo</l>
+<l>Brachia, sed meste rorantia lumina frontis</l>
+<l>Tollentem, ac tales iactantem in nubila questus:</l>
+<l>«Cernitis hec, superi, seu quidnam intervenit umbre?</l>
+<l>Ceca rotat fortuna fidem, regit omnia fatum!»</l></sp>
+<sp><speaker>MUL.</speaker><l>I; nunc in rebus spem certam pone secundis.</l></sp></div1>
+</body>
+</text>
+</TEI.2>

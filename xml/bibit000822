@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie</title>
+      <author>Migliore di Lorenzo Cresci</author>
+    </titleStmt>
+    <extent>3 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000822</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Lirici toscani del Quattrocento</title>
+        <title type="part">v.</title>
+        <editor id="ed">Lanza, Antonio</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1973</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="codice">italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-01-21T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-05-27T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="poesia">
+<head>I</head>
+
+<lg type="sonetto"><lg>
+<l>La mente col pensier sempre mi porta</l>
+<l>là dove usato di veder m'è tolto</l>
+<l>quell'oggetto leggiadro e quel bel volto,</l>
+<l>che spesso immaginando mi conforta.</l>
+<l>E se speranza non è spenta o morta,</l>
+<l>sarà felice nel pensar rivolto</l>
+<l>quel dolce ragionar che dentro ascolto;</l>
+<l>ch'affanno per diletto si sopporta,</l>
+<l>po' che l'avversa plaga ci dirime</l>
+<l>per l'usato d'amor pien d'ogni inganni,</l>
+<l>ché quanto più s'oppon par ben sublime.</l>
+<l>Sarò contento fra sì lunghi affanni,</l>
+<l>se basta el lamentar per prose o rime,</l>
+<l>pognendo mie speranza al fin degli anni.</l>
+</lg>
+</lg></div1>
+<div1 type="poesia">
+<head>II</head>
+<argument><p rend="italic">In morte del Burchiello.
+</p></argument>
+<lg type="sonetto"><lg>
+<l>Se mai meritamente infra costoro</l>
+<l>fu dura morte, questa par più dura,</l>
+<l>che 'l vivere a costui nieghi natura,</l>
+<l>che più degne le scienze [fece] loro.</l>
+<l>Piangan gli dei e le dee tanto tesoro,</l>
+<l>silvani fauni, satiri e ogni rura,</l>
+<l>e piangan sempre infin che 'l nome dura,</l>
+<l>che piagne delle Muse il sacro coro.</l>
+<l>Ma tale ingegno divo, alto e sublime</l>
+<l>(ch'ogni acqua corse el burchiel con sue vele),</l>
+<l>raconsola costor, ché fama il noma,</l>
+<l>e le mite risposte e dolci rime;</l>
+<l>è degna morte, benché par crudele,</l>
+<l>a dargli per sepolcro l'alma Roma.</l>
+
+</lg>
+</lg></div1>
+</body>
+</text>
+</TEI.2>

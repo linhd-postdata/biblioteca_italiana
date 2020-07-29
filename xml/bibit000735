@@ -1,0 +1,2037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>La Feroniade</title>
+      <author>Vincenzo Monti</author>
+    </titleStmt>
+    <extent>92 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000735</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Opere</title>
+        <author>Monti, Vincenzo</author>
+        <editor id="ed">Valgimigli, Manara</editor>
+        <editor id="ed2">Muscetta, Carlo</editor>
+        <publisher>R. Ricciardi</publisher>
+        <pubPlace>Milano [ecc.]</pubPlace>
+        <date>1953</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.6 - POESIA ITALIANA, 1748-1814</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-03-25T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-03-25T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1><head>CANTO I</head>
+
+<lg><l>I lunghi affanni ed il perduto regno</l>
+<l>di Feronia dirò, diva latina,</l>
+<l>che del suo nome fe' beata un giorno</l>
+<l>di Saturno la terra. Ella per fiere</l>
+<l>balze e foreste errò gran tempo esclusa</l>
+<l>da' suoi santi delubri, e molto pianse,</l>
+<l>dai superbi disdegni esercitata</l>
+<l>d'una diva maggior, che l'inseguìa,</l>
+<l>finché novelli sacrifici ottenne</l>
+<l>sugli altari sabini, e le fur resi</l>
+<l>per voler delle Parche i tolti onori.</l></lg>
+<lg><l>Ma qual de' numi l'infelice afflisse,</l>
+<l>e lei, ch'era pur diva, in tanto lutto</l>
+<l>avvolgere potéo? Fu la crudele</l>
+<l>moglie di Giove, e un suo furor geloso.</l>
+<l>Tu che tutte ne sai l'alte cagioni,</l>
+<l>tu le mi narra, o Musa, e dall'obblìo</l>
+<l>traggi alla luce il memorando fatto</l>
+<l>non ancor manifesto in Elicona.</l>
+<l>E se dianzi di nuove itale note</l>
+<l>l'ira vestendo del Pelìde Achille,</l>
+<l>alcuna meritai grazia, o mercede,</l>
+<l>su questi carmi, che tentando or vegno,</l>
+<l>di quel nettare, o Dea, spargi una stilla,</l>
+<l>che dal meonio fonte si deriva,</l>
+<l>non già quando con piena impetuosa</l>
+<l>gl'iliaci campi inonda, a tal che gonfi</l>
+<l>dell'alta strage Simoenta e Xanto</l>
+<l>al mar non ponno ritrovar la via,</l>
+<l>ma quando, lene mormorando, irriga</l>
+<l>i feacii giardini: e dolce rendi</l>
+<l>su le mie labbra la pimpléa favella.</l></lg>
+<lg><l>Là dove imposto a biancheggianti sassi</l>
+<l>su la circéa marina Ansuro pende,</l>
+<l>e nebulosa il piede aspro gli bagna</l>
+<l>la pomezia palude, a cui fan lunga</l>
+<l>le montagne Lepine ombra e corona,</l>
+<l>una ninfa già fu delle propinque</l>
+<l>selve leggiadra abitatrice, ed era</l>
+<l>il suo nome Feronia. I laurentini</l>
+<l>boschi, e quei che la fulva onda nudrisce</l>
+<l>del sacro fiume tiberin, quantunque</l>
+<l>di Canente superbi e di Pomona,</l>
+<l>non videro giammai forme più care.</l>
+<l>Qual verno fiore che segreto nasce</l>
+<l>in rinchiuso giardin, né piede il tocca</l>
+<l>di pastor, né di greggia; amorosetta</l>
+<l>l'aura il molce, di sue tremule perle</l>
+<l>l'alba l'ingemma, e lo dipinge il sole</l>
+<l>di sì vivo color, che il crine e il seno</l>
+<l>d'ogni donzella innamorata il brama;</l>
+<l>tal di Feronia la beltà crescea.</l>
+<l>Era diletto suo di peregrine</l>
+<l>piante e di fiori in suolo estranio nati</l>
+<l>l'odorosa educar dolce famiglia,</l>
+<l>propagarne le stirpi, e cittadina</l>
+<l>dell'ausonio terren farne la prole.</l>
+<l>Sotto la mano della pia cultrice</l>
+<l>ricevean nuove leggi e nuova vita</l>
+<l>le selvatiche madri, e, il fero ingegno</l>
+<l>mansuefatto e il barbaro costume,</l>
+<l>del ciel cangiato si godean superbe.</l>
+<l>Ed essa la gentil ninfa sagace</l>
+<l>con lungo studio e paziente cura</l>
+<l>i tenerelli parti ne nudrìa,</l>
+<l>castigando i ritrosi, e a culto onesto</l>
+<l>traducendo i malnati. Essa il rigoglio</l>
+<l>ne correggeva ed il non casto istinto,</l>
+<l>essa gli odii segreti e i morbi e i sonni</l>
+<l>e gli amor ne curava e i maritaggi,</l>
+<l>securo a tutti procacciando il seggio,</l>
+<l>e salubri ruscelli ed aure amiche;</l>
+<l>né violarli ardìa co' morsi acuti</l>
+<l>d'Orizia il rapitor, che irato altrove</l>
+<l>volgea le furie, e con le forti penne</l>
+<l>l'antiche flagellava àppule selve,</l>
+<l>o di Lucrino i risonanti lidi.</l></lg>
+<lg><l>Ma chi potrìa di tutti a parte a parte</l>
+<l>il sesso riferir, la patria, il nome?</l>
+<l>V'era la rosa che mandâr primieri</l>
+<l>di Damasco i giardini e di Mileto;</l>
+<l>quella rosa che poi, nel fortunato</l>
+<l>grembo translata dell'ausonia terra,</l>
+<l>fu pestana nomata e prenestina.</l>
+<l>Sua sorella minor, ma di più grido,</l>
+<l>le fioriva da canto la modesta</l>
+<l>licnide figlia delle ambrosie linfe,</l>
+<l>di che le Grazie un dì le belle membra</l>
+<l>lavâr di Citerea, quando dai primi</l>
+<l>ruvidi amplessi di Vulcan si sciolse.</l></lg>
+<lg><l>Altro amor di Ciprigna in altra parte</l>
+<l>l'amaraco olezzava. In su la sponda</l>
+<l>l'avean del Xanto le sue rosee dita</l>
+<l>piantato; e il petto e le divine chiome</l>
+<l>adornarsi di questo ella solea,</l>
+<l>quando desire la pungea di farsi</l>
+<l>al suo fero amatore ancor più bella.</l></lg>
+<lg><l>Ecco prole gentil d'egizia madre</l>
+<l>vivaci aprirsi su l'allegro stelo</l>
+<l>il sonnifero loto e il molle acanto</l>
+<l>che alla soave colocasia gode</l>
+<l>intrecciar le sue fronde. Ecco il portento</l>
+<l>dell'arte, che talor vince natura,</l>
+<l>il superbo ranuncolo, un dì vile</l>
+<l>mal noto fiore, ed or per l'opra e il senno</l>
+<l>di Feronia, che molto amor gli pose,</l>
+<l>fatto sì bello, che il diresti rege</l>
+<l>degl'itali giardini. Aleppo e Cipro,</l>
+<l>Candia, Rodi e Damasco in umil pompa</l>
+<l>il mandaro alla Diva; ed ella, esperta</l>
+<l>de' botanici arcani, immantinenti</l>
+<l>di variate polveri ne sparse</l>
+<l>l'ima radice, che le bebbe, e a lui</l>
+<l>di ben cento color tinse le chiome.</l>
+<l>E tale or questo di bell'arte figlio</l>
+<l>di donzelle non solo e di fiorenti</l>
+<l>spose, a cui lode è la beltà nudrire,</l>
+<l>ma di matrone ancor cura e desìo,</l>
+<l>ne' romani teatri e ne' conviti</l>
+<l>alle antiche patrizie il petto adorna,</l>
+<l>ove Amor spegne la sua face, e ride.</l></lg>
+<lg><l>Ma più cara alle Grazie ed alla casta</l>
+<l>man di Feronia, con più pio riguardo</l>
+<l>educata tu cresci, o mammoletta,</l>
+<l>tu che negli orti cirenéi dal fiato</l>
+<l>generata d'Amore, e dallo stesso</l>
+<l>Amor sul colle pallantéo tradutta,</l>
+<l>di Zefiro la sposa innamorasti,</l>
+<l>e del suo seno e de' pensier suoi primi</l>
+<l>conseguisti l'onor. Pudica e cara</l>
+<l>nunzia d'april, deh! quando per le siepi</l>
+<l>dell'ameno Cernobbio in sul mattino</l>
+<l>Isabella ed Emilia, alme fanciulle,</l>
+<l>di te fan preda e festa, e tu beata</l>
+<l>vai fra la neve de' virginei petti</l>
+<l>nuove fragranze ad acquistar, deh! movi,</l>
+<l>mammoletta gentil, queste parole:</l>
+<l>- Di primavera il primo fior saluta</l>
+<l>di Cernobbio le rose, onde s'ingemma</l>
+<l>della regale Olona il paradiso,</l>
+<l>che di bei fior penuria unqua non soffre.</l>
+<l>Felice l'aura che vi bacia, e tutta</l>
+<l>di ben olenti spirti in voi s'imbeve;</l>
+<l>e felice lo stelo onde vi venne</l>
+<l>sì schietta leggiadria: ma mille volte</l>
+<l>più felice e beato al par de' numi</l>
+<l>chi con man pura da virtù guidata</l>
+<l>dispiccarvi saprà dalla natìa</l>
+<l>fiorita spina, e d'Imeneo sull'ara</l>
+<l>con amoroso ardor farvi più belle;</l>
+<l>ché senza amor non è beltà perfetta,</l>
+<l>né mai perfetto amor senza virtude. -</l></lg>
+<lg><l>Dove te lascio ne' meonii campi</l>
+<l>sì lodato, o d'incanti e di malìe</l>
+<l>possente domator, tu che dai numi</l>
+<l><hi rend="italic">Moly</hi> sei detto con parola al volgo</l>
+<l>non conceduta, e sol dal saggio intesa?</l>
+<l>(Ché al volto corruttor d'ogni favella</l>
+<l>parlar la lingua degli dèi non lice).</l>
+<l>Se là di Circe fra le mandre Ulisse</l>
+<l>non stampò di ferine orme il terreno</l>
+<l>di questa erbetta e del suo latteo fiore</l>
+<l>alla virtù si dee: parlante emblema,</l>
+<l>del cui velo coprìa l'antico senno</l>
+<l>la temperanza, che de' turpi affetti</l>
+<l>doma il poter. Di questo portentoso</l>
+<l>vegetante fra noi, siccome è grido,</l>
+<l>di Maia il figlio dal natìo Cillene</l>
+<l>la tenera portò bruna radice,</l>
+<l>e dell'accorto dio fu degno il dono.</l>
+<l>Con questa ei tutti della maga i filtri</l>
+<l>contra l'itaco eroe fece impotenti;</l>
+<l>e il suo bel fior, che da non casta mano</l>
+<l>sdegna esser tocco, di Feronia poscia</l>
+<l>dolce cura divenne, che di mille</l>
+<l>felici erbette gli fe' siepe intorno,</l>
+<l>altre d'eterno verde, altre dotate</l>
+<l>di medica virtude, onde il furore</l>
+<l>placar de' morbi, addormentar le serpi,</l>
+<l>e sanarne i veleni; altre che il sonno</l>
+<l>inducono benigne, il dolce sonno</l>
+<l>degli afflitti sì caro alle palpebre.</l>
+<l>E tal di tutte un indistinto uscìa</l>
+<l>soave olezzo che apprendeasi al core.</l></lg>
+<lg><l>Che di mille dirò scelti arboscelli</l>
+<l>lieti a dovizia di nettarei frutti,</l>
+<l>e di fiori e di chiome, in cui Natura</l>
+<l>per infinite variate guise</l>
+<l>spiegò la pompa della sua ricchezza?</l>
+<l>Alle ben nate piante peregrine,</l>
+<l>qual d'arabo lignaggio e qual d'assiro,</l>
+<l>qual dall'Indo venuta e qual dal Nilo,</l>
+<l>l'italo suolo arrise, e sue le fece;</l>
+<l>sì che in lor della patria e della prima</l>
+<l>origine il ricordo oggi è perduto.</l>
+<l>Tanto è l'amor del nuovo cielo, e tanta</l>
+<l>fu la cura di lei, che nel ben chiuso</l>
+<l>suo viridario ad educarle prese,</l>
+<l>or con arte confuse, ed or disposte</l>
+<l>in bei filari, come stral diritti,</l>
+<l>rallegrando di molli ombre i sentieri.</l></lg>
+<lg><l>Ecco schiuder dal seno i bei rubini,</l>
+<l>a Minerva e a Giunon pianta gradita,</l>
+<l>e a Cerere cagion d'alto disdegno,</l>
+<l>il coronato melagrano, e tutti</l>
+<l>adescar gli occhi ed invitar le mani.</l>
+<l>Ecco il melo cidonio alle gibbose</l>
+<l>sue tarde figlie di lasciva e molle</l>
+<l>lanugine vestir le bionde gote,</l>
+<l>del cui fragrante sugo hanno in costume</l>
+<l>le amorose donzelle in Oriente</l>
+<l>nudrir la bocca ed il virgineo fiato,</l>
+<l>quando la face d'Imeneo le guida</l>
+<l>di bramoso garzone ai caldi amplessi.</l>
+<l>Vedi il perso arboscel, che i rosei frutti</l>
+<l>ne mostra di lontan; vedi il fratello</l>
+<l>d'armena stirpe, che con gli aurei figli</l>
+<l>gli contende superbo i primi onori;</l>
+<l>perocché dai regali orti sconfitti</l>
+<l>dell'atterrata Cerasunte ancora</l>
+<l>quel fiammante rival giunto non era,</l>
+<l>che, di corpo minor, ma di più viva</l>
+<l>porpora acceso, avrìa lor tolto un giorno</l>
+<l>e di bellezza e di dolcezza il vanto.</l>
+<l>Ma stillante più ch'altri ibléo sapore,</l>
+<l>l'onor dispiega di sue larghe chiome</l>
+<l>il calcidico fico, il cui bel frutto,</l>
+<l>se verace è la fama, alle celesti</l>
+<l>mense sol noto, fra' mortali addusse,</l>
+<l>e a Fitalo donò la vagabonda</l>
+<l>Cerere, allor che tutta iva scorrendo</l>
+<l>la terra in traccia della tolta figlia.</l>
+<l>All'apparir della divina pianta</l>
+<l>di molte forme e molti nomi altera</l>
+<l>tutte esultâr le rive; e Cipro e Chio</l>
+<l>e gli orti ircani e i misii e il verde Egitto,</l>
+<l>e la gran madre d'ogni bella cosa,</l>
+<l>l'itala terra, con attento amore</l>
+<l>la coltivaro, e de' suoi dolci pomi,</l>
+<l>solo a Serse e a Cartago agri e funesti,</l>
+<l>fêr gioconde le mense anche più vili.</l></lg>
+<lg><l>Né te, quantunque umìl pianta vulgare,</l>
+<l>lascerò ne' miei carmi inonorato,</l>
+<l>babilonico salcio, che piangente</l>
+<l>ami nomarti, e or sovra i laghi e i fonti</l>
+<l>spandi la pioggia de' tuoi lunghi crini,</l>
+<l>or su le tombe degli amati estinti,</l>
+<l>che ne' cupi silenzii della notte</l>
+<l>escono consolate ombre a raccorre</l>
+<l>sul freddo sasso degli amici il pianto.</l>
+<l>Tu non vanti dei lauri e delle querce</l>
+<l>il trionfale onor, ma delle Muse,</l>
+<l>che di tenere idee pascon la mente,</l>
+<l>agli studi sei caro, e da' tuoi rami</l>
+<l>pendon l'arpe e le cetre, onde si sparge</l>
+<l>di pia dolcezza il cor degl'infelici.</l>
+<l>Salve, sacra al dolor mistica pianta,</l>
+<l>e l'umil zolla, che i mortali avanzi</l>
+<l>del mio Giulio nasconde, in cui sepolto</l>
+<l>giace il sostegno di mia stanca vita,</l>
+<l>della dolce ombra tua copri cortese.</l>
+<l>E tu strazio d'amore e di fortuna,</l>
+<l>tu derelitta sua misera sposa,</l>
+<l>che del caldo tuo cor tempio ed avello</l>
+<l>festi a tanto marito, e quivi il vedi,</l>
+<l>e gli parli, e ti struggi in vôti amplessi</l>
+<l>da trista e cara illusion rapita,</l>
+<l>datti pace, o meschina, e ti conforti</l>
+<l>che non sei sola al danno. Odi il compianto</l>
+<l>d'Italia tutta; i monumenti mira,</l>
+<l>che alla memoria di quel divo ingegno</l>
+<l>consacrano pietose anime belle.</l>
+<l>E se tanto d'onore e di cordoglio</l>
+<l>argomento non salda la ferita</l>
+<l>che ti geme nel petto, e tuttavia</l>
+<l>il lagrimar ti giova, e forza cresce</l>
+<l>al generoso tuo dolor l'asciutto</l>
+<l>ciglio de' tristi, che alla voce sordi</l>
+<l>di natura e del ciel, né d'un sospiro,</l>
+<l>né d'un sol fiore consolâr l'estinto,</l>
+<l>dolce almeno ti sia, che su l'avaro</l>
+<l>di quell'ossa sacrate infando obblìo</l>
+<l>freme il pubblico sdegno, e fa severa</l>
+<l>delle lagrime tue giusta vendetta.</l></lg>
+<lg><l>Ma dove, o Musa, di sentiero uscita</l>
+<l>ti tragge ira e pietà? Deh! torna al riso</l>
+<l>del cantato giardin, torna ai profumi,</l>
+<l>alle fragranze che l'erbette e i fiori</l>
+<l>ti esalano d'intorno. A sé ti chiama</l>
+<l>principalmente ed il tuo canto aspetta</l>
+<l>l'odorato de' Medi arbor felice,</l>
+<l>di cui non avvi più possente e pronto</l>
+<l>(se fede acquista di Maron la Musa)</l>
+<l>medicame verun contra i veneni</l>
+<l>delle dire matrigne, allor che seco</l>
+<l>scellerate parole mormorando,</l>
+<l>empion le tazze di nocenti sughi.</l>
+<l>Chioma e volto di lauro ha l'almo arbusto;</l>
+<l>e se diverso e vivo in lontananza</l>
+<l>non gittasse l'odor, lauro sarìa.</l>
+<l>Candidissimo è il fior di che s'ingemma,</l>
+<l>né, per molto soffiar che faccia il vento,</l>
+<l>l'onor mai perde della verde fronda.</l>
+<l>Ora etrusco limone, or cedro, ed ora</l>
+<l>arancio lusitan l'appella il vulgo,</l>
+<l>sotto vario sembiante ognor lo stesso.</l>
+<l>Questa è la pianta che, nel ciel creata,</l>
+<l>l'aureo pomo fatal lassù produsse</l>
+<l>ch'Ilio in faville fe' cader: con questo</l>
+<l>l'ardito Aconzio e Ippòmene già fêro</l>
+<l>(che non insegni, Amor?) alle lor crude</l>
+<l>belle nemiche il fortunato inganno.</l>
+<l>E fu pur questa che ad immane drago</l>
+<l>diè negli orti a vegliar d'Esperetusa</l>
+<l>il sospettoso mauritano Atlante,</l>
+<l>finché di là la svelse il forte Alcide,</l>
+<l>spento il fero custode, e peregrino</l>
+<l>seco l'addusse nell'ausonio lito,</l>
+<l>quando di Spagna vincitor tornando,</l>
+<l>nel Tevere lavò l'armento ibero,</l>
+<l>e fe' sopra il ladron dell'Aventino</l>
+<l>delle tolte giovenche alta vendetta.</l>
+<l>Poi com'egli d'Evandro abbandonate</l>
+<l>ebbe le mense e l'ospital ricetto,</l>
+<l>e a quel giogo pervenne, ove nascoso</l>
+<l>agl'Itali mostrò la prima vite</l>
+<l>il ramingo dal ciel padre Saturno,</l>
+<l>ivi sul dorso edificò del monte</l>
+<l>Sezia, un'umil città, donde Setina</l>
+<l>fu nomata la rupe, e qui di Giove</l>
+<l>l'errante figlio alla saturnia terra</l>
+<l>primiero maritò l'arbor divino</l>
+<l>che tutti empié di meraviglia i colli</l>
+<l>e d'invidia le selve. Al primo spiro</l>
+<l>del suo celeste odor vinta temette</l>
+<l>(e fu giusto il timor) la sua fragranza</l>
+<l>di Preneste la rosa: al primo aspetto</l>
+<l>di quel candido fior vinte temette</l>
+<l>le sue vergini tinte il gelsomino.</l>
+<l>A baciarlo lascive, a carezzarlo</l>
+<l>d'ogni parte volâr l'aure tirrene,</l>
+<l>desiose d'aver carchi del caro</l>
+<l>effluvio i vanni rugiadosi: corsero</l>
+<l>a fregiarsene il crine e il colmo seno</l>
+<l>d'Alba le ninfe e di Laurento, e quelle</l>
+<l>del Vulturno arenoso e del Taburno.</l>
+<l>Corser da tutte le propinque rive</l>
+<l>gli Egipani protervi, e saltellando,</l>
+<l>e via gittando ognun l'ispido pino,</l>
+<l>di questo ramo ghirlandâr le fronti.</l>
+<l>Lo volle il dio d'Arcadia, e lo prepose</l>
+<l>agli ebuli sanguigni ed ai corimbi;</l>
+<l>e lo volle Silvan, dimenticate</l>
+<l>le ferule fiorenti e i suoi gran gigli.</l>
+<l>Venne anch'essa del Sol Circe la figlia,</l>
+<l>e di sua mano un ramoscel spiccando</l>
+<l>della scesa dal ciel pianta diletta,</l>
+<l>in grembo al sacro suo terreno il pose.</l>
+<l>Così crebbe il divin bosco odorato,</l>
+<l>che di soave olezzo intorno tutte</l>
+<l>della maga spargea le rilucenti</l>
+<l>tremende case, ov'ella ognor cantando,</l>
+<l>e con l'arguto pettine le tele</l>
+<l>percorrendo, facea dolce da lungi</l>
+<l>e periglioso ai naviganti invito,</l>
+<l>mentre pel buio della tarda notte</l>
+<l>lamentarsi e ruggir s'udìan leoni</l>
+<l>disdegnosi di sbarre e di catene,</l>
+<l>urlar lupi, e grugnire ed adirarsi</l>
+<l>nelle stalle cinghiali ed orsi orrendi,</l>
+<l>che fur uomini in prima, e della cruda</l>
+<l>incantatrice sventurati amanti.</l></lg>
+<lg><l>Queste ed altre infinite eran le piante,</l>
+<l>e l'erbe e i fiori che godea l'attenta</l>
+<l>di Feronia educar mano pudica;</l>
+<l>di tutti quanti i fiori ella il più bello.</l>
+<l>Ma sotto vago aspetto alma chiudendo</l>
+<l>superbetta, d'amor tutte parole</l>
+<l>la ritrosa fanciulla ebbe in dispregio.</l>
+<l>Né la vinse il pregar di madri afflitte,</l>
+<l>che la chiedeano in nuora, e per la schiva</l>
+<l>vedean languire i giovinetti figli;</l>
+<l>né mai lusinghe la piegâr di quanti</l>
+<l>dèi le latine ad abitar contrade</l>
+<l>dai pelasghi confini eran venuti;</l>
+<l>ch'ella a tutti s'invola, e non si cura</l>
+<l>conoscere d'amor l'alma dolcezza.</l>
+<l>Ma di Giove non seppe un'amorosa</l>
+<l>frode fuggir. La vide, e da' begli occhi</l>
+<l>trafitto il nume, la sembianza assunse</l>
+<l>d'un imberbe fanciullo, e sì deluse</l>
+<l>l'incauta ninfa, e la si strinse al seno</l>
+<l>con divino imeneo. L'ombra d'un'elce</l>
+<l>del dio protesse il dolce furto, e lieta</l>
+<l>sotto i lor fianchi germogliò la terra</l>
+<l>la violetta, il croco ed il giacinto,</l>
+<l>ed abbondanti tenerelle erbette,</l>
+<l>che il talamo forniro; e le segrete</l>
+<l>opre d'amore una profonda e sacra</l>
+<l>caligine coprìo; ma di baleni</l>
+<l>arse il ciel consapevole, ed i lunghi</l>
+<l>ululati iterâr su la suprema</l>
+<l>vetta del monte le presaghe ninfe.</l>
+<l>Questi fur delle nozze inauspicate</l>
+<l>i cantici, le faci, i testimoni;</l>
+<l>questo alla nuova del Tonante sposa</l>
+<l>de' suoi mali il principio, e nol conobbe</l>
+<l>l'infelice; ma ben di Giove il vide</l>
+<l>l'eterno senno; né potendo il duro</l>
+<l>fato stornar, nel suo segreto il chiuse;</l>
+<l>e la doglia, che solo il cor sapea,</l>
+<l>premendosi nel petto, a far più mite</l>
+<l>il funesto avvenir volse il pensiero.</l>
+<l>Primamente quel bosco e quella rupe</l>
+<l>sì gli piacque onorar, dove la ninfa</l>
+<l>dell'occulto amor suo gli fu cortese,</l>
+<l>che per loro obbliò Dodona ed Ida,</l>
+<l>e men care di Creta ebbe le selve:</l>
+<l>tal che le genti la presenza alfine</l>
+<l>sentîr del nume, e l'inchinâr devote,</l>
+<l>e Giove Imberbe l'invocâr sull'are;</l>
+<l>ch'egli loro così mise in pensiero</l>
+<l>per la memoria del felice inganno.</l>
+<l>Qui del culto novel consorte ei volle</l>
+<l>la dolce amica sua; qui degli eterni</l>
+<l>in aurea tazza il nèttare le porse,</l>
+<l>e la fece immortal. Poscia, tonando,</l>
+<l>del monte il fianco occidental percosse;</l>
+<l>e una sùbita fonte cristallina</l>
+<l>scaturì mormorando, e dalla balza</l>
+<l>comandò che perenne ella scorresse,</l>
+<l>e da Feronia si nomasse: ed oggi</l>
+<l>serba quel nome ed il ricordo ancora</l>
+<l>dell'antico prodigio. Allor le volsche</l>
+<l>genti lor diva l'adoraro, e lei</l>
+<l>Antefora chiamaro e Filostefana,</l>
+<l>e Persefone, e tutte a lei de' campi</l>
+<l>fur sacre le primizie. Ad inchinarla</l>
+<l>sovrana e diva i numi adunque tutti</l>
+<l>corser d'Ausonia; ché il voler tal era</l>
+<l>del supremo amator: e non pur quelli</l>
+<l>a cui per valli e campi e per montagne</l>
+<l>fuman l'are latine, e di plebeo</l>
+<l>rito van lieti, e di minori han nome;</l>
+<l>ma mossero frequenti ad onorarla</l>
+<l>di cortese saluto anche i maggiori.</l>
+<l>Primo il padre Liéo, ch'indi non lungi</l>
+<l>in un temuto e per antico orrore</l>
+<l>sacro delubro raccogliea benigno</l>
+<l>dal timor de' mortali incensi e voti;</l>
+<l>e la bionda inventrice era con lui</l>
+<l>dell'auree spiche e delle sante leggi,</l>
+<l>Cerere, che solea le pometine</l>
+<l>spesso anteporre alle trinacrie messi.</l>
+<l>Né te d'Aricia il bosco, e il nemorense</l>
+<l>lago trattenne, o vergine Diana;</l>
+<l>ché tu pur, del lunato argenteo carro</l>
+<l>al temo aggiunte le parrasie cerve,</l>
+<l>con gli altri divi ad abbracciar venisti</l>
+<l>la novella immortale, e di te degna</l>
+<l>fu l'alta cortesia che ti condusse.</l></lg>
+<lg><l>Col favor di Feronia iva frattanto</l>
+<l>scorrendo i campi l'Abbondanza, e, tutto</l>
+<l>versando il corno, ben compiuta e ricca</l>
+<l>fea dell'avaro agricoltor la speme.</l>
+<l>Ogni prato, ogni colle, ogni foresta</l>
+<l>di pastorali avene e di muggiti</l>
+<l>e nitriti e belati alto risuona;</l>
+<l>e prigioniera dall'opposte rupi</l>
+<l>le dolci querimonie Eco ripete.</l>
+<l>Venti e quattro cittadi, onde l'immensa</l>
+<l>fertile valle si vedea cosparsa,</l>
+<l>s'animâr, s'abbelliro, e stretto in nodo</l>
+<l>di care parentele, in mezzo al sangue</l>
+<l>de' torelli giurâr dell'alleanza</l>
+<l>il sacramento; e l'invocata Diva</l>
+<l>le dilesse, e su lor piovve la piena</l>
+<l>di tranquilla ricchezza. Incontanente</l>
+<l>crebbero i lari, crebbero le mura;</l>
+<l>di maestà, di forza e di rispetto</l>
+<l>le sante leggi si vestîr; fur sacri</l>
+<l>i reverendi magistrati; sacra</l>
+<l>la patria carità; sacro l'amore</l>
+<l>della fatica e dell'industria. Quindi</l>
+<l>tutte piene di strepito le vie,</l>
+<l>e i teatri e le curie; e dappertutto</l>
+<l>un gemere di rote, un picchio assiduo</l>
+<l>di martelli e d'incudi, un suonar d'arme</l>
+<l>buone in pace ed in guerra, onde sì crebbe</l>
+<l>la feroce de' Rutuli potenza,</l>
+<l>che al pietoso Troian tanto fe' poscia</l>
+<l>sotto il cimiero impallidir la fronte,</l>
+<l>quando gli disputâr Camilla e Turno</l>
+<l>di Lavinia e d'Italia il grande acquisto.</l></lg>
+<lg><l>Eran le genti pometine adunque</l>
+<l>molte e forti e felici; e manifesta</l>
+<l>di Feronia apparìa per ogni parte</l>
+<l>la presenza, il favor, la possa e l'opra.</l>
+<l>Però da cento altari a lei salìa</l>
+<l>delle vittime il fumo, e ne godea</l>
+<l>il tonante amator, che stanco e carco</l>
+<l>delle cure del mondo, a serenarle</l>
+<l>scendea sovente ne' segreti amplessi</l>
+<l>della diva fanciulla. Un aureo nembo</l>
+<l>li copriva; e oziosa al sole aprico</l>
+<l>col rostro della folgore ministro,</l>
+<l>l'aquila sacra si pulìa le piume;</l>
+<l>mentre sicure dal furor di Giove</l>
+<l>tacean d'Ato e di Rodope le rupi,</l>
+<l>e avea Bronte riposo in Mongibello.</l></lg>
+<lg><l>Erasi intanto la saturnia Giuno</l>
+<l>fatta accorta del dolo, e i suoi grand'occhi,</l>
+<l>che gelosia più grandi anche facea,</l>
+<l>non fallibili segni avean già scorto</l>
+<l>di nuova infedeltà. Raro il soggiorno</l>
+<l>del marito in Olimpo: alto il silenzio</l>
+<l>dei talami divini: inoltre mute</l>
+<l>della foresta dodonéa le querce,</l>
+<l>cheti i tuoni dell'Ida, e dissipato</l>
+<l>il denso fumo che facea palese</l>
+<l>la presenza del nume: onde, turbata</l>
+<l>in suo sospetto, alle nevose cime</l>
+<l>dell'Olimpo salita, in giù rivolse</l>
+<l>l'attento sguardo, e ricercò l'infido</l>
+<l>sul mar sidonio, sul nonacrio giogo,</l>
+<l>sull'Ismen, sull'Asopo, ove sovente</l>
+<l>delle vaghe mortali amor lo prese.</l>
+<l>Indi in Ausonia declinando i lumi,</l>
+<l>d'Ansuro nereggiar sul balzo vide</l>
+<l>tale un nugolo denso, che per vento</l>
+<l>non si movea di loco, ancorché tutta</l>
+<l>fosse in moto la selva. A cotal vista</l>
+<l>le si ristrinse il cor; le corse un gelo</l>
+<l>per le membra immortali, e si fêr truci</l>
+<l>i neri sopraccigli. Immantinente</l>
+<l>Iri a sé chiama, e: - Prestami, - le dice</l>
+<l>- su via prestami, o fida, il tuo piovoso</l>
+<l>arco d'oro e di luce. - E sì dicendo,</l>
+<l>né risposta aspettando, entro si chiude</l>
+<l>a' taumanzii vapori, e taciturna</l>
+<l>su le rupi setine si precipita.</l>
+<l>Tocca pur anco non avea la terra</l>
+<l>co' leggeri vestigi, che levarsi</l>
+<l>l'invisibile dea l'aquila vide,</l>
+<l>l'aquila testimon del dio marito;</l>
+<l>e sotto l'ombra delle grandi penne</l>
+<l>furtiva e cheta camminar la nube,</l>
+<l>e tra le piante dileguarsi. A lei</l>
+<l>dovunque passa riverenti e curvi</l>
+<l>dan loco i rami della selva; e l'aure</l>
+<l>non osano di far rissa e bisbiglio.</l>
+<l>Volse indi l'occhio addietro, e, donde tolta</l>
+<l>s'era la nube, in piè rizzarsi mira</l>
+<l>così bella una ninfa, che alla stessa</l>
+<l>corrucciosa Giunon bella parea.</l>
+<l>Sventurata beltà! L'ira e il dispetto</l>
+<l>tu crescesti nel cor della gelosa,</l>
+<l>che spiccossi qual lampo e rabbuffata</l>
+<l>con questi accenti alla rival fu sopra:</l>
+<l>- E qual ti prese insania ed arroganza,</l>
+<l>insolente mortal, che una cotanta</l>
+<l>a me far osi ingiuria, e non mi temi?</l>
+<l>Ravvisami, proterva; io degli dèi</l>
+<l>son l'eterna reina, io la sorella,</l>
+<l>io la sposa di Giove. - Scolorossi,</l>
+<l>tremò, si sgomentò, non fe' parola</l>
+<l>la misera Feronia; e siccome era</l>
+<l>scomposta i veli e le bende e le chiome,</l>
+<l>dell'amplesso celeste accusatrici,</l>
+<l>mise in tutto furor la sua nemica;</l>
+<l>la qual su lei di rinnovar bramosa</l>
+<l>di Callisto la pena, ad un vincastro</l>
+<l>diè rabbiosa di piglio, e la percosse.</l>
+<l>Attonito restò l'occhio e la mano</l>
+<l>dell'acerba Giunon, quando dell'altra</l>
+<l>vide al colpo divino inviolata</l>
+<l>resistere la salma, e le primiere</l>
+<l>sembianze rimaner: tosto conobbe</l>
+<l>che di tempra immortal fatta l'avea</l>
+<l>l'onnipossente nume; onde sdegnosa,</l>
+<l>ché a vôto mira uscito il suo disegno,</l>
+<l>e terribile e ria più che mai fosse:</l>
+<l>- Questo - disse - al mio scorno anco mancava,</l>
+<l>adultera impudente, che dovesse</l>
+<l>farlosi eterno! Sémele ed Alcmena</l>
+<l>eran poca vergogna all'onor mio,</l>
+<l>e i due figli di Leda, e Ganimede,</l>
+<l>ch'altra ancor ne s'aggiunge, e di malnati</l>
+<l>mi si fan piene le celesti mense.</l>
+<l>Ma inulta non andrò, se Giuno io sono;</l>
+<l>né tu senza castigo. Via di qua,</l>
+<l>via di qua, svergognata! - E in questo dire</l>
+<l>il bianco braccio fieramente stese,</l>
+<l>s'aggrandì, si scurò, gli occhi mandaro</l>
+<l>due fiamme a guisa di baleni in mezzo</l>
+<l>di tenebrosa nube; e la grand'ira,</l>
+<l>che il senno ancor degl'immortali invola,</l>
+<l>quasi obbliar di diva e di reina</l>
+<l>le fe' modi e costumi. E di rincontro</l>
+<l>di Giove allor la dolorosa amante,</l>
+<l>che di rimorso trema e di rispetto,</l>
+<l>con basso ciglio e con incerto piede</l>
+<l>lagrimando partissi. Ella per monti</l>
+<l>e per valli e per fiumi si dilunga,</l>
+<l>e sempre a tergo ha la tremenda Giuno,</l>
+<l>che con minacce e dure onte e rampogne</l>
+<l>stimola e incalza l'infelice. Ahi! dunque</l>
+<l>era da tanto un amoroso errore?</l></lg>
+<lg><l>E già varcate avea le veliterne</l>
+<l>pendici, e gli ardui sassi, ove costrusse</l>
+<l>Cora la sua città, Cora il fratello</l>
+<l>di Catillo e Tiburte; e non lontano</l>
+<l>era di Cinzia il sacro lago e il bosco,</l>
+<l>ove a Stige ritolto, e della ninfa</l>
+<l>Egeria in cura, Ippolito traeva,</l>
+<l>cangiato in Virbio, la seconda vita.</l>
+<l>Qui di Saturno l'adirata figlia</l>
+<l>sostenne i passi, e in balze aspre e deserte</l>
+<l>qui lasciò la meschina, e, desiosa</l>
+<l>di vendetta maggior, diè volta addietro.</l></lg>
+<lg><l>Tra le priverne rupi e le setine</l>
+<l>s'apre immane spelonca, a cui di sopra</l>
+<l>grava il dosso una negra orrida selva,</l>
+<l>e per lo mezzo la rinfresca un rivo,</l>
+<l>che con grato rumor casca e zampilla</l>
+<l>dalle fesse pareti. Ha di sedili</l>
+<l>in vivo marmo una corona intorno,</l>
+<l>e tal dalle muscose erbe si spande</l>
+<l>una fragranza, che da lungi avvisa</l>
+<l>veramente di dèi stanza e ricetto.</l>
+<l>Qui da tutta la volsca regione</l>
+<l>per cento cave sotterranee vie</l>
+<l>vengon sovente a visitarsi i fiumi,</l>
+<l>il freddo Ufente, il lamentoso Astura,</l>
+<l>il sonoro Ninféo, che tra le sacre</l>
+<l>sue danzanti isolette ad Anfitrite</l>
+<l>rapido volve e cristallino il flutto;</l>
+<l>e il superbo Amasen, che le gran corna</l>
+<l>mai non si terge, e strepitoso e torbo</l>
+<l>empie di loto i campi e di paura.</l>
+<l>E cent'altri v'accorrono di fama</l>
+<l>poveri e d'onda fiumicei seguaci;</l>
+<l>e cento ninfe, che il cader degli astri</l>
+<l>conoscono e del sole e della luna</l>
+<l>le armoniche vicende, e sanno i venti</l>
+<l>e le piogge predire e le procelle.</l>
+<l>Colà bieca sbuffando s'incammina</l>
+<l>la di vendetta sitibonda dea:</l>
+<l>simile a nembo di gragnuole gravido,</l>
+<l>che bruno il ciel viaggia, e orrendo stendesi</l>
+<l>su la bionda vallea, quando le Pleiadi,</l>
+<l>che d'Orion la spada incalza e stimola,</l>
+<l>negli atlantici flutti si sommergono,</l>
+<l>e tutto ferve per burrasca il pelago.</l>
+<l>Tal terribile in vista ella s'avanza;</l>
+<l>e giunta al mezzo dello speco, in atto</l>
+<l>di maestà, di cruccio e di preghiera,</l>
+<l>fa dal labbro volar queste parole:</l>
+<l>- Fiumi, a cui delle volsche acque l'impero</l>
+<l>diè degli uomini il padre e degli dèi,</l>
+<l>e voi le correggete, e a vostro senno</l>
+<l>le mandate a nudrir l'onda tirrena,</l>
+<l>una vil mia nemica, una spregiata</l>
+<l>di boschi abitatrice il cor mi tolse</l>
+<l>del mio consorte; e non è tutto. A lei,</l>
+<l>a costei l'immortal vita è concessa,</l>
+<l>privilegio avvilito, e dea l'adora</l>
+<l>la bagnata da voi terra pontina.</l>
+<l>Vendicate l'offesa; e s'io dall'etra</l>
+<l>vi dispenso le piogge, ite, abbattete,</l>
+<l>distruggete, spegnete. Altari e templi</l>
+<l>e città rovesciate: io le vi dono,</l>
+<l>e saran vostro regno; orma non resti</l>
+<l>dell'abborrito culto, e raddolcisca</l>
+<l>la mia giust'ira di Feronia il pianto. -</l>
+<l>Disse; e per tutti a lei tosto l'Ufente</l>
+<l>diserto e chiaro parlator rispose:</l>
+<l>- A te l'esaminar conviensi, o diva,</l>
+<l>il tuo desire, e l'adempirlo a noi.</l>
+<l>Delle piove e de' nembi genitrice</l>
+<l>tu ne riempi l'urne, tu ne fai</l>
+<l>Giove propizio, e ne concedi a mensa</l>
+<l>su l'Olimpo seder con gli altri eterni. -</l>
+<l>Ciò detto, frettolosi e furiosi</l>
+<l>si dileguâr per la caverna i fiumi,</l>
+<l>chi qua, chi là ciascuno alla sua sede;</l>
+<l>e partendo ne fêr tale un tumulto,</l>
+<l>tale un fracasso, che tremonne il monte.</l>
+<l>N'udirono il fragor le pometine</l>
+<l>valli da lungi, e ne mandâr muggiti,</l>
+<l>di ruina presaghe; e palpitanti</l>
+<l>strinser le madri i pargoletti al seno.</l></lg>
+<lg><l>Mentre corrono quelli il rio precetto</l>
+<l>a compir della diva, e ai duri sassi</l>
+<l>aguzzano per via le corna e l'ira,</l>
+<l>levossi Giuno in aria, e spiegò il manto,</l>
+<l>in cui ravvolge le tempeste e i nembi,</l>
+<l>e subito gonfiâr le bocche i venti,</l>
+<l>e le nubi aggruppâr, che cielo e luce</l>
+<l>ai mortali rapiro, e si fe' notte,</l>
+<l>orrenda notte dal guizzar de' lampi</l>
+<l>rotta al fero de' tuoni fragor cupo.</l>
+<l>Carco d'atre caligini la fronte,</l>
+<l>vola l'umido Noto, ed afferrate</l>
+<l>con le gran palme le pendenti nubi,</l>
+<l>le squarcia risonante, e tenebrosa</l>
+<l>sgorga la piova; il rotto aere ne rugge;</l>
+<l>e il suol ne geme e le battute selve.</l>
+<l>Scende un mar dalle rupi. Allora i fiumi</l>
+<l>versano l'urne abbeverate e colme,</l>
+<l>e quattro di maggior superbia e lena</l>
+<l>da quattro parti sul soggetto piano,</l>
+<l>svelte, atterrate le tremanti ripe,</l>
+<l>con furor si devolvono. Spumosa</l>
+<l>e fragorosa la terribil piena</l>
+<l>le capanne divora e i pingui cólti,</l>
+<l>e gli armenti e i pastori. E già le mura</l>
+<l>delle cittadi assalta e le percote,</l>
+<l>di cadaveri ingombra e della fatta</l>
+<l>strage ne' campi: già delle bastite</l>
+<l>crollano i fianchi: già sfasciati piombano,</l>
+<l>e dan la porta all'inimico flutto.</l>
+<l>S'alza allora un compianto, un ululato</l>
+<l>di vergini, di vegli e di fanciulli:</l>
+<l>corrono ai templi; ed invocar Feronia,</l>
+<l>e Feronia gridar odi piangenti</l>
+<l>le smorte turbe; e non le udìa la Diva;</l>
+<l>ché maggior diva il vieta. Essa, la fiera</l>
+<l>moglie di Giove, di sua man riversa</l>
+<l>dell'esule nemica i simulacri,</l>
+<l>ne sovverte gli altari; e la soccorre</l>
+<l>ministra al suo furor l'onda crudele</l>
+<l>che tutte attorno le cittadi inghiotte.</l>
+<l>Tre ne leva sul corno infuriando</l>
+<l>il veloce Ninféo che lutulenti</l>
+<l>spinse quel dì la prima volta i flutti,</l>
+<l>l'umil Trapunzio e Longula e Polusca:</l>
+<l>tre la ferocia del possente Astura,</l>
+<l>l'opima Mucamite, e l'alta Ulubra,</l>
+<l>e la vetusta Satrico, a cui nulla</l>
+<l>il nume valse della dia Matuta.</l>
+<l>E per te cadde, strepitoso Ufente,</l>
+<l>Pomezia, la più ricca e la più bella.</l>
+<l>Pianse il giogo circéo la sua caduta,</l>
+<l>e la pianser le ninfe, a cui commessa</l>
+<l>de' suoi vaghi giardini era la cura.</l></lg>
+<lg><l>Il tremendo Amaseno avea frattanto</l>
+<l>sotto i vortici suoi sepolti intorno</l>
+<l>i Barbarici campi, e fatto un lago</l>
+<l>della misera Ausona, e l'alte mura</l>
+<l>d'Aurunca percotea, la più guerriera</l>
+<l>delle volsche cittadi, e la più antica.</l>
+<l>Oltre gli anni di Dardano e Pelasgo</l>
+<l>la sua fama ascendeva, e degli Aurunci</l>
+<l>venerevoli padri alto suonava</l>
+<l>e glorioso fra le genti il grido.</l>
+<l>L'avea quel fier divelta e conquassata</l>
+<l>dai fondamenti. Alle vicine rupi</l>
+<l>traggonsi in salvo gli abitanti; e il fiume</l>
+<l>li persegue mugghiando, e ne raggiunge</l>
+<l>altri al tallone, e li travolve; ed altri,</l>
+<l>che più pronti afferrâr già la montagna,</l>
+<l>con l'immenso suo spruzzo li flagella,</l>
+<l>e di paura li fa bianchi in viso.</l>
+<l>Ben mille ne contorse entro i suoi gorghi</l>
+<l>quell'orribile dio; ma di due soli,</l>
+<l>Timbro e Larina, il miserando fato</l>
+<l>non tacerò, se a tanto il cor resiste,</l>
+<l>e pietoso il pensier non mi rifugge.</l>
+<l>Amavansi così quegl'infelici,</l>
+<l>ch'altro mai tale non fu visto amore,</l>
+<l>e d'Imeneo già pronte eran le tede,</l>
+<l>e consentìan gioiosi al casto affetto</l>
+<l>i genitori. Ahi brevi e false in terra</l>
+<l>le speranze e le gioie! In riva al mare,</l>
+<l>cui d'Anzio regge la Fortuna, avea</l>
+<l>pochi dì prima all'afrodisia madre</l>
+<l>pôrti i suoi voti il giovinetto amante,</l>
+<l>e abbracciato l'altar. Letta nel Fato</l>
+<l>del misero la sorte avea la diva;</l>
+<l>e della diva il santo simulacro</l>
+<l>tremò, e sudante (maraviglia a dirsi!)</l>
+<l>torse altrove il bel capo, e non sostenne</l>
+<l>tanta pietà. Ma ben di Giuno il crudo</l>
+<l>cor la sostenne; e la virtude umana</l>
+<l>abbandonata si velò la fronte.</l>
+<l>Nella comun sventura erasi Timbro,</l>
+<l>dopo molti in cercar la sua fedele</l>
+<l>scorsi perigli, l'ultimo su l'erta</l>
+<l>spinto in sicuro; e fra i dolenti amici</l>
+<l>di Larina inchiedea; Larina intorno,</l>
+<l>Larina iva chiamando, e forsennato</l>
+<l>con le man tese e co' stillanti crini</l>
+<l>per la balza scorrea; quando spumosa</l>
+<l>l'onda, che n'ebbe una pietà crudele,</l>
+<l>la morta salma gliene spinse al piede.</l>
+<l>Ahi vista! ahi, Timbro, che facesti allora?</l>
+<l>La raccolse quel misero, ed in braccio</l>
+<l>la si recò; né pianse ei già, ché tanto</l>
+<l>non permise il dolor, ma freddo e muto</l>
+<l>pendé gran pezza sul funesto incarco,</l>
+<l>poi mise un grido doloroso e disse:</l>
+<l>- Così mi torni? e son questi gli amplessi</l>
+<l>che mi dovevi? e questi i baci? e ch'io,</l>
+<l>ch'io sopravviva?... - E non seguì; ma stette</l>
+<l>sovr'essa immoto con le luci alquanto;</l>
+<l>poi sull'estinta abbandonossi, e i volti</l>
+<l>e le labbra confuse, e così stretto</l>
+<l>si versò disperato entro dell'onda,</l>
+<l>che li ravvolse, e sovra lor si chiuse.</l></lg>
+</div1>
+<div1><head>CANTO II</head>
+
+<lg><l>Già tutto di Feronia era il bel regno</l>
+<l>in orrenda converso atra palude,</l>
+<l>che pelago parea; se non che rara</l>
+<l>dell'ardue torri e dell'aeree querce,</l>
+<l>non vinte ancor, l'interrompea la cima.</l>
+<l>E già su le placate onde leggieri</l>
+<l>spiravano i Favonii, e in curvi solchi</l>
+<l>arandole frangean sovra le molli</l>
+<l>crespe dell'acque la saltante luce:</l>
+<l>quando di Circe la scoscesa balza</l>
+<l>l'aspra Giuno salì. L'occhio rivolse</l>
+<l>alla vasta laguna, e, tutta intorno</l>
+<l>la misurando con superbo sguardo,</l>
+<l>sorrise acerba su la sua vendetta.</l>
+<l>Ma vista su la rupe in lontananza</l>
+<l>dall'incremento delle spume ultrici</l>
+<l>pur anco intatta alzar la fronte alcuna</l>
+<l>delle volsche città, che ree del culto</l>
+<l>dell'abborrita sua rival si fêro,</l>
+<l>ed illeso agitar l'argute frondi</l>
+<l>non lungi il bosco di Feronia, il bosco</l>
+<l>che prestò l'ombra ai mal concessi amori,</l>
+<l>risorger si sentì l'ire nel petto</l>
+<l>già moribonde; e poi che v'ebbe alquanto</l>
+<l>fisso il torbido sguardo, in cor sì disse:</l>
+<l>"Io desister dall'opra, e del mio scorno</l>
+<l>patir che resti un monumento ancora?</l>
+<l>Già non fui sì pietosa inverso Egina</l>
+<l>e la stirpe di Cadmo abbominata;</l>
+<l>ché per quella mandai carca di fiera</l>
+<l>peste la morte su l'enopia terra;</l>
+<l>e sostenni per questa entro le case</l>
+<l>scendere io stessa dell'eterno pianto,</l>
+<l>e di là contra d'Atamante e d'Ino</l>
+<l>Tisifone invocar. Quei due superbi</l>
+<l>co' sonori serpenti ella percosse,</l>
+<l>e allor nel figlio dispietate e crude</l>
+<l>fur le mani paterne, e de' suoi vanti</l>
+<l>Ino furente mi scontò l'offesa.</l>
+<l>E pur avola a Bacco era colei,</l>
+<l>e a Venere nipote; e non m'avea,</l>
+<l>come questa malnata itala druda,</l>
+<l>tolti i miei dritti, e del maggior de' numi</l>
+<l>aspirato alle nozze. Oh mia vergogna!</l>
+<l>Poté Gradivo la feroce schiatta</l>
+<l>sterminar de' Lapìti: aver da Giove</l>
+<l>poté Diana al suo disdegno in preda</l>
+<l>i Calidonii: e meritò poi tanto</l>
+<l>de' Calidon la colpa e de' Lapìti?</l>
+<l>Ed io, progenie di Saturno, ed alta</l>
+<l>de' Celesti reina, a mezzo corso</l>
+<l>ratterrò gli odi e l'ire, e dovrò tutte</l>
+<l>non consumarle? Oh mel contrasta il fato;</l>
+<l>e una fama pur or s'è sparsa in cielo,</l>
+<l>che al volgere de' lustri il senno e l'opra</l>
+<l>d'italici potenti al mio furore</l>
+<l>e all'impero dell'onde questi campi</l>
+<l>ritoglierà. Ritolgali: men giusta</l>
+<l>o men dolce uscirà forse per questo</l>
+<l>la mia vendetta? Se cangiar non lice</l>
+<l>delle Parche il decreto, e chi ne vieta</l>
+<l>l'indugiarlo, e tentar nuove ruine?</l>
+<l>Del tuo delitto dolorose e care</l>
+<l>le pene pagherai, ninfa superba:</l>
+<l>anche il Lazio s'avrà la sua Latona.</l>
+<l>Non selva lascerò, non antro alcuno</l>
+<l>che ti riceva; scuoterò le rupi;</l>
+<l>crollerò le città dal tuo vil nume</l>
+<l>contaminate, e ne farò di tutte</l>
+<l>cenere e polve, che disperda il vento."</l>
+<l>Nel turbato pensier seco volgendo</l>
+<l>queste cose la dea, giunse d'un volo</l>
+<l>nell'eolie spelonche, orrendo albergo</l>
+<l>degli adusti Ciclopi e di Vulcano.</l></lg>
+<lg><l>Stava questo dell'arti arbitro sommo</l>
+<l>intento a fabbricar per la pudica</l>
+<l>nemorense Diana un d'oro e bronzo</l>
+<l>gran piedestallo, su cui l'alma effigie</l>
+<l>collocar della diva. E su le quattro</l>
+<l>fronti v'avea l'artefice divino</l>
+<l>d'ammirando lavoro impresse e sculte</l>
+<l>di quell'almo paese avventurato</l>
+<l>le trascorse memorie e le future.</l></lg>
+<lg><l>Era a vedersi da una parte il lago</l>
+<l>tutto d'argento. Tremolar diresti</l>
+<l>l'onde e rotte spumar dai bianchi petti</l>
+<l>delle caste Amnisìdi, a cui venute</l>
+<l>già son men care le gargafie fonti,</l>
+<l>e d'Eurota le sponde. In su la riva</l>
+<l>della sacra laguna abbandonati</l>
+<l>giaccion gli archi e le frecce, onde famosi</l>
+<l>suonâr di caccia fragorosa un giorno</l>
+<l>del Taigeto e d'Erimanto i boschi,</l>
+<l>ed or la nemorense ne rimbomba</l>
+<l>e la selva aricina. Indi non lunge</l>
+<l>stassi il carro lunato, e per la rupe</l>
+<l>sciolte dal giogo le parrasie cerve</l>
+<l>erran pascendo il tenero trifoglio,</l>
+<l>gradita erbetta, che gradir suol anco</l>
+<l>ai destrieri di Giove, ed alle caste</l>
+<l>di Minerva cavalle polverose.</l></lg>
+<lg><l>Alto a rimpetto, fra pudichi allori,</l>
+<l>di Trivia il tempio signoreggia, ed essa</l>
+<l>la placabile diva in su la soglia</l>
+<l>del grande Atride ad incontrar vien oltre</l>
+<l>i pellegrini figli, Ifigenìa</l>
+<l>sacerdotessa ed il fratello Oreste,</l>
+<l>pietoso Oreste e scellerato insieme,</l>
+<l>che per molti del mare e della terra</l>
+<l>duri perigli salvo le recavano</l>
+<l>il fatal simulacro insanguinato</l>
+<l>dalle tauriche sponde alle tirrene.</l></lg>
+<lg><l>In altro lato avea l'ignipotente</l>
+<l>sculti i novelli sagrifici e l'are</l>
+<l>di Diana cruente, e i lagrimosi</l>
+<l>riti latini, e un contro l'altro armati</l>
+<l>di barbaro coltello i sacerdoti.</l></lg>
+<lg><l>Mirasi altrove il miserando caso</l>
+<l>del figliuol di Teséo. Gonfiata ed aspra</l>
+<l>spandeasi d'oro con argentee spume</l>
+<l>la corinzia marina, a cui dal mezzo</l>
+<l>uscìa sbuffando una cerulea foca.</l>
+<l>E per orride balze ecco fuggire</l>
+<l>gli atterriti cavalli, ecco sul lido</l>
+<l>rovesciato dal carro e lacerato</l>
+<l>l'innocente garzon. D'intorno al casto</l>
+<l>esangue corpo si batteano il petto</l>
+<l>di Trezene le vergini; e chiamando</l>
+<l>crudel Ciprigna, e più crudel Nettuno,</l>
+<l>più ch'altre in pianto si struggea Diana.</l></lg>
+<lg><l>Al pregar dell'afflitta indi seguìa</l>
+<l>d'Esculapio il prodigio e l'ardimento,</l>
+<l>ché, violato delle Parche il dritto,</l>
+<l>col poter della muta arte paterna</l>
+<l>torna il pudico giovinetto in vita;</l>
+<l>cui redivivo, e in densa nube avvolto,</l>
+<l>con mutati sembianti all'aricine</l>
+<l>selve poi reca la deliaca diva,</l>
+<l>e, palpitando, alla segreta cura</l>
+<l>il commette d'Egeria, inclita ninfa</l>
+<l>delle leggi romane inspiratrice.</l></lg>
+<lg><l>S'aprìa di nero cianéo scolpita</l>
+<l>nel fianco della rupe una spelonca</l>
+<l>sacra di Pindo alle fanciulle, e cara</l>
+<l>più che l'antro cirrèo. Le sêrpe intorno</l>
+<l>con tortuoso piede una vivace</l>
+<l>edera d'oro, ed un ruscello in mezzo</l>
+<l>di purissimo elettro. Ivi furtivo</l>
+<l>d'Egeria ai santi fortunati amplessi</l>
+<l>(ché di tanto fu degno) il successore</l>
+<l>di Romolo traeva. Ivi le scese</l>
+<l>leggi dal cielo ricevea sul labbro</l>
+<l>della diva consorte, e ai mansueti</l>
+<l>genii di pace traducea le genti</l>
+<l>col favor delle Muse, e di quel grande</l>
+<l>spirto divin che del troiano Euforbo</l>
+<l>pria la spoglia animò, poscia, migrando</l>
+<l>di corpo in corpo, la famosa salma</l>
+<l>del samio saggio ad informar pervenne,</l>
+<l>e di Crotone empiéo le mute scuole</l>
+<l>del saper dell'Assiria e dell'Egitto.</l>
+<l>V'era una balza dall'opposta fronte,</l>
+<l>che al bel lago sovrasta, orrendo nido</l>
+<l>di crude belve un tempo e di colubri,</l>
+<l>ed or vasta, ridente, aprica scena</l>
+<l>di lieti ulivi. Tra le verdi file</l>
+<l>de' cecropii arboscelli alteramente</l>
+<l>Minerva procedea, che del novello</l>
+<l>conquistato terren prendea diletto,</l>
+<l>e con l'alta virtù, che dagli sguardi</l>
+<l>e dall'alma presenza esce de' numi,</l>
+<l>liete facea le piante, e delle pingui</l>
+<l>bocche oleose nereggianti i rami.</l>
+<l>L'accompagnava maestoso e bello</l>
+<l>alla manca un signor d'alta fortuna,</l>
+<l>che con raro consiglio ed ardimento</l>
+<l>dell'antico orror suo già spoglia avea</l>
+<l>l'indocile montagna, e le ritrose</l>
+<l>alpestri glebe all'ostinata cura</l>
+<l>del pio cultore ad obbedir costrette:</l>
+<l>mentre all'ombra d'un'elce, e all'ozio in seno,</l>
+<l>che il suo signor gli ha fatto, anzi il suo dio,</l>
+<l>un poeta non vil l'aspre vicende</l>
+<l>di Feronia cantava, e per sentiero</l>
+<l>non calcato traea l'itale muse.</l></lg>
+<lg><l>All'ultimo con raro magistero</l>
+<l>l'indomito Vulcan v'avea scolpita</l>
+<l>una dolente giovinetta madre</l>
+<l>che, con ambe le mani al crin facendo</l>
+<l>dispetto ed onta, su la fredda spoglia</l>
+<l>di tre figli piangea tolti alla poppa.</l>
+<l>Taciturna e dimessa il padre Tebro</l>
+<l>volgea qui l'onda: su la mesta riva</l>
+<l>ploravano le ninfe, e al Vaticano</l>
+<l>una nube di duol coprìa la fronte.</l>
+<l>Lagrime tante alfin, tanti sospiri</l>
+<l>faceano forza al ciel, finché la santa</l>
+<l>madre d'Amore a consolar la donna</l>
+<l>dal terzo cerchio le piovea nel grembo</l>
+<l>de' fecondi suoi raggi il quarto frutto.</l>
+<l>Siccome vaga tremula farfalla</l>
+<l>scendea quell'alma, e nel materno seno</l>
+<l>l'avventurosa si venìa vestendo</l>
+<l>di sì lucido vel, ch'altro non fece</l>
+<l>mai più bell'ombra a più leggiadro spirto.</l>
+<l>Al felice natal presenti avea</l>
+<l>sculte il fabbro le Grazie, inclite dive,</l>
+<l>senza il cui nume nulla cosa è bella.</l>
+<l>V'era Lucina, a cui fur date in cura</l>
+<l>della vita le porte; eravi Giuno</l>
+<l>dei talami custode; e di Latona</l>
+<l>l'alma figlia pur v'era, a cui dolenti</l>
+<l>s'odon nel parto sospirar le spose;</l>
+<l>e in disparte frattanto un aureo stame</l>
+<l>al fatal fuso ravvolgean le Parche.</l>
+<l>Delle rugose antiche dee son tutte</l>
+<l>di pallid'oro le tremende facce,</l>
+<l>e d'argento le chiome e i vestimenti.</l>
+<l>Del narciso d'Averno incoronate</l>
+<l>van le rigide fronti, e un cotal misto</l>
+<l>mandan di riverenza e di paura,</l>
+<l>che l'occhio ne stupisce, e il cor ne trema.</l></lg>
+<lg><l>Dell'industre Vulcan l'opra tal era,</l>
+<l>mirabile, immortale. Affumicato</l>
+<l>e in gran faccenda l'indefesso iddio,</l>
+<l>di qua di là scorrea per la fucina,</l>
+<l>visitando i lavori, e rampognando</l>
+<l>i neghittosi: con le larghe pale</l>
+<l>altri il carbon nelle fornaci infonde</l>
+<l>scintillanti e ruggenti: altri, con rozze</l>
+<l>cantilene molcendo la fatica,</l>
+<l>dà il fiato e il toglie ai mantici ventosi,</l>
+<l>che trenta ve n'avea di ventre enormi:</l>
+<l>qual su l'incude le roventi masse</l>
+<l>del metallo castiga; e qual le tuffa</l>
+<l>nella fredda onda, che gorgoglia e stride.</l>
+<l>Rimbomba la caverna, e dalle fronti</l>
+<l>di quei fieri garzoni in larga riga</l>
+<l>va il sudor per le gote e le mascelle</l>
+<l>sui gran petti pelosi. In questo mezzo</l>
+<l>s'appresentò la veneranda Giuno</l>
+<l>nella negra spelonca, e parve il fulgido</l>
+<l>volto del Sole che fra dense nubi</l>
+<l>improvviso si mostra. E Bronte, il primo</l>
+<l>che la vide venir, diè segno agli altri</l>
+<l>di sostarsi e cessar per lo rispetto</l>
+<l>della moglie di Giove. Udì Vulcano</l>
+<l>della madre l'arrivo, e frettoloso,</l>
+<l>fra tanaglie e martelli e sgominate</l>
+<l>di metalli cataste zoppicando,</l>
+<l>le corse incontro: e presala per mano,</l>
+<l>di fuliggine tutta le ne tinse</l>
+<l>la bianca neve. Prestamente quindi</l>
+<l>le trasse innanzi un elegante seggio,</l>
+<l>che d'oro avea le sponde, e lo sgabello</l>
+<l>di liscio cassitéro, ove la diva</l>
+<l>posò l'eburnee piante; e, così stando,</l>
+<l>di sua venuta le cagioni espose.</l>
+<l>E primamente lamentossi a lungo</l>
+<l>dell'adultero Giove, alle cui voglie</l>
+<l>poco essendo la Grecia, ancor ripiena</l>
+<l>de' suoi muggiti e de' suoi nembi d'oro,</l>
+<l>e per tante or di cigno, or di serpente,</l>
+<l>e di zampe caprigne, ed altre vili</l>
+<l>frodi d'amor contaminata e guasta,</l>
+<l>or ne venìa d'Italia anco le belle</l>
+<l>spiagge a bruttar de' suoi lascivi ardori,</l>
+<l>della moglie dimentico e del cielo.</l>
+<l>E qui fe' conta del fanciullo imberbe</l>
+<l>la mentita sembianza, e i conceduti</l>
+<l>di Feronia complessi, e come assunta</l>
+<l>al concilio de' numi era la druda;</l>
+<l>e seguì, che per questo ella d'Olimpo</l>
+<l>lasciato avea le mense, e le cortine</l>
+<l>de' talami celesti, e che desìo</l>
+<l>sol di vendetta la traea de' Volsci</l>
+<l>vagabonda sul lido, ove già rotti</l>
+<l>i primi sdegni avea, con alta mole</l>
+<l>d'acque coprendo le pomezie valli</l>
+<l>e le cittadi alla rival devote;</l>
+<l>ma non tutte però; ché salva alcuna</l>
+<l>n'avean dall'onde le montagne intorno.</l>
+<l>Quindi ben paga non andar, se tutto</l>
+<l>non abbatte, non guasta, non diserta</l>
+<l>l'abborrito paese. - Or prendi, o figlio,</l>
+<l>dell'eterno tuo foco una favilla;</l>
+<l>sveglia i tremuoti, che oziosi e pigri</l>
+<l>dormon nel fianco di quei monti: orrendo</l>
+<l>apri un lago di fiamme, ardi le rupi,</l>
+<l>struggi i campi e le selve; e più non chieggo. -</l></lg>
+<lg><l>Intento della madre alle parole</l>
+<l>stava Vulcano, ad una lunga mazza</l>
+<l>il cubito appoggiato; e poi che Giuno</l>
+<l>al ragionar diè fine, in questi accenti</l>
+<l>su le piante mal fermo, egli rispose:</l>
+<l>- Ben io t'escuso, o madre, se di tanta</l>
+<l>ira t'accendi; ché d'amor tradito</l>
+<l>somma è la rabbia: ed io mel so per prova,</l>
+<l>io misero e deforme, e ancor più stolto,</l>
+<l>che bramai d'una diva esser marito,</l>
+<l>bella, è ver, ma impudica e senza fede.</l>
+<l>Pur ti conforta; ché per te son io</l>
+<l>a tutto far disposto. Io sotto i muri</l>
+<l>lagrimosi di Troia a tua preghiera</l>
+<l>già col Xanto pugnai, quando spumoso</l>
+<l>co' vortici ei respinse il divo Achille,</l>
+<l>che di sangue troian gonfio lo fea;</l>
+<l>e i salci gli avvampai, gli olmi, i ciperi</l>
+<l>e l'alghe e le mirici in larga copia</l>
+<l>cresciute intorno alla sua verde ripa.</l>
+<l>Or pensa se vorrò non adempire,</l>
+<l>di Giove in onta, il tuo desir, di Giove</l>
+<l>mio nemico del par che tuo tiranno.</l>
+<l>Ti rammenta quel dì che fra voi surta</l>
+<l>su l'Olimpo contesa, avventurarmi</l>
+<l>in tuo soccorso io volli. Egli d'un piede</l>
+<l>m'afferrò furibondo, e fuor del cielo</l>
+<l>arrandellommi per l'immenso vôto.</l>
+<l>Intero un giorno rovinai col capo</l>
+<l>in giù travolto, e con rapide rote</l>
+<l>vertiginose. Semivivo alfine</l>
+<l>in Lenno caddi col cader del sole;</l>
+<l>e chi sa quante in quell'alpestre balza</l>
+<l>lunghe e dure m'avrei doglie sofferte,</l>
+<l>se Eurinome, la bella Oceanina,</l>
+<l>e l'alma Teti doloroso e rotto</l>
+<l>non m'accogliean pietose in cavo speco,</l>
+<l>a cui spumante intorno ed infinita</l>
+<l>d'Oceàn la corrente mormorava.</l>
+<l>Ivi per tema del crudel mi vissi</l>
+<l>quasi due lustri sconosciuto e oscuro</l>
+<l>fabbro d'armille e di fermagli e d'altre</l>
+<l>opre al mio senno inferiori e vili.</l>
+<l>Or i tuoi torti, o madre, io lo prometto,</l>
+<l>e in uno i miei vendicherò: poi venga,</l>
+<l>se il vuol, qua dentro a spaventarmi questo</l>
+<l>seduttor di fanciulle onnipossente,</l>
+<l>ingiusto padre ed infedel marito:</l>
+<l>vedrem che vaglia del suo carro il tuono</l>
+<l>senza il fulmine mio, senza l'aita</l>
+<l>del mio martello. - In così dir l'irato</l>
+<l>dio sulla mazza con la man battea;</l>
+<l>poi gittolla in disparte, e corse ad una</l>
+<l>delle fornaci. All'infocate brage</l>
+<l>appressò le tanaglie: una ne trasse</l>
+<l>d'inestinguibil tempra, e in cavo rame</l>
+<l>l'imprigionò. Di cotal peste carchi,</l>
+<l>della spelonca uscîr Vulcano e Giuno,</l>
+<l>quai fameliche belve che di notte</l>
+<l>lascian la tana, e taciturne e crude</l>
+<l>van nell'ovile a insanguinar l'artiglio.</l></lg>
+<lg><l>Della squallida grotta in su l'uscita</l>
+<l>di rugiadose stille allor raccolte</l>
+<l>dalle rose di Pesto Iri cosperse</l>
+<l>la sua reina, e con ambrosia il divo</l>
+<l>corpo lavando, ne deterse il fumo</l>
+<l>ed ogni tristo odor. Dagl'immortali</l>
+<l>capelli della dea quante sul suolo</l>
+<l>caddero gocce del licor celeste,</l>
+<l>tante nacquer viole ed asfodilli.</l>
+<l>Mosse, ciò fatto, la tremenda coppia</l>
+<l>circondata di nembi; e come lampo</l>
+<l>che solca il sen della materna nube</l>
+<l>con sì rapido vol, che la pupilla</l>
+<l>per quella riga a seguitarlo è tarda,</l>
+<l>tal di Giuno e Vulcano è la prestezza:</l>
+<l>su la vetta calâr precipitosi</l>
+<l>delle rupi setine, onde la faccia</l>
+<l>scoprìasi tutta del sommerso piano.</l>
+<l>- Guarda, - disse Giunon - riguarda, o figlio,</l>
+<l>di mia vendetta le primizie. - E in questo</l>
+<l>gli mostrava l'orribile palude</l>
+<l>da freschi venti combattuta e crespa,</l>
+<l>mentre i raggi del Sol vôlti all'occaso</l>
+<l>scorrean vermigli su l'incerto flutto;</l>
+<l>del Sole, che parea dall'empia vista</l>
+<l>fuggir pietoso, e dietro ai colli Albani</l>
+<l>pallida e mesta raccogliea la luce.</l></lg>
+<lg><l>Già morìa su le cose ogni colore,</l>
+<l>e terra e ciel tacea, fuor che del mare</l>
+<l>l'incessante muggito; allor che pronto</l>
+<l>il fatal vase scoperchiò Vulcano,</l>
+<l>e all'aura scintillar la rubiconda</l>
+<l>bragia ne fece. Ne sentiro il puzzo</l>
+<l>i sotterranei zolfi e le piriti</l>
+<l>e gli asfalti oleosi, e dal segreto</l>
+<l>amor sospinti, che tra loro i corpi</l>
+<l>lega e l'un l'altro a desiar costrigne,</l>
+<l>ne concepîr meraviglioso affetto,</l>
+<l>e di salso umidor pasciuti e pingui</l>
+<l>si fermentaro, ed esalâr di sopra</l>
+<l>improvvisa mefite. E pria le nari</l>
+<l>ne fur de' bruti e de' volanti offese,</l>
+<l>che tosto piene le contrade e i campi</l>
+<l>fêr di lunghi stridori e di lamenti.</l>
+<l>N'ulularono i boschi e le caverne,</l>
+<l>e tutti intorno paurosi i fonti</l>
+<l>n'ebber senso d'orror. Corrotte allora</l>
+<l>la prima volta la caronie linfe</l>
+<l>mandâr l'alito rio, che tetro ancora</l>
+<l>spira, e infamato avvicinar non lascia</l>
+<l>né greggia né pastor. L'almo ruscello</l>
+<l>di Feronia turbossi, e amare e sozze</l>
+<l>dalla pietra natìa spinse le polle</l>
+<l>sì dolci in prima e cristalline. E Alcone,</l>
+<l>pastor canuto, che v'avea sul margo</l>
+<l>il suo rustico tetto, a sé chiamando</l>
+<l>su l'uscio i figli, e il mar, le selve, il cielo</l>
+<l>esaminando, e palpitando: - Oh! - disse</l>
+<l>- noi miseri, che fia? Mirate in quale</l>
+<l>fier silenzio sepolta è la natura!</l>
+<l>Non stormisce virgulto, aura non muove,</l>
+<l>che un crin sollevi della fronte: il rivo,</l>
+<l>il sacro rivo di Feronia anch'esso</l>
+<l>ve' come sgorga lutulento, e fugge</l>
+<l>con insolito pianto, e là Melampo,</l>
+<l>che in mezzo del cortil mette pietosi</l>
+<l>ululati, e da noi par che rifugga,</l>
+<l>e a sé ne chiami. Ah chi sa quai sventure</l>
+<l>l'amor suo n'ammonisce e la sua fede!</l>
+<l>Poniamo, o figli, le ginocchia a terra;</l>
+<l>supplichiamo agli dèi, che certo in ira</l>
+<l>son co' mortali. - Avea ciò detto appena,</l>
+<l>che tingersi mirò l'aria in sanguigno,</l>
+<l>e cupo un rombo propagossi. Il rombo</l>
+<l>venìa dall'opra di Vulcan, che ratto</l>
+<l>la montagna esplorando, ove più vivo</l>
+<l>con lo spesso odorar sentìa l'effluvio</l>
+<l>de' commossi bitumi, entro un immane</l>
+<l>fendimento di rupi era disceso,</l>
+<l>buio baratro immenso, a cui di zolfi</l>
+<l>ferve in mezzo e d'asfalti un bulicame</l>
+<l>che in cento rivi si dirama, e tutte</l>
+<l>per segreti cunicoli e sentieri</l>
+<l>pasce le membra degl'imposti monti.</l>
+<l>In questa di tremuoti atra officina</l>
+<l>lasciò cader Mulcibero l'ardente</l>
+<l>irritato carbone. In un baleno</l>
+<l>fiammeggiò la vorago, e scoppi e tuoni</l>
+<l>e turbini di fumo e di faville</l>
+<l>avvolser tutto l'incombusto dio.</l>
+<l>Più veloce dell'ali del pensiero</l>
+<l>per le sulfuree vie corse la fiamma</l>
+<l>licenziosa, ed abbracciò le immense</l>
+<l>ossa de' monti, e delle valli i fianchi,</l>
+<l>e d'Anfitrite i gorghi. Allor dal fondo</l>
+<l>senza vento sospinti in gran tempesta</l>
+<l>saltano i flutti: ondeggiano le rupi,</l>
+<l>e scuotono dal dosso le castella</l>
+<l>e le svelte cittadi. Addolorata</l>
+<l>geme la terra, che snodar si sente</l>
+<l>le viscere, e distrar le sue gran braccia.</l>
+<l>E tu, padre di mille incliti fiumi,</l>
+<l>e di due mari nutritor, crollasti,</l>
+<l>o nimboso Appennin, l'alte tue cime;</l>
+<l>e spezzata temesti la catena</l>
+<l>che i tuoi gioghi all'estreme Alpi congiugne;</l>
+<l>siccome il dì, che col tridente eterno</l>
+<l>percotendo i tuoi fianchi il re Nettuno,</l>
+<l>a tutta forza dall'esperio lido</l>
+<l>il siculo divise, e in mezzo all'onde</l>
+<l>Procida spinse ed Ischia e Pitecusa.</l>
+<l>Pluto istesso balzò, forte atterrito,</l>
+<l>dal suo lurido trono, e visti intorno</l>
+<l>crollar di Dite i muri e le colonne</l>
+<l>(ché dritto a piombo su l'inferna volta</l>
+<l>il tremoto ruggìa), levò lo sguardo,</l>
+<l>e violato dalla luce il regno</l>
+<l>de' morti paventò. Stupore aggiunse</l>
+<l>l'improvviso nitrito e calpestìo</l>
+<l>de' suoi neri cavalli, che, le regie</l>
+<l>stalle intronando, inferocìan da strano</l>
+<l>terror percossi, e le morate giubbe</l>
+<l>e le briglie scuotean, foco sbuffando</l>
+<l>dalle larghe narici; infin che desta</l>
+<l>a quel romor Proserpina, la bella</l>
+<l>d'Averno imperatrice (che sovente</l>
+<l>prendea diletto con le rosee dita</l>
+<l>porger loro di Stige il saporoso</l>
+<l>melagrano divino), ad acchetarli</l>
+<l>corse, e per nome li chiamò, palpando</l>
+<l>soavemente di que' feri il petto</l>
+<l>con le palme amorose. Uscito intanto</l>
+<l>era Vulcan dalla tremenda buca</l>
+<l>lieto dell'opra, e con piacer crudele</l>
+<l>contemplava la polve e il denso fumo</l>
+<l>delle svelte città. Giace Mugilla,</l>
+<l>e la ricca di pampani e d'olivi</l>
+<l>petrosa Ecetra, e la turrita Artena,</l>
+<l>e l'illustre per salda intatta fede</l>
+<l>erculea Norba, a cui di cento greggi</l>
+<l>biancheggiavano i colli. E tu cadesti,</l>
+<l>Cora infelice, e nelle tue ruine</l>
+<l>le ceneri perîr sante del primo</l>
+<l>ausonio padre, né potêr giovarti</l>
+<l>di Dardano i Penati, né degli almi</l>
+<l>figli di Leda la propizia stella,</l>
+<l>che all'aprico tuo suol dolce ridea.</l></lg>
+<lg><l>Voi sole a terra non andaste, o sacre</l>
+<l>ansure mura; ché di Giove amica</l>
+<l>vi sostenne la destra, e la caduta</l>
+<l>non permise dell'ara, ove tremenda</l>
+<l>riposava la folgore divina.</l>
+<l>Sentì di voi pietade il dio, di voi,</l>
+<l>e non sentilla delle bianche chiome</l>
+<l>d'Alcon, d'Alcone il più giusto, il più pio</l>
+<l>dell'ausonia contrada. Umilemente</l>
+<l>al suol messo il ginocchio, il venerando</l>
+<l>veglio tenea levate al ciel le palme;</l>
+<l>e a canto in quel medesmo atto composti</l>
+<l>gli eran due figli in vista sì pietosa,</l>
+<l>che fatto avrìa clementi anco le rupi.</l>
+<l>Quando venne un tremor che violento</l>
+<l>crollò la casa pastorale, e tutta</l>
+<l>in un subito, ahi! tutta ebbe sepolta</l>
+<l>l'innocente famiglia. Unico volle</l>
+<l>la ria Parca lasciar Melampo in vita,</l>
+<l>raro di fede e d'amistade esempio.</l>
+<l>Ei rimasto a plorar su la rovina,</l>
+<l>fra le macerie ricercando a lungo</l>
+<l>andò col fiuto il suo signor sepolto,</l>
+<l>immemore del cibo, e le notturne</l>
+<l>ombre rompendo d'ululati e pianti;</l>
+<l>finché quarto egli cadde, e non gl'increbbe,</l>
+<l>più dal dolor che dal digiuno ucciso.</l>
+<l>Fortunato Melampo! se qualcuna</l>
+<l>leggerà questi carmi alma cortese,</l>
+<l>spero io ben che n'andrà mesta e dolente</l>
+<l>sul tuo fin miserando. Il tuo bel nome</l>
+<l>ne' posteri sarà quello de' veltri</l>
+<l>più generosi; e noi malvagia stirpe</l>
+<l>dell'audace Giapeto, a cui peggiori</l>
+<l>i figli seguiran, noi dalle belve</l>
+<l>la verace amicizia apprenderemo.</l></lg>
+</div1>
+<div1><head>CANTO III</head>
+
+<lg><l>All'ardua cima del sereno Olimpo</l>
+<l>risalìa Giove intanto, e ad incontrarlo</l>
+<l>accorrean presti e riverenti i numi</l>
+<l>su le porte del cielo. In mezzo a tutti,</l>
+<l>in due schierati taciturne file,</l>
+<l>maestoso egli passa, a quella guisa</l>
+<l>che suol, calando al pallido Occidente,</l>
+<l>passar tra i verecondi astri minori</l>
+<l>d'Iperione il luminoso figlio,</l>
+<l>quando dall'arsa eclittica il gran carro</l>
+<l>della luce ritira, e l'Ore ancelle</l>
+<l>sciolgono dal timon bianco di spuma</l>
+<l>i fumanti cavalli. Ai sacri alberghi</l>
+<l>dell'aurea reggia rispettosi i divi</l>
+<l>accompagnâr l'Onnipotente; e giunti</l>
+<l>al grande limitar, per sé medesme</l>
+<l>si spalancâr sui cardini di bronzo</l>
+<l>le porte d'oro, che uno spirto move</l>
+<l>intrinseco e possente: e tale intorno</l>
+<l>nell'aprirsi mandâr cupo un ruggito,</l>
+<l>che tutto ne tremò l'alto convesso.</l>
+<l>Ivi in parte segreta, a cui nessuno</l>
+<l>non ardisce appressar degli altri eterni</l>
+<l>(fuor che le meste e querule Preghiere,</l>
+<l>che libere pel ciel scorrono, e al nume</l>
+<l>portano i voti degli oppressi e il pianto),</l>
+<l>l'egìoco Padre in gran pensier s'assise</l>
+<l>sovra il balzo d'Olimpo il più sublime.</l>
+<l>Contemplava di là giusto e pietoso</l>
+<l>de' mortali gli affanni e le fatiche:</l>
+<l>mirò d'Ausonia i campi, e la pontina</l>
+<l>valle in orrendo pelago conversa;</l>
+<l>mirò per tutto (miserabil vista!)</l>
+<l>le sue tante cittadi, altre sommerse,</l>
+<l>altre per forza di tremuoto svelte</l>
+<l>dalle ondeggianti rupi, e la catena,</l>
+<l>donde pendon la terra e il mar sospesi,</l>
+<l>scuotersi ancora, ed oscillar commossa</l>
+<l>dalla tremenda di Vulcan possanza.</l>
+<l>Ciò tutto contemplando in suo segreto,</l>
+<l>non fu tardo a veder che tanto eccesso,</l>
+<l>tanta rovina sarìa poco all'ira</l>
+<l>della fiera consorte. In compagnia</l>
+<l>del potente de' fuochi egli la vide</l>
+<l>verso la sacra selva incamminarsi,</l>
+<l>ove Feronia nel maggior suo tempio</l>
+<l>di vittime, d'incensi e di ghirlande</l>
+<l>dalle genti latine avea tributo.</l></lg>
+<lg><l>Di Giuno ei quindi antivedendo il nuovo</l>
+<l>scellerato disegno, a sé chiamato</l>
+<l>di Maia il figlio, esecutor veloce</l>
+<l>de' suoi cenni, gli fe' queste parole:</l>
+<l>- Nuove furie gelose, o mio fedele,</l>
+<l>hanno turbato alla mia sposa il petto;</l>
+<l>e quai del suo rancor già sono usciti</l>
+<l>senza misura lagrimosi effetti,</l>
+<l>non t'è nascoso. Un simulacro avanza</l>
+<l>dell'esule Feronia, un tempio solo</l>
+<l>di tanti che già n'ebbe; e questo ancora</l>
+<l>vuole al suolo adeguar la furibonda.</l>
+<l>Or che consiglio è il suo? Stolta, che tenta?</l>
+<l>Se rispettar le nostre ire non sanno</l>
+<l>le sante cose in terra, e i monumenti</l>
+<l>dell'umana pietà, chi de' mortali</l>
+<l>sarà che più n'adori, e nella nostra</l>
+<l>divina qualità più ponga fede?</l>
+<l>Prendi adunque sul mar Tirreno il volo,</l>
+<l>t'appresenta a Giunon carco de' miei</l>
+<l>forti comandi. Con le fiamme assalga,</l>
+<l>se tanto è il suo disdegno, anco la selva</l>
+<l>(ch'ella a ciò si prepara, e consentire</l>
+<l>io le vo' pur quest'ultima vendetta):</l>
+<l>ma se l'empia oserà stender la destra</l>
+<l>alle sacre pareti, e violarne</l>
+<l>il fatal simulacro, alla superba</l>
+<l>tu superbo farai queste parole:</l>
+<l>"Fisso è nel mio volere (e per la stigia</l>
+<l>onda lo giuro) che l'achea contrada</l>
+<l>lasciar debbano i numi, e nell'opima</l>
+<l>itala terra stabilir più fermo,</l>
+<l>più temuto il lor seggio. Io le catene</l>
+<l>del mio padre Saturno ho già disciolte,</l>
+<l>e l'offesa obbliai, che mi costrinse</l>
+<l>a sbandirlo dal ciel. L'ospite suolo,</l>
+<l>che ramingo l'accolse e ascoso il tenne,</l>
+<l>sacro esser debbe, né aver dato asilo</l>
+<l>di Giove al genitor senza mercede.</l>
+<l>Dopo il beato Olimpo, in avvenire</l>
+<l>sia dunque Italia degli dèi la stanza,</l>
+<l>e di là parta un dì quanto valore</l>
+<l>della mente e del braccio in pace e in guerra</l>
+<l>farà suggetto il mondo, e quanta insieme</l>
+<l>civiltà, sapienza e gentilezza</l>
+<l>renderanno l'umana compagnia</l>
+<l>dalle belve divisa, e minor poco</l>
+<l>della divina. A secondar l'eccelso</l>
+<l>proponimento mio già nello speco</l>
+<l>della rupe cuméa mugge d'Apollo</l>
+<l>la delfica cortina, ed esso il dio,</l>
+<l>dimenticata la materna Delo,</l>
+<l>ai dipinti Agatirsi ama preporre</l>
+<l>del Soratte gli scalzi sacerdoti.</l>
+<l>Già la sorella sua di Cinto i gioghi</l>
+<l>lieta abbandona, e le gargafie fonti,</l>
+<l>del nemorense lago innamorata.</l>
+<l>Alle sorti di Licia han tolto il grido</l>
+<l>le prenestine, e di Laurento i boschi</l>
+<l>tacer già fanno le parlanti querce</l>
+<l>della vinta Dodona. In su la spiaggia</l>
+<l>d'Anzio diletta Venere trasporta</l>
+<l>d'Amatunta i canestri, e Bacco e Vesta,</l>
+<l>e Cerere e Minerva, e il re dell'onde</l>
+<l>son già numi latini. E alle latine</l>
+<l>d'Elide l'are già posposi io stesso,</l>
+<l>e sul Tarpéo recai dell'Ida i tuoni</l>
+<l>e le procelle. Perocché maturo</l>
+<l>già s'agita nell'urna il gran destino,</l>
+<l>che gloriosa dee fondar sul Tebro</l>
+<l>la reina del mondo. Al sol bisbiglio</l>
+<l>che di lei fanno i tripodi cumani,</l>
+<l>tutta trema la terra: e già s'appressa</l>
+<l>d'Anchise il pio figliuol, seco adducendo</l>
+<l>d'Ilio i Penati, che faran nel Lazio</l>
+<l>la vendetta di Troia, e spezzeranno</l>
+<l>d'Agamennon lo scettro in Campidoglio.</l>
+<l>Cotal de' Fati è il giro; e disviarlo</l>
+<l>tenta indarno Giunon: da Samo indarno</l>
+<l>porta alla sua Cartago il cocchio e l'asta</l>
+<l>e l'argolico scudo, armi che un giorno</l>
+<l>fian concedute con miglior fortuna</l>
+<l>di Dardano ai nepoti, allor che Giuno</l>
+<l>per quella stessa region, su cui</l>
+<l>tanta mole di flutti ora sospinse,</l>
+<l>placata scorrerà del Lazio i lidi.</l>
+<l>Ivi su l'ara Sospita le genti</l>
+<l>l'invocheranno; ed ella, il fianco adorna</l>
+<l>delle pelli caprine, e dentro il fumo</l>
+<l>de' lanuvini sagrificii avvolta,</l>
+<l>tutti a mensa accorrà d'Ausonia i numi</l>
+<l>cortesemente, e porgerà di pace</l>
+<l>a Feronia l'amplesso; onde già fatte</l>
+<l>entrambe amiche, toccheran le tazze</l>
+<l>propinando a vicenda, e in larghi sorsi</l>
+<l>l'obblìo berran delle passate cose."</l>
+<l>Va dunque, e sì le parla. Il suo pensiero</l>
+<l>volga in meglio l'altera, e alle sue stanze</l>
+<l>rieda in Olimpo; ché l'andar vagando</l>
+<l>più lungamente in terra io le divieto.</l>
+<l>E se niega obbedir, tu le rammenta</l>
+<l>le incudi un giorno al suo calcagno appese;</l>
+<l>e dille che la man che ve le avvinse,</l>
+<l>non ha perduta la possanza antica. -</l></lg>
+<lg><l>Disse; e Mercurio ad eseguir del padre</l>
+<l>il precetto s'accinse. E pria l'alato</l>
+<l>petaso al capo adatta, ed alle piante</l>
+<l>i bei talari, ond'ei vola sublime</l>
+<l>su la terra e sul mare, e la rattezza</l>
+<l>passa de' venti. Impugna indi l'avvinta</l>
+<l>verga di serpi, prezioso dono</l>
+<l>del fatidico Apollo il dì che a lui</l>
+<l>l'argicida fratel cesse la lira:</l>
+<l>con questa verga, tutta d'oro, in vita</l>
+<l>ei richiama le morte alme, ed a Pluto</l>
+<l>mena le vive, ed or sopore infonde</l>
+<l>nell'umane pupille, ed or ne 'l toglie.</l>
+<l>Sì guernito, e con tal d'ali remeggio</l>
+<l>spiccasi a volo. Occhio mortal non puote</l>
+<l>seguitarne la foga; in men che il lampo</l>
+<l>guizza e trapassa, egli è già sceso, e preme</l>
+<l>il campano terreno, un dì nomato</l>
+<l>campo flegréo, famosa sepoltura</l>
+<l>de' percossi Giganti. Intorno tutta</l>
+<l>manda globi di fumo la pianura,</l>
+<l>ed ogni globo dal gran petto esala</l>
+<l>d'un fulminato. A fronte alza il Vesevo</l>
+<l>brullo il colmigno, ed al suo piè la dolce</l>
+<l>lagrima di Liéo stillan le viti.</l>
+<l>Lieve lieve radendo il folgorato</l>
+<l>terren di Maia il figlio, e la marina</l>
+<l>sorvolando, levossi all'erte cime</l>
+<l>della balza circéa, che di Feronia</l>
+<l>signoreggia la selva. Ivi fermossi,</l>
+<l>qual uom che tempo al suo disegno aspetta;</l>
+<l>e di là dechinando il guardo attento</l>
+<l>al piano che s'avvalla spazioso</l>
+<l>fra l'ànsure dirupo ed il circéo,</l>
+<l>e tutto copre di Feronia il bosco,</l>
+<l>a quella volta acceleranti il passo</l>
+<l>vide Giuno e Vulcano, armati entrambi</l>
+<l>d'orrende faci, ed anelanti a nuova</l>
+<l>nefanda offesa. All'appressar di quelle</l>
+<l>vampe nemiche un lungo mise e cupo</l>
+<l>gemito la foresta: augelli e fiere,</l>
+<l>a cui Natura, più che all'uom cortese,</l>
+<l>presentimento diè quasi divino,</l>
+<l>da subito terror compresi, i dolci</l>
+<l>nidi e i covili abbandonâr stridendo</l>
+<l>e ululando smarriti, e senza legge</l>
+<l>d'ogni parte fuggendo. I primi incendi</l>
+<l>eran già desti, e già di Giuno al cenno,</l>
+<l>già la sua fida messaggera e ancella</l>
+<l>verso Eolia battea preste le penne</l>
+<l>con prego ai venti di soffiar gagliardi</l>
+<l>dentro le fiamme, e promettendo pingui</l>
+<l>in nome della dea vittime e doni:</l>
+<l>come il dì che d'Achille ai caldi voti,</l>
+<l>del morto amico gli avvampâr la pira.</l></lg>
+<lg><l>Già stendendo venìa l'umida notte</l>
+<l>sul volto della terra il negro velo,</l>
+<l>e in grembo al suo pastor Cinzia dormìa;</l>
+<l>quando i figli d'Astréo con gran fracasso</l>
+<l>dall'eolie spelonche sprigionati</l>
+<l>s'avventâr su l'incendio, e per la selva</l>
+<l>senza freno lo sparsero. La vampa</l>
+<l>esagitata rugge, e dalla quercia</l>
+<l>si devolve su l'olmo e su l'abete;</l>
+<l>crepita il lauro; e le loquaci chiome</l>
+<l>stridono in capo al berecinzio pino,</l>
+<l>a sfidar nato su gli equorei campi</l>
+<l>d'Africo e d'Euro i tempestosi assalti.</l>
+<l>Già tutta la gran selva è un mar di foco</l>
+<l>e di terribil luce, a cui la notte</l>
+<l>spavento accresce, e orribilmente splende</l>
+<l>per lungo tratto la circéa marina;</l>
+<l>simigliante al Sigéo, quando gli eletti</l>
+<l>guerrier di Grecia del cavallo usciti</l>
+<l>in faville mandâr d'Ilio le torri,</l>
+<l>e atterrita la frigia onda si fea</l>
+<l>specchio al rogo di Troia; miserando</l>
+<l>di tanti eroi sepolcro e di tant'ire.</l></lg>
+<lg><l>All'orrendo spettacolo il feroce</l>
+<l>cor di Giuno esultava; e impaziente</l>
+<l>di vendicarsi al tutto (ché suprema</l>
+<l>voluttà de' potenti è la vendetta),</l>
+<l>un divampante tizzo alto agitando</l>
+<l>e furiando, vola al gran delubro,</l>
+<l>ch'unico avanza della sua nemica,</l>
+<l>ferma in cor d'atterrarlo, incenerirlo,</l>
+<l>e spegnere con esso ogni vestigio</l>
+<l>dell'abborrito culto. Armato ei pure</l>
+<l>d'empia face, Vulcan seguìa non tardo</l>
+<l>la fiera madre; e già le sacre soglie</l>
+<l>calcano entrambi: dai commossi altari</l>
+<l>già fugge la Pietà, fugge smarrita</l>
+<l>la Fede avvolta nel suo bianco velo:</l>
+<l>con vivo senso di terrore anch'esso</l>
+<l>si commosse il tuo santo simulacro,</l>
+<l>o misera Feronia, e un doloroso</l>
+<l>gemito mise (meraviglia a dirsi!),</l>
+<l>quasi accusando d'empietade il cielo.</l>
+<l>Ma del figliuol di Maia, a ciò spedito,</l>
+<l>non fu tarda l'aita in tanto estremo:</l>
+<l>e come stella che alle notti estive</l>
+<l>precipite labendo il cielo fende</l>
+<l>di momentaneo solco, e va sì ratta,</l>
+<l>che l'occhio appena nel passar l'avvisa;</l>
+<l>non altrimenti il dio stretto nell'ali</l>
+<l>il sereno trascorse, e rilucente</l>
+<l>sul vestibolo sacro appresentossi.</l>
+<l>All'improvvisa sua comparsa il passo</l>
+<l>stupefatti arrestâr Vulcano e Giuno,</l>
+<l>e si turbâr vedendosi di fronte</l>
+<l>starsi ritto Mercurio, e imperioso</l>
+<l>contra il lor petto le temute serpi</l>
+<l>chinar dell'aurea verga, e così dire:</l>
+<l>- Férmati, o Diva; portator son io</l>
+<l>di severa ambasciata. A te comanda</l>
+<l>l'onnipossente tuo consorte e sire</l>
+<l>di gettar quelle faci, e inviolata</l>
+<l>quest'effigie lasciar e queste mura.</l>
+<l>Riedi alle stanze dell'Olimpo, e tosto;</l>
+<l>ché ti si vieta andar più lungamente</l>
+<l>vagando in terra, e funestar di stragi</l>
+<l>le contrade latine, a cui l'impero</l>
+<l>promettono del mondo il fato e Giove. -</l>
+<l>E di Giove e del fato a mano a mano</l>
+<l>qui le aperse i voleri, e il tempo e il modo</l>
+<l>de' futuri successi: e non diè fine</l>
+<l>all'austero parlar, che ricordolle</l>
+<l>le incudi un giorno al suo calcagno appese,</l>
+<l>e il braccio punitor, che non avea</l>
+<l>perduta ancora la possanza antica.</l></lg>
+<lg><l>Cadde il tizzo di mano a quegli accenti</l>
+<l>al dio di Lenno, e tra le vampe e il fumo</l>
+<l>si dileguò; né disse addio, né parve</l>
+<l>aver mal fermo a pronta fuga il piede;</l>
+<l>ma con torvo sembiante e disdegnoso</l>
+<l>si ristette Giunon, ché rabbia e tema</l>
+<l>le stringono la mente, e par tra' ferri</l>
+<l>la generosa belva che gli orrendi</l>
+<l>occhi travolve, e il correttor flagello</l>
+<l>fa tremar nella man del suo custode.</l>
+<l>Senza dir motto alfin volse le spalle,</l>
+<l>e rotando in partir la face in alto,</l>
+<l>con quanta più poteo forza la spinse:</l>
+<l>vola il ramo infiammato, e di sanguigna</l>
+<l>luce un grand'arco con immensa riga</l>
+<l>segna per l'etra taciturno e scuro.</l>
+<l>Il sidicino montanar v'affisse</l>
+<l>stupido il guardo, e sbigottissi, e un gelo</l>
+<l>corse per l'ossa al pescator d'Amsanto,</l>
+<l>quando sul capo ruinar sel vide,</l>
+<l>e cader sibilando nella valle,</l>
+<l>ove suona rumor di fama antica,</l>
+<l>che del puzzo mortal, che ancor v'esala,</l>
+<l>l'aria e l'onde corruppe, ed un orrendo</l>
+<l>spiraglio aperse, che conduce a Dite.</l></lg>
+<lg><l>Come allor che su i nostri occhi Morféo</l>
+<l>sparger ricusa la letéa rugiada,</l>
+<l>d'ogni parte la mente va veloce,</l>
+<l>e fugge, e torna, e slanciasi in un punto</l>
+<l>dall'aurora all'occaso, e dalla terra</l>
+<l>alla sfera di Giove e di Saturno;</l>
+<l>con tal prestezza si sospinse al cielo</l>
+<l>la ritrosa Giunon. L'Ore custodi</l>
+<l>delle soglie d'Empiro incontanente</l>
+<l>alla reina degli dèi le porte</l>
+<l>spalancâr dell'Olimpo, e la bionda Ebe,</l>
+<l>ilare il volto, e l'abito succinta,</l>
+<l>le corse incontro con la tazza in mano</l>
+<l>del nèttare celeste; ed ella un sorso</l>
+<l>né pur gustò dell'immortal bevanda;</l>
+<l>ché troppo d'amarezza e di rammarco</l>
+<l>avea l'anima piena. Onde con gli occhi</l>
+<l>in giù rivolti e d'allegrezza privi,</l>
+<l>né a verun degli dèi, che surti in piedi</l>
+<l>erano al suo passar, fatto un saluto,</l>
+<l>il passo accelerò verso i recessi</l>
+<l>del talamo divino; ed ivi entrata,</l>
+<l>serrò le porte rilucenti, e tutte</l>
+<l>ne fûro escluse le fedeli ancelle.</l>
+<l>Poiché sola rimase, al suo dispetto</l>
+<l>abbandonossi; lacerò le bende,</l>
+<l>ruppe armille e monili, e gettò lunge</l>
+<l>la clamide regal che di sua mano</l>
+<l>tessé Minerva, e d'auree frange il lembo</l>
+<l>circondato n'avea. Né tu sicura</l>
+<l>da' suoi furori andar potesti, o sacra</l>
+<l>alla beltade, inaccessibil ara,</l>
+<l>che non hai nome in cielo, e tra' mortali</l>
+<l>da barbarico accento lo traesti,</l>
+<l>cui le Muse abborrîr. Cieca di sdegno</l>
+<l>ti riversò la dea: cadde, e si franse</l>
+<l>con diverso fragor l'ampio cristallo,</l>
+<l>che in mezzo dell'altar sorgea sovrano</l>
+<l>maestoso e superbo, e in un confusi</l>
+<l>n'andâr sossopra i vasi d'oro e l'urne</l>
+<l>degli aromi celesti e de' profumi,</l>
+<l>onde tal si diffuse una fragranza,</l>
+<l>che tutta empiea la casa e il vasto Olimpo.</l></lg>
+<lg><l>Mentre così l'ire gelose in cielo</l>
+<l>disacerba Giunon, quai sono in terra</l>
+<l>di Feronia le lagrime, i sospiri?</l>
+<l>Ditelo, d'Elicona alme fanciulle,</l>
+<l>voi che l'opere tutte e i pensier anco</l>
+<l>de' mortali sapete e degli dèi.</l>
+<l>Poi che si vide l'infelice in bando</l>
+<l>cacciata dal natìo dolce terreno,</l>
+<l>d'ara priva e d'onori, e dallo stesso</l>
+<l>(ahi sconoscenza!), dallo stesso Giove</l>
+<l>lasciata in abbandono, ella dolente</l>
+<l>verso i boschi di Trivia incamminossi,</l>
+<l>e ad or ad or volgea lo sguardo indietro,</l>
+<l>e sospirava. Sul piè stanco alfine</l>
+<l>mal si reggendo, e dalla lunga via,</l>
+<l>e più dal duolo abbattuta e cadente,</l>
+<l>sotto un'elce s'assise: ivi facendo</l>
+<l>al volto letto d'ambedue le palme,</l>
+<l>tutta con esse si coprì la fronte,</l>
+<l>e nascose le lagrime, che mute</l>
+<l>le bagnavan le gote, e le sapea</l>
+<l>solo il terren, che le bevea pietoso.</l>
+<l>In quel misero stato la ravvolse</l>
+<l>dell'ombre sue la notte, e in sul mattino</l>
+<l>il Sol la ritrovò sparsa le chiome,</l>
+<l>e di gelo grondante e di pruina;</l>
+<l>perocché per dolor posta in non cale</l>
+<l>la sua celeste dignitade avea,</l>
+<l>onde al corpo divin l'aure notturne</l>
+<l>ingiuriose e irriverenti fûro,</l>
+<l>siccome a membra di mortal natura.</l>
+<l>Lica intanto, di povero terreno</l>
+<l>più povero cultor, dal letticciuolo</l>
+<l>era surto con l'alba, e del suo campo</l>
+<l>visitando venìa le orrende piaghe,</l>
+<l>che fatte avean la pioggia, il ghiaccio, il vento</l>
+<l>agli arboscelli, ai solchi ed alle viti.</l>
+<l>Lungo il calle passando, ove la Diva</l>
+<l>in quell'atto sedea, da meraviglia</l>
+<l>tocco, e più da pietà, ché fra le selve</l>
+<l>meglio che in mezzo alle cittadi alberga,</l>
+<l>s'appressò palpitando, e la giacente</l>
+<l>non conoscendo (ché a mortal pupilla</l>
+<l>difficil cosa è il ravvisar gli dèi),</l>
+<l>ma in lei della contrada argomentando</l>
+<l>una ninfa smarrita: - O tu, chi sei,</l>
+<l>chi sei, - le disse - che sì care e belle</l>
+<l>hai le sembianze e dolor tanto in volto?</l>
+<l>Per chi son queste lagrime? t'ha forse</l>
+<l>priva il ciel della madre o del fratello</l>
+<l>o dell'amato sposo? ché son questi</l>
+<l>certo i primi de' mali, onde sovente</l>
+<l>Giove n'affligge. Ma del tuo cordoglio</l>
+<l>qual si sia la cagion, prendi conforto,</l>
+<l>e pazienza opponi alle sventure</l>
+<l>che ne mandano i numi: essi nemici</l>
+<l>nostri non son; ma col rigor talvolta</l>
+<l>correggono i più cari. Alzati, o donna;</l>
+<l>vieni, e t'adagia nella mia capanna,</l>
+<l>che non è lungi; e le forze languenti</l>
+<l>ivi di qualche cibo e di riposo</l>
+<l>ristorerai. La mia consorte poscia</l>
+<l>di tutto l'uopo ti sarà cortese;</l>
+<l>ch'ella è prudente, e degli afflitti amica,</l>
+<l>e qual figlia ambedue cara t'avremo. -</l></lg>
+<lg><l>Alle parole del villan pietoso</l>
+<l>s'intenerì la Diva, e in cor sentissi</l>
+<l>la doglia mitigar, tanta fra' boschi</l>
+<l>gentilezza trovando e cortesia.</l>
+<l>Levossi in piedi, ed ei le resse il fianco,</l>
+<l>e la sostenne con la man callosa.</l>
+<l>Nell'appressarsi, nel toccar ch'ei fece</l>
+<l>il divin vestimento, un brividìo,</l>
+<l>un palpito lo prese, un cotal misto</l>
+<l>di rispetto, d'affetto e di paura,</l>
+<l>che parve uscir dei sensi, e su le labbra</l>
+<l>la voce gli morì. Quindi il sentiero</l>
+<l>prese invêr la capanna, e il fido cane</l>
+<l>nel mezzo del cortil gli corse incontro:</l>
+<l>volea latrar; ma sollevando il muso,</l>
+<l>e attonite rizzando ambe le orecchie,</l>
+<l>guardolla, e muto su l'impressa arena</l>
+<l>ne fiutò le vestigia. In questo mentre</l>
+<l>alla cara sua moglie Teletusa</l>
+<l>il buon Lica dicea: - Presto sul desco</l>
+<l>spiega un candido lino, e passe ulive</l>
+<l>recavi e pomi e grappoli, che salvi</l>
+<l>dal morso abbiam dell'aspro verno, e un nappo</l>
+<l>di soave lambrusca, e s'altro in serbo</l>
+<l>tieni di meglio; ché mostrarci è d'uopo</l>
+<l>come più puossi liberali a questa</l>
+<l>peregrina infelice. - Allor spedita</l>
+<l>Teletusa si mosse, e in un momento</l>
+<l>di cibo rustical coperse il desco,</l>
+<l>ed invitò la Dea, la quale assisa</l>
+<l>sul limitar si stava, e immota e grave</l>
+<l>l'infinito suo duol premea nel petto;</l>
+<l>né già tenne l'invito, ché mortale</l>
+<l>corruttibil vivanda non confassi</l>
+<l>a palato immortal; ma ben di trito</l>
+<l>odoroso puleggio e di farina</l>
+<l>d'acqua commisti una bevanda chiese,</l>
+<l>grata al labbro de' numi, e l'ebbe in conto</l>
+<l>di sacra libagion. Forte di questo</l>
+<l>meravigliossi Teletusa, e fiso</l>
+<l>di Feronia il sembiante esaminando</l>
+<l>(poiché al sesso minor diero gli dèi</l>
+<l>curiose pupille, e accorgimento</l>
+<l>quasi divin), sospetto alto la prese,</l>
+<l>che si tenesse in quelle forme occulta</l>
+<l>cosa più che terrena. Onde in disparte</l>
+<l>tratto il marito, il suo timor gli espose,</l>
+<l>e creduta ne fu; ché facilmente</l>
+<l>cuor semplice ed onesto è persuaso.</l>
+<l>Allor Lica narrò quel che poc'anzi</l>
+<l>assalito l'avea strano tumulto,</l>
+<l>quando a sorgere in piè le porse aita,</l>
+<l>e con la mano le soffolse il fianco.</l>
+<l>Poi, seguendo, di Bauci e Filemone</l>
+<l>rammentâr l'avventura, e quel che udito</l>
+<l>da' vecchi padri avean, siccome ascoso</l>
+<l>fra lor nelle capanne e nelle selve</l>
+<l>stette a lungo Saturno, e nol conobbe</l>
+<l>altri che Giano. In cotal dubbio errando,</l>
+<l>si ritrassero entrambi, e lasciâr sola</l>
+<l>la taciturna Diva. Ella dal seggio</l>
+<l>si tolse allora, e due e tre volte scorse</l>
+<l>pensierosa la stanza, e poi di nuovo</l>
+<l>sospirando s'assise, e in questi accenti</l>
+<l>al suo fiero dolor le porte aperse:</l>
+<l>- Donde prima degg'io, Giove crudele,</l>
+<l>il mio lamento incominciar? Già tempo</l>
+<l>fu che, superba del tuo amor, chiamarmi</l>
+<l>potei felice ed onorata e diva.</l>
+<l>Or eccomi deserta; e non mi resta</l>
+<l>che questo sol di non poter morire</l>
+<l>privilegio infelice. E fino a quando</l>
+<l>alla fierezza della tua consorte</l>
+<l>esporrai questa fronte? Il premio è questo</l>
+<l>de' concessi imenei? Questi gli onori</l>
+<l>e le tante in Ausonia are promesse,</l>
+<l>onde speme mi desti che la prima</l>
+<l>mi sarei stata delle dee latine?</l>
+<l>Tu m'ingannasti: l'ultima son io</l>
+<l>degl'immortali, ahi lassa! e non mi fêro</l>
+<l>illustre e chiara, che le mie sventure.</l>
+<l>Rendimi, ingrato, rendimi alla morte,</l>
+<l>alla qual mi togliesti. Entro quell'onde</l>
+<l>concedimi perir, che la tua Giuno</l>
+<l>sul mio regno sospinse, o ch'io ritrovi</l>
+<l>agli arsi boschi in mezzo e alle ruine</l>
+<l>de' miei templi abbattuti il mio sepolcro. -</l></lg>
+<lg><l>Così la Diva lamentossi, e tacque.</l>
+<l>Era la notte, e d'ogni parte i venti</l>
+<l>e l'onde e gli animanti avean riposo,</l>
+<l>fuorché l'insetto che ne' rozzi alberghi</l>
+<l>a canto al focolar molce con lungo</l>
+<l>sonnifero stridor l'ombra notturna;</l>
+<l>e Filomena nella siepe ascosa</l>
+<l>va iterando le sue dolci querele.</l>
+<l>In quel silenzio universale anch'essa</l>
+<l>adagiossi la Dea vinta dal sonno,</l>
+<l>che dopo il lagrimar sempre sugli occhi</l>
+<l>dolcissimo discende, e la sua verga</l>
+<l>le pupille celesti anco sommette.</l>
+<l>Quando il gran padre degli dèi, che udito</l>
+<l>dell'amica dolente il pianto avea,</l>
+<l>a lei tacito venne; e poi che stette</l>
+<l>del letto alquanto su la sponda assiso,</l>
+<l>di quel volto sì caro addormentato</l>
+<l>la beltà contemplando, alfin la mano</l>
+<l>leggermente le scosse, e nell'orecchio</l>
+<l>bisbigliando soave: - O mia diletta,</l>
+<l>svegliati, - disse - svegliati; son io</l>
+<l>che ti chiamo; son Giove. - A questa voce</l>
+<l>il sonno l'abbandona, apre le luci,</l>
+<l>e stupefatta si ritrova in braccio</l>
+<l>del gran figliuolo di Saturno. Ed egli</l>
+<l>riconfortala in pria con un sorriso</l>
+<l>che di dolcezza avrìa spetrati i monti,</l>
+<l>ed acchetato il mar quando è in fortuna;</l>
+<l>poscia in tal modo a ragionar le prese:</l>
+<l>- Calma il duolo, Feronia; immoti e saldi</l>
+<l>stanno i tuoi fati e le promesse mie;</l>
+<l>né ingannator son io, né si cancella</l>
+<l>mai sillaba di Giove. Ma profonde</l>
+<l>sono le vie del mio pensiero, e aperta</l>
+<l>a me solo de' fati è la cortina.</l>
+<l>Non lagrimar sul tuo perduto impero:</l>
+<l>tempo verrà, che largamente reso</l>
+<l>tel vedrai, non temerne, e i muti altari</l>
+<l>e le cittadi e i campi e le pianure</l>
+<l>dai ruderi e dall'onde e dalla polve</l>
+<l>sorger più belle e numerose e colte.</l>
+<l>D'Italia in questo i più lodati eroi</l>
+<l>porran l'opra e l'ingegno. Io non ti nomo</l>
+<l>che i più famosi; e in prima Appio, che in mezzo</l>
+<l>spingerà delle torbide Pontine</l>
+<l>delle vie la regina. Indi Cetego:</l>
+<l>indi il possente fortunato Augusto</l>
+<l>esecutor della paterna idea,</l>
+<l>al cui tempo felice un Venosino</l>
+<l>cantor sublime ne' tuoi fonti il volto</l>
+<l>laverassi e le mani; e tu di questo</l>
+<l>orgogliosa n'andrai più che l'Anfriso,</l>
+<l>già lavacro d'Apollo. Ecco venirne</l>
+<l>poscia il lume de' regi, il pio Traiano</l>
+<l>che, domata con l'armi Asia ed Europa,</l>
+<l>col senno domerà la tua palude;</l>
+<l>e le partiche spade e le tedesche</l>
+<l>in vomeri cangiate impiagheranno,</l>
+<l>meglio d'assai che de' Romani il petto,</l>
+<l>le glebe pometine. E qui trecento</l>
+<l>giri ti volve d'abbondanza il sole,</l>
+<l>e di placido regno, infin che il Goto</l>
+<l>furor d'Italia guasterà la faccia.</l>
+<l>Da boreal tempesta la ruina</l>
+<l>scenderà de' tuoi campi; ma del pari</l>
+<l>un'alma boreal, calda e ripiena</l>
+<l>del valor d'Occidente, al tuo bel regno</l>
+<l>porterà la salute, e poi di nuovo</l>
+<l>(ché tal de' fati è il corso) alto squallore</l>
+<l>lo coprirà; né zelo, arte o possanza</l>
+<l>di sommi sacerdoti all'onor primo</l>
+<l>interamente il renderan; ché l'opra</l>
+<l>immortal, gloriosa ed infinita</l>
+<l>ad un più grande eroe serba il destino.</l>
+<l>Lo diran Pio le genti e di quel nome</l>
+<l>sesto sarà..............</l></lg></div1></body></text></TEI.2>

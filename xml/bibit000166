@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie</title>
+      <author>Antonio Calzaiuolo</author>
+    </titleStmt>
+    <extent>3 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000166</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Lirici toscani del Quattrocento</title>
+        <title type="part">v.</title>
+        <editor id="ed">Lanza, Antonio</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1973</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-01-21T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-05-27T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="poesia">
+<head>I</head>
+<argument><p>A Mariotto Davanzati
+</p></argument>
+<lg type="poesia"><lg>
+<l>La volubil fortuna, i cieli e' fati,</l>
+<l>il ver che molto ha forza e la ragione</l>
+<l>han fatto far di nuovo un paragone</l>
+<l>d'un or, ch'è ventiquattro o più carati.</l></lg><lg>
+<l>Adunque, ingegni divini, almi beati,</l>
+<l>diventate nel dire ognun precone,</l>
+<l>porgendo laulde e gran reputazione</l>
+<l>al nostro Marïotto Davanzati,</l></lg><lg>
+<l>c'ha aùto appetto un nuovo barberesco</l>
+<l>veloce molto, e da lui venne il gaggio,</l>
+<l>nol credendo trovar nel corso in punto;</l></lg><lg>
+<l>ma è ereda di messer Francesco:</l>
+<l>gli diè le mosse e del terren vantaggio,</l>
+<l>poi lasciò al prato, ed egli al palio è giunto.</l>
+</lg>
+</lg></div1>
+<div1 type="poesia">
+<head>II</head>
+
+<lg type="poesia"><lg>
+<l>Muovasi un tigre o qualche caldo leo,</l>
+<l>che strazi ogni tuo membro e sbrani el core,</l>
+<l>e Giove fabbricar faccia un furore,</l>
+<l>che fulmini el tuo corpo iniquo e reo.</l></lg><lg>
+<l>Sentir postù di morsi di Tideo,</l>
+<l>da poi che se' più falso traditore</l>
+<l>che non fu Gano o 'l troiano Antenòre,</l>
+<l>o Giuda Antipateo o Tolomeo.</l></lg><lg>
+<l>Diventare postù più oscuro e magro</l>
+<l>che 'l popol ch'assediò Vespesïano;</l>
+<l>faccino i can di te qual d'Ateonne.</l></lg><lg>
+<l>Arder postù com'arse Meleagro,</l>
+<l>muggir com fece il bu' cicilïano</l>
+<l>e poi senta del remo di Caronne.</l></lg><lg>
+<l>O volto di Gorgonne,</l>
+<l>ruinar postù fin nella Giudecca,</l>
+<l>da poi che 'n te pietà è rasa e secca!</l>
+</lg>
+</lg></div1>
+</body>
+</text>
+</TEI.2>

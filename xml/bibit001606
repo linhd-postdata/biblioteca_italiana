@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Genoveffa</title>
+      <author>Giulio Filippi</author>
+    </titleStmt>
+    <extent>57 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001606</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Genoveffa : Maggio : secondo il testo adottato dalla compagnia</title>
+        <author>Filippi, Giulio</author>
+        <editor id="ed">Franceschini, Fabrizio</editor>
+        <publisher>San Marco</publisher>
+        <pubPlace>Lucca</pubPlace>
+        <date>1981</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date/>
+    </creation>
+    <langUsage><language id="codice">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>2002-02-28T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Samuela Brunamonti</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>2002-02-28T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Samuela Brunamonti</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-02-05T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Codifica XML</item>
+    </change>
+    <change>
+      <date>2003-03-11T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+   <titlePage>
+    <docTitle>
+<titlePart type="main">GENOVEFFA</titlePart> 
+</docTitle>
+</titlePage>
+<castList>
+<head>PERSONAGGI </head>
+<castItem type="role"><role>GENOVEFFA</role> <roleDesc>figlia del Duca di Brabante</roleDesc></castItem>
+<castItem type="role"><role>SIGELFRIDO</role> <roleDesc>suo sposo</roleDesc> </castItem>
+<castItem type="role"><role>VUOLF</role> <roleDesc>capitano di corte </roleDesc></castItem>
+<castItem type="role"><role>BERTA</role> <roleDesc>figlia del carceriere, confidente di Genoveffa</roleDesc> </castItem>
+<castItem type="role"><role>GOLO</role> <roleDesc>l'uomo più fidato di Sigelfrido, calunniatore di Genoveffa</roleDesc> </castItem>
+<castItem type="role"><role>DRAGO</role> <roleDesc>cuciniere di corte e fedele a Genoveffa</roleDesc> </castItem>
+<castItem type="role"><role>KENZ</role> <roleDesc>carnefice ordinato da Golo </roleDesc></castItem>
+<castItem type="role"><role>KUNZ</role> <roleDesc>carnefice ordinato da Golo </roleDesc></castItem>
+<castItem type="role"><role>SERVO</role> <roleDesc>che canta e altri servi o guardie</roleDesc> </castItem>
+<castItem type="role"><role>[ SCUDIERO</role> <roleDesc>(la parte dello Scudiero può essere inserita in quella del capitano Vuolf) ]</roleDesc> </castItem>
+<castItem type="role"><role>[ ENRICO</role> <roleDesc>piccolo figlio di Genoveffa ]</roleDesc> </castItem>
+<castItem type="role"><role>[ CORRIERE</role> <roleDesc>che canta l'Argomento ] </roleDesc></castItem>
+   </castList>
+<div1 type="introduzione">
+<head>ARGOMENTO </head>
+<sp>
+<l>Canterem, per dar sollievo </l>
+<l>All'udienza circostante, </l>
+<l>Della figlia di Brabante </l>
+<l>Del lontano medioevo. </l>
+<l>Presso il Belgio e la Baviera </l>
+<l>Dove scorre la Mosella </l>
+<l>Cosa accadde a una donzella </l>
+<l>Udirete in questa sera. </l>
+<l>Sigelfrido fu suo sposo </l>
+<l>Un gran nobile guerriero </l>
+<l>Che conobbe il mondo intero </l>
+<l>Come amabile e grazioso. </l>
+<l>Genoveffa sua consorte, </l>
+<l>Di virtù sublimi e sante, </l>
+<l>Pria che darsi a un drudo amante </l>
+<l>Accettò crudele morte. </l>
+<l>E di Golo il traditore </l>
+<l>Questa truce e immonda fiera </l>
+<l>Lo distrusse la galera </l>
+<l>Dal rimorso e dal dolore. </l>
+<l>Genoveffa ebbe il destino, </l>
+<l>Per non perdere la testa, </l>
+<l>Di nascondersi in foresta </l>
+<l>Col suo tenero bambino. </l>
+<l>Ma una cerva affezionata </l>
+<l>Con affetto il più sereno, </l>
+<l>Lo allattò col proprio seno, </l>
+<l>Dentro un masso rinserrata. </l>
+<l>Sigelfrido, ritornato </l>
+<l>Dalla guerra contro i mori, </l>
+<l>Per placare i suoi dolori </l>
+<l>Alla caccia s'era dato. </l>
+<l>Un bel giorno nel deserto </l>
+<l>Ritrovò la sposa amata, </l>
+<l>Verità gli fu narrata </l>
+<l>E il tiranno fu scoperto. </l>
+</sp>
+</div1>
+  </front>
+<body>
+<div1 type="atto">
+<head>ATTO I </head>
+<stage>Sigelfrido e Genoveffa in un salotto del castello, all'alzarsi del sipario.</stage> 
+<sp><speaker>SIGELFRIDO</speaker><l> Mia consorte, in questo giorno </l>
+<l>Sento in me tanta allegria: </l>
+<l>Esser teco in compagnia! </l>
+<l>Non mi sento alcun frastorno. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Sposo, anch'io sento il mio cuore </l>
+<l>Che conforta la mia vita: </l>
+<l>Ritrovandomi a te unita, </l>
+<l>Passo lieti giorni e l'ore. </l>
+<l>Voglia il ciel che tal contento </l>
+<l>Non ci venga a noi cambiato! </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Se un bambino verrà nato, </l>
+<l>Avrem più consolamento. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Taci! Parmi udir rumore... </l>
+<stage>suona una tromba</stage> 
+<l>Il mio udito ne rimbomba... </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Sì, gli è suono di una tromba. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Sarà forse il servitore?... </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Questo squillo il cuor mi serra: </l>
+<l>Della guerra gli è segnale. </l>
+<l>Sento alcun salire le scale. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Che sarà su questa terra? </l>
+<stage>Si presenta lo scudiero col messaggio del Re</stage> 
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Cosa accadde, mio guerriero? </l>
+</sp>
+<sp><speaker>SCUDIERO</speaker><l> Signor mio, la guerra, in piedi! </l>
+<l>Se ai miei detti tu non credi, </l>
+<l>Leggi il foglio e trovi il vero. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Apri pure il tal mandato: </l>
+<l>Io sto intento ad ascoltare </l>
+<l>Quanto il Re venne a inviare </l>
+<l>Ciò che accade al nostro stato. </l>
+</sp>
+<sp><speaker>SCUDIERO</speaker><l> </l>
+<stage>(legge)</stage> <l>« Mando a te mio buon guerriero </l>
+<l>Generale dello stato, </l>
+<l>Questo annunzio improvvisato </l>
+<l>Che sia armato il regno intero. </l>
+<l>Si armi ognun di spada e lancia, </l>
+<l>Il mio detto non si ignori: </l>
+<l>Dei saper gli audaci mori </l>
+<l>Hanno invaso Spagna e Francia. </l>
+<l>Sono giunti sul confino </l>
+<l>Tra il Fiammingo e la Baviera: </l>
+<l>Dunque parti con la schiera, </l>
+<l>Fai sollecito il cammino. </l>
+<l>Se ritorni vincitore, </l>
+<l>Alla fin delle battaglie </l>
+<l>Sarà pieno di medaglie </l>
+<l>Il tuo petto a gran valore... » </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Tutto intendo e parti pure </l>
+<l>E raduna ogni guerriero: </l>
+<l>Con quest'ordine severo </l>
+<l>Armi in pugno e bardature. </l>
+<l>Eseguisci i miei comandi </l>
+<l>Poi ne avrai la ricompenza </l>
+<l>Dallo stato a mia presenza. </l>
+</sp>
+<sp><speaker>SCUDIERO</speaker><l> Giuro far cosa comandi. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Ci dovremmo separare?... </l>
+<l>Amatissimo consorte? </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Al comando della corte, </l>
+<l>C'è pochissimo da fare. </l>
+<l>Parti, sposa mia diletta, </l>
+<l>Dai quest'ordine ai serventi: </l>
+<l>L'arme sian pronte e lucenti </l>
+<l>Perché il mio partir s'affretta. </l>
+<stage>Genoveffa parte da destra</stage>
+<l>Io partendo, qua mi resta </l>
+<l>Tutto quanto abbandonato: </l>
+<l>Golo l'uomo più fidato </l>
+<l>Lasciar voglio alla mia testa. </l>
+<stage>Giunge un servo che parte subito da sinistra</stage> 
+<l> Tu, mio fido, fai partenza </l>
+<l>E dirai al custode Golo </l>
+<l>Che da me ne venga a volo: </l>
+<l>Mi abbisogna sua presenza. </l>
+<stage>giunge Golo da destra</stage> 
+</sp>
+<sp><speaker>GOLO</speaker><l> Mio signore, ai cenni tuoi. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Ah!... Mio fido, ben venuto </l>
+<l>Di cercare te ho creduto </l>
+<l>Per servirmi, se tu vuoi. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Io farò quello che chiedi </l>
+<l>E per te darei la vita... </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Ho bisogno di tua aita, </l>
+<l>Ritrovandomi in tai piedi. </l>
+<l>Sai che devo far partenza, </l>
+<l>Tutto debbo abbandonare: </l>
+<l>Solo tu potresti fare, </l>
+<l>Se tu stai alla mia obbedienza. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Sono pronto a fare tutto </l>
+<l>Quel che a me vien comandato: </l>
+<l>Il comando a me sia dato </l>
+<l>O sia bello, oppur sia brutto. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Mi si levan tante doglie </l>
+<l>Aver teco in mia fidanza... </l>
+<l>E ti dò piena possanza </l>
+<stage>sottovoce accostandosi all'orecchio di Golo</stage> 
+<l>Tieni d'occhio anche mia moglie. </l>
+<l>E se manca, scrivi pure </l>
+<l>Non aver di lei temenza... </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Mio signor farò obbedienza </l>
+<l>Se accadran delle avventure. </l>
+<stage>partono da sinistra. Entrano Berta e Genoveffa da destra </stage>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Cara mia diletta Berta, </l>
+<l>Sento in me tanto dolore... </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Pregheremo il buon Signore </l>
+<l>Che ne dia vittoria certa. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Dici il ver; ma non ci pensi </l>
+<l>Ai disagi della guerra?! </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Tra i viventi sulla terra </l>
+<l>Chi fa ciò li ha persi i sensi. </l>
+<l>Non dovrebbe esser confino </l>
+<l>Né fra bianchi, né fra neri </l>
+<l>Bensì amarci volentieri </l>
+<l>Nell'alterno uman destino </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Il tuo detto è veritiero; </l>
+<l>Non facciam tal discussione </l>
+<l>In tal giorno di passione... </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Mia signora, dici il vero. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Ora andiam senza indugiare; </l>
+<l>Prenderemo arme e bagaglio... </l>
+<l>Prendi tutto e non far sbaglio, </l>
+<l>A lui in man vo' consegnare. </l>
+<stage>partono da sinistra; Sigelfrido entra da destra, lo scudiero da sinistra </stage>
+</sp>
+<sp><speaker>SCUDIERO</speaker><l> Generale, i tuoi guerrieri </l>
+<l>Sono già tutti inquadrati, </l>
+<l>Tutti pronti e preparati, </l>
+<l>E combatton volentieri. </l>
+<l>L'ordin tuo stanno aspettando </l>
+<l>Per far poi di qui partenza... </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Un momento di pazienza </l>
+<l>Darò subito il comando. </l>
+<l>Vai, rivarca quelle soglie; </l>
+<l>Giungerò subito anch'io: </l>
+<l>Debbo dar l'ultimo addio </l>
+<l>Alla mia diletta moglie. </l>
+<stage>parte lo scudiero da sinistra. Entra Genoveffa da destra </stage>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Ecco le armi a te, consorte, </l>
+<l>Ben lucenti, a taglio acuto; </l>
+<l>Ti faranno esser temuto </l>
+<l>Da chi tenta la tua morte. </l>
+<l>Vai, difendi il nostro regno </l>
+<l>Da quei barbari invasori! </l>
+<l>Voglia Iddio che, pien d'onori, </l>
+<l>Tu ritorni a mio convegno! </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Genoveffa, non temere! </l>
+<l>Io saprò ben vendicarmi; </l>
+<l>Quando in pugno avrò queste armi, </l>
+<l>Saprò fare il mio dovere. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> E se tu più non ritorni?... </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Non nutrir tristi pensieri! </l>
+<l>Quando son coi miei guerrieri, </l>
+<l>Caccio i mori come storni. </l>
+<l>Se così volesse Iddio </l>
+<l>Che finisse la mia vita, </l>
+<l>In battaglia come in gita. </l>
+<l>Ne potrei perir ben io. </l>
+<l>Se alla luce verrà dato </l>
+<l>Ciò che il seno tuo già serra </l>
+<l>Pria che torni dalla guerra, ... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Non temer: sarai informato. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Per il resto prevedei: </l>
+<l>Lascio Golo facitore </l>
+<l>Che sorvegli a tutte le ore </l>
+<l>Serve e servi e beni miei. </l>
+<l>Credo l'uomo più fidato </l>
+<l>Da poterlo incaricare: </l>
+<l>Lui promise a me di fare </l>
+<l>Quanto a lui vien comandato. </l>
+<l>Dunque, addio! Fatti coraggio </l>
+<l>Presto spero ritornare; </l>
+<l>Stai contenta e non pensare... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Sigelfrido, buon viaggio!  </l>
+<stage>partono da destra.Entrano da sinistra Golo e servitori</stage> 
+</sp>
+<sp><speaker>GOLO</speaker><l> « Vi rimetto e leggo il bando </l>
+<l>Che a me il Conte mi ha lasciato; </l>
+<l>Da me tutto sia guardato, </l>
+<l>E sarete al mio comando. </l>
+<l>Se volete informazione, </l>
+<l>Ne verrete a mia presenza; </l>
+<l>Fin che il Conte avrà l'assenza, </l>
+<l>Io sarò come padrone.» </l>
+</sp>
+<sp><speaker>DRAGO</speaker><l> Noi farem come il passato </l>
+<l>Il tuo detto non si ignora; </l>
+<l>Tanto a te che alla signora </l>
+<l>Gran rispetto sarà usato. </l>
+<stage>partono i servitori da sinistra</stage> 
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> <stage>(entrando da destra)</stage> </l>
+<l>Dimmi, Golo, l'andamento: </l>
+<l>Come vanno i dipendenti? </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Tutti attivi e ben contenti </l>
+<l>Del mio buono trattamento. </l>
+<l>Tu, Signora, hai da dir niente?... </l>
+<l>Parla pur senza temenza. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Anzi troppo all'obbedienza </l>
+<l>Stanno a me sinceramente. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Se non hai altro da dire, </l>
+<l>Io ritorno al mio lavoro. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Grazie tante! Te ne onoro </l>
+<l>Verso me del bene agire. </l>
+<stage>parte Golo da sinistra. Entra Berta da destra</stage> 
+<l>Cara Berta... </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> O... Mia signora... </l>
+<l>Son venuta un po' a passeggio </l>
+<l>Per veder se meglio o peggio </l>
+<l>Ne passavo qualche ora. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Che t'accadde,dimmi, o Berta? </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Mi ritrovo un po' ammalata </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Per pietà, stai riguardata. </l>
+<l>Non andare all'aria aperta. </l>
+<l>Sai che a volte poco male </l>
+<l>Può venire assai copioso; </l>
+<l>Perciò, vattene a riposo: </l>
+<l>Io verrò al tuo capezzale. </l>
+<stage>parte Berta da sinistra</stage> 
+</sp>
+<sp><speaker>GOLO</speaker><l> <stage>(entrando da destra)</stage> </l>
+<l>O... Signora, mi è permesso </l>
+<l>Di poterti palesare </l>
+<l>Ciò che il cuor non sa occultare?. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Parla pure a me dappresso. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> </l>
+<stage>(turbato)</stage> <l>Come?! Tu non ti sei accorta </l>
+<l>Di che debbo riferire? </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> </l>
+<stage>(seria)</stage> <l>Non capisco, fai capire, </l>
+<l>Torna a dirlo un'altra volta. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> </l>
+<stage>(tirando un forte sospiro)</stage> <l>Tu sentissi questo cuore </l>
+<l>Come batte ardentemente! </l>
+<l>Per calmarlo, certamente, </l>
+<l>Ho bisogno del tuo amore. </l>
+<l>Quell'amor che noi felici </l>
+<l>Passeremo una mezz'ora </l>
+<l>Non negarmelo, Signora; </l>
+<l>Mi fai l'uom fra i più infelici. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> </l>
+<stage>(arrabbiata)</stage> <l>Fuggi via da mia presenza; </l>
+<l>Io non voglio più sentire </l>
+<l>Ciò che a me venisti a dire: </l>
+<l>Il tuo dir mi fa temenza. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Genoveffa, pensa bene; </l>
+<l>Se non cedi al mio volere, </l>
+<l>Sai che l'ho pieno potere; </l>
+<l>Tu Potresti aver gran pene. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Io del Conte fui consorte, </l>
+<l>Solo a lui giurai l'amore; </l>
+<l>Pria di togliergli l'onore </l>
+<l>La desidero la morte. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Via, non far tal resistenza! </l>
+<stage>rifacendo la faccia gioiale</stage> 
+<l>Fai promessa a me di un bacio! </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Vai, serpente, a te non tacio; </l>
+<stage>digrignando i denti</stage> 
+<l>Vanne via da mia presenza. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> <stage>(con brutto ceffo)</stage> Me ne vado; ma ricorda </l>
+<l>Che l'amor che ti ho portato </l>
+<l>Presto in odio vien cambiato. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Pria che cedere, alla corda! </l>
+<stage>parte Golo da sinistra</stage> 
+<l>Deh! Salvatemi, o Signore, </l>
+<l>Da quel mostro inorridito: </l>
+<l>Che ritorni mio marito </l>
+<l>Per punir quel traditore! </l>
+<l>Chi sa adesso il mal vivente </l>
+<l>Cosa pensa a me di fare?! </l>
+<l>Per potermi discolpare, </l>
+<l>Scrivo al Conte la presente. </l>
+<stage>siede e si mette a scrivere</stage> 
+<l>Mio carissimo consorte, </l>
+<l>Golo è un uomo disonesto; </l>
+<l>Dunque, tu farai ben presto </l>
+<l>A decider la sua sorte. </l>
+<l>Per saziar sue turpi voglie, </l>
+<l>Volea togliermi l'onore; </l>
+<l>Lo respinsi con furore. </l>
+<l>Genoveffa, la tua moglie. </l>
+<stage>Entra Drago da sinistra. Genoveffa gli confida tutto l'arcano</stage> 
+<l> Caro Drago mi ritrovo </l>
+<l>A una brutta condizione </l>
+<l>Al mio dir presta attenzione </l>
+<l>Di tal pelago a me nuovo. </l>
+<l>Giuri a me non favellare </l>
+<l>Ciò che a te ne vengo a dire?. </l>
+</sp>
+<sp><speaker>DRAGO</speaker><l> Anche a costo di morire, </l>
+<l>Giuro a te di non parlare. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Vedi tu questo messaggio? </l>
+<l>Al padron lo dei portare: </l>
+<l>Proprio a lui da consegnare, </l>
+<l>E fulmineo sia il viaggio. </l>
+<l>Sai che Golo il disumano </l>
+<l>Sul mio onore mi si scaglia? </l>
+</sp>
+<sp><speaker>DRAGO</speaker><l> Brutta perfida canaglia! </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Per pietà, parla più piano. </l>
+<l>Guai se lui potesse udire </l>
+<l>Ciò che a te sto a favellare! </l>
+</sp>
+<sp><speaker>DRAGO</speaker><l> Mia signora, non tremare: </l>
+<l>Penserò farlo fuggire. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Tu di lui non ti occupare: </l>
+<l>Solo a me fai tal missione; </l>
+<l>Poi vedrai che il tuo padrone </l>
+<l>Pensa tutto a sistemare. </l>
+<l>Il cavallo più veloce </l>
+<l>Prendi e parti a spron battuto. </l>
+</sp>
+<sp><speaker>DRAGO</speaker><l> Pronto: dammi il contenuto, </l>
+<l>Che nessun rischio a me nuoce. </l>
+<stage>Entra Golo da sinistra risoluto e afferra Drago uccidendolo con un colpo di pugnale impadronitosi del documento</stage> 
+</sp>
+<sp><speaker>GOLO</speaker><l> Alto là! Vil traditore </l>
+<l>Finalmente ti ho trovato; </l>
+<l>Per mia man sarai ammazzato </l>
+<l>Per punir sì tetro errore. </l>
+<l>Qua correte nell'istante </l>
+<stage>entrano le guardie</stage> 
+<l>Constatate questo fatto: </l>
+<l>Li ho sorpresi entrambi all'atto </l>
+<l>Lui rivale e lei l'amante. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Tu calunni un'innocente. </l>
+<l>Pensa bene chi son io; </l>
+<l>Ti saprà punire Iddio </l>
+<l>Quando a lui sarai presente. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Tu ti sei resa infedele </l>
+<l>Al tuo sposo, alla mia vista; </l>
+<l>E per questo tu sei trista, </l>
+<l>Donna perfida e crudele! </l>
+<l>Lei sia presa e sia portata </l>
+<l>Nella più scura prigione: </l>
+<l>Poi se avrai qualche ragione, </l>
+<l>Sarai dopo interrogata. </l>
+<stage>Le guardie portano via Genoveffa. Golo scrive la lettera al Conte calunniando Genoveffa</stage> 
+</sp>
+<sp><speaker>GOLO</speaker><l> 'Mio carissimo padrone, </l>
+<l>Sono a darti triste nuova: </l>
+<l>Tua consorte si ritrova, </l>
+<l>Per mio ordine, in prigione. </l>
+<l>La trovai con Drago stretta </l>
+<l>Nella stanza tua adornata; </l>
+<l>A lui in braccio si era data. </l>
+<l>Di punirla a te ne spetta. </l>
+<l>Al rivale la sua sorte </l>
+<l>L'ho decisa da me stesso; </l>
+<l>Anche senza il tuo permesso, </l>
+<l>Lì sull'atto ebbe la morte. </l>
+<l>Mi perdona il mio furore </l>
+<l>Della vittima che feci; </l>
+<l>Già ne avrei ammazzati dieci, </l>
+<l>Per difendere il tuo onore. </l>
+<l>Ora attendo la risposta </l>
+<l>Per sentir la tua intenzione: </l>
+<l>Se la deo tener prigione, </l>
+<l>Oppur farne altra proposta.' </l>
+    </sp>
+    <epigraph>
+    <stage>FINE dell'ATTO I </stage>
+</epigraph>
+</div1>
+<div1 type="atto">
+<head>ATTO II </head>
+<stage>La prigione: entra Genoveffa e si inginocchia</stage> 
+<sp><speaker>GENOVEFFA</speaker><l> Sommo Iddio, a te mi volto... </l>
+<l>Son da tutti abbandonata, </l>
+<l>Innocente imprigionata: </l>
+<l>Non sia lungi un tuo conforto... </l>
+<l>Qua nessuno orecchio umano </l>
+<l>Sente i miei tristi lamenti; </l>
+<l>Se soccorri gl'innocenti, </l>
+<l>Deh! Mi porgi la tua mano.. </l>
+<l>VOCE SCONOSCIUTA </l>
+<stage>(dietro le scene)</stage> <l>Genoveffa, fai coraggio; </l>
+<l>Tu dovrai patire ancora. </l>
+<l>L'innocenza tua vien fuora, </l>
+<l>Come vien del sole il raggio. </l>
+<stage>Golo entra nel carcere di nuovo a lusingare Genoveffa</stage>
+</sp>
+<sp><speaker>GOLO</speaker><l> Dunque, sei sempre ostinata </l>
+<l>Come fosti nel passato? </l>
+<l>Il pensiero avrai cambiato </l>
+<l>A trovarti imprigionata... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Il pensiero coll'onore </l>
+<l>Non si può paragonare; </l>
+<l>Epperciò lasciami stare </l>
+<l>Nel penoso mio dolore. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> L'onestà lasciala andare: </l>
+<l>Sei nell'atto sprigionata </l>
+<l>E del tutto discolpata. </l>
+<l>So ben io come parlare. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Se colpevole alla gente </l>
+<l>Ne risulta l'onor mio, </l>
+<l>Sono giusta col buon Dio: </l>
+<l>Chè Lui tutto vede e sente. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Se desideri soffrire, </l>
+<l>Qui starai fino alla morte. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Te l'ho detto tante volte: </l>
+<l>Pria che cedere, morire! </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Tuo marito, sai,è alla guerra </l>
+<l>E potrebbe esser già morto; </l>
+<l>Nessun rigo di conforto </l>
+<l>Lui mandò su questa terra. </l>
+<l>E se vedova ne sei, </l>
+<l>Perché fai appassir quel fiore? </l>
+<l>Io ti porto tanto amore </l>
+<l>E felice ti farei... </l>
+<l>Sai che Dio ci diè la vita </l>
+<l>E la forza per godere; </l>
+<l>Perché tu vuoi sostenere </l>
+<l>Questa tua triste partita? </l>
+<l>Se prometti essere mia, </l>
+<l>Io proclamo tua innocenza; </l>
+<l>Chiamo Iddio alla mia presenza, </l>
+<l>Se ti dico una bugia! </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> </l>
+<stage>(irata)</stage> <l>Vanne, Satana infernale, </l>
+<l>Con quei detti ributtanti; </l>
+<l>Dico adesso e dissi avanti: </l>
+<l>La tua brama a me non vale. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Me ne vado; ma ritorno. </l>
+<l>Pensa bene ai casi tuoi, </l>
+<l>Ne sei in tempo, se tu vuoi, </l>
+<l>Pria che venga il fatal giorno. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Guarda come quel brigante </l>
+<l>Mi perseguita e m'incita; </l>
+<l>Io che detti a te la vita, </l>
+<stage>prendendo in braccio il suo figlioletto</stage> 
+<l>Bambinel mio caro infante. </l>
+<l>Ah! Tu, dunque, vedi? esisti </l>
+<l>In quest'orrida prigione; </l>
+<l>Senza colpa, né cagione </l>
+<l>Passi in vita i giorni tristi </l>
+<l>O mio caro bel bambino, </l>
+<l>Vieni sopra del mio seno; </l>
+<l>Ti riscaldo un poco almeno, </l>
+<l>Privo sei di un pannolino. </l>
+<l>E neppure una bevanda ... </l>
+<l>Quelle man benefattrici </l>
+<l>Per bagnar le tue narici </l>
+<l>Non mi fecero domanda. </l>
+<l>Oh se avessi un materasso </l>
+<l>Per poterti fare un nido! </l>
+<l>Sulla paglia, ecco ti affido, </l>
+<l>Sopra questo duro sasso. </l>
+<l>O mio Dio che gli hai donato </l>
+<l>Il gran dono della vita, </l>
+<l>Una madre deperita </l>
+<l>Vuol che a te sia consacrato. </l>
+<l>Io non posso nel tuo tempio </l>
+<l>Battezzare l'innocente </l>
+<l>Per cagion di quel pezzente </l>
+<l>Uomo ingrato, tristo ed empio. </l>
+<l>Per doverti battezzare </l>
+<l>Far dovrò da sacerdote </l>
+<l>Mi arrossiscono le gote </l>
+<l>Nel pensar quel che ho da fare. </l>
+<l>Tutto io sola ho da eseguire </l>
+<l>Qui da madre e da padrino; </l>
+<l>Grazie a te, Padre divino, </l>
+<l>Che m'inciti a proseguire. </l>
+<l>Del Celeste Padre in nome </l>
+<l>E del Figlio e ancor del Santo </l>
+<l>Spirto, o Enrico amato tanto, </l>
+<l>Ti battezzo... Io non so come. </l>
+<stage>battezza il bambino versando sopra la sua testa poche gocce</stage> 
+<l>Difettandomi ogni plico </l>
+<l>Io che fui sì calunniata </l>
+<l>E in prigione segregata </l>
+<l>Registrar ti possa, o Enrico. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> </l>
+<stage>(rientrando nel carcere)</stage> <l>Questa volta è la finale: </l>
+<l>Brami vita o vuoi la morte? </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Pria che offender mio consorte </l>
+<l>Sto alla legge tua marziale. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Se all'onor sei scrupolosa, </l>
+<l>Ma pietà del tuo bambino! </l>
+<l>Che se a me non fai l'inchino, </l>
+<l>Ti fo priva di ogni cosa. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Pria che a te venire amante, </l>
+<l>Io non temo la mia sorte. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Te e tuo figlio avrete morte: </l>
+<l>Dio mi fulmini all'istante! </l>
+<stage>parte irato da sinistra</stage> 
+<stage>Entrando Berta da destra, 
+informa Genoveffa della sua triste sentenza </stage>
+</sp>
+<sp><speaker>BERTA</speaker><l> O Signora... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Chi mi chiama? </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Sono io, l'amica Berta. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Mi sembravi: ma ero incerta... </l>
+<l>Svela pure la tua brama. </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Reco a te triste avventura </l>
+<l>Che ben presto hai da soffrire: </l>
+<l>Con certezza intesi dire </l>
+<l>La terribile sciagura. </l>
+<l>Credi, a me manca il coraggio </l>
+<l>A doverti palesare... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Parla pur, non esitare: </l>
+<l>Io non temo alcun oltraggio </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Credi, in me sento gran duolo </l>
+<l>A doverti riferire </l>
+<l>'Questa notte hai da morire'! </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Per cagion del tetro Golo!... </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Non è lui che ha stabilito </l>
+<l>Che sia data a te la morte: </l>
+<l>Sigelfrido tuo consorte! </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> E' tornato mio marito?... </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> No!... Al sopromo egli ha inviato </l>
+<l>Una lettera chiarita </l>
+<l>Che sia tolta a te la vita </l>
+<l>Per il tuo male operato. </l>
+<l>Sai che Golo ha scritto al Conte </l>
+<l>Che con Drago avei contatto </l>
+<l>E ti prese lui sull'atto </l>
+<l>Stretti stretti a fronte a fronte. </l>
+<l>E lui venne nella stanza </l>
+<l>Per difendere il suo onore... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Ascoltò un calunniatore </l>
+<l>Senza aver testimonianza... </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Sì... Perché l'ordine ha dato </l>
+<l>Verso te non sia pietoso: </l>
+<l>Anche il figlio generoso </l>
+<l>A te insieme trucidato. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Oh! Qual fu di lui l'errore </l>
+<l>Da subir tale periglio? </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Lo rifiuta per suo figlio </l>
+<l>Perché nacque in disonore. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Questa poi è la più pesa </l>
+<l>Della mia triste avventura </l>
+<l>L'innocente creatura </l>
+<l>A morir senza difesa. </l>
+<stage>Berta porta in braccio una borsa che la dona a Genoveffa</stage> 
+</sp>
+<sp><speaker>BERTA</speaker><l> Genoveffa, ti abbisogna </l>
+<l>Qualche incarico lasciarmi? </l>
+<l>Se i segreti vuoi affidarmi </l>
+<l>Parla pur senza vergogna. </l>
+<l>Io scolpito nel tuo volto </l>
+<l>Vedo ben che sei innocente </l>
+<l>Non è giusta certamente </l>
+<l>Sia colà tutto sepolto. </l>
+<l>Forse un giorno può venire </l>
+<l>Tua innocenza proclamata; </l>
+<l>Chi te, o donna, ha calunniata </l>
+<l>Peggior duolo ha da subire. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Sento che sei ben disposta </l>
+<l>Per far teste a questo imbroglio </l>
+<l>Penna, inchiostro, quarche foglio </l>
+<l>Ne saria la mia proposta. </l>
+<l>Se possibile ti resta </l>
+<l>Procurarmi un lumicino... </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Dentro a questo borsellino </l>
+<l>C'è ogni cosa che hai richiesta. </l>
+<l>Già l'avevo preveduto </l>
+<l>Che ti fosse necessario </l>
+<l>Per descrivere in diario </l>
+<l>Tutto quanto ti è accaduto. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Ti ringrazio dell'affetto </l>
+<l>Che per me tu esponi fuora; </l>
+<l>Qua ritorna fra mezz'ora; </l>
+<l>Sarà pronto il mio ricetto.</l>
+<stage>Berta si avvicina al carcere chiamando, al di fuori delle quinte Genoveffa, e poi entra nel carcere</stage> 
+</sp>
+<sp><speaker>BERTA</speaker><l> O signora, è ancora pronto </l>
+<l>Quel che a me vuoi consegnare? </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Tieni e non dimenticare </l>
+<l>Che ne dei tener di conto. </l>
+<stage>consegna la lettera a Berta</stage>
+<l>Come a te fosse un tesoro </l>
+<l>Più geloso e più prezioso: </l>
+<l>Se ritornerà il mio sposo, </l>
+<l>Dallo a lui per mio decoro. </l>
+</sp>
+<sp><speaker>BERTA</speaker><l> Io ti giuro conservare </l>
+<l>Questo pegno di buon cuore! </l>
+<stage>odesi un rumore di passi</stage> 
+<l>C'è di passi un tal rumore... </l>
+<l>Te deo subito lasciare. </l>
+<stage>parte frettolosamente da destra. Entrano nel carcere due carnefici da sinistra </stage>
+</sp>
+<sp><speaker>KUNZ</speaker><l> Genoveffa, alzati in piedi </l>
+<l>Non istare più a capo chino </l>
+<l>Via, con te prendi il bambino </l>
+<l>Segui noi dove andar vedi. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Il buon Dio mi aiuti almeno! </l>
+<l>Abbandono totalmente </l>
+<l>Alla sua mano possente </l>
+<l>Me e mio figlio al punto estremo. </l>
+<stage>partono tutti</stage>
+    </sp>
+<epigraph><stage>FINE dell'ATTO II </stage>
+    </epigraph>
+</div1>
+<div1 type="atto">
+<head>ATTO III </head>
+<stage>Il bosco</stage> 
+<sp><speaker>KENZ</speaker><l> Genoveffa, ferma il passo </l>
+<l>E ti poni inginocchiata. </l>
+<l>Quella donna sia bendata! </l>
+<l>Dài a me il figlio e non far chiasso. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> </l>
+<stage>(alzando in alto il bambino)</stage> <l>Date pure a me la morte. </l>
+<l>L'innocente voi salvate! </l>
+<l>Ve lo cedo e lo allattate: </l>
+<l>Sarà un dì la vostra sorte. </l>
+</sp>
+<sp><speaker>KENZ</speaker><l> Noi dobbiamo fare quello </l>
+<l>Che ci viene comandato: </l>
+<l>Questo a noi ci fu ordinato </l>
+<l>Dal padrone del castello. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Dove a voi viene il coraggio </l>
+<l>Di compir tale sciagura? </l>
+<l>L'innocente creatura </l>
+<l>Non commise alcuno oltraggio. </l>
+<l>Me uccidete: son disposta </l>
+<l>A subir morte e dolori, </l>
+<l>Fate a me, benefattori, </l>
+<l>Del mio figlio altra proposta. </l>
+</sp>
+<sp><speaker>KENZ</speaker><l> O sentiamo il tuo concetto: </l>
+<l>Cosa noi dobbiamo fare? </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Ai miei cari consegnare </l>
+<l>L'innocente pargoletto. </l>
+</sp>
+<sp><speaker>KENZ</speaker><l> Se per noi fosse la stessa </l>
+<l>Si starebbe al tuo comando </l>
+<l>Ma tuo figlio consegnando </l>
+<l>Che dir noi di te, contessa?... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Ma se ciò non è segreto, </l>
+<l>Anche me lasciate in vita </l>
+<l>Che gli possa dare aita: </l>
+<l>Così tutto resta cheto. </l>
+<l>Io e mio figlio in tal foresta; </l>
+<l>E vi giuro non sortire </l>
+<l>Anche a costo di morire. </l>
+<l>Non c'è via miglior di questa. </l>
+<l>Io per tutta la mia vita, </l>
+<l>E mio figlio in compagnia, </l>
+<l>Giuro a voi con fede mia </l>
+<l>Di non far di qui sortita. </l>
+<l>Io del Duca di Brabante </l>
+<l>Figlia sono e a voi mi prostro, </l>
+<l>Moglie ancor del padron vostro </l>
+<l>Che ingannato è a questo istante. </l>
+<l>Voi, però, bene sapete </l>
+<l>Che innocente fui accusata: </l>
+<l>Se la vita a me vien data, </l>
+<l>Ricompensa un dì ne avrete. </l>
+<l>Per volere esser fedele, </l>
+<l>Or mi trovo a tal periglio </l>
+<l>Con il piccolo mio figlio: </l>
+<l>Ascoltate mie querele! </l>
+<l>Il buon Dio, sappiate, è giusto </l>
+<l>Al suo eterno tribunale, </l>
+<l>Là si avvera il bene e il male </l>
+<l>Per il giusto e per l'ingiusto. </l>
+<l>Di versare questo sangue </l>
+<l>Vostra man non sia capace! </l>
+<l>Troverete al mondo pace </l>
+<l>Da una madre che or ne langue. </l>
+</sp>
+<sp><speaker>KENZ</speaker><l> Questo a noi vien comandato; </l>
+<l>Non ho pena da scontare. </l>
+<l>Golo e il Conte han da pensare </l>
+<l>Del gran male a te operato. </l>
+<l>Se lassù nel regno eterno </l>
+<l>Ci si scontano i peccati, </l>
+<l>Certo, lor saran segnati </l>
+<l>Ed andranno nell'inferno. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Dunque, tu Padre Supremo </l>
+<l>Delle vedove e orfanelli </l>
+<l>Rasserena il cuore a quelli, </l>
+<l>Me soccorri al punto estremo! </l>
+<l>Pure voi moglie e bambini </l>
+<l>So che sempre avete amati: </l>
+<l>Se venissero ammazzati </l>
+<l>Senza colpa, piccolini?! </l>
+<l>Se sentite ripugnanza, </l>
+<l>Mi lasciate ancora in vita! </l>
+<l>La mia prece gli è finita: </l>
+<l>Metto in voi la mia speranza. </l>
+</sp>
+<sp><speaker>KENZ</speaker><l> </l>
+<stage>(rivolto al compagno)</stage> <l>Mi si spezza il cuore in petto </l>
+<l>Nel sentir le sue parole: </l>
+<l>Kunz noi se far si vuole </l>
+<l>Si può fare altro concetto. </l>
+<l>Se del sangue sia versato </l>
+<l>Dalla tua lucente spada, </l>
+<l>La vendetta, dunque, cada </l>
+<l>Sopra Golo scellerato. </l>
+<l>Lui colpevole assoluto, </l>
+<l>La contessa gli è innocente </l>
+<l>Ti assicuro certamente: </l>
+<l>Tu che dici di quel bruto? </l>
+</sp>
+<sp><speaker>KUNZ</speaker><l> Caro Kenz, anch'io prevedo </l>
+<l>Che così sia questo fatto; </l>
+<l>Ma, se il conto non è esatto, </l>
+<l>Per noi male me la vedo. </l>
+</sp>
+<sp><speaker>KENZ</speaker><l> Ma non pensi la signora </l>
+<l>Quanto fece nel passato?! </l>
+<l>Quando te fosti ammalato </l>
+<l>Fu frequente in tua dimora. </l>
+<l>E l'intera tua famiglia </l>
+<l>La fornì di vitto e spoglie; </l>
+<l>Or la vita le vuoi toglie'? </l>
+<l>Viva pur sì degna figlia! </l>
+</sp>
+<sp><speaker>KUNZ</speaker><l> La contessa ha da morire! </l>
+<l>Non c'è in me pietà, né grazia: </l>
+<l>Col suo pianto ella ti sazia </l>
+<l>E non pensi all'avvenire?... </l>
+<l>Anche a me dispiace tanto </l>
+<l>A doverle dare morte; </l>
+<l>Ma, sai? Golo e il suo consorte </l>
+<l>Fan tremare averli accanto. </l>
+<l>E se noi lasciamo in vita </l>
+<l>La contessa e il suo bambino </l>
+<l>Prenderemo il suo destino: </l>
+<l>Non c'è altra via d'uscita. </l>
+<l>Golo iniquo saprà, certo, </l>
+<l>Farla ad altri ricercare, </l>
+<l>Se venisse a sospettare </l>
+<l>Che abbiam fatto altro concetto. </l>
+<l>Poi da altri men pietosi </l>
+<l>Lei farebbe trucidare </l>
+<l>E noi pur tosto ammazzare: </l>
+<l>Questi son punti gelosi. </l>
+<l>Poi c'è un'altra circostanza: </l>
+<l>Vuol di morte un contrassegno. </l>
+</sp>
+<sp><speaker>KENZ</speaker><l> Troveremo altro disegno </l>
+<l>Che farà testimonianza. </l>
+<l>Si può al mondo rimediare </l>
+<l>Tutto fuori che la morte. </l>
+</sp>
+<sp><speaker>KUNZ</speaker><l> O sentiamo quale sorte </l>
+<l>Tu ne pensi di pigliare... </l>
+</sp>
+<sp><speaker>KENZ</speaker><l> La signora nuovamente </l>
+<l>La faremo rigiurare </l>
+<l>Che in foresta ha da restare </l>
+<l>Fin che lei sarà vivente. </l>
+<l>E noi a Golo in contrassegno </l>
+<l>Gli daremo occhi di cani; </l>
+<l>Gli parrà che siano umani... </l>
+<l>Bello è fatto altro disegno! </l>
+<l>Ma lo vedo che a te spiace </l>
+<l>Ad uccidere il tuo cane; </l>
+<l>Ma salvar due vite umane </l>
+<l>Resta un fatto più efficace. </l>
+<l>Quella poi della padrona </l>
+<l>E del suo innocente figlio! </l>
+<l>Caro Kunz, muta consiglio </l>
+<l>E faremo opera buona. </l>
+<l>Fosti sempre buono assai... </l>
+<l>Via non farti adesso belva: </l>
+<l>Li lasciamo in questa selva </l>
+<l>Ed un premio un dì ne avrai. </l>
+</sp>
+<sp><speaker>KUNZ</speaker><l> Io non son niente feroce, </l>
+<l>È un mestiere che m'annoia; </l>
+<l>Però Golo è più che boia... </l>
+<l>Ho temenza di sua voce. </l>
+</sp>
+<sp><speaker>KENZ</speaker><l> Tieni sempre nella bocca, </l>
+<l>Tu, quel nome ormai aborrito; </l>
+<l>Quando un uomo ha bene agito </l>
+<l>La condanna non lo tocca. </l>
+<l>Ammettiam che tal facendo </l>
+<l>Ci venisse un rischio addosso </l>
+<l>Non sarebbe un fallo grosso </l>
+<l>Come il ben che andiam compiendo. </l>
+<l>Se faremo opere buone, </l>
+<l>Ne sarem ricompensati </l>
+<l>Su la terra o in altri lati </l>
+<l>Se osserviam la religione. </l>
+<stage>Kunz scoscende alle suppliche del compagno</stage>
+</sp>
+<sp><speaker>KUNZ</speaker><l> Anche a costo di mia vita </l>
+<l>La lor vita vo' salvare: </l>
+<l>Tu, signora, dei giurare </l>
+<l>Che di qui non fai sortita. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Ve lo giuro in faccia a Dio </l>
+<l>Che per tutta la mia vita </l>
+<l>Non farem di qui sortita </l>
+<l>Tanto io che il figlio mio. </l>
+</sp>
+<sp><speaker>KUNZ</speaker><l> </l>
+<stage>(sfoderando la sciabola)</stage> <l>Giuro anch'io - per quanto dici - </l>
+<l>Sulla mia lucente spada </l>
+<l>Di non far più questa strada </l>
+<l>A cercar questi infelici. </l>
+</sp>
+<sp><speaker>KENZ</speaker><l> Dunque, addio - cara signora! </l>
+</sp>
+<sp><speaker>KUNZ</speaker><l> Fa' che baci il tuo bambino. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Cari addio! Per mio destino, </l>
+<l>Lieta son far qui dimora. </l>
+<stage>Altra scena. Alla Reggia: Kenz e Kunz presentano a Golo gli occhi delle vittime</stage>
+</sp>
+<sp><speaker>GOLO</speaker><l> <stage>(rabbiosamente)</stage> </l>
+<l>Cosa c'è? Cosa cercate? </l>
+<l>Di qua dentro andate via! </l>
+</sp>
+<sp><speaker>KUNZ</speaker><l> Ecco gli occhi in mano mia </l>
+<l>Delle vittime ordinate. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Vi ripeto: andate via! </l>
+<l>Io non voglio più sapere; </l>
+<l>Altrimenti fa vedere </l>
+<l>Morte a voi la mano mia. </l>
+<l>Un di voi, se mi favella </l>
+<l>Della misera infelice, </l>
+<l>La sua morte mi ridice... </l>
+<l>Morte a voi non si cancella. </l>
+<stage>Kenz e Kunz partono a capo chino da sinistra </stage>
+<stage>(tra sé)</stage> <l> La vendetta che ho ordinato</l>
+<l>Mi sembrava dolcemente; </l>
+<l>Or mi resta amaramente: </l>
+<l>In eterno son dannato! </l>
+<stage>parte con furore da destra</stage>
+    </sp>
+<epigraph><stage>FINE DELL'ATTO III</stage>
+    </epigraph>
+</div1>
+<div1 type="atto">
+<head>ATTO IV </head>
+<stage>Vuolf visita il Conte ferito</stage> 
+<sp><speaker>VUOLF</speaker><l> Come va la tua salute </l>
+<l>Per riguardo alla ferita? </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Quella è quasi risarcita </l>
+<l>Altre son cose accadute. </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> Che ti accadde? Svela pure, </l>
+<l>Se tu puoi a me palesare... </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Venni a morte a condannare </l>
+<l>Due appressanti creature. </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> E chi son questi vassalli? </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> La mia moglie e il mio bambino. </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> Ah! Crudele e rio destino... </l>
+<l>Che commisero di falli? </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Una lettera chiarita </l>
+<l>Fu da Golo a me inviata </l>
+<l>Che con Drago l'ha trovata: </l>
+<l>Golo a lui levò la vita. </l>
+<l>L'infedele mia consorte </l>
+<l>Fu nell'atto imprigionata </l>
+<l>Perché adultera trovata: </l>
+<l>Ordinai le desse morte. </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> E del figlio appena nato </l>
+<l>Quale fu il commesso errore? </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Perché nacque in disonore, </l>
+<l>L'ebbi a morte condannato. </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> Cosa hai fatto... mio signore? </l>
+<l>La tua sposa ell'è innocente: </l>
+<l>A me resta chiaramente </l>
+<l>Che sia Golo il traditore. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Io ferito gravemente </l>
+<l>Mi trovai sotto la tenda: </l>
+<l>Quando seppi tal faccenda, </l>
+<l>Condannai spietatamente. </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> Fai di loro altro disegno, </l>
+<l>Se fai in tempo, mio signore! </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Vuolf, mi hai commosso il cuore... </l>
+<l>Esser teco al mio convegno. </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> Non punire con la ciancia </l>
+<l>Di un sì reo calunniatore; </l>
+<l>Che gli è Golo traditore </l>
+<l>A me pende la bilancia. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Tu, mio caro, mi hai convinto; </l>
+<l>Vo' eseguire il tuo consiglio: </l>
+<l>La mia sposa ed il mio figlio </l>
+<l>Salverò se non estinto. </l>
+<l>Tu, mio fido, fai partenza </l>
+<l>Col miglior dei miei cavalli; </l>
+<l>Se fai in tempo di salvarli </l>
+<l>Hai da me riconoscenza. </l>
+<stage>Sigelfrido scrive la lettera a Golo</stage> 
+<l>« Caro Golo, avrai pazienza! </l>
+<l>Ora vengo a rismentire </l>
+<l>Quel che pria ti venni a dire </l>
+<l>Contro i miei, cruda sentenza. </l>
+<l>Lei terrai nella sua stanza, </l>
+<l>Fin ch'io torni, ben nutrita, </l>
+<l>Non dar pena alla sua vita: </l>
+<l>Sigelfrido dà ordinanza.» </l>
+<stage>Vuolf parte col messaggio (solo)</stage> 
+<l>Son fra il dubbio e la certezza </l>
+<l>Che mia moglie sia innocente: </l>
+<l>Rispecchiando la mia mente, </l>
+<l>Golo è reo con sicurezza. </l>
+<l>Voglia il Ciel che il messaggero </l>
+<l>L'abbia ancor trovata in vita: </l>
+<l>Per chiarir questa partita </l>
+<l>Chi di lor sarà sincero?</l>
+<stage>Si presenta Sigelfrido da destra e una guardia da sinistra</stage> 
+</sp>
+<sp><speaker>SERVO</speaker><l> Mio signore, arriva il messo... </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> E non viene a mia presenza? </l>
+</sp>
+<sp><speaker>SERVO</speaker><l> Sì, non abbia alcun temenza, </l>
+<l>Da cavallo scende adesso. </l>
+<stage>parte da sinistra. Entra Vuolf </stage>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Quale nuova stai portando </l>
+<l>Di mia moglie e mio bambino? </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> Fu eseguito il suo destino </l>
+<l>Che propose il tuo comando. </l>
+<l>Quando là giunsi da Golo, </l>
+<l>Domandai della Contessa; </l>
+<l>Disse: il figlio unito ad essa </l>
+<l>Da cinque anni giace al suolo. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> </l>
+<l>Presa fu da due scherani </l>
+<l>E portata alla balìa </l>
+<l>Con tuo figlio in compagnia </l>
+<l>A morir per quelle mani. </l>
+<l>Mi si spezza il cuore in petto </l>
+<l>Nel sentir la triste sorte... </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> Se innocente è tua consorte, </l>
+<l>Vendicarla ti prometto. </l>
+<stage>A questo punto si presenta una guardia consegnando a Sigelfrido una busta, 
+contenendo il loro congedamento; Sigelfrido legge e poi: </stage>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Caro Vuolf, in questo giorno </l>
+<l>Al comando siam chiamati: </l>
+<l>Noi saremo congedati, </l>
+<l>Al castel farem ritorno. </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> Nel mio cuor sento letizia </l>
+<l>Ritornar a nostra terra... </l>
+<l>Tanto ormai vinta è la guerra... </l>
+<l>È venuta la notizia. </l>
+<stage>partono </stage>
+    </sp>
+<epigraph><stage>FINE dell'ATTO IV </stage>
+    </epigraph>
+</div1>
+<div1 type="atto">
+<head>ATTO V </head>
+<stage>A questo punto si odono dei suoni dietro le scene; indica che Golo ha fatto una festa da ballo. </stage>
+<sp><speaker>SERVO</speaker><l> Se gli è ver, come si dice </l>
+<l>Dalla bocca di persone, </l>
+<l>Che sia morto il buon padrone, </l>
+<l>Golo è l'uomo più felice. </l>
+</sp>
+<sp><speaker>SERVO I </speaker><l> Se gli è morto, hai ben ragione; </l>
+<l>Ma lo vedo in molti affanni: </l>
+<l>Non mi metterei suoi panni, </l>
+<l>Se mi dessero un milione. </l>
+<l>Vedi, ad onta della festa </l>
+<l>Come gli è triste nel volto; </l>
+<l>A vederlo sembra stolto: </l>
+<l>La calunnia lo molesta. </l>
+</sp>
+<sp><speaker>SERVO</speaker><l> Dici il ver, caro cugino; </l>
+<l>Io lo stavo a rimirare </l>
+<l>Quando stavano a mangiare </l>
+<l>Pochi cibi o niente vino. </l>
+<stage>partono. A questo punto si sentono delle voci che gridano. Arriva il Conte e si presenta accompaqnato da Vuolf. Entra Golo e si calmano le grida e i suoni.</stage> 
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> <stage>(irato)</stage> </l>
+<l>Che vuol dir quest'allegria </l>
+<l>Questa sera nel castello? </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> Ho invitato questo e quello, </l>
+<l>tutta questa signoria. </l>
+<stage>turbato dalla presenza del Conte</stage> 
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Cedi a me tutte le chiavi </l>
+<l>Che appartengono al castello; </l>
+<l>Tu, mio fido, vai al cancello: </l>
+<l>A chi sorte pene gravi. </l>
+<stage>Vuolf parte da destra. Golo da sinistra</stage> 
+</sp>
+<sp><speaker>SERVO</speaker><l> <stage>(entrando da destra)</stage> </l>
+<l>Mio signor, voglio avvisare: </l>
+<l>Nella stanza qui vicina </l>
+<l>C'è un'afflitta signorina </l>
+<l>Che con te vuol ragionare. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Io desidero ascoltare; </l>
+<l>Di' che venga a mia presenza. </l>
+<stage>Berta entrando da destra,consegnando la lettera di Genoveffa a Sigelfrido</stage> 
+</sp>
+<sp><speaker>BERTA</speaker><l> Mio signor, con riverenza. </l>
+<l>Tengo un pegno a te da dare. </l>
+<l>Mi lasciò la tua consorte </l>
+<l>Questa busta sigillata </l>
+<l>Perché a te l'avessi data, </l>
+<l>Se a tornare avei la sorte. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Al presente ti ringrazio </l>
+<l>Del portato a lei rispetto; </l>
+<l>Gran ricchezza ti prometto </l>
+<l>E il cuor tuo resterà sazio. </l>
+<stage>Sigelfrido, strappando frettolosamente la busta, legge la lettera di Genoveffa </stage>
+<l>'Amatissimo consorte, </l>
+<l>A te scrivo questa mia; </l>
+<l>Credo grata a te ne sia </l>
+<l>Benché me condanni a morte. </l>
+<l>In quest'orrida prigione, </l>
+<l>Questo foglio steso a terra, </l>
+<l>L'innocenza mia si serra: </l>
+<l>Scrivo a te di ginocchione... </l>
+<l>Fra poche ore mi presento </l>
+<l>Alla corte del buon Dio... </l>
+<l>Non resulta il fallo mio </l>
+<l>Adulterio, tradimento! </l>
+<l>E tu me condanni a morte </l>
+<l>E mi accusi malfattrice?! </l>
+<l>Desti retta a un infelice </l>
+<l>Che respinse tua consorte. </l>
+<l>Nonostante, ti perdono </l>
+<l>Perché tu fosti ingannato </l>
+<l>Da quel Golo che hai lasciato </l>
+<l>Alle veci di patrono. </l>
+<l>Altrimenti non potresti </l>
+<l>Far morire due innocenti </l>
+<l>Il tuo figlio... Ah! Questo, senti, </l>
+<l>A punire mal facesti. </l>
+<l>Altra volta non punire </l>
+<l>Senza avere interrogato </l>
+<l>La ragion dell'accusato... </l>
+<l>E dovertene pentire. </l>
+<l>Come noi morì innocente </l>
+<l>Il buon Drago cuciniere; </l>
+<l>Te lo chiedo per piacere: </l>
+<l>Dai soccorso a quella gente... </l>
+<l>Chi mi uccide è suo dovere; </l>
+<l>Non ha pena da scontare... </l>
+<l>Mal contenti stanno a fare </l>
+<l>Quel che intima il tuo volere. </l>
+<l>Anche a Golo dai perdono... </l>
+<l>Io di già gli ho perdonato... </l>
+<l>Lui gliè cieco forsennato... </l>
+<l>Non lasciarlo in abbandono. </l>
+<l>Chi conserva e a te consegna </l>
+<l>Questa lettera, mio sposo, </l>
+<l>Ricompensa assai copioso, </l>
+<l>Che di ciò gliè molto degna. </l>
+<l>Ne fu a me fida e gentile </l>
+<l>Quando fui da tutti odiata </l>
+<l>Perché adultera accusata </l>
+<l>Da quel Golo infame e vile. </l>
+<l>Dilettissimo mio sposo, </l>
+<l>Questo è l'ultimo saluto; </l>
+<l>Il destin così ha voluto </l>
+<l>All'eterno mio riposo. </l>
+<l>Son da tutti presa a beffa... </l>
+<l>Sia pur tolta a me la vita: </l>
+<l>Vieni, o morte a me gradita! </l>
+<l>Son tua sposa Genoveffa.' </l>
+<stage>fine della lettera</stage> 
+<l>Genoveffa me perdona </l>
+<l>Come già tuo scritto dice... </l>
+<l>Sono l'uomo più infelice... </l>
+<l>Come me non c'è persona. </l>
+<l>Io più pace sulla terra </l>
+<l>Non avrò per la mia vita... </l>
+<l>Vieni, o morte a me gradita: </l>
+<l>In tue braccia me rinserra.  </l>
+<stage>Fra il pianto e la rabbia</stage> 
+<l>Golo infame scellerato </l>
+<l>Pria di me dovrà morire. </l>
+</sp>
+<sp><speaker>VUOLF</speaker><l> </l>
+<stage>(interviene e ferma l'ira di Sigelfrido)</stage> <l>Ferma amico e non ferire </l>
+<l>Senza averlo interrogato. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Mio buon Vuolf, hai tu ragione </l>
+<l>Io depongo la mia spada. </l>
+<l>A pigliar Golo si vada </l>
+<l>E portatelo in prigione. </l>
+<stage>parte Vuolf da destra. Entrano due guardie</stage> 
+<l>E da lui ne sia occupato </l>
+<l>Quella cella ove mia moglie </l>
+<l>Molti dì soffrì gran doglie </l>
+<l>E mio figlio venne nato. </l>
+<l>Fidi miei, sostate un poco </l>
+<l>Golo andatemi a cercare: </l>
+<l>Io lo voglio interrogare, </l>
+<l>Sia portato in questo loco.  </l>
+<stage>Entra Golo e le due guardie</stage> 
+<l>Dimmi Golo, che ti ho fatto... </l>
+<l>Da potermi meritare </l>
+<l>Mia consorte calunniare </l>
+<l>Ché il suo onore gliera esatto. </l>
+</sp>
+<sp><speaker>GOLO</speaker><l> </l>
+<stage>(tremante)</stage> <l>Si gliè ver che gliè innocente! </l>
+<l>Preso fui da una passione... </l>
+<l>Dissi a lei la mia intenzione... </l>
+<l>Mi respinse brutalmente. </l>
+<l>In quel punto assai geloso </l>
+<l>Che le venni a domandare </l>
+<l>Certo te volea avvisare: </l>
+<l>Io perciò venni furioso. </l>
+<l>Per salvare la mia vita, </l>
+<l>Venni a te calunniatore: </l>
+<l>Preso fui da un cieco amore </l>
+<l>La mia mente era impazzita. </l>
+<l>Drago pur morì innocente </l>
+<l>Perché lui tutto sapeva... </l>
+<l>Tua consorte gli diceva </l>
+<l>Quel che a te faccio presente. </l>
+<l>Io, caduto in tal cimento, </l>
+<l>Non sapea più cosa fare </l>
+<l>Perché a te stavo a pensare, </l>
+<l>Al tentato tradimento... </l>
+<l>Io del tutto l'accaduto </l>
+<l>Fatta ti ho la confessione: </l>
+<l>Sono a tua disposizione </l>
+<l>A pagare il contributo. </l>
+<stage>Sigelfrido mette la sciabola sopra la testa di Golo</stage> 
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Per punire il tuo reato </l>
+<l>Io non so di te che fare: </l>
+<l>Morte è poca per pagare </l>
+<l>Questo tuo male operato. </l>
+<l>Sia levato a me davanti </l>
+<l>Riportatelo in prigione... </l>
+<l>Prenderò la decisione </l>
+<l>De' tuoi detti calunnianti. </l>
+<stage>Golo con le due guardie e Vuolf partono da destra. Rientrano le due quardie da sinistra; mentre che Sigelfrido passeggia franco, si rivolge alle guardie e gli dice</stage> 
+<l>Fidi, a voi chiedo un favore... </l>
+<l>Se sentite a me di fare... </l>
+<l>Moglie e figlio ritrovare... </l>
+<l>Di quell'ossa le dimore. </l>
+</sp>
+<sp><speaker>SERVO</speaker><l> Siamo pronti all'obbedienza... </l>
+<l>Quanto hai detto noi faremo... </l>
+<l>Quelle salme troveremo </l>
+<l>Dove sia loro esistenza. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Se i due corpi ritrovare </l>
+<l>Voi saprete, ai luoghi ameni </l>
+<l>Una parte dei miei beni </l>
+<l>Giuro a voi di regalare. </l>
+<stage>partono le due guardie da destra. Vuolf, entrando da sinistra, invitando il Conte di andare a caccia per distrarlo dai suoi brutti pensieri</stage> 
+</sp>
+<sp><speaker>VUOLF</speaker><l> Mio signor, doman mattina </l>
+<l>Se con me vuoi far sortita, </l>
+<l>Una caccia ho stabilita </l>
+<l>Alla grossa selvaggina. </l>
+<l>Nelle selve di Germania </l>
+<l>Ci son lupi, e molti cervi... </l>
+<l>Son già pronti cani e servi </l>
+<l>Che alla caccia han grande smania. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Per far teco compagnia, </l>
+<l>Ti prometto di venire: </l>
+<l>Non ti voglio mai disdire </l>
+<l>Se ti è presa tal mania. </l>
+<stage>partono. Altra scena. Nel bosco. All'alzarsi del sipario trovasi una cerva e Genoveffa. Entra Sigelfrido con in mano una fionda </stage>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Se tu sei una creatura, </l>
+<l>Vieni fuora e vieni al giorno. </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> </l>
+<stage>(riconoscendo Sigelfrido)</stage> <l>Ah! Chi vedo far ritorno? </l>
+<l>Non aver di me paura... </l>
+<stage>fa cenno di muoversi, vestita selvaggiamente</stage> 
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> <stage>(insospettito)</stage> </l>
+<l>Chi sei tu? Come ti chiami, </l>
+<l>Spettro giunto a me davante? </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Genoveffa di Brabante, </l>
+<l>La tua sposa, se tu brami... </l>
+<l>Ordinasti a me la morte </l>
+<l>E innocente fui accusata; </l>
+<l>Ora qua l'hai ritrovata </l>
+<l>La fedele tua consorte. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> </l>
+<stage>(fuor di sé)</stage> <l>Ma son desto, o nel letargo?! </l>
+<l>Il passato sto a sognare?! </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Fatti avanti e non tremare. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Vieni qua dov'è più largo! </l>
+<l>Tu lo spirito sarai </l>
+<l>Dell'estinta mia consorte?!. </l>
+<l>Forse qui ti dieder morte?!. </l>
+<l>Parla pur se dir potrai... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Sigelfrido amato sposo, </l>
+<l>Non son ombra, ma vivente </l>
+<l>Genoveffa veramente... </l>
+<l>Non restar più pensieroso... </l>
+<l>Quei carnefici ordinati </l>
+<l>Di levare a me la vita, </l>
+<l>La mia prece acconsentita, </l>
+<l>Mi lasciaro in questi lati. </l>
+<l>E, scampato tal periglio, </l>
+<l>Quella cerva ci ha nutrito </l>
+<l>Col suo latte a noi gradito </l>
+<l>Tanto a me come a tuo figlio.  </l>
+<stage>Sigelfrido, rimasto privo di sensi, viene accarezzato da Genoveffa</stage> 
+<l>Rasserena la tua mente... </l>
+<l>Torna in te, non vacillare... </l>
+<l>Se puoi un verbo palesare, </l>
+<l>Tua consorte hai qui presente... </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Sento i sensi e la favella </l>
+<l>Ritornare a poco a poco: </l>
+<l>Nel trovarti in questo loco </l>
+<l>Io restai privo di quella... </l>
+<l>Or ti vedo qui davante </l>
+<l>In cotesta condizione </l>
+<l>Senza colpa, né cagione... </l>
+<l>Genoveffa di Brabante! </l>
+<l>Io colpevole ne sono; </l>
+<l>Me condanna, mia consorte! </l>
+<l>Che sia data a me la morte, </l>
+<l>Non son degno del perdono... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Del perdono non languire... </l>
+<l>Io di già ti ho perdonato </l>
+<l>Perché tu fosti ingannato </l>
+<l>Da chi te volea tradire. </l>
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Nel sentire il tuo perdono </l>
+<l>Senza me rimproverare, </l>
+<l>Poco è certo il ringraziare </l>
+<l>Il tuo cor gentile e buono. </l>
+<l>E del figlio cosa è stato? </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> E' sortito per la selva </l>
+<l>A cercar cibi alla cerva </l>
+<l>Cui è tanto affezionato. </l>
+<stage>Enrico, entrando, resta sorpreso dalla presenza di Sigelfrido e lascia cadere il fardello dell'erba che teneva sotto il braccio e corre verso la mamma</stage> 
+</sp>
+<sp><speaker>ENRICO</speaker><l> Mamma! Mamma! </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> </l>
+<stage>(andando incontro al figlio)</stage> <l>Enrico caro </l>
+<l>Non aver di lui timore; </l>
+<l>Questo è nostro salvatore, </l>
+<l>Prenderà di noi riparo. </l>
+</sp>
+<sp><speaker>ENRICO</speaker><l> Qual sarà la nostra sorte </l>
+<l>Spiega a me, mammina mia, </l>
+<l>Se di qua ci porta via, </l>
+<l>Dopo a noi darà la morte?... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> No, mio caro figlio amato, </l>
+<l>E' tuo babbo,... quel signore </l>
+<l>Che ne piange dal dolore </l>
+<l>Nel vederci in questo stato. </l>
+<l>Bacia, Enrico, a lui la mano... </l>
+<l>Sigelfrido, tergi il pianto... </l>
+<l>Il tuo figlio hai teco accanto </l>
+<l>Che fu troppo a te lontano... </l>
+<stage>Sigelfrido prende in braccio suo figlio</stage> 
+</sp>
+<sp><speaker>SIGELFRIDO</speaker><l> Son fra il pianto e l'allegrezza... </l>
+<l>Vieni, figlio, alle mie braccia... </l>
+<l>E ch'io baci la tua faccia... </l>
+</sp>
+<sp><speaker>GENOVEFFA</speaker><l> Falla a babbo una carezza... </l>
+    </sp>
+<epigraph><stage>FINE</stage>
+    </epigraph>
+</div1>
+</body>
+</text>
+</TEI.2>

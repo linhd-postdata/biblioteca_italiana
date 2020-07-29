@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie</title>
+      <author>Roberto de' Rossi</author>
+    </titleStmt>
+    <extent>3 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000121</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Lirici toscani del Quattrocento</title>
+        <title type="part">v.</title>
+        <editor id="ed">Lanza, Antonio</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1975</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-10-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-05-27T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="poesia">
+<head>Sonetto del signore Malatesta da Pesaro a Ruberto de' Rossi.
+</head>
+<lg type="sonetto"><lg rend="italic">
+<l>Se l'onorate tue tempie mai vesta</l>
+<l>di mirto dïadema over d'alloro,</l>
+<l>sottilissimo ingegno, almo tesoro,</l>
+<l>che com'a degno ti riluca in testa,</l></lg><lg>
+<l>e se la dolce tua rima, che presta</l>
+<l>soave cibo al mio debil lavoro,</l>
+<l>possa volar nel mondo fra coloro</l>
+<l>c'hanno la mente ad esaltarti desta,</l></lg><lg>
+<l>e per quella amistà, la qual per carmi</l>
+<l>più volte mostra m'hai, che 'n te sol preme,</l>
+<l>per tuo gran senno e non per mio valore,</l></lg><lg>
+<l>piacciati alquanto di consiglio armarmi,</l>
+<l>come colui che 'n te post'ha sua speme,</l>
+<l>s'io seguir debbo over fuggire Amore.</l>
+</lg>
+</lg></div1>
+<div1 type="poesia">
+<head>Risposta di Ruberto de' Rossi a Malatesta
+</head>
+<lg type="sonetto"><lg>
+<l>Qualunque fugge Amore, o Malatesta,</l>
+<l>fugge delle virtù l'eterno coro,</l>
+<l>fugge le Muse, l'armi e 'l dir sonoro</l>
+<l>della fama ch'ognor vola più presta.</l></lg><lg>
+<l>Però fuggire Amor mente modesta</l>
+<l>non debbe mai, né le sue frecce d'oro;</l>
+<l>se fugge perché schifa anzi costoro,</l>
+<l>più crudelmente Amor punge e molesta.</l></lg><lg>
+<l>Né forza val né scudo alle sue armi,</l>
+<l>che spezzano ogni tempra, e mai non teme</l>
+<l>di non passar colle sue punte al core.</l></lg><lg>
+<l>Però, car signor mio, se vuoi vere armi,</l>
+<l>seguita Amor con onestà, il cui seme</l>
+<l>ti farà glorïoso e sempre onore.</l>
+
+</lg>
+</lg></div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Il barcheggio</title>
+    </titleStmt>
+    <extent>26 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000838</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tre cantate per voci e strumenti</title>
+        <author>Stradella, Alessandro</author>
+        <editor id="ed">Gianturco, Carolyn</editor>
+        <editor id="ed2">Zolesi, Ilaria</editor>
+        <publisher>Laaber Verlag</publisher>
+        <pubPlace>Laaber</pubPlace>
+        <date>1997</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>600</date>
+    </creation>
+    <langUsage><language id="codice">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2001-10-10T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Chiara Comastri</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale in SGML</item>
+    </change>
+    <change>
+      <date>2003-06-23T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione - Conversione in XML e validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+   <castList><head>Personaggi</head>
+    <castItem>ANFITRITE</castItem><lb/>
+    <castItem>NETTUNO</castItem><lb/>
+    <castItem>PROTEO</castItem>
+   </castList></front>
+<body>
+<div1 type="parte"><head>Prima parte</head>
+
+<sp><speaker>ANFITRITE, NETTUNO</speaker>
+	<lg type="strofa">
+		<l rend="indent">Agl'applausi più festivi,</l>
+		<l>o del mar ninfe v'unite.</l>
+		<l rend="indent">Dalle grotte più profonde,</l>
+		<l>suonin l'onde a' cenni miei</l>
+		<l n="5">e s'innalzin più trofei</l>
+		<l>a <name>Nettunno</name>, ad <name>Anfitrite</name>.</l></lg></sp>
+
+
+<sp><speaker>NETTUNO</speaker>
+	<lg type="strofa">
+		<l rend="indent">All'impero de' <name>Germani</name></l>
+		<l>non invidia il petto mio,</l>
+		<l>pur ch'io sia del mar il dio,</l>
+		<l n="10">sian pur lor numi sovrani,</l>
+		<l>l'un nel cielo e l'altro in <name>Dite</name>.</l></lg></sp>
+
+
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="strofa">
+		<l rend="indent">A <name>Proserpina</name> e <name>Giunone</name></l>
+		<l>non invidia la mia sorte,</l>
+		<l>se a Nettunno io son consorte,</l>
+		<l n="15">più di <name>Giove</name> e di <name>Plutone</name></l>
+		<l>son sue nozze a me gradite.</l></lg></sp>
+
+
+<sp><speaker>ANFITRITE, NETTUNO</speaker>
+	<lg type="strofa">
+		<l rend="indent">Agl'applausi più festivi,</l>
+		<l>o del mar ninfe v'unite.</l></lg></sp>
+
+
+<sp><speaker>NETTUNO</speaker>
+	<lg type="verso-libero">
+	<l>Rubin, perle e coralli,</l>
+	<l n="20">di cui felice il nostro regno abbonda,</l>
+	<l>fa' pur che a' cenni tuoi</l>
+	<l>colgansi, o sposa, e tosto ne circonda</l>
+	<l>al gran padre <name>Imeneo</name> l'are adorate,</l>
+	<l>confessando che mai</l>
+	<l n="25">non si strinser da lui nozze più grate.</l></lg></sp>
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l>Rota così propizia a mio favore</l>
+	<l>girò quel di fortuna,</l>
+	<l>ch'ora ogni gioia in questo sen si aduna.</l></lg></sp>
+<sp><speaker>NETTUNO</speaker>
+	<lg type="verso-libero">
+	<l>Impor le leggi al mare,</l>
+	<l n="30">nol niego, è vanto mio,</l>
+	<l>ma benché a calme ed a tempeste impero,</l>
+	<l>sol però per quest'alma</l>
+	<l>tra' scogli del suo sen ride la calma.</l>
+	<l>E per placar quel tempestoso orgoglio</l>
+	<l n="35">Onde spesso il cordoglio il cor m'assale,</l>
+	<l>al gran tridente un guardo tuo prevale.</l></lg></sp>
+<sp><speaker>NETTUNO</speaker>
+	<lg type="verso-libero">
+	<l>Orsù, mia diva, addio.</l></lg></sp>
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l>Sempre il fato t'arrida, amato dio.</l></lg>
+
+
+	<lg type="strofa">
+		<l rend="indent">Son lieta, o fortuna,</l>
+		<l n="40">non bramo di più.</l>
+		<l>Un cor sì beato</l>
+		<l>ch'eguali il mio stato</l>
+		<l>non vive lassù.</l>
+		<l rend="indent">Per farmi felice</l>
+		<l n="45">mi basta così.</l>
+		<l>Contento maggiore </l>
+		<l>del nostro, o mio core,</l>
+		<l>alcun non sentì.</l></lg>
+
+
+	<lg type="verso-libero">
+	<l>Fortunato <name>Imeneo</name>,</l>
+	<l n="50">che in sì felice nodo il cor m'avvinse.</l>
+	<l>Ma il regno di <name>Nereo</name>,</l>
+	<l>qual bisbiglio confonde? A questa parte,</l>
+	<l>tra ben cento tritoni e mille ninfe</l>
+	<l>drizza <name>Proteo</name> le piante.</l>
+	<l n="55">Come lieto il sembiante in lui si vede!</l>
+	<l>Qualch'augurio felice egli prevede.</l></lg></sp>
+
+
+<sp><speaker>PROTEO</speaker>
+	<lg type="strofa">
+		<l rend="indent">Agl'applausi risveglisi il cor.</l>
+		<l rend="indent">Mai più bello e più lucente,</l>
+		<l>dalle sponde d'<name>Oriente</name>,</l>
+		<l n="60">trasse <name>Febo</name> il suo crin d'or.</l>
+		<l rend="indent">Agl'applausi risveglisi il cor.</l>
+		<l rend="indent">Dalla face d'<name>Imeneo</name>,</l>
+		<l>mai svegliarsi non poteo</l>
+		<l>il più bello e casto ardor.</l>
+		<l n="65" rend="indent">Agl'applausi risveglisi il cor.</l></lg>
+
+
+	<lg type="verso-libero">
+	<l>Risuoni pur per così lieti eventi</l>
+	<l>da' seni più nascosti</l>
+	<l>del gran padre <name>Oceano</name> eco festiva</l>
+	<l>che a nozze sì felici intuoni i viva!</l></lg></sp>
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l n="70">Che sento? È <name>Proteo</name> ancora</l>
+	<l>qui con inni di laude?</l>
+	<l>Delle mie nozze alla memoria applaude?</l></lg></sp>
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Se qual vidd'io da' più misteri ascosi,</l>
+	<l>queste rive beate</l>
+	<l n="75">de' duo futuri sposi</l>
+	<l>devono in questo dì bearsi ai sguardi.</l>
+	<l>Olà, più non si tardi.</l>
+	<l>Cantisi in suon gradito:</l>
+	<l>viva <name>Carlo</name> in eterno a <name>Paola</name> unito.</l></lg></sp>
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l n="80">Lassa! Che ascolto? E quai festivi applausi</l>
+	<l>non si fanno a <name>Nettunno</name>?</l>
+	<l>E fia  ancora tra l'algose campagne</l>
+	<l>negl'applausi <name>Anfitrite</name> abbia compagne?</l>
+	<l>Olà, fermate! E chi nel regno mio,</l>
+	<l n="85">fatidico pastore,</l>
+	<l>tal licenza a te diede?</l></lg></sp>
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Maggiori applausi un tal successo chiede,</l>
+	<l>così per intrecciare</l>
+	<l>nodo tanto bramato,</l>
+	<l n="90">più veloce corresse il tempo alato.</l></lg></sp>
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l>E chi fian questi eroi per quai si vede</l>
+	<l>che nel proprio suo regno,</l>
+	<l>la regina del mar l'onor gli cede?</l></lg></sp>
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Delle piante più illustri</l>
+	<l n="95">del ligure giardin germi famosi</l>
+	<l>sono, o diva, i due sposi.</l>
+	<l>E se tu stessa del bifronte dio</l>
+	<l>alla figlia reale</l>
+	<l>del mar cedi l'impero,</l>
+	<l n="100">or ben vegg'io che con vicenda uguale,</l>
+	<l>or si devon da  noi</l>
+	<l>tributar giuste lodi a' figli suoi.</l></lg>
+
+
+	<lg type="strofa">
+		<l rend="indent">Scherzi, rida e brilli il mar</l>
+		<l>di sembianze così belle</l>
+		<l n="105">se il fulgore ci goderà,</l>
+		<l>del suo sol, delle sue stelle,</l>
+		<l>si potrà con l'empiro anch'ei vantar.</l></lg>
+
+
+	<lg type="verso-libero">
+	<l>O quai nel sen del fato,</l>
+	<l>con mia gioia prevedo</l>
+	<l n="110">per sì fausto imeneo felici eventi.</l>
+	<l>Su, voi che a' muti armenti</l>
+	<l>assistete con me, pastori algosi,</l>
+	<l>accorrete festosi.</l>
+	<l>Tutti a cantar v'invito:</l>
+	<l n="115">viva <name>Carlo</name> in eterno a <name>Paola</name> unito.</l></lg></sp>
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l>E una ligure sposa</l>
+	<l>Nel regno mio m'usurperà gl'onori?</l>
+	<l>Ah, no! Troppo gelosa</l>
+	<l>son della gloria mia.</l>
+	<l n="120">Pena condegna a tanto ardir si dia!</l></lg></sp>
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Di qual pena favelli?</l>
+	<l>Cessa del tuo furor, bell'<name>Anfitrite</name>.</l>
+	<l>La <name>Brignole</name> <name>Minerva</name></l>
+	<l>a te non è ben nota.</l>
+	<l n="125">Qual alma fia nel fasto suo proterva,</l>
+	<l>che a sì gran semidea non sia divota?</l>
+	<l>Ah, ben <name>Carlo</name> l'intese</l>
+	<l>ch'aquila amante ai lumi suoi s'accese.</l></lg>
+
+
+	<lg type="strofa">
+		<l rend="indent">Un epilogo di virtù,</l>
+		<l n="130">se compagno è con la beltà,</l>
+		<l>in ogn'alma che non farà?</l>
+		<l>Duro assai più</l>
+		<l>e più costante</l>
+		<l>sia del diamante</l>
+		<l n="135">l'altrui rigor,</l>
+		<l>ché ad assalto sì bel cade ogni cor.</l></lg></sp>
+
+
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l>Mantice del mio sdegno</l>
+	<l>son, <name>Proteo</name>, i detti tuoi.</l>
+	<l>Saprò svegliar vendicator l'ingegno</l>
+	<l n="140">contro tanta rivale.</l>
+	<l>Al mio furor fia la vendetta uguale.</l></lg>
+
+
+		<lg type="strofa">
+		<l rend="indent">Ch'io mi plachi? Oh, questo no!</l>
+		<l rend="indent">Dall'eolie</l>
+		<l>grotte orribili</l>
+		<l n="145">fischi e sibili</l>
+		<l>sveglierò.</l>
+		<l>Di fieri turbini</l>
+		<l>con mille furie,</l>
+		<l>le proprie ingiurie</l>
+		<l n="150">vendicherò.</l>
+		<l rend="indent">Ch'io mi plachi? Oh, questo no!</l>
+		<l rend="indent">Nelle furie</l>
+		<l>sempre stabile,</l>
+		<l>implacabile</l>
+		<l n="155">io sarò.</l>
+		<l>Con venti rapidi,</l>
+		<l>flutti fierissimi</l>
+		<l>i sdegni asprissimi</l>
+		<l>fomenterò.</l>
+		<l rend="indent" n="160">Ch'io mi plachi? Oh, questo no!</l></lg>
+
+
+	<lg type="verso-libero">
+	<l>Schernir le proprie offese a me s'aspetta,</l>
+	<l>alli sdegni, alle furie, alla vendetta.</l></lg></sp>
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Parte irata <name>Anfritite</name>,</l>
+	<l>e non conosce ancora il cor sdegnato,</l>
+	<l n="165">che mai s'arriva a contrastar col fato.</l></lg>
+
+
+	<lg type="strofa">
+		<l rend="indent">Col destin chi può pugnar?</l>
+		<l rend="indent">Vaghi sposi, deh, venite,</l>
+		<l>che anco ad onta d'<name>Anfitrite</name>,</l>
+		<l>per suoi dei v'elegge il mar.</l>
+		<l n="170" rend="indent">Col destin chi può pugnar?</l>
+		<l rend="indent">Deh, venite, o sposi omai,</l>
+		<l>che il fulgor de' vostri rai</l>
+		<l>queste rive ha da bear.</l>
+		<l rend="indent">Col destin chi può pugnar?</l></lg></sp>
+
+
+</div1>
+
+<div1 type="part"><head type="conv">Seconda parte</head>
+
+
+<sp><speaker>NETTUNO</speaker>
+	<lg type="strofa">
+		<l rend="indent" n="175">Chi mi scorge ad <name>Anfitrite</name>?</l>
+		<l>Chi m'insegna ov'è il mio ben?</l>
+		<l>Se più tardi son suoi sguardi</l>
+		<l>a recarmi il lor fulgore,</l>
+		<l>del suo core privo è il sen.</l></lg>
+
+
+	<lg type="verso-libero">
+	<l n="180">Da non so qual cagione</l>
+	<l>l'adorata mia dea turbata intesi.</l>
+	<l>Se mi fan palesi</l>
+	<l>del furore di lei le cause ignote,</l>
+	<l>io vo' che le rimote</l>
+	<l n="185">parti del salso regno</l>
+	<l>dell'irato <name>Nettun</name> sentan lo sdegno.</l></lg>
+
+
+	<lg type="strofa">
+		<l rend="indent">Chi turba quel viso </l>
+		<l>mi sforza a sdegnar,</l>
+		<l>ché sta nel suo riso</l>
+		<l n="190">la calma del mar.</l>
+		<l rend="indent">Mi causa cordoglio</l>
+		<l>se mesto è il mio ben.</l>
+		<l>Con questo sol voglio,</l>
+		<l>commune il seren.</l></lg>
+
+
+	<lg type="verso-libero">
+	<l n="195">Ma qui ver me la bella dea sen viene.</l>
+	<l>Chi poté mai turbare</l>
+	<l>luci tanto serene?</l></lg></sp>
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l>Alto <name>Giove</name> del mar, cui si consente</l>
+	<l>per fulmine il tridente,</l>
+	<l n="200">e che ti vale</l>
+	<l>farmi a <name>Giunon</name> con le tue nozze eguale,</l>
+	<l>se nella propria reggia</l>
+	<l>or m'usurpa l'onor donna mortale?</l>
+	<l>Soffrirai che si veggia</l>
+	<l n="205">vilipesa <name>Anfitrite</name></l>
+	<l>e che sognata diva,</l>
+	<l>qui da' sudditi tuoi, l'usurpi il viva?</l></lg></sp>
+<sp><speaker>NETTUNO</speaker>
+	<lg type="verso-libero">
+	<l>E chi cotanto ardisce?</l></lg></sp>
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l><name>Proteo</name>, che in mille guise</l>
+	<l n="210">solito è trasformarsi,</l>
+	<l>nella stessa insolenza or vuol cangiarsi.</l>
+	<l>Audace! Ei non paventa</l>
+	<l>di fare al mio cospetto</l>
+	<l>de' maritimi applausi un altro oggetto.</l></lg></sp>
+<sp><speaker>NETTUNO</speaker>
+	<lg type="verso-libero">
+	<l n="215">O del mar non son dio,</l>
+	<l>o pagherà di tanta colpa il fio.</l></lg>
+
+
+	<lg type="strofa">
+		<l rend="indent">Con la sposa del nume dell'onde,</l>
+		<l>sposa alcuna non pensi cozzar.</l>
+		<l>Che se <name>Proteo</name> altri sensi nasconde,</l>
+		<l n="220">per scempio dell'empio</l>
+		<l>tempeste funeste</l>
+		<l>saprò risvegliar.</l></lg></sp>
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="strofa">
+		<l rend="indent">Se a <name>Nettunno</name> son fatta consorte,</l>
+		<l>non vi sia chi mi pensi uguagliar.</l>
+		<l n="225">Se v'è donna che aspiri a tal sorte,</l>
+		<l>irata, sdegnata,</l>
+		<l>l'altiero pensiero,</l>
+		<l>saprò castigar.</l></lg>
+
+
+	<lg type="verso-libero">
+	<l>Ma quivi è <name>Proteo</name>, o sire.</l>
+	<l n="230">Odi tu stesso il temerario ardire.</l></lg></sp>
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Alla gloria de' sposi, non mai stanchi,</l>
+	<l>cantate inni festivi</l>
+	<l>e di <name>Paola</name> e di <name>Carlo</name> al degno onore.</l>
+	<l>Il suo proprio velen perda il livore.</l>
+	<l n="235">A qual <name>Paola</name>, a qual <name>Carlo</name>,</l>
+	<l>temerario pastor, sacri gl'appalusi?</l></lg></sp>
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Non ti sdegnare, o sire: a tali eroi,</l>
+	<l>da' bei raggi de' quali, in questo giorno,</l>
+	<l>l'umido regno tuo gloria riceve,</l>
+	<l n="240">maggior lode si deve.</l></lg></sp>
+<sp><speaker>NETTUNO</speaker>
+	<lg type="verso-libero">
+	<l>E qual mortal mai fia</l>
+	<l>che possa in tempo alcuno</l>
+	<l>con suoi raggi illustrar la reggia mia?</l></lg></sp>
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Signor, non mi consenti</l>
+	<l n="245">che del bifronte dio</l>
+	<l>ai nipoti guerrieri</l>
+	<l>rinonciassi talor del mar gl'imperi?</l></lg></sp>
+<sp><speaker>NETTUNO</speaker>
+	<lg type="verso-libero">
+	<l>Alle gesta famose</l>
+	<l>di quegl'invitti eroi,</l>
+	<l n="250">sì degni onori il genio mio dispose.</l></lg></sp>
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Or fra nipoti suoi,</l>
+	<l>signor, questi pur sono. E perché a loro</l>
+	<l>ciò che donasti altrui negar vorrai?</l>
+	<l>Scusami, tu non sai</l>
+	<l n="255">quai siano de' sposi i preggi. A <name>Carlo</name> il guardo</l>
+	<l>se tu giri un momento,</l>
+	<l>degl'applausi di lui sarai contento.</l>
+	<l>Poi se a <name>Paola</name> ti volgi</l>
+	<l>esclamerai per certo,</l>
+	<l n="260">è picciolo ogn'applauso a sì gran merto.</l></lg>
+
+
+	<lg type="strofa">
+		<l rend="indent">Del splendor degl'avi suoi</l>
+		<l>è lo  sposo emulo e figlio,</l>
+		<l>ma la sposa ai stessi eroi</l>
+		<l>per stupore inarca il ciglio.</l>
+		<l rend="indent" n="265">Di bellezza e di fortuna</l>
+		<l>i tesori ella non preggia,</l>
+		<l>perché tutte l'alma reggia</l>
+		<l>le virtudi in sé raduna.</l></lg>
+
+
+	<lg type="verso-libero">
+	<l>Ma che più parlo, o sire?</l>
+	<l n="270">Del <name>Brignole</name> <name>Anton Giulio</name></l>
+	<l>è la bella germoglio;</l>
+	<l><name>Spinola</name> è il sposo suo. Più dir non voglio.</l></lg></sp>
+<sp><speaker>NETTUNO</speaker>
+	<lg type="verso-libero">
+	<l>Tanto mi basta, o <name>Proteo</name>.</l>
+	<l>Se tali i sposi sono,</l>
+	<l n="275">perché degni tu sacri a lor gl'applausi</l>
+	<l>ogn'arbitrio del regno oggi ti dono.</l>
+	<l>E tu, bell'<name>Anfitrite</name>,</l>
+	<l>ai concetti di <name>Proteo</name></l>
+	<l>non isdegnar che sian tue voci unite.</l>
+	<l n="280">Se de' <name>Spinoli</name> eroi germe è lo sposo,</l>
+	<l>se del grande <name>Anton Giulio</name>,</l>
+	<l>di cui sempre immortal suona la fama,</l>
+	<l>è la sposa nipote,</l>
+	<l>tu meco ancor le loro glorie acclama.</l></lg></sp>
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l n="285">Se a te così n'aggrada,</l>
+	<l>per coppia così rara</l>
+	<l>negl'encomi fra noi vadasi a gara.</l></lg></sp>
+
+
+<sp><speaker>ANFITRITE, NETTUNO</speaker>
+	<lg type="strofa">
+		<l rend="indent">Con mille e più trombe</l>
+		<l>assordisi il mar.</l>
+		<l n="290">Per far che rimbombe,</l>
+		<l>sì fausto imeneo</l>
+		<l>con l'<name>Indo</name> l'<name>Egeo</name></l>
+		<l>vuò far echeggiar.</l></lg></sp>
+
+
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Di <name>Teti</name> e di <name>Peleo</name> nozze famose,</l>
+	<l n="295">a nozze più felici omai cedete.</l>
+	<l>Stelle non mai più liete</l>
+	<l>ci arriser dall'empiro.</l>
+	<l>E tanta gioia in questo regno or miro</l>
+	<l>che braman l'onde istesse,</l>
+	<l n="300">fatta col foco volontaria pace,</l>
+	<l>per sì grande imeneo cangiarsi in face.</l></lg></sp>
+<sp><speaker>NETTUNO</speaker>
+	<lg type="verso-libero">
+	<l>Quanto già mai di prezioso e vago,</l>
+	<l>dall'<name>Indo</name> e 'l <name>Gange</name> e dal <name>Pattolo</name> e <name>Tago</name>,</l>
+	<l>ebbe questa mia reggia,</l>
+	<l n="305">a gloria de' gran sposi</l>
+	<l>in questo dì qui folgorar si veggia.</l></lg>
+
+
+		<lg type="strofa">
+		<l rend="indent">Per porger tributo</l>
+		<l>col fasto dovuto</l>
+		<l>a dì sì seren,</l>
+		<l n="310">di fulgide gemme</l>
+		<l>all'<name>Inde</name> maremme</l>
+		<l>si svisceri il sen.</l>
+		<l>Che per far degno applauso al merto loro,</l>
+		<l>ben si spende ogni gemma, ogni tesoro.</l></lg></sp>
+
+
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l n="315">Non fia però che mai tesor si veda,</l>
+	<l>che di valor di prezzo</l>
+	<l>alla bella eroina ognor non ceda.</l></lg>
+
+
+	<lg type="strofa">
+		<l rend="indent">Che la bocca di perle e coralli,</l>
+		<l>che d'argento sia fertile il sen:</l>
+		<l n="320">son tesori a cui vassalli</l>
+		<l>far convien quelli dell'onde.</l>
+		<l>Ma tesori più belli in seno asconde.</l></lg></sp>
+
+
+<sp><speaker>ANFITRITE</speaker>
+	<lg type="verso-libero">
+	<l>Tanto della gran sposa</l>
+	<l>tu mi racconti, o <name>Proteo</name>,</l>
+	<l n="325">che non già più gelosa</l>
+	<l>ma resa omai della sua gloria amante,</l>
+	<l>bramo farmi elitropio al suo sembiante.</l></lg>
+
+
+	<lg type="strofa">
+		<l rend="indent">La bellezza e la virtù</l>
+		<l>sanno abbattere ogni cor.</l>
+		<l n="330">Se nemico il mio gli fu,</l>
+		<l>ai contrasti lusinghieri</l>
+		<l>or si cangia di pensieri,</l>
+		<l>e lo sdegno fassi amor.</l></lg></sp>
+
+
+<sp><speaker>ANFITRITE, PROTEO, NETTUNO</speaker>
+		<lg type="strofa">
+		<l rend="indent">Col fragor di mille trombe</l>
+		<l n="335">si palesi il mio piacer,</l>
+		<l>ogni lido ne festeggi,</l>
+		<l>a' miei canti ogn'antro echeggi,</l>
+		<l>rida ognuno a' miei pensier.</l></lg></sp>
+
+
+<sp><speaker>PROTEO</speaker>
+	<lg type="verso-libero">
+	<l>Io che de' semidei prevedo i figli,</l>
+	<l n="340">con che più dolce modo</l>
+	<l>delle nozze di lor festeggio e godo!</l></lg></sp>
+<sp><speaker>NETTUNO</speaker>
+	<lg type="verso-libero">
+	<l>Su via, per tutto il mare</l>
+	<l>con viva risonanti</l>
+	<l>l'epitalamio lor tosto si canti.</l></lg></sp>
+
+
+<sp><speaker>ANFITRITE, PROTEO, NETTUNO</speaker>
+	<lg type="strofa">
+		<l rend="indent" n="345">Mille vezzi, mille amori</l>
+		<l>or di <name>Dori</name> accolga il sen.</l>
+		<l>Le nereidi co' tritoni</l>
+		<l>or consacrin dolci suoni</l>
+		<l>ad un dì tanto seren.</l>
+		<l n="350">Cantisi in ogni seno, in ogni lito:</l>
+		<l>viva <name>Carlo</name> in eterno a <name>Paola</name> unito.</l></lg></sp>
+   </div1></body></text>
+</TEI.2>

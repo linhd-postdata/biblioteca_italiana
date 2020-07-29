@@ -1,0 +1,2547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Canti (ed. Firenze 1831)</title>
+      <author>Giacomo Leopardi</author>
+    </titleStmt>
+    <extent>115 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001021</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le opere</title>
+        <author>Leopardi, Giacomo</author>
+        <editor id="ed">Felici, Lucio</editor>
+        <publisher>Lexis Progetti Editoriali</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1998</date>
+        <note>L'edizione elettronica fa riferimento al testo Gicomo Leopardi, Canti, ed. critica a cura di D. de Robertis, Milano, Il Polifilo 1984.</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language><language id="fre">Francese</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.7 - POESIA ITALIANA. 1814-1859</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-05-31T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Laura Sarzi Braga</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-06-14T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1>
+<head>AGLI AMICI DI TOSCANA</head>
+<opener>
+<dateline rend="sc">FIRENZE 15 DICEMBRE 1830.</dateline>
+</opener>
+    <p>AMICI MIEI CARI,</p>
+	<p>Sia dedicato a voi questo libro, dove io cercava, come si cerca spesso colla poesia, di consacrare il mio dolore, e col quale al presente (nè posso già dirlo senza lacrime) prendo comiato dalle lettere e dagli studi. Sperai che questi cari studi avrebbero sostentata la mia vecchiezza, e credetti colla perdita di tutti gli altri piaceri, di tutti gli altri beni della fanciullezza e della gioventù, avere acquistato un bene che da nessuna forza, da nessuna sventura mi fosse tolto. Ma io non aveva appena vent'anni, quando da quella infermità di nervi e di viscere, che privandomi della mia vita, non mi dà speranza della morte, quel mio solo bene mi fu ridotto a meno che a mezzo; poi, due anni prima dei trenta, mi è stato tolto del tutto, e credo oramai per sempre. Ben sapete che queste medesime carte io non ho potute leggere, e per emendarle m'è convenuto servirmi degli occhi e della mano d'altri. Non mi so più dolere, miei cari amici; e la coscienza che ho della grandezza della mia infelicità, non comporta l'uso delle querele. Ho perduto tutto: sono un tronco che sente e pena. Se non che in questo tempo ho acquistato voi: e la compagnia vostra, che m'è in luogo degli studi, e in luogo d'ogni diletto e di ogni speranza, quasi compenserebbe i miei mali, se per la stessa infermità mi fosse lecito di goderla quant'io vorrei, e s'io non conoscessi che la mia fortuna assai tosto mi priverà di questa ancora, costringendomi a consumar gli anni che mi avanzano abbandonato da ogni conforto della civiltà, in un luogo dove assai meglio abitano i sepolti che i vivi. L'amor vostro mi rimarrà tuttavia, e mi durerà forse ancor dopo che il mio corpo, che già non vive più, sarà fatto cenere.</p>
+<closer>
+<salute>Addio.</salute>
+<signed><hi rend="sc">IL VOSTRO LEOPARDI </hi></signed>
+</closer>
+</div1>
+</front>
+<body>
+<div1>
+<head>1. ALL'ITALIA</head>
+
+	<lg><l>O patria mia, vedo le mura e gli archi</l>
+<l>E le colonne e i simulacri e l'erme</l>
+<l>Torri de gli avi nostri,</l>
+<l>Ma la gloria non vedo,</l>
+<l>Non vedo il lauro e 'l ferro ond'eran carchi</l>
+<l>I nostri padri antichi. Or fatta inerme,</l>
+<l>Nuda la fronte e nudo il petto mostri.</l>
+<l>Oimè quante ferite,</l>
+<l>Che lividor, che sangue: oh qual ti veggio,</l>
+<l>Formosissima donna. Io chiedo al cielo</l>
+<l>E al mondo: dite dite;</l>
+<l>Chi la ridusse a tale? E questo è peggio</l>
+<l>Che di catene ha carche ambe le braccia;</l>
+<l>Sì che sparte le chiome e senza velo</l>
+<l>Siede in terra negletta e sconsolata,</l>
+<l>Nascondendo la faccia</l>
+<l>Tra le ginocchia, e piange.</l>
+<l>Piangi, chè ben hai donde, Italia mia,</l>
+<l>Le genti a vincer nata</l>
+<l>E ne la fausta sorte e ne la ria.</l></lg>
+	<lg><l>Se fosser gli occhi miei due fonti vive,</l>
+<l>Non potrei pianger tanto</l>
+<l>Ch'adeguassi il tuo danno e men lo scorno;</l>
+<l>Chè fosti donna, or se' povera ancella.</l>
+<l>Chi di te parla o scrive,</l>
+<l>Che, rimembrando il tuo passato vanto,</l>
+<l>Non dica; già fu grande, or non è quella?</l>
+<l>Perchè, perchè? dov'è la forza antica,</l>
+<l>Dove l'armi e 'l valore e la costanza?</l>
+<l>Chi ti discinse il brando?</l>
+<l>Chi ti tradì? qual arte o qual fatica</l>
+<l>O qual tanta possanza</l>
+<l>Valse a spogliarti il manto e l'auree bende?</l>
+<l>Come cadesti o quando</l>
+<l>Da tanta altezza in così basso loco?</l>
+<l>Nessun pugna per te? non ti difende</l>
+<l>Nessun de' tuoi? L'armi, qua l'armi: io solo</l>
+<l>Combatterò, procomberò sol io.</l>
+<l>Dammi, o ciel, che sia foco</l>
+<l>A gl'italici petti il sangue mio.</l></lg>
+	<lg><l>Dove sono i tuoi figli? Odo suon d'armi</l>
+<l>E di carri e di voci e di timballi:</l>
+<l>In estranie contrade</l>
+<l>Pugnano i tuoi figliuoli.</l>
+<l>Attendi, Italia, attendi. Io veggio, o parmi,</l>
+<l>Un fluttuar di fanti e di cavalli,</l>
+<l>E fumo e polve, e luccicar di spade</l>
+<l>Come tra nebbia lampi.</l>
+<l>E taci, e piangi, e i tremebondi lumi</l>
+<l>Piegar non soffri al dubitoso evento?</l>
+<l>A che pugna in quei campi</l>
+<l>L'itala gioventude? O numi, o numi:</l>
+<l>Pugnan per altra terra itali acciari.</l>
+<l>Oh misero colui che in guerra è spento,</l>
+<l>Non per li patrii lidi e per la pia</l>
+<l>Consorte e i figli cari,</l>
+<l>Ma da nemici altrui</l>
+<l>Per altra gente, e non può dir morendo:</l>
+<l>Alma terra natia,</l>
+<l>La vita che mi dèsti ecco ti rendo.</l></lg>
+	<lg><l>Oh venturose e care e benedette</l>
+<l>Le antich'età, che a morte</l>
+<l>Per la patria correan le genti a squadre;</l>
+<l>E voi sempre onorate e gloriose,</l>
+<l>O tessaliche strette,</l>
+<l>Dove la Persia e 'l fato assai men forte</l>
+<l>Fu di poch'alme franche e generose.</l>
+<l>Io credo che le piante e i sassi e l'onda</l>
+<l>E le montagne vostre al passeggere</l>
+<l>Con indistinta voce</l>
+<l>Narrin siccome tutta quella sponda</l>
+<l>Coprìr le invitte schiere</l>
+<l>De' corpi ch'a la Grecia eran devoti.</l>
+<l>Allor, vile e feroce,</l>
+<l>Serse per l'Ellesponto si fuggia,</l>
+<l>Fatto ludibrio a gli ultimi nepoti;</l>
+<l>E sul colle d'Antela, ove morendo</l>
+<l>Si sottrasse da morte il santo stuolo,</l>
+<l>Simonide salia,<note place="foot"><p>«Il successo delle Termopile fu celebrato veramente da quello che in essa canzone s'introduce a poetare, cioè da Simonide, tenuto dall'antichità fra gli ottimi poeti lirici, vissuto, che più rileva, ai medesimi tempi della scesa di Serse, e greco di patria. Questo suo fatto, lasciando l'epitaffio riportato da Cicerone e da altri, si dimostra da quello che scrive Diodoro nell'undecimo libro, dove recita anche certe parole d'esso poeta in questo proposito, due o tre delle quali sono espresse nel quinto verso dell'ultima strofe. Rispetto dunque alle predette circostanze del tempo e della persona, e da altra parte riguardando alle qualità della materia per se medesima, io non credo che mai si trovasse argomento più degno di poema lirico, nè più fortunato di questo che fu scelto, o più veramente sortito, da Simonide. Perocchè se l'impresa delle Termopile fa tanta forza a noi che siamo stranieri verso quelli che l'operarono, e con tutto questo non possiamo tenere le lagrime a leggerla semplicemente come passasse, e ventitre secoli dopo ch'ell'è seguita; abbiamo a far congettura di quello che la sua ricordanza dovesse potere in un Greco, e poeta, e de' principali, avendo veduto il fatto, si può dire, cogli occhi propri, andando per le stesse città vincitrici di un esercito molto maggiore di quanti altri si ricorda la storia d'Europa, venendo a parte delle feste, delle maraviglie, del fervore di tutta una eccellentissima nazione, fatta anche più magnanima della sua natura dalla coscienza della gloria acquistata, e dall'emulazione di tanta virtù dimostrata pur allora dai suoi. Per queste considerazioni, riputando a molta disavventura che le cose scritte da Simonide in quella occorrenza, fossero perdute, non ch'io presumessi di riparare a questo danno, ma come per ingannare il desiderio, procurai di rappresentarmi alla mente le disposizioni dell'animo del poeta in quel tempo, e con questo mezzo, salva la disuguaglianza degl'ingegni, tornare a fare la sua canzone; della quale io porto questo parere, che o fosse maravigliosa, o la fama di Simonide fosse vana, e gli scritti perissero con poca ingiuria.» <title>Lettera dedicatoria premessa alle edizioni di Roma e di Bologna</title>.</p></note></l>
+<l>Guardando l'etra e la marina e 'l suolo.</l></lg>
+	<lg><l>E di lagrime sparso ambe le guance,</l>
+<l>E 'l petto ansante, e vacillante il piede,</l>
+<l>Toglieasi in man la lira:</l>
+<l>Beatissimi voi,</l>
+<l>Ch'offriste il petto a le nemiche lance</l>
+<l>Per amor di costei ch'al Sol vi diede;</l>
+<l>Voi che la Grecia cole, e 'l mondo ammira.</l>
+<l>Ne l'armi e ne' perigli</l>
+<l>Qual tanto amor le giovanette menti;</l>
+<l>Qual ne l'acerbo fato amor vi trasse?</l>
+<l>Come sì lieta, o figli,</l>
+<l>L'ora estrema vi parve, onde ridenti</l>
+<l>Correste al passo lagrimoso e duro?</l>
+<l>Parea ch'a danza e non a morte andasse</l>
+<l>Ciascun de' vostri o a splendido convito:</l>
+<l>Ma v'attendea lo scuro</l>
+<l>Tartaro, e l'onda morta;</l>
+<l>Nè le spose vi fòro o i figli accanto</l>
+<l>Quando su l'aspro lito</l>
+<l>Senza baci moriste e senza pianto.</l></lg>
+	<lg><l>Ma non senza de' Persi orrida pena</l>
+<l>Ed immortale angoscia.</l>
+<l>Come lion di tori entro una mandra</l>
+<l>Or salta a quello in tergo e sì gli scava</l>
+<l>Con le zanne la schiena,</l>
+<l>Or questo fianco addenta or quella coscia;</l>
+<l>Tal fra le pèrse torme infuriava</l>
+<l>L'ira de' greci petti e la virtute.</l>
+<l>Ve' cavalli supini e cavalieri;</l>
+<l>Vedi ingombrar de' vinti</l>
+<l>La fuga i carri e le tende cadute,</l>
+<l>E correr fra' primieri</l>
+<l>Pallido e scapigliato esso tiranno;</l>
+<l>Ve' come infusi e tinti</l>
+<l>Del barbarico sangue i greci eroi,</l>
+<l>Cagione a i Persi d'infinito affanno,</l>
+<l>A poco a poco vinti da le piaghe,</l>
+<l>L'un sopra l'altro cade. Oh viva, oh viva:</l>
+<l>Beatissimi voi</l>
+<l>Mentre nel mondo si favelli o scriva.</l></lg>
+	<lg><l>Prima divelte, in mar precipitando,</l>
+<l>Spente ne l'imo strideran le stelle,</l>
+<l>Che la memoria e 'l vostro</l>
+<l>Amor trascorra o scemi.</l>
+<l>La vostra tomba è un'ara; e qua mostrando</l>
+<l>Verran le madri a i parvoli le belle</l>
+<l>Orme del vostro sangue. Ecco i' mi prostro,</l>
+<l>O benedetti, al suolo,</l>
+<l>E bacio questi sassi e queste zolle,</l>
+<l>Che fien lodate e chiare eternamente</l>
+<l>Da l'uno a l'altro polo.</l>
+<l>Deh foss'io pur con voi qui sotto, e molle</l>
+<l>Fosse del sangue mio quest'alma terra.</l>
+<l>Che se 'l fato è diverso, e non consente</l>
+<l>Ch'io per la Grecia i moribondi lumi</l>
+<l>Chiuda prostrato in guerra,</l>
+<l>Così la vereconda</l>
+<l>Fama del vostro vate appo i futuri</l>
+<l>Possa, volendo i numi,</l>
+<l>Tanto durar quanto la vostra duri.</l></lg>
+</div1>
+<div1>
+<head>2. SOPRA IL MONUMENTO DI DANTE CHE SI PREPARAVA IN FIRENZE.</head>
+
+	<lg><l>Perchè le nostre genti</l>
+<l>Pace sotto le bianche ali raccolga,</l>
+<l>Non fien da' lacci sciolte</l>
+<l>De l'antico sopor l'itale menti</l>
+<l>S'a i patri esempi de la prisca etade</l>
+<l>Questa terra fatal non si rivolga.</l>
+<l>O Italia, a cor ti stia</l>
+<l>Far ai passati onor, che d'altrettali</l>
+<l>Oggi vedove son le tue contrade,</l>
+<l>Nè c'è chi d'onorar ti si convegna.</l>
+<l>Volgiti indietro, e guarda, o patria mia,</l>
+<l>Quella schiera infinita d'immortali,</l>
+<l>E piangi e di te stessa ti disdegna;</l>
+<l>Che se non piangi, ogni speranza è stolta:</l>
+<l>Volgiti e ti vergogna e ti riscuoti,</l>
+<l>E ti punga una volta</l>
+<l>Pensier de gli avi nostri e de' nipoti.</l></lg>
+	<lg><l>D'aria e d'ingegno e di parlar diverso</l>
+<l>Per lo toscano suol cercando gia</l>
+<l>L'ospite desioso</l>
+<l>Dove giaccia colui per lo cui verso</l>
+<l>Il meonio cantor non è più solo.</l>
+<l>Ed (oh vergogna) udia</l>
+<l>Che non che 'l cener freddo e l'ossa nude</l>
+<l>Giaccian esuli ancora</l>
+<l>Dopo il funereo dì sott'altro suolo,</l>
+<l>Ma non sorgea dentro a tue mura un sasso,</l>
+<l>Firenze, a quello per la cui virtude</l>
+<l>Tutto il mondo t'onora.</l>
+<l>Oh voi pietosi, onde sì tristo e basso</l>
+<l>Obbrobrio laverà nostro paese:</l>
+<l>Bell'opra hai tolta e di ch'amor ti rende,</l>
+<l>Schiera prode e cortese,</l>
+<l>Qualunque petto amor d'Italia accende.</l></lg>
+	<lg><l>Amor d'Italia, o cari,</l>
+<l>Amor di questa misera vi sproni,</l>
+<l>Ver cui pietade è morta</l>
+<l>In ogni petto omai, perciò che amari</l>
+<l>Giorni dopo il seren dato n'ha il cielo.</l>
+<l>Spirti v'aggiunga e vostra opra coroni</l>
+<l>Misericordia, o figli,</l>
+<l>E duolo e sdegno di cotanto affanno</l>
+<l>Onde bagna costei le guance e 'l velo.</l>
+<l>Ma voi di quale ornar parola o canto</l>
+<l>Si debbe, a cui non pur cure o consigli,</l>
+<l>Ma de l'ingegno e de la man daranno</l>
+<l>I sensi e le virtudi eterno vanto</l>
+<l>Oprate e mostre ne la dolce impresa?</l>
+<l>Quali a voi note invio, sì che nel core,</l>
+<l>Sì che ne l'alma accesa</l>
+<l>Nova favilla indurre abbian valore?</l></lg>
+	<lg><l>Voi spirerà l'altissimo subbietto,</l>
+<l>Ed acri punte premeravvi al seno.</l>
+<l>Chi dirà l'onda e 'l turbo</l>
+<l>Del furor vostro e de l'immenso affetto?</l>
+<l>Chi pingerà l'attonito sembiante?</l>
+<l>Chi de gli occhi il baleno?</l>
+<l>Qual può voce mortal celeste cosa</l>
+<l>Agguagliar figurando?</l>
+<l>Lunge sia, lunge alma profana. Oh quante</l>
+<l>Lagrime al chiaro avello Italia serba.</l>
+<l>Come cadrà? come dal tempo ròsa</l>
+<l>Fia vostra gloria o quando?</l>
+<l>Voi, di che 'l nostro mal si disacerba,</l>
+<l>Sempre vivete, o care arti divine,</l>
+<l>Conforto a nostra sventurata gente,</l>
+<l>Fra l'itale ruine</l>
+<l>Gl'itali pregi a celebrare intente.</l></lg>
+	<lg><l>Ecco voglioso anch'io</l>
+<l>Ad onorar nostra dolente madre</l>
+<l>Porto quel che mi lice,</l>
+<l>E mesco a l'opra vostra il canto mio</l>
+<l>Sedendo u' vostro ferro i marmi avviva.</l>
+<l>O de l'etrusco metro inclito padre,</l>
+<l>Se di cosa terrena,</l>
+<l>Se di costei che tanto alto locasti</l>
+<l>Qualche novella a i vostri lidi arriva,</l>
+<l>Io so ben che per te gioia non senti,</l>
+<l>Chè saldi men che cera e men ch'arena,</l>
+<l>Verso la fama che di te lasciasti,</l>
+<l>Son bronzi e marmi; e da le nostre menti</l>
+<l>Se mai cadesti ancor, s'unqua cadrai,</l>
+<l>Cresca, se crescer può, nostra sciagura,</l>
+<l>E in sempiterni guai</l>
+<l>Pianga tua stirpe a tutto il mondo oscura.</l></lg>
+	<lg><l>Ma non per te; per questa ti rallegri</l>
+<l>Povera patria tua, s'unqua l'esempio</l>
+<l>De gli avi e de' parenti</l>
+<l>Ponga ne' figli sonnacchiosi ed egri</l>
+<l>Tanto valor che un tratto alzino il viso.</l>
+<l>Quale e da quanto scempio</l>
+<l>Vedi guasta colei che sì meschina</l>
+<l>Te salutava allora</l>
+<l>Che di nuovo salisti al paradiso:</l>
+<l>Allor beata pur (qualunque intende</l>
+<l>A' novi affanni suoi) donna e reina;</l>
+<l>Ch'or nulla, ove non fòra</l>
+<l>Somma pietade assai, pietade attende.</l>
+<l>Taccio gli altri nemici e l'altre doglie;</l>
+<l>Ma non la più recente e la più fera,</l>
+<l>Per cui presso a le soglie</l>
+<l>Vide la patria mia l'ultima sera.</l></lg><note place="foot"><p>L'autore, per quello che nei versi seguenti (scritti in sua primissima gioventù) è detto in offesa degli stranieri, avrebbe rifiutata tutta la canzone, se la volontà di alcuni amici, i quali miravano solamente alla poesia, non l'avesse conservata.</p></note>
+	<lg><l>Beato te che 'l fato</l>
+<l>A viver non dannò fra tanto orrore;</l>
+<l>Che non vedesti in braccio</l>
+<l>L'itala moglie a barbaro soldato;</l>
+<l>Non predar non guastar cittadi e còlti</l>
+<l>L'asta inimica e 'l peregrin furore;</l>
+<l>Non de gl'itali ingegni</l>
+<l>Tratte l'opre divine a miseranda</l>
+<l>Schiavitude oltre l'alpe, e non de' folti</l>
+<l>Carri impedita la dolente via;</l>
+<l>Non gli aspri cenni ed i superbi regni;</l>
+<l>Non udisti gli oltraggi e la nefanda</l>
+<l>Voce di libertà che ne schernia</l>
+<l>Tra 'l suon de le catene e de' flagelli.</l>
+<l>Chi non si duol? che non soffrimmo? intatto</l>
+<l>Che lasciaron quei felli?</l>
+<l>Qual tempio, quale altare o qual misfatto?</l></lg>
+	<lg><l>Perchè venimmo a sì perversi tempi?</l>
+<l>Perchè 'l nascer ne dèsti o perchè prima</l>
+<l>Non ne dèsti il morire,</l>
+<l>Acerbo fato? onde a stranieri ed empi</l>
+<l>Nostra patria vedendo ancella e schiava,</l>
+<l>E da mordace lima</l>
+<l>Roder la sua virtù, di null'aita</l>
+<l>E di nullo conforto</l>
+<l>Lo spietato dolor che la stracciava</l>
+<l>Ammollir ne fu dato in parte alcuna.</l>
+<l>Ahi non il sangue nostro e non la vita</l>
+<l>Avesti, o cara, e morto</l>
+<l>Io non son per la tua cruda fortuna.</l>
+<l>Qui l'ira al cor, qui la pietade abbonda:</l>
+<l>Pugnò, cadde gran parte anche di noi:</l>
+<l>Ma per la moribonda</l>
+<l>Italia no; per li tiranni suoi.</l></lg>
+	<lg><l>Padre, se non ti sdegni,</l>
+<l>Mutato se' da quel che fosti in terra.</l>
+<l>Morian per le rutene</l>
+<l>Squallide piagge, ahi d'altra morte degni,</l>
+<l>Gl'itali prodi; e lor fea l'aere e 'l cielo</l>
+<l>E gli uomini e le belve immensa guerra.</l>
+<l>Cadeano a squadre a squadre</l>
+<l>Semivestiti, maceri e cruenti,</l>
+<l>Ed era letto a gli egri corpi il gelo.</l>
+<l>Allor, quando traean l'ultime pene,</l>
+<l>Membravan questa desiata madre,</l>
+<l>Dicendo: oh non le nubi e non i venti,</l>
+<l>Ma ne spegnesse il ferro, e pel tuo bene,</l>
+<l>O patria nostra. Ecco da te rimoti,</l>
+<l>Quando più bella a noi l'età sorride,</l>
+<l>A tutto il mondo ignoti,</l>
+<l>Moriam per quella gente che t'uccide.</l></lg>
+	<lg><l>Di lor querela il boreal deserto</l>
+<l>E conscie fur le sibilanti selve.</l>
+<l>Così vennero al passo,</l>
+<l>E i negletti cadaveri a l'aperto</l>
+<l>Su per quello di neve orrido mare</l>
+<l>Dilaceràr le belve;</l>
+<l>E sarà 'l nome de gli egregi e forti</l>
+<l>Pari mai sempre ed uno</l>
+<l>Con quel de' tardi e vili. Anime care,</l>
+<l>Ben che infinita sia vostra sciaura,</l>
+<l>Datevi pace; e questo vi conforti</l>
+<l>Che conforto nessuno</l>
+<l>Avrete in questa o ne l'età futura.</l>
+<l>In seno al vostro smisurato affanno</l>
+<l>Posate, o di costei veraci figli,</l>
+<l>Al cui supremo danno</l>
+<l>Il vostro solo è tal che rassomigli.</l></lg>
+	<lg><l>Di voi già non si lagna</l>
+<l>La patria vostra, ma di chi vi spinse</l>
+<l>A pugnar contra lei</l>
+<l>Sì ch'ella sempre amaramente piagna</l>
+<l>E 'l suo col vostro lagrimar confonda.</l>
+<l>Oh di costei, che tanta verga strinse,</l>
+<l>Pietà nascesse in core</l>
+<l>A tal de' suoi ch'affaticata e lenta</l>
+<l>Di sì torbida notte e sì profonda</l>
+<l>La ritraesse! O glorioso spirto,</l>
+<l>Dimmi: d'Italia tua morto è l'amore?</l>
+<l>Dì: quella fiamma che t'accese, è spenta?</l>
+<l>Dì: nè più mai rinverdirà quel mirto</l>
+<l>Ch'alleggiò per gran tempo il nostro male?</l>
+<l>E saran tue fatiche a l'aria sparte?</l>
+<l>Nè sorgerà mai tale</l>
+<l>Che ti rassembri in qualsivoglia parte?</l></lg>
+	<lg><l>In eterno perì la gloria nostra?</l>
+<l>E non d'Italia il pianto e non lo scorno</l>
+<l>Ebbe verun confine?</l>
+<l>Io mentre viva andrò sclamando intorno,</l>
+<l>Volgiti a gli avi tuoi, guasto legnaggio;</l>
+<l>Mira queste ruine</l>
+<l>E le carte e le tele e i marmi e i templi;</l>
+<l>Pensa qual terra premi; e se destarti</l>
+<l>Non può la luce di cotanti esempli,</l>
+<l>Che stai? lèvati e parti.</l>
+<l>Non si conviene a sì corrotta usanza</l>
+<l>Questa di prodi ingegni altrice e scola:</l>
+<l>Se d'infingardi è stanza,</l>
+<l>Meglio l'è rimaner vedova e sola.</l></lg>
+</div1>
+<div1>
+<head>3. AD ANGELO MAI, QUAND'EBBE TROVATO I LIBRI DI CICERONE DELLA REPUBBLICA.</head>
+	<lg><l>Italo ardito, a che giammai non pòsi</l>
+<l>Di svegliar da le tombe</l>
+<l>I nostri padri? e a favellar gli meni</l>
+<l>A questo secol morto, al quale incombe</l>
+<l>Tanta nebbia di tedio? E come or vieni</l>
+<l>Sì forte a' nostri orecchi e sì frequente,</l>
+<l>Voce antica de' nostri,</l>
+<l>Muta sì lunga etade? e perchè tanti</l>
+<l>Risorgimenti? In un balen feconde</l>
+<l>Venner le carte; a la stagion presente</l>
+<l>I polverosi chiostri</l>
+<l>Serbaro occulti i generosi e santi</l>
+<l>Detti de gli avi. E che valor t'infonde,</l>
+<l>Italo egregio, il fato? O con l'umano</l>
+<l>Valor contrasta il duro fato invano?</l></lg>
+	<lg><l>Certo senza de' numi alto consiglio</l>
+<l>Non è ch'ove più lento</l>
+<l>E grave è 'l nostro disperato obblio,</l>
+<l>A percoter ne rieda ogni momento</l>
+<l>Novo grido de' padri. Ancora è pio</l>
+<l>Dunque a l'Italia il cielo; anco si cura</l>
+<l>Di noi qualche immortale:</l>
+<l>Ch'essendo questa o nessun'altra poi</l>
+<l>L'ora da ripor mano a la virtude</l>
+<l>Rugginosa de l'itala natura,</l>
+<l>Veggiam che tanto e tale</l>
+<l>È il clamor de' sepolti, e che gli eroi</l>
+<l>Dimenticati il suol quasi dischiude,</l>
+<l>A ricercar s'a questa età sì tarda</l>
+<l>Anco ti giovi, o patria, esser codarda.</l></lg>
+	<lg><l>Di noi serbate, o gloriosi, ancora</l>
+<l>Qualche speranza? in tutto</l>
+<l>Non siam periti? A voi certo il futuro</l>
+<l>Ignoranza non copre: io son distrutto</l>
+<l>Ed annullato dal dolor, chè scuro</l>
+<l>M'è l'avvenire, e tutto quanto io scerno</l>
+<l>È tal che sogno e fola</l>
+<l>Fa parer la speranza. Anime prodi,</l>
+<l>A i tetti vostri inonorata, immonda</l>
+<l>Plebe successe; al vostro sangue è scherno</l>
+<l>E d'opra e di parola</l>
+<l>Ogni valor; di vostre inclite lodi</l>
+<l>Tace l'itala riva; egro circonda</l>
+<l>Ozio le tombe vostre; e di viltade</l>
+<l>Siam fatti esempio a la futura etade.</l></lg>
+	<lg><l>Bennato ingegno, or quando altrui non cale</l>
+<l>De' nostri alti parenti,</l>
+<l>A te ne caglia, a te cui fato aspira</l>
+<l>Benigno sì che per tua man presenti</l>
+<l>Paion que' giorni allor che da la dira</l>
+<l>Obblivione antica ergean la chioma,</l>
+<l>Con gli studi sepolti,</l>
+<l>I vetusti Divini a cui natura</l>
+<l>Parlò senza svelarsi, onde i riposi</l>
+<l>Magnanimi allegràr d'Atene e Roma.</l>
+<l>Oh tempi, oh tempi avvolti</l>
+<l>In sonno eterno. Allora anco immatura</l>
+<l>La ruina d'Italia, anco sdegnosi</l>
+<l>Eravam d'ozio turpe, e l'aere a volo</l>
+<l>Qualche favilla ergea da questo suolo.</l></lg>
+	<lg><l>Eran calde le tue ceneri sante,</l>
+<l>Non domito nemico</l>
+<l>De la fortuna, al cui sdegno e dolore</l>
+<l>Fu più l'averno che la terra amico.</l>
+<l>L'averno: e qual non è parte migliore</l>
+<l>Di questa nostra? E le tue dolci corde</l>
+<l>Susurravano ancora</l>
+<l>Dal tocco di tua destra, o sfortunato</l>
+<l>Amante. Ahi dal dolor comincia e nasce</l>
+<l>L'italo canto. E pur mèn grava e morde</l>
+<l>Il mal che n'addolora</l>
+<l>Del tedio che n'affoga. Oh te beato,</l>
+<l>A cui fu vita il pianto. A noi le fasce</l>
+<l>Cinse il fastidio; a noi presso la culla</l>
+<l>Immoto siede, e su la tomba, il nulla.</l></lg>
+	<lg><l>Ma tua vita era allor con gli astri e 'l mare,</l>
+<l>Ligure ardita prole,</l>
+<l>Quand'oltre a le colonne, ed oltre a i liti</l>
+<l>Cui strider parve in seno a l'onda il sole,<note place="foot"><p>«Di questa fama anticamente divulgata, che in Ispagna e in Portogallo, quando il sole tramontava, s'udisse a stridere di mezzo al mare a guisa che fa un carbone o un ferro rovente che sia tuffato nell'acqua, sono da vedere il secondo libro di Cleomede [<bibl><title>Circular. Doctrin. de Sublimibus</title>, l. 2 c. 1. edit. Bake, Lugd. Bat. 1820, p. 109 et seq.</bibl>], il terzo di Strabone [<bibl><title>Amstel. 1707</title>, p. 202 B</bibl>], la quartadecima satira di Giovenale [<bibl>v. 279</bibl>], il secondo libro delle Selve di Stazio [<bibl><title>Genethliac. Lucani</title>, v. 24 et sequent.</bibl>] e l'epistola decimottava d'Ausonio [<bibl>v. 2</bibl>]. E non tralascerò in questo proposito quello che dice Floro [<bibl>l. 2, c. 17, sect. 12</bibl>] laddove accenna le imprese fatte da Decimo Bruto in Portogallo: <quote lang="lat">Peragratoque victor Oceani litore, non prius signa convertit, quam cadentem in maria solem, obrutumque aquis ignem, non sine quodam sacrilegii metu, et horrore, deprehendit</quote>. Vedi altresì le annotazioni degli eruditi a Tacito sopra il quarantesimoquinto capo di Tacito delle Cose germaniche.» <title>Dall'edizione di Bologna</title>. </p></note></l>
+<l>Novo di prore incarco a gl'infiniti</l>
+<l>Flutti commesso, ritrovasti il raggio</l>
+<l>Del Sol caduto, e 'l giorno</l>
+<l>Che nasce allor ch'a i nostri è giunto al fondo;</l>
+<l>E rotto di natura ogni contrasto,</l>
+<l>Ignota immensa terra al tuo viaggio</l>
+<l>Fu gloria, e del ritorno</l>
+<l>A i rischi. Ahi ahi, ma conosciuto il mondo</l>
+<l>Non cresce, anzi si scema, e assai più vasto</l>
+<l>L'etra sonante e l'alma terra e 'l mare</l>
+<l>Al fanciullin, che non al saggio, appare.</l></lg>
+	<lg><l>Nostri beati sogni ove son giti</l>
+<l>De l'ignoto ricetto</l>
+<l>D'ignoti abitatori, o del diurno</l>
+<l>De gli astri albergo, e del rimoto letto</l>
+<l>De la giovane Aurora, e del notturno</l>
+<l>Occulto sonno del maggior pianeta?<note place="foot"><p>«Al tempo che poca o niuna contezza si aveva della rotondità della terra, e delle altre dottrine che appartengono alla cosmografia, gli uomini non sapendo quello che il sole durante la notte operasse o patisse, fecero intorno a questo particolare molte e belle immaginazioni, secondo la vivacità e la freschezza di quella fantasia, che oggidì non si può chiamare altrimenti che fanciullesca, ma che in ciascun'altra età degli antichi poteva poco meno che nella puerizia. E s'alcuni immaginarono che il sole si spegnesse la sera e che la mattina si raccendesse, altri si persuasero che dal tramonto si posasse e dormisse fino all'aggiornare; e Mimnermo, poeta greco antichissimo, pone il letto del sole in un luogo della Colchide. Stesicoro [<bibl>ap. Athenaeum, l. 11 c. 38; ed. Schveighaeuser, tom. 4, p. 237</bibl>], Antimaco [<bibl>ap. eumd. loc. cit. p. 238</bibl>], Eschilo [<bibl>Heliad. ap. eumd. l. c.</bibl>], e lo stesso Mimnermo [<bibl>Nannone, ap. eumd. loc. cit. c. 39, p. 239</bibl>] più distintamente degli altri dice anche questo, che il sole dopo calato si pone a giacere in un letto concavo a uso di navicella, tutto d'oro, e così dormendo naviga per l'Oceano da ponente a levante. Pitea marsigliese allegato da Gemino [<bibl><title>Elem. Astron.</title> c. 5; in <title>Petav. Uranolog. Antuerp.</title> (Amstel.) 1703, p. 13</bibl>] e da Cosma Egiziano [<bibl><title>Topogr. christian.</title> l. 2; ed. Montfauc. p. 149</bibl>] racconta di non so quali Barbari che mostrarono a esso Pitea la stanza dove il sole, secondo loro, s'adagiava a dormire. E il Petrarca s'avvicinò a queste tali opinioni volgari in quei versi [<bibl><title>Canz. Ne la stagion che 'l ciel rapido inchina</title>, st. 3</bibl>]: <quote rend="italic">Quando vede 'l pastor calare i raggi Del gran pianeta al nido ov'egli alberga</quote>. Siccome in questi altri [<bibl>st. 1</bibl>] seguì la sentenza di quei filosofi che per virtù di raziocinio e di congettura indovinavano gli antipodi: <quote rend="italic">Ne la stagion che 'l ciel rapido inchina Verso occidente, e che 'l dì nostro vola A gente che di là forse l'aspetta</quote>. Dove quel <hi rend="italic">forse</hi>, che oggi non si potrebbe dire, è notabilissimo e poetichissimo, perocchè lasciava libero all'immaginazione di figurarsi a modo suo quella gente sconosciuta, o d'averla in tutto per favolosa; dal che si dee credere che, leggendo questi versi, nascessero di quelle concezioni vaghe e indeterminate, che sono effetto principalissimo ed essenzialissimo delle bellezze poetiche, anzi di tutte le maggiori bellezze del mondo.» <title>Dall'edizione di Bologna</title>.</p></note></l>
+<l>Ecco svaniro a un punto,</l>
+<l>E figurato è 'l mondo in breve carta,</l>
+<l>Ecco tutto è simìle, e discoprendo,</l>
+<l>Solo il nulla s'accresce. A noi ti vieta</l>
+<l>Il vero appena è giunto,</l>
+<l>O caro immaginar; da te s'apparta</l>
+<l>Nostra mente in eterno; a lo stupendo</l>
+<l>Poter tuo primo ne sottraggon gli anni,</l>
+<l>E il conforto perì de' nostri affanni.</l></lg>
+	<lg><l>Nascevi a' dolci sogni intanto, e 'l primo</l>
+<l>Sole splendeati in vista,</l>
+<l>Cantor vago de l'arme e de gli amori</l>
+<l>Che in età de la nostra assai men trista</l>
+<l>Empièr la vita di felici errori:</l>
+<l>Nova speme d'Italia. O torri, o celle,</l>
+<l>O donne, o cavalieri,</l>
+<l>O giardini, o palagi! a voi pensando,</l>
+<l>In mille vane amenità si perde</l>
+<l>La mente mia. Di vanità, di belle</l>
+<l>Fole e strani pensieri</l>
+<l>Si componea l'umana vita: in bando</l>
+<l>Gli cacciammo: or che resta? or poi che 'l verde</l>
+<l>È spogliato a le cose? il certo e solo</l>
+<l>Veder che tutto è vano altro che 'l duolo.</l></lg>
+	<lg><l>O Torquato, o Torquato, a noi promesso</l>
+<l>Eri tu allora; il pianto</l>
+<l>A te, non altro, prometteva il cielo.</l>
+<l>Oh misero Torquato; il dolce canto</l>
+<l>Non valse a consolarti o a sciorre il gelo</l>
+<l>Onde l'alma t'avean, ch'era sì calda,</l>
+<l>Cinta l'odio e l'immondo</l>
+<l>Livor privato e de' tiranni. Amore,</l>
+<l>Amor, di nostra vita ultimo inganno,</l>
+<l>T'abbandonava. Ombra reale e salda</l>
+<l>Ti parve il nulla, e 'l mondo</l>
+<l>Inabitata piaggia.<note place="foot"><p>«Si ha rispetto alla congiuntura della morte del Tasso accaduta in tempo che disponevano d'incoronarlo in Campidoglio.» <title>Dall'edizione di Bologna</title>. </p></note> Al tardo onore</l>
+<l>Non sorser gli occhi tuoi; mercè, non danno,</l>
+<l>L'estrema ora ti fu. Morte domanda</l>
+<l>Chi nostro mal conobbe, e non ghirlanda.</l></lg>
+	<lg><l>Torna torna fra noi, sorgi dal muto</l>
+<l>E sconsolato avello,</l>
+<l>Se d'angoscia se' vago, o miserando</l>
+<l>Esemplo di sciaura. Assai da quello,</l>
+<l>Che ti parve sì mesto e sì nefando,</l>
+<l>È peggiorato il viver nostro. O caro,</l>
+<l>Chi ti compiangeria,</l>
+<l>Se, fuor che di se stesso, altri non cura?</l>
+<l>Chi stolto non direbbe il tuo mortale</l>
+<l>Affanno anche oggidì, se 'l grande e 'l raro</l>
+<l>Ha nome di follia;</l>
+<l>Nè livor più, ma ben di lui più dura</l>
+<l>La noncuranza avviene a i sommi? o quale,</l>
+<l>Se più de' carmi, il computar s'ascolta,</l>
+<l>Ti appresterebbe il lauro un'altra volta?</l></lg>
+	<lg><l>Da te fino a quest'ora uom non è sorto</l>
+<l>(O sventurato ingegno),</l>
+<l>Pari a l'italo nome, altro ch'un solo,</l>
+<l>Solo di sua codarda etate indegno</l>
+<l>Allobrogo feroce, a cui dal polo</l>
+<l>Disusata virtù, non da la mia</l>
+<l>Stanca ed arida terra,</l>
+<l>Scese nel core, onde privato, inerme,</l>
+<l>(Memorando ardimento) in su la scena</l>
+<l>Mosse guerra a' tiranni: almen si dia</l>
+<l>Questa misera guerra</l>
+<l>E questo vano campo a l'ire inferme</l>
+<l>Del mondo. Ei primo e sol dentro a l'arena</l>
+<l>Scese, e nullo il seguì, chè l'ozio e 'l brutto</l>
+<l>Silenzio or preme a i nostri innanzi a tutto.</l></lg>
+	<lg><l>Disdegnando e fremendo, immacolata</l>
+<l>Trasse la vita intera,</l>
+<l>E morte lo scampò dal veder peggio.</l>
+<l>Vittorio mio, questa per te non era</l>
+<l>Età nè suolo. Altri anni ed altro seggio</l>
+<l>Conviene a gli alti ingegni. Or di riposo</l>
+<l>Paghi viviamo, e scorti</l>
+<l>Da mediocrità: sceso il sapiente</l>
+<l>E salita è la turba a un sol confine,</l>
+<l>Che 'l mondo agguaglia. O scopritor famoso,</l>
+<l>Segui; risveglia i morti,</l>
+<l>Poi che dormono i vivi; arma le spente</l>
+<l>Lingue de' prischi eroi; tanto che in fine</l>
+<l>Questo secol di fango o vita agogni</l>
+<l>E sorga ad atti illustri, o si vergogni.</l></lg>
+</div1>
+<div1>
+<head>4. NELLE NOZZE DELLA SORELLA PAOLINA.</head>
+
+	<lg><l>Poi che del patrio nido</l>
+<l>I silenzi lasciando, e le beate</l>
+<l>Larve e l'antico error, celeste dono,</l>
+<l>Ch'abbella a gli occhi tuoi quest'ermo lido,</l>
+<l>Te ne la polve de la vita e 'l suono</l>
+<l>Tragge il destin; l'obbrobriosa etate</l>
+<l>Che 'l duro cielo a noi prescrisse impara,</l>
+<l>Sorella mia, che in gravi</l>
+<l>E luttuosi tempi</l>
+<l>L'infelice famiglia a l'infelice</l>
+<l>Italia accrescerai. Di forti esempi</l>
+<l>Al tuo sangue provvedi. Aure soavi</l>
+<l>L'empio fato interdice</l>
+<l>A l'umana virtude,</l>
+<l>Nè pura in gracil petto alma si chiude.</l></lg>
+	<lg><l>O miseri o codardi</l>
+<l>Figliuoli avrai. Miseri eleggi. Immenso</l>
+<l>Tra fortuna e valor dissidio pose</l>
+<l>Il corrotto costume. Ahi troppo tardi,</l>
+<l>E ne la sera de l'umane cose,</l>
+<l>Acquista oggi chi nasce il moto e 'l senso.</l>
+<l>Al ciel ne caglia: a te nel petto sieda</l>
+<l>Questa sovr'ogni cura,</l>
+<l>Che di fortuna amici</l>
+<l>Non crescano i tuoi figli, e non di vile</l>
+<l>Timor gioco o di speme: onde felici</l>
+<l>Sarete detti ne l'età futura:</l>
+<l>Poichè (nefando stile,</l>
+<l>Di schiatta ignava e finta)</l>
+<l>Virtù viva spregiam, lodiamo estinta.</l></lg>
+	<lg><l>Donne, da voi non poco</l>
+<l>La patria aspetta, e non in danno e scorno</l>
+<l>De l'umana progenie al dolce raggio</l>
+<l>De le pupille vostre il ferro e 'l foco</l>
+<l>Domar fu dato. A senno vostro il saggio</l>
+<l>E 'l forte adopra e pensa; e quanto il giorno</l>
+<l>Col divo carro accerchia, a voi s'inchina.</l>
+<l>Ragion di nostra etate</l>
+<l>Io chieggo a voi. La santa</l>
+<l>Fiamma di gioventù dunque si spegne</l>
+<l>Per vostra mano? attenuata e franta</l>
+<l>Da voi nostra natura? e le assonnate</l>
+<l>Menti, e le voglie indegne,</l>
+<l>E di nervi e di polpe</l>
+<l>Scemo il valor natio son vostre colpe?</l></lg>
+	<lg><l>A gli atti egregi è sprone</l>
+<l>Amor, chi ben l'estima, e d'alto affetto</l>
+<l>Maestra è la beltà. D'amor digiuna</l>
+<l>Siede l'alma di quello a cui nel petto</l>
+<l>Non brilla, amando, il cor quando a tenzone</l>
+<l>Scendono i venti, e quando nembi aduna</l>
+<l>L'olimpo, e fiede le montagne il rombo</l>
+<l>De la procella. O spose,</l>
+<l>O verginette, a voi</l>
+<l>Chi de' perigli è schivo, e quei che indegno</l>
+<l>È de la patria e che sue brame e suoi</l>
+<l>Volgari affetti in basso loco pose,</l>
+<l>Odio mova e disdegno;</l>
+<l>Se nel femmineo core</l>
+<l>D'uomini ardea non di fanciulle amore.</l></lg>
+	<lg><l>Madri d'imbelle prole</l>
+<l>V'incresca esser nomate. I danni e 'l pianto</l>
+<l>De la virtude a tollerar s'avvezzi</l>
+<l>La stirpe vostra, e quel che pregia e cole</l>
+<l>Il vergognoso tempo, abborra e sprezzi;</l>
+<l>Cresca a la patria, e gli alti gesti, e quanto</l>
+<l>A gli avi suoi deggia la terra impari.</l>
+<l>Qual de' vetusti eroi</l>
+<l>Tra le memorie e 'l grido</l>
+<l>Crescean di Sparta i figli al greco nome;</l>
+<l>Fin che la sposa giovanetta il fido</l>
+<l>Brando cingeva al caro lato, e poi</l>
+<l>Spandea le negre chiome</l>
+<l>Sul corpo esangue e nudo</l>
+<l>Quando e' reddia nel conservato scudo.</l></lg>
+	<lg><l>Virginia, a te la molle</l>
+<l>Gota molcea con le celesti dita</l>
+<l>Beltade onnipossente, e de gli alteri</l>
+<l>Disdegni tuoi si sconsolava il folle</l>
+<l>Signor di Roma. Eri pur vaga, ed eri</l>
+<l>Ne la stagion ch'a i dolci sogni invita,</l>
+<l>Quando il rozzo paterno acciar ti ruppe</l>
+<l>Il bianchissimo petto,</l>
+<l>E a l'Erebo scendesti</l>
+<l>Volonterosa. A me disfiori e scioglia</l>
+<l>Vecchiezza i membri, o padre; a me s'appresti,</l>
+<l>Dicea, la tomba anzi che l'empio letto</l>
+<l>Del tiranno m'accoglia.</l>
+<l>E se pur vita e lena</l>
+<l>Roma avrà dal mio sangue, e tu mi svena.</l></lg>
+	<lg><l>O generosa, ancora</l>
+<l>Che più bello a' tuoi dì splendesse il sole</l>
+<l>Ch'oggi non fa, pur consolata e paga</l>
+<l>È quella tomba cui di pianto onora</l>
+<l>L'alma terra nativa. Ecco a la vaga</l>
+<l>Tua spoglia intorno la romulea prole</l>
+<l>Di nova ira sfavilla. Ecco di polve</l>
+<l>Lorda il tiranno i crini,</l>
+<l>E libertade avvampa</l>
+<l>Gli obbliviosi petti, e ne la doma</l>
+<l>Terra il marte latino arduo s'accampa</l>
+<l>Dal buio polo a i torridi confini.</l>
+<l>Così l'eterna Roma</l>
+<l>In duri ozi sepolta</l>
+<l>Femineo fato avviva un'altra volta.</l></lg>
+</div1>
+<div1>
+<head>5. A UN VINCITORE NEL PALLONE.</head>
+
+	<lg><l>Di gloria il viso e la gioconda voce,</l>
+<l>Garzon bennato, apprendi,</l>
+<l>E quanto al femminile ozio sovrasti</l>
+<l>La sudata virtude. Attendi attendi,</l>
+<l>Magnanimo campion (s'a la veloce</l>
+<l>Piena de gli anni il tuo valor contrasti</l>
+<l>La spoglia di tuo nome), attendi e 'l core</l>
+<l>Movi ad alto desio. Te l'echeggiante</l>
+<l>Arena e 'l circo, e te fremendo appella</l>
+<l>A i fatti illustri il popolar favore;</l>
+<l>Te rigoglioso de l'età novella</l>
+<l>Oggi la patria cara</l>
+<l>Gli antichi esempi a rinnovar prepara.</l></lg>
+	<lg><l>Non del barbaro sangue in Maratona</l>
+<l>Tinse l'invitta destra</l>
+<l>Que' che gli atleti ignudi e 'l campo eleo,</l>
+<l>Che stupido mirò l'ardua palestra,</l>
+<l>Nè la palma beata e la corona</l>
+<l>D'emula brama il punse. E ne l'Alfeo</l>
+<l>Forse le chiome polverose e i fianchi</l>
+<l>De le cavalle vincitrici asterse</l>
+<l>Tal che le greche insegne e 'l greco acciaro</l>
+<l>Guidò de' Medi fuggitivi e stanchi</l>
+<l>Ne le pallide torme; onde sonaro</l>
+<l>Di sconsolato grido</l>
+<l>Gli alti gorghi d'Eufrate e 'l servo lido.</l></lg>
+	<lg><l>Vano dirai quel che disserra e scote</l>
+<l>De la virtù nativa</l>
+<l>Le riposte faville? e che del fioco</l>
+<l>Spirto vital ne gli egri petti avviva</l>
+<l>Il caduco fervor? Le meste rote</l>
+<l>Da poi che Febo instiga, altro che gioco</l>
+<l>Son le cure mortali? ed è men vano</l>
+<l>De la menzogna il vero? A noi di lieti</l>
+<l>Inganni e di felici ombre soccorse</l>
+<l>Natura istessa; e là dove l'insano</l>
+<l>Costume a i forti errori esca non porse,</l>
+<l>Ne gli ozi infermi e nudi</l>
+<l>Mutò la gente i gloriosi studi.</l></lg>
+	<lg><l>Tempo forse verrà ch'a le ruine</l>
+<l>De le italiche moli</l>
+<l>Insultino gli armenti, e 'l greve aratro</l>
+<l>Sentano i sette colli; e pochi Soli</l>
+<l>Forse fien vòlti, e le città latine</l>
+<l>Abiterà la cauta volpe, e l'atro</l>
+<l>Bosco mormorerà fra le alte mura;</l>
+<l>Se la funesta de le patrie cose</l>
+<l>Obblivion da le perverse menti</l>
+<l>Non isvelgono i fati, e la matura</l>
+<l>Clade non torce da le abbiette genti</l>
+<l>Il ciel fatto cortese</l>
+<l>Dal sovvenir de le passate imprese.</l></lg>
+	<lg><l>A la patria infelice, o buon garzone,</l>
+<l>Sopravviver ti doglia.</l>
+<l>Chiaro per lei stato saresti allora</l>
+<l>Che del serto fulgea di ch'ella è spoglia,</l>
+<l>Nostra colpa e fatal. Passò stagione,</l>
+<l>Chè nullo di tal madre oggi s'onora:</l>
+<l>Ma per te stesso al polo ergi la mente.</l>
+<l>Nostra vita a che val? solo a spregiarla;</l>
+<l>Beata allor che ne' perigli avvolta,</l>
+<l>Se stessa obblia, nè de le putri e lente</l>
+<l>Ore il danno misura e 'l flutto ascolta;</l>
+<l>Beata allor che 'l piede</l>
+<l>Spinto al varco leteo, più grata riede.</l></lg>
+</div1>
+<div1>
+<head>6. BRUTO MINORE.</head>
+
+	<lg><l>Poi che divelta, ne la tracia polve</l>
+<l>Giacque ruina immensa</l>
+<l>L'italica virtute, onde a le valli</l>
+<l>D'Esperia verde, e al tiberino lido,</l>
+<l>Il calpestio de' barbari cavalli</l>
+<l>Prepara il fato, e da le selve ignude</l>
+<l>Cui l'Orsa algida preme,</l>
+<l>A spezzar le romane inclite mura</l>
+<l>Chiama i gotici brandi;</l>
+<l>Sudato, e molle di fraterno sangue,</l>
+<l>Bruto per l'atra notte in erma sede,</l>
+<l>Fermo già di morir, gl'inesorandi</l>
+<l>Numi e l'averno accusa,</l>
+<l>E di feroci note</l>
+<l>Invan la sonnolenta aura percote.</l></lg>
+	<lg><l>Stolta virtù, le cave nebbie, i campi</l>
+<l>De l'inquiete larve</l>
+<l>Son le tue scole, e ti si volge a tergo</l>
+<l>Il pentimento. A voi, marmorei numi,</l>
+<l>(Se numi avete in Flegetonte albergo</l>
+<l>O su le nubi) a voi ludibrio e scherno</l>
+<l>È la prole infelice</l>
+<l>A cui templi chiedeste, e frodolenta</l>
+<l>Legge al mortale insulta.</l>
+<l>Dunque tanto i celesti odii commove</l>
+<l>La terrena pietà? dunque de gli empi</l>
+<l>Siedi, Giove, a tutela? e quando esulta</l>
+<l>Per l'aere il nembo, e quando</l>
+<l>Il tuon rapido spingi,</l>
+<l>Ne' giusti e pii la sacra fiamma stringi?</l></lg>
+	<lg><l>Preme il destino invitto e la ferrata</l>
+<l>Necessità gl'infermi</l>
+<l>Schiavi di morte: e se a cessar non vale</l>
+<l>Gli oltraggi lor, de' necessarii danni</l>
+<l>Si consola il plebeo. Men duro è 'l male</l>
+<l>Che riparo non ha? dolor non sente</l>
+<l>Chi di speranza è nudo?</l>
+<l>Guerra mortale, eterna, o fato indegno,</l>
+<l>Teco il prode guerreggia,</l>
+<l>Di cedere inesperto; e la tiranna</l>
+<l>Tua destra, allor che vincitrice il grava,</l>
+<l>Indomito scrollando si pompeggia,</l>
+<l>Quando ne l'alto lato</l>
+<l>L'amaro ferro intride,</l>
+<l>E maligno a le nere ombre sorride.</l></lg>
+	<lg><l>Spiace a gli Dei chi violento irrompe</l>
+<l>Nel Tartaro. Non fora</l>
+<l>Tanto valor ne' molli eterni petti.</l>
+<l>Forse i travagli nostri, e forse il cielo</l>
+<l>I casi acerbi e gl'infelici affetti</l>
+<l>Giocondo a gli ozi suoi spettacol pose?</l>
+<l>Non fra sciaure e colpe,</l>
+<l>Ma libera ne' boschi e pura etade</l>
+<l>Natura a noi prescrisse,</l>
+<l>Reina un tempo e Diva. Or poi ch'a terra</l>
+<l>Sparse i regni beati empio costume,</l>
+<l>E 'l viver macro a nove leggi addisse;</l>
+<l>Quando gl'infausti giorni</l>
+<l>Virile alma ricusa,</l>
+<l>Riede natura, e 'l non suo dardo accusa?</l></lg>
+	<lg><l>Di colpa ignare e di lor proprii danni</l>
+<l>Le fortunate belve</l>
+<l>Serena adduce al non previsto passo</l>
+<l>La tarda età. Ma se spezzar la fronte</l>
+<l>Ne' rudi tronchi, o da montano sasso</l>
+<l>Dare al vento precipiti le membra,</l>
+<l>Lor suadesse affanno;</l>
+<l>Al misero desio nulla contesa</l>
+<l>Legge arcana farebbe</l>
+<l>O tenebroso ingegno. A voi, fra quante</l>
+<l>Stirpi il cielo avvivò, soli fra tutte,</l>
+<l>Figli di Prometèo, la vita increbbe;</l>
+<l>A voi le morte ripe,</l>
+<l>Se 'l fato ignavo pende,</l>
+<l>Soli, o miseri, a voi Giove contende.</l></lg>
+	<lg><l>E tu dal mar cui nostro sangue irriga,</l>
+<l>Candida luna, sorgi,</l>
+<l>E l'inquieta notte e la funesta</l>
+<l>A l'ausonio valor campagna esplori.</l>
+<l>Cognati petti il vincitor calpesta,</l></lg><note place="foot"><p>Si usa qui la licenza usata da parecchi scrittori antichi, di attribuire alla Tracia la città e la battaglia di Filippi, che veramente furono nella Macedonia.</p></note>
+<lg><l>Fremono i poggi, da le somme vette</l>
+<l>Roma antica ruina;</l>
+<l>Tu sì placida sei? Tu la nascente</l>
+<l>Lavinia prole, e gli anni</l>
+<l>Lieti vedesti, e i memorandi allori;</l>
+<l>E tu su l'alpe l'immutato raggio</l>
+<l>Tacita verserai quando ne' danni</l>
+<l>Del servo italo nome,</l>
+<l>Sotto barbaro piede</l>
+<l>Rintronerà quella solinga sede.</l></lg>
+	<lg><l>Ecco tra nudi sassi o in verde ramo</l>
+<l>E la fera e l'augello,</l>
+<l>Del consueto obblio gravido il petto,</l>
+<l>L'alta ruina ignora e le mutate</l>
+<l>Sorti del mondo: e come prima il tetto</l>
+<l>Rosseggerà del villanello industre,</l>
+<l>Al mattutino canto</l>
+<l>Quel desterà le valli, e per le balze</l>
+<l>Quella l'inferma plebe</l>
+<l>Agiterà de le minori belve.</l>
+<l>Oh casi! oh gener frale! abbietta parte</l>
+<l>Siam de le cose; e non le tinte glebe,</l>
+<l>Non gli ululati spechi</l>
+<l>Turbò nostra sciaura,</l>
+<l>Nè scolorò le stelle umana cura.</l></lg>
+	<lg><l>Non io d'Olimpo o di Cocito i sordi</l>
+<l>Regi, o la terra indegna,</l>
+<l>E non la notte moribondo appello;</l>
+<l>Non te, de l'atra morte ultimo raggio,</l>
+<l>Conscia futura età. Sdegnoso avello</l>
+<l>Placàr singulti, ornàr parole e doni</l>
+<l>Di vil caterva? In peggio</l>
+<l>Precipitano i tempi; e mal s'affida</l>
+<l>A putridi nepoti</l>
+<l>L'onor d'egregie menti e la suprema</l>
+<l>De' miseri vendetta. A me dintorno</l>
+<l>Le penne il bruno augello avido roti;</l>
+<l>Prema la fera, e 'l nembo</l>
+<l>Tratti l'ignota spoglia;</l>
+<l>E l'aura il nome e la memoria accoglia.</l></lg>
+</div1>
+<div1>
+<head>7. ALLA PRIMAVERA, O DELLE FAVOLE ANTICHE.</head>
+
+	<lg><l>Per che i celesti danni</l>
+<l>Ristori il sole, e per che l'aure inferme</l>
+<l>Zefiro avvivi, onde fugata e sparta</l>
+<l>De le nubi la grave ombra s'avvalla;</l>
+<l>Credano il petto inerme</l>
+<l>Gli augelli al vento, e la diurna luce</l>
+<l>Novo d'amor desio nova speranza</l>
+<l>Ne' penetrati boschi e fra le sciolte</l>
+<l>Pruine induca a le commosse belve;</l>
+<l>Forse a le stanche e nel dolor sepolte</l>
+<l>Umane menti riede</l>
+<l>La bella età, cui la sciagura e l'atra</l>
+<l>Face del ver consunse</l>
+<l>Innanzi tempo? Ottenebrati e spenti</l>
+<l>Di Febo i raggi al misero non sono</l>
+<l>In sempiterno? ed anco,</l>
+<l>Primavera odorata, ispiri e tenti</l>
+<l>Questo gelido cor, questo ch'amara</l>
+<l>Nel fior de gli anni suoi vecchiezza impara?</l></lg>
+	<lg><l>Vivi tu, vivi o santa</l>
+<l>Natura? vivi, e 'l dissueto orecchio</l>
+<l>De la materna voce il suono accoglie?</l>
+<l>Già di candide ninfe i rivi albergo,</l>
+<l>Placido albergo e specchio</l>
+<l>Furo i liquidi fonti. Arcane danze</l>
+<l>D'immortal piede i ruinosi gioghi</l>
+<l>Scossero e l'ardue selve (oggi romita</l>
+<l>Stanza de' venti): e il pastorel ch'a l'ombre</l>
+<l>Meridiane incerte<note place="foot"><p>«Anticamente correvano parecchie false immaginazioni appartenenti all'ora del mezzogiorno, e fra l'altre, che gli Dei, le ninfe, i silvani, i fauni e simili, aggiunto le anime de' morti, si lasciassero vedere o sentire particolarmente su quell'ora; secondo che si raccoglie da Teocrito [<bibl><title>Idyll</title>., v. 15 et sequent.</bibl>], Lucano [<bibl>l. 3, v. 422 et sequent.</bibl>], Filostrato [<bibl><title>Heroic.</title> c. 1, art. 4; op. <title>Philostr.</title> ed Olear. p. 671</bibl>], Porfirio [<bibl><title>De antro nymph.</title> c. 26 et 27</bibl>], Servio [<bibl>ad Georg. l. 4, v. 401</bibl>] ed altri, e dalla Vita di san Paolo primo eremita [<bibl>c. 6; in <title>Vit. Patr. Rosveydi, Antuerp.</title> 1615, l. 1, p. 18</bibl>], che va con quelle de' Padri e fra le cose di san Girolamo. Anche puoi vedere il Meursio [<bibl><title>Auctar. Philologic.</title> c. 6</bibl>] colle note del Lami [<bibl>op. <title>Meurs. Florent.</title> 1741–1763, vol. 5, col. 733</bibl>], il Barth [<bibl><title>Animadversion. ad Stat.</title> par. 2, p. 1081</bibl>], e le cose disputate dai comentatori, e specialmente dal Calmet, in proposito del demonio meridiano detto nella <title>Scrittura</title> [<bibl><title>Psal.</title> 90, v. 6</bibl>]. Circa all'opinione che le ninfe e le dee sull'ora del mezzogiorno si scendessero a lavare ne' fiumi o ne' fonti, vedi l'<title>Elegia</title> di Callimaco sopra i <title>Lavacri di Pallade</title> [<bibl>v. 71 et sequent.</bibl>], e in particolare quanto a Diana, il terzo libro delle <title>Metamorfosi</title> [<bibl>v. 144 et sequent.</bibl>].» <title>Dall'edizione di Bologna</title>. </p></note> e a la fiorita</l>
+<l>Margo adducea de' fiumi</l>
+<l>Le sitibonde agnelle, arguto carme</l>
+<l>Sonar d'agresti Pani</l>
+<l>Udì lungo le ripe; e tremar l'onda</l>
+<l>Vide, e stupì, chè non palese al guardo</l>
+<l>La faretrata Diva</l>
+<l>Scendea ne' caldi flutti, e da l'immonda</l>
+<l>Polve tergea de la sanguigna caccia</l>
+<l>Il niveo lato e le verginee braccia.</l></lg>
+	<lg><l>Vissero i fiori e l'erbe,</l>
+<l>Vissero i boschi un dì. Conscie le molli</l>
+<l>Aure, le nubi e la titania lampa</l>
+<l>Fur de l'umana gente, allor che ignuda</l>
+<l>Te per le piagge e i colli,</l>
+<l>Ciprigna luce, a la deserta notte</l>
+<l>Con gli occhi intenti il viator seguendo,</l>
+<l>Te compagna a la via, te de' mortali</l>
+<l>Pensosa immaginò. Che se gl'impuri</l>
+<l>Cittadini consorzi e le fatali</l>
+<l>Ire fuggendo e l'onte,</l>
+<l>Gl'ispidi tronchi al petto altri ne l'ime</l>
+<l>Selve remoto accolse,</l>
+<l>Viva fiamma agitar l'esangui vene,</l>
+<l>Spirar le foglie, e palpitar segreta</l>
+<l>Nel doloroso amplesso</l>
+<l>Dafne o la mesta Filli o di Climene</l>
+<l>Pianger credè la sconsolata prole</l>
+<l>Quel che sommerse in Eridano il sole.</l></lg>
+	<lg><l>Nè de l'umano affanno,</l>
+<l>Rigide balze, i luttuosi accenti</l>
+<l>Voi negletti ferìr mentre le vostre</l>
+<l>Paurose latebre Eco solinga,</l>
+<l>Non vano error de' venti,</l>
+<l>Ma di ninfa abitò misero spirto,</l>
+<l>Cui grave amor, cui duro fato escluse</l>
+<l>De le tenere membra. Ella per grotte,</l>
+<l>Per nudi scogli e desolati alberghi</l>
+<l>Le non ignote ambasce e l'alte e rotte</l>
+<l>Nostre querele al curvo</l>
+<l>Etra insegnava. E te d'umani eventi</l>
+<l>Disse la fama esperto,</l>
+<l>Musico augel che tra chiomato bosco</l>
+<l>Or vieni il rinascente anno cantando,</l>
+<l>E lamentar ne l'alto</l>
+<l>Ozio de' campi, e l'aer muto e fosco,</l>
+<l>Antichi danni e scellerato scorno,</l>
+<l>E d'ira e di pietà pallido il giorno.</l></lg>
+	<lg><l>Ma non cognato al nostro</l>
+<l>Il gener tuo; quelle tue varie note</l>
+<l>Dolor non forma, e te di colpa ignudo,</l>
+<l>Men caro assai la bruna valle asconde.</l>
+<l>Ahi ahi, poscia che vote</l>
+<l>Son le stanze d'Olimpo, e cieco il tuono</l>
+<l>Per l'atre nubi e le montagne errando,</l>
+<l>Gl'iniqui petti e gl'innocenti a paro</l>
+<l>In freddo orror dissolve; e poi ch'estrano</l>
+<l>Il suol nativo, e di sua prole ignaro</l>
+<l>Le meste anime educa;</l>
+<l>Tu le cure infelici e i fati indegni</l>
+<l>Tu de' mortali ascolta,</l>
+<l>Vaga natura, e la favilla antica</l>
+<l>Rendi a lo spirto mio; se tu pur vivi,</l>
+<l>E se de' nostri affanni</l>
+<l>Cosa veruna in ciel, se ne l'aprica</l>
+<l>Terra s'alberga o ne l'equoreo seno,</l>
+<l>Pietosa no, ma spettatrice almeno.</l></lg>
+</div1>
+<div1>
+<head>8. INNO AI PATRIARCHI, O DE' PRINCIPII DEL GENERE UMANO.</head>
+
+	<lg><l>E voi de' figli dolorosi il canto,</l>
+<l>Voi de l'umana prole incliti padri,</l>
+<l>Lodando appellerà; molto a l'eterno</l>
+<l>De gli astri agitator più cari, e molto</l>
+<l>Di noi men lacrimabili ne l'alma</l>
+<l>Luce prodotti. Immedicati affanni</l>
+<l>Al misero mortal, nascere al pianto,</l>
+<l>E de l'etereo lume assai più dolci</l>
+<l>Sortir l'opaca tomba e 'l fato estremo,</l>
+<l>Non la diva pietà, non l'equa impose</l>
+<l>Legge del cielo. E se di vostro antico</l>
+<l>Error che l'uman seme a la tiranna</l>
+<l>Possa de' morbi e di sciagura offerse,</l>
+<l>Grido antico ragiona, altre più dire</l>
+<l>Colpe de' figli, e pervicace ingegno,</l>
+<l>E demenza maggior l'offeso Olimpo</l>
+<l>N'armaro incontra, e la negletta mano</l>
+<l>De l'altrice natura; onde la viva</l>
+<l>Fiamma n'increbbe, e detestato il parto</l>
+<l>Fu del grembo materno, e violento</l>
+<l>Emerse il disperato Erebo in terra.</l></lg>
+	<lg><l>Tu primo il giorno, e le purpuree faci</l>
+<l>De le rotanti sfere, e la novella</l>
+<l>Prole de' campi, o duce antico e padre</l>
+<l>De l'umana famiglia, e tu l'errante</l>
+<l>Per li giovani prati aura contempli:</l>
+<l>Quando le rupi e le deserte valli</l>
+<l>Precipite l'alpina onde ferìa</l>
+<l>D'inudito fragor; quando gli ameni</l>
+<l>Futuri seggi di lodate genti</l>
+<l>E di cittadi romorose, occulta</l>
+<l>Pace regnava; e gl'inarati colli</l>
+<l>Solo e muto ascendea l'aprico raggio</l>
+<l>Di febo e l'aurea luna. Oh fortunata,</l>
+<l>Di colpe ignara e di lugubri eventi,</l>
+<l>Erma terrena sede. Oh quanto affanno</l>
+<l>Al gener tuo, padre infelice, e quale</l>
+<l>D'amarissimi casi ordine immenso</l>
+<l>Preparano i destini. Ecco di sangue</l>
+<l>Gli avari còlti e di fraterno scempio</l>
+<l>Furor novello incesta, e le nefande</l>
+<l>Ali di morte il divo etere impara.</l>
+<l>Trepido, errante il fratricida, e l'ombre</l>
+<l>Solitarie fuggendo e la secreta</l>
+<l>Ne le profonde selve ira de' venti,</l>
+<l>Primo i civili tetti, albergo e regno</l>
+<l>A le macere cure, innalza;<note place="foot"><p><bibl><hi rend="italic">Egressusque Cain a facie Domini, habitavit profugus in terra ad orientalem plagam Eden. Et aedificavit civitatem.<title>Genes.</title> c. 4 vers.</hi> 16</bibl>. </p></note> e primo</l>
+<l>Il disperato pentimento i ciechi</l>
+<l>Mortali egro, anelante, aduna e stringe</l>
+<l>Ne' consorti ricetti: onde negata</l>
+<l>L'improba mano al curvo aratro, e vili</l>
+<l>Fur gli agresti sudori; ozio le soglie</l>
+<l>Scelerate occupò; ne' corpi inerti</l>
+<l>Domo il vigor natio, languide, ignave</l>
+<l>Giacquer le menti; e servitù le imbelli</l>
+<l>Umane vite, ultimo danno, accolse.</l></lg>
+	<lg><l>E tu da l'etra infesto e dal mugghiante</l>
+<l>Su i nubiferi gioghi equoreo flutto</l>
+<l>Scampi l'iniquo germe, o tu cui prima</l>
+<l>Da l'aer cieco e da' natanti poggi</l>
+<l>Segno arrecò d'instaurata spene</l>
+<l>La candida colomba, e de le antiche</l>
+<l>Nubi l'occiduo Sol naufrago uscendo,</l>
+<l>L'atro polo di vaga iri dipinse.</l>
+<l>Riede a la terra, e 'l crudo affetto e gli empi</l>
+<l>Studi rinnova e le seguaci ambasce</l>
+<l>La riparata gente. A gl'inaccessi</l>
+<l>Regni del mar vendicatore illude</l>
+<l>Profana destra, e la sciagura e 'l pianto</l>
+<l>A novi liti e novo cielo insegna.</l></lg>
+	<lg><l>Or te, padre de' pii, te giusto e forte,</l>
+<l>E di tuo seme i generosi alunni</l>
+<l>Medita il petto mio. Dirò siccome</l>
+<l>Sedente, oscuro in sul meriggio a l'ombre</l>
+<l>Del riposato albergo, appo le molli</l>
+<l>Rive del gregge tuo nodrici e sedi,</l>
+<l>Te de' celesti peregrini occulte</l>
+<l>Beàr l'eteree menti; e quale, o figlio</l>
+<l>De la saggia Rebecca, in su la sera,</l>
+<l>Presso al rustico pozzo e ne la dolce</l>
+<l>Di pastori e di lieti ozi frequente</l>
+<l>Aranitica valle, amor ti punse</l>
+<l>De la vezzosa Labanìde: invitto</l>
+<l>Amor, ch'a lunghi esigli e lunghi affanni</l>
+<l>E di servaggio a l'odiata soma</l>
+<l>Volenteroso il prode animo addisse.</l></lg>
+	<lg><l>Fu certo, fu (nè d'error vano e d'ombra</l>
+<l>L'aonio canto e de la fama il grido</l>
+<l>Pasce l'avida plebe) amica un tempo</l>
+<l>Al sangue nostro e dilettosa e cara</l>
+<l>Questa misera piaggia, ed aurea corse</l>
+<l>Nostra caduca età. Non che di latte</l>
+<l>Onda rigasse intemerata il fianco</l>
+<l>De le balze materne, o con le greggi</l>
+<l>Mista la tigre a i consueti ovili</l>
+<l>E guidasse per gioco i lupi al fonte</l>
+<l>Il pastorel; ma di suo fato ignara</l>
+<l>E de gli affanni suoi, vòta d'affanno</l>
+<l>Visse l'umana stirpe; a le secrete</l>
+<l>Leggi del cielo e di natura indutto</l>
+<l>Valse l'ameno error, le fraudi, il molle</l>
+<l>Pristino velo; e di sperar contenta</l>
+<l>Nostra placida nave in porto ascese.</l></lg>
+	<lg><l>Tal fra le vaste californie selve</l>
+<l>Nasce beata prole, a cui non sugge</l>
+<l>Pallida cura il petto, a cui le membra</l>
+<l>Fera tabe non dòma, e vitto il bosco,</l>
+<l>Nidi l'intima rupe, ònde ministra</l>
+<l>L'irrigua valle, inopinato il giorno</l>
+<l>De l'atra morte incombe. Oh contra il nostro</l>
+<l>Scelerato ardimento inermi regni</l>
+<l>De la saggia natura. I lidi e gli antri</l>
+<l>E le quiete selve apre l'invitto</l>
+<l>Nostro furor; le violate genti</l>
+<l>Al peregrino affanno, a gl'ignorati</l>
+<l>Desiri educa; e la fugace, ignuda</l>
+<l>Felicità per l'imo sole incalza.</l></lg><note place="foot"><p>«Non accade avvertire che la California sta nell'ultimo termine occidentale del continente. La nazione de' Californii, per ciò che ne riferiscono i viaggiatori, vive con maggior naturalezza di quello che a noi paia, non dirò credibile, ma possibile nella specie umana. Quelli che s'affaticano di ridurre la detta gente alla vita sociale, non è dubbio che in processo di tempo verranno a capo di quest'impresa; ma si tiene per fermo che nessun'altra nazione dimostrasse di voler fare così poca riuscita della scuola degli Europei.» <title>Dall'edizione di Bologna</title>. </p></note>
+</div1>
+<div1>
+<head>9. ULTIMO CANTO DI SAFFO.</head>
+
+	<lg><l>Placida notte, e verecondo raggio</l>
+<l>De la cadente luna; e tu che spunti</l>
+<l>Fra la tacita selva in su la rupe,</l>
+<l>Nunzio del giorno; oh desiate e care</l>
+<l>(Mentre ignote mi fur l'erinni e 'l fato)</l>
+<l>Sembianze a gli occhi miei; già non arride</l>
+<l>Spettacol molle a i disperati affetti.</l>
+<l>Noi l'insueto allor gaudio ravviva</l>
+<l>Quando per l'etra liquido si volve</l>
+<l>E per li campi trepidanti il flutto</l>
+<l>Polveroso de' Noti, e quando il carro,</l>
+<l>Grave carro di Giove a noi sul capo,</l>
+<l>Tonando, il tenebroso aere divide.</l>
+<l>Noi per le balze e le profonde valli</l>
+<l>Natar giova tra' nembi, e noi la vasta</l>
+<l>Fuga de' greggi sbigottiti, o d'alto</l>
+<l>Fiume a la dubbia sponda</l>
+<l>Il suono e la vittrice ira de l'onda.</l></lg>
+	<lg><l>Vago il tuo manto, o divo cielo, e vaga</l>
+<l>Se' tu, rorida terra. Ahi di cotesta</l>
+<l>Infinita beltà parte nessuna</l>
+<l>A la misera Saffo i numi e l'empia</l>
+<l>Sorte non fenno. A' tuoi superbi regni</l>
+<l>Vile, o natura, e grave ospite addetta,</l>
+<l>E dispregiata amante, a le vezzose</l>
+<l>Tue forme il core e le pupille invano</l>
+<l>Supplichevole intendo. A me non ride</l>
+<l>L'aprico margo, e da l'eterea porta</l>
+<l>Il mattutino albòr; me non il canto</l>
+<l>De' colorati augelli, e non de' faggi</l>
+<l>Il murmure saluta: e dove a l'ombra</l>
+<l>De gl'inchinati salici dispiega</l>
+<l>Candido rivo il puro seno, al mio</l>
+<l>Lubrico piè le flessuose linfe</l>
+<l>Disdegnando sottragge,</l>
+<l>E preme in fuga l'odorate spiagge.</l></lg>
+	<lg><l>Qual fallo mai, qual sì nefando eccesso</l>
+<l>Macchiommi anzi il natale, onde sì torvo</l>
+<l>Il ciel mi fosse e di fortuna il volto?</l>
+<l>Qual ne la prima età (mentre di colpa</l>
+<l>Viviamo ignari), onde inesperto e scemo</l>
+<l>Di giovanezza, e sconsolato, al fuso</l>
+<l>De l'indomita Parca si devolva</l>
+<l>Mio ferrugineo dì? Malcaute voci</l>
+<l>Spande il tuo labbro: i destinati eventi</l>
+<l>Move arcano consiglio. Arcano è tutto,</l>
+<l>Fuor che il nostro dolor. Negletta prole</l>
+<l>Nascemmo al pianto, e la cagione in grembo</l>
+<l>De' celesti si posa. Oh cure, oh speme</l>
+<l>De' più verd'anni! A le sembianze il Padre,</l>
+<l>A le amene sembianze eterno regno</l>
+<l>Diè ne le genti; e per virili imprese,</l>
+<l>Per dotta lira o canto,</l>
+<l>Virtù non lùce in disadorno ammanto.</l></lg>
+	<lg><l>Morremo. Il velo indegno a terra sparto,</l>
+<l>Rifuggirà l'ignudo animo a Dite,</l>
+<l>E 'l tristo fallo emenderà del cieco</l>
+<l>Dispensator de' casi. E tu cui lungo</l>
+<l>Amore indarno, e lunga fede, e vano</l>
+<l>D'implacato desio furor mi strinse,</l>
+<l>Vivi felice, se felice in terra</l>
+<l>Visse nato mortal. Me non asperse</l>
+<l>Del soave licor l'avara ampolla</l>
+<l>Di Giove indi che 'l sogno e i lieti inganni</l>
+<l>Perìr di fanciullezza. Ogni più caro</l>
+<l>Giorno di nostra età primo s'invola.</l>
+<l>Sottentra il morbo, e la vecchiezza, e l'ombra</l>
+<l>De la gelida morte. Ecco di tante</l>
+<l>Sperate palme e dilettosi errori,</l>
+<l>Il tartaro m'avanza; e 'l prode ingegno</l>
+<l>Han la tenaria Diva,</l>
+<l>E l'atra notte, e la silente riva.</l></lg>
+</div1>
+<div1>
+<head>10. IL PRIMO AMORE.</head>
+
+	<lg><l>Tornami a mente il dì che la battaglia</l>
+<l>D'amor sentii la prima volta, e dissi:</l>
+<l>Oimè, se quest'è amor, com'ei travaglia!</l></lg>
+	<lg><l>Che gli occhi al suol tuttora intenti e fissi,</l>
+<l>Io mirava colei ch'a questo core</l>
+<l>Primiera il varco ed innocente aprissi.</l></lg>
+	<lg><l>Ahi come mal mi governasti, amore!</l>
+<l>Perchè seco dovea sì dolce affetto</l>
+<l>Recar tanto desio, tanto dolore?</l></lg>
+	<lg><l>E non sereno, e non intero e schietto,</l>
+<l>Anzi pien di travaglio e di lamento</l>
+<l>Al cor mi discendea tanto diletto?</l></lg>
+	<lg><l>Dimmi, tenero core, or che spavento,</l>
+<l>Che angoscia era la tua fra quel pensiero</l>
+<l>Presso al qual t'era noia ogni contento?</l></lg>
+	<lg><l>Quel pensier che nel dì, che lusinghiero</l>
+<l>Ti si offeriva ne la notte, quando</l>
+<l>Tutto queto parea ne l'emisfero:</l></lg>
+	<lg><l>Tu inquieto, e felice e miserando,</l>
+<l>M'affaticavi in su le piume il fianco,</l>
+<l>Ad ogni or fortemente palpitando.</l></lg>
+	<lg><l>E dove io tristo ed affannato e stanco</l>
+<l>Gli occhi al sonno chiudea come per febre</l>
+<l>Rotto e deliro il sonno venia manco.</l></lg>
+	<lg><l>Oh come viva in mezzo a le tenebre</l>
+<l>Sorgea la dolce imago, e gli occhi chiusi</l>
+<l>La contemplavan sotto a le palpebre!</l></lg>
+	<lg><l>Oh come soavissimi diffusi</l>
+<l>Moti per l'ossa mi serpeano, oh come</l>
+<l>Mille ne l'alma instabili, confusi</l></lg>
+	<lg><l>Pensieri mi si volgean! qual tra le chiome</l>
+<l>D'antica selva zefiro scorrendo,</l>
+<l>Un lungo, incerto sussurrar ne prome.</l></lg>
+	<lg><l>E mentre io taccio, e mentre io non contendo,</l>
+<l>Che dicevi o mio cor, che si partia</l>
+<l>Quella per che penando ivi e battendo?</l></lg>
+	<lg><l>Il cuocer non più tosto io mi sentia</l>
+<l>De la vampa d'amor, che 'l venticello</l>
+<l>Che l'aleggiava, volossene via.</l></lg>
+	<lg><l>Senza sonno i' giacea sul dì novello,</l>
+<l>E i destrier che dovean farmi deserto,</l>
+<l>Battean la zampa sotto al patrio ostello.</l></lg>
+	<lg><l>Ed io timido e cheto ed inesperto,</l>
+<l>Ver lo balcone al buio protendea</l>
+<l>L'orecchio avido e l'occhio indarno aperto,</l></lg>
+	<lg><l>La voce ad ascoltar, se ne dovea</l>
+<l>Di quelle labbra uscir, ch'ultima fosse;</l>
+<l>La voce, ch'altro il fato, ahi, mi togliea.</l></lg>
+	<lg><l>Quante volte plebea voce percosse</l>
+<l>Il dubitoso orecchio, e un gel mi prese,</l>
+<l>E 'l core in forse a palpitar si mosse!</l></lg>
+	<lg><l>E poi che finalmente mi discese</l>
+<l>La cara voce al core, e de' cavai</l>
+<l>E de le rote il fragorio s'intese;</l></lg>
+	<lg><l>Orbo rimaso allor, mi rannicchiai</l>
+<l>Palpitando nel letto e, chiusi gli occhi,</l>
+<l>Strinsi il cor con la mano, e sospirai.</l></lg>
+	<lg><l>Poscia traendo i tremuli ginocchi</l>
+<l>Stupidamente per la muta stanza,</l>
+<l>Ch'altro sarà, dicea, che 'l cor mi tocchi?</l></lg>
+	<lg><l>Amarissima allor la ricordanza</l>
+<l>Locommisi nel petto, e mi serrava</l>
+<l>Ad ogni voce il core, a ogni sembianza.</l></lg>
+	<lg><l>E lunga doglia il sen mi ricercava,</l>
+<l>Com'è quando a distesa Olimpo piove</l>
+<l>Malinconicamente e i campi lava.</l></lg>
+	<lg><l>Ned'io ti conoscea, garzon di nove</l>
+<l>E nove Soli, in questo a pianger nato</l>
+<l>Quando facevi, amor, le prime prove.</l></lg>
+	<lg><l>Quando in ispregio ogni piacer, nè grato</l>
+<l>M'era de gli astri il riso, o de l'aurora</l>
+<l>Queta il silenzio, o il verdeggiar del prato.</l></lg>
+	<lg><l>Anche di gloria amor taceami allora</l>
+<l>Nel petto, cui scaldar tanto solea,</l>
+<l>Chè di beltade amor vi fea dimora.</l></lg>
+	<lg><l>Nè gli occhi a i noti studi io rivolgea,</l>
+<l>E quelli m'apparian vani per cui</l>
+<l>Vano ogni altro desir creduto avea.</l></lg>
+	<lg><l>Deh come mai da me sì vario fui;</l>
+<l>E tanto amor mi tolse un altro amore?</l>
+<l>Deh quanto, in verità, vani siam nui!</l></lg>
+	<lg><l>Solo il mio cor piaceami, e col mio core,</l>
+<l>In un perenne ragionar sepolto,</l>
+<l>A la guardia seder del mio dolore.</l></lg>
+	<lg><l>E l'occhio a terra chino o in se raccolto,</l>
+<l>Di riscontrarsi fuggitivo e vago</l>
+<l>Nè in leggiadro soffria nè in turpe volto:</l></lg>
+	<lg><l>Chè la illibata, la candida imago</l>
+<l>Contaminar temea sculta nel seno;</l>
+<l>Come per soffio tersa onda di lago.</l></lg>
+	<lg><l>E quel di non aver goduto appieno</l>
+<l>Pentimento, che l'anima ci grava,</l>
+<l>E 'l piacer che passò cangia in veleno,</l></lg>
+	<lg><l>Per li fuggiti dì mi stimolava</l>
+<l>Tuttora il sen: chè la vergogna il duro</l>
+<l>Suo morso in questo cor già non oprava.</l></lg>
+	<lg><l>Al cielo, a voi, gentili anime, io giuro</l>
+<l>Che voglia non m'entrò bassa nel petto,</l>
+<l>Ch'arsi di foco intaminato e puro.</l></lg>
+	<lg><l>Vive quel foco ancor, vive l'affetto,</l>
+<l>Spira nel pensier mio la bella imago,</l>
+<l>Da cui, se non celeste, altro diletto</l></lg>
+	<lg><l>Giammai non ebbi, e sol di lei m'appago.</l></lg>
+</div1>
+<div1>
+<head>11. L'INFINITO.</head>
+
+	<lg><l>Sempre caro mi fu quest'ermo colle,</l>
+<l>E questa siepe, che da tanta parte</l>
+<l>De l'ultimo orizzonte il guardo esclude.</l>
+<l>Ma sedendo e mirando, interminato</l>
+<l>Spazio di là da quella, e sovrumani</l>
+<l>Silenzi, e profondissima quiete</l>
+<l>Io nel pensier mi fingo; ove per poco</l>
+<l>Il cor non si spaura. E come il vento</l>
+<l>Odo stormir tra queste piante, io quello</l>
+<l>Infinito silenzio a questa voce</l>
+<l>Vo comparando: e mi sovvien l'eterno,</l>
+<l>E le morte stagioni, e la presente</l>
+<l>E viva, e 'l suon di lei. Così tra questa</l>
+<l>Immensità s'annega il pensier mio:</l>
+<l>E 'l naufragar m'è dolce in questo mare.</l></lg>
+</div1>
+<div1>
+<head>12. LA SERA DEL GIORNO FESTIVO.</head>
+
+	<lg><l>Dolce e chiara è la notte e senza vento,</l>
+<l>E queta in mezzo a gli orti e sovra i tetti</l>
+<l>La luna si riposa, e le montagne</l>
+<l>Si discopron da lungi. O donna mia,</l>
+<l>Già tace ogni sentiero, e pei balconi</l>
+<l>Rara traluce la notturna lampa:</l>
+<l>Tu dormi, che t'accolse agevol sonno</l>
+<l>Ne le tue chete stanze; e non ti morde</l>
+<l>Cura nessuna; e già non pensi o stimi</l>
+<l>Quanta piaga m'apristi in mezzo al petto.</l>
+<l>Tu dormi: io questo ciel, che sì benigno</l>
+<l>Appare in vista, a salutar m'affaccio,</l>
+<l>E l'antica natura onnipossente,</l>
+<l>Che mi fece a l'affanno. A te la speme</l>
+<l>Nego, mi disse, anche la speme; e d'altro</l>
+<l>Non brillin gli occhi tuoi fuor che di pianto.</l>
+<l>Questo dì fu solenne: or da' trastulli</l>
+<l>Prendi riposo; e forse ti rimembra</l>
+<l>In sogno a quanti oggi piacesti, e quanti</l>
+<l>Piacquero a te: non io certo giammai</l>
+<l>Ti ricorro al pensiero. Intanto io chieggio</l>
+<l>Quanto a viver mi resti, e qui per terra</l>
+<l>Mi getto, e grido, e fremo. Oh giorni orrendi</l>
+<l>In così verde etate! Ahi, per la via</l>
+<l>Sento non lunge il solitario canto</l>
+<l>De l'artigian, che riede a tarda notte,</l>
+<l>Dopo i sollazzi, al suo povero ostello;</l>
+<l>E fieramente mi si stringe il core,</l>
+<l>A pensar come tutto al mondo passa</l>
+<l>E quasi orma non lascia. Ecco è fuggito</l>
+<l>Il dì festivo, ed al festivo il giorno</l>
+<l>Volgar succede, e si travolge il tempo</l>
+<l>Ogni umano accidente. Or dov'è 'l suono</l>
+<l>Di que' popoli antichi? or dov'è 'l grido</l>
+<l>De' nostri avi famosi, e 'l grande impero</l>
+<l>Di quella Roma, e l'armi, e 'l fragorio</l>
+<l>Che n'andò per la terra e l'oceano?</l>
+<l>Tutto è pace e silenzio, e tutto pòsa</l>
+<l>Il mondo, e più di lor non si favella.</l>
+<l>Ne la mia prima età, quando s'aspetta</l>
+<l>Bramosamente il dì festivo, or poscia</l>
+<l>Ch'egli era spento, io doloroso, in veglia,</l>
+<l>Premea le piume; ed a la tarda notte</l>
+<l>Un canto che s'udia per li sentieri</l>
+<l>Lontanando morire a poco a poco,</l>
+<l>Pur similmente mi stringeva il core.</l></lg>
+</div1>
+<div1>
+<head>13. ALLA LUNA.</head>
+
+	<lg><l>O graziosa luna, io mi rammento</l>
+<l>Che, or volge l'anno, io sovra questo colle</l>
+<l>Venia carco d'angoscia a rimirarti:</l>
+<l>E tu pendevi allor su quella selva</l>
+<l>Siccome or fai, che tutta la rischiari.</l>
+<l>Ma nebuloso e tremulo dal pianto</l>
+<l>Che mi sorgea sul ciglio, a le mie luci</l>
+<l>Il tuo volto apparia; chè travagliosa</l>
+<l>Era mia vita: ed è, nè cangia stile,</l>
+<l>O mia diletta luna. E pur mi giova</l>
+<l>La ricordanza, e 'l noverar l'etate</l>
+<l>Del mio dolore. Oh come grato occorre</l>
+<l>Il sovvenir de le passate cose,</l>
+<l>Ancor che triste, e ancor che il pianto duri.</l></lg>
+</div1>
+<div1>
+<head>14. IL SOGNO.</head>
+
+	<lg><l>Era il mattino, e tra le chiuse imposte</l>
+<l>Per lo balcone insinuava il sole</l>
+<l>Ne la mia cieca stanza il primo albore;</l>
+<l>Quando in sul tempo che più leve il sonno</l>
+<l>E più soave le pupille adombra,</l>
+<l>Stettemi allato e riguardommi in viso</l>
+<l>Il simulacro di colei che amore</l>
+<l>Prima insegnommi, e poi lasciommi in pianto.</l>
+<l>Morta non mi parea, ma trista e quale</l>
+<l>De gl'infelici è la sembianza. Al capo</l>
+<l>Appressommi la destra, e sospirando,</l>
+<l>Vivi, mi disse, e ricordanza alcuna</l>
+<l>Serbi di noi? Donde, risposi, e come</l>
+<l>Vieni o cara beltà? Quanto, deh quanto</l>
+<l>Di te mi dolse e duol: nè mi credea</l>
+<l>Che risaper tu lo dovessi; e questo</l>
+<l>Facea più sconsolato il dolor mio.</l>
+<l>Ma se' tu per lasciarmi un'altra volta?</l>
+<l>Io n'ho gran tema. Or dimmi, e che t'avvenne?</l>
+<l>Se' tu quella di prima? E che ti strugge</l>
+<l>Internamente? Obblivione ingombra</l>
+<l>I tuoi pensieri, e gli avviluppa il sonno;</l>
+<l>Disse colei. Son morta, e mi vedesti</l>
+<l>L'ultima volta, or son più lune. Immensa</l>
+<l>Doglia m'oppresse a queste voci il petto.</l>
+<l>Ella seguì: nel fior de gli anni estinta,</l>
+<l>Quand'è 'l viver più dolce, e pria che 'l core</l>
+<l>Certo si renda com'è tutta indarno</l>
+<l>L'umana speme. A desiar colei</l>
+<l>Che d'ogni affanno il tragge, ha poco andare</l>
+<l>L'egro mortal; ma sconsolata arriva</l>
+<l>La morte a i giovanetti, e duro è 'l fato</l>
+<l>Di quella speme cui la terra opprime.</l>
+<l>Vano è 'l saper quel che natura asconde</l>
+<l>A gl'inesperti de la vita, e molto</l>
+<l>A l'immatura sapienza il cieco</l>
+<l>Dolor prevale. Oh sfortunata, oh cara,</l>
+<l>Taci, taci, diss'io, chè tu mi schianti</l>
+<l>Con questi detti il cor. Dunque se' morta</l>
+<l>O mia diletta, ed io son vivo, ed era</l>
+<l>Pur fisso in ciel che quei sudori estremi</l>
+<l>Cotesta cara e tenerella salma</l>
+<l>Provar dovesse, a me restasse intera</l>
+<l>Questa misera spoglia? Oh quante volte</l>
+<l>In ripensar che più non vivi, e mai</l>
+<l>Non avverrà ch'io ti ritrovi al mondo,</l>
+<l>Creder nol posso. Ahi ahi, che cosa è questa</l>
+<l>Che morte s'addimanda? Oggi per prova</l>
+<l>Intenderlo potessi, e 'l capo inerme</l>
+<l>A gli atroci del fato odii sottrarre.</l>
+<l>Giovane son, ma si consuma e perde</l>
+<l>La giovanezza mia come vecchiezza;</l>
+<l>La qual pavento, e pur m'è lunge assai.</l>
+<l>Ma poco da vecchiezza si discorda</l>
+<l>Il fior de l'età mia. Nascemmo al pianto,</l>
+<l>Disse, ambedue; felicità non rise</l>
+<l>Al viver nostro; e dilettossi il cielo</l>
+<l>De' nostri affanni. Or se di pianto il ciglio,</l>
+<l>Soggiunsi, e di pallor velato il viso</l>
+<l>Per la tua dipartita, e se d'angoscia</l>
+<l>Porto gravido il cor; dimmi: d'amore</l>
+<l>Già non favello; ma pietade alcuna</l>
+<l>Del tuo misero amante in sen ti nacque</l>
+<l>Mentre vivesti? Io disperando allora</l>
+<l>E sperando traea le notti e i giorni;</l>
+<l>Oggi nel vano dubitar si stanca</l>
+<l>La mente mia. Che se una volta pure</l>
+<l>Mercè ti strinse di mia negra vita,</l>
+<l>Consentimi ch'io 'l sappia e mi soccorra</l>
+<l>La rimembranza or che il futuro è tolto</l>
+<l>A i nostri giorni. E quella: ti conforta,</l>
+<l>O sventurato. Io di pietade avara</l>
+<l>Non ti fui mentre vissi, ed or non sono,</l>
+<l>Chè fui misera anch'io. Non far querela</l>
+<l>Di questa infelicissima fanciulla.</l>
+<l>Per le sventure nostre, e per l'amore</l>
+<l>Che mi strugge, esclamai; per lo diletto</l>
+<l>Nome di giovanezza e la perduta</l>
+<l>Speme de i nostri dì, concedi o cara,</l>
+<l>Che la tua destra io tocchi. Ed ella, in atto</l>
+<l>Soave e tristo, la porgeva. Or mentre</l>
+<l>Di baci la ricopro, e d'affannosa</l>
+<l>Dolcezza palpitando a l'anelante</l>
+<l>Seno la stringo, di sudore il volto</l>
+<l>Ferveva e 'l petto, ne le fauci stava</l>
+<l>La voce, al guardo traballava il giorno.</l>
+<l>Quando colei teneramente affissi</l>
+<l>Gli occhi ne gli occhi miei, già scordi o caro,</l>
+<l>Disse, che di beltà son fatta ignuda?</l>
+<l>E tu d'amore, o sfortunato, indarno</l>
+<l>Ti scaldi e fremi. Or finalmente addio.</l>
+<l>Nostre misere menti e nostre salme</l>
+<l>Son disgiunte in eterno. A me non vivi</l>
+<l>E mai più non vivrai: già ruppe il fato</l>
+<l>L'amor che mi giurasti. Allor d'angoscia</l>
+<l>Gridar volendo, e spasimando, e pregne</l>
+<l>Di sconsolato pianto le pupille,</l>
+<l>Dal sonno mi disciolsi. Ella ne gli occhi</l>
+<l>Pur mi restava, e ne l'incerto raggio</l>
+<l>Del Sol vederla io mi credeva ancora.</l></lg>
+</div1>
+<div1>
+<head>15. LA VITA SOLITARIA.</head>
+
+	<lg><l>La mattutina pioggia, allor che l'ale</l>
+<l>Battendo esulta ne la chiusa stanza</l>
+<l>La gallinella, ed al balcon s'affaccia</l>
+<l>L'abitator de' campi, e il Sol che nasce</l>
+<l>I suoi tremuli rai fra le cadenti</l>
+<l>Stille tramanda, a la capanna mia</l>
+<l>Dolcemente picchiando, mi risveglia;</l>
+<l>E sorgo, e i lievi nugoletti, e 'l primo</l>
+<l>De gli augelli susurro, e l'aura fresca,</l>
+<l>E le ridenti piagge benedico;</l>
+<l>Poichè voi, cittadine infauste mura,</l>
+<l>Vidi e conobbi assai, dove si prende</l>
+<l>Lo sventurato a scherno; e sventurato</l>
+<l>Io vivo, e tal morrò, deh tosto! Alcuna</l>
+<l>Benchè scarsa pietà pur mi dimostra</l>
+<l>Natura in questi lochi, un giorno oh quanto</l>
+<l>Verso me più cortese. E tu pur volgi</l>
+<l>Da i miseri lo sguardo; e tu, sdegnando</l>
+<l>Le sciaure e gli affanni, a la reina</l>
+<l>Felicità servi o natura. In cielo,</l>
+<l>In terra amico a gl'infelici alcuno</l>
+<l>E rifugio non resta altro che il ferro.</l></lg>
+	<lg><l>Talor m'assido in solitaria parte,</l>
+<l>Sovra un rialto, al margine d'un lago</l>
+<l>Di taciturne piante incoronato.</l>
+<l>Ivi, quando il meriggio in ciel si volve,</l>
+<l>La sua tranquilla imago il Sol dipinge,</l>
+<l>Ed erba o foglia non si crolla al vento,</l>
+<l>E non onda incresparsi, e non cicala</l>
+<l>Strider, nè batter penna augello in ramo,</l>
+<l>Nè farfalla ronzar, nè voce o moto</l>
+<l>Da presso nè da lunge odi nè vedi.</l>
+<l>Tien quelle rive altissima quiete;</l>
+<l>Ond'io quasi me stesso e 'l mondo obblio</l>
+<l>Sedendo immoto; e già mi par che sciolte</l>
+<l>Giaccian le membra mie, nè spirto o senso</l>
+<l>Più le commova, e lor quiete antica</l>
+<l>Co' silenzi del loco si confonda.</l></lg>
+	<lg><l>Amore, amore, assai lungi volasti</l>
+<l>Dal petto mio, che fu sì caldo un giorno,</l>
+<l>Anzi rovente. Con sua fredda mano</l>
+<l>Lo strinse la sciaura, e in ghiaccio è volto</l>
+<l>Nel fior de gli anni. Mi sovviene il tempo</l>
+<l>Che mi scendesti in seno. Era quel dolce</l>
+<l>E irrevocabil tempo, allor che s'apre</l>
+<l>Al guardo giovenil questa infelice</l>
+<l>Scena del mondo, e gli sorride in vista</l>
+<l>Di paradiso. Al garzoncello il core</l>
+<l>Di vergine speranza e di desio</l>
+<l>Balza nel petto; e già s'accinge a l'opra</l>
+<l>Di questa vita come a danza o gioco</l>
+<l>Il misero mortal. Ma non sì tosto,</l>
+<l>Amor, di te m'accorsi, e 'l viver mio</l>
+<l>Fortuna avea già rotto, ed a questi occhi</l>
+<l>Non altro convenia che 'l pianger sempre.</l>
+<l>Pur se talvolta per le piagge apriche,</l>
+<l>Su la tacita aurora o quando al sole</l>
+<l>Brillano i tetti e i poggi e le campagne,</l>
+<l>Scontro di vaga donzelletta il viso;</l>
+<l>O qualor ne la placida quiete</l>
+<l>D'estiva notte, il vagabondo passo</l>
+<l>Di rincontro a le ville soffermando,</l>
+<l>L'erma terra contemplo, e di fanciulla</l>
+<l>Che a l'opre di sua man la notte aggiunge</l>
+<l>Odo sonar ne le romite stanze</l>
+<l>L'arguto canto; a palpitar si move</l>
+<l>Questo mio cor di sasso: ahi, ma ritorna</l>
+<l>Tosto al ferreo sopor; ch'è fatto estrano</l>
+<l>Ogni moto soave al petto mio.</l></lg>
+	<lg><l>O cara luna, al cui tranquillo raggio</l>
+<l>Danzan le lepri ne le selve; e duolsi</l>
+<l>A la mattina il cacciator, che trova</l>
+<l>L'orme intricate e false, e da i covili</l>
+<l>Error vario lo svia; salve, o benigna</l>
+<l>De le notti reina. Infesto scende</l>
+<l>Il raggio tuo fra macchie e balze o dentro</l>
+<l>A deserti edifici, in su l'acciaro</l>
+<l>Del pallido ladron ch'a teso orecchio</l>
+<l>Il fragor de le rote e de' cavalli</l>
+<l>Da lungi osserva o il calpestio de' piedi</l>
+<l>Su la tacita via; poscia improvviso</l>
+<l>Col suon de l'armi e con la rauca voce</l>
+<l>E col funereo ceffo il core agghiaccia</l>
+<l>Al passegger, cui semivivo e nudo</l>
+<l>Lascia in breve tra' sassi. Infesto occorre</l>
+<l>Per le contrade cittadine il bianco</l>
+<l>Tuo lume al drudo vil che de gli alberghi</l>
+<l>Va radendo le mura e la secreta</l>
+<l>Ombra seguendo, e resta, e si spaura</l>
+<l>De le ardenti lucerne e de gli aperti</l>
+<l>Balconi. Infesto a le malvage menti,</l>
+<l>A me sempre benigno il tuo cospetto</l>
+<l>Sarà per queste piagge, ove non altro</l>
+<l>Che lieti colli e spaziosi campi</l>
+<l>M'apri a la vista. Ed io soleva ancora,</l>
+<l>Bench'innocente io fossi, il tuo vezzoso</l>
+<l>Raggio accusar ne gli abitati lochi,</l>
+<l>Quand'ei m'offriva al guardo umano e quando</l>
+<l>Scopriva umani aspetti al guardo mio.</l>
+<l>Or sempre loderollo, o ch'io ti miri</l>
+<l>Veleggiar tra le nubi, o che serena</l>
+<l>Dominatrice de l'etereo campo,</l>
+<l>Questa flebil riguardi umana sede.</l>
+<l>Me spesso rivedrai solingo e muto</l>
+<l>Errar pe' boschi e per le verdi rive,</l>
+<l>O seder sovra l'erbe, assai contento</l>
+<l>Se lena e core a sospirar m'avanza.</l></lg>
+</div1>
+<div1>
+<head>16. ALLA SUA DONNA.</head><note place="foot"><p>«La donna, cioè l'innamorata, dell'autore, è una di quelle immagini, uno di quei fantasmi di bellezza e virtù celeste e ineffabile, che ci occorrono spesso alla fantasia nel sonno e nella veglia, quando siamo poco più che fanciulli, e poi qualche rara volta nel sonno, o una quasi alienazione di mente, quando siamo giovani. In fine è la donna che non si trova.» <bibl><title>Nuovo Ricoglitore di Milano</title><hi rend="italic">, anno I, p.</hi> 160</bibl>.</p></note>
+	<lg><l>Cara beltà che amore</l>
+<l>Lunge m'insegni o nascondendo il viso,</l>
+<l>Fuor se nel sonno il core</l>
+<l>Ombra diva mi scuoti,</l>
+<l>O ne' campi ove splenda</l>
+<l>Più vago il giorno e di natura il riso;</l>
+<l>Forse tu l'innocente</l>
+<l>Secol beasti che da l'oro ha nome,</l>
+<l>Or leve intra la gente</l>
+<l>Anima voli? o te la sorte avara,</l>
+<l>Ch'a noi t'asconde, a gli avvenir prepara?</l></lg>
+	<lg><l>Viva mirarti omai</l>
+<l>Nulla spene m'avanza;</l>
+<l>S'allor non fosse, allor che ignudo e solo</l>
+<l>Per novo calle a peregrina stanza</l>
+<l>Verrà lo spirto mio. Già sul novello</l>
+<l>Aprir di mia giornata incerta e bruna,</l>
+<l>Te viatrice in questo arido suolo</l>
+<l>Io mi pensai. Ma non è cosa in terra</l>
+<l>Che ti somigli; e s'anco pari alcuna</l>
+<l>Ti fosse al volto, a gli atti, a la favella,</l>
+<l>Saria, così conforme, assai men bella.</l></lg>
+	<lg><l>Fra cotanto dolore</l>
+<l>Quanto a l'umana età propose il fato,</l>
+<l>Se vera e quale il mio pensier ti pinge,</l>
+<l>Alcun t'amasse in terra, a lui pur fòra</l>
+<l>Questo viver beato:</l>
+<l>E ben chiaro vegg'io siccome ancora</l>
+<l>Seguir lòda e virtù qual ne' prim'anni</l>
+<l>L'amor tuo mi farebbe. Or non aggiunse</l>
+<l>Il ciel nullo conforto a i nostri affanni;</l>
+<l>E teco la mortal vita saria</l>
+<l>Simile a quella che nel cielo indìa.</l></lg>
+	<lg><l>Per le valli, ove suona</l>
+<l>Del faticoso agricoltore il canto,</l>
+<l>Ed io seggo e mi lagno</l>
+<l>Del giovanile error che m'abbandona;</l>
+<l>E per li poggi, ov'io rimembro e piagno</l>
+<l>I perduti desiri, e la perduta</l>
+<l>Speme de' giorni miei; di te pensando,</l>
+<l>A palpitar mi sveglio. E potess'io,</l>
+<l>Nel secol tetro e in questo aer nefando,</l>
+<l>L'alta specie serbar; chè de l'imago,</l>
+<l>Poi che del ver m'è tolto, assai m'appago.</l></lg>
+	<lg><l>Se de l'eterne idee</l>
+<l>L'una se' tu, cui di sensibil forma</l>
+<l>Sdegni l'eterno senno esser vestita,</l>
+<l>E fra caduche spoglie</l>
+<l>Provar gli affanni di funerea vita;</l>
+<l>O s'altra terra ne' superni giri</l>
+<l>Fra' mondi innumerabili t'accoglie,</l>
+<l>E più vaga del Sol prossima stella</l>
+<l>T'irraggia, e più benigno etere spiri;</l>
+<l>Di qua dove son gli anni infausti e brevi,</l>
+<l>Questo d'ignoto amante inno ricevi.</l></lg>
+</div1>
+<div1>
+<head>17. AL CONTE CARLO PEPOLI.</head>
+
+	<lg><l>Questo affannoso e travagliato sonno</l>
+<l>Che noi vita nomiam, come sopporti,</l>
+<l>Pepoli mio? di che speranze il core</l>
+<l>Vai sostentando? in che pensieri, in quanto</l>
+<l>O gioconde o moleste opre dispensi</l>
+<l>L'ozio che ti lasciàr gli avi remoti,</l>
+<l>Grave retaggio e faticoso? È tutta,</l>
+<l>In ogni umano stato, ozio la vita,</l>
+<l>Se quell'oprar, quel proccurar che a degno</l>
+<l>Obbietto non intende, o che a l'intento</l>
+<l>Giunger mai non potria, ben si conviene</l>
+<l>Ozioso nomar. La schiera industre</l>
+<l>Cui franger glebe o curar piante e greggi</l>
+<l>Vede l'alba tranquilla e vede il vespro,</l>
+<l>Se oziosa dirai, da che sua vita</l>
+<l>È per campar la vita, e per se sola</l>
+<l>La vita a l'uom non ha pregio nessuno,</l>
+<l>Dritto e vero dirai. Le notti e i giorni</l>
+<l>Tragge in ozio il nocchiero; ozio il perenne</l>
+<l>Sudar ne le officine; ozio le vegghie</l>
+<l>Son de' guerrieri e 'l perigliar ne l'armi;</l>
+<l>E 'l mercatante avaro in ozio vive:</l>
+<l>Chè non a se, non ad altrui, la bella</l>
+<l>Felicità, cui solo agogna e cerca</l>
+<l>La natura mortal, veruno acquista</l>
+<l>Per cura o per sudor, vegghia o periglio.</l>
+<l>Pure a l'aspro desire onde i mortali</l>
+<l>Già sempre infin dal dì che 'l mondo nacque</l>
+<l>D'esser beati sospiraro indarno,</l>
+<l>Di medicina in loco apparecchiate</l>
+<l>Ne la vita infelice avea natura</l>
+<l>Necessità diverse, a cui non senza</l>
+<l>Opra e pensier si provvedesse, e pieno,</l>
+<l>Poi che lieto non può, corresse il giorno</l>
+<l>A l'umana famiglia; onde agitato</l>
+<l>E confuso il desio, men loco avesse</l>
+<l>Al travagliarne il cor. Così de' bruti</l>
+<l>La progenie infinita, a cui pur solo,</l>
+<l>Nè men vano che a noi, vive nel petto</l>
+<l>Desio d'esser beati; a quello intenta</l>
+<l>Che a lor vita è mestier, di noi men tristo</l>
+<l>Condur si scopre e men gravoso il tempo,</l>
+<l>Nè la lentezza accagionar de l'ore.</l>
+<l>Ma noi, che 'l viver nostro a l'altrui mano</l>
+<l>Provveder commettiamo, una più grave</l>
+<l>Necessità, cui provveder non puote</l>
+<l>Altri che noi, già senza tedio e pena</l>
+<l>Non adempiam: necessitate, io dico,</l>
+<l>Di consumar la vita: improba, invitta</l>
+<l>Necessità, cui non tesoro accolto,</l>
+<l>Non di greggi dovizia, o pingui campi,</l>
+<l>Non aula puote e non purpureo manto</l>
+<l>Sottrar l'umana prole. Or s'altri, a sdegno</l>
+<l>I vòti anni prendendo, e la superna</l>
+<l>Luce odiando, l'omicida mano,</l>
+<l>I tardi fati a prevenir condotto,</l>
+<l>In se stesso non torce; al duro morso</l>
+<l>De la brama insanabile che invano</l>
+<l>Felicità richiede, esso da tutti</l>
+<l>Lati cercando, mille inefficaci</l>
+<l>Medicine procaccia, onde quell'una</l>
+<l>Cui natura apprestò, mal si compensa.</l></lg>
+	<lg><l>Lui de le vesti e de le chiome il culto</l>
+<l>E de gli atti e de i passi, e i vani studi</l>
+<l>Di cocchi e di cavalli, e le frequenti</l>
+<l>Sale, e le piazze romorose, e gli orti</l>
+<l>E le ville e i teatri, e giochi e feste</l>
+<l>Tengon la notte e 'l giorno; a lui non parte</l>
+<l>Mai da le labbra il riso; ahi, ma nel petto,</l>
+<l>Ne l'imo petto, grave, salda, immota</l>
+<l>Come colonna adamantina, siede</l>
+<l>Noia immortale, incontro a cui non puote</l>
+<l>Vigor di giovanezza, e non la crolla</l>
+<l>Dolce parola di rosato labbro,</l>
+<l>E non lo sguardo tenero, tremante,</l>
+<l>Di due nere pupille, il caro sguardo,</l>
+<l>La più degna del ciel cosa mortale.</l></lg>
+	<lg><l>Altri, quasi a fuggir volto la trista</l>
+<l>Umana sorte, in cangiar terre e climi</l>
+<l>La età spendendo, e mari e poggi errando,</l>
+<l>Tutto l'orbe trascorre, ogni confine</l>
+<l>De gli spazi che a l'uom ne gl'infiniti</l>
+<l>Campi del Tutto la natura aperse,</l>
+<l>Peregrinando aggiunge. Ahi ahi, s'asside</l>
+<l>Su l'alte prue la negra cura, e sotto</l>
+<l>Ogni clima, ogni ciel, si chiama indarno</l>
+<l>Felicità, vive tristezza e regna.</l></lg>
+	<lg><l>Havvi chi le crudeli opre di marte</l>
+<l>Si elegge a passar l'ore, e nel fraterno</l>
+<l>Sangue la man tinge per ozio; ed havvi</l>
+<l>Chi d'altrui danni si conforta, e pensa</l>
+<l>Con far misero altrui far se men tristo,</l>
+<l>Sì che nocendo usar procaccia il tempo.</l>
+<l>E chi virtute o sapienza ed arti</l>
+<l>Perseguitando, e chi la propria gente</l>
+<l>Conculcando e l'estrane, o di remoti</l>
+<l>Lidi turbando la quiete antica</l>
+<l>Col mercatar, con l'armi e con le frodi,</l>
+<l>La destinata sua vita consuma.</l></lg>
+	<lg><l>Te più mite desio, cura più dolce</l>
+<l>Regge nel fior di gioventù, nel bello</l>
+<l>April de gli anni, altrui giocondo e primo</l>
+<l>Dono del ciel, ma grave, amaro, infesto</l>
+<l>A chi patria non ha. Te punge e move</l>
+<l>Studio del vero, e di ritrarre in carte</l>
+<l>Il bel che raro e scarso e fuggitivo</l>
+<l>Appar nel mondo, e quel che più benigna</l>
+<l>Di natura e del ciel, fecondamente</l>
+<l>A noi la vaga fantasia produce</l>
+<l>E 'l nostro proprio error. Ben mille volte</l>
+<l>Fortunato colui che la caduca</l>
+<l>Virtù del caro immaginar non perde</l>
+<l>Per volger d'anni; a cui serbare eterna</l>
+<l>La gioventù del cor diedero i fati;</l>
+<l>Che ne la ferma e ne la stanca etade,</l>
+<l>Così come solea ne l'età verde,</l>
+<l>In suo chiuso pensier natura abbella,</l>
+<l>Morte, deserto avviva. A te conceda</l>
+<l>Tanta ventura il ciel; ti faccia un tempo</l>
+<l>La favilla che 'l petto oggi ti scalda,</l>
+<l>Di poesia canuto amante. Io tutti</l>
+<l>De la prima stagione i dolci inganni</l>
+<l>Mancar già sento, e dileguar da gli occhi</l>
+<l>Le dilettose imagini, che tanto</l>
+<l>Amai, che sempre infino a l'ora estrema</l>
+<l>Mi fieno, a ricordar, bramate e piante.</l>
+<l>Or quando al tutto irrigidito e freddo</l>
+<l>Questo petto sarà, nè de gli aprichi</l>
+<l>Campi il sereno e solitario riso,</l>
+<l>Nè de gli augelli mattutini il canto</l>
+<l>Di primavera, nè per colli e piagge</l>
+<l>Sotto limpido ciel tacita luna</l>
+<l>Commoverammi il cor; quando mi fia</l>
+<l>Ogni beltate o di natura o d'arte,</l>
+<l>Fatta inanime e muta; ogni alto senso,</l>
+<l>Ogni tenero affetto, ignoto e strano;</l>
+<l>Del mio solo conforto allor mendico,</l>
+<l>Altri studi men dolci, in ch'io riponga</l>
+<l>L'ingrato avanzo de la ferrea vita,</l>
+<l>Eleggerò. L'acerbo vero, i ciechi</l>
+<l>Destini investigar de le mortali</l>
+<l>E de l'eterne cose; a che prodotta,</l>
+<l>A che d'affanni e di miserie carca</l>
+<l>L'umana stirpe; a quale ultimo intento</l>
+<l>Lei spinga il fato e la natura; a cui</l>
+<l>Tanto nostro dolor diletti o giovi:</l>
+<l>Con quali ordini e leggi a che si volva</l>
+<l>Questo arcano universo; il qual di lode</l>
+<l>Colmano i saggi, io d'ammirar son pago.</l></lg>
+	<lg><l>In questo specolar gli ozi traendo</l>
+<l>Verrò; chè conosciuto, ancor che tristo,</l>
+<l>Ha suoi diletti il vero. E se del vero</l>
+<l>Ragionando talor, fieno a le genti</l>
+<l>O mal grati i miei detti o non intesi,</l>
+<l>Non mi dorrò, chè già del tutto il vago</l>
+<l>Desio di Gloria antico in me fia spento:</l>
+<l>Vana Diva non pur, ma di Fortuna</l>
+<l>E del Fato e d'Amor, Diva più cieca.</l></lg>
+</div1>
+<div1>
+<head>18. IL RISORGIMENTO.</head>
+
+	<lg><l>Credei ch'al tutto fossero</l>
+<l>In me, sul fior de gli anni,</l>
+<l>Mancati i dolci affanni</l>
+<l>De la mia prima età:</l></lg>
+	<lg><l>I dolci affanni, i teneri</l>
+<l>Moti del cor profondo,</l>
+<l>Qualunque cosa al mondo</l>
+<l>Grato il sentir ci fa.</l></lg>
+	<lg><l>Quante querele e lagrime</l>
+<l>Sparsi nel novo stato,</l>
+<l>Quando al mio cor gelato</l>
+<l>Prima il dolor mancò!</l></lg>
+	<lg><l>Mancar gli usati palpiti,</l>
+<l>L'amor mi venne meno,</l>
+<l>E irrigidito il seno</l>
+<l>Di sospirar cessò!</l></lg>
+	<lg><l>Piansi spogliata, esanime</l>
+<l>Fatta per me la vita;</l>
+<l>La terra inaridita,</l>
+<l>Chiusa in eterno gel;</l></lg>
+	<lg><l>Deserto il dì; la tacita</l>
+<l>Notte più sola e bruna;</l>
+<l>Spenta per me la luna,</l>
+<l>Spente le stelle in ciel.</l></lg>
+	<lg><l>Pur di quel pianto origine</l>
+<l>Era l'antico affetto:</l>
+<l>Ne l'intimo del petto</l>
+<l>Ancor viveva il cor.</l></lg>
+	<lg><l>Chiedea l'usate immagini</l>
+<l>La stanca fantasia:</l>
+<l>E la tristezza mia</l>
+<l>Era dolore ancor.</l></lg>
+	<lg><l>Fra poco in me quell'ultimo</l>
+<l>Dolore anco fu spento;</l>
+<l>E di più far lamento</l>
+<l>Valor non mi restò.</l></lg>
+	<lg><l>Giacqui: insensato, attonito,</l>
+<l>Non dimandai conforto:</l>
+<l>Quasi perduto e morto,</l>
+<l>Il cor s'abbandonò.</l></lg>
+	<lg><l>Qual fui! quanto dissimile</l>
+<l>Da quel che tanto ardore,</l>
+<l>Che sì beato errore</l>
+<l>Nutrì ne l'alma un dì!</l></lg>
+	<lg><l>La rondinella vigile,</l>
+<l>A le fenestre intorno</l>
+<l>Cantando al novo giorno,</l>
+<l>Il cor non mi ferì:</l></lg>
+	<lg><l>Non a l'autunno pallido</l>
+<l>In solitaria villa,</l>
+<l>La vespertina squilla,</l>
+<l>Il fuggitivo Sol.</l></lg>
+	<lg><l>Invan brillare il vespero</l>
+<l>Vidi per muto calle;</l>
+<l>Invan sonò la valle</l>
+<l>Del flebile usignol.</l></lg>
+	<lg><l>E voi, pupille tenere,</l>
+<l>Sguardi furtivi, erranti,</l>
+<l>Voi de' gentili amanti</l>
+<l>Primo, immortale amor,</l></lg>
+	<lg><l>Ed a la mano offertami</l>
+<l>Candida ignuda mano;</l>
+<l>Foste voi pure invano</l>
+<l>Al duro mio sopor.</l></lg>
+	<lg><l>D'ogni dolcezza vedovo,</l>
+<l>Tristo; ma non turbato,</l>
+<l>Ma placido il mio stato,</l>
+<l>Il volto era seren.</l></lg>
+	<lg><l>Desiderato il termine</l>
+<l>Avrei del viver mio;</l>
+<l>Ma spento era il desio</l>
+<l>Ne lo spossato sen.</l></lg>
+	<lg><l>Qual de l'età decrepita</l>
+<l>L'avanzo ignudo e vile,</l>
+<l>Io conducea l'aprile</l>
+<l>De gli anni miei così:</l></lg>
+	<lg><l>Così quegl'ineffabili</l>
+<l>Giorni, o mio cor, traevi,</l>
+<l>Che sì fugaci e brevi</l>
+<l>Il cielo a noi sortì.</l></lg>
+	<lg><l>Chi da la grave, immemore</l>
+<l>Quiete or mi ridesta?</l>
+<l>Che virtù nova è questa,</l>
+<l>Questa che sento in me?</l></lg>
+	<lg><l>Moti soavi, immagini,</l>
+<l>Palpiti, error beato,</l>
+<l>Per sempre a voi negato</l>
+<l>Questo mio cor non è?</l></lg>
+	<lg><l>Siete pur voi quell'unica</l>
+<l>Luce de' giorni miei?</l>
+<l>Gli affetti ch'io perdei</l>
+<l>Ne la novella età?</l></lg>
+	<lg><l>Se al ciel, s'ai verdi margini,</l>
+<l>Ovunque il guardo mira,</l>
+<l>Tutto un dolor mi spira,</l>
+<l>Tutto un piacer mi dà.</l></lg>
+	<lg><l>Meco ritorna a vivere</l>
+<l>La piaggia, il bosco, il monte;</l>
+<l>Parla al mio core il fonte,</l>
+<l>Meco favella il mar.</l></lg>
+	<lg><l>Chi mi ridona il piangere</l>
+<l>Dopo cotanto obblio?</l>
+<l>E come al guardo mio</l>
+<l>Cangiato il mondo appar?</l></lg>
+	<lg><l>Forse la speme, o povero</l>
+<l>Mio cor, ti volse un riso?</l>
+<l>Ahi de la speme il viso</l>
+<l>Io non vedrò mai più.</l></lg>
+	<lg><l>Proprii mi diede i palpiti,</l>
+<l>Natura, e i dolci inganni:</l>
+<l>Sospiro in me gli affanni</l>
+<l>L'ingenita virtù;</l></lg>
+	<lg><l>Non l'estirpar: non vinsela</l>
+<l>Il fato e la sventura:</l>
+<l>Non la domò la dura</l>
+<l>Tua forza, o verità.</l></lg>
+	<lg><l>Da le mie vaghe immagini</l>
+<l>Ben so che il ver discorda:</l>
+<l>So che natura è sorda,</l>
+<l>Che miserar non sa.</l></lg>
+	<lg><l>Del nostro ben sollecita</l>
+<l>Non fu; de l'esser solo:</l>
+<l>Fuor che serbarci al duolo,</l>
+<l>Or d'altro a lei non cal.</l></lg>
+	<lg><l>So che pietà fra gli uomini</l>
+<l>Il misero non trova;</l>
+<l>Che lui, fuggendo, a prova</l>
+<l>Schernisce ogni mortal.</l></lg>
+	<lg><l>Che ignora il tristo secolo</l>
+<l>Gl'ingegni e le virtudi;</l>
+<l>Che manca a i degni studi</l>
+<l>L'ignuda gloria ancor.</l></lg>
+	<lg><l>E voi, pupille tremule,</l>
+<l>Voi, raggio sovrumano,</l>
+<l>So che splendete invano,</l>
+<l>Che in voi non brilla amor.</l></lg>
+	<lg><l>Nessuno ignoto ed intimo</l>
+<l>Affetto in voi non brilla:</l>
+<l>Non chiude una favilla</l>
+<l>Quel bianco petto in se.</l></lg>
+	<lg><l>Anzi d'altrui le tenere</l>
+<l>Cure suol porre in gioco;</l>
+<l>E d'un celeste foco</l>
+<l>Disprezzo è la mercè.</l></lg>
+	<lg><l>Pur sento in me rivivere</l>
+<l>Gl'inganni aperti e noti;</l>
+<l>E de' suoi proprii moti</l>
+<l>Si maraviglia il sen.</l></lg>
+	<lg><l>Da te, mio cor, quest'ultimo</l>
+<l>Spirto, e l'ardor natio;</l>
+<l>Ogni conforto mio,</l>
+<l>Tutto da te mi vien.</l></lg>
+	<lg><l>Mancano, il sento, a l'anima</l>
+<l>Alta, gentile e pura,</l>
+<l>La sorte, la natura,</l>
+<l>Il mondo e la beltà.</l></lg>
+	<lg><l>Ma se tu vivi, o misero,</l>
+<l>Se non concedi al fato,</l>
+<l>Non chiamerò spietato</l>
+<l>Chi lo spirar mi dà.</l></lg>
+</div1>
+<div1>
+<head>19. A SILVIA.</head>
+
+	<lg><l>Silvia, sovvienti ancora</l>
+<l>Quel tempo de la tua vita mortale,</l>
+<l>Quando beltà splendea</l>
+<l>Ne gli occhi tuoi ridenti e fuggitivi,</l>
+<l>E tu, lieta e pensosa, il limitare</l>
+<l>Di gioventù salivi?</l></lg>
+	<lg><l>Sonavan le quiete</l>
+<l>Stanze, e le vie dintorno,</l>
+<l>Al tuo perpetuo canto,</l>
+<l>Allor che a l'opre femminili intenta</l>
+<l>Sedevi, assai contenta</l>
+<l>Di quel vago avvenir che in mente avevi.</l>
+<l>Era il maggio odoroso: e tu solevi</l>
+<l>Così menare il giorno.</l></lg>
+	<lg><l>Io gli studi leggiadri</l>
+<l>Talor lasciando e le sudate carte,</l>
+<l>Ove il tempo mio primo</l>
+<l>E di me si spendea la miglior parte,</l>
+<l>D'in su i veroni del paterno ostello</l>
+<l>Porgea gli orecchi al suon de la tua voce,</l>
+<l>Ed a la man veloce</l>
+<l>Che percorrea la faticosa tela.</l>
+<l>Mirava il ciel sereno,</l>
+<l>Le vie dorate e gli orti,</l>
+<l>E quinci il mar da lungi, e quindi il monte.</l>
+<l>Lingua mortal non dice</l>
+<l>Quel ch'io sentiva in seno.</l></lg>
+	<lg><l>Che pensieri soavi,</l>
+<l>Che speranze, che cori, o Silvia mia!</l>
+<l>Quale allor ci apparia</l>
+<l>La vita umana e il fato!</l>
+<l>Quando sovviemmi di cotanta speme,</l>
+<l>Un affetto mi preme</l>
+<l>Acerbo e sconsolato,</l>
+<l>E tornami a doler di mia sventura.</l>
+<l>O natura, o natura,</l>
+<l>Perchè non rendi poi</l>
+<l>Quel che prometti allor? perchè di tanto</l>
+<l>Inganni i figli tuoi?</l></lg>
+	<lg><l>Tu pria che l'erbe inaridisse il verno,</l>
+<l>Da chiuso morbo consumata e vinta,</l>
+<l>Perivi, o tenerella. E non vedevi</l>
+<l>Il fior de gli anni tuoi;</l>
+<l>Non ti molceva il core</l>
+<l>La dolce lode or de le negre chiome,</l>
+<l>Or de gli sguardi innamorati e schivi;</l>
+<l>Nè teco le compagne a i dì festivi</l>
+<l>Ragionavan d'amore.</l></lg>
+	<lg><l>Anco peria fra poco</l>
+<l>La speranza mia dolce: a gli anni miei</l>
+<l>Anco negaro i fati</l>
+<l>La giovanezza. Ahi come,</l>
+<l>Come passata sei,</l>
+<l>Cara compagna de l'età mia nova,</l>
+<l>Mia lagrimata speme!</l>
+<l>Questo è quel mondo? questi</l>
+<l>I diletti, l'amor, l'opre, gli eventi</l>
+<l>Onde cotanto ragionammo insieme?</l>
+<l>Questa la sorte de l'umane genti?</l>
+<l>A l'apparir del vero,</l>
+<l>Tu, misera, cadesti: e con la mano</l>
+<l>La fredda morte ed una tomba ignuda</l>
+<l>Mostravi di lontano.</l></lg>
+</div1>
+<div1>
+<head>20. LE RICORDANZE.</head>
+
+	<lg><l>Vaghe stelle de l'Orsa, io non credea</l>
+<l>Tornare ancor per uso a contemplarvi</l>
+<l>Sul paterno giardino scintillanti,</l>
+<l>E ragionar con voi da le fenestre</l>
+<l>Di questo albergo ove abitai fanciullo,</l>
+<l>E de le gioie mie vidi la fine.</l>
+<l>Quante immagini un tempo, e quante fole</l>
+<l>Creommi nel pensier l'aspetto vostro</l>
+<l>E de le luci a voi compagne! allora</l>
+<l>Che, tacito, seduto in verde zolla,</l>
+<l>De la sera io solea passar gran parte</l>
+<l>Mirando il cielo, ed ascoltando il canto</l>
+<l>De la rana rimota a la campagna!</l>
+<l>E la lucciola errava appo le siepi</l>
+<l>E in su l'aiuole, susurrando al vento</l>
+<l>I viali odorati, ed i cipressi</l>
+<l>Là ne la selva; e sotto al patrio tetto</l>
+<l>Sonavan voci alterne, e le tranquille</l>
+<l>Opre de' servi. E che pensieri immensi,</l>
+<l>Che dolci sogni mi spirò la vista</l>
+<l>Di quel lontano mar, quei monti azzurri,</l>
+<l>Che di qua scopro, e che varcare un giorno</l>
+<l>Io mi pensava, arcani mondi, arcana</l>
+<l>Felicità fingendo al viver mio!</l>
+<l>Ignaro del mio fato, e quante volte</l>
+<l>Questa mia vita dolorosa e nuda</l>
+<l>Volentier con la morte avrei cangiato.</l></lg>
+	<lg><l>Nè mi diceva il cor che l'età verde</l>
+<l>Sarei dannato a consumare in questo</l>
+<l>Natio borgo selvaggio, intra una gente</l>
+<l>Zotica, vil; cui nomi strani, e spesso</l>
+<l>Argomento di riso e di trastullo,</l>
+<l>Son dottrina e saper; che m'odia e fugge,</l>
+<l>Per invidia non già, chè non mi tiene</l>
+<l>Maggior di se, ma perchè tale estima</l>
+<l>Ch'io mi tenga in cor mio, sebben di fuori</l>
+<l>A persona giammai non ne fo segno.</l>
+<l>Qui passo gli anni, abbandonato, occulto,</l>
+<l>Senz'amor, senza vita; ed aspro a forza</l>
+<l>Tra lo stuol de' malevoli divengo:</l>
+<l>Qui di pietà mi spoglio e di virtudi,</l>
+<l>E sprezzator de gli uomini mi rendo,</l>
+<l>Per la greggia ch'ho appresso: e intanto vola</l>
+<l>Il caro tempo giovanil; più caro</l>
+<l>Che la fama e l'allòr, più che la pura</l>
+<l>Luce del giorno, e lo spirar: ti perdo</l>
+<l>Senza un diletto, inutilmente, in questo</l>
+<l>Soggiorno disumano, intra gli affanni,</l>
+<l>O de l'arida vita unico fiore.</l></lg>
+	<lg><l>Viene il vento recando il suon de l'ora</l>
+<l>Da la torre del borgo. Era conforto</l>
+<l>Questo suon, mi rimembra, a le mie notti,</l>
+<l>Quando fanciullo, ne la buia stanza,</l>
+<l>Per assidui terrori io vigilava,</l>
+<l>Sospirando il mattin. Qui non è cosa</l>
+<l>Ch'io vegga o senta, onde un'immagin dentro</l>
+<l>Non torni, e un dolce sovvenir non sorga.</l>
+<l>Dolce per se; ma con dolor sottentra</l>
+<l>Il pensier del presente, un van desio</l>
+<l>Del passato, ancor tristo, e il dire: io fui.</l>
+<l>Quella loggia colà, volta a gli estremi</l>
+<l>Raggi del dì; queste dipinte mura,</l>
+<l>Quei figurati armenti, e il Sol che nasce</l>
+<l>Su romita campagna, a gli ozi miei</l>
+<l>Porser mille diletti allor che al fianco</l>
+<l>M'era, parlando, il mio possente errore</l>
+<l>Sempre, ov'io fossi. In queste sale antiche,</l>
+<l>Al chiaror de le nevi, intorno a queste</l>
+<l>Ampie fenestre sibilando il vento,</l>
+<l>Rimbombaro i sollazzi e le festose</l>
+<l>Mie voci al tempo che l'acerbo, indegno</l>
+<l>Mistero de le cose a noi si mostra</l>
+<l>Pien di dolcezza; indelibata, intera</l>
+<l>Il garzoncel, come inesperto amante,</l>
+<l>La sua vita ingannevole vagheggia,</l>
+<l>E celeste beltà fingendo ammira.</l></lg>
+	<lg><l>O speranze, speranze; ameni inganni</l>
+<l>De la mia prima età! sempre, parlando,</l>
+<l>Ritorno a voi; chè per andar di tempo,</l>
+<l>Per variar d'affetti e di pensieri,</l>
+<l>Obbliarvi non so. Fantasmi, intendo,</l>
+<l>Son la gloria e l'onor: diletti e beni</l>
+<l>Mero desio: non ha la vita un frutto;</l>
+<l>Inutile miseria. E sebben vòti</l>
+<l>Son gli anni miei, sebben deserto, oscuro</l>
+<l>Il mio stato mortal, poco mi toglie</l>
+<l>La fortuna, ben veggo. Ahi, ma qualvolta</l>
+<l>A voi ripenso, o mie speranze antiche,</l>
+<l>Ed a quel caro immaginar mio primo;</l>
+<l>Indi riguardo il viver mio sì vile</l>
+<l>E sì dolente, e che la morte è quello</l>
+<l>Che di cotanta speme oggi m'avanza;</l>
+<l>Sento serrarmi il cor, sento ch'al tutto</l>
+<l>Consolarmi non so del mio destino.</l>
+<l>E quando pur questa invocata morte</l>
+<l>Sarammi accanto, e fia venuto il fine</l>
+<l>De la sventura mia; quando la terra</l>
+<l>Mi fia straniera valle, e dal mio sguardo</l>
+<l>Fuggirà l'avvenir; di voi per certo</l>
+<l>Risovverrammi; e quella imago ancora</l>
+<l>Sospirar mi farà, farammi acerbo</l>
+<l>L'esser vissuto indarno, e la dolcezza</l>
+<l>Del dì fatal tempererà d'affanno.</l></lg>
+	<lg><l>E già nel primo giovanil tumulto</l>
+<l>Di contenti, d'angosce e di desio,</l>
+<l>Morte chiamai più volte, e lungamente</l>
+<l>Mi sedetti colà su la fontana</l>
+<l>Pensoso di cessar dentro quell'acque</l>
+<l>La speme e il dolor mio. Poscia, per cieco</l>
+<l>Malor, condotto de la vita in forse,</l>
+<l>Piansi la bella giovanezza, e il fiore</l>
+<l>De' miei poveri dì, che sì per tempo</l>
+<l>Cadeva: e spesso a l'ore tarde, assiso</l>
+<l>Sul conscio letto, dolorosamente</l>
+<l>A la fioca lucerna poetando,</l>
+<l>Lamentai co' silenzi e con la notte</l>
+<l>Il fuggitivo spirto, ed a me stesso</l>
+<l>In sul languir cantai funereo canto.</l></lg>
+	<lg><l>Chi rimembrar vi può senza sospiri,</l>
+<l>O primo tempo giovanile, o giorni</l>
+<l>Vezzosi, inenarrabili, allor quando</l>
+<l>Al rapito mortal primieramente</l>
+<l>Sorridon le donzelle; a gara intorno</l>
+<l>Ogni cosa sorride; invidia tace,</l>
+<l>Non desta ancora ovver benigna; e quasi</l>
+<l>(Inusitata meraviglia!) il mondo</l>
+<l>La destra soccorrevole gli porge,</l>
+<l>Scusa gli errori suoi, festeggia il novo</l>
+<l>Suo venir ne la vita, ed inchinando</l>
+<l>Mostra che per signor l'accolga e chiami?</l>
+<l>Fugaci giorni! a somigliar d'un lampo</l>
+<l>Son dileguati. E qual mortale ignaro</l>
+<l>Di sventura esser può, se a lui già scorsa</l>
+<l>Quella vaga stagion, se il suo buon tempo,</l>
+<l>Se giovanezza, ahi giovanezza, è spenta?</l></lg>
+	<lg><l>O Nerina! e di te forse non odo</l>
+<l>Questi luoghi parlar? caduta forse</l>
+<l>Dal mio pensier sei tu? Dove sei gita,</l>
+<l>Che qui sola di te la ricordanza</l>
+<l>Trovo, dolcezza mia? Più non ti vede</l>
+<l>Questa Terra natal: quella finestra,</l>
+<l>Ond'eri usata favellarmi, ed dove</l>
+<l>Mesto riluce de le stelle il raggio,</l>
+<l>È deserta. Ove sei, che più non odo</l>
+<l>La tua voce sonar, siccome un giorno,</l>
+<l>Quando soleva ogni lontano accento</l>
+<l>Del labbro tuo, ch'a me giungesse, il volto</l>
+<l>Scolorarmi? Altro tempo. I giorni tuoi</l>
+<l>Furo, mio dolce amor. Passasti. Ad altri</l>
+<l>Il passar per la terra oggi è sortito,</l>
+<l>E l'abitar questi odorati colli.</l>
+<l>Ma rapida passasti; e come un sogno</l>
+<l>Fu la tua vita. Ivi danzando; in fronte</l>
+<l>La gioia ti splendea, splendea ne gli occhi</l>
+<l>Quel confidente immaginar, quel lume</l>
+<l>Di gioventù, quando spegneali il fato,</l>
+<l>E giacevi. Ahi Nerina! In cor mi regna</l>
+<l>L'antico amor. Se a feste anco talvolta,</l>
+<l>Se a radunanze io movo, infra me stesso</l>
+<l>Dico: o Nerina, a radunanze, a feste</l>
+<l>Tu non ti acconci più, tu più non movi.</l>
+<l>Se torna maggio, e ramoscelli e suoni</l>
+<l>Van gli amanti recando a le fanciulle,</l>
+<l>Dico: Nerina mia, per te non torna</l>
+<l>Primavera giammai, non torna amore.</l>
+<l>Ogni giorno sereno, ogni fiorita</l>
+<l>Piaggia ch'io miro, ogni goder ch'io sento,</l>
+<l>Dico: Nerina or più non gode; i campi,</l>
+<l>L'aria non mira. Ahi tu passasti, eterno</l>
+<l>Sospiro mio: passasti: e fia compagna</l>
+<l>D'ogni mio vago immaginar, di tutti</l>
+<l>I miei teneri sensi, i tristi e cari</l>
+<l>Moti del cor, la rimembranza acerba.</l></lg>
+</div1>
+<div1>
+<head>21. CANTO NOTTURNO DI UN PASTORE VAGANTE DELL'ASIA.</head> <note place="foot"><p><quote lang="fre">Plusieurs d'entre eux <seg type="inciso">(parla di una delle nazioni erranti dell'Asia)</seg> passent la nuit assis sur une pierre à regarder la lune, et à improviser des paroles assez tristes sur des airs qui ne le sont pas moins</quote>. <bibl>Il barone di Meyendorff, <title>Voyage d'Orenbourg à Boukhara, fait en 1820</title>; appresso il <title>Giornale dei dotti</title>, 1826, <hi rend="italic">septembre, p.</hi> 518</bibl>.</p></note>
+	<lg><l>Che fai tu, luna, in ciel? dimmi, che fai,</l>
+<l>Silenziosa luna?</l>
+<l>Sorgi la sera, e vai,</l>
+<l>Contemplando i deserti; indi ti posi.</l>
+<l>Ancor non sei tu paga</l>
+<l>Di riandare i sempiterni calli?</l>
+<l>Ancor non prendi a schivo, ancor sei vaga</l>
+<l>Di mirar queste valli?</l>
+<l>Somiglia a la tua vita</l>
+<l>La vita del pastore.</l>
+<l>Sorge in sul primo albore</l>
+<l>Move la greggia oltre pel campo, e vede</l>
+<l>Greggi, fontane ed erbe;</l>
+<l>Poi stanco si riposa in su la sera:</l>
+<l>Altro pur non ispera.</l>
+<l>Dimmi, o luna: a che vale</l>
+<l>Al pastor la sua vita,</l>
+<l>La vostra vita a voi? dimmi: ove tende</l>
+<l>Questo vagar mio breve,</l>
+<l>Il tuo corso immortale?</l></lg>
+	<lg><l>Vecchierel bianco, infermo,</l>
+<l>Mezzo vestito e scalzo,</l>
+<l>Con gravissimo fascio in su le spalle,</l>
+<l>Per montagna e per valle,</l>
+<l>Per sassi acuti, ed alta rena, e fratte,</l>
+<l>Al vento, a la tempesta, e quando avvampa</l>
+<l>L'ora, e quando poi gela,</l>
+<l>Corre via, corre, anela,</l>
+<l>Varca torrenti e stagni,</l>
+<l>Cade, risorge, e più e più s'affretta,</l>
+<l>Senza posa o ristoro,</l>
+<l>Lacero, sanguinoso; infin ch'arriva</l>
+<l>Colà dove la via</l>
+<l>E dove il tanto affaticar fu volto:</l>
+<l>Abisso orrido, immenso,</l>
+<l>Ov'ei precipitando, il tutto obblia.</l>
+<l>Vergine luna, tale</l>
+<l>È la vita mortale.</l></lg>
+	<lg><l>Nasce l'uomo a fatica,</l>
+<l>Ed è rischio di morte il nascimento.</l>
+<l>Prova pena e tormento</l>
+<l>Per prima cosa; e in sul principio stesso</l>
+<l>La madre e il genitore</l>
+<l>Il prende a consolar de l'esser nato.</l>
+<l>Poi che crescendo viene,</l>
+<l>L'uno e l'altro il sostiene, e via pur sempre</l>
+<l>Con atti e con parole</l>
+<l>Studiasi fargli core,</l>
+<l>E consolarlo de l'umano stato:</l>
+<l>Altro officio più grato</l>
+<l>Non si fa da parenti a la lor prole.</l>
+<l>Ma perchè dare al sole,</l>
+<l>Perchè reggere in vita</l>
+<l>Chi poi di quella consolar convenga?</l>
+<l>Se la vita è sventura,</l>
+<l>Perchè da noi si dura?</l>
+<l>Intatta luna, tale</l>
+<l>È lo stato mortale.</l>
+<l>Ma tu mortal non sei,</l>
+<l>E forse del mio dir poco ti cale.</l></lg>
+	<lg><l>Pur tu, solinga, eterna peregrina,</l>
+<l>Che sì pensosa sei, tu forse intendi,</l>
+<l>Questo viver terreno,</l>
+<l>Il patir nostro, il sospirar, che sia;</l>
+<l>Che sia questo morir, questo supremo</l>
+<l>Scolorar del sembiante,</l>
+<l>E perir da la terra, e venir meno</l>
+<l>Ad ogni usata, amante compagnia.</l>
+<l>E tu certo comprendi</l>
+<l>Il perchè de le cose, e vedi il frutto</l>
+<l>Del mattin, de la sera,</l>
+<l>Del tacito, infinito andar del tempo.</l>
+<l>Tu sai, tu certo, a qual suo dolce amore</l>
+<l>Rida la primavera,</l>
+<l>A chi giovi l'ardore, e che procacci</l>
+<l>Il verno co' suoi ghiacci.</l>
+<l>Mille cose sai tu, mille discopri,</l>
+<l>Che son celate al semplice pastore.</l>
+<l>Spesso quand'io ti miro</l>
+<l>Star così muta in sul deserto piano,</l>
+<l>Che, in suo giro lontano, al ciel confina;</l>
+<l>Ovver con la mia greggia</l>
+<l>Seguirmi viaggiando a mano a mano;</l>
+<l>E quando miro in cielo arder le stelle;</l>
+<l>Questi pensieri in mente</l>
+<l>Vo rivolgendo, assai gran tempo, e dico:</l>
+<l>A che tante facelle?</l>
+<l>Che fa l'aria infinita, e quel profondo</l>
+<l>Infinito seren? che vuol dir questa</l>
+<l>Solitudine immensa? ed io che sono?</l>
+<l>Così meco ragiono: e de la stanza</l>
+<l>Smisurata e superba,</l>
+<l>E de l'innumerabile famiglia;</l>
+<l>Poi di tanto adoprar, di tanti moti</l>
+<l>D'ogni celeste, ogni terrena cosa,</l>
+<l>Girando senza posa,</l>
+<l>Per tornar sempre là donde son mosse;</l>
+<l>Uso alcuno, alcun frutto</l>
+<l>Indovinar non so. Ma tu per certo,</l>
+<l>Giovinetta immortal, conosci il tutto.</l>
+<l>Questo io conosco e sento,</l>
+<l>Che de gli eterni giri,</l>
+<l>Che de l'esser mio frale,</l>
+<l>Qualche bene o contento</l>
+<l>Avrà fors'altri; a me la vita è male.</l></lg>
+	<lg><l>O greggia mia che posi, oh te beata,</l>
+<l>Che la miseria tua, credo, non sai!</l>
+<l>Quanta invidia ti porto!</l>
+<l>Non sol perchè d'affanno</l>
+<l>Quasi libera vai,</l>
+<l>Ch'ogni stento, ogni danno,</l>
+<l>Ogni estremo timor subito scordi;</l>
+<l>Ma più perchè giammai tedio non provi.</l>
+<l>Quando tu siedi a l'ombra, sovra l'erbe,</l>
+<l>Tu se' queta e contenta;</l>
+<l>E gran parte de l'anno</l>
+<l>Senza noia consumi in quello stato.</l>
+<l>Ed io pur seggo sovra l'erbe, a l'ombra,</l>
+<l>E un fastidio m'ingombra</l>
+<l>La mente, ed uno spron quasi mi punge</l>
+<l>Sì che, sedendo, più che mai son lunge</l>
+<l>Da trovar pace o loco.</l>
+<l>E per nulla non bramo,</l>
+<l>E non ho fino a qui cagion di pianto.</l>
+<l>Quel che tu goda o quanto,</l>
+<l>Non so già dir; ma fortunata sei.</l>
+<l>Ed io godo ancor poco,</l>
+<l>O greggia mia, nè di ciò sol mi lagno.</l>
+<l>Se tu parlar sapessi, io chiederei:</l>
+<l>Dimmi: perchè giacendo</l>
+<l>A bell'agio, ozioso,</l>
+<l>S'appaga ogni animale;</l>
+<l>Me, s'io giaccio in riposo, il tedio assale?</l></lg>
+	<lg><l>Forse s'avess'io l'ale</l>
+<l>Da volar su le nubi,</l>
+<l>E noverar le stelle ad una ad una,</l>
+<l>O come il tuono errar di giogo in giogo,</l>
+<l>Più felice sarei, dolce mia greggia,</l>
+<l>Più felice sarei, candida luna.</l>
+<l>O forse erra dal vero,</l>
+<l>Mirando a l'altrui sorte, il mio pensiero:</l>
+<l>Forse in qual forma, in quale</l>
+<l>Stato che sia, dentro covile o cuna,</l>
+<l>È funesto a chi nasce il dì natale.</l></lg>
+</div1>
+<div1>
+<head>22. LA QUIETE DOPO LA TEMPESTA.</head>
+
+	<lg><l>Passata è la tempesta:</l>
+<l>Odo augelli far festa, e la gallina,</l>
+<l>Tornata in su la via,</l>
+<l>Che ripete il suo verso. Ecco il sereno</l>
+<l>Rompe là da ponente, a la montagna;</l>
+<l>Sgombrasi la campagna,</l>
+<l>E chiaro ne la valle il fiume appare.</l>
+<l>Ogni cor si rallegra, in ogni lato</l>
+<l>Risorge il romorio</l>
+<l>Torna il lavoro usato.</l>
+<l>L'artigiano a mirar l'umido cielo,</l>
+<l>Con l'opra in man, cantando,</l>
+<l>Fassi in su l'uscio; a prova</l>
+<l>Vien fuor la femminetta a còr de l'acqua</l>
+<l>De la novella piova;</l>
+<l>E l'erbaiuol rinnova</l>
+<l>Di sentiero in sentiero</l>
+<l>Il grido giornaliero.</l>
+<l>Ecco il Sol che ritorna, ecco sorride</l>
+<l>Per li poggi e le ville. Apre i balconi,</l>
+<l>Apre terrazzi e logge la famiglia:</l>
+<l>E, da la via corrente, odi lontano</l>
+<l>Tintinnio di sonagli; il carro stride</l>
+<l>Del passegger che il suo cammin ripiglia.</l></lg>
+	<lg><l>Si rallegra ogni core.</l>
+<l>Sì dolce sì gradita</l>
+<l>Quand'è, com'or, la vita?</l>
+<l>Quando con tanto amore</l>
+<l>L'uomo a' suoi studi intende?</l>
+<l>O torna a l'opre? o cosa nova imprende?</l>
+<l>Quando de' mali suoi men si ricorda?</l>
+<l>Piacer figlio d'affanno;</l>
+<l>Gioia vana, ch'è frutto</l>
+<l>Del passato timore, onde si scosse</l>
+<l>E paventò la morte</l>
+<l>Chi la vita abborria;</l>
+<l>Onde in lungo tormento,</l>
+<l>Fredde, tacite, smorte,</l>
+<l>Sudàr le genti e palpitàr, vedendo</l>
+<l>Mossi a le nostre offese</l>
+<l>Folgori, nembi e vento.</l></lg>
+	<lg><l>O natura cortese,</l>
+<l>Son questi i doni tuoi,</l>
+<l>Questi i diletti sono</l>
+<l>Che tu porgi a i mortali. Uscir di pena</l>
+<l>E diletto fra noi.</l>
+<l>Pene tu spargi a larga mano; il duolo</l>
+<l>Spontaneo sorge: e di piacer, quel tanto</l>
+<l>Che per mostro e miracolo talvolta</l>
+<l>Nasce d'affanno, è gran guadagno. Umana</l>
+<l>Prole degna di pianto! assai felice</l>
+<l>Se respirar ti lice</l>
+<l>D'alcun dolor, beata</l>
+<l>Se te d'ogni dolor morte risana.</l></lg>
+</div1>
+<div1>
+<head>23. IL SABATO DEL VILLAGGIO.</head>
+
+	<lg><l>La donzelletta vien da la campagna,</l>
+<l>In sul calar del sole,</l>
+<l>Col suo fascio de l'erba; e reca in mano</l>
+<l>Un mazzolin di rose e di viole,</l>
+<l>Onde, siccome suole,</l>
+<l>Ornare ella si appresta</l>
+<l>Dimani, al dì di festa, il petto e il crine.</l>
+<l>Siede con le vicine</l>
+<l>Su la scala a filar la vecchierella,</l>
+<l>Incontro là dove si perde il giorno;</l>
+<l>E novellando vien del suo buon tempo,</l>
+<l>Quando a i dì de la festa ella si ornava,</l>
+<l>Ed ancor sana e snella</l>
+<l>Solea danzar la sera intra di quei</l>
+<l>Ch'ebbe compagni de l'età più bella.</l>
+<l>Già tutta l'aria imbruna,</l>
+<l>Torna azzurro il sereno, e tornan l'ombre</l>
+<l>Giù da' colli e da' tetti,</l>
+<l>A la luce del vespro e de la luna.</l>
+<l>Or la squilla dà segno</l>
+<l>De la festa che viene;</l>
+<l>Ed a quel suon diresti</l>
+<l>Che il cor si riconforta.</l>
+<l>I fanciulli gridando</l>
+<l>Su la piazzuola in frotta,</l>
+<l>E qua e là saltando,</l>
+<l>Fanno un lieto romore:</l>
+<l>E intanto riede a la sua parca mensa,</l>
+<l>Fischiando, il zappatore,</l>
+<l>E seco pensa al dì del suo riposo.</l></lg>
+	<lg><l>Poi quando intorno è spenta ogni altra face,</l>
+<l>E tutto l'altro tace,</l>
+<l>Odi il martel picchiare, odi la sega</l>
+<l>Del legnaiuol, che veglia</l>
+<l>Ne la chiusa bottega a la lucerna,</l>
+<l>E s'affretta, e s'adopra</l>
+<l>Di fornir l'opra anzi il chiarir de l'alba.</l></lg>
+	<lg><l>Questo di sette è il più gradito giorno,</l>
+<l>Pien di speme e di gioia:</l>
+<l>Diman tristezza e noia</l>
+<l>Recheran l'ore, ed al travaglio usato</l>
+<l>Ciascuno in suo pensier farà ritorno.</l></lg>
+	<lg><l>Garzoncello scherzoso,</l>
+<l>Cotesta età fiorita</l>
+<l>È come un giorno d'allegrezza pieno,</l>
+<l>Giorno chiaro, sereno,</l>
+<l>Che precorre a la festa di tua vita.</l>
+<l>Godi, fanciullo mio; stato soave,</l>
+<l>Stagion lieta è cotesta.</l>
+<l>Altro dirti non vo'; ma la tua festa</l>
+<l>Ch'anco tardi a venir non ti sia grave.</l></lg>
+</div1></body></text></TEI.2>

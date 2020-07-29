@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Egloghe e prosa</title>
+      <author>Diomede Guidalotti</author>
+    </titleStmt>
+    <extent>65 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001521</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>La poesia pastorale nel Rinascimento</title>
+        <editor id="ed">Carrai, Stefano</editor>
+        <publisher>Antenore</publisher>
+        <pubPlace>Padova</pubPlace>
+        <date>1998</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.309 - POESIA ITALIANA. 1492-1542. Storia, descrizione, studi critici</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-09-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Francesca Cascino</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-10-20T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+
+<body>
+
+
+<div1 type="dedica" n="Dedica">
+<head>Al spectabile Baldisera Cattaneo Avunculo suo Diletto Eglogae de Diomede Guidalotto Bolognese</head>
+<p>Avrei dubitato nel publicare queste mie rozze cose e da me ne la tenera età (come tu sciai) composte, iocundissimo avunculo, a chi le seguenti egloge differenti dal stile superiore dedicar dovessi, se tu primo incontinenti occorso non mi fusti, al qual mei pastorali sermoni erano più giorni già fanno debitori come tutte l'altre mie cose. Imperò che essendo officio gratioso de benefici ricordarsi che appresso i memori d'un vecchio fato la gratia optimamente poner si suole – come dice il poeta mantoano – sono admonito al presente sforzarmi che li tanti meriti vostri verso di me non siano reputati indarno esser caduti, acciò non più depietade ne le ocelle se cognosca che ne gli omini dotati de la ragione, perché di alcune di quelle si legge che gli vecchi padri e matri quando da sé più sostenerse non vagliano col proprio collo li aiutano e si sforzano render premio de la fatica che a lloro quando piccole forno si concede impresto. Al che pensando, benché io non vaglia aggualiare la caritate de li ben facti e del tuo pientissimo padre a me non meno e di te insieme e tutti gli altri di vostra famiglia, mi sono sempre adoperato, dopoi che alla età de la adolescentia pervenni, rendervi una volta premio che se non equale di substantia almen di affetto possa alli posteriori nostri monstrar segno d'essermi recognosciuto di vostra opera pia. E perché in miglior modo non mi parve potere remunerarvi che con quello con qual più mi aveti giovato spronando sempre apalestra litteratoria, ho eletto ad te particularmentededicare la seguente operetta rusticana, pensando che non men conviene a chi scrive lo intento suo proponere lucidamente che all'opera trovare patrone quale si convenga e che il subietto li piaccia, acciò ne pigli per esserli conforme più delectatione. A quale officio credo aver pienamente satisfatto, perché se ad alcuno del tempo nostro piaceno le amene ville, le ornate atrazioni, le ben distincte piante, le maritate viti, le varie insitioni or di persiche con prugni, or di nuci con persiche (donde è il nome del nucipersico), il variare in una arbore medesima de più fatta frutti, adornar giardini di pomifere piante, spinose rose, odorifere lavande, acuti rosmarini, pallida salvia, somnolenti <pb n="186"/>
+papaveri, ridenti gigli e flexibil buxo, tu solo sei quello a cui se ne pò dare meritamente palma, al quale non poca laude sciaperà tribuire qualunque del viver nostro parte comprenda. Imperò che, se ben si pensa alle operationi umane, non è piu lieto vivere che il rusticano, temperato cioè tra l'urbano e villico: donde si legge quella prima e vera romana gente aver più fiate da lo aratro per il lictore il novo consule citato alla curia che cognobbe non solo per sua diligentia e studio giovare alla terra nel farla con più abondantia produre, ma ancora al corpo, che per tal exercitio da molte infirmitati era sublevato, per la qual cosa assai più robusti contra i nemici sempre con victoria uscirno di Roma e reportarno alle caste sue donne l'onorate spoglie con triumphante gloria. Questa fu quella etate ne la quale più nobili famiglie meritorno da le ville li sui cognomi, come li Pisoni, Fabii, Lentuli e Ciceroni; e, se vestigare si vole, non è venuto ancora il nome de la pecunia da li campi? Per le quali cagioni non è maraviglia se a Teocrito, poeta graeco, piacque più che altro le selve celebrare, se Vergilio incomminciò da li ombrosi boschi e cantò in laude de la sua Amaryllide, da quali partendo insegnò arare li fruttiferi campi, piantare le ramose arbori, governar l'utile bestiame e le diligenti ape nutrire, se Calpurnio pose ne le sue egloghe quanto magisterio ad ogni gran cosa si convenia, se 'l nostro Messer Francesco Petrarca fra l'altre sue bone cose interpose le pastorali cantilene. Taccio de scriptori che hanno composto de agricultura, infra quali sono celeberrimi Cato, Marco Varro, Columella e Palladio, da li quali, se in tanta sublimitate non fosse stato posta l'agricultura che aggiunger maggior laude non se li potesse, a tuo proposito con validi argumenti provarei la tua verissima sententia ne la quale sono tirato non per inductione, ma per prova con te insieme gustando il simplice loro e candidissimo piaccere. Quando specialmente le egloge mie subito che furno nate ti piacque nel saluberrimo sito del Bondanello mettere in atto, donde puoi con più ardire elle ebbon presumptione alquanto dimostrarse per esser state prima da voi celebrate; per la qual cosa è ragionevole che ora, avendo a uscire in publico, repiglino quel medesimo scudo che li fu cagione deponere ogni timore: tuo debito è d'acceptarle, essendoti prima di tua spontanea volontate offerto per averli mostro bon volto, acciò contra il livore usino quella diffesa che già mentre erano per nascere concetto aveano. Imperò che se io te vedrò francamente di queste pigliar protectione, acuirò lo ingegno a satisfarti meglio un'altra volta e in maggior cosa.
+</p></div1>
+
+<div1 type="introduzione">
+<head>Praeludio alle Egloge de Diomede Guidalotto</head>
+<p>Mentre che le fiammeggianti corna del formosissimo Tauro nova stagione con mirabil virtute alli animanti promettere si vede segno, fiocando <pb n="187"/>
+li medullosi sambuchi, germinando le tenere erbe ne' verdeggianti prati, ornando il dolce rosignolo con musici canti le ridenti campagne, aprendosi ne le ripe de gli humidi fossi odorifere viole e stagnando li correnti fiumi, fussemo invitati et io et certi altri compagni da la adorna primavera le novelle verdure e li tepidi soli in villa alquanto fruire, perché parato quanto era a sufficentia per più giorni, partimo da la ciptade e ragionando insieme di varie cose, e più parte amorose, secundando le ripe del picol Reno, senza alcuno increscimento del camino, giungemo alla auspicata villa di Bonconvento e rivolgendo a man dextra, lassando il fiume a tergo, d'indi a poca ora se ci scoperse la serenissima casa alla quale pervenire partendo ci proponemo. Quivi non meno del salubre sito dil loco chiamato Bondanello refocillati, che da frugalissimi cibi, incomminciammo passeggiando a contemplare lo amenissimo loco dove a Diana e alle caste sorelle abitation più degna non certo si converria, veduta la proportione de le case, stabuli e columbarie da la erbosa ripa de una limpidissima piscina che a canto alla casa, quale in mezzo de un quadro de cavi fossi circondato se trova, provocati a sedere ci posemo, dove per longo spatio a vagheggiare li varii pesci che in quella squillare or sotto or sopra acqua si vediano, pigliamo assai piaccere. Ma in mentre a tale exercitio eramo intenti, or nominando il candido cavedano, or la dorata tinca, la lubrica anguilla, il mordente lucio, la sopressa scardovella e la pungente spinella, da uno pomifero giardino che al rincontro de nostri occhi al confine de l'altra ripa era sito, fussemo invitati lasciare la vitrea imagine de l'acque, da la quale partiti lo ornato loco in varie foggie entramo dove, or cogliendo vergognose rose, or fiori de mille distinti colori, ora odorifera menta, or sparta pimpinella e casposa lactuca, ci sbigottite uno anxio lavoratore che a noi alquanto discosto facea segno e con la mano e con il capo quanto con la voce che verso lui ne andassemo, al quale per mostrare che in dispregio non lo avessimo, tutti di compagnia a braccio a braccio ne venimo e adimandatolo de la cagione del suo chiamare ci dixe che nel lavorare quasi tra ' piedi uno inclinato lepore se gli era levato e l'avea visto reponere non molto di longi, per la qual cagione ce chiamava che con li cani ad se venissemo, reputando non poco piaccere a tutti fare se ci mostrasse il loco dove si era allustrato quello. Piacque alli compagni mandare uno che veloce con li levrieri ad noi ritornasse per fare prova qual di loro avanzasse, perché altre volte era tra nui già stato contentione qual più veloce fusse de li corridori: così mandato e retornato il messo et inviati con il zappatore circondamo il cespo dove lui il lepore ponersi ci affirmava aver veduto, e apropinquandosi un de li nostri al cubile subito levar lo fece, perché ciascuno il suo cane che al laccio tenia gli lassò drieto e seguitando la caccia con inanimar li levrieri, non ci avedendo molto da la abitatione ce discostamo, insino <pb n="188"/>
+che in un prato di leggiadri fiori dipinto pervenuti, scorsemo da longo certi pastori che con nodosi bastoni factosi incontro alli veloci cani che già il lepore per aboccarlo giunto avevano, con gran bastonate li discacciavano; di che maravigliati, nui con accelerato passo li affrontamo per sciapere la cagione del perturbarci la nostra caccia. Perché acortosene un saggio pastore, che de più onorati ci parve, comminciò così verso di nui mansuetamente a dire: “Non ve admirate, diligenti cacciatori, se vostra preda oggi in questi prati quasi de le mani vi sia levata, che non per oltraggio o ingiuriarve a cciò ci posemo, ma perché non sia impedita la cantilena de dui pastori novamente da Arcadia mandata, che collà in su la fresca erba per recitarla vedete apparecchiati, da li quali abbiamo per comandamento ogni poco strepito de quinci removere: per la qual cosa non ve aggrevi lo occorso caso. Perché ad ogni vostro piaccere io con le mie reti me offerrisco in poco d'ora un paro di quelli arrecare”. Piacque a tutti la mansueta excusatione del vecchio pastore, dal quale infiammati de odire li lor canti chiedessimo di gratia essere introdutti al novo spetaculo: di che allegratosi tutto in faccia il canuto vecchiarello e prendendoci per mano ce accostò al loco dove era parata la loro reccitatione, dove, posti a sedere fra tutti, una qualche parte de la querula canzone che in tal modo processe ce possemo a mente.
+</p></div1>
+
+    <div1 type="parte" n="Florindo et Alphesibeo">
+
+<stage>Interlocutori Florindo et Alphesibeo</stage>
+
+
+<sp><speaker>Alph.</speaker><l>Che fai Florindo mio pensoso e solo?</l>
+<l>A che lassi ir disperso il bianco armento?</l>
+<l>Come ti lassi sì vincere al duolo?</l>
+<l>Io t'ho già fra nui visto il più contento,</l>
+<l>e tenere ogni villa in gioco e in festa:</l>
+<l>or non scio chi di te sia più scontento.</l>
+<l>Pasci tua vita lacrimosa e mesta</l>
+<l>per questi colli e in questa selva ombrosa</l>
+<l>dove fanno le belve ognior tempesta.</l>
+<l>Qual causa a questo ti è fastidiosa?</l>
+<l>Chi ti induce di strane erbe a cibarti</l>
+<l>né più curare al mondo alcuna cosa?</l>
+</sp>
+<sp><speaker>Flo.</speaker><l>Siedi qui a llato, che inanzi parti</l>
+<l>vedrai se viver causa ho di suspiri,</l>
+<l>che alcuna pena mia non scio negarti.</l>
+</sp>
+<sp><speaker>Al.</speaker><l>Lice che io sia participe ai martiri,</l>
+<l>puoi che quando già fusti allegro e in zioia</l>
+<l>sempre alla parte fui de tui desiri.</l>
+</sp>
+<sp><speaker>Flo.</speaker><l>Esserti scio mio mal, fratello, a noia,</l>
+<l><pb n="189"/>
+però di appaleggiarti io non mi curo</l>
+<l>la pena che cagione ora è che io moia.</l>
+<l>E perché io scio parlar teco sicuro,</l>
+<l>sfogarò in parte ancora il mio dolore</l>
+<l>e consiglio darai forse al futuro.</l>
+<l>Quando di primavera ogni bel fiore</l>
+<l>si vede lampeggiar ne l'erba fresca</l>
+<l>che da ogni lato ne riesce odore,</l>
+<l>cercavo alor, pastor, dove riesca</l>
+<l>di acqua rampollo alcun, che allo infelice</l>
+<l>armento mio diminuito cresca.</l>
+<l>Alor, come dicesti, ero felice;</l>
+<l>alor mi era concesso il festeggiare:</l>
+<l>ora ogni affanno di albergare mi lice,</l>
+<l>che quel che oggi i mortai chiamano amare</l>
+<l>tanto da ogni piacer mi ha dispartito</l>
+<l>che io non spero mai più ben retrovare.</l>
+<l>Un mio capretto a caso era smarrito,</l>
+<l>che io me alevavo come donna un figlio,</l>
+<l>onde a cercar mi puosi ove el fusse ito.</l>
+<l>Questo sol fu cagion del mio periglio,</l>
+<l>che, mentre avevo lui perder sospetto,</l>
+<l>persi ancor la ragione e il mio consiglio.</l>
+<l>Una nimpha leggiadra, un dolce aspetto,</l>
+<l>un viso sopra ogni altro umano adorno, </l>
+<l>me furor libertate a mio dispetto,</l>
+<l>che, mentre discorrendo andavo intorno</l>
+<l>per ritrovar il mio gioco e trastullo,</l>
+<l>d'ambo dui gli occhi noi si riscontrorno</l>
+<l>e, o perché sia proclive ogni fanciullo</l>
+<l>ad amare, o che il ciel così volessi,</l>
+<l>da quel che prima fui mi feci nullo.</l>
+<l>I sguardi, i dolci risi e i suspiri spessi</l>
+<l>che dimostravon pure affectione</l>
+<l>mi sforzor che in sua man l'anima dessi.</l>
+<l>Ma qual suolsi allescar pesce al boccone</l>
+<l>così me prese ancor quella rapace,</l>
+<l>che sempre dato puoi mi ha passione.</l>
+<l>La libertà, la mia tranquilla pace,</l>
+<l>l'armento, il gregge ha seco e ogni negotio,</l>
+<l>tanto che senza lei viver mi spiace.</l>
+<l>Più fruirte non posso, antico sotio:</l>
+<l><pb n="190"/>
+perdonami, così vòl la mia sorte</l>
+<l>che or mi constringe amar pigritia e l'otio.</l>
+<l>Recuso vita e non mi piace morte,</l>
+<l>moio e di novo ancor lasso la tomba,</l>
+<l>tanto è l'amara mia disgratia forte.</l>
+<l>Amor mi è inanzi, e la victrice tromba</l>
+<l>suona come il mio mal gli sia tropheo</l>
+<l>e dardi sempre al cor mi lancia e fromba.</l>
+<l>Questo è il mio stato infortunato e reo,</l>
+<l>questo è il solazzo sol, questo è il piacere</l>
+<l>che mi è rimasto, o caro Alphesibeo.</l>
+<l>E quella ingrata non mi vòl vedere,</l>
+<l>spregia i mei prieghi, mi discaccia e sgrida</l>
+<l>come il lupo al pastor suol dispiaccere.</l>
+<l>E perche più la passion mi occida</l>
+<l>Glauco acarezza in mia presentia e tocca,</l>
+<l>ride, scherza, e con lui spesso se annida,</l>
+<l>e si lasciò l'altro ieri uscir di bocca</l>
+<l>che lui già del suo amore ha colto frutto, </l>
+<l>né che me acceda mai serà sì sciocca.</l>
+<l>Così perduta ho la speranza in tutto,</l>
+<l>né mi posso ritrare in libertade,</l>
+<l>che seria ne lo affanno assai construtto.</l>
+<l>Pensa tu, Alphesibeo, la crudeltade,</l>
+<l>il torto che mi è usato acerbo e grave,</l>
+<l>se regna in petto tuo qualche pietate.</l>
+<l>Io vo disperso qual percossa nave</l>
+<l>da terribili venti in alcun scoglio,</l>
+<l>che non dura di amante aura suave;</l>
+<l>né mai la nocte per dormir mi spoglio:</l>
+<l>questa è l'acerba e mia misera vita,</l>
+<l>questo è ch'io non son più quel ch'esser soglio.</l>
+</sp>
+<sp><speaker>Alph.</speaker><l>Il tuo dolore a llachrimar me invita,</l>
+<l>Florindo dolce mio, come chi ti ama.</l>
+<l>Sola ogni cosa la pacientia aita.</l>
+<l>Io scio ben come adviene a qualunque ama,</l>
+<l>e come in van pensier spesso si trova,</l>
+<l>cogita, teme, spera, ardisce e brama.</l>
+<l>Pur non di meno el disperar non giova:</l>
+<l>fa' che un altro pensiero in te destille,</l>
+<l>che ciascun de gli affanni amando prova.</l>
+<l>Se lei ti sdegnarà, n'averai mille:</l>
+<l><pb n="191"/>
+alle vacche ne vo che qua giù pascano;</l>
+<l>vedi i colmi fumar già de le ville,</l>
+<l>e d'alti monti le grandi ombre cascano.</l>
+</sp>
+
+
+<p>Non fu men grato a tutti la rapresentata cantilena odire che le accoglienze che dai pastor dintorno ci furon fatte, da li quali invitati amorevolmente allo ospitio, perché già de la tenebra notte li striduli grilli e la lucida stella, chiamata ora da poeti vespero, ora noctifera, ce admonevano, parve alli compagni, per non sciapere ancora ben la via da ritornare a casa, acceptare lo instante invito. Così inviati allo arundineo tugurio, con tante amorevolezze fussemo introdutti quante non che a principi, ma alli dei seriano state a bastanza. Quivi apparecchiata una cena rusticana di crespe lactuche, fluviatili pesci, mordenti scalogne, spicati agli, uve passe e parte secche, granellosi fichi, scorticate castagne, colorite poma et altri sue vivande ce ordinorno ad una capacissima tavola, dove tra cibi ragionando del passato giorno e del piaccer che dato ci aveano ringraciandoli, venimo al fine de la simplice cena, da la qual levati ne le camare loro che ordinato aveano e di fiori e de odorifere erbe a posarci menorno, accorti che il giorno la longa corsa stracchi ne aveva. Così posti a dormire, sino all'altra mattina non prima ci sentimo che uno de li pastori ce risvegliasse da lo accecato sonno, qual ne la camera per certe zappe non accorto di noi era venuto, di che levatoci suso, apena del letto eramo usciti, che con rapreso lacte le tavole forno
+ingombrate. E benché avessimo dato ordine di partire, fu necessario che con essi desinare li compiacessemo, al che contradire senza loro sdegno non si potea. Desinato non prima levar da tavola ci videno, che uno de li pastori dixe per nostro refrigerio una rurale cantilena averci preparato, di che tutti insieme pregava udirla benignamente come la già passata: al che noi,
+più che elli volontarosi, in certo ombroso prato condotti ne la scorza de un lucido ceraso mentre cantorno scrissemo le parole in questo modo:</p></div1>
+    <div1 type="parte" n="Corydo Moelibeo e Tyrse">
+<stage>Interlocutori Corydo Moelibeo e Tyrse</stage>
+
+
+<sp><speaker>Cor.</speaker><l>Non scio qual gratie degne, o summo Giove,</l>
+<l>ti possa referire e a gli altri dei,</l>
+<l>quando penso al mio ben che da vui piove.</l>
+<l>Per vui lo ignavo nome de plebei</l>
+<l>fugo, per vui me lice esser beato,</l>
+<l>che invano affaticato io mi serei.</l>
+<l>Perché il vostro favor mi ha ristorato,</l>
+<l>felice vivo, e indarno si affatica</l>
+<l>chi contro ha la fortuna il ciel e fato.</l>
+<l><pb n="192"/>
+Quella è verso di me benigna e amica,</l>
+<l>tanto che imaginar non scio pastore</l>
+<l>che più di me felice alcun si dica.</l>
+<l>Se di pompa, richezza, amici e onore</l>
+<l>assai me ne contento, e più che in pace</l>
+<l>vivo contento e con allegro core,</l>
+<l>seguito sol quanto al disio mi piace;</l>
+<l>rapreso ho il bianco lacte e state e verno</l>
+<l>e molto ho più che la mia lingua tace,</l>
+<l>sì che quanto per me veggio e discerno</l>
+<l>ogni nostra stagione è di fortuna</l>
+<l>che non lassa durare un male eterno.</l>
+<l>E benché mobil sia ciò che alla luna</l>
+<l>si vede sottoposto e agli elementi,</l>
+<l>né sia stabil qua giù potentia alcuna,</l>
+<l>pur bella cosa è aver gli anni contenti,</l>
+<l>e viver senza noia, affanno e pianto,</l>
+<l>privo d'ogni molestia e fuor di stenti.</l>
+<l>Io fuor d'altri pensieri all'ombra canto</l>
+<l>dil giorno, insin che volto all'occidente</l>
+<l>al mondo cela Phebo il lume santo.</l>
+<l>Sempre lieta e tranquilla è la mia mente</l>
+<l>così potessi tal beatitudine</l>
+<l>narrare ad alcuno altro apertamente.</l>
+<l>Ma ecco a Moelibeo gran moltitudine</l>
+<l>di capre inanzi, e vien nostre erbe a pascere</l>
+<l>che già fu d'ambo dui consuetudine.</l>
+<l>Più a tempo qui già non poteva nascere:</l>
+<l>or discoprir potrò quel che ho nel petto,</l>
+<l>pur che non voglia de la indugia a irascere.</l>
+<l>Ahimé, tutto turbato è ne lo aspetto:</l>
+<l>che vòl dir questo, oh che strana sciagura</l>
+<l>viene a impedirmi tanto mio diletto?</l>
+<l>Pastor, dimmi, ove vai, dove è tua cura?</l>
+<l>Che cosa è che ti attrista e tien suspeso?</l>
+<l>Di alcun grave infortunio ho gran paura.</l>
+<l>Deh, levami da dosso un tanto peso,</l>
+<l>che a vederti affannato, afflicto e mesto</l>
+<l>son de immensa pietade al core offeso.</l>
+</sp>
+<sp><speaker>Mel.</speaker><l>Pastor, io vado a me medesmo infesto:</l>
+<l>perso ho due agne bianche e le più belle,</l>
+<l>e i campi per trovarle invan calpesto.</l>
+<l><pb n="193"/>
+Dipartite si son dal gregge quelle</l>
+<l>senza esser viste e forse in quelche bosco</l>
+<l>sole errando lassato avran la pelle.</l>
+<l>Ma perché, agricoltor, non ti cognosco,</l>
+<l>vorrei teco impetrare oggi una gratia,</l>
+<l>che io non scio se più sei briton che tosco.</l>
+<l>Ti contentasti far mia voglia satia</l>
+<l>come il nome tuo sia, di che abitaculo,</l>
+<l>o se tua stirpe fu di gente latia.</l>
+<l>Così del mio martir serai vitaculo,</l>
+<l>che vedi quanto umore agli occhi abonda:</l>
+<l>se non mi aiuti tu, serà miraculo.</l>
+</sp>
+<sp><speaker>Cor.</speaker><l>Forza è che a tue preghieri io non mi asconda;</l>
+<l>servate ho l'agne tue, non dubitare:</l>
+<l>posa qui apresso me vicino all'onda.</l>
+<l>Sedendo meglio assai si pò ascoltare:</l>
+<l>siedi propinquo a un tuo diletto amico, </l>
+<l>che forse io ti farò maravigliare,</l>
+<l>e nota quanto io ti revello e dico</l>
+<l>che, benché abbia cangiato il volto e i panni,</l>
+<l>sono il tuo Coridon fratello antico,</l>
+<l>quel che teco solea ne' sui primi anni</l>
+<l>pascer le capre qui fra l'erbe tenere,</l>
+<l>involto nel passato in gravi affanni,</l>
+<l>non per lacci o piaccer stolti di Venere,</l>
+<l>ma perché il tutto piacque a' nostri superi,</l>
+<l>che posson di nui far polvere e cenere;</l>
+<l>né licito è a verun che gli vituperi,</l>
+<l>perché ben scianno lor quel che gli ordiscano</l>
+<l>senza che tal fatica altro recuperi.</l>
+<l>Quanti in un grave error, quanti periscano</l>
+<l>non credendo governo aver dal cielo,</l>
+<l>che privi del veder questo patiscano.</l>
+<l>Credi che vero è in nui, né il stimar scelo,</l>
+<l>esser disposto ogniuno al suo pianeta</l>
+<l>come l'alma se investe al mortal velo.</l>
+<l>Io ti cognosco persona discreta</l>
+<l>e scio che tu comprendi ogni ragione,</l>
+<l>benché la lingua mia resti qui queta.</l>
+</sp>
+<sp><speaker>Mel.</speaker><l>Deh mutami, pastor, muta sermone,</l>
+<l>che io non comprendo senso in questo dire,</l>
+<l>ma tutto resto pien di admiratione.</l>
+<l><pb n="194"/>
+È mi parve da te dinanzi udire</l>
+<l>ricordar Corydon, un mio carissimo,</l>
+<l>per il qual mi seria grato il morire.</l>
+<l>E perché tu mi appari uom clementissimo,</l>
+<l>vorrei sciaper se sciai dove sia lui,</l>
+<l>che mi fu un tempo già caro amicissimo.</l>
+</sp>
+<sp><speaker>Cor.</speaker><l>Congionti, o Melibeo, siamo ambodui,</l>
+<l>che Corydon è quel che teco parla:</l>
+<l>crudel fortuna il separò da vui.</l>
+</sp>
+<sp><speaker>Mel.</speaker><l>Io ho ben donque da ringratiarla</l>
+<l>puoi che mi ha dato un tanto benefitio,</l>
+<l>né con qual modo scio remeritarla.</l>
+<l>Lodo lo immenso dio che io t'ho propitio</l>
+<l>e resta il core ormai lieto e contento,</l>
+<l>che già pigliò nel tuo partir supplitio.</l>
+<l>Non creder che lo amor grande sia spento,</l>
+<l>ma dimmi un poco ogni tuo caso adverso,</l>
+<l>come hai mutato in bono il tristo vento.</l>
+<l>Io ti lassai mendico, errante e sperso:</l>
+<l>or mutate hai le spoglie e povertade</l>
+<l>ne la qual più che alcuno eri summerso.</l>
+</sp>
+<sp><speaker>Cor.</speaker><l>Ascolta, Melibeo, che per pietade</l>
+<l>vedrai spezarsi i sassi e firmar l'acque</l>
+<l>se io raconto ogni mia calamitade.</l>
+<l>Inanzi per provare assai mi piacque</l>
+<l>tentar se in modo alcun mi figuravi</l>
+<l>quando principio al nostro parlar nacque.</l>
+<l>Ma puoi che al tutto vidi che tu erravi,</l>
+<l>non ti volsi tenere in su la corda:</l>
+<l>ora ascolta mie pene e martir gravi.</l>
+<l>Quando morte crudele, acerba e ingorda</l>
+<l>mi privò del mio padre e ciascun bene,</l>
+<l>se in parte, Melibeo, te ne ricorda,</l>
+<l>d'ogni salute mia persi la spene,</l>
+<l>che per me non restava altra speranza,</l>
+<l>come a chi resta senza guida adviene.</l>
+<l>Non ero da consiglio o da possanza </l>
+<l>né da mei più congiunti avevo auxilio</l>
+<l>a governar l'armento che mi avanza,</l>
+<l>onde forza mi fu gire in exilio,</l>
+<l>che rispetto non si ebbe a pueritia</l>
+<l>né che in loco restavo allor di filio.</l>
+<l><pb n="195"/>
+Ragion per me si perse e la giustitia;</l>
+<l>garzon senza governo io restai solo:</l>
+<l>pensa con quale affanno e qual tristitia.</l>
+<l>Altro puoi più di me ne prese duolo,</l>
+<l>che mi ha del proprio albergo facto parte</l>
+<l>e nutricato come un suo figliolo</l>
+<l>con tanto amor, con tanto ingegno et arte,</l>
+<l>che quando col giudicio integro penso</l>
+<l>la voce intenerita ognior diparte.</l>
+<l>Avrei da fargli don di mirra e incenso</l>
+<l>come a satiro, fauno o semideo,</l>
+<l>anzi pur come a Giove il nostro immenso.</l>
+<l>Lui mi insegnò la via dil gran Museo</l>
+<l>et altrove allocò l'armento inutile,</l>
+<l>causa che or ti riveggia, o Melibeo.</l>
+<l>Io scio ben quanto lui mi sia stato utile,</l>
+<l>né ti sciaprò già sua bontà descrivere,</l>
+<l>ma pur non restarà la lingua mutile.</l>
+<l>Questa è la vera via del retto vivere:</l>
+<l>in lui giustitia ogni virtù si accoppia,</l>
+<l>a llui si pò quanto è di bene ascrivere.</l>
+<l>Certo a divinità molto si approppia,</l>
+<l>che altramente non scio fra me comprendere</l>
+<l>se non data dal cielo a nui tal coppia.</l>
+<l>Ver testimonio a te ne posso rendere,</l>
+<l>che cognosciuto l'ho per molta pratica,</l>
+<l>e tu il potrai volendo ancora intendere.</l>
+<l>Chi cercasse la Scythia e la terra atica</l>
+<l>non trovarebbe a questo un altro pari,</l>
+<l>bench'egli abiti qui tra via selvatica.</l>
+<l>Nove cose da lui sempre tu impari,</l>
+<l>e se advien che si prieghi, ogni omo ascolta,</l>
+<l>né in periglio abandona i soi più cari.</l>
+<l>Ma la gran fama sua non è sepolta,</l>
+<l>che l'opre tante sue degne e leggiadre</l>
+<l>devota questa villa hanno aollui volta.</l>
+<l>A me sempre si è mostro un altro padre</l>
+<l>e mi ha concesso de lo armento il sceptro</l>
+<l>che non ho a mio governo io poche squadre.</l>
+<l>Così permesso mi ha movere il plectro</l>
+<l>e far quanto mi piace in uno instante,</l>
+<l>cogliere or fiori, or mele, or chiaro electro.</l>
+<l><pb n="196"/>
+Surgon da questo ramo anco altre piante</l>
+<l>de le quali io non fo già minor stima,</l>
+<l>anzi grate mi son, preciose e sante.</l>
+<l>Di qui procede il mio parlar di prima</l>
+<l>che io mossi di fortuna e fati teco:</l>
+<l>chi profunda per lor, chi ascende in cima.</l>
+<l>Ma alluminato sono e non più ceco,</l>
+<l>o sacro nume, che mia vita guidi:</l>
+<l>sempre fixo nel cor t'averò meco.</l>
+<l>Concesso mi ha l'albergo ove io mi annidi,</l>
+<l>tanto che la mia vita è pur beata,</l>
+<l>fuor d'affanni, tumulti e fuor di gridi.</l>
+</sp>
+<sp><speaker>Mel.</speaker><l>Una doppia allegrezza al cor mi è nata,</l>
+<l>e certo extimo questo un novo idio,</l>
+<l>o un'alma in terra giù glorificata,</l>
+<l>se il predetto vero è, Corydon mio.</l>
+</sp>
+<sp><speaker>Cor.</speaker><l>Questo a quel che io potrei narrarti è un gerro,</l>
+<l>e di fartelo udire ho gran disio,</l>
+<l>perché tu intenda ben se in laudarlo erro.</l>
+<l>Ma ecco Tyrse là come sollecita:</l>
+<l>vedilo a mira qui di questo cerro.</l>
+</sp>
+<sp><speaker>Mel.</speaker><l>Tyrse, odi quel che Corydon mi recita:</l>
+<l>voglio che con nui vegni e non mi nieghi,</l>
+<l>che non si pò negar mai cosa lecita.</l>
+</sp>
+<sp><speaker>Thy.</speaker><l>Io son contento a' vostri onesti prieghi</l>
+<l>satisfare e obedirvi ho gran piacere,</l>
+<l>che licito è che a tale opra mi pieghi.</l>
+</sp>
+<sp><speaker>Mel.</speaker><l>Aspettami con lui, Tyrse, a sedere,</l>
+<l>che provar voglio da lo errante gregge</l>
+<l>meco due tenerette agnelle avere.</l>
+</sp>
+<sp><speaker>Thy.</speaker><l>È di offerire a llui tal cose legge?</l>
+</sp>
+<sp><speaker>Mel.</speaker><l>No, no, resta pur tu, chiama Iacyntho,</l>
+<l>se vòl veder chi la giustitia regge.</l>
+</sp>
+<sp><speaker>Thy.</speaker><l>Ma aspetta, che fai tu? Ci manca il quinto.</l>
+</sp>
+<sp><speaker>Mel.</speaker><l part="I">Perché?  </l>
+</sp>
+<sp><speaker>Thy.</speaker><l part="F">Perché allo impari Idio si allegra.</l>
+</sp>
+<sp><speaker>Mel.</speaker><l>Chiama Daphnide, Egone, o vogli Absyntho.</l>
+</sp>
+<sp><speaker>Thy.</speaker><l>Ben sciai che sì, che sia la cosa integra.</l>
+</sp>
+<sp><speaker>Mel.</speaker><l>Or su, raccolte ho qui le mie vivande:</l>
+<l>andiamo, esser non diè sancta opra pegra.</l>
+</sp>
+<sp><speaker>Thy.</speaker><l>Guarda che il latte, Melibeo, si spande.</l>
+</sp>
+<sp><speaker>Mel.</speaker><l>Lassa pur quel ch'è sparto, io lo ricovero:</l>
+<l><pb n="197"/>
+divitia assai maggior n'ho che di ghiande.</l>
+<l>Or su, surgete ormai di sotto al rovero,</l>
+<l>che io renda al nume tuo la sacra victima:</l>
+<l>scio che excuso mi avrà se il dono è povero.</l>
+<l>Di non tardare è tal causa legiptima:</l>
+<l>vedi che Febo è già presso allo albergo.</l>
+<l>Va tu innanzi allo altare ove si victima,</l>
+<l>che tutti nui ti seguiremo a tergo.</l>
+</sp>
+
+
+<p>Fu in modo grata a ciascuno la piaccevole interlocutione de le accommode introdutte persone, che certi de li nostri compagni, quantunque tra nui se fosse deliberato tornare a casa, da se stessi se invitorno ad albergare con essi pastori e con conditione però che il giorno seguente nova contentione li fusse promesso, perché li pastori, desiderosi satisfarci secondo il loro costume, ne onororno al suo potere et albergatoci insino alla mattina ordinorno per il dì seguente trovar materia da provocarci a riso e non prima la candida aurora invitatrice de l'opere umane a lloro si discoperse che certi soi fanciulli diviseno in più parti che avessino a reportare chi cornute limache, chi inalbicanti funghi, chi tenerelle mandolette e quali fiori de tempestiva sambuco a fritellete destinati, de le quali cose apparecchiatoci un rusticano desinare con nui per gran pezzo a motteggiare si miseno insino che tempo li parve a menare gli animi nostri con la syracusana sampogna. Perché pigliatoci a braccio al consueto loco ci condussero, dove d'accordo noi la parte de ciascuna persona diligentemente notando in questo modo ne reportassemo.</p>
+    </div1>
+    <div1 type="parte" n="Menalcha Lycida e Thyrse">
+
+<stage>Interlocutori Menalcha Lycida e Thyrse</stage>
+
+<sp><speaker>Ly.</speaker><l>Più volte minacciato ha farmi correre</l>
+<l>Menalcha retrovando le mie capere</l>
+<l>fra le tenere erbette sue transcorrere,</l>
+<l>e detto di voler l'armento rapere.</l>
+<l>Non scio per che cagion sì mi abbia in odio,</l>
+<l>che i sui pascoli a me sol vieti capere.</l>
+<l>Volontier lassarei questo custodio</l>
+<l>per non avere ogni giorno a contendere,</l>
+<l>che con pastori il contrastare inodio.</l>
+<l>Pur via bisogna da cibarle prendere,</l>
+<l>se fuggir dil signor voglio la furia:</l>
+<l>non è poi chi mi voglia alcun deffendere.</l>
+<l>Che deggio far? S'el smagra, è per incuria</l>
+<l>mia, se 'l satollo qui, Menalcha scoppia</l>
+<l><pb n="198"/>
+se vendetta non fa di questa ingiuria.</l>
+<l>Non ho di bene in parte alcuna coppia</l>
+<l>e di che a miglior erbe io possa fuggere:</l>
+<l>più del balsamo assai ne abbiamo inoppia.</l>
+<l>A occhiata veggio i mei greggi destruggere</l>
+<l>se in altro loco un mezzo dì dimorano</l>
+<l>e stanno insieme sol belando a ruggere.</l>
+<l>Io mi starò pur qui, poi che lavorano</l>
+<l>Menalcha e suoi là su per quelle grottole:</l>
+<l>non voglio che le mie di fame morano.</l>
+<l>Io non stimo una frasca queste noctole</l>
+<l>e per mostrarli ben che io non scio temere</l>
+<l>dirò ne la zampogna alquante frottole,</l>
+<l>pur che io mi accorga che mi voglia premere:</l>
+<l>forse cognoscerà che un pastor povero</l>
+<l>è de le ingiurie reccevute memore.</l>
+<l>Per tanto io poserò sotto a quel rovero</l>
+<l>e questa mia zampogna io farò stridere,</l>
+<l>che in tasca come argento io la ricovero,</l>
+<l>e starò in sul veder, però che ridere</l>
+<l>non facessi qualche un preso alla trapola:</l>
+<l>par che sia sempre chi del mal desidere.</l>
+</sp>
+<sp><speaker>Me.</speaker><l>Se Lycida di mano ora ci scapola</l>
+<l>me stesso voglio a qualche ramo apendere;</l>
+<l>ma il scotto pagarà se al laccio incapola.</l>
+<l>Mai giovato non mi è costui riprendere</l>
+<l>e le mie grida al vento si consumano:</l>
+<l>altra via certo mi bisogna prendere.</l>
+<l>I servi sempre ogni cosa presumano</l>
+<l>e calcar ce vorrian come la polvere,</l>
+<l>ne stiman dio quando avinati fumano.</l>
+<l>Mai da' lor vezzi non si posson volvere,</l>
+<l>né facilmente scian mutar proposito:</l>
+<l>costui forse potria la pena solvere.</l>
+<l>E in ogni modo l'animo ho disposito</l>
+<l>di castigarlo del tempo preterito,</l>
+<l>che sempre a ogni mio facto io l'ebbi opposito.</l>
+<l>Questo de benefici è sempre il merito,</l>
+<l>che con ingratitudine si munera</l>
+<l>il bene che più volte ha grande interito.</l>
+<l>Queste di mia fatica or son le munera,</l>
+<l>che sian rotte le biade e l'erbe tenere:</l>
+<l>9<pb n="199"/>
+in tal modo un pastor vivo si funera.</l>
+<l>La carne ormai ridotta in bianca cenere</l>
+<l>per continuo sudor che la dea Cerere</l>
+<l>a noi propitia si coroni e venere.</l>
+<l>L'opera perde de lo arare e serere</l>
+<l>e dove aiuto più posso discernere</l>
+<l>se le mie biade non vorrò deserere?</l>
+<l>La vita pastoral mi convien spernere</l>
+<l>se in qualche modo i dei più non me aiutano:</l>
+<l>altro remedio già non ce scio cernere.</l>
+<l>Stolto questi pastor poi mi reputano,</l>
+<l>che de' mei danni lamentar mi sentano</l>
+<l>e il tutto solo a mia avaritia imputano.</l>
+<l>Intanto i servi lor qui se appresentano</l>
+<l>per farmi maggior rabbia al petto nascere</l>
+<l>de gli agni mei che per la fame stentano.</l>
+<l>E veggio che non ci è per lor da pascere</l>
+<l>e Lycida e quelli altri i danni accrescano</l>
+<l>per aversi piacer di farmi irascere.</l>
+<l>Veggio le vacche d'altri che qui trescano</l>
+<l>e patirò veder tanta voragine?</l>
+<l>Ma lassa da me forse ancor non escano:</l>
+<l>bastami aver del mal factore indagine.</l>
+<l>A che indarno di pianto il viso maculo?</l>
+<l>Io son stimato inanimata imagine.</l>
+<l>Non tardian più, ciascun pigli il suo baculo</l>
+<l>et a Lycida andiamo ogni osso a frangere,</l>
+<l>che non ha consigliato oggi l'oraculo.</l>
+<l>Ma andate occulti, più che il possa tangere</l>
+<l>con questo ramo e ricordar le ingiurie:</l>
+<l>scio non mi piegarà con falso piangere.</l>
+<l>Tyrse, tu non lassar che qui luxurie</l>
+<l part="I">l'armento.</l>
+</sp>
+<sp><speaker>Thy.</speaker><l part="F">Alla capanna il vo a reponere:</l>
+<l>ma che bisogna a te far tante furie?</l>
+</sp>
+<sp><speaker>Me.</speaker><l>Lycida, bene or ti farò disponere:</l>
+<l>non molestarmi e bramerai l'ospitio</l>
+<l>prima che alcun da nui più ti disonere.</l>
+<l>Extimati, perché se tu hai giuditio</l>
+<l>convien sciaper portar la pena lecita</l>
+<l>a qualunque fallisce ognior per vitio. </l>
+</sp>
+<sp><speaker>Ly.</speaker><l>Ahimé, Menalcha, ahimé fai cosa illecita!</l>
+<l><pb n="200"/>
+Pietade, aiuto ahimé, misericordia!</l>
+<l>Afferma ormai la man tanto sollecita:</l>
+<l>da te sol cerco aver pace e concordia.</l>
+</sp>
+<sp><speaker>Me.</speaker><l>Ah, ah, così le volpi si castigano:</l>
+<l>poco inanzi cercavi ogni discordia.</l>
+</sp>
+<sp><speaker>Ly.</speaker><l>Perdon chiedo; i pastor son che me instigano</l>
+<l>e mi era forza contra te procedere.</l>
+<l>O dio, che ho facto mai? Perché mi ligano?</l>
+</sp>
+<sp><speaker>Me.</speaker><l>Pacientia, costor ti han con verghe a cedere</l>
+<l>fin che io veggia per tutto il sangue ruere,</l>
+<l>né che ti abbian pietade alcuna credere.</l>
+<l>Io voglio questo spasso alquanto fruere.</l>
+</sp>
+<sp><speaker>Ly.</speaker><l>Ah crudo, il sangue mio ti fia letitia,</l>
+<l>e chi offeso non ti ha cerchi destruere?</l>
+<l>Quel che io facea non fu per mia malitia,</l>
+<l>ma perché pascol bono altro non trovasi:</l>
+<l>fa quel che vòl ragion solo e giustitia.</l>
+<l>Se ti offusca il furor, pietà commovasi,</l>
+<l>non mi lassar la carne a costor rompere!</l>
+</sp>
+<sp><speaker>Me.</speaker><l>Giustamente per male ogni mal provasi,</l>
+<l>ma contro a te non voglio al tutto irrumpere,</l>
+<l>però né di te far (qual potrei) stratio:</l>
+<l>al tuo sonar mi lassarò corrompere.</l>
+<l>Con quel Menalcha sol potrai far satio:</l>
+<l>io ti scioglio le braccia, or tu sei libero.</l>
+</sp>
+<sp><speaker>Ly.</speaker><l>Menalcha, assai di questo io ti ringratio</l>
+<l>e contentarti col mio suon delibero</l>
+<l part="I">benché non vaglia.</l>
+</sp>
+<sp><speaker>Me.</speaker><l part="F">Io scio che non ti supera</l>
+<l>e sia chi vòl da l'orto insino allo Ibero.</l>
+<l>Cava fuor la zampogna e te recupera,</l>
+<l>che ben poi dir fuggito aver Lucifero:</l>
+<l>ogni uom di questi il perdonar vitupera.</l>
+</sp>
+<sp><speaker>Ly.</speaker><l>Priegoti, Giove, puoi che da pestifero</l>
+<l>furor Menalcha mi ha degnato sciogliere,</l>
+<l>per me gli doni in premio il ciel stellifero.</l>
+</sp>
+<sp><speaker>Me.</speaker><l>Se le parole mie ti degni accogliere,</l>
+<l>ormai dove tu vòi mi lasso volgere,</l>
+<l>Lycida, e il tuo perdon vengo a ricogliere.</l>
+</sp>
+<sp><speaker>Ly.</speaker><l>Non voler quel che hai facto ora</l>
+<l>rivolgere. Io ti perdono il battere e le vincola,</l>
+<l>basta che ai prieghi mei ti lassi svolgere.</l>
+<l><pb n="201"/>
+Ma io mi ti excuso ben come novo incola</l>
+<l>che cerca far quel che il signor desidera,</l>
+<l>perché altramente puoi mi batte e avincola:</l>
+<l>sì che come la vada or tu considera.</l>
+</sp>
+<sp><speaker>Me.</speaker><l>Io ti voglio da lui donque removere,</l>
+<l>che per dolcezza il tuo sonar mi assidera.</l>
+<l>Se abitar vòi le nostre ville povere,</l>
+<l>non come servo ma signor ti nomina:</l>
+<l>deh lassati, fratello, a questo movere.</l>
+</sp>
+<sp><speaker>Ly.</speaker><l>La lingua mia già di disdirti abomina:</l>
+<l>stasera assegnarò le capre ai stabuli,</l>
+<l>che la clementia a ogni altro sdegno domina.</l>
+</sp>
+<sp><speaker>Me.</speaker><l>Levale Tyrse tu da questi pabuli,</l>
+<l>guidale a casa: a te serìe dedecore,</l>
+<l>Lycida: voglio che con me confabuli</l>
+<l>mentre che rimenian le nostre pecore.</l>
+</sp>
+
+<p>Era da poco finita la sdrucciola canzone, che da la soppressa erba levati e al tutto disposti di partire ad uno ad uno strettissimamente li pastori abbracciavamo, rendendoli gratia di tanta cortesia che li giorni passati uso ce aveano. Quando in un subito di aquose nubi carico il concavo cielo ad obscurare incomminciato, or con focoso aperimento, or con paventosi tuoni, or con tricuspidati fulmini accompagnati da agghiacciata tempesta e impetuosa pioggia, ci fece tutti sbigottiti al vicino tugurio velocemente recorrere, dove aspettando noi che l'acqua cessasse per potere exequire il nostro viaggio, prima occuporno le tenebre la terra che la stridente procella arrestar si sentisse, perché apparechiato un grandissimo foco nel mezzo de la caminata, come è usanza rurale, dove a tutti dintorno il caldo pervenir poteva e arrostendo chi spogliose cipole, chi indurate castagne, e quali ventose fave con imbiancanti meliche, così senza altro apparecchiamento, perché di lacte coppia ce abundava, accosto alle raccese legne ci cenasemo, dove ragionando di più cose “Certo – dixe un de li compagni nostri – non senza cagione ci ha questa sera il cielo con voi retenuti, imperò che accorto del nostro desiderio d'udirvi non ci ha voluto lasciar perdere cosa che forse più dilectevole ad ascoltar ci resta: perché, se così è, pur che impedimento per noi non abbiate, ci seria grato per questa causa avere sino al seguente giorno retardato”. A cui il più vecchio de li pastori con ridente faccia rivolto “Oh voglia Dio – rispose – che aspettar vi piaccia quanto a noi incresce albergarvi e con nostre ben rozze cose transtularvi, che certo in più grato voto non scio come da li dei potessi essere exaudito. Ma acciò vostra imaginatione vada ad effetto, intanto andrete a riposare che noi ordinaremo cosa che <pb n="202"/>
+faccia al gusto vostro”. Così riposti a dormire sin al puro giorno, puoi che ci resentimo, al pastore inviati il pregamo che per nostro amore ci facesse rendere la promessa cantilena, mentre che 'l tremulo sole tutta fiata ascendeva, acciò che puoi per tempo al nostro domicilio ritornar
+potessimo: perché il benigno pastore, dato il cenno a chi l'officio aveva imposto, allo adorno spettaculo ce ricondusse, dove un de li nostri con veloce mano in una tavoletta queste parole aiutato da noi con diligentia accolse.
+</p>
+</div1>
+    <div1 type="parte" n="Egon Damon Clearista">
+<stage>Interlocutori Egon Damon Clearista</stage>
+
+<sp><speaker><corr resp="ed">Eg.</corr></speaker><l>Pan ti salvi, Damone, e presti aiuto,</l>
+<l>e Cerere ti guardi che ci regge:</l>
+<l>come la fai puoi che io non ti ho veduto?</l>
+<l>A che lassi ir disperso il bianco gregge?</l>
+<l>Qual causa è che te invita al lacrimare?</l>
+<l>Chi t'ha del viver tuo mutato legge?</l>
+<l>Tu solevi pur già molto damnare</l>
+<l>ogni pastor che si donava a l'ocio:</l>
+<l>gran fallo è in quel che si reprende errare.</l>
+<l>Come ti pòi qui star senza negocio?</l>
+<l>Veggio i calami tui rotti per terra:</l>
+<l>gran cosa è che ti preme, o dolce socio.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Non sciai se sempre, Egon, mi fece guerra</l>
+<l>Fortuna? Di che pigli or maraviglia?</l>
+<l>Chi se duol con ragion però non erra.</l>
+<l>Deh, se tu mi ami, altrove il camin piglia,</l>
+<l>che io non te induca al fin con meco al pianto:</l>
+<l>disperato dolor mal si consiglia.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Se amato t'ho, Damon, tu sciai già quanto,</l>
+<l>e se io merto sciapere ogni cagione</l>
+<l>del mal che ti urta e or ti affligge tanto.</l>
+<l>Non è dover che tu discacci Egone,</l>
+<l>ma dèi communicarmi il tuo dolore,</l>
+<l>che teco pianga come gli è ragione.</l>
+<l>Io te ne astringo per l'antico amore</l>
+<l>che fece già di dui conforme un'alma,</l>
+<l>se più mantien quel che solevi in core,</l>
+<l>se aspetti da Minerva ancor la palma</l>
+<l>del verso tuo, che pò spianare i monti</l>
+<l>per la sua deità verenda et alma.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Donque con meco a lacrimar disponti,</l>
+<l><pb n="203"/>
+che io scio ch'esser non pò che il mio lamento</l>
+<l>non faccia per pietà gli occhi tui fonti.</l>
+<l>Guarda se io ne ho cagion di esser scontento,</l>
+<l>e lamentarmi di mia sorte bruna,</l>
+<l>che piace al mondo e al celo il mio tormento,</l>
+<l>che se fusse là su pietate alcuna,</l>
+<l>per aver facto ben non serrei morto,</l>
+<l>e il giusto vinceria mobil fortuna.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Non mi son del tuo male ancora accorto.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>L'arcier che a suo volere il mondo preme</l>
+<l>de ogni bella stagion me ha privo a torto.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l part="I">Che arcere è questo?</l>
+</sp>
+<sp><speaker>Da.</speaker><l part="F">È del tonante seme</l>
+<l>fanciullo e ceco e sol con l'arco in mano</l>
+<l>fa che l'onora l'universo e teme.</l>
+</sp>
+<sp><speaker>Ego.</speaker><l>E che, sei tu, Damone, venuto insano,</l>
+<l>che a intender mi vòi dar che un ceco vola?</l>
+<l>Il tuo parlar mi par, come tu, vano.</l>
+<l>Non ho compreso ancora una parola</l>
+<l>da cui presumer possa dil tuo male,</l>
+<l>né chi sia quel che ogni piacer t'invola.</l>
+<l>Non scio chi sia questo fanciul con l'ale;</l>
+<l>parla, se vòi che io te oda, adonque chiaro:</l>
+<l>è dio costui del cielo o pur mortale?</l>
+</sp>
+<sp><speaker>[Da.]</speaker><l>Gli è là su, Egon, fra tutti i dei preclaro,</l>
+<l>di Vener figlio e del feroce Marte,</l>
+<l>più che non mostra ne lo aspetto amaro.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Se fusse ben di lor la maggior parte,</l>
+<l>e sia, come detto hai, fanciullo e ceco,</l>
+<l>se non con forza il piagliaren con arte.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Io non scio che operar si possa seco.</l>
+<l>Da contrasto non ho forza o fuggire.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Non dubitar, che io voglio esser qui teco.</l>
+<l>Piglia pur nel tuo cor, Damone, ardire,</l>
+<l>né dubitar di non aver più forza,</l>
+<l>ma gìanlo (come il vedi) ambo a ferire.</l>
+<l>Cerca fare ogni male a chi ti sforza,</l>
+<l>che giusto è di ammazzare il suo nimico</l>
+<l>e ragionevole onta il fallo ammorza.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Ahimé, l'avesse io pur benigno e amico</l>
+<l>che il mio longo disio trovasse effetto</l>
+<l>e cessassi una volta esser mendico.</l>
+<l><pb n="204"/>
+</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Ti scalda forse amor, Damone, il petto?</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Non mi hai tu donque ancora, Egone, inteso?</l>
+<l>Non sciai se nel principio io te l'ho detto?</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Tu mi hai tenuto a tuo piaccer suspeso</l>
+<l>che io non sciapevo al fin meco comprendere</l>
+<l>da che si procedesse il tuo gran peso.</l>
+<l>A cosa pueril ti lassi offendere:</l>
+<l>per questo il tuo lamento ora è si grave?</l>
+<l>Tu me dovresti in tale error reprendere.</l>
+<l>Scaccia, scaccia da te tal cose prave,</l>
+<l>che non sono apte a questa età matura.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Se tu gustasti quanto egli è suave,</l>
+<l>ti uscirebbe di mente ogni altra cura.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Donde procede donque il pianto e duolo?</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Da Clearista mia, che è tanto dura.</l>
+<l>Per questo sto pensoso e vivo solo,</l>
+<l>per questo mi son puoi d'ogni ben privo,</l>
+<l>per questo vanno al ciel mei gridi a volo,</l>
+<l>che un che a l'amata sua si veda a schivo,</l>
+<l>prima con dolci sguardi accarezzato</l>
+<l>come pò mai restar morendo vivo?</l>
+<l>Ahimé, per aver ben non fui creato,</l>
+<l>ma credo ben che il mal fia sempiterno:</l>
+<l>cosi va chi infelice è al mondo nato.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Damon, questo tuo mal, quanto io discerno,</l>
+<l>non gli porgendo nel principio auxilio,</l>
+<l>si farà forse (a me credilo) eterno.</l>
+<l>Manda il pensier tuo van donque in exilio,</l>
+<l>che si vince il mal novo e facilmente,</l>
+<l>ma puoi che invecchia è vano ogni consilio.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Tu mi cerchi privare, Egon, di mente:</l>
+<l>come me stesso mai darò in oblio,</l>
+<l>o come me da me far posso absente?</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Dove è, pover pastore, il senno prio?</l>
+<l>Non scio dil tuo signor, ma tu sei ceco,</l>
+<l>che fingi una fraschetta in cielo Idio.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Oh, vedi, Egon, che da l'ombroso speco</l>
+<l>esce la mia formosa Clearista:</l>
+<l>perdonami, più star non posso teco.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Che Nympha è questa mai da me più vista?</l>
+<l>Oh ben rara beltà, volto divino!</l>
+<l>Beato è certo chi tal donna acquista.</l>
+<l><pb n="205"/>
+Deggio io verso di lor pigliar camino?</l>
+<l>Aspettarò pur qui, puoi che ella mira</l>
+<l>passar per questo loco a me vicino.</l>
+<l>O durezza sua dolce, e sua dolce ira,</l>
+<l>che ricompensa puoi volgendo un sguardo!</l>
+<l>Senza causa Damon piange e suspira,</l>
+<l>che se tal frutto ben si coglie tardo,</l>
+<l>con le rose la spina ancor conviensi:</l>
+<l>già per lei mi consumo, incendo et ardo.</l>
+</sp>
+<sp><speaker>Cle.</speaker><l>Che fai qui sol, pastor, suspeso e pensi?</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Puoi che veduta t'ho, di esserti in gratia</l>
+<l>e dedicarti l'alma, il core e i sensi.</l>
+<l>Scusami se in parlare ho troppo audatia,</l>
+<l>che mi sprona di amore il gran flagello,</l>
+<l>dolce flagel se non gli advien disgratia.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Non sciai che oltraggi, Egone, il tuo fratello?</l>
+<l>Come credi che amarla io ti comporti?</l>
+<l>Amico simulato, ingiusto e fello.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>La amicitia è un voler: che ti sconforti?</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Che io non potrei patir rival mio Giove;</l>
+<l>de gli altri si son già per donna mort<add resp="ed">i</add>.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Non dir tante parol, facciàn le prove:</l>
+<l>vedren se scaldarà forse il mio foco</l>
+<l>e se amor per paura si remove.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Adonque in un momento in spatio poco</l>
+<l>colei furar mi vòi, che già molti anni</l>
+<l>ho seguito con stento in ogni loco?</l>
+<l>Quella per cui son vixo in tanti affanni,</l>
+<l>per cui privo mi son di libertate?</l>
+<l>Fuggi da noi, tu che l'amor condanni.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Non damno di costei già la beltate</l>
+<l>e scio che come donna gratiosa</l>
+<l>ancor la moverà per me pietate.</l>
+<l>Non ci bisogna a nui faccia paurosa;</l>
+<l>prima che adesso sciai ci cognosciamo:</l>
+<l>tenace è questa mia fiamma amorosa.</l>
+<l>Se vòi che pari in amar lei siamo,</l>
+<l>ti serò più che mai compagno fido;</l>
+<l>se usar vòi forza, in questa arena andiamo.</l>
+</sp>
+<sp><speaker>Cle.</speaker><l>Pastori, ad altra guerra io vi disfido:</l>
+<l>colui mi menarà seco all'ospitio</l>
+<l>che meglio cantarà, così ve affido.</l>
+<l>Starette dopo il canto al mio giuditio.</l>
+<l>Mostri donque chi me ama ogni so' ingegno,</l>
+<l>ma tu primo, Damon, da' al canto initio.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Se io fui mai di tua gratia, o Giove, degno,</l>
+<l>se il priego è giusto, exaudi ora i mei prieghi:</l>
+<l>Damon tuo favorir non te sia a sdegno.</l>
+<l>Gratia a giuste dimande mai non nieghi:</l>
+<l>donami contra Egon donque victoria</l>
+<l>se per voce mortal ti movi e pieghi.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Tu me, Febo, ami, de' poeti gloria:</l>
+<l>prestami donque il tuo sancto soccorso,</l>
+<l>se lo amor tien di Daphne anco a memoria.</l>
+<l>Nel foco novamente io son trascorso,</l>
+<l>come quando tu già stringesti il lauro</l>
+<l>puncto da l'aspro cupidineo morso.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Clearista, più cara a me che lo auro,</l>
+<l>or mi si mostra lieta, ora mi fugge,</l>
+<l>e più de l'odio suo che d'altri impauro.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>E me come phenice in foco strugge,</l>
+<l>che mi rinovan puoi quelle scintille:</l>
+<l>stolto è chi per sua man morir refugge.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Grate a navigi son l'onde tranquille</l>
+<l>e Clearista a me lieta e serena,</l>
+<l>che electa ho per beltà fra mille e mille.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Dolce riposo ai stanchi è l'ombra amena:</l>
+<l>a me, che l'alma sotto lei ricovero,</l>
+<l>lieto d'ogni mio mal, d'ogni mia pena.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Non di delitie al tutto io pastor povero:</l>
+<l>pur mo due tortorette io gli ho mandato</l>
+<l>che ebbi con gran fatica in suso un rovero.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Non serà forse ancor meno a llei grato</l>
+<l>aver de l'orto mio più poma d'oro,</l>
+<l>che sempre a far presenti ho conservato.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Ma che parole a me dato han restoro?</l>
+<l>Portatene una parte, o venti, al cielo,</l>
+<l>che son ben degne de lo eterno coro.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Se Clearista accepta il mio gran zelo,</l>
+<l>dica in presentia nostra o se gli piace,</l>
+<l>che io non stimo puoi Damone un pelo.</l>
+</sp>
+<sp><speaker>Cle.</speaker><l>Poneti or su, pastori, a' versi pace,</l>
+<l>che non è già concesso a me che io dica</l>
+<l>a qual piu Phebo in petto alberga e giace.</l>
+<l><pb n="207"/>
+L'uno e l'altro di vui Parnaso amica,</l>
+<l>ma mi consaro a te, Damone, e dono,</l>
+<l>per la tua servitù fidele antica,</l>
+<l>e tu, pastor, me ne darai perdono,</l>
+<l>che io nol propongo già per miglior versi,</l>
+<l>che insieme pari al mio giuditio sono</l>
+<l>dolci, sublimi di materia e tersi,</l>
+<l>ma per remeritare il suo dolere,</l>
+<l>quale un tempo constante io già suffersi</l>
+<l>volendo prova di sua fede avere.</l>
+<l>Donque per amor mio supporta questo,</l>
+<l>che non è già per farti dispiacere,</l>
+<l>né star per tanto sconsolato e mesto,</l>
+<l>che ancor de l'amor tuo n'avrai bon merto,</l>
+<l>e forse più che non ti credi presto.</l>
+<l>Mentre che fu di me Damone incerto,</l>
+<l>ottenne fideltà ferma e sincera</l>
+<l>tanto che aollui mi ha puoi Venere offerto,</l>
+<l>sì che da me tu aiuto in breve spera:</l>
+<l>restati in pace, assai di te mi dole.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Andiamo, Clearista, anzi alla sera;</l>
+<l>non vedi che camina in cielo il sole?</l>
+</sp>
+
+<p>Eràmo quasi tutti per levarci in piedi a ringratiare lo amorevole officio prestatoci, credendo non restare più cosa alcuna al contrasto de li dui inamorati pastori, quando quello che sopra ciò fu preposto, segno ci fece con il ditto alla bocca di silentio e accostatoci allo orecchio ci pregò susurrando che molesto non ci fusse odire il fin de l'egloga da cui la seguente dependeva, donde era rimasto Egone ne la scena, che con caldi suspiri tirati da lo infimo petto et abundanti lacrime seco così ne indusse a condolerci.
+</p>
+<lg type="non-definito">
+<l>Vanne or, misero Egone, al tutto povero,</l>
+<l>di speme vana illuso, or va', che assai</l>
+<l>ti è stato albergo questo annoso rovero.</l>
+<l>Che speri più pietate a tanti guai?</l>
+<l>Non dovevi tu pria teco comprendere</l>
+<l>che stabil non fu donna al mondo mai?</l>
+<l>Tu che solevi già ciascun reprendere,</l>
+<l>facto suggetto a un scelerato e ceco,</l>
+<l>or ti lassi a sui strai vilmente offendere.</l>
+<l>Clearista ne porta il tuo cor seco</l>
+<l><pb n="208"/>
+e forse con Damone ora si gaude</l>
+<l>de la tua pena sotto ombroso speco.</l>
+<l>Tu ti lassasti lusingar con fraude</l>
+<l>e nimico facesti a te Damone:</l>
+<l>guarda se conseguito hai bella laude!</l>
+<l>Come avrai tu più ardir fra le persone,</l>
+<l>che essendo quasi ne la età senile</l>
+<l>sii suggetto a un fanciul senza ragione?</l>
+<l>L'incustodito tuo debile ovile</l>
+<l>i lupi assalirano, e quel che sia:</l>
+<l>di te si parlarà come di uom vile.</l>
+<l>E pur, distor non poi la fantasia</l>
+<l>da quel che vedi expresso esser tuo male,</l>
+<l>e vanitade è al fin che si disia.</l>
+<l>Salir credesti in ciel senza aver l'ale:</l>
+<l>or vedi che ogni donna è pur fallace,</l>
+<l>benché sì tardo lo aveder non vale.</l>
+<l>Tu ti sperasti di potere in pace</l>
+<l>di Clearista sol fruir lo amore</l>
+<l>e che un finto parlar fusse verace.</l>
+<l>Un falso lusingar ti tolse il core</l>
+<l>e il riso che ti diè segno di amare</l>
+<l>fu per fartene aver maggior dolore.</l>
+<l>Meglio era per te inanzi al fin pensare,</l>
+<l>che or che ricevuto hai tanta vergogna,</l>
+<l>come più tra ' pastori avrai bel stare?</l>
+<l>Pensare a l'onor tuo più ti bisogna,</l>
+<l>e ritrovargli ancor qualche rimedio,</l>
+<l>che questo è da grattare altro che rogna.</l>
+<l>Convien bono occhio a chi intorno ha l'assedio,</l>
+<l>ma non ci veggio meglio ormai che morte</l>
+<l>per uscir fuor di stento, affanno e tedio.</l>
+<l>Ah iniqua mia mal aventurata sorte,</l>
+<l>donde procede questa nova insania</l>
+<l>chi è chi se stesso occida alcun sì forte?</l>
+<l>Qual disperato se dismembra o lania?</l>
+<l>Altri la morte sua cerca fuggire,</l>
+<l>et io cerco con me guerra e zinzania.</l>
+<l>Più presto voglio ogni altro mal patire</l>
+<l>e in queste selve macerar mia vita,</l>
+<l>che io sia giamai cagion del mio morire.</l>
+    </lg>
+<sp><speaker>Da.</speaker><l>Ahimé, chi a llamentare, Egon, te invita?</l>
+<l><pb n="209"/>
+E chi te move a tal furore e rabbia?</l>
+<l>Hai tu la retta via persa e smarrita?</l>
+<l>Che stridi sento da le smorti labbia?</l>
+<l>Omicida esser vòi già di te stesso</l>
+<l>e che in governo suo dementia ti abbia?</l>
+<l>Questo interviene a molti sciocchi spesso,</l>
+<l>che privi de ogni ben de lo intelletto</l>
+<l>hanno lor vita in abandon poi messo.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Dameta, a desperarmi io son constretto:</l>
+<l>possati all'ombra qui, che il mio tormento</l>
+<l>udrai, se il tardar non ti è a dispetto.</l>
+<l>Tu sciai se fra pastori io già contento</l>
+<l>viver solevo, e reputato saggio:</l>
+<l>guarda quel che si muta in un momento.</l>
+<l>Ho smarrito ogni via del bon viaggio,</l>
+<l>tanto che l'altre cose io mi discordo</l>
+<l>tutte, fuor che colei che mi fa oltraggio.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>La tua felicità ben mi ricordo,</l>
+<l>ma in corto tempo si cangia sembiante,</l>
+<l>che esser vorrei, per non udirla, sordo.</l>
+<l>Compreso ho il tuo lamento, o stolto amante,</l>
+<l>che in ogni loco fra i pastor si sente</l>
+<l>e dicono di Egon che è facto errante.</l>
+<l>E se alcun chiede chi ti faccia absente,</l>
+<l>è resposto: “De amor la ociosa mano</l>
+<l>che ogni ragion gli ha tolto, e più la mente”.</l>
+<l>Adonque che non lassi il penser vano?</l>
+<l>Ti par che a tale età questo sia lecito?</l>
+<l>Iudical tu, quando serai più sano.</l>
+<l>Credito ad acquistar non sei sollecito:</l>
+<l>a questo modo perdi ogni tua gloria</l>
+<l>se non provedi tosto a quel che io recito. </l>
+<l>Rimanti excluso amor con la victoria;</l>
+<l>usa per te che ad altri il dai consiglio,</l>
+<l>non mostrare aver perso ogni memoria.</l>
+<l>Con te la villa nostra è in gran periglio,</l>
+<l>se non ritorni al tuo primo governo,</l>
+<l>dove che ogni pastor ti è come figlio.</l>
+<l>Questo tuo morbo, Egon, quanto io discerno,</l>
+<l>facilmente si pò da te remmovere</l>
+<l>con sapientia e farlo al tutto externo.</l>
+<l>Errando vanno le tue capre povere</l>
+<l><pb n="210"/>
+et altro il lacte suo molge e raccoglie:</l>
+<l>tu da una donna vil non ti sciai movere.</l>
+<l>Simplice, tu ti fidi in su le foglie,</l>
+<l>in mobil cosa fermi il tuo pensero,</l>
+<l>in sciocche, bestiali e corte voglie.</l>
+<l>Piglia, pigliati, Egone, altro sentero,</l>
+<l>che questo è colmo sol di colpa e vitio,</l>
+<l>e credi a me che ti amo il proprio vero.</l>
+<l>Se di femina bene avesti inditio</l>
+<l>od il tosco che ogniuna in petto serra,</l>
+<l>non seguiresti forse il tuo supplitio.</l>
+<l>Lassa donque de amore, Egon, la guerra,</l>
+<l>retorna al vago tuo disperso gregge</l>
+<l>che senza guardia il giorno e la notte erra.</l>
+<l>La tua vite imputata e senza legge</l>
+<l>pende da gli olmi e fia presto matura</l>
+<l>tua biada e alcun non la governa o regge.</l>
+<l>Poni a questo, che più te importa, cura,</l>
+<l>e fuggi più che pòi di donna il stratio,</l>
+<l>provedi viver ne la età futura.</l>
+</sp>
+<sp><speaker>Eg.</speaker><l>Quanto posso, Dameta, io ti rengratio,</l>
+<l>e questo tuo consiglio ho tanto grato</l>
+<l>che di laudarti io non serò mai satio.</l>
+<l>Io morivo qui solo e desperato;</l>
+<l>altro remedio non potevo avere,</l>
+<l>se non che il cielo a me ti ha puoi mandato.</l>
+<l>Far voglio adonque tutto il tuo volere</l>
+<l>e tornar dil mio gregge al bel custodio.</l>
+</sp>
+<sp><speaker>Da.</speaker><l>Vanne, e lassati spesso ormai vedere,</l>
+<l>che un'altra trovarai, se lei ti ha in odio.</l>
+    </sp>
+<p>Apena lasciò Damone l'ultima parola proferire un certo pastore che da un canto quasi come alora de la pascolosa terra nato apparve, quale posato col braccio dextro ad un f<add resp="ed">r</add>axineo bastone queste modulate parole quanto intender potemo con dulcissima voce così ci porse:
+</p>
+<lg type="non-definito">
+<l>Seguire è onesto in qualche parte amore</l>
+<l>per restorar talor l'afflitte membra</l>
+<l>e il più mal mitigar con men dolore.</l>
+<l>Stolto è chi amando se medesmo smembra</l>
+<l>e concede di amor tutto alla parte,</l>
+<l>né di cosa maggior più li rimembra.</l>
+<l><pb n="211"/>
+Aver governo in ogni cosa è de arte</l>
+<l>tenendo il mezzo da ciascun laudato,</l>
+<l>che non è Vener sempre in grembo a Marte.</l>
+<l>Chi esser vòl d'amor tutto è biasimato,</l>
+<l>e perché non si pò talor fuggire,</l>
+<l>far si diè con ragione e temperato.</l>
+<l>Non che di questo io vi voglia admonire,</l>
+<l>ma perché i mei pastor siano excusati</l>
+<l>se alcuna volta lui gli fa fallire.</l>
+<l>A voi che loro udir sete degnati,</l>
+<l>vi faccia Giove d'ogni bene accumulo,</l>
+<l>e giù in terra felici e in ciel beati,</l>
+<l>e vi sia guida e scorta insino al tumulo.</l>
+</lg>
+
+<p>Così arrestata la melliflua voce del pastore, perché già più allo occaso che allo oriente Phebo spetar si vedea, con molti ringratiamenti e proferte da li pastori accommiattare ce affrettamo. Alli quali, puoi che non giovò con prieghi e scongiuri per un sol giorno ancora retenerci, carchi di sui rustici doni quantunque con gran dispiaccere ci lasciorno e non meno essi noi, pur per discretione più che per fastidio a nostra abitatione retirati, alla quale apena per le incognite vie giunger la sera potemo, qui riposati la notte ci parve tempo al primo giorno tornare alla ciptate, ove pervenuti in remembratione del recevuto diletto quanto ce ricordamo a memoria il produssi.
+</p>
+<trailer>Finis</trailer>
+   </div1>
+</body>
+</text>
+</TEI.2>

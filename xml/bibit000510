@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>L'avete fatta a me</title>
+    </titleStmt>
+    <extent>8 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000510</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>The Italian cantata in the seventeenth century : facsimiles of manuscripts and prints of works by leading composers including an edition of the poetic texts</title>
+        <title type="part">Cantatas</title>
+        <author>Stradella, Alessandro</author>
+        <editor id="ed">Gianturco, Carolyn</editor>
+        <publisher>Garland Publishing</publisher>
+        <pubPlace>New York ; London</pubPlace>
+        <date>1986</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>600</date>
+    </creation>
+    <langUsage><language id="codice">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2001-10-10T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Chiara Comastri</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale in SGML</item>
+    </change>
+    <change>
+      <date>2003-06-23T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione - Conversione in XML e validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<lg type="strofa">
+<l rend="indent">L'avete fatta a me!</l>
+<l>Non importa, seguitate,</l>
+<l>luci ingrate,</l>
+<l>sempre infide alla mia fé.</l>
+<l rend="indent" n="5">Non me ne scordo più</l>
+<l>finché durano i miei dì.</l>
+<l>Oh, questa volta sì</l>
+<l>ch'è finita per me la servitù.</l></lg>
+
+
+<lg type="verso-libero">
+<l>Sull'altar di <name>Cupido</name></l>
+<l n="10">con rinunzia magnanima e costante</l>
+<l>lascio il nome d'amante,</l>
+<l>giuro d'esser infido.</l></lg>
+
+
+<lg type="strofa">
+<l rend="indent">Il ciel per pietà</l>
+<l>discioglie talora</l>
+<l n="15">a un'alma ch'adora</l>
+<l>ingrata beltà.</l>
+<l>Così non si fa</l>
+<l>con chi v'adorò;</l>
+<l>ma ch'io mi fidi più, oh, questo no!</l></lg>
+
+
+	<lg type="strofa">
+<l rend="indent" n="20">Lusingare e poi tradire,</l>
+<l>farsi amare e poi schernire,</l>
+<l>sì, e l'avete fatta a me!</l>
+<l>È costume il più crudele</l>
+<l>che si trovi fra tiranni</l>
+<l n="25">trionfar tra gl'altrui danni,</l>
+<l>e gioir fra le querele</l>
+<l>sempre privo di contenti,</l>
+<l>semivivo fra lamenti.</l></lg>
+
+
+	<lg type="strofa">
+<l rend="indent">Spesso la morte un innocente ascolta.</l>
+<l n="30">Chi sa ch'una volta</l>
+<l>schernita, tradita</l>
+<l>da finto amatore</l>
+<l>non distilli il pio pianto il vostro core.</l></lg>
+
+
+	<lg type="strofa">
+<l rend="indent">È inevitabile</l>
+<l n="35">quella vendetta</l>
+<l>ch'un petto instabile</l>
+<l><name>Amor</name> saetta.</l></lg>
+
+
+	<lg type="strofa">
+<l rend="indent">Intanto crudele,</l>
+<l>ingrata, infedele,</l>
+<l n="40">vantatevi, gloriatevi</l>
+<l>d'aver tradito e non saper perché.</l></lg>
+
+
+	<lg type="strofa">
+<l rend="indent">L'avete fatta a me!</l>
+<l>Non importa, seguitate,</l>
+<l>luci ingrate,</l>
+<l n="45">sempre infide alla mia fé!</l></lg>
+</body></text>
+</TEI.2>

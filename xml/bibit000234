@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie</title>
+      <author>Giovanni Betti</author>
+    </titleStmt>
+    <extent>9 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000234</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Lirici toscani del Quattrocento</title>
+        <title type="part">v.</title>
+        <editor id="ed">Lanza, Antonio</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1975</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-01-21T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-05-27T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+  <text>
+    <body>
+      <div1 type="poesia">
+        <head>I</head>
+
+        <lg type="capitolo-ternario">
+          <lg>
+            <l>Idio è solo somma sapïenza,</l>
+            <l>sol da sé 'nteso e se stesso intendendo;</l>
+            <l>lu' sa e può e del tutt'ha potenza.</l>
+          </lg>
+          <lg>
+            <l>E, se da ogni vero el ver comprendo,</l>
+            <l>lu' è 'l motor di tutta la natura,</l>
+            <l>cagion prima d'ogni cagion lu' sendo.</l>
+          </lg>
+          <lg>
+            <l>E qual si sie di lui la suo figura</l>
+            <l>né per occhio mortal, né per gerarca</l>
+            <l>non si comprende, né suo genitura,</l>
+          </lg>
+          <lg>
+            <l>né come s'inchiudessi in quella barca</l>
+            <l>di quella verginetta umil e santa</l>
+            <l>che di tal dono fu gioconda e carca,</l>
+          </lg>
+          <lg>
+            <l>per cui s'infiora la milizia santa</l>
+            <l>di quel Verbo incarnato, omo e dio,</l>
+            <l>ch'è uno in tre e tre una sol pianta.</l>
+          </lg>
+          <lg>
+            <l>D'un puro amore semplicetto e pio</l>
+            <l>el quale i' priego lui per suo clemenza</l>
+            <l>che d'ogni mi' error gli sien 'n oblio,</l>
+          </lg>
+          <lg>
+            <l>prima che venga 'l dì a dar sentenza</l>
+            <l>quand'e' verrà nella suo maestade</l>
+            <l>in pro e contro a dell'uman semenza;</l>
+          </lg>
+          <lg>
+            <l>e lui lo facci sol per suo pietate</l>
+            <l>sì ch'i' mi trovi in lui esser giocondo</l>
+            <l>sempre 'n fruire in suo deitate.</l>
+          </lg>
+        </lg>
+      </div1>
+      <div1 type="poesia">
+        <head>II</head>
+        <argument>
+          <p>Sonecto madato al maestro Allexandro da Bologna frate dell'ordine di Sancto Domenico
+            sopra' fatti del sacramento. </p>
+        </argument>
+        <lg type="sonetto">
+          <lg>
+            <l>O animal sacro, santo e degno</l>
+            <l>alt'e mistero, celeste e divino,</l>
+            <l>preordinato ad arbitro e dimino</l>
+            <l>di chi cerca goder te nel tuo regno,</l>
+          </lg>
+          <lg>
+            <l>di ver pan se' transferit'in benigno</l>
+            <l>corpo di Cristo e de l'uom consubrino;</l>
+            <l>congiunto con l'immenso unico in trino</l>
+            <l>te t'offeresti per vittim'al legno,</l>
+          </lg>
+          <lg>
+            <l>in sul qual fessi la santa oblazione</l>
+            <l>di te, Verbo incarnato, omo e dio,</l>
+            <l>per l'umana natura sol redemire.</l>
+          </lg>
+          <lg>
+            <l>Ond'i' te prego con gran devozione</l>
+            <l>che 'l mi' error ti risulti in oblio,</l>
+            <l>sì che per me a te possa venire</l>
+          </lg>
+          <lg>
+            <l>e li giubil sentire</l>
+            <l>dell'alt'e mirabil tuo gran sinfonia,</l>
+            <l>ove presiedi con tuo monarchia.</l>
+          </lg>
+        </lg>
+      </div1>
+      <div1 type="poesia">
+        <head>III</head>
+        <argument>
+          <p>Sonecto di Giovanni Betti et mandato al maestro Giovanni da Napoli dell'ordine de'
+            frati predicatori. </p>
+        </argument>
+        <lg type="sonetto">
+          <lg>
+            <l>Opra mirabil fu e gran mistero</l>
+            <l>quel che pel sommo Dio fu stabilito,</l>
+            <l>che 'n giù dal cielo uno in tre unito</l>
+            <l>scender dovessi e di farsi un vir vero</l>
+          </lg>
+          <lg>
+            <l>di Maria virgo, e di tutto l'impero</l>
+            <l>fusse ministro in sapere e 'n arbitro,</l>
+            <l>e del suo santo sangue redemito</l>
+            <l>Isdrael ne fu con chi tien quest'il vero.</l>
+          </lg>
+          <lg>
+            <l>Po' ne' quaranta dì al cielo asunse,</l>
+            <l>tornando al Padre tutto giubilante</l>
+            <l>dal folle mondo che le ven gli punse.</l>
+          </lg>
+          <lg>
+            <l>E breve breve e non molto distante</l>
+            <l>surger farà chi per morte 'l defunse,</l>
+            <l>venendo lui in sul tron trebunante</l>
+          </lg>
+          <lg>
+            <l>e tutto trïunfante</l>
+            <l>a voler dar la terribil sentenza</l>
+            <l>in pro e contro a dell'uman semenza.</l>
+          </lg>
+        </lg>
+      </div1>
+      <div1 type="poesia">
+        <head>IV</head>
+        <argument>
+          <p>Sonecto di Giovanni Betti et mandato al nobile uomo Piero di Cosmo de' Medici.</p>
+        </argument>
+        <lg type="sonetto">
+          <lg>
+            <l>L'amor, la pace e la benivolenza</l>
+            <l>di quell'immenso spirito divino,</l>
+            <l>che dal ciel venne e ch'è in deità trino,</l>
+            <l>früischi in te e nella tuo semenza;</l>
+          </lg>
+          <lg>
+            <l>e da ogni furore e rea sentenza</l>
+            <l>sì ti perservi e dieti ogni dimino,</l>
+            <l>sì che per te lo popol fiorentino</l>
+            <l>sempre s'invochi l'eterna clemenza;</l>
+          </lg>
+          <lg>
+            <l>e più per me interces'ella sia</l>
+            <l>ch'ella sie tanta ubertosa e feconda</l>
+            <l>ch'ella santo ti rendi e facci degno,</l>
+          </lg>
+          <lg>
+            <l>che quel ch'apeti concesso ti sia</l>
+            <l>e che 'l volere al poter<add resp="ed">[e]</add> risponda,</l>
+            <l>per che tu 'mperi e dieti el santo regno.</l>
+          </lg>
+          <lg>
+            <l>E me d'infim'ingegno</l>
+            <l>per tuo benignità priego ch'accetti</l>
+            <l>el tuo buon servo me Giovanni Betti.</l>
+          </lg>
+        </lg>
+      </div1>
+      <div1 type="poesia">
+        <head>V</head>
+        <argument>
+          <p>Sonecto di Giovanni di Zanobi di Manno Betti et mandato a messer Lionardo d'Arezzo.
+          </p>
+        </argument>
+        <lg type="sonetto">
+          <lg>
+            <l>A tanto quanto fortuna promette,</l>
+            <l>o de' cieli el disporre over pel fato,</l>
+            <l>all'apposita ciò mal preparato</l>
+            <l>esser vi può per divar vie o rette.</l>
+          </lg>
+          <lg>
+            <l>E se pur v'è, son tal quas'infette</l>
+            <l>nostre virtù pello 'ngegn'obbombrato</l>
+            <l>d'apetito lascivo o troppo amato</l>
+            <l>l'esser per noi le cose interdette.</l>
+          </lg>
+          <lg>
+            <l>Incognito rimansi e mal si scerne</l>
+            <l>della varia fortuna l'occult'abisso,</l>
+            <l>sì che stupir non de' si a maraviglia;</l>
+          </lg>
+          <lg>
+            <l>per cui lor moto son tre luc'eterne</l>
+            <l>e 'l senso nostro è da lor recisso,</l>
+            <l>se ben collo 'ntelletto alzi le ciglia.</l>
+          </lg>
+          <lg>
+            <l>Ché non pur cinque miglia</l>
+            <l>va [a] orizzonte el nostro antivedere,</l>
+            <l>pront'in giudicio e tardi nel sapere.</l>
+          </lg>
+        </lg>
+      </div1>
+      <div1 type="poesia">
+        <head>VI</head>
+        <lg type="sonetto">
+          <lg>
+            <l>Don singulare, celeste e divino</l>
+            <l>è da Dio dato e per lu' costituto,</l>
+            <l>in chi spuntano libero o soluto,</l>
+            <l>per amor ama e lo strano o 'l vicino.</l>
+          </lg>
+          <lg>
+            <l>E 'l real ver di natur serafino,</l>
+            <l>di sé faccendo all'amico tributo,</l>
+            <l>non aspettando premio né saluto</l>
+            <l>come tal quasi per fato o destino.</l>
+          </lg>
+          <lg>
+            <l>In 'ntrambo fusse di du' un sol almo,</l>
+            <l>con perservando sempre la Dio laude,</l>
+            <l>l'util comune e l'onore e la fama,</l>
+          </lg>
+          <lg>
+            <l>sì che ogni grado d'amicizia, in ch'almo</l>
+            <l>s'infoca e incende sotto sacre falde,</l>
+            <l>non è mancando in sé una sol drama.</l>
+          </lg>
+        </lg>
+      </div1>
+      <div1 type="poesia">
+        <head>VII</head>
+        <argument>
+          <p>Sonecto di Giovanni di Zanobi di Manno Betti et mandato all'uficio degli Otto della
+            guardia della città di Firenze più tempo fa. </p>
+        </argument>
+        <lg type="sonetto">
+          <lg>
+            <l>Viva verilità, giustizia e fede</l>
+            <l>al sacro e santo e giusto reggimento,</l>
+            <l>viva piatà, e del mondo sie spento</l>
+            <l>chi contra gïustizia si procede!</l>
+          </lg>
+          <lg>
+            <l>Tenghi la verga ritta in chi transede</l>
+            <l>col caldo giudicar pronto e non lento,</l>
+            <l>né per tema, lusinghe o per argento</l>
+            <l>manchi a giustizia fai quanto richiede.</l>
+          </lg>
+          <lg>
+            <l>Per giustizia oprar sempre s'impera</l>
+            <l>e propizio a Dio fassi amico e grato,</l>
+            <l>prosper diviensi felice e giocondo;</l>
+          </lg>
+          <lg>
+            <l>e chi l'averso fa lu' sempre altera</l>
+            <l>Idio e la natura sì come 'ngrato,</l>
+            <l>cade in rüina e precipita in fondo.</l>
+          </lg>
+        </lg>
+      </div1>
+      <div1 type="poesia">
+        <head>VIII</head>
+        <argument>
+          <p>Sonecto di Giovanni di Zanobi di Betto a uno che gli disse drieto: «Chi
+            è questo babuasso?». </p>
+        </argument>
+        <lg type="sonetto">
+          <lg>
+            <l>Perch'io ti paia un tal lasciami stare</l>
+            <l>col volto strano come un babüasso,</l>
+            <l>di poca industria e d'intelletto basso,</l>
+            <l>sanza scïenza e nulla sapia fare;</l>
+          </lg>
+          <lg>
+            <l>se tu t'avessi con meco a provare,</l>
+            <l>far ti vorrei veder cinque per asso,</l>
+            <l>e ch'uno allocco imbeccassi un gran tasso</l>
+            <l>di rossi grilli, e col gufo pescare.</l>
+          </lg>
+          <lg>
+            <l>E sì ti mosterrei per un pertugio</l>
+            <l>il buon Burchiello e 'l poeta Scambrilla</l>
+            <l>mettere in ambio un bel calderugio;</l>
+          </lg>
+          <lg>
+            <l>e mosterrêti la 'ritrea Sibilla</l>
+            <l>ire alla caccia, ed a mano un segugio,</l>
+            <l>a prendere orsi là dov'Arno stilla.</l>
+          </lg>
+        </lg>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

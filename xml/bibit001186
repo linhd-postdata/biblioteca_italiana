@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Decennali</title>
+      <author>Niccolò Machiavelli</author>
+    </titleStmt>
+    <extent>39 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001186</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le opere</title>
+        <author>Machiavelli, Niccolo</author>
+        <editor id="ed">Martelli, Mario</editor>
+        <publisher>Sansoni</publisher>
+        <pubPlace>Firenze</pubPlace>
+        <date>[1971]</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="lat">Latino</language><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>858.3 - MISCELLANEA ITALIANA. 1492-1542</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-04-22T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Francesco Longo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2003-05-05T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 n="Dedica" lang="lat">
+<salute>Nicolaus Maclavellus Alamanno Salviato viro praestantissimo salutem</salute>
+	<p>Lege, Alamanne, postquam id efflagitas, transacti decennii labores Italicos, nostrum quindecim dierum opus. Fortasse nostri aeque ac Italiae vicem dolebis, dum quibus ipsa fuerit periculis obnoxia perspexeris, et nos tanta infra tam breves terminos perstrinxisse. Forsitan et ambos excusabis: illam necessitudine fati, cuius vis refringi non potest, et nos angustia temporis, quod in huiusmodi ocio nobis adsignatur. Verum obsecro te ut nobis non desis, sicut illi ac labanti patriae tuae non defuisti, si cupis carmina haec nostra, quae tuo invitatu edimus, non contemnenda. Vale.</p>
+<dateline>V Idus Novembris MDIIII</dateline>
+</div1>
+<div1 n="Dedica"><salute>Nicolaus Maclavellus eidem</salute>
+<p>Leggete, Alamanno, poi che voi lo desiderate, le fatiche di Italia di dieci anni e la mia di quindici dì. So che v'increscerà di lei e di me, veggendo da quali infortunii quella sia suta oppressa, e me aver voluto tante gran cose infra sì brevi termini restringere. So ancora escuserete l'uno e l'altro: lei colla necessità del fato, e me colla brevità del tempo che mi è in simili ozi concesso. E perché voi, col mantenere la libertà di un de' suoi primi membri, avete suvvenuto a lei, son certo suvverterete ancora a me delle sue fatiche recitatore; e sarete contento mettere di questi mia versi tanto spirito, che del loro gravissimo subietto e della audienza vostra diventino degni. Valete.</p>
+<dateline>Die VIII Novembris MDIIII</dateline>
+</div1>
+</front>
+<body>
+<div1 type="poesia"><head>Decennale primo</head>
+<lg type="terzina">
+
+	<l>Io canterò l'italiche fatiche,</l>
+
+<l>seguìte già ne' duo passati lustri</l>
+
+<l>sotto le stelle al suo bene inimiche.</l>
+</lg>
+<lg><l>	Quanti alpestri sentier, quanti palustri</l>
+<l>narrerò io, di sangue e morti pieni,</l>
+<l>pe 'l variar de' regni e stati illustri!</l>
+</lg><lg><l>O Musa, questa mia cetra sostieni,</l>
+<l>e tu, Apollo, per darmi soccorso,</l>
+<l>da le tue suore accompagnato vieni.</l>
+</lg><lg><l>Aveva 'l sol veloce sopra 'l dorso</l>
+<l>del nostro mondo ben termini mille</l>
+<l>e quattrocen novanta quattro corso,</l>
+</lg><lg><l>dal tempo che Iesù le nostre ville</l>
+<l>vicitò prima e, col sangue che perse,</l>
+<l>estinse le diaboliche faville</l>
+</lg><lg><l>quando, in sé discordante, Italia aperse</l>
+<l>la via a' Galli, e quando esser calpesta</l>
+<l>da le genti barbariche sofferse.</l>
+</lg><lg><l>E perché a sequitarle non fu presta</l>
+<l>vostra città, chi ne tenea la briglia</l>
+<l>assaggiò e' colpi de la lor tempesta.</l>
+</lg><lg><l>Così tutta Toscana si scompiglia</l>
+<l>così perdesti Pisa e quelli stati</l>
+<l>che dette lor la Medica famiglia.</l>
+</lg><lg><l>Né possesti gioir, sendo cavati,</l>
+<l>come dovevi, di sott'a quel basto</l>
+<l>che sessant'anni v'aveva gravati;</l>
+</lg><lg><l>perché vedesti el vostro stato guasto:</l>
+<l>vedesti la cittate in gran periglio</l>
+<l>e de' Franzesi la superbia e 'l fasto.</l>
+</lg><lg><l>Né mestier fu, per uscir de lo artiglio</l>
+<l>d'un tanto re e non esser vassalli,</l>
+<l>di mostrar poco cuor o men consiglio.</l>
+</lg><lg><l>Lo strepito de l'armi e de' cavalli</l>
+<l>non possé far che non fussi sentita</l>
+<l>la voce d'un cappon fra cento galli;</l>
+</lg><lg><l>tanto che 'l re superbo fe' partita,</l>
+<l>poscia che la cittate esser intese,</l>
+<l>per mantener sua libertate, unita.</l>
+</lg><lg><l>E com'e' fu passato nel sanese,</l>
+<l>non prezzando Alessandro la vergogna,</l>
+<l>si volse tutto contr'al Ragonese.</l>
+</lg><lg><l>Ma 'l Gallo, che passar securo agogna,</l>
+<l>volle con seco del papa 'l figliuolo,</l>
+<l>non credendo a la fé di Catalogna.</l>
+</lg><lg><l>Così col suo vittorioso stuolo</l>
+<l>passò nel Regno qual falcon che cale,</l>
+<l>o uccel ch'abbi più veloce volo.</l>
+</lg><lg><l>Poi che d'una vittoria tanta e tale</l>
+<l>si fu la fama ne li orecchi offerta</l>
+<l>a quel primo motor del vostro male,</l>
+</lg><lg><l>conobbe ben la sua stultizia certa;</l>
+<l>e dubitando cader ne la fossa</l>
+<l>che con tanto sudor s'aveva aperta,</l>
+</lg><lg><l>né li bastando sua natural possa,</l>
+<l>fece, quel duca, per salvar el tutto,</l>
+<l>col papa, Imperio e Marco testa grossa.</l>
+</lg><lg><l>Non fu per questo, però, salvo al tutto,</l>
+<l>perch'Orliens, in Novara salito,</l>
+<l>li diè de' semi suoi el primo frutto.</l>
+</lg><lg><l>Il che poi che da Carlo fu sentito,</l>
+<l>del duca assai e del papa si dolse,</l>
+<l>e del suo figlio che s'era fuggito;</l>
+</lg><lg><l>né quasi in Puglia più dimorar volse;</l>
+<l>lasciato 'n guardia assai gente nel Regno,</l>
+<l>verso Toscana col resto si volse.</l>
+</lg><lg><l>In questo mezzo, voi, ripien di sdegno,</l>
+<l>nel paese pisan gente mandasti</l>
+<l>contro a quel popol di tanto odio pregno;</l>
+</lg><lg><l>e, dopo qualche disparer, trovasti</l>
+<l>nuovi ordini al governo: e furon tanti</l>
+<l>che 'l vostro stato popular fondasti.</l>
+</lg><lg><l>Ma sendo de' Francesi lassi alquanti</l>
+<l>per li lor modi e termin disonesti,</l>
+<l>e pe' lor pesi che vi aveno infranti,</l>
+</lg><lg><l>poi che di Carlo il ritorno intendesti,</l>
+<l>desiderosi fuggir tanta piena,</l>
+<l>la città d'arme e gente provvedesti.</l>
+</lg><lg><l>E però giunto con sue genti a Siena,</l>
+<l>sendo cacciato da più caso urgente,</l>
+<l>n'andò per quella via ch'a Pisa il mena;</l>
+</lg><lg><l>dove già di Gonzaga il furor sente,</l>
+<l>e come ad incontrarlo sopra 'l Taro</l>
+<l>avea condotto la Marchesca gente.</l>
+</lg><lg><l>Ma quei robusti e furiosi urtaro</l>
+<l>con tal virtù l'italico drappello,</l>
+<l>che sopra 'l ventre suo oltre passaro.</l>
+</lg><lg><l>Di sangue il fiume pareva a vedello,</l>
+<l>ripien d'uomini e d'arme e di cavagli</l>
+<l>caduti sotto al gallico coltello.</l>
+</lg><lg><l>Così gl'Italian lasciorno andagli;</l>
+<l>e lor, sanza temer gente avversara,</l>
+<l>giunson in Asti e sanz'altri travagli.</l>
+</lg><lg><l>Quivi la triegua si concluse a gara,</l>
+<l>non estimando d'Orliens el grido</l>
+<l>né pensando a la fame di Novara.</l>
+</lg><lg><l>E ritornando e' Franzesi al lor lido,</l>
+<l>avendo voi a nuovi accordi tratti,</l>
+<l>saltò Ferrando nel suo dolce nido;</l>
+</lg><lg><l>donde co' Vinizian sequirno e' patti</l>
+<l>per aiutarsi, e più che mezza Puglia</l>
+<l>concesse lor, e signor ne gli ha fatti.</l>
+</lg><lg><l>Qui la Lega di nuovo s'incavuglia</l>
+<l>per obsistere al Gallo, e voi sol soli</l>
+<l>rimanesti in Italia per aguglia;</l>
+</lg><lg><l>e per esser di Francia buon figliuoli,</l>
+<l>non vi curasti, in seguitar sua stella,</l>
+<l>sostener mille affanni e mille duoli.</l>
+</lg><lg><l>E mentre che nel Regno si martella</l>
+<l>fra Marco e Francia con evento incerto</l>
+<l>finch'e' Franzesi affamorno in Atella,</l>
+</lg><lg><l>voi vi posavi qui col becco aperto</l>
+<l>per attender di Francia un che venisse</l>
+<l>a portarvi la manna nel deserto,</l>
+</lg><lg><l>e che le rocche vi restituisse</l>
+<l>di Pisa, Pietrasanta e l'altra villa,</l>
+<l>sì come 'l re più volte vi promisse.</l>
+</lg><lg><l>Venne alfin Lanciaimpugno e quel di Lilla,</l>
+<l>Vitelli e altri assai, che v'ingannorno</l>
+<l>con qualche cosa che non è ben dilla.</l>
+</lg><lg><l>Sol Beumonte vi rendé Livorno,</l>
+<l>ma li altri, traditori al ciel rebelli,</l>
+<l>di tutte l'altre terre vi privorno;</l>
+</lg><lg><l>e al vostro Leon trassor de' velli</l>
+<l>la Lupa con San Giorgio e la Pantera;</l>
+<l>tanto par che fortuna vi martelli!</l>
+</lg><lg><l>Da poi ch'Italia la francesca stiera</l>
+<l>scacciò da sé, e sanza tempo molto</l>
+<l>con fortuna e saper libera s'era,</l>
+</lg><lg><l>volse verso di voi e 'l petto e 'l volto</l>
+<l>insieme tutta, e dicea la cagione</l>
+<l>esser sol per avervi a Francia tolto.</l>
+</lg><lg><l>Voi, favoriti sol da la ragione,</l>
+<l>contro lo 'ngegno e forza lor un pezzo</l>
+<l>tenesti ritto 'l vostro gonfalone;</l>
+</lg><lg><l>perché sapevi ben che per disprezzo</l>
+<l>era grata a' vicin vostra bassezza,</l>
+<l>e gli altri vi volevon sanza prezzo.</l>
+</lg><lg><l>Chiunque temea la vostra grandezza,</l>
+<l>vi venia contra, e quelli altri eran sordi;</l>
+<l>ch'ogni uomo esser signor di Pisa apprezza.</l>
+</lg><lg><l>Ma, come volse il ciel, fra quest'ingordi</l>
+<l>surse l'ambizion, e Marco e 'l Moro</l>
+<l>a quel guadagno non furon concordi.</l>
+</lg><lg><l>Questa venir al vostro tenitoro</l>
+<l>fece l'Imperio, e partir sanza effetto</l>
+<l>la diffidenza che nacque fra loro</l>
+</lg><lg><l>tanto ch'alfin la Biscia, per dispetto,</l>
+<l>vi confortò a non aver paura</l>
+<l>di star a Marco ed a sue forze a petto.</l>
+</lg><lg><l>E quel condusse in su le vostre mura</l>
+<l>el vostro gran rebel; onde ne nacque</l>
+<l>di cinque cittadin la sepultura.</l>
+</lg><lg><l>Ma quel ch'a molti molto più non piacque;</l>
+<l>e vi fe' disunir, fu quella scuola</l>
+<l>sotto 'l cui segno vostra città iacque:</l>
+</lg><lg><l>i' dico di quel gran Savonerola,</l>
+<l>el qual, afflato da virtù divina,</l>
+<l>vi tenne involti con la sua parola;</l>
+</lg><lg><l>ma perché molti temen la ruina</l>
+<l>veder de la lor patria a poco a poco</l>
+<l>sotto la sua profetica dottrina,</l>
+</lg><lg><l>non si trovava a riunirvi loco,</l>
+<l>se non cresceva o se non era spento</l>
+<l>el suo lume divin con maggior foco.</l>
+</lg><lg><l>Né fu in quel tempo di minor momento</l>
+<l>la morte del re Carlo, la qual fe'</l>
+<l>del regno 'l duca d'Orliens contento.</l>
+</lg><lg><l>E perché 'l papa non possea per sé</l>
+<l>medesmo far alcuna cosa magna,</l>
+<l>si rivolse a favor del nuovo re;</l>
+</lg><lg><l>fece 'l divorzio e diegli la Brettagna:</l>
+<l>e, a l'incontro, il re la signoria</l>
+<l>li promisse e li stati di Romagna.</l>
+</lg><lg><l>Ed avendo Alessandro carestia</l>
+<l>di chi tenessi la sua insegna eretta,</l>
+<l>per la morte e la rotta di Candia,</l>
+</lg><lg><l>si volse al figlio, che seguia la setta</l>
+<l>de' gran chercuti, e da quei lo rimosse</l>
+<l>cambiandoli el cappello a la berretta.</l>
+</lg><lg><l>In tanto 'l Vinizian, con quelle posse</l>
+<l>de la gente che in Pisa avea ridotta,</l>
+<l>verso di voi la sua bandiera mosse;</l>
+</lg><lg><l>tal che, successa del Conte la rotta</l>
+<l>a Santo Regol, voi costretti fusti</l>
+<l>dar la mazza al Vitel e la condotta.</l>
+</lg><lg><l>E parendovi fier, forti e robusti</l>
+<l>per virtù di queste armi esser venuti,</l>
+<l>movesti 'l campo contro a quelli ingiusti;</l>
+</lg><lg><l>né vi mancando li sforzeschi aiuti</l>
+<l>volevi con la insegna vitellesca</l>
+<l>sopra 'l muro di Pisa esser veduti.</l>
+</lg><lg><l>Ma perché quel disegno non riesca,</l>
+<l>Marradi prima, e di po' il Casentino,</l>
+<l>ferito fu da la gente Marchesca.</l>
+</lg><lg><l>Voi voltasti il Vitello a quel cammino,</l>
+<l>in modo tal, che rimase disfatto,</l>
+<l>sotto le insegne sue, l'Orso e Urbino.</l>
+</lg><lg><l>E ancor peggio si sare' lor fatto,</l>
+<l>se fra voi disparer non fussi suto</l>
+<l>per la discordia fra 'l Vitello e 'l Gatto.</l>
+</lg><lg><l>Da poi che Marco fu così battuto,</l>
+<l>fece l'accordo con Luigi in Francia,</l>
+<l>per vendicar el colpo ricevuto.</l>
+</lg><lg><l>E perché 'l Turco arrestava la lancia</l>
+<l>contro di lor, tanto timor li vinse</l>
+<l>di non far cigolar la lor bilancia,</l>
+</lg><lg><l>ch'a far con voi la pace li sospinse,</l>
+<l>e uscirsi di Pisa al tutto sparsi;</l>
+<l>e 'l Moro a consentirla voi costrinse,</l>
+</lg><lg><l>per veder se possea riguadagnarsi</l>
+<l>con questo benifizio el Viniziano,</l>
+<l>li altri remedi iudicando scarsi.</l>
+</lg><lg><l>Ma questo suo disegno ancor fu vano,</l>
+<l>perché gli avien la Lombardia divisa</l>
+<l>secretamente col gran re cristiano.</l>
+</lg><lg><l>Così restò l'astuzia sua derisa,</l>
+<l>e voi, sanza temer di cosa alcuna,</l>
+<l>ponesti 'l campo vostro intorno a Pisa;</l>
+</lg><lg><l>dove posasti 'l corso d'una luna</l>
+<l>senz'alcun frutto, ch'a' principii forti</l>
+<l>s'oppose crudelmente la fortuna.</l>
+</lg><lg><l>Lungo sarebbe narrar tutti e' torti,</l>
+<l>tutti l'inganni corsi in quello assedio,</l>
+<l>e tutti e' cittadin per febbre morti.</l>
+</lg><lg><l>E non veggendo a l'acquisto remedio,</l>
+<l>levasti 'l campo, per fuggir l'affanno</l>
+<l>di quella impresa e del Vitello el tedio.</l>
+</lg><lg><l>Poco di poi, del ricevuto inganno</l>
+<l>vi vendicasti assai, dando la morte</l>
+<l>a quel che fu cagion di tanto danno.</l>
+</lg><lg><l>El Moro ancor non corse miglior sorte</l>
+<l>in questo tempo, perché la corona</l>
+<l>di Francia li era già sopra le porte;</l>
+</lg><lg><l>onde fuggì, per salvar la persona:</l>
+<l>e Marco, sanz'alcun ostacul, messe</l>
+<l>le 'nsegne in Ghiaradadda ed in Cremona.</l>
+</lg><lg><l>E per servar el Gallo le promesse</l>
+<l>al papa, fu bisogno consentigli</l>
+<l>che 'l Valentin de le sue genti avesse;</l>
+</lg><lg><l>el qual, sotto la insegna de' tre gigli,</l>
+<l>d'Imola e di Furlì si fe' signore,</l>
+<l>e cavonne una donna co' suo' figli.</l>
+</lg><lg><l>E voi vi ritrovavi in gran timore,</l>
+<l>per esser suti un po' troppo infingardi</l>
+<l>a sequitar el Gallo vincitore.</l>
+</lg><lg><l>Pur, dopo la vittoria co' Lombardi,</l>
+<l>contento fu d'accettarvi, non sanza</l>
+<l>fatica e costo pe 'l vostro esser tardi.</l>
+</lg><lg><l>Né fu appena ritornato in Franza</l>
+<l>che Milan richiamava Lodovico;</l>
+<l>per mantener la popular usanza;</l>
+</lg><lg><l>ma 'l Gallo, più veloce ch'io non dico,</l>
+<l>in men tempo che voi non diresti ecco,</l>
+<l>si fece forte contr'al suo nimico.</l>
+</lg><lg><l>Volsono e' Galli di Romagna el becco</l>
+<l>verso Milan, per soccorrer e' suoi,</l>
+<l>lasciando il Papa e 'l Valentino in secco.</l>
+</lg><lg><l>E perché 'l Gallo ne portassi poi,</l>
+<l>come portò, la palma con l'ulivo,</l>
+<l>non mancasti anche a darli aiuto voi;</l>
+</lg><lg><l>onde che 'l Moro d'ogni aiuto privo,</l>
+<l>venne a Mortara co' Galli alle mani,</l>
+<l>e ginne in Francia misero e cattivo.</l>
+</lg><lg><l>Ascanio, suo fratel, di bocca a' cani</l>
+<l>sendo scampato, per maggior oltraggio,</l>
+<l>la lealtà provò de' Viniziani.</l>
+</lg><lg><l>Volsono e' Galli, di poi, far passaggio</l>
+<l>ne' terren vostri, sol per isforzare</l>
+<l>e ridurre e' Pisani a darvi omaggio.</l>
+</lg><lg><l>Così vennon avanti e, nel passare</l>
+<l>che fece con sue genti, Beumonte</l>
+<l>trasse a la Sega più d'un mascellare.</l>
+</lg><lg><l>E come furno co' Pisani a fronte,</l>
+<l>pien di confusion, di timor cinti,</l>
+<l>non dimostrorno già lor forze pronte,</l>
+</lg><lg><l>ma dipartirsi quasi rotti, e tinti</l>
+<l>di gran vergogna; e conobbesi 'l vero,</l>
+<l>come e' Franzesi possono esser vinti.</l>
+</lg><lg><l>Né fu caso a passarlo di leggero,</l>
+<l>perché, se fece voi vili e abietti,</l>
+<l>fu a' Franzesi il primo vitupero;</l>
+</lg><lg><l>né voi di colpa rimanesti netti,</l>
+<l>però che 'l Gallo ricoprir volea</l>
+<l>la sua vergogna con gli altrui defetti,</l>
+</lg><lg><l>né anche 'l vostro stato ben sapea</l>
+<l>deliberarsi; e mentre che 'nfra dua</l>
+<l>del re non ben contenti si vivea,</l>
+</lg><lg><l>el duca Valentin le vele sua</l>
+<l>ridette a' venti e verso 'l mar di sopra</l>
+<l>de la sua nave rivoltò la prua;</l>
+</lg><lg><l>e con sua gente fe' mirabil opra</l>
+<l>espugnando Faenza in tempo curto</l>
+<l>e mandando Romagna sottosopra.</l>
+</lg><lg><l>Sendo, di poi, sopra Bologna surto,</l>
+<l>con gran fatica la Sega sostenne</l>
+<l>la violenza di sue genti e l'urto.</l>
+</lg><lg><l>Partito quindi, in Toscana ne venne,</l>
+<l>sé rivestendo de le vostre spoglie,</l>
+<l>mentre che 'l campo sopra 'l vostro tenne;</l>
+</lg><lg><l>onde che voi per fuggir tante doglie</l>
+<l>come color che altro far non ponno,</l>
+<l>cedesti in qualche parte a le sue voglie.</l>
+</lg><lg><l>E così le sue genti oltre passonno,</l>
+<l>ma, nel passar, piacque a chi Siena regge</l>
+<l>rinnovellar Piombin di nuovo donno.</l>
+</lg><lg><l>A costor retro venne nuova gregge,</l>
+<l>che sopra 'l vostro stato pose 'l piede,</l>
+<l>non moderata da freno o da legge.</l>
+</lg><lg><l>Mandava questi el re contr'a l'erede</l>
+<l>di Ferrandin e, perché si fuggissi,</l>
+<l>la metà di quel Regno a Spagna diede;</l>
+</lg><lg><l>tanto che Federigo dipartissi,</l>
+<l>vista de' suoi la capuana pruova,</l>
+<l>e ne le man di Francia a metter gissi.</l>
+</lg><lg><l>E perché 'n questo tempo si ritruova</l>
+<l>Roano in Lombardia, voi praticavi</l>
+<l>far col re, per suo mezzo, lega nuova.</l>
+</lg><lg><l>Eri sanz'armi e 'n gran timore stavi</l>
+<l>pe 'l corno ch'al Vitello era rimaso</l>
+<l>e de l'Orso e del papa dubitavi.</l>
+</lg><lg><l>E parendovi pur viver a caso</l>
+<l>e dubitando non esser difesi</l>
+<l>se vi avveniva qualche avverso caso</l>
+</lg><lg><l>dopo 'l voltar di molti giorni e mesi,</l>
+<l>non sanza grande spendio, fusti ancora</l>
+<l>in sua protezion da Francia presi;</l>
+</lg><lg><l>sotto 'l cui caldo vi pensasti allora</l>
+<l>posser tòr a' Pisan le biade in erba</l>
+<l>e le vostre bandiere mandar fuora.</l>
+</lg><lg><l>Ma Vitellozzo e sua gente superba,</l>
+<l>sendo contra di voi di sdegno pieno,</l>
+<l>per la ferita del fratello acerba</l>
+</lg><lg><l>al Cavallo sfrenato ruppe 'l freno</l>
+<l>per tradimento, e Valdichiana tutta</l>
+<l>vi tolse, e l'altre terre, in un baleno.</l>
+</lg><lg><l>La guerra, che Firenze avea distrutta,</l>
+<l>e la confusion de' cittadini</l>
+<l>vi fe' questa ferita tanto brutta;</l>
+</lg><lg><l>e da cotante iniurie de' vicini</l>
+<l>per liberarvi, e da sì crudo assalto,</l>
+<l>chiamasti e' Galli ne' vostri confini.</l>
+</lg><lg><l>E perché 'l Valentino avea fatto alto</l>
+<l>con sue genti a Nocera, e quindi preso</l>
+<l>el ducato d'Urbin sol con un salto,</l>
+</lg><lg><l>stavi col cuor e con l'almo sospeso</l>
+<l>che col Vitello e' non si raccozzassi</l>
+<l>e con quel fussi a' vostri danni sceso;</l>
+</lg><lg><l>quando a l'un comando che si fermassi</l>
+<l>pe' vostri prieghi, el re di San Dionigi;</l>
+<l>a l'altro furno e' suo' disegni cassi.</l>
+</lg><lg><l>Trasse 'l Vitel d'Arezzo e' suo' vestigi;</l>
+<l>il duca in Asti si fu presentato</l>
+<l>per iustificar sé col re Luigi.</l>
+</lg><lg><l>Né sare' tanto aiuto a tempo stato;</l>
+<l>se non fussi la 'ndustria di colui</l>
+<l>che allora governava 'l vostro stato,</l>
+</lg><lg><l>forse che venavate 'n forza altrui;</l>
+<l>perché quattro mortal ferite avevi,</l>
+<l>che tre ne fur sanate da costui:</l>
+</lg><lg><l>Pistoia in parte rebellar vedevi</l>
+<l>e di confusion Firenze pregna</l>
+<l>e Pisa e Valdichiana non tenevi.</l>
+</lg><lg><l>Costui la scala a la suprema insegna</l>
+<l>pose, su per la qual condotta fusse</l>
+<l>s'anima c'era di salirvi degna;</l>
+</lg><lg><l>costui Pistoia in gran pace ridusse;</l>
+<l>costui Arezzo e tutta Valdichiana</l>
+<l>sotto l'antico iugo ricondusse.</l>
+</lg><lg><l>La quarta piaga non possé far sana</l>
+<l>di questo corpo, perché nel guarillo</l>
+<l>s'oppose 'l tempo a sì felice mana.</l>
+</lg><lg><l>Venuto, dunque, el giorno sì tranquillo,</l>
+<l>nel qual el popol vostro, fatto audace,</l>
+<l>el portator creò del suo vessillo</l>
+</lg><lg><l>né fur d'un cerbio due corna capace</l>
+<l>acciò che sopra la lor soda petra</l>
+<l>potessi edificar la vostra pace.</l>
+</lg><lg><l>E s'alcun da tal ordine s'arretra</l>
+<l>per alcuna cagion, esser potrebbe</l>
+<l>di questo mondo non buon geometra.</l>
+</lg><lg><l>Poscia che 'l Valentin purgato s'ebbe</l>
+<l>e ritornato in Romagna, la impresa</l>
+<l>contro a messer Giovanni far vorrebbe;</l>
+</lg><lg><l>ma come fu questa novella intesa,</l>
+<l>par che l'Orso e 'l Vitel non si contenti</l>
+<l>di voler esser seco a tale offesa.</l>
+</lg><lg><l>E, rivolti fra lor, questi serpenti</l>
+<l>di velen pien cominciar a ghermirsi</l>
+<l>e con gli unghioni a stracciarsi e co' denti;</l>
+</lg><lg><l>e mal possendo el Valentin fuggirsi,</l>
+<l>li bisognò, per ischifar el rischio,</l>
+<l>con lo scudo di Francia ricoprirsi;</l>
+</lg><lg><l>e per pigliar e' suoi nemici al vischio,</l>
+<l>fischiò suavemente, e per ridurli</l>
+<l>ne la sua tana, questo bavalischio.</l>
+</lg><lg><l>Né molto tempo perse nel condurli,</l>
+<l>che 'l traditor di Fermo e Vitellozzo</l>
+<l>e quelli Orsin, che sì nimici furli,</l>
+</lg><lg><l>ne le sue insidie presto dier di cozzo;</l>
+<l>dove l'Orso lasciò più d'una zampa,</l>
+<l>e al Vitel fu l'altro corno mozzo.</l>
+</lg><lg><l>Sentì Perugia e Siena ancor la vampa</l>
+<l>de l'idra, e ciaschedun di que' tiranni</l>
+<l>fuggendo innanzi a la sua furia scampa.</l>
+</lg><lg><l>Né 'l cardinal Orsin possé li affanni</l>
+<l>de la sua casa misera fuggire,</l>
+<l>ma restò morto sotto mille inganni.</l>
+</lg><lg><l>In questi tempi e' Galli pien d'ardire</l>
+<l>contro gl'Ispani voltorno le punte,</l>
+<l>volendo el Regno a lor modo partire;</l>
+</lg><lg><l>e le genti inimiche arien consunte</l>
+<l>e del Reame occupato ogni cosa,</l>
+<l>non essendo altre forze sopraggiunte;</l>
+</lg><lg><l>ma, divenuta forte e poderosa</l>
+<l>la parte ispana, fe' del sangue avverso</l>
+<l>la Puglia e la Calavria sanguinosa.</l>
+</lg><lg><l>Onde che 'l Gallo si rivoltò verso</l>
+<l>Italia irato, come quel che brama</l>
+<l>di riaver lo stato e l'onor perso.</l>
+</lg><lg><l>El sir de la Tremoglia, uom di gran fama,</l>
+<l>per vendicarlo, in queste parti corse</l>
+<l>a soccorrer Gaeta che lo chiama;</l>
+</lg><lg><l>né molto innanzi le sue genti porse,</l>
+<l>perché Valenza e 'l suo padre mascagno</l>
+<l>di sequitarlo li metteno in forse.</l>
+</lg><lg><l>Cercavon questi di nuovo compagno</l>
+<l>che dessi lor degli altri stati in preda,</l>
+<l>non veggendo col Gallo più guadagno.</l>
+</lg><lg><l>Voi, per non esser del Valentin preda,</l>
+<l>come eravate stati ciascun dì,</l>
+<l>e che non fussi di Marzocco ereda,</l>
+</lg><lg><l>condotto avevi di Can el baglì</l>
+<l>con cento lance e altra gente molta,</l>
+<l>credendo più securi star così;</l>
+</lg><lg><l>con la qual gente, la seconda volta,</l>
+<l>facesti Pisa di speranza priva</l>
+<l>di potersi goder la sua ricolta.</l>
+</lg><lg><l>Mentre che la Tremoglia ne veniva,</l>
+<l>e che fra 'l Papa e Francia umor ascoso</l>
+<l>e collera maligna ribolliva</l>
+</lg><lg><l>malò Valenza e, per aver riposo,</l>
+<l>portato fu tra l'anime beate</l>
+<l>lo spirto d'Alessandro glorioso;</l>
+</lg><lg><l>del qual sequirno le sante pedate</l>
+<l>tre sue familiari e care ancelle,</l>
+<l>lussuria, simonia e crudeltate.</l>
+</lg><lg><l>Ma come furno in Francia le novelle,</l>
+<l>Ascanio Sforza, quella volpe astuta,</l>
+<l>con parole suavi, ornate e belle,</l>
+</lg><lg><l>a Roan persuase la venuta</l>
+<l>d'Italia, promettendogli l'ammanto</l>
+<l>che salir a' cristiani in cielo aiuta.</l>
+</lg><lg><l>E' Galli a Roma s'eron fermi intanto,</l>
+<l>né passar volson l'onorato rio</l>
+<l>mentre che vòto stette 'l seggio santo.</l>
+</lg><lg><l>E così fu creato papa Pio;</l>
+<l>ma pochi giorni stiè sott'a quel pondo</l>
+<l>che gli avie posto in su le spalle Iddio.</l>
+</lg><lg><l>Con gran concordia, poi, Iulio secondo</l>
+<l>fu fatto portinar di Paradiso,</l>
+<l>per ristorar de' suo' disagi 'l mondo.</l>
+</lg><lg><l>Poi ch'Alessandro fu dal ciel ucciso,</l>
+<l>lo stato del suo duca di Valenza</l>
+<l>in molte parte fu rotto e diviso.</l>
+</lg><lg><l>Baglion, Vitelli, Orsin e la semenza</l>
+<l>di Montefeltro in casa lor ne girno,</l>
+<l>e Marco prese Rimini e Faenza.</l>
+</lg><lg><l>Insino in Roma il Valentin sequirno</l>
+<l>e' Baglion e gli Orsin, per darli guai,</l>
+<l>e de le spoglie sue si rivestirno.</l>
+</lg><lg><l> Iulio sol lo nutrì di speme assai;</l>
+<l>e quel duca in altrui trovar credette</l>
+<l>quella pietà che non conobbe mai.</l>
+</lg><lg><l>Ma poi ch'ad Ostia qualche giorno stette</l>
+<l>per dipartirsi, el papa fe' tornallo</l>
+<l>in Roma, e a sue genti a guardia 'l dette.</l>
+</lg><lg><l>Intanto e' capitan del fiero Gallo,</l>
+<l>sopra la riva del Gariglian giunti,</l>
+<l>facevan ogni forza per passallo;</l>
+</lg><lg><l>e avendo in quel luogo invan consunti</l>
+<l>con gran disagio molti giorni e notti,</l>
+<l>dal freddo afflitti e da vergogna punti,</l>
+</lg><lg><l>e non essendo insieme mai redotti,</l>
+<l>per vari luoghi e 'n più parti dispersi,</l>
+<l>dal tempo e da' nimici furon rotti.</l>
+</lg><lg><l>Onde avendo l'onor e' danar persi</l>
+<l>a Salsa, a Roma e quivi, tutto mesto</l>
+<l>si dolfe 'l Gallo de' suo' casi avversi.</l>
+</lg><lg><l>E parendo a l'Ispano aver in questo</l>
+<l>conflitto avuto le vittorie sue,</l>
+<l>né volendo giucar co' Galli el resto,</l>
+</lg><lg><l>forse sperando ne la pace piue,</l>
+<l>fece fermar el bellico tumulto,</l>
+<l>e de la triegua ben contento fue.</l>
+</lg><lg><l>Né voi tenesti 'l valor vostro occulto,</l>
+<l>ma d'arme più gagliarde vi vestisti,</l>
+<l>per posser meglio opporvi a ogni insulto.</l>
+</lg><lg><l>Né da le offese de' Pisan partisti,</l>
+<l>anzi, togliesti lor le terze biade,</l>
+<l>e per mare e per terra li assalisti.</l>
+</lg><lg><l>E perché non temén le vostre spade,</l>
+<l>voi vi sforzasti con varii disegni</l>
+<l>rivolger Arno per diverse strade.</l>
+</lg><lg><l>Or, per disacerbar li animi pregni,</l>
+<l>avete a ciaschedun le braccia aperte,</l>
+<l>ch'a domandar perdon venir si degni.</l>
+</lg><lg><l>Intanto 'l papa, dopo molte offerte,</l>
+<l>fe' di Furlì e de la rocca acquisto,</l>
+<l>e Borgia si fuggì per vie coperte;</l>
+</lg><lg><l>e benché fussi da Consalvo visto</l>
+<l>con lieto volto, li pose la soma</l>
+<l>che meritava un rebellante a Cristo.</l>
+</lg><lg><l>E per far ben tanta superbia doma,</l>
+<l>in Ispagna mandò legato e vinto</l>
+<l>chi già fe' tremar voi e pianger Roma.</l>
+</lg><lg><l>Ha volto el sol duo volte l'anno quinto</l>
+<l>sopra questi accidenti crudi e fieri,</l>
+<l>e di sangue ha veduto il mondo tinto;</l>
+</lg><lg><l>e or raddoppia l'orzo a' suo' corsieri,</l>
+<l>acciò che presto presto si risenta</l>
+<l>cosa, che queste vi pain leggieri.</l>
+</lg><lg><l>Non è ben la fortuna ancor contenta,</l>
+<l>né posto ha fine a l'italiche lite,</l>
+<l>né la cagion di tanti mali è spenta;</l>
+</lg><lg><l>non son e' regni e le potenzie unite,</l>
+<l>né posson esser, perché 'l papa vuole</l>
+<l>guarir la Chiesa de le sue ferite.</l>
+</lg><lg><l>L'imperador, con l'unica sua prole,</l>
+<l>vuol presentarsi al successor di Petro;</l>
+<l>al Gallo el colpo ricevuto duole;</l>
+</lg><lg><l>e Spagna, che di Puglia tien lo scetro,</l>
+<l>va tendendo a' vicin laccioli e rete,</l>
+<l>per non tornar con le sue imprese a retro;</l>
+</lg><lg><l>Marco, pien di paura e pien di sete,</l>
+<l>fra la pace e la guerra tutto pende;</l>
+<l>e voi di Pisa troppa voglia avete.</l>
+</lg><lg><l>Per tanto facilmente si comprende</l>
+<l>che 'nfin al cielo aggiugnerà la fiamma,</l>
+<l>se nuovo fuoco fra costor s'accende.</l>
+</lg><lg><l>Onde l'animo mio tutto s'infiamma</l>
+<l>or di speranza, or di timor si carca,</l>
+<l>tanto che si consuma a dramma a</l>
+</lg><lg><l>dramma; perché saper vorrebbe dove, carca</l>
+<l>di tanti incarchi, debbe, o in qual porto,</l>
+<l>con questi venti, andar la vostra barca.</l>
+</lg><lg><l>Pur si confida nel nocchier accorto</l>
+<l>ne' remi, ne le vele e ne le sarte;</l>
+<l>ma sarebbe il cammin facil e corto,</l>
+</lg><lg><l>se voi el tempio riaprissi a Marte.</l>
+</lg>
+</div1><div1 type="parte">
+<head>Decennale secondo</head><lg><l>Gli alti accidenti e fatti furiosi,</l>
+<l>che in dieci anni seguenti sono stati,</l>
+<l>poi che, tacendo, la penna riposi,</l>
+</lg><lg><l>le mutazion di regni, imperi e Stati,</l>
+<l>successe pur per l'italico sito,</l>
+<l>dal consiglio divin predestinati,</l>
+</lg><lg><l>canterò io; e di cantare ardito</l>
+<l>sarò fra molto pianto, benché quasi</l>
+<l>sia pe 'l dolor divenuto smarrito.</l>
+</lg><lg><l>Musa, se mai di te mi persuasi,</l>
+<l>prestami grazia, che 'l mio verso arrivi</l>
+<l>a la grandezza de' seguiti casi;</l>
+</lg><lg><l>e dal tuo fonte tal grazia derivi</l>
+<l>di cotanta virtù, che 'l nostro canto</l>
+<l>contenti almanco quei che son or vivi.</l>
+</lg><lg><l>Era sospeso il mondo tutto quanto;</l>
+<l>ognun teneva le redine in mano</l>
+<l>del suo destrier affaticato tanto,</l>
+</lg><lg><l>quando Bartolomeo detto d'Alviano,</l>
+<l>con la sua compagnia, partì del Regno,</l>
+<l>non ben contento del gran Capitano;</l>
+</lg><lg><l>e per dar loco al bellicoso ingegno,</l>
+<l>o per qualunque altra cagion si fosse,</l>
+<l>d'entrar in Pisa avea fatto disegno.</l>
+</lg><lg><l>E benché seco avesse poche posse,</l>
+<l>pur non di manco del futuro gioco</l>
+<l>fu la prima pedona che si mosse.</l>
+</lg><lg><l>Ma voi, volendo spegner questo foco,</l>
+<l>vi preparaste bene e prestamente;</l>
+<l>tal che 'l disegno suo non ebbe loco;</l>
+</lg><lg><l>che, giunto da la Torre a San Vincente,</l>
+<l>per la virtù del vostro Giacomino,</l>
+<l>fu prosternata e rotta la sua gente.</l>
+</lg><lg><l>El qual, per sua virtù, pe 'l suo destino,</l>
+<l>in tanta gloria e tanta fama venne</l>
+<l>quant'altro mai privato cittadino.</l>
+</lg><lg><l>Questo per la sua patria assai sostenne,</l>
+<l>e di vostra milizia il suo decoro</l>
+<l>con gran iustizia gran tempo mantenne;</l>
+</lg><lg><l>avaro de lo onor, largo de l'oro,</l>
+<l>e di tanta virtù visse capace,</l>
+<l>che merita assai più ch'io non lo onoro.</l>
+</lg><lg><l>E or negletto e vilipeso iace</l>
+<l>ne le sue case, pover, vecchio e cieco:</l>
+<l>tanto a fortuna chi ben fa dispiace!</l>
+</lg><lg><l>Di poi, se a mente ben tutto mi reco,</l>
+<l>gisti contr'ai Pisan, con quella speme</l>
+<l>che quella rotta avea recata seco;</l>
+</lg><lg><l>ma perché Pisa poco o nulla teme,</l>
+<l>non molto tempo il campo vi tenesti,</l>
+<l>ch'ei fu principio d'assai tristo seme.</l>
+</lg><lg><l>E se i danar ed onor vi perdesti,</l>
+<l>seguitando il parer universale,</l>
+<l>al voler popular satisfacesti.</l>
+</lg><lg><l>Ascanio, intanto, mort'era, col quale</l>
+<l>s'eran levati gran principi a gara</l>
+<l>per renderlo al suo stato naturale.</l>
+</lg><lg><l>Mort'era Ercule duca di Ferrara,</l>
+<l>mort'era Federico, e di Castiglia</l>
+<l>Elisabetta regina preclara.</l>
+</lg><lg><l>Onde che 'l Gallo per partito piglia</l>
+<l>far pace con Ferrando e li concesse</l>
+<l>per sua consorte di Fois la figlia;</l>
+</lg><lg><l>e la sua parte di Napoli cesse</l>
+<l>per dote di costei, e 'l re di Spagna</l>
+<l>li fece molte larghe l'impromesse.</l>
+</lg><lg><l>In questo, l'arciduca di Brettagna</l>
+<l>s'era partito che con seco avea</l>
+<l>condotta molta gente de la Magna,</l>
+</lg><lg><l>perché pigliar il governo volea</l>
+<l>del regno di Castiglia, quale a lui,</l>
+<l>e non al suocer suo, s'appartenea.</l>
+</lg><lg><l>E come in alto mar giunse costui,</l>
+<l>fu dai venti l'armata combattuta,</l>
+<l>tanto che si ridusse in forza altrui;</l>
+</lg><lg><l>ché la sua nave, dai venti sbattuta,</l>
+<l>applicò in Inghilterra, la quale fue</l>
+<l>pe 'l duca di Soffolch male veduta.</l>
+</lg><lg><l>Indi partito con le genti sue,</l>
+<l>in Castiglia arrivò la sua persona,</l>
+<l>dove Ferrando non istette piue;</l>
+</lg><lg><l>ma ridotto nel regno d'Aragona,</l>
+<l>per ir di Puglia il suo stato a vedere,</l>
+<l>partì con le galee da Barzalona.</l>
+</lg><lg><l>In questo, papa Iulio più tenere</l>
+<l>non possendo il feroce animo in freno,</l>
+<l>al vento dette le sacre bandiere,</l>
+</lg><lg><l>e, d'ira natural e furor pieno,</l>
+<l>contr'alli occupator d'ogni sua terra</l>
+<l>isparse prima il suo primo veleno.</l>
+</lg><lg><l>E per gittarne ogni tiranno in terra,</l>
+<l>abbandonando la sua santa soglia,</l>
+<l>a Perugia e Bologna ei mosse guerra.</l>
+</lg><lg><l>Ma cedendo e' Baglion a la sua voglia,</l>
+<l>restorno in casa, e sol del Bolognese</l>
+<l>cacciò l'antica casa Bentivoglia.</l>
+</lg><lg><l>In questo, poi, maggior fuoco s'accese</l>
+<l>per certo greve disparer che nacque</l>
+<l>fra gli ottimati e 'l popul genovese.</l>
+</lg><lg><l>Per frenar questo, al re di Francia piacque</l>
+<l>passar i monti e favorir la parte</l>
+<l>che per suo amor prostrata e vinta giacque;</l>
+</lg><lg><l>e con ingegno e con forza e con arte</l>
+<l>lo stato genovese ebbe ridutto</l>
+<l>sotto le sue bandiere in ogni parte.</l>
+</lg><lg><l>Poi per levar ogni sospetto in tutto</l>
+<l>a papa Iulio, che non l'assalisse,</l>
+<l>si fu in Savona subito condutto;</l>
+</lg><lg><l>ov'aspettò che Ferrando venisse,</l>
+<l>ch'a governar Castiglia ritornava,</l>
+<l>là dove poco inante dipartisse;</l>
+</lg><lg><l>perché quel regno già tumultuava,</l>
+<l>sendo morto Filippo, e nel tornare</l>
+<l>parlò con Francia, dove l'aspettava.</l>
+</lg><lg><l>L'Imperio, intanto, volendo passare,</l>
+<l>secondo ch'è la lor antica usanza,</l>
+<l>a Roma, per volersi incoronare,</l>
+</lg><lg><l>una dieta avea fatto in Gostanza</l>
+<l>di tutt'e' suoi baron, dove del Gallo</l>
+<l>mostrò l'iniurie e de' baron di Franza;</l>
+</lg><lg><l>e ordinò che ognun fusse a cavallo</l>
+<l>con la sua gente d'arme e fanteria,</l>
+<l>per ogni modo il giorno di san Gallo.</l>
+</lg><lg><l>Ma Franza e 'l Marco che questo sentìa</l>
+<l>uniron la lor gente e, sotto Trento,</l>
+<l>uniti 'nsieme li chiuser la via.</l>
+</lg><lg><l>Né Marco a le difese stiè contento;</l>
+<l>ferìllo in casa, e a l'Imperio tolse</l>
+<l>Gorizia con Trieste in un momento.</l>
+</lg><lg><l>Onde Massimian far triegua volse,</l>
+<l>veggendo contr'ai suoi tanto contrasto,</l>
+<l>e le due terre d'accordo si tolse;</l>
+</lg><lg><l>le qual di poi si furono quel pasto,</l>
+<l>quel rio boccon, quel venenoso cibo</l>
+<l>che di San Marco ha lo stomaco guasto.</l>
+</lg><lg><l>Perché l'Imperio, sì come io vi scribo,</l>
+<l>sut'era offeso, e al buon re de' Galli</l>
+<l>parve de' Vinizian esser corribo.</l>
+</lg><lg><l>Così perché il disegno a Marco falli</l>
+<l>el papa e Spagna insieme tutt'a dua</l>
+<l>s'uniron con l'imperio e i gigli gialli.</l>
+</lg><lg><l>Né steron punto de' patti infra dua,</l>
+<l>ma subito convennon, in Cambrai</l>
+<l>ch'ognun s'andassi per le cose sua.</l>
+</lg><lg><l>In questo voi provvedimenti assai</l>
+<l>avevi ratti, perché verso Pisa</l>
+<l>tenevi volti gli occhi sempre mai,</l>
+</lg><lg><l>non possendo posar in nulla guisa,</l>
+<l>se non l'avevi; e Ferrando e Luigi</l>
+<l>v'avien d'averla la via intercisa.</l>
+</lg><lg><l>E li vostri vicini e' lor vestigi</l>
+<l>seguén, faccendo lor larga l'offerta,</l>
+<l>movendovi ogni dì mille litigi;</l>
+</lg><lg><l>tal che, volendo far l'impresa certa,</l>
+<l>bisognò a ciascuno empier la gola</l>
+<l>e quella bocca che teneva aperta.</l>
+</lg><lg><l>Dunque, sendo rimasta Pisa sola,</l>
+<l>subitamente quella circundasti,</l>
+<l>non vi lasciando entrar se non chi vola:</l>
+</lg><lg><l>e quattro mesi intorno ivi posasti</l>
+<l>con gran disagi e con assai fatica,</l>
+<l>e con assai dispendio l'affamasti.</l>
+</lg><lg><l>E benché fussi ostinata inimica,</l>
+<l>pur, da necessità costretta e vinta,</l>
+<l>tornò piangendo a la catena antica.</l>
+</lg><lg><l>Non era in Francia ancor la voglia estinta</l>
+<l>di muover guerra, e per l'accordo fatto</l>
+<l>una gran gente ha in Lombardia sospinta.</l>
+</lg><lg><l>E papa Iulio ancor ne venne ratto</l>
+<l>con le genti in Romagna, e Berzighella</l>
+<l>assaltò e Faenza inanti tratto.</l>
+</lg><lg><l>Ma poi che a Trevi e cert'altre castella</l>
+<l>fra Franza e 'l Marco alcun leggier assalto</l>
+<l>fu, or con trista or con buona novella,</l>
+</lg><lg><l>alfin Marco rimase in su lo smalto:</l>
+<l>poscia che a Vailà misero salse,</l>
+<l>cascò del grado suo ch'era tant'alto.</l>
+</lg><lg><l>Che fia degli altri, se questo arse ed alse</l>
+<l>in pochi giorni? e se a cotanto impero</l>
+<l>iustizia e forza ed union non valse?</l>
+</lg><lg><l>Gite, o superbi, omai col viso altero,</l>
+<l>voi che li scettri e le corone avete,</l>
+<l>e del futuro non sapete un vero!</l>
+</lg><lg><l>Tanto v'accieca la presente sete,</l>
+<l>che grosso tienvi sopra gli occhi un velo,</l>
+<l>che le cose discosto non vedete.</l>
+</lg><lg><l>Di quinci nasce che 'l voltar del cielo</l>
+<l>da questo a quello i vostri stati volta,</l>
+<l>più spesso che non muta e 'l caldo e 'l gelo;</l>
+</lg><lg><l>che se vostra prudenzia fusse volta</l>
+<l>a cognoscer il mal e rimediarve,</l>
+<l>tanta potenza al ciel sarebbe tolta.</l>
+</lg><lg><l>I' non potrei sì presto raccontarve</l>
+<l>quanto sì presto poi de' Viniziani,</l>
+<l>dopo la rotta, quello stato sparve.</l>
+</lg><lg><l>La Lombardia el gran re de' cristiani</l>
+<l>occupò mezza, e, quel resto che tiene,</l>
+<l>col nome solo il seggio de' Romani;</l>
+</lg><lg><l>e la Romagna al gran Pastor perviene</l>
+<l>sanza contrasto; e 'l re de' Ragonesi</l>
+<l>anch'ei per le sue terre in Puglia viene.</l>
+</lg><lg><l>Ma non sendo il Tedesco in que' paesi</l>
+<l>ancor venuto, da San Marco presto</l>
+<l>e Padova e Trevigi fur ripresi.</l>
+</lg><lg><l>Onde Massimian, sentendo questo,</l>
+<l>con grande assembramento venne poi</l>
+<l>per pigliar quello e non perdere il resto.</l>
+</lg><lg><l>E benché fuss'adiutato da voi</l>
+<l>e da Francia e da Spagna, non di manco</l>
+<l>fe' questo come li altri fatti suoi:</l>
+</lg><lg><l>che, sendo stato con l'animo franco</l>
+<l>a Padova alcun giorno, tutt'afflitto</l>
+<l>levò le genti, affaticato e stanco;</l>
+</lg><lg><l>e da la Lega sendo derelitto,</l>
+<l>di ritornarsi ne la Magna vago,</l>
+<l>perdé Vicenza per maggior despitto...</l>
+</lg>
+</div1>
+</body>
+</text>
+</TEI.2>

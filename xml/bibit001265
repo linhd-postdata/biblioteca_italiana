@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inno a Nettuno d'incerto autore</title>
+            <author>Giacomo Leopardi</author>
+         </titleStmt>
+         <extent>66690 Kb in UTF-8</extent>
+         <publicationStmt>
+            <publisher>Biblioteca Italiana</publisher>
+            <pubPlace>Roma</pubPlace>
+            <date>2008</date>
+            <idno>bibit001265</idno>
+            <availability>
+               <p>Questa risorsa digitale è liberamente accessibile per uso
+      personale o scientifico. Ogni uso commerciale è vietato</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Collezione BibIt</title>
+         </seriesStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Tutte le opere</title>
+               <author>Leopardi, Giacomo</author>
+               <editor id="ed">Felici, Lucio</editor>
+               <publisher>Lexis Progetti Editoriali</publisher>
+               <pubPlace>Roma</pubPlace>
+               <date>1998</date>
+               <note>L'edizione elettronica fa riferimento al testo: Giacomo Leopardi, Tutte le opere, a cura di W. Binni-E. Ghidetti, I, Firenze, Sansoni 1989.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <samplingDecl>
+            <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+    responsabilità dell'autore dell'opera sono stati soppressi nella versione
+    digitale</p>
+         </samplingDecl>
+         <editorialDecl>
+            <correction method="silent" status="medium">
+               <p>Livello medio: controllo a video con collazione con edizione di
+      riferimento</p>
+            </correction>
+            <quotation form="data" marks="all">
+               <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+      sono stati rappresentati sulla versione digitale</p>
+            </quotation>
+            <hyphenation eol="none">
+               <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+      ricomposte</p>
+            </hyphenation>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy id="CGB">
+               <bibl>Classificazione generi BibIt</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date>800</date>
+         </creation>
+         <langUsage>
+            <language id="ita">Italiano</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="CGB">
+               <term>Poesia</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>Data sconosciuta anteriore al 2000</date>
+            <respStmt>
+               <name>LEXIS</name>
+            </respStmt>
+            <item>Digitalizzazione</item>
+         </change>
+         <change>
+            <date>Data sconosciuta anteriore al 2000</date>
+            <respStmt>
+               <name>LEXIS</name>
+            </respStmt>
+            <item>Correzione linguistica</item>
+         </change>
+         <change>
+            <date>2005-05-23T00:00:00.000+01:00</date>
+            <respStmt>
+               <name>Laura Sarzi Braga</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Codifica XML</item>
+         </change>
+         <change>
+            <date>2007-11-14T00:00:00.000+01:00</date>
+            <respStmt>
+               <name>Carla Deiana</name>
+               <name>BIBIT</name>
+            </respStmt>
+            <item>Validazione</item>
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div1 type="epigrafe">
+            <head>INNO A NETTUNO D'INCERTO AUTORE</head>
+            <head>Traduzione dal greco</head>
+            <p>
+               <foreign lang="grc">Ὕμνοι δὲ καὶ ἀθανάτων γέρας αὺτῶν.</foreign>
+            </p>
+            <p rend="italic">
+               <bibl>Teocr., <title>Idill.</title> 17, v. 8.</bibl>
+            </p>
+         </div1>
+         <div1>
+            <head>[Dedica]</head>
+            <opener>
+               <salute>Al Sig. ***,</salute>
+               <salute>Ciamberlano di <hi rend="sc">S.M.I.R.A.</hi>, Cavaliere dell'Ordine Gerosolimitano ec.</salute>
+               <signed rend="italic">Giacomo Leopardi</signed>
+            </opener>
+            <p>Dando al Pubblico, per vostro comandamento, trasportato nella mia lingua il bell'Inno da voi scoperto, a voi lo intitolo, o mio diletto amico, che avete in certa guisa voluto donarmelo e farlo mio. Moltissimo rallegromi di potere con questo mezzo fare a tutti noto e chiaro che noi ci amiamo veramente, e che se non il vostro, certo l'amor mio è ben collocato. Avete voluto che tacessi il vostro nome, ed io vi ubbidisco per ora: ma non so se potrò farlo dove esso non appaia in fronte all'Opera vostra che io prometto ai letterati in questa piccola mia.</p>
+         </div1>
+         <div1>
+            <head>Avvertimento</head>
+            <p>Un mio amico in Roma nel rimuginare i pochissimi manoscritti di una piccola biblioteca il 6 gennaio dell'anno corrente, trovò in un Codice tutto lacero, di cui non rimangono che poche carte quest'Inno greco, e poco appresso speditamene una copia, lietissimo per la scoperta, m'incitò ad imprenderne la traduzione poetica italiana, facendomi avvisato che egli era tutto atteso ad emendare il testo greco, a lavorarne due versioni latine, l'una letterale e l'altra metrica, e a compilare ampie note sopra l'antica poesia. Condussi a fine in poco d'ora l'opera mia assai meno faticosa della sua; ed egli, contuttochè io ripugnassi moltissimo, non volendo annunziare il primo la sua scoperta e farmi bello di cosa non mia, imposemi che dessi incontanente al Pubblico la mia traduzione, dicendo essersi già tardato anche troppo a far tutti consapevoli dell'accaduto, e tornar meglio con una versione della cosa scoperta far conto ai letterati lo scoprimento, che darne loro la secca novella in una gazzetta, da che eglino per lo più sono mossi ad impazienza, e stretti quasi a mormorare d'ogn'indugio che trappone l'Editore, il quale non può spacciarsi così tosto. Fu forza cedere, ed ecco che io do ad un'ora al Pubblico la nuova della scoperta, la traduzione dell'Inno in compagnia di alcune note, e la promessa di un'altra molto migliore edizione dello stesso greco componimento.</p>
+            <p>L'Inno pare antichissimo, avvengachè il Codice non sembri scritto innanzi al trecento. Comincia nel greco così:</p>
+            <p>
+               <quote lang="grc">Ἐννοσιγαῖον κυανοχαίτην ἄρχομ' ἀείδειν.</quote>Termina con questo verso:</p>
+            <p>
+               <quote lang="grc">Ἀμφ' ἄρ' ἀοιδοῖς βαῖν', ὕμνων γὰρ τοῖσι μέμηλε.</quote>
+            </p>
+            <p>Il nome dell'autore non è nelle carte che ci avanzan del Codice già molto più ampio, e non si può di leggeri indovinare. L'Inno porta per titolo:  <title lang="grc">Τοῦ αὐτοῦ Εἰς Ποσειδῶνα</title> — Del medesimo, a Nettuno — da che apparisce che avea nel manoscritto altri componimenti dello stesso poeta, e di questi si leggono a gran fatica nel Codice qua e là alcuni frammenti che non m'è paruto necessario nè anche possibile tradurre, ma che il mio dotto e generoso amico pubblicherà insieme coll'Inno, descrivendo il Codice troppo più minutamente che io non ho voluto fare. Simonide <note place="foot">
+                  <p>Scholiastes Euripidis, ad Med. vers. 4.</p>
+               </note> e Mirone o Merone, poetessa di Bisanzio, <note place="foot">
+                  <p>Eustathius, ad Hom. Il., lib. II, Beot. vers. 218 seq.</p>
+               </note> scrissero Inni a Nettuno. Ma l'autore di questo mi par sì bene istrutto delle cose degli Ateniesi, che io lo credo d'Atene o per lo meno dell'Attica. Panfo ateniese scrisse altresì un Inno a Nettuno, come si raccoglie da Pausania, <note place="foot">
+                  <p>Pausanias, in Achaicis, lib. VII.</p>
+               </note> ma quello ora scoperto, benchè molto antico, non può essere di quel poeta che si dice vissuto avanti Omero; oltrechè quivi non ha ciò che Pausania lesse nel componimento di Panfo. Nulla dico dell'Inno a Nettuno, non più lungo di sette versi, che è fra gli attribuiti ad Omero. Ho adoperato molto per tradurre fedelissimamente, e non ho trascurato pure una parola del testo, di che potrà agevolmente venire in chiaro chi vorrà ragguagliare la traduzione coll'originale, uscito che sarà questo alla luce.</p>
+         </div1>
+      </front>
+      <body>
+         <div1>
+            <head>Inno a Nettuno</head>
+            <p>
+               <foreign lang="grc">Γεράων δὲ θεοῖς κάλλιστον ἀοιδή.</foreign>
+            </p>
+            <p rend="italic">
+               <bibl>Teocr., <title>Idill.</title> 22, vers. ult.</bibl>
+            </p>
+            <quote rend="block">
+               <lg>
+                  <l>Lui che la terra scuote, azzurro il crine,</l>
+                  <l>A cantare incomincio. Alati preghi</l>
+                  <l>A te, Nettuno Re, forza è che indrizzi</l>
+                  <l>Il nocchier fatichevole che corre</l>
+                  <l>Su veloce naviglio il vasto mare,</l>
+                  <l>Se campar brama dai sonanti flutti</l>
+                  <l>E la morte schivar: che a te l'impero</l>
+                  <l>Del pelago toccò, da che nascesti</l>
+                  <l>Figlio a Saturno, e al fulminante Giove</l>
+                  <l>Fratello e al nero Pluto. E Rea la Diva</l>
+                  <l>Del vago crin ti partorì, ma in cielo</l>
+                  <l>Non già: chè di Saturno astuto Nume</l>
+                  <l>Gli sguardi paventava. Ella discese</l>
+                  <l>A la selvosa terra, il petto carca</l>
+                  <l>D'acerba doglia, e scolorite avea</l>
+                  <l>Le rosee guance. Mentre il sole eccelso</l>
+                  <l>Ardea su le montagne i verdi boschi,</l>
+                  <l>E sul caldo terren s'abbandonava</l>
+                  <l>L'agricoltor cui spossatezza invaso</l>
+                  <l>Avea le membra (poi che di Semele</l>
+                  <l>Dal sen ricolmo nato ancor non era</l>
+                  <l>Il figlio alti–sonante, ed a gl'industri</l>
+                  <l>Mortali sconosciuto era per anche</l>
+                  <l>Il vin giocondo che vigore apporta),</l>
+                  <l>Ella s'assise a l'ombra, e come uscito</l>
+                  <l>Fosti dal suo grand'alvo, ti ripose</l>
+                  <l>Su le ginocchia assai piangendo, e preghi</l>
+                  <l>Porse a la Terra e a lo stellato Cielo:</l>
+                  <l>O Terra veneranda, o Cielo padre,</l>
+                  <l>Deh riguardate a me, se pure è vero</l>
+                  <l>Che di voi nacqui, e questo figlio mio</l>
+                  <l>Da l'ira di Saturno astuto Nume</l>
+                  <l>Or mi salvate, sì ch'egli nol veda,</l>
+                  <l>E questi ben ricresca e venga adulto.</l>
+                  <l>Così pregava Rea di belle chiome,</l>
+                  <l>Poi che per te di fresco nato, in core</l>
+                  <l>Sentia gran tema: e per gli eccelsi monti</l>
+                  <l>Ed il profondo mare errando gia</l>
+                  <l>L'eco romoreggiante. Udirla il Cielo</l>
+                  <l>E la feconda Terra, e nera Notte</l>
+                  <l>Venne sul bosco, e si sedè sul monte.</l>
+                  <l>Ammutarono a un tratto e sbigottiro</l>
+                  <l>I volatori de la selva, e intorno</l>
+                  <l>Co l'ali stese s'aggirar vicino</l>
+                  <l>Al basso suol. Ma t'accogliea ben tosto</l>
+                  <l>La Diva Terra fra sue grandi braccia;</l>
+                  <l>Nè Saturno il sapea, chè nera Notte</l>
+                  <l>Era su la montagna. E tu crescevi,</l>
+                  <l>Re dal tridente d'oro, ed in robusta</l>
+                  <l>Giovinezza venivi. Allor che voi</l>
+                  <l>Di Rea leggiadra figli e di Saturno,</l>
+                  <l>Tutto fra voi partiste, ebbesi Giove</l>
+                  <l>Che i nembi aduna, lo stellato Cielo;</l>
+                  <l>Il mar ceruleo tu; s'ebbe Plutone</l>
+                  <l>De l'Averno le tenebre. Ma tutti</l>
+                  <l>Tu de la terra scotitor vincevi</l>
+                  <l>Salvo Giove e Minerva. E chi potrebbe</l>
+                  <l>Co l'Olimpio cozzare impunemente?</l>
+                  <l>Il cielo tu lasciasti, e teco il figlio</l>
+                  <l>De la bianca Latona in terra scese:</l>
+                  <l>Ed a l'altier Laomedonte ergevi</l>
+                  <l>Tu de l'ampio Ilion le sacre mura,</l>
+                  <l>Mentre ne' boschi opachi e ne le valli</l>
+                  <l>De l'Ida nuvolosa, i neri armenti</l>
+                  <l>Febo Apollo pascea: ma Laomedonte,</l>
+                  <l>Compita l'opra tua, la pattuita</l>
+                  <l>Mercede ti negò: stolto, che l'onde</l>
+                  <l>Biancheggianti del pelago spingesti</l>
+                  <l>Contr'Ilio tu, che soverchiar le mura</l>
+                  <l>Con gran frastuono mormorando, e tutta</l>
+                  <l>Di sabbia e limo la città colmaro</l>
+                  <l>Con le campagne e i prati. E tal prendesti</l>
+                  <l>Del fier Laomedonte aspra vendetta.</l>
+               </lg>
+               <lg>
+                  <l>Ma qual cagione a tenzonar ti mosse</l>
+                  <l>Con Palla Diva occhi–cilestra? Atene</l>
+                  <l>La Cecropia città, poi ch'appellata</l>
+                  <l>Tu la volevi dal tuo nome, e Palla</l>
+                  <l>Il suo darle voleva. Ella ti vinse:</l>
+                  <l>Che con la lancia poderosa il suolo</l>
+                  <l>Percosse e uscir ne fe' virente olivo</l>
+                  <l>Di rami spasi. Ma tu pur fiedesti</l>
+                  <l>La diva terra col tridente d'oro,</l>
+                  <l>E tosto fuor n'uscì destrier ch'avea</l>
+                  <l>Florido il crine: onde a te diero i fati</l>
+                  <l>I cavalli domar veloci al corso.</l>
+                  <l>I pastori ama Pan, gli arcieri Febo,</l>
+                  <l>Cari a Vulcano sono i fabbri, a Marte</l>
+                  <l>Gli eroi gagliardi in guerra, i cacciatori</l>
+                  <l>A la vergine Cinzia. A te son grati</l>
+                  <l>I domatori de' cavalli; e primo</l>
+                  <l>Tu de la terra scotitor possente</l>
+                  <l>A' chiomati destrieri il fren ponesti.</l>
+                  <l>Salve, equestre Nettuno. I tuoi cavalli</l>
+                  <l>Van pasturando ne gli Argivi prati</l>
+                  <l>Che a te sacri pur sono, e con la zappa</l>
+                  <l>Il faticoso agricoltor non fende</l>
+                  <l>Quel terreno giammai, nè co l'aratro.</l>
+                  <l>Ma presti son come gli alati augelli</l>
+                  <l>I tuoi destrieri, ed erta han la cervice,</l>
+                  <l>Nè ci ha mortal che trar li possa innanzi</l>
+                  <l>Al cocchio sotto il giogo, e con le briglie</l>
+                  <l>Reggerli e col flagello e co la voce.</l>
+               </lg>
+               <lg>
+                  <l>Qual però de le ninfe a te dilette,</l>
+                  <l>Signor del mare, io canterò? la figlia</l>
+                  <l>Di Nereo forse e Doride, Anfitrite?</l>
+                  <l>O Libia chiomi–bella, o Menalippe</l>
+                  <l>Alto–succinta, o Alòpe, o Calliròe</l>
+                  <l>Di rosee guance, o la leggiadra Alcione,</l>
+                  <l>O Ippotoe, o Mecionìce, o di Pitteo</l>
+                  <l>La figlia, Etra occhi–nera, o Chione, od Olbia,</l>
+                  <l>O l'Eolide Canace, o Toosa</l>
+                  <l>Dal vago piede, o la Telchine Alìa,</l>
+                  <l>Od Amimone candida, o la figlia</l>
+                  <l>D'Epidanno, Melissa? E chi potrebbe</l>
+                  <l>Tutte nomarle? e a noverar chi basta</l>
+                  <l>I figli tuoi? Cercion feroce, Eufemo,</l>
+                  <l>Il Tessalo Triòpe, Astaco e Rodo,</l>
+                  <l>Onde nome ha del Sol l'Isola sacra,</l>
+                  <l>E Tèseo ed Alirrozio ed il possente</l>
+                  <l>Triton, Dirrachio e il battaglioso Eumolpo</l>
+                  <l>E Polifemo a Nume ugual. Ma questo</l>
+                  <l>Canto è meglio lasciar, che spesso i figli</l>
+                  <l>Cagion furono a te d'acerbo lutto.</l>
+                  <l>Polifemo de l'occhio il saggio Ulisse</l>
+                  <l>In Trinacria fe' cieco: Eumolpo spense</l>
+                  <l>In Attica Eretteo; ma ben vendetta</l>
+                  <l>Tu ne prendesti, o Scoti–terra, e morto</l>
+                  <l>Lui con un colpo del tridente, al suolo</l>
+                  <l>La casa ne gittasti. E Marte istesso</l>
+                  <l>Impunemente non t'uccise il figlio</l>
+                  <l>Alirrozio leggiadro: i numi tutti</l>
+                  <l>Lui concordi dannar. Salve, o Nettuno</l>
+                  <l>Ampio–possente: a te gl'Istmici ludi</l>
+                  <l>E le corse de' cocchi e de gli atleti</l>
+                  <l>Son sacre, e l'aspre lotte: e neri tori</l>
+                  <l>In Trezene, in Geresto, e in cento grandi</l>
+                  <l>Città di Grecia ogni anno a l'are tue</l>
+                  <l>Cadono innanzi; e ne la Doric'Istmo</l>
+                  <l>Vittime in folla traggono al tuo tempio</l>
+                  <l>Le allegre turbe. Oh salve, azzurro Dio</l>
+                  <l>Che la terra circondi, alti–sonante,</l>
+                  <l>Gravi–fremente. I boschi su le cime</l>
+                  <l>De le montagne crollansi, e le mura</l>
+                  <l>De le cittadi popolose, e i templi</l>
+                  <l>Ondeggiano perfino, allor che scuoti</l>
+                  <l>Tu col tridente flebile la terra,</l>
+                  <l>E gran fracasso s'ode e molto pianto</l>
+                  <l>Per ogni strada. Nè mortale ardisce</l>
+                  <l>Immoto starsi, ma per tema a tutti</l>
+                  <l>Si sciolgon le ginocchia, a l'are tue</l>
+                  <l>Corre ciascun, t'indrizza preghi, e molte</l>
+                  <l>Allor s'offrono a te vittime grate.</l>
+               </lg>
+               <lg>
+                  <l>Salve, o gran figlio di Saturno. Il tuo</l>
+                  <l>Lucente cocchio è in Ega, nel profondo</l>
+                  <l>Del romoroso pelago: Vulcano</l>
+                  <l>Tel fabbricò: divina opra ammiranda.</l>
+                  <l>Ha le ruote di bronzo, ed il timone</l>
+                  <l>D'argento, e d'oro tutto è ricoperto</l>
+                  <l>L'incorruttibil seggio. Allor che poni</l>
+                  <l>Tu sotto il giogo i tuoi cavalli, e volano</l>
+                  <l>Essi pel mare indomito, fendendo</l>
+                  <l>I biancheggianti flutti, su i lor colli</l>
+                  <l>Disperge il vento gli aurei crini; intorno</l>
+                  <l>A te che siedi e il gran tridente rechi</l>
+                  <l>Ne le divine mani, uscite fuori</l>
+                  <l>De le case d'argento, a galla tutte</l>
+                  <l>Le guanci–belle figlie di Nereo</l>
+                  <l>Vengono tosto, e innanzi a te s'abbassa</l>
+                  <l>L'onda e t'apre la via; nè s'alza il vento</l>
+                  <l>Chè tu del mar l'impero in sorte avesti.</l>
+               </lg>
+               <lg>
+                  <l>Ma qual potrò chiamarti, o del tridente</l>
+                  <l>Agitatore? altri Eliconio, ed altri</l>
+                  <l>T'appella Suniarato. A Sparta detto</l>
+                  <l>Sei Natalizio, ed Ippodromio a Tebe,</l>
+                  <l>In Atene Eretteo. Chiamanti Elate</l>
+                  <l>Molti altri, e molti di Trezenio o d'Istmio</l>
+                  <l>Ti danno il nome. I Tessali Petreo</l>
+                  <l>Diconti, ed altri Onchestio, ed altri pure</l>
+                  <l>Egeo ti noma e Cinade e Fitalmio.</l>
+                  <l>Io dirotti Asfaleo, poichè salute</l>
+                  <l>Tu rechi a' naviganti. A te fa voti</l>
+                  <l>Il nocchier quando s'alzano del mare</l>
+                  <l>L'onde canute, e quando in nera notte</l>
+                  <l>Percote i fianchi al ben composto legno</l>
+                  <l>Il flutto alti–sonante che s'incurva</l>
+                  <l>Spumando, e stanno tempestose nubi</l>
+                  <l>Su le cime degli alberi, e del vento</l>
+                  <l>Mormora il bosco al soffio (orrore ingombra</l>
+                  <l>Le menti de' mortali), e quando cade</l>
+                  <l>Precipitando giù dal ciel gran nembo</l>
+                  <l>Sopra l'immenso mare. O Dio possente</l>
+                  <l>Che Tenaro e la sacra Onchestia selva</l>
+                  <l>E Micale e Trezene ed il pinoso</l>
+                  <l>Istmo ed Ega e Geresto in guardia tieni,</l>
+                  <l>Soccorri a' naviganti, e fra le rotte</l>
+                  <l>Nubi fa che si vegga il cielo azzurro</l>
+                  <l>Ne la tempesta, e su la nave splenda</l>
+                  <l>Del sole o de la luna un qualche raggio</l>
+                  <l>O de le stelle, ed il soffiar de' venti</l>
+                  <l>Cessi; e tu l'onde romorose appiana,</l>
+                  <l>Sì che campin dal rischio i marinai.</l>
+                  <l>O Nume, salve, e con benigna mente</l>
+                  <l>Proteggi i vati che de gl'inni han cura.</l>
+               </lg>
+            </quote>
+         </div1>
+         <div1>
+            <head>Note</head>
+            <p rend="italic">Verso 3.</p>
+            <p>
+               <quote rend="italic">A te, Nettuno Re.</quote> A Nettuno davasi il nome di Re da quei di Trezene. Si veda la nota al v. 136.</p>
+            <p rend="italic">Verso 36.</p>
+            <p>
+               <quote rend="italic">Poi che per te di fresco nato, in core<lb/>
+Sentìa gran tema.</quote>
+               <lb/>
+Non ho saputo tradurre meglio questo luogo dove l'originale ha qualche difficoltà che forse vedremo tolta via nella edizione greco–latina di quest'Inno, la quale farassi di corto.</p>
+            <p rend="italic">Verso 45.</p>
+            <p>
+               <quote rend="italic">Ma t'accogliea ben tosto<lb/>
+La Diva Terra fra sue grandi braccia. <seg type="inciso">ec.</seg>
+               </quote> Pare che il poeta non tenga conto della favola, secondo la quale Nettuno fu cresciuto da alcuni pastori.</p>
+            <p rend="italic">Verso 61.</p>
+            <p>
+               <quote rend="italic">Ed al superbo Laomedonte alzavi<lb/>
+Tu de l'ampio Ilion le sacre mura.</quote>  È noto che, secondo i poeti, Nettuno fabbricò le mura di Troia dopo essere stato discacciato dal cielo con Apolline per avere cospirato contro Giove: e però l'autore parla dell'edificamento di quelle mura dopo aver detto che Nettuno non potè vincere Giove nè Minerva, della quale fa parola appresso.</p>
+            <p rend="italic">Verso 67.</p>
+            <p>
+               <quote rend="italic">l'onde<lb/>
+Biancheggianti del pelago spingesti<lb/>
+Contr'Ilio tu,<seg type="inciso"> ec.</seg>
+               </quote>
+               <lb/>
+               <bibl>Ovidio, <title>Metamorfosi</title>, libro XI, favola 8</bibl>:</p>
+            <quote rend="block">
+               <lg lang="lat">
+                  <l>Non impune feres, rector maris inquit, et omnes</l>
+                  <l>Inclinavit aquas ad avarae litora Trojae,</l>
+                  <l>Inque freti formam terras convertit, opesque</l>
+                  <l>Abstulit agricolis, et fluctibus obruit agros.</l>
+               </lg>
+            </quote>
+            <p rend="italic">Verso 83 sg.</p>
+            <p>
+               <quote rend="italic">E tosto fuor n'uscì destrier ch'avea<lb/>
+Florido il crine.</quote>
+               <lb/>
+Questo passo vale tant'oro per la mitologia. È famosissima la contesa di cui fa qui menzione il poeta, e ne hanno parlato, fra gli altri, Varrone presso S. Agostino, Della Città di Dio, libro XVIII, capo 9; Cicerone nella Orazione in difesa di L. Flacco; Plinio, libro XVI, capo XLIV; Plutarco nella Vita di Temistocle, e nelle Simposiache, libro IX, quistione VI, Aristide nella Panatenaica; Eusebio nella Cronica; Nonno nei libri XXXVI e XLIII  <quote lang="grc">τῶν Διονυσιακῶν;</quote> Ausonio nel Catalogo delle Città famose; Proclo nel Comento al Timeo di Platone; Menandro, il Rettorico; lo Scoliaste d'Aristotane nelle Chiose alle Nubi; e tra' nostri, Dante nel quintodecimo del Purgatorio:</p>
+            <quote rend="block">
+               <lg>
+                  <l>Se tu se' sire della villa</l>
+                  <l>Del cui nome ne' Dei fu tanta lite.</l>
+               </lg>
+            </quote>
+            <p>È da notare il luogo di Proclo:  <quote lang="grc">ἔτι τοίνυν τὰ νικητήρια τῆς Ἀθηνᾶς παρ' Ἀθηναίος ἀνᾣᾣύμνηται, καὶ ἑορτὴν ποιοῦνται ταᾣᾣύτην, ὡς τοῦ Ποσειδῶνος ὑπὸ τῆς Ἀθηνᾶς νικωμένου</quote> — oggi per ancora si celebra il trionfo di Minerva appo gli Ateniesi che solenneggiano questa festa per ricordanza della vittoria sopra Nettuno riportata da quella. — Ora arde controversia fra gli eruditi, de' quali altri vogliono che Nettuno facesse uscire della terra acqua; altri che un cavallo. Per l'acqua è Apollodoro, Biblioteca, lib. III. di cui ecco le parole:  <quote lang="grc">Ἥκεν οὖν πρῶτος Ποσειδῶν ἐπὶ τὴν Ἀττικήν, καὶ κλήξας τῇ τριαίνῃ κατὰ μέσην τὴν ἀκρόπολιν, ἀνέφησε θάλασσαν ἣν νῦν Ἐρεχθηίδα καλοῦσι.</quote> — Primo dunque Nettuno venne nell'Attica, e percosso col tridente il suolo nel mezzo della rocca, fe' veduto il mare che ora chiamano Eretteo. — Secondo Varrone citato da Sant'Agostino, — <quote lang="lat">
+                  <emph>quum apparuisset... repente olivae arbor, et alio loco aqua erupisset, regem prodigia ista moverunt: et misit ad Apollinem Delphicum sciscitatum quid intelligendum esset quidve faciendum. Ille respondit quod olea Minervam significaret, unda Neptunum</emph>.</quote> — Il Pseudo–Didimo nelle note al libro XVII della Iliade dice, come Apollodoro, che  <quote lang="grc">Ποσειδῶν καὶ Ἀθηνᾶ περὶ τῆς Ἀττικῆς ἐφιλονείκουν, καὶ Ποσειδῶν ἐπὶ τῆς ἀκροπόλεως τῆς Ἀττικῆς κροᾣᾣύσας τῇ τριαίνῃ, κῦμα θαλάσσης ἐποίησεν ἀναδοθῆναι Ἀθηνᾶ δὲ ἐλαίαν.</quote> — Nettuno e Minerva faceano quistione per l'Attica: e Nettuno dato nella rocca un colpo di tridente fe' scaturirne acqua marina. Minerva fe' uscire fuori un olivo. — Nel libro IX, capo I della Collezione Geoponica, l'avvenimento è narrato con qualche divario, poichè vi si legge che  <quote lang="grc">Ποσειδῶν... λιμέσι καὶ νεωρίοις ταᾣᾣύτην (τὴν πόλιν) ἐκόσμει.</quote> — Nettuno ornolla (la città) di porti e di arsenali. — A dire d'Igino, favola CLXIV — <quote lang="lat">
+                  <emph>inter Neptunum et Minervam quum esset orta certatio, qui primus oppidum in terra Attica conderet, Jovem judicem coeperunt. Minerva quod primum in ea terra oleam sevit quae adhuc dicitur stare, secundum eam judicatum est. At Neptunus iratus, in eam terram mare coepit irrigare velle; quod Mercurius, Jovis jussu, id ne faceret prohibuit</emph>.</quote> — Gran varietà di sentenze comechè non si avea dubbio del fatto. Sin qui però tutti sono in qualche guisa per l'acqua, e nessuno pel cavallo. Similmente Erodoto nel libro VIII afferma che nella rocca d'Atene avea un tempio in cui vedeasi un olivo e dell'acqua marina postevi, a detta degli Ateniesi, da Nettuno e da Minerva. Nè altramente Pausania racconta che in quella rocca erano  <quote lang="grc">καὶ τὸ φυτὸν τῆς ἐλαίας Ἀθηνᾶ, καὶ κῦμα ἀναφαινῶν Ποσειδῶν</quote> — i simulacri di Minerva e di Nettuno che faceano comparire, quella un olivo, e questo acqua. — Battista Egnazio dunque nel capo VIII del libro che intitolò — <title>Racemationes</title> — credè conchiudere a buon dritto che Nettuno nella contesa avuta con Minerva fe' uscire della terra acqua e non un cavallo. Ma Virgilio dice a chiare note l'opposto nel principio delle Georgiche invocando Nettuno:</p>
+            <quote rend="block">
+               <lg lang="lat">
+                  <l>Tuque o, cui prima frementem</l>
+                  <l>Fudit equum magno tellus percussa tridenti,</l>
+                  <l>Neptune:</l>
+               </lg>
+            </quote>
+            <p>Dove alcuno vorrebbe leggere — <foreign lang="lat">Fudit aquam</foreign> — ma invano, che nol permettono i Codici. Servio, spiegando questo passo, espone tutta la favola così. — <quote lang="lat">
+                  <emph>Cum Neptunus et Minerva de Athenarum nomine contenderent, placuit diis ut ejus nomine civitas appellaretur, qui munus melius mortalibus obtulisset. Tunc Neptunus, percusso littore, equum, animal bellis aptum produxit: Minerva, jacta hasta, olivam creavit, quae res est melior comprobata, ut pacis insigne. Ut autem modo Neptunum invocet, causa ejus muneris facit, quia de equis est dicturus in tertio: alioquin incongruum est, si de agricoltura locuturus, numen invocet maris. Equum autem a Neptuno progenitum alii Scythium, alii Syronem, alii Arionem, dicunt fuisse nominatum</emph>
+                  <seg type="inciso">(e quanto al nome di Arione, vedasi appresso il luogo di Stazio nella nota al v. 84 sgg.)</seg>
+                  <emph>et ideo dicitur equum invenisse, quia velox est ejus numen et mobile sicut mare</emph>.</quote> L'autorità d'Ovidio, Metamorfosi libro VI, favola 3, è controversa. Egli dice descrivendo una tela tessuta da Pallade:</p>
+            <quote rend="block">
+               <lg lang="lat">
+                  <l>Stare Deum pelagi longoque ferire tridente</l>
+                  <l>Aspera saxa facit, medioque e vulnere saxi</l>
+                  <l>Exsiluisse ferum, quo pignore vindicet urbem.</l>
+               </lg>
+            </quote>
+            <p>Ma altri sostiene che per — <foreign lang="lat">ferum</foreign> — va letto — <foreign lang="lat">fretum</foreign>. — Stazio, Tebaide, libro XII non parla di cavallo, ma sì bene di mare: Ipse quoque in pugnas vacuatur collis, ubi ingens Lis superum, dubiis donec nova surgeret arbor Rupibus, et longa refugum mare frangeret umbra.</p>
+            <p>Non per tanto il suo chiosatore Lattanzio Placido scrive così: — <quote lang="lat">
+                  <emph>Acropolin dicit arcem Athenarum de qua Neptuno et Minervae dicitur fuisse certamen. Percussa Neptuno terra equum dedit indicium belli; Minerva vero olivam pacis insigne.</emph>
+               </quote> — Benedetto Averani nelle sue Dissertazioni tiene anch'esso dal cavallo. Quest'Inno avrebbe potuto somministrargli una prova di più, molto valevole, se egli l'avesse conosciuto.</p>
+            <p rend="italic">Verso 84 sgg.</p>
+            <p>
+               <quote rend="italic">onde a te diero i fati<lb/>
+I cavalli domar veloci al corso<lb/>
+. . . . . . . . . . . . . . .<lb/>
+e primo<lb/>
+Tu de la terra scotitor possente<lb/>
+A' chiomati destrieri il fren ponesti.</quote>
+               <lb/>
+È noto che gli antichi teneano Nettuno per Dio non solo del mare, ma anche dei cavalli, dei cavalieri e dell'arte equestre, della quale Sofocle, Pausania nel libro VII e, a quello che sembra, il nostro poeta lo fanno inventore. Panfo Ateniese, antichissimo scrittore d'Inni, lo chiama presso Pausania,  <quote lang="grc">ἵππων δοτῆρα</quote> — datore dei cavalli; — e Pindaro nell'Ode Olimpica XIII,  <quote lang="grc">Δαμαῖον πατέρα</quote> — Padre domatore, — e nella quarta Pitica,  <quote lang="grc">Ἵππαρχον</quote>, che è quanto dire, Principe de' cavalli, o de' cavalieri. Omero finge che Nettuno donasse a Peleo i cavalli che poi furono di Achille. Nestore nel libro XXIII della Iliade dice ad Antiloco:</p>
+            <quote rend="block">
+               <lg lang="grc">
+                  <l>Ἀντίλοχ', ἤτοι μέν σε νέον περ ἐόντ' ἐφίλησαν</l>
+                  <l>Ζεᾣᾣύς τε, Ποσειδάων τε, καὶ ἱπποσᾣᾣύνας ἐδίδαξαν</l>
+                  <l>Παντοίας.</l>
+               </lg>
+            </quote>
+            <quote rend="block">
+               <lg rend="italic">
+                  <l>Certo, benchè garzon, Giove e Nettuno,</l>
+                  <l>Antiloco, t'amaro, e l'arti equestri</l>
+                  <l>T'insegnar tutte.</l>
+               </lg>
+            </quote>
+            <p>E Menelao nello stesso libro, finito il combattimento equestre, impone ad Antiloco che giuri per Nettuno. Pindaro nella prima Ode Olimpica dice che Nettuno</p>
+            <quote rend="block">
+               <lg lang="grc">
+                  <l>Ἔδωκε δίφρον χρᾣᾣύσεον, ἐν πτεροῖ–</l>
+                  <l>Σίν τ' ἀκάμαντας ἵππους</l>
+               </lg>
+            </quote>
+            <quote rend="block">
+               <lg rend="italic">
+                  <l>Un cocchio d'oro a lui</l>
+                  <l>E cavalli donò d'ali indefesse,</l>
+               </lg>
+            </quote>
+            <p>parlando di Pelope: e nel fine dell'Ode quinta chiama  <quote lang="grc">Ποσειδανίους</quote> — Nettunii — i cavalli di Psaumide Camarineo, vincitore Olimpico. Si volle ancora che qualche cavallo fosse della razza di Nettuno.</p>
+            <quote rend="block">
+               <lg lang="lat">
+                  <l>Quamvis saepe fuga versos ille egerit hostes,</l>
+                  <l>Et patriam Epirum referat fortesque Mycenas,</l>
+                  <l>Neptunique ipsa deducat origine gentem:</l>
+               </lg>
+            </quote>
+            <p>dice Virgilio di un cavallo nel libro III delle Georgiche. E mettevano in cima all'albero di questa razza quel rinomato cavallo di Adrasto figlio naturale di Nettuno e di Cerere, del quale Stazio nel sesto della Tebaide:</p>
+            <quote rend="block">
+               <lg lang="lat">
+                  <l>Ducitur ante omnes rutilae manifestus Arion</l>
+                  <l>Igne jubae. Neptunus equo, si certa priorum</l>
+                  <l>Fama, pater: primus teneris laesisse lupatis</l>
+                  <l>Ora, et littoreo domitasse in pulvere fertur</l>
+                  <l>Verberibus parcens, etenim insatiatus eundi</l>
+                  <l>Ardor, et hiberno par inconstantia ponto.</l>
+                  <l>Saepe per Jonium Libycumque natantibus ire</l>
+                  <l>Interjunctus equis, omnesque assuetus in oras</l>
+                  <l>Caeruleum deferre patrem. Stupuere relicta</l>
+                  <l>Nubila; certantes Eurique Notique sequuntur.</l>
+               </lg>
+            </quote>
+            <p>Veggasi più sopra nella nota al v. 83 sg. il passo di Servio, e altresì il libro XXIII della Iliade, verso 345 e seguente. Parmi non s'appongano Servio e gli altri interpreti che spiegando il verso 691 del settimo della Eneide:</p>
+            <quote rend="block">
+               <lg lang="lat">
+                  <l>At Messapus equum domitor, Neptunia proles,</l>
+               </lg>
+            </quote>
+            <p>dicono avere il poeta chiamato Messapo, prole di Nettuno, perchè egli era venuto per mare in Italia: spiegazione assai stiracchiata: e penso che Virgilio medesimo spieghi ottimamente la seconda parte del verso colla prima, in cui chiama Messapo, domator di cavalli, qualità, per cagione della quale, se non erro, egli lo fa poi figlio di Nettuno. E notisi come nella Eneide Messapo non è mai detto figlio di Nettuno, che non sia chiamato altresì domatore di cavalli o in altra simile guisa: onde nel libro IX si ripete tutto intero il verso citato, nel duodecimo esso trovasi pure quasi intero, mutato solo l'<foreign lang="lat">At</foreign> in <foreign lang="lat">Et</foreign>, e nel decimo si legge:</p>
+            <quote rend="block">
+               <lg lang="lat">
+                  <l>Subit et Neptunia proles</l>
+                  <l>Insignis Messapus equis.</l>
+               </lg>
+            </quote>
+            <p rend="italic">Verso 93.</p>
+            <p>
+               <quote rend="italic">Salve, equestre Nettuno.</quote>
+               <lb/>
+I Greci davano spesso a Nettuno il nome di  <foreign lang="grc">Ἵππιος</foreign> — Equestre, del quale, come della sentenza di quelli che reputavano Nettuno essere stato il primo domatore de' cavalli ed avere insegnato l'arte del cavalcare, fa menzione Diodoro nel libro V, capo XV della Biblioteca. Aristofane nelle Nubi, atto I, scena I, fa giurare Fidippide per Nettuno equestre. Fuori di Atene in un luogo detto Colono, avea un tempio di Nettuno Equestre, ricordato da Tucidide nel libro VIII, da Arpocrazione, alla voce <foreign lang="lat">Κολωναῖται</foreign>, e dall'antico Glosatore di Sofocle, nell'argomento dell'Edipo Colonese e nelle Dichiarazioni. Pausania, parlando del Colono, rammenta l'altare di Nettuno Equestre.</p>
+            <p rend="italic">Verso 106.</p>
+            <p>
+               <quote rend="italic">O Libia chiomi–bella.</quote>
+               <lb/>
+Mosco, Idillio II, verso 36 e seguenti:</p>
+            <quote rend="block">
+               <lg lang="grc">
+                  <l>Αὐτὴ δὲ χρᾣᾣύσεον τάλαρον φέρεν Εὐρώπεια</l>
+                  <l>Θηητόν, μέγα θαῦμα, μέγαν πόνον Ἡφαίστοιο,</l>
+                  <l>Ὃν Λιβᾣᾣύῃ πόρε δῶρον, ὅτ' ἐς λέχος Ἐννοσιγαίου</l>
+                  <l>Ηἴεν</l>
+               </lg>
+            </quote>
+            <quote rend="block">
+               <lg rend="italic">
+                  <l>... Europa avea</l>
+                  <l>Aureo panier bellissimo, ammirando,</l>
+                  <l>Grand'opra di Vulcan che a Libia in dono</l>
+                  <l>Il diede allor quand'ella di Nettuno</l>
+                  <l>Lo Scoti–terra al talamo recossi.</l>
+               </lg>
+            </quote>
+            <p>Vedasi Apollodoro Biblioteca, libro II.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+o Menalippe<lb/>
+Alto–succinta.</quote>
+               <lb/>
+Clemente Alessandrino, Esortazione ai Gentili:  <quote lang="grc">Κάλει μοι τὸν Ποσειδῶ καὶ τὸν χόρον τὸν διεφθαρμένον ὑπ' αὐτοῦ, τὴν Ἀμφιτρίτην, τὴν Ἀμυμώνην, τὴν Ἀλόπην, τὴν Μεναλίππην, τὴν Ἀλκυόνην, τὴν Ἱπποθόην, τὴν Χιόνην, τὰς ἄλλας τὰς μυρίας ὄ</quote> — Chiamami qua Nettuno e la schiera viziata da lui, Anfitrite Amimone Alope Menalippe Alcione Ippotoe Chione e le altre innumerevoli. — Arnobio, Contra le Nazioni, libro IV: — <quote lang="lat">
+                  <emph>Numquid enim a nobis arguitur rex maris, Amphitritas Hippothoas Amymonas Menalippas Alcyonas per furiosae cupiditatis ardorem, castimoniae virginitate privasse?</emph>
+               </quote> Giulio Firmico, Dell'Errore delle religioni profane, cap. 13: — <quote lang="lat">
+                  <emph>Quis Amymonem, quis Alopen, quis Menalippen, quis Chionem Hippothoenque corrupit? Nempe Deus vester haec fecisse memoratur</emph>
+               </quote>. — Possono vedersi S. Teofilo, Ad Autolico, libro II, capo 7. S. Giustino, Orazione ai Greci, capo II. S. Cirillo, Contra Giuliano, libro VI. Taluno credea che il vero nome della fanciulla fosse Melanippe. Ma anche il Codice di quest'Inno ha Menalippe</p>
+            <p rend="italic">Verso 107.</p>
+            <p>
+               <quote rend="italic">o Alòpe.</quote>
+               <lb/> 
+Si veggano i passi di Clemente Alessandrino e di Giulio Firmico nella nota precedente, e S. Cirillo nel luogo quivi citato.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+o Calliròe<lb/>
+Di rosee guance.</quote>
+               <lb/>
+Calliròe, una delle figlie dell'Oceano e di Teti, è ricordata da molti scrittori antichi; ma nessuno, che io sappia, tranne il nostro poeta, ne fa avvisati che amolla Nettuno.</p>
+            <p rend="italic">Verso 108.</p>
+            <p>
+               <quote rend="italic">o la leggiadra Alcione,<lb/>
+O Ippotoe.</quote>
+               <lb/>
+È da vedere la nota seconda al v. 106.</p>
+            <p rend="italic">Verso 109.</p>
+            <p>
+               <quote rend="italic">o Mecionìce.</quote>
+               <lb/> 
+Esiodo nello Scudo d'Ercole, e l'antico Glosatore di Pindaro nelle glose alla quarta Ode Pitica, scrivono che Eufemo, uno degli Argonauti, figlio di Nettuno, fu partorito da Mecionice. Pindaro però nell'Ode medesima dice che Eufemo fu messo al mondo da Europa, figlia di Tizio, sulle rive del Cefiso. Notisi che Mecionice è detta figlia di Eurota, e che Pindaro chiama Europa la madre di Eufemo.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+o di Pitteo<lb/>
+La figlia, Etra occhi–nera.</quote>  Madre di Teseo. Vedasi appresso la nota prima al v. 119.</p>
+            <p rend="italic">Verso 110.</p>
+            <p>
+               <quote rend="italic">o Chione.</quote>
+               <lb/> 
+Si veda più sopra la nota seconda al v. 106</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+od Olbia.</quote>
+               <lb/> 
+Stefano il Geografo, alla voce  <foreign lang="grc">Ἀστακός: Ἀστακός πόλις Βιθυνίας, ἀπὸ Ἀστακοῦ τοῦ Ποσειδῶνος καὶ νᾣᾣύμφης Ὀλβίας</foreign>: — Astaco, città di Bitinia, così detta da Astaco figlio di Nettuno e della ninfa Olbia.</p>
+            <p rend="italic">Verso 111.</p>
+            <p>
+               <quote rend="italic">o l'Eolide Canace.</quote>
+               <lb/> 
+Si può vedere l'Inno a Cerere di Callimaco.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+o Toosa<lb/>
+Dal vago piede.</quote>
+               <lb/>
+Omero, Odissea, libro I, verso 68 e seguenti:</p>
+            <quote rend="block">
+               <lg lang="grc">
+                  <l>Ἀλλὰ Ποσειδάων γαιήοχος ἀσκελὲς αἰὲν</l>
+                  <l>Κᾣᾣύκλωπος κεχόλωται, ὃν ὀφθαλμοῦ ἀλάωσεν,</l>
+                  <l>Ἀντίθεον Πολᾣᾣύφημον ὅου κράτος ἐστὶ μέγιστον</l>
+                  <l>Πᾶσι Κυκλώπεσσι. Θόωσα δέ μιν τέκε νᾣᾣύμφη,</l>
+                  <l>Φόρκυνος θυγάτηρ ἁλὸς ἀτρυγέτοιο μέδοντος,</l>
+                  <l>Ἐν σπέσσι γλαφυροῖσι Ποσειδάωνι μιγεῖσα.</l>
+               </lg>
+            </quote>
+            <quote rend="block">
+               <lg>
+                  <l>Ma Nettun che la terra intorno aggira,</l>
+                  <l>Di terribile sdegno è sempre acceso</l>
+                  <l>Per lo Ciclope ch'ei de l'occhio ha privo;</l>
+                  <l>Per Polifemo a nume ugual, che avanza</l>
+                  <l>Tutti i Ciclopi in gagliardia. La ninfa</l>
+                  <l>Toosa partorillo, a cui fu padre</l>
+                  <l>Forcine, un Dio de l'infecondo mare,</l>
+                  <l>A Nettuno commista in cavi spechi.</l>
+               </lg>
+            </quote>
+            <p rend="italic">Verso 112.</p>
+            <p>
+               <quote rend="italic">o la Telchine Alìa.</quote>
+               <lb/> 
+Diodoro, Biblioteca, libro V, capo 13:  <quote lang="grc">Ποσειδῶνα δὲ (φασὶν) ἀνδρωθέντα ἐρασθῆναι τῆς τῶν Τελχίνων ἀδελφῆς Ἀλίας, καὶ μιχθέντα ταᾣᾣύτῃ, γεννῆσαι θυγατέρα ῾Ρόδον· ἀφ' ἧς τὴν νῆσον ὠνομάσθαι.</quote> — Dicono che Nettuno fatto adulto, innamorossi di Alia, sorella dei Telchini, e avuto a fare seco lei, generonne una figlia chiamata Rodo, dalla quale vogliono che l'Isola abbia tratto il nome. — Telchini si domandavano, come è fama, gli antichissimi abitatori di Rodi.</p>
+            <p rend="italic">Verso 113.</p>
+            <p>
+               <quote rend="italic">Od Amimone candida.</quote>
+               <lb/> 
+Una delle Danaidi. Si vedano gli scrittori di favole, e più sopra la nota seconda al v. 106.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+... o la figlia<lb/>
+D'Epidanno, Melissa?</quote>
+               <lb/> 
+Costantino Porfirogeneta, Dei Temi libro II, Tema 9  <quote lang="grc">Τοᾣᾣύτου (Ἐπιδάμνου) θυγάτηρ Μέλισσα, ἧς καὶ τοῦ Ποσειδῶνος ὁ Δυῤῥάχιος· ἀφ' ἧς ἐστι τόπος ἐν Ἐπιδάμνῳ Μελισσώνιος, ἔνα Ποσειδῶν αὐτῇ συνῆλθε.</quote> — Di questo (Epidanno) fu figlia Melissa, della quale e di Nettuno nacque Dirrachio. Da essa ha tratto il suo nome un luogo di Epidanno, detto Melissonio, ove Nettuno ebbe affare con lei.</p>
+            <p rend="italic">Verso 116.</p>
+            <p>
+               <quote rend="italic">Eufemo.</quote>
+               <lb/> 
+Si veda la nota prima al v. 109.</p>
+            <p rend="italic">Verso 117.</p>
+            <p>
+               <quote rend="italic">Il Tessalo Triòpe.</quote>
+               <lb/> 
+Partorito da Canace. Si veda l'Inno a Cerere di Callimaco.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+Astaco e Rodo<lb/>
+Onde nome ha del Sol l'Isola sacra.</quote>
+               <lb/>
+Si possono vedere le note ai v. 110 e 112.</p>
+            <p rend="italic">Verso 119.</p>
+            <p>
+               <quote rend="italic">E Tèseo.</quote>
+               <lb/>
+Questo Eroe da alcuni fu fatto figlio di Egeo, da altri di Nettuno. Vedansi Plutarco nella sua Vita, Euripide e Seneca negl'Ippoliti, Isocrate nell'Elogio di Elena, Diodoro nel libro IV, capo 5 della Biblioteca, Apollodoro nel libro III, Igino nella favola 35, Cicerone nel terzo Della Natura degli Dei, Aristide nella Orazione in lode degli Asclepiadi.</p>
+            <quote rend="block">
+               <lg lang="lat">
+                  <l>At procul ingenti Neptunius agmina Theseus</l>
+                  <l>Angustat clypeo, propriaeque exordia laudis,</l>
+                  <l>Centum urbes umbone gerit, centenaque Cretae</l>
+                  <l>Moenia</l>
+               </lg>
+            </quote>
+            <p>dice Stazio nell'ultimo della Tebaide.</p>
+            <p rend="italic">Verso 119.</p>
+            <p>
+               <quote rend="italic">ed Alirrozio.</quote>
+               <lb/> 
+Euripide nel fine della Elettra; Demostene, Contra Aristocrate; Eschine, epistola XI, Epoche d'Oxford; Pausania, lib. I; S. Massimo, Prologo dei Comenti alle Opere di S. Dionigi Areopagita; lo scoliaste di Giovenale, glose alla Satira IX.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+ed il possente<lb/>
+Triton.</quote>
+               <lb/> 
+Esiodo, Teogonia, verso 929 e seguente:</p>
+            <quote rend="block">
+               <lg lang="grc">
+                  <l>Ἐκ δ' Ἀμφιτρίτης καὶ ἐρικτᾣᾣύπου Ἐννοσιγαίου</l>
+                  <l>Τρίτων εὐρυβίης γένετο μέγας.</l>
+               </lg>
+            </quote>
+            <quote rend="block">
+               <lg rend="italic">
+                  <l>Ma d'Anfitrite</l>
+                  <l>E de lo Scoti–terra alti–sonante</l>
+                  <l>Nacque il grande Triton da l'ampia possa.</l>
+               </lg>
+            </quote>
+            <p rend="italic">Verso 120.</p>
+            <p>
+               <quote rend="italic">Dirràchio.</quote>
+               <lb/> 
+È da vedere la nota seconda al v. 113.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+e il battaglioso Eumolpo.</quote>
+               <lb/> 
+Si legga appresso la nota al v. 125.</p>
+            <p rend="italic">Verso 121.</p>
+            <p>
+               <quote rend="italic">E Polifemo a Nume egual.</quote>
+               <lb/> 
+Può vedersi più sopra la nota seconda al v. 111</p>
+            <p rend="italic">Verso 124.</p>
+            <p>
+               <quote rend="italic">Polifemo de l'occhio il saggio Ulisse<lb/>
+In Trinacria fe' cieco.</quote>
+               <lb/>
+Omero, Odissea, libro IX.</p>
+            <p rend="italic">Verso 125.</p>
+            <p>
+               <quote rend="italic">Eumolpo spense<lb/>
+In Attica Eretteo; ma ben vendetta<lb/>
+Tu ne prendesti o Scoti–terra, e morto<lb/>
+Lui con un colpo del tridente, al suolo<lb/>
+La casa ne gittasti</quote>
+               <lb/>
+Igino, favola 46, racconta la cosa un poco altramente. Ecco le sue parole: — <quote lang="lat">
+                  <emph>Eumolpus Neptuni filius, Athenas venit oppugnaturus, quod patris sui terram Atticam fuisse diceret. Is victus cum exercitu, cum esset ab Atheniensibus interfectus, Neptunus, ne filii sui morte Erechtheus laetaretur, expostulavit ut ejus filia Neptuno immolaretur. Itaque Otionia filia cum esset immolata, ceterae, fide data, se ipsae interfecerunt: ipse Erechtheus, Neptuni rogatu, fulmine est ictus</emph>.</quote> — Euripide però nello Jone è d'accordo col nostro poeta. Dice Creusa di Eretteo suo Padre:  <quote lang="grc">Πληγαὶ τριαίνης ποντίου σφ' ἀπώλεσαν</quote>
+            </p>
+            <quote rend="block">
+               <lg>
+                  <l>Da' colpi</l>
+                  <l>Del marino tridente egli fu morto.</l>
+               </lg>
+            </quote>
+            <p>Apollodoro non disegna il genere di morte onde perì Eretteo, ma dice, come l'autore di quest'Inno, che Nettuno rovinò anche la sua casa.</p>
+            <p rend="italic">Verso 129.</p>
+            <p>
+               <quote rend="italic">E Marte istesso<lb/>
+Impunemente non t'uccise il figlio<lb/>
+Alirrozio leggiadro.</quote>
+               <lb/>
+Pausania, libro I:  <quote lang="grc">Ἔστι δὲ ἐν αὐτῷ κρήνη παρ' ᾗ λέγουσι Ποσειδῶνος παῖδα Ἀλιῤῥότιον, θυγατέρα Ἄρεως Ἀλκίππην αἰσχᾣᾣύναντα ἀποθανεῖν ὑπὸ Ἄρεως. ὄ</quote> — Quivi ha una fonte presso cui dicono che Marte uccidesse Alirrozio figlio di Nettuno, il quale avea svergognata la sua figlia Alcippe.</p>
+            <p rend="italic">Verso 131.</p>
+            <p>
+               <quote rend="italic">i numi tutti<lb/>
+Lui concordi dannar.</quote>
+               <lb/>
+Aristide, Orazione Panatenaica:  <quote lang="grc">Λαγχάνει Ποσειδῶν Ἄρει δίκην ὑπὲρ τοῦ παιδός, καὶ νικᾷ ἐν ἅπασι τοῖς θεοῖς· καὶ τὴν ἐπωνυμίαν ὁ τόπος (ὁ Ἄρειος πάγος) λαμβάνει τὴν αὐτήν</quote> — Muove lite Nettuno a Marte per cagione del proprio figlio e la vince co' voti di tutti gli Dei; e da questo avvenimento il luogo (l'Areopago) piglia il suo nome. — Sono da vedere però intorno a questo famosissimo giudizio Lattanzio, libro I, capo 10, e libro V, capo 3; S. Agostino, Della Città di Dio, libro XVIII, capo 10, ed altri, fra' quali i citati nella nota seconda al v. 119</p>
+            <p rend="italic">Verso 135.</p>
+            <p>
+               <quote rend="italic">e neri tori.</quote>
+               <lb/>
+S'immolavano tori a Nettuno, come si raccoglie anche da Omero, Iliade, libro XI, verso 727; da Pindaro, Ode Olimpica XIII, verso 98 e seguente; Pitica IV, verso 365 e seguente; Nemea VI, verso 69; e da Virgilio, Eneide, libro II, verso 201 e seguente, libro III, verso 119; e i tori erano neri, come apparisce sì da questo luogo dell'Inno e sì dal libro III, verso 6 della Odissea. Parmi da notare che in Efeso i giovani che faceano da coppieri nella festa di Nettuno, era detti  <foreign lang="grc">Ταῦροι</foreign> — Tauri — ossia Tori, come vedesi in Ateneo, libro X, e in Eustazio. Comento al ventesimo della Iliade; e forse questa festa era quella chiamata  <foreign lang="grc">Ταᾣᾣύρεια</foreign> — Taura — che Esichio dice essersi celebrata in onore di Nettuno.</p>
+            <p rend="italic">Verso 136.</p>
+            <p>
+               <quote rend="italic">In Trezene.</quote>
+               <lb/> 
+Città dell'Argolide sacra a Nettuno, e però detta Posidonia, cioè Nettunia, al rapportare di Strabone. Dice Plutarco nella Vita di Teseo, che  <quote lang="grc">Ποσειδῶνα... Τροιζήνιοι σέβουσι διαφερόντως, καὶ θεὸς οὗτος ἐστιν αὐτοῖς πολιοῦχος, ᾧ καὶ καρπῶν ἀπάρχονται, καὶ τρίαιναν ἑπίσημον ἔχουσι τοῦ νομίσματος</quote> — quei di Trezene rendono un singolare onore a Nettuno, Dio tutelare della loro città, gli offrono le primizie dei frutti, ed hanno il tridente per insegna della loro moneta. — Pausania, libro II, dice lo stesso delle antiche monete dei Trezeni, e da vantaggio che essi  <quote lang="grc">Ποσειδῶνα (σέβουσι) Βασιλέα ἐπίκλησιν</quote> — onorano Nettuno sotto il titolo di Re.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+in Geresto.</quote>
+               <lb/>
+Porto illustre e castello, che Plinio chiama città, nel promontorio dello stesso nome in Eubea. V'avea un tempio famosissimo di Nettuno ricordato da Strabone, libro X, e da Stefano il Geografo, alla voce <foreign lang="grc">Γεραιστός</foreign>. Il glosator greco di Pindaro nelle glose all'Ode Olimpica XIII, scrive che  <quote lang="grc">ἐν Εὐβοίᾳ Γεραίστια ὑπὸ πάντων Γεραιστίων ἄγεται τῷ Ποσειδῶνι, διὰ τὸν συμβάντα χειμῶνα περὶ Γεραιστόν</quote> — nell'Eubea tutti quei di Geresto celebrano una festa in onore di Nettuno, a cagione di una procella accaduta presso Geresto.</p>
+            <p rend="italic">Verso 147.</p>
+            <p>
+               <quote rend="italic">E gran fracasso s'ode e muto pianto.</quote>
+               <lb/>
+Mi sono sforzato di conservare nella traduzione, quanto era possibile, l'armonia espressiva che è nel testo.</p>
+            <p rend="italic">Verso 150.</p>
+            <p>
+               <quote rend="italic">a l'are tue<lb/>
+Corre ciascun, t'indrizza preghi, e molte Allor s'offrono a te vittime grate.</quote>
+               <lb/>
+Senofonte, Della Repubblica de' Lacedemoni:  <quote lang="grc">Σεισμοῦ γενομένου, οἱ Λακεδαιμόνιοι ὕμνησαν τὸν περὶ Ποσειδῶνος παιᾶνα, καὶ Ἀγησίπολις τῇ ὑστεραίᾳ θυσάμενος Ποσειδῶνι</quote> — Sentitosi un tremuoto, i Lacedemoni cantarono il Peane di Nettuno, a cui nel dì vegnente Agesipoli offrì un sacrificio.</p>
+            <p rend="italic">Verso 153.</p>
+            <p>
+               <quote rend="italic">Il tuo<lb/>
+Lucente cocchio è in Ega, nel profondo<lb/>
+Del romoroso pelago.</quote>
+               <lb/>
+Omero, Iliade, libro XIII, verso 21 e seguenti.</p>
+            <p rend="italic">Verso 172.</p>
+            <p>
+               <quote rend="italic">altri Eliconio.</quote>
+               <lb/>
+Vedansi Omero, Iliade, libro XXIII, verso 404, e i Comentatori a quel luogo; Pausania, libro VII; Eustazio. Comento alla Iliade, libro II, Beozia, verso 82; l'Inno a Nettuno attribuito ad Omero, verso 3, e la nota al verso 193.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+ed altri<lb/>
+T'appella Suniarato.</quote>
+               <lb/>
+Nettuno fu chiamato così, perchè se gli rendeva culto particolare in Sunio, promontorio dell'Attica. Possono vedersi Aristofane ne' Cavalieri e negli Uccelli, e il suo Scoliaste nelle glose a quelle commedie.</p>
+            <p rend="italic">Verso 173.</p>
+            <p>
+               <quote rend="italic">A Sparta detto<lb/>
+Sei Natalizio.</quote>
+               <lb/>
+Pausania, libro III:  <quote lang="grc">Τοῦ θεάτρου δὲ (τοῦ ἐν τῇ Σπάρτῃ) οὐ πόῤῥω, Ποσειδῶνός τε ἱερόν ἐστι Γενεθλίου, καὶ Ἡρῶα Κλεοδαίου τοῦ Ὕλλου, καὶ Οἰβάλου</quote> — Non lungi dal teatro (di Sparta) sono il tempio di Nettuno Natalizio e i monumenti eroici di Cleodeo figlio d'Illo, e di Ebalo.</p>
+            <p rend="italic">Verso 174.</p>
+            <p>
+               <quote rend="italic">ed Ippodromio a Tebe.</quote>
+               <lb/>
+Pindaro, Ode Istmica I, verso 78.</p>
+            <p rend="italic">Verso 175.</p>
+            <p>
+               <quote rend="italic">In Atene Eretteo.</quote>
+               <lb/>
+Plutarco, Vita di Licurgo; Atenagora, Ambasciata per li Cristiani, capo I; Esichio, voce <foreign lang="grc">Ἐρεχθεᾣᾣύς</foreign>; Apollodoro, Biblioteca, libro III, dove si legge: Erittonio.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+Chiamanti Elate<lb/>
+Molti altri.</quote>
+               <lb/>
+Esichio, voce <foreign lang="grc">Ἐλάτης</foreign>.</p>
+            <p rend="italic">Verso 176.</p>
+            <p>
+               <quote rend="italic">di Trezenio.</quote>
+               <lb/> 
+Vedasi più sopra la nota prima al v. 136.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+o d'Istmio.</quote>
+               <lb/> 
+Pindaro, Ode Olimpica XIII, verso 4 e seguente. I giuochi Istmici e l'Istmo medesimo dove era un tempio di Nettuno mentovato da Pausania, libro II, erano sacri a quel Dio. — <foreign lang="lat">In eo (Isthmo)</foreign>, dice Pomponio Mela, libro II, capo 3, <foreign lang="lat">oppidum Cenchreae, fanum Neptuni, ludis, quos Isthmicos vocant, celebre</foreign>. — Callimaco nell'Inno a Delo nomina Cencri come luogo singolarmente sacro a Nettuno.</p>
+            <p rend="italic">Verso 177.</p>
+            <p>
+               <quote rend="italic">I Tessali Petreo<lb/>
+Diconti.</quote>
+               <lb/>
+Anche Pindaro, Ode Pitica IV, verso 246, dà questo nome a Nettuno.</p>
+            <p rend="italic">Verso 178.</p>
+            <p>
+               <quote rend="italic">ed altri Onchestio</quote>
+               <lb/>
+In onore di Nettuno Onchestio celebravano i Tebani una festa ricordata da Pausania, libro IX. Vedasi la nota seconda al v. 192.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+ed altri pure<lb/>
+Egeo ti noma.</quote>
+               <lb/> 
+Virgilio, Eneide, libro III, verso 73 e seguente:</p>
+            <quote rend="block">
+               <lg lang="lat">
+                  <l>Sacra mari colitur medio gratissima tellus</l>
+                  <l>Nereidum matri et Neptuno AEgaeo.</l>
+               </lg>
+            </quote>
+            <p>Licofrone, verso 135, chiama Nettuno,  <quote lang="grc">Αἰγαιῶνα</quote>, e Pindaro, Ode Nemea V, verso 68 e seguente, dice che egli soventi volte recavasi all'Istmo,  <quote lang="grc">Αἰγᾶθεν</quote> — da Ega. — Vedansi il passo di Stazio nella nota prima al v. 192, Omero, Iliade, libro XIII, verso 20 e seguenti, e Odissea, libro V, verso 381, l'Inno a Nettuno ascritto al poeta stesso, verso 3, Strabone, libro VIII e IX, e Stefano il Geografo.</p>
+            <p rend="italic">Verso 179.</p>
+            <p>
+               <quote rend="italic">e Cinade.</quote>
+               <lb/>
+Esichio, voce <foreign lang="grc">Κυνάδης</foreign>.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+e Fitalmio.</quote>
+               <lb/> 
+Non si sa bene che cosa voglia dire questo nome  <foreign lang="grc">Φυτάλμιος</foreign> — Fitalmio. — Esichio dice che è un epiteto di Giove <quote lang="grc">τοῦ ζωογόνου</quote>, cioè, Generatore di animali, dal che si potrebbe argomentare che questo nome non fosse diverso da quello di <foreign lang="grc">Γενέθλιος</foreign>, che io poco sopra in quest'Inno ho renduto — Natalizio —. Ma il contrario si ricava così da questo medesimo Inno, come da Plutarco che nelle Simposiache, libro V, Quistione 3, riferisce il nome Fitalmio non agli animali a cui appartiene l'altro, Natalizio, ma alle piante; ed è superfluo l'osservare che  <foreign lang="grc">φυτόν</foreign> in effetto vale — pianta —.</p>
+            <p rend="italic">Verso 180.</p>
+            <p>
+               <quote rend="italic">Io dirotti Asfaleo, poi che salute<lb/>
+Tu rechi a' naviganti.</quote>
+               <lb/>
+L'antico Glosatore di Aristotane, sposizione degli Acarnesi:  <quote lang="grc">Ἀσφάλειος Ποσειδῶν παρὰ Ἀθηναίοις τιμᾶται ἴνα ἀσφαλῶς πλέωσιν</quote> — A Nettuno Asfaleo rendono culto gli Ateniesi, a fine di navigare alla sicura —. Strabone, libro I, parla di un tempio  <quote lang="grc">Ποσειδῶνος Ἀσφαλίου</quote> — di Nettuno Asfaleo — o Asfalio — alzato in certa isola da quei di Rodi. Vedansi il luogo di Suida nella nota che segue; Macrobio, Saturnali, libro I, capo 17; ed Eustazio, Comento al primo della Iliade, verso 36 e al quinto, verso 344 e seguenti. <quote lang="grc">Ἀσφάλεια</quote> vale — sicurtà.</p>
+            <p rend="italic">Verso 192.</p>
+            <p>
+               <quote rend="italic">Che Tenaro.</quote>
+               <lb/> 
+Il Chiosator greco di Tucidide, postilla al libro I:  <quote lang="grc">Ταίναρον, ακρωτήριον Λακωνικῆς, ἱερὸν Ποσειδῶνος</quote> — Tenaro, promontorio — di Laconia e tempio di Nettuno. — Aristofane, Acarnesi:  <quote lang="grc">Ὁ Ποσειδῶν, ἐπὶ Ταινάρῳ θεός</quote>
+               <quote rend="italic">Nettuno, il Dio che in Tenaro s'onora</quote>. Stazio, Tebaide, libro II:</p>
+            <quote lang="lat">
+               <lg>
+                  <l>Ast ubi prona dies longos super aequora fines</l>
+                  <l>Exigit, atque ingens medio natat umbra profundo;</l>
+                  <l>Interiore sinu frangentia littora curvat</l>
+                  <l>Taenarus, exposito non audax scandere fluctus.</l>
+                  <l>Illic Aegeo Neptunus gurgite fessos</l>
+                  <l>In portum deducit equos.</l>
+               </lg>
+            </quote>
+            <p>Cornelio Nipote, Vita di Pausania: <quote lang="lat">Fanum Neptuni est Taenari quod violare nefas putant Graeci</quote>. Pomponio Mela, libro II, capo 3: <quote lang="lat">In ipso Taenaro, Neptuni templum</quote>. Questo tempio, a dire di Strabone, libro VIII, era in un bosco, e per testimonianza di Pausania, libro III, somigliava una spelonca. Avanti ad esso era una statua di Nettuno, che onoravasi in quel tempio sotto il titolo di Asfaleo, sì come insegnano queste parole di Suida:  <quote lang="grc">Ταίναρον, ἀκρωτήριον Λακωνικῆς, ἔνθα καὶ Ποσειδῶνος ἰερὸν Ἀσφαλίου</quote> — Tenaro, promontorio della Laconia, dove è pure un tempio di Nettuno Asfaleo —. Si celebrava in Tenaro una festa ad onore di Nettuno, della quale è fatta memoria da Esichio, alla voce <foreign lang="grc">Ταιναρίας</foreign>. Possono vedersi Tucidide nel libro I, Plutarco nella Vita di Pompeo, e Stefano il Geografo.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+e la sacra Onchestia selva:</quote>
+               <lb/> 
+Omero, Iliade, libro II. Beozia verso 13:</p>
+            <quote rend="block">
+               <lg lang="grc">
+                  <l>Ὀγχηστόν θ', ἱερὸν Ποσειδήϊον ἀγλαὸν ἄλσος.</l>
+               </lg>
+            </quote>
+            <quote rend="block">
+               <lg rend="italic">
+                  <l>Ed Onchesto</l>
+                  <l>Sacra a Nettuno luminosa selva.</l>
+               </lg>
+            </quote>
+            <p>Dione Crisostomo, Orazione Corintiaca: <quote lang="grc">῾Ρόδος μὲν Ἡλίου, Ὀγχηστὸς Ποσειδῶνος</quote> — Rodi è sacra al Sole, Onchesto a Nettuno —. Onchesto era città di Beozia. Pindaro nella quarta Ode Istmica, verso 33, chiama Nettuno, <quote lang="grc">Ὀγχήστου οἰκέοντα</quote> — abitatore di Onchesto —. Sono da vedere anche l'Ode I, verso 46; Pausania nel libro IX; Eustazio nel Comento alla Iliade, verso citato; e più sopra, la nota prima al v. 178.</p>
+            <p rend="italic">Verso 193.</p>
+            <p>
+               <quote rend="italic">E Micale.</quote>
+               <lb/> 
+Micale era un luogo della Ionia, che Erodoto, libro I, capo 148, chiama sacro, situato incontro a Samo, nel quale, secondochè scrive Diodoro, libro V, gli abitanti di sette città della Ionia si adunavano per fare grandi sacrifici di antica istituzione a Nettuno  <quote lang="grc">τῷ Ἑλικωνίῳ</quote> — Eliconio , come dice Strabone. Questa festa si chiamava <foreign lang="grc">Πανιώνια</foreign>, cioè, Ragunamento di tutti que' della Ionia, e ne fa menzione anche Eustazio. Comento alla Iliade, libro II, Beozia, verso 10 e 82.</p>
+            <p>
+               <quote rend="italic">Ivi.<lb/>
+e Trezene ed il pinoso<lb/>
+Istmo ed Ega e Geresto.</quote>
+               <lb/>
+Si vedano le note ai vv. 136, 176 e 178.</p>
+            <p>Lo scopritore dell'Inno a Nettuno, dopo tutti gli altri frammenti rinvenuti nel Codice ove lo si contiene, hammi inviato due Odi che mi son parute degne d'esser porte ai letterati; e non avendo peculiare annotazione da farvi sopra, m'ha insieme trasmesso la sua letterale interpretazione latina e i suoi emendamenti, perchè qui li pubblicassi, sì come fo, mettendo quella accanto il testo greco, e questi a piè delle facce. Le Odi sono intere, se non che mancano forse pochi versi nel fine della seconda. M'appaiono assai belle, e di buon grado io le ascriverei ad Anacreonte. Voleva il mio amico che le trasportassi in versi italiani, ed io mi ci sono provato e ne ho tradotto una, e poi mi ci sono riprovato, e finalmente ho cancellato tutto. Colui che disse, rima e traduzione essere cose incompatibili, a miglior dritto avria potuto dirlo di una traduzione di Anacreonte, la quale se non è più che fedelissima, se non serba un suono, un ordine di parole esattissimamente rispondente a quello del testo, è piombo per oro forbito puro lucidissimo. Ora come in tanta difficoltà di trovare e ben collocare le parole, gittare tra queste, rime che non siano stiracchiate e che appaiano spontanee? E già non si soffrirebbe una traduzione italiana delle Odi di Anacreonte senza rime. Ma queste non potranno dunque in verun conto voltarsi nella nostra lingua? Altri potrà farlo, non io: e questo basti; che le mie forze posso io sapere, non le altrui. Io per me, sosterrei volentieri togliersi tanto a quelle divine Odi con tor loro la lingua di Anacreonte, che a chi non sa di greco sia possibile cosa conoscere (non dico intendere) Omero, Callimaco e qualche altro, ma Anacreonte non mai. I letterati d'alto ingegno possono, credo, colla loro testimonianza fare che io non sia tenuto di scrivere qui un trattato che non da altri sarebbe inteso che da loro.</p>
+         </div1>
+         <div1>
+            <head>Per l'avvertimento da premettersi a un'altra edizione di quest'Inno.</head>
+            <p>Lo conservo come opera più tosto dell'ingegno che della fantasia e della facoltà poetica. ec. Dovechè i traduttori si studiano di parer originali, io doveva, essendo originale, studiarmi di parer traduttore. E qui si possono mettere tutte le riflessioni sopra questo particolare ch'io scrissi al Giordani nella mia lettera dove si parla di quest'Inno. ec.</p>
+         </div1>
+      </body>
+   </text>
+</TEI.2>

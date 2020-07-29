@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Presso un rivo ch'avea</title>
+    </titleStmt>
+    <extent>7 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000762</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>The Italian cantata in the seventeenth century : facsimiles of manuscripts and prints of works by leading composers including an edition of the poetic texts</title>
+        <title type="part">Cantatas</title>
+        <author>Stradella, Alessandro</author>
+        <editor id="ed">Gianturco, Carolyn</editor>
+        <publisher>Garland Publishing</publisher>
+        <pubPlace>New York ; London</pubPlace>
+        <date>1986</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>600</date>
+    </creation>
+    <langUsage><language id="codice">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2001-10-10T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Chiara Comastri</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale in SGML</item>
+    </change>
+    <change>
+      <date>2003-06-23T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione - Conversione in XML e validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<lg type="verso-libero">
+<l>Presso un rivo ch'avea</l>
+<l>d'argentato cristal fecondo il seno,</l>
+<l>l'infelice <name>Fileno</name></l>
+<l>le sue pene dicea</l>
+<l n="5">all'  adorata sua bella <name>Licori</name>.</l>
+<l>Ella, forse perché de' suoi dolori</l>
+<l>qualche pietade intese,</l>
+<l>così cantando a consigliar lo prese:</l></lg>
+
+
+<lg type="strofa">
+<l rend="indent">"  Datti pace, <name>Fileno</name>, e torna in te.</l></lg>
+
+
+<lg type="strofa"><l rend="indent" n="10">Non sperar vano conforto:</l>
+<l>quanto più la tua costanza</l>
+<l>solca il mar della speranza,</l>
+<l>tanto men t'appressi al porto.</l>
+<l>Resta alfin nell'onde absorto</l>
+<l n="15">chi s'avvanza troppo ardito</l>
+<l>in un mar che non ha lito,</l>
+<l>che solcabile non è.</l></lg>
+
+
+<lg type="strofa"><l rend="indent">Datti pace, <name>Fileno</name>, e torna in te.</l></lg>
+
+
+<lg type="strofa"><l rend="indent">So che grande è il tuo desire</l>
+<l n="20">ma il desir t'accresce affanni:</l>
+<l>chi tropp'alto spiega i vanni</l>
+<l>sempre è in rischio di perire.</l>
+<l>Io ti posso compatire</l>
+<l>e dolermi del tuo male,</l>
+<l n="25">ma se questo non ti vale,</l>
+<l>lamentati del fato e non di me.</l></lg>
+
+
+<lg type="strofa"><l rend="indent">Datti pace, <name>Fileno</name>, e torna in te.”</l></lg>
+
+
+<lg type="verso-libero">
+<l>Sente <name>Fileno</name> afflitto</l>
+<l>che la bella <name>Licori</name></l>
+<l n="30">hanno mossa a pietade i suoi dolori;</l>
+<l>ond'ei nel cor trafitto</l>
+<l>qualche speranza aduna,</l>
+<l>ché chi trova pietà trova fortuna.</l></lg>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Sonetti</title>
+      <author>Rustico Filippi</author>
+    </titleStmt>
+    <extent>45 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000349</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Sonetti</title>
+        <author>Rustico di Filippo</author>
+        <editor id="ed">Mengaldo, Pier Vincenzo</editor>
+        <publisher>Einaudi</publisher>
+        <pubPlace>Torino</pubPlace>
+        <date>1971</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>200</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.1 - POESIA ITALIANA. ORIGINI-1375</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-01-29T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marta Zanazzi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-07-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<titlePage>
+<docTitle>
+<titlePart type="princ">Sonetti</titlePart>
+</docTitle>
+<docImprint>
+<publisher>Giulio Einaudi Editore</publisher>
+<pubPlace>Torino</pubPlace>
+<docDate>1971</docDate>
+</docImprint>
+</titlePage>
+</front>
+<body>
+<div1 type="poesia">
+<head rend="sc">I.</head>
+<lg type="sonetto">
+<lg>
+<l>A voi, messere Iacopo comare,</l>
+<l>Rustico s'acomanda fedelmente,</l>
+<l>e dice, se vendetta avete a fare,</l>
+<l>ch'e' la farà di buon cuor lealmente.</l></lg>
+<lg>
+<l>Ma piaceriagli forte che 'l parlare</l>
+<l>e·rider vostro fosse men sovente,</l>
+<l>ché male perdere uom, che guadagnare,</l>
+<l>suole schifare più la mala gente.</l></lg>
+<lg>
+<l>E forte si crucciò di monna Nese</l>
+<l>quando sonetto udì di lei novello;</l>
+<l>e credel dimostrar tosto in palese.</l></lg>
+<lg>
+<l>Ma troppo siete conto di Fastello,</l>
+<l>fino a tanto ch'egli ha danar da spese:</l>
+<l>ond'e' si crede bene esser donzello.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">II.</head>
+<lg type="sonetto">
+<lg>
+<l>Fastel, messer fastidio de la cazza,</l>
+<l>dibassa i ghebellini a dismisura,</l>
+<l>e tutto il giorno aringa in su la piazza</l>
+<l>e dice ch'e' gli tiene 'n aventura.</l></lg>
+<lg>
+<l>E chi 'l contende, nel viso gli sprazza</l>
+<l>velen, che v'è mischiato altra sozzura,</l>
+<l>e sì la notte come 'l dì schiamazza.</l>
+<l>Or Dio ci menovasse la sciagura!</l></lg>
+<lg>
+<l>Ond'io 'l ti fo saper, dinanzi assai</l>
+<l>ch'a man vegni de' tuo' nemici guelfi,</l>
+<l>s'è temp'e se vendetta non ne fai.</l></lg>
+<lg>
+<l>Ma tu n'avrai merzé, quando il vedrai.</l>
+<l>Fammi cotanto: togligli Montelfi,</l>
+<l>così di duol morir tosto il vedrai.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">III.</head>
+<lg type="sonetto">
+<lg>
+<l>A voi, che ve ne andaste per paura:</l>
+<l>sicuramente potete tornare;</l>
+<l>da ch'e' ci è dirizzata la ventura,</l>
+<l>ormai potete guerra inconinzare.</l></lg>
+<lg>
+<l>E' più non vi bisogna stare a dura,</l>
+<l>da che nonn-è chi vi scomunicare:</l>
+<l>ma ben lo vi tenete 'n isciagura</l>
+<l>che non avete più cagion che dare.</l></lg>
+<lg>
+<l>Ma so bene, se Carlo fosse morto,</l>
+<l>che voi ci trovereste ancor cagione;</l>
+<l>però del papa nonn-ho gran conforto.</l></lg>
+<lg>
+<l>Ma io non voglio con voi stare a tenzone,</l>
+<l>ca·llungo temp'è ch'io ne fui acorto</l>
+<l>che 'l ghibellino aveste per garzone.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">IV.</head>
+<lg type="sonetto">
+<lg>
+<l>Su, donna Gemma, co·la farinata</l>
+<l>e col buon vino e co·l'uova ricenti,</l>
+<l>che la Mita per voi sia argomentata,</l>
+<l>ch'io veggio ben ch'ell'ha alegati i denti.</l></lg>
+<lg>
+<l>Non vedete com'ell'è sottigliata?</l>
+<l>Maravigliar ne fate tutte genti.</l>
+<l>Donna Filippa assai n'è biasimata</l>
+<l>da tutti i suoi amici e da' parenti.</l></lg>
+<lg>
+<l>Or acendete il foco e sì cocete</l>
+<l>cosa che spesso in bocca si metta;</l>
+<l>se non, per certo morir la farete:</l></lg>
+<lg>
+<l>ché la gonella, che sì l'era stretta,</l>
+<l>se ne porian far due, be·llo vedete,</l>
+<l>così è fatta magra e sotiletta.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">V.</head>
+<lg type="sonetto">
+<lg>
+<l>Se no l'atate, fate villania,</l>
+<l>però ch'io dubbio non sia intisichita:</l>
+<l>di belle tortellette le faria,</l>
+<l>ché vedete che nonn-ha de la vita.</l></lg>
+<lg>
+<l>Oi lasso me, com'ell'è gita via!</l>
+<l>Per Dio, pensate come sia guerita,</l>
+<l>ché, non ch'a voi, a me ne 'ncresceria:</l>
+<l>più rangola dovreste aver di Mita.</l></lg>
+<lg>
+<l>E spiate qual fosse la cagione</l>
+<l>ond'ell'ha sì perduto il manicare,</l>
+<l>che si suole sì atar per ficazone;</l></lg>
+<lg>
+<l>e quando fosse sopra al vendemmiare,</l>
+<l>non si tenea le man sotto il gherone:</l>
+<l>ed or s'è sì lasciata dimagrare!</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">VI.</head>
+<lg type="sonetto">
+<lg>
+<l>Volete udir vendetta smisurata</l>
+<l>c'ha·fatta di sua donna l'Acerbuzzo?</l>
+<l>La barba lunga un mese n'ha portata,</l>
+<l>orando che dovea far Giovannuzzo.</l></lg>
+<lg>
+<l>Dio, com' bene le stette a la sciaurata,</l>
+<l>quand'ella soferia così gran puzzo!</l>
+<l>Per quella via ne va da la cognata,</l>
+<l>s'altra vendetta nonn-è di Cambiuzzo.</l></lg>
+<lg>
+<l>Dunque, ben n'anderà per quella via:</l>
+<l>che 'nmantenente fue passato il duolo</l>
+<l>ch'e' la disotterrò, perché putia.</l></lg>
+<lg>
+<l>Almen faccia vendetta del figliuolo!</l>
+<l>Ma per quel ch'io ne spero che ne sia,</l>
+<l>per un fiorin voglio esser cavigliuolo.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">VII.</head>
+<lg type="sonetto">
+<lg>
+<l>No riconoscereste voi l'Acerbo,</l>
+<l>ancor che voi il vedeste molto a sera?</l>
+<l>Sì fareste, ch'e' non fue da Viterbo</l>
+<l>nonn-è ancora una semana intera.</l></lg>
+<lg>
+<l>Del compagno nol dico, ché 'l mi serbo,</l>
+<l>ché troppo arosserebbe ne la cera;</l>
+<l>in pasto il tegno e tuttavia lo 'nerbo,</l>
+<l>ché verrà or con via maggiore schiera.</l></lg>
+<lg>
+<l>Non ch'io v'aprisse, monna leonessa!</l>
+<l>Sì gra·lezzo vi vien per la quintana</l>
+<l>ch'altri avrà quella peverada spessa.</l></lg>
+<lg>
+<l>Molto vi mostravate piemontana;</l>
+<l>fatta siete reina, di contessa:</l>
+<l>Frian v'aspetta quest'altra semana.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">VIII.</head>
+<lg type="sonetto">
+<lg>
+<l>Due donzei nuovi ha oggi in questa terra</l>
+<l>c'hanno sì vinti ciascun fiorentino</l>
+<l>che più non possor sofrire la guerra:</l>
+<l>l'un è l'Acerbo e l'altro è Guadagnino.</l></lg>
+<lg>
+<l>Questi due ci hanno messi a sì gran serra</l>
+<l>che ne ripiace molto Bonfantino;</l>
+<l>e quinci si racorga, s'alcun ci erra,</l>
+<l>che macine non son già di molino:</l></lg>
+<lg>
+<l>ch'elle non hanno fondo, ma stranezza</l>
+<l>hanno di peso, sì che lo palmento</l>
+<l>n'andria giù in perfondo per gravezza,</l></lg>
+<lg>
+<l>ché di piombo è ciascun lor reggimento.</l>
+<l>Chi gli bestemmia, molto abbia alegrezza,</l>
+<l>e chi non, sì gli basti esto tormento.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">IX.</head>
+<lg type="sonetto">
+<lg>
+<l>Collui che puose nome al Macinella</l>
+<l>al mio parer non fue strolago fino,</l>
+<l>ché — dico questo a voi non per novella —</l>
+<l>ch'egli 'l dovea serbar per ser Laino.</l></lg>
+<lg>
+<l>Ché qual cavallo il porta in su la sella</l>
+<l>non vuole esser puledro né ronzino:</l>
+<l>ch'e' vela gli occhi e sì grale favella</l>
+<l>che 'l mar passo per esser saracino!</l></lg>
+<lg>
+<l>Ched egli avanza e passa ogn'altro grave</l>
+<l>che fosse o sia o possa essere al mondo,</l>
+<l>e di·cciò porta ben seco la chiave.</l></lg>
+<lg>
+<l>Ed haccene un, che non ha il capo biondo,</l>
+<l>che 'n mar vorria che fosse co·llui i·nave,</l>
+<l>perch'ambendue n'andassero in profondo.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">X.</head>
+<lg type="sonetto">
+<lg>
+<l>Messer Bertuccio, a dritto uom vi cagiona</l>
+<l>che Fazo non guardate del veleno,</l>
+<l>e ciascun fiorentin di ciò ragiona,</l>
+<l>ch'e' non va ben sicuro a pallafreno.</l></lg>
+<lg>
+<l>Un gran distrier di pregio hae a Chermona,</l>
+<l>che mille livre il dice in tutto 'l meno:</l>
+<l>fate che vegna per la sua persona;</l>
+<l>non siate scarso in sua guardia, né leno.</l></lg>
+<lg>
+<l>E questo dico, e vo' che sia sentenza,</l>
+<l>credendo il me' di voi dicer, per vero:</l>
+<l>messer Bertuccio il guardi per Fiorenza,</l></lg>
+<lg>
+<l>che de lo 'ngegno suo sta cavaliero;</l>
+<l>e 'l Chiocciolo gli deggia far credenza.</l>
+<l>Non ch'io ne dotti, tant'ha il viso fero.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XI.</head>
+<lg type="sonetto">
+<lg>
+<l>Oi dolce mio marito Aldobrandino,</l>
+<l>rimanda ormai il farso suo a Pilletto,</l>
+<l>ch'egli è tanto cortese fante e fino</l>
+<l>che creder non déi ciò che te n'è detto.</l></lg>
+<lg>
+<l>E no star tra la gente a capo chino,</l>
+<l>ché non se' bozza, e fòtine disdetto;</l>
+<l>ma sì come amorevole vicino</l>
+<l>co·noi venne a dormir nel nostro letto.</l></lg>
+<lg>
+<l>Rimanda il farso ormai, più no il tenere,</l>
+<l>ch'e' mai non ci verrà oltre tua voglia,</l>
+<l>poi che n'ha conosciuto il tuo volere.</l></lg>
+<lg>
+<l>Nel nostro letto già mai non si spoglia.</l>
+<l>Tu non dovéi gridare, anzi tacere:</l>
+<l>ch'a me non fece cosa ond'io mi doglia.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XII.</head>
+<lg type="sonetto">
+<lg>
+<l>D'una diversa cosa ch'è aparita</l>
+<l>consiglio ch'abbian guardia i fiorentini;</l>
+<l>e qual è quei che vuol campar la vita,</l>
+<l>sì mandi al Veglio per suoi asessini.</l></lg>
+<lg>
+<l>Ché ci ha una lonza sì fiera ed ardita</l>
+<l>che, se Carlo sapesse i suo' confini</l>
+<l>e de la sua prodezza avesse udita,</l>
+<l>tosto n'andrebbe sopra i Saracini.</l></lg>
+<lg>
+<l>Ma chi è questa lonza or lo sacciate:</l>
+<l>Paniccia egli è. Che fate, o da Fiorenza,</l>
+<l>ch'oste no stanziate o cavalcate?</l></lg>
+<lg>
+<l>Che s'e' seguisce inanzi sua valenza</l>
+<l>com'egli ha fatta adietro, sì gli date</l>
+<l>sicuramente in guardia la Proenza.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XIII.</head>
+<lg type="sonetto">
+<lg>
+<l>Una bestiuola ho vista molto fera,</l>
+<l>armata forte d'una nuova guerra,</l>
+<l>a cui risiede sì la cervelliera</l>
+<l>che de·legnaggio par di Salinguerra.</l></lg>
+<lg>
+<l>Se 'nsino 'l mento avesse la gorgiera,</l>
+<l>conquisterebbe il mar, non che la terra;</l>
+<l>e chi paventa e dotta sua visera</l>
+<l>al mio parer nonn-è folle ned erra.</l></lg>
+<lg>
+<l>Laida la cera e periglioso ha 'l piglio,</l>
+<l>e burfa spesso a guisa di leone:</l>
+<l>torrebbe l' tinto a cui desse di piglio;</l></lg>
+<lg>
+<l>e gli occhi ardenti ha via più che leone:</l>
+<l>de' suoi nemici asai mi maraviglio</l>
+<l>sed e' non muoion sol di pensagione.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XIV.</head>
+<lg type="sonetto">
+<lg>
+<l>Quando Dio messer Messerin fece</l>
+<l>ben si credette far gran maraviglia,</l>
+<l>ch'ucello e bestia ed uom ne sodisfece,</l>
+<l>ch'a ciascheduna natura s'apiglia:</l></lg>
+<lg>
+<l>ché nel gozzo anigrottol contrafece,</l>
+<l>e ne le ren giraffa m'asomiglia,</l>
+<l>ed uom sembia, secondo che si dice,</l>
+<l>ne la piagente sua cera vermiglia.</l></lg>
+<lg>
+<l>Ancor risembra corbo nel cantare,</l>
+<l>ed è diritta bestia nel savere,</l>
+<l>ed uomo è sumigliato al vestimento.</l></lg>
+<lg>
+<l>Quando Dio il fece, poco avea che fare,</l>
+<l>ma volle dimostrar lo suo potere:</l>
+<l>sì strana cosa fare ebbe in talento.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XV.</head>
+<lg type="sonetto">
+<lg>
+<l>Quando egli apre la bocca de la tomba</l>
+<l>per dir parole, messer Casentino,</l>
+<l>sì nel gozzo la boce gli rimbomba</l>
+<l>che diserta le donne e guasta 'l vino.</l></lg>
+<lg>
+<l>E Baldanza si dorme, quando tromba,</l>
+<l>ed hal per gica messere Ugolino:</l>
+<l>ma quest'è il gran fastido, che colomba</l>
+<l>si crede che ver' sé fosse Merlino.</l></lg>
+<gap desc="poesia incompleta"/>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XVI.</head>
+<lg type="sonetto">
+<lg>
+<l>Le mie fanciulle gridan pur vivanda</l>
+<l>e non fìnaro sera né matino,</l>
+<l>e stanno tutte spesso in far domanda:</l>
+<l>'Or nonn-è vivo messere Ugolino?'</l></lg>
+<lg>
+<l>Però ciascuna a voi si racomanda,</l>
+<l>ed in ischiera v'è Lippo e Cantino,</l>
+<l>che non temon che lor botte si spanda,</l>
+<l>ché, s'han del pane, il pozzo è lor vicino.</l></lg>
+<lg>
+<l>Ond'io vi priego ancor, che la speranza</l>
+<l>daria per men di due fiorin lo staio,</l>
+<l>ma le 'mpromesse atendo ad abondanza:</l></lg>
+<lg>
+<l>ch'a me penna non val né calamaio,</l>
+<l>né me' venir né·ffar far ricordanza,</l>
+<l>ned esser ricco più che Min di Ciaio.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XVII.</head>
+<lg type="sonetto">
+<lg>
+<l>Chi messere Ugolin biasma o riprende</l>
+<l>perché nonn-ha fermezza né misura</l>
+<l>e perché sua promessa nonn-atende,</l>
+<l>nonn-è cortese, ché·ll'ha da natura.</l></lg>
+<lg>
+<l>Ma fa gran cortesia chi 'l ne difende,</l>
+<l>ch'è sì gentil che no ne mette cura,</l>
+<l>e poco pensa se manca od offende,</l>
+<l>e se vuol ben pensar, poco vi dura.</l></lg>
+<lg>
+<l>Ma i' so bene che, s'e' fosse leale,</l>
+<l>ch'egli è di sì gran pregio il suo valore</l>
+<l>che men se ne poria dir ben che male.</l></lg>
+<lg>
+<l>Ed ama la sua parte di bon core,</l>
+<l>se non ch'a punto ben no gliene cale,</l>
+<l>e ben non corre a posta di signore.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XVIII.</head>
+<lg type="sonetto">
+<lg>
+<l>Io fo ben boto a Dio: se Ghigo fosse,</l>
+<l>ser Cerbiolin che·ll'hai tanto lodato,</l>
+<l>per pilliccion di quella c'ha le fosse,</l>
+<l>non si riscalderia, tant'è gelato.</l></lg>
+<lg>
+<l>Non vedi che di mezzo luglio tosse</l>
+<l>e 'l guarnel tien di sotto foderato?</l>
+<l>E dicemi che fuoco anche nol cosse;</l>
+<l>e' par figliuol di Bonella impiombato:</l></lg>
+<lg>
+<l>ché tutto il giorno sol seco si siede,</l>
+<l>onde 'mbiecare ha'ffatte molte panche,</l>
+<l>se non ch'a manicare in casa riede.</l></lg>
+<lg>
+<l>Maraviglia che no gli cascar l'anche!</l>
+<l>ché, se grande bisogno no·richiede,</l>
+<l>da la sua casa non si partio anche.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XIX.</head>
+<lg type="sonetto">
+<lg>
+<l>Se tu sia lieto di madonna Tana,</l>
+<l>Azzuccio, dimmi s'io vertà ti dico;</l>
+<l>e se tu no la veggi ancor puttana,</l>
+<l>non ci guardar parente ned amico:</l></lg>
+<lg>
+<l>ch'io metto la sentenza in tua man piana,</l>
+<l>e di neiente no la contradico,</l>
+<l>perch'io son certo la darai certana;</l>
+<l>non ne darei de l'altra parte un fico.</l></lg>
+<lg>
+<l>Ch'egli è più freddo che detto non aggio:</l>
+<l>non vedi come 'l naso il manofesta?</l>
+<l>ché redir non saprebbe di Cafaggio.</l></lg>
+<lg>
+<l>E spesse volte duolegli la testa;</l>
+<l>credo che stesse a balia ne·Rimaggio:</l>
+<l>tant'è salvaggio pare una tempesta.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XX.</head>
+<lg type="sonetto">
+<lg>
+<l>Ne la stia mi par esser col leone</l>
+<l>quando a Lutier son presso ad un migliaio,</l>
+<l>ch'e' pute più che 'nfermo uom di pregione</l>
+<l>o che nessun carname o che carnaio.</l></lg>
+<lg>
+<l>Li suo' cavegli farian fin buglione</l>
+<l>e la cuffia faria ricco un oliaio</l>
+<l>e li drappi de·lin bene a ragione</l>
+<l>sarian per far panei di quel massaio.</l></lg>
+<lg>
+<l>E' sente tanto di vivarra fiato</l>
+<l>e di leonza e d'altro assai fragore,</l>
+<l>mai nessun ne trovai sì smisurato;</l></lg>
+<lg>
+<l>ed escegli di sopra un tal sudore</l>
+<l>che par veleno ed olio mescolato:</l>
+<l>la rogna compie, s'ha mancanza fiore.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXI.</head>
+<lg type="sonetto">
+<lg>
+<l>Dovunque vai conteco porti il cesso,</l>
+<l>oi buggeressa vecchia puzzolente,</l>
+<l>che quale-unque persona ti sta presso</l>
+<l>si tura il naso e fugge inmantenente.</l></lg>
+<lg>
+<l>Li dent'i·le gengìe tue ménar gresso,</l>
+<l>ché li taseva l'alito putente;</l>
+<l>le selle paion legna d'alcipresso</l>
+<l>inver' lo tuo fragor, tant'è repente.</l></lg>
+<lg>
+<l>Ch'e' par che s'apran mille monimenta</l>
+<l>quand'apri il ceffo: perché non ti spolpe</l>
+<l>o ti rinchiude, sì ch'om non ti senta?</l></lg>
+<lg>
+<l>Però che tutto 'l mondo ti paventa:</l>
+<l>in corpo credo figlinti le volpe,</l>
+<l>ta·lezzo n'esce fuor, sozza giomenta.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXII.</head>
+<lg type="sonetto">
+<lg>
+<l>Al mio parer Teruccio non è grave,</l>
+<l>ma scarso il tegno ismisuratamente;</l>
+<l>e' ben cavalca de la man soave</l>
+<l>quando d'avere utolità ne sente.</l></lg>
+<lg>
+<l>E con tale usa e vanno insieme·nave</l>
+<l>che boce glien'è corsa di mordente.</l>
+<l>Non so se 'l fa, ma 'l suo sì serra a chiave</l>
+<l>che 'l medesmo, che 'n tôrre è sì saccente,</l></lg>
+<lg>
+<l>non credo che del suo potesse avere.</l>
+<l>Ch'è 'n questo è fermo il suo intendimento:</l>
+<l>del suo non dare, altrui tôrre a podere.</l></lg>
+<lg>
+<l>E se per rima fosse il suo lamento,</l>
+<l>de' nuovi danni che stima d'avere</l>
+<l>sollazzi n'averemmo il giorno cento.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXIII.</head>
+<lg type="sonetto">
+<lg>
+<l>Poi che guerito son de le mascelle</l>
+<l>io no rido, ancor ch'i' smanio, e canto</l>
+<l>che si sconciàr per rider di novelle</l>
+<l>che mi contò Cristofan, dritto santo,</l></lg>
+<lg>
+<l>cui non bisogna colla e manovelle,</l>
+<l>così le ti sciorina ad ogni canto;</l>
+<l>e chi non si ralegrerà di quelle</l>
+<l>in paradiso avrebbe doglie e pianto.</l></lg>
+<lg>
+<l>Oi Cion del Papa bene aventurato,</l>
+<l>lasciati andar di man de lo sterlino,</l>
+<l>credi a Cristofan ch'e' non è donato!</l></lg>
+<lg>
+<l>Per Dio, soccorri quel gentil Bandino,</l>
+<l>ch'e' sia per te di morte sucitato:</l>
+<l>è, ne le scritte, conte baladino.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXIV.</head>
+<lg type="sonetto">
+<lg>
+<l>Buono inconincio, ancora fosse veglio,</l>
+<l>v'ebbe il valente messere Ubertino;</l>
+<l>vostra grandezza va di bene in meglio,</l>
+<l>ch'a voi ne viene il buon conte Bandino.</l></lg>
+<lg>
+<l>Quel da Romena, ch'è segnor del Peglio,</l>
+<l>v'intende, so, cagion de lo sterlino;</l>
+<l>e saccio ben, se moglie non ha il Veglio,</l>
+<l>ch'e' gli assesini ha messi nel camino</l></lg>
+<lg>
+<l>per domandar la Diana o sua sorella;</l>
+<l>ché quel da Senno nonn-è tanto ardito</l>
+<l>ch'egli oggi adomandasse la fancella.</l></lg>
+<lg>
+<l>E Tanuccio n'è molto isbigottito</l>
+<l>e nonn-ha più speranza in suo' castella;</l>
+<l>né 'l cardinal, secondo ch'aggio udito.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXV.</head>
+<lg type="sonetto">
+<lg>
+<l>Il giorno avessi io mille marchi d'oro</l>
+<l>che la Dianuzza fia contessa Diana,</l>
+<l>e sanza grande isfolgòr di tesoro;</l>
+<l>e non cavaleressa né cattana.</l></lg>
+<lg>
+<l>È fermo più che 'l genovese moro</l>
+<l>lo detto di Cristofano in Toscana;</l>
+<l>e poi apresso, sanza gran dimoro,</l>
+<l>farem de l'altra orrevol marchisciana.</l></lg>
+<lg>
+<l>Fra gli altri partiremo li casati:</l>
+<l>Donati ed Adimar sian del Capraccia;</l>
+<l>di Donaton, Tosinghi e Giandonati.</l></lg>
+<lg>
+<l>Se più ve n'ha che non sian maritati,</l>
+<l>dean la parola là ove più lor piaccia:</l>
+<l>e se rilievo v'ha, sia degli Abati.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXVI.</head>
+<lg type="sonetto">
+<lg>
+<l>Da che guerra m'avete incominciata,</l>
+<l>paleserò del vostro puttineccio,</l>
+<l>de la foia, che tanto v'è montata</l>
+<l>che non s'atuteria per pal di·lleccio.</l></lg>
+<lg>
+<l>Non vi racorda, donna, a la fiata</l>
+<l>che noi stemmo a San Sebio in tal gineccio?</l>
+<l>E se per moglie v'avesse sposata,</l>
+<l>non dubbiate ch'egli era un bel farneccio.</l></lg>
+<lg>
+<l>Che foste putta il die che voi nasceste</l>
+<l>ed io ne levai saggio ne la stalla:</l>
+<l>ché 'l culo in terra tosto percoteste,</l></lg>
+<lg>
+<l>e sed io fosse stato una farfalla,</l>
+<l>maraviglia saria, sì mi scoteste:</l>
+<l>voi spingate col cul, quando altri balla.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXVII.</head>
+<lg type="sonetto">
+<lg>
+<l>A voi, Chierma, so dire una novella:</l>
+<l>se voi porrete il culo al colombaio,</l>
+<l>cad io vi porgerò tal manovella,</l>
+<l>se non vi piace, io no ne vo' danaio.</l></lg>
+<lg>
+<l>Ma tornerete volontier per ella,</l>
+<l>ch'ella par drittamente d'un somaio:</l>
+<l>con tutto che non siate sì zitella</l>
+<l>che troppo colmo paiavi lo staio.</l></lg>
+<lg>
+<l>Adunque, Chierma, non ci date indugio,</l>
+<l>che pedir vi farabbo come vacca</l>
+<l>se porrete le natiche al pertugio.</l></lg>
+<lg>
+<l>Tutte l'altre torrete poi per acca:</l>
+<l>sì vi rinzafferò col mio segugio</l>
+<l>ch'e' parrà ch'Arno v'esca de la tacca.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXVIII.</head>
+<lg type="sonetto">
+<lg>
+<l>Quando ser Pepo vede alcuna potta</l>
+<l>egli anitrisce sì come distriere</l>
+<l>e no sta queto: inanzi salta e trotta</l>
+<l>e canzisce che par pur un somiere;</l></lg>
+<lg>
+<l>e com' baiardo ad ella si ragrotta</l>
+<l>e ponvi il ceffo molto volontiere,</l>
+<l>ed ancor de la lingua già non dotta</l>
+<l>e spesse volte mordele il cimiere.</l></lg>
+<lg>
+<l>Chi vedesse ser Pepo incavallare</l>
+<l>ed anitrir, quando sua donna vede,</l>
+<l>che si morde le labbra e vuol razzare,</l></lg>
+<lg>
+<l>quelli, che dippo par non si ricrede:</l>
+<l>quando v'ha 'l ceffo sì la fa sciacquare,</l>
+<l>sì le stringe la groppa ch'ella pede.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXIX.</head>
+<lg type="sonetto">
+<lg>
+<l>El Muscia sì fa dicere e bandire,</l>
+<l>qual donna non avesse buon marito,</l>
+<l>ch'aggia picciol dificio da servire,</l>
+<l>che vada a·llui, cad e' n'è ben fornito.</l></lg>
+<lg>
+<l>Ed ancor questo fa nel bando dire,</l>
+<l>ch'è sedici once, sanza i·rimonito;</l>
+<l>e dice ben, se no la fa pedire</l>
+<l>a ogni tratto, ch'e' vuol perder lo 'nvito.</l></lg>
+<lg>
+<l>Ma se se ne aterranno al mio consiglio,</l>
+<l>inanzi il proveranno ver' di mezzo,</l>
+<l>que' c'ha la schiena bianca e 'l co vermiglio;</l></lg>
+<lg>
+<l>e poi, quando verrà colà 'l da sezzo,</l>
+<l>darannovi con ambo man di piglio,</l>
+<l>ch'a ben ripalleggiarlo egli è un vezzo.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXX.</head>
+<lg type="sonetto">
+<lg>
+<l>Amor fa nel mio cor fermo soggiorno</l>
+<l>e quindi non si parte né va fori,</l>
+<l>ma manda li suo' messi spesso intorno</l>
+<l>cercando e provedendo gli amadori.</l></lg>
+<lg>
+<l>E 'ntende le ragion ciaschedun giorno:</l>
+<l>a tal dà gioia, a tal dona dolori;</l>
+<l>ma 'l meo Segnore ha me in tal loco adorno</l>
+<l>ch'io passo tutti gli altri intenditori.</l></lg>
+<lg>
+<l>Oi core orrato più di nessun core,</l>
+<l>perch'ami la megliore e la più gente;</l>
+<l>orrato, poi che torna teco Amore!</l></lg>
+<lg>
+<l>Cortese ed amoroso meo Segnore,</l>
+<l>di cui mi credo star leal servente,</l>
+<l>non vi so graze far di tanto onore.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXXI.</head>
+<lg type="sonetto">
+<lg>
+<l>Tutte le donne ch'io audo laudare,</l>
+<l>parmi che lor non aggiano bieltate;</l>
+<l>quando posso la mia donna membrare</l>
+<l>son neiente le laude che son date:</l></lg>
+<lg>
+<l>ma' che vorria ch'Amor tanto in parlare</l>
+<l>mi desse graza ch'io con veritate</l>
+<l>savesse a tutta gente adimostrare</l>
+<l>com'è somma de l'altre donne nate.</l></lg>
+<lg>
+<l>Deo, che maraviglia sembreria</l>
+<l>a dir tanta smisura di bellezze</l>
+<l>quante son quelle di madonna mia!</l></lg>
+<lg>
+<l>Perch'io non posso dir le grand'altezze;</l>
+<l>io non so se m'aven per gelosia</l>
+<l>ch'io nonn-oso nomar le sue adornezze.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXXII.</head>
+<lg type="sonetto">
+<lg>
+<l>Come pote la gente soferire,</l>
+<l>donna amorosa, standovi lontana?</l>
+<l>Chi vive como si puote partire</l>
+<l>da la vostra gioiosa cera umana?</l></lg>
+<lg>
+<l>Ben me ne maraviglio, a lo ver dire,</l>
+<l>ché de le donne siete la sovrana.</l>
+<l>Come si trova i·llor tanto fallire</l>
+<l>ched a·llor non istate prossimana?</l></lg>
+<lg>
+<l>Eo nol dico, madonna, che mi doglia</l>
+<l>di questo fallo che la gente face:</l>
+<l>paremi così grande maraviglia.</l></lg>
+<lg>
+<l>E so ben che non fora vostra voglia,</l>
+<l>e me dismisuratamente piace:</l>
+<l>tanta di gelosia l'Amor m'apiglia.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXXIII.</head>
+<lg type="sonetto">
+<lg>
+<l>I' aggio inteso che sanza lo core</l>
+<l>non pò l'om viver né durar neiente;</l>
+<l>ed io vivo sanz'esso, e lo colore</l>
+<l>però non perdo, né saver, né mente:</l></lg>
+<lg>
+<l>ma solo per la forza del Segnore</l>
+<l>che 'l n'ha portato, che, tanto potente,</l>
+<l>lo dipartì dal corpo, ciò fue Amore:</l>
+<l>e' l'ha miso in balìa de l'avenente.</l></lg>
+<lg>
+<l>Lo cor, quando dal corpo si partio,</l>
+<l>disse ad Amor: 'Segnore, in quale parte</l>
+<l>mi meni?' E que' rispose: 'Al tuo disio'.</l></lg>
+<lg>
+<l>'In tale loco è che già mai non parte';</l>
+<l>insieme sta il meo core e 'l disir mio:</l>
+<l>così vi fosse il corpo in terza parte!</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXXIV.</head>
+<lg type="sonetto">
+<lg>
+<l>Madonna, quando eo voi non veggio in viso,</l>
+<l>tant'è forte e dogliosa la mia pena</l>
+<l>che 'n su la morte mi conduce e mena,</l>
+<l>non m'aucide e tenemi conquiso.</l></lg>
+<lg>
+<l>E quando eo sto da voi, bella, diviso,</l>
+<l>languisco se l'Amor non mi rimena;</l>
+<l>e 'l vostro bel riguardo mi dà lena</l>
+<l>e mi ritien ch'io non mi sono auciso.</l></lg>
+<lg>
+<l>Volete audire, amor, gentil penzero</l>
+<l>per ch'io donare a me morte non voglio?</l>
+<l>che dico: 'Con' vedrei poi 'l viso clero?'</l></lg>
+<lg>
+<l>E sed io nol vedesse com'io soglio,</l>
+<l>come faria? Però non mi dispero.</l>
+<l>Amor, merzé, che tanto aggio d'orgoglio.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXXV.</head>
+<lg type="sonetto">
+<lg>
+<l>Dovunque eo vo o vegno o volgo o giro,</l>
+<l>a voi son, donna mia, tuttor davanti,</l>
+<l>e s'eo co·gli occhi altrove guardo o miro,</l>
+<l>lo cor non v'è, poi ch'io faccio i sembianti.</l></lg>
+<lg>
+<l>E spesse volte sì forte sospiro</l>
+<l>che par che 'l cor dal corpo mi si schianti:</l>
+<l>alor piango e lamento, e non m'adiro,</l>
+<l>ma li mei occhi bagno tutti quanti;</l></lg>
+<lg>
+<l>e dolzemente faccio mio cordoglio,</l>
+<l>tuttor, mia donna, a voi merzé chiamando</l>
+<l>umilemente più quant'eo più doglio.</l></lg>
+<lg>
+<l>Durar non posso più disiderando;</l>
+<l>non aggio di voi quello ch'aver soglio:</l>
+<l>morrò per voi piangendo e sospirando.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXXVI.</head>
+<lg type="sonetto">
+<lg>
+<l>Merzé, madonna, non mi abandonate,</l>
+<l>e non vi piaccia ch'io stessi m'aucida;</l>
+<l>poi che venne da voi questa amistate,</l>
+<l>dovetemi esser donna, porto e guida.</l></lg>
+<lg>
+<l>Durar non posso più, se mi tardate</l>
+<l>conven per ben la morte mi conquida.</l>
+<l>Oi amorosa somma di bieltate,</l>
+<l>piacciavi ch'io diporti e giochi e rida.</l></lg>
+<lg>
+<l>In voi è la mia morte e la mia vita:</l>
+<l>oi, donna mia, traetemi di pene;</l>
+<l>se nol fate, la vita a mort'è gita.</l></lg>
+<lg>
+<l>E se di me, madonna, a voi sovene,</l>
+<l>la mia faccia dogliosa e scolorita</l>
+<l>ritornerà 'n istato di gran bene.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXXVII.</head>
+<lg type="sonetto">
+<lg>
+<l>Amore, onde vien l'acqua che lo core</l>
+<l>agli occhi senza mai rifinar manda?</l>
+<l>Saria per tuo comandamento, Amore?</l>
+<l>Eo credo ben che mova a tua dimanda.</l></lg>
+<lg>
+<l>E' pare a me che surgia di dolore,</l>
+<l>e convien che con duol degli occhi spanda;</l>
+<l>ché, se dagli occhi non uscisse fore,</l>
+<l>lo cor morria: Amor no lo comanda.</l></lg>
+<lg>
+<l>Amor non vol ch'io moia, ma languendo</l>
+<l>viva: così cortese segnoria</l>
+<l>mi faccia Amor, po' ch'io non mi difendo.</l></lg>
+<lg>
+<l>In quest'è tutta la speranza mia:</l>
+<l>che tanto le starò merzé cherendo,</l>
+<l>che sia pietosa più sua segnoria.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXXVIII.</head>
+<lg type="sonetto">
+<lg>
+<l>L'afanno e 'l gran dolor ch'io meco porto</l>
+<l>mi dovria mille fiate avere auciso;</l>
+<l>ma per la dismisura non son morto,</l>
+<l>che men dolor m'avria morto e conquiso:</l></lg>
+<lg>
+<l>ch'io son degli smarruti capo e porto,</l>
+<l>sì come d'ogni gioia paradiso:</l>
+<l>adunque chi ha pena e disconforto</l>
+<l>comeco i·nullo logo sia conmiso.</l></lg>
+<lg>
+<l>Per ch'io voglio esser de l'altrui mal miro,</l>
+<l>e voglio a ciaschedun dar guerigione</l>
+<l>veggendo lo mio pianto e lo sospiro.</l></lg>
+<lg>
+<l>Non avranno mai dol né pensagione,</l>
+<l>tant'è lo male ch'io comeco tiro:</l>
+<l>perché de me' morir nonn-è stagione.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XXXIX.</head>
+<lg type="sonetto">
+<lg>
+<l>Tant'è lo core meo pien di dolore</l>
+<l>e tant'è forte la doglia ch'eo sento,</l>
+<l>ca s'e' de la mia pena mi lamento</l>
+<l>la lingua il dice sì, che par dolzore.</l></lg>
+<lg>
+<l>A me foria mistier che lo mio core</l>
+<l>parlasse, ch'e' mostrasse il suo tormento:</l>
+<l>eo credo certo, sanza fallimento,</l>
+<l>ca di pietà ne piangerebbe Amore.</l></lg>
+<lg>
+<l>Oi core meo e occhi, che farete?</l>
+<l>Cor, come soferrai dolor cotanto?</l>
+<l>ed occhi, voi che sì spesso piangete?</l></lg>
+<lg>
+<l>Amor, merzé, ch'aleni lo mio pianto;</l>
+<l>e voi, per Dio, madonna, provedete</l>
+<l>che lo dolor del cor ritorni in canto.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XL.</head>
+<lg type="sonetto">
+<lg>
+<l>Similmente la notte come 'l giorno</l>
+<l>io dormo e poso ed ho sollazzo e gioco,</l>
+<l>e simile mi volgo e giro intorno</l>
+<l>e sto, senza pensier doglioso, poco;</l></lg>
+<lg>
+<l>e spesse volte a pianger mi ritorno</l>
+<l>e quindi bagno l'amoroso foco,</l>
+<l>e lo pensiero e 'l pianto è 'l mio soggiorno:</l>
+<l>oi lasso, che tutto ardo e 'ncendo e coco!</l></lg>
+<lg>
+<l>E nessun foco mai cangia calore</l>
+<l>o che faccia languire o tormentare,</l>
+<l>per certo non, con' fa il foco d'Amore,</l></lg>
+<lg>
+<l>che 'l natural ti fa poco durare:</l>
+<l>ma quegli ha vita, ca più tosto more,</l>
+<l>a cui non vole Amore alegro fare.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XLI.</head>
+<lg type="sonetto">
+<lg>
+<l>Amore, a voi domando perdonanza,</l>
+<l>sì como fin servente al suo segnore,</l>
+<l>s'eo dico cosa che vi si' a pesanza,</l>
+<l>ché soferir non pò la doglia il core.</l></lg>
+<lg>
+<l>Sacciate che segnor sanza pietanza</l>
+<l>tanto non val, con' s'ha pietoso il core.</l>
+<l>Oimè, che dissi! Forse che fallanza</l>
+<l>terrà che 'nver di·llui dett'aggia Amore.</l></lg>
+<lg>
+<l>Vengianza, se fallato aggio, ne prenda,</l>
+<l>ché la pena m'incalcia e dà conforto</l>
+<l>ch'io dica, e poco pensa ch'io misprenda.</l></lg>
+<lg>
+<l>Però perdon dovria trovar del torto;</l>
+<l>ma prego la ragion che mi difenda</l>
+<l>e de l'altezza mi conduca a porto.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XLII.</head>
+<lg type="sonetto">
+<lg>
+<l>Tutto lo giorno intorno vo fuggendo,</l>
+<l>credendomi campar, davanti Amore,</l>
+<l>e s'io trovo nessun, forte piangendo</l>
+<l>lo prego che mi celi al mio Segnore.</l></lg>
+<lg>
+<l>Oi lasso, con' gran pene soferendo</l>
+<l>condotto ho me medesmo in questo errore!</l>
+<l>ché, quando i' sono assai gito languendo,</l>
+<l>io trovo Amor che m'è dentro dal core.</l></lg>
+<lg>
+<l>Così la pena c'ho mi mena e caccia,</l>
+<l>che mi fa soferir l'amore amaro,</l>
+<l>che spesso il giorno il cor m'arde ed aghiaccia.</l></lg>
+<lg>
+<l>E non mi manca pena, ched io saccia;</l>
+<l>lo mal m'è vile e 'l ben m'è troppo caro:</l>
+<l>Amor, merzé, ch'io non so ch'io mi faccia.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XLIII.</head>
+<lg type="sonetto">
+<lg>
+<l>Amor, poi che del mio mal non vi dole,</l>
+<l>più siete inver' di me fero che fera;</l>
+<l>Amor, guardate inver' le mie parole:</l>
+<l>s'ggio fallato, piacciavi ch'io pèra.</l></lg>
+<lg>
+<l>E s'io nonn-ho mancato, come sole</l>
+<l>lo mio cor ritornate a quella spera,</l>
+<l>che tanto quanto guarda o gira il sole</l>
+<l>più doglioso di me merzé non chera.</l></lg>
+<lg>
+<l>Oi Morte, chi t'apella 'dura Morte'</l>
+<l>non sente ciò ched io patisco e sento,</l>
+<l>ché, se mi vuoli aucider, mi conforte;</l></lg>
+<lg>
+<l>ché la mia vita passa ogni tormento.</l>
+<l>Oi Morte, perché l'arma non ne porte</l>
+<l>e falla far dal secol partimento?</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XLIV.</head>
+<lg type="sonetto">
+<lg>
+<l>A nessuno omo adivenne già mai</l>
+<l>ch'Amor prendesse altrui sanza veduta;</l>
+<l>a meve è adivenuto; non pensai</l>
+<l>ca sì forte pungesse sua feruta.</l></lg>
+<lg>
+<l>Ch'e' mi tormenta e dona pena assai,</l>
+<l>se madonna amorosa non m'aiuta,</l>
+<l>che m'ha in balìa; ed io medesmo il sai,</l>
+<l>che·ll'ho donato il cor sanza partuta.</l></lg>
+<lg>
+<l>Dunque mi dé' campare, ed a ragione:</l>
+<l>qualunque buon segnore a suo servente,</l>
+<l>che·llui ha messa tutta sua intenzone,</l></lg>
+<lg>
+<l>non dé' sofrir ch'e' moia di neiente,</l>
+<l>ché·lli sarabbe grande riprensione:</l>
+<l>questo fedel son io, donna valente.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XLV.</head>
+<lg type="sonetto">
+<lg>
+<l>Unqua per pene ch'io patisca amando,</l>
+<l>lasso, già non vorria disamorare:</l>
+<l>omè, che per aver disiderando,</l>
+<l>ciò ch'io sostegno non porria mostrare.</l></lg>
+<lg>
+<l>Ché solo pur le lagrime ch'io spando</l>
+<l>sovente fannomi maravigliare;</l>
+<l>e quanto più languisco e vo penando,</l>
+<l>alor si ferma il cor meo più d'amare.</l></lg>
+<lg>
+<l>E s'io ardisse d'incolpare Amore,</l>
+<l>eo diceria ch'avesse di me torto,</l>
+<l>dapoi che fuor di me nonn-è dolore.</l></lg>
+<lg>
+<l>Se non che spero ancor d'aver conforto,</l>
+<l>là dov'è grande pregio e gran valore:</l>
+<l>sol è colpa d'Amor s'io pene porto.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XLVI.</head>
+<lg type="sonetto">
+<lg>
+<l>Ispesse volte voi vegno a vedere</l>
+<l>per sodisfare agli occhi ed a lo core;</l>
+<l>ma quand'eo parto sì mi stringe Amore</l>
+<l>ch'io non saccio che via deggia tenere.</l></lg>
+<lg>
+<l>E di tornar mi sforza lo volere,</l>
+<l>sì m'ha 'nfiammato Amor del suo calore;</l>
+<l>e poi, quando mi parto, lo dolore</l>
+<l>alor ritorna, e partesi il piacere.</l></lg>
+<lg>
+<l>Adunque, lasso, como deggio fare?</l>
+<l>Ch'io non posso tuttor madonna mia</l>
+<l>veder co·gli occhi, e 'l cor fare alegrare.</l></lg>
+<lg>
+<l>Gentile ed amorosa più che sia,</l>
+<l>e' sai in che guisa tu mi puoi campare:</l>
+<l>non pèra sanza gioia, ch'io non dovria.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XLVII.</head>
+<lg type="sonetto">
+<lg>
+<l>Sì tosto con' da voi, bella, partuto</l>
+<l>son, mantenente ritornar vorria;</l>
+<l>e sentome mortalmente feruto,</l>
+<l>perdo la conoscenza e·lla balìa.</l></lg>
+<lg>
+<l>Ma sì non perdo ch'io no speri aiuto</l>
+<l>di voi, gentil più ch'altra che mai sia:</l>
+<l>ch'io son fedel d'Amor tanto vivuto</l>
+<l>a la speranza di voi, donna mia.</l></lg>
+<lg>
+<l>Sì come il partimento mi dà noia,</l>
+<l>amorosa e gentil donna piagente,</l>
+<l>così è·ritornar somma di gioia.</l></lg>
+<lg>
+<l>E se non fosse l'anoiosa gente,</l>
+<l>la qual disia che doloroso moia,</l>
+<l>eo viveria per voi alegramente.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XLVIII.</head>
+<lg type="sonetto">
+<lg>
+<l>Io non auso rizzar, chiarita spera,</l>
+<l>inver' voi gli occhi, tant'ho gelosia,</l>
+<l>e feremi nel viso vostra spera,</l>
+<l>e gli occhi abasso e non so là ove sia.</l></lg>
+<lg>
+<l>Oi amorosa ed avenante cera,</l>
+<l>non mi tardate la speranza mia,</l>
+<l>ch'ad onta de la gente malparliera</l>
+<l>mi riterrete in vostra segnoria.</l></lg>
+<lg>
+<l>Deo, como son lontan da me' pensiero</l>
+<l>li falsi e li noiosi maldigenti,</l>
+<l>che là non volgo l'arco ov'eo ne fero;</l></lg>
+<lg>
+<l>ma tutavia mi fan sofrir tormenti,</l>
+<l>ché spesso l'amoroso viso clero</l>
+<l>s'asconde per li falsi parlamenti.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">XLIX.</head>
+<lg type="sonetto">
+<lg>
+<l>Quant'io verso l'Amor più m'umilìo,</l>
+<l>a me più mostra fera segnoria;</l>
+<l>e più monta e cresce il meo disio,</l>
+<l>e più mi tien doglioso notte e dia.</l></lg>
+<lg>
+<l>Adunque, lasso, como faraggio io,</l>
+<l>se non mi soccorrete, donna mia?</l>
+<l>Se mi tardate, bella, lo cor mio</l>
+<l>durar non pò più vita, anzi va via.</l></lg>
+<lg>
+<l>Ciascun mi guarda in viso e fa dimando,</l>
+<l>veggendomi cangiato lo visaggio;</l>
+<l>ed io celo la doglia mia in parlando,</l></lg>
+<lg>
+<l>e non ardisco dir lo meo coraggio,</l>
+<l>perch'io l'ho da la mia donna in comando.</l>
+<l>Oi lasso, ch'attendendo mi morraggio!</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">L.</head>
+<lg type="sonetto">
+<lg>
+<l>Tanto di cor verace e fino amante</l>
+<l>i' son, madonna, inver' di voi stato,</l>
+<l>che quando fosse a voi, cor me', davante,</l>
+<l>eo non pensava d'esservi incolpato.</l></lg>
+<lg>
+<l>E s'io facea davanti altrui sembiante,</l>
+<l>già non credea di nulla esser guardato;</l>
+<l>ond'io doglie ne porto e pene tante</l>
+<l>che morte vita mi sarebbe in grato.</l></lg>
+<lg>
+<l>Qual uomo ama di cor perfettamente,</l>
+<l>nonn-ha mai conoscenza né misura,</l>
+<l>tant'è lo foco de l'amore ardente.</l></lg>
+<lg>
+<l>E se per nulla cangiasi natura,</l>
+<l>sì fa per gli amador veracemente,</l>
+<l>tant'è lor condizion dogliosa e dura.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">LI.</head>
+<lg type="sonetto">
+<lg>
+<l>Or ho perduta tutta mia speranza</l>
+<l>e non attendo mai gioia né diporto,</l>
+<l>poi che madonna, ch'era il mio conforto,</l>
+<l>cangiata m'ha la sua bella sembianza,</l></lg>
+<lg>
+<l>e fatt'ha co·l'Amore sua acordanza</l>
+<l>ch'io viveraggio assai peggio che morto.</l>
+<l>Ai dolce donna mia, pensa che torto</l>
+<l>hai di mia greve e dura malenanza!</l></lg>
+<lg>
+<l>Oi gentil donna, come faraggio eo?</l>
+<l>Dapoi che ver' di me cangiata siete,</l>
+<l>già mai nulla allegranza non ispero.</l></lg>
+<lg>
+<l>Ma 'l fino amor ch'io porto, viso clero,</l>
+<l>in gioia mi tornerà; come solete</l>
+<l>sarete pietosa, amore meo.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">LII.</head>
+<lg type="sonetto">
+<lg>
+<l>Lo vostro dolze ed umìle conforto</l>
+<l>sì tosto giugner com'ho disianza:</l>
+<l>ond'io però la vita in core porto,</l>
+<l>e per aver di voi ferma speranza.</l></lg>
+<lg>
+<l>Ma rea fortuna non mi lascia in porto</l>
+<l>sì tosto giugner com'ho disianza:</l>
+<l>ma, tosto ch'anderà via il tempo torto,</l>
+<l>mi riterrà madonna in sua possanza.</l></lg>
+<lg>
+<l>Da che madonna dol quand'io aggio doglia,</l>
+<l>dovria più soferente esser del male,</l>
+<l>il poi che 'l mio ne saria ben per sua voglia.</l></lg>
+<lg>
+<l>Ed è ben sì cortese e tanto vale</l>
+<l>che spesso si lamenta e si cordoglia,</l>
+<l>ed ha dolor di mia pena mortale.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">LIII.</head>
+<lg type="sonetto">
+<lg>
+<l>'Poi che voi piace ch'io mostri alegranza,</l>
+<l>madonna, ed i' 'l faraggio volontiera'.</l>
+<l>'Meo sire e tutta mia disideranza,</l>
+<l>alegra lo tuo core e la tua cera'.</l></lg>
+<lg>
+<l>'O donna mia, merzé e pietanza</l>
+<l>dimando, se mostrat'ho doglia fera'.</l>
+<l>'Meo sire, se ralegri tua sembianza:</l>
+<l>già mai non cangerò disio né spera'.</l></lg>
+<lg>
+<l>'Merzede, Amor, ch'io non saccio che dire</l>
+<l>ver' la mia donna, tanto m'è gioiosa:</l>
+<l>tu se' il mio core, Amore, e 'l meo disire'.</l></lg>
+<lg>
+<l>'Oi amador, di fin cor l'amorosa</l>
+<l>lealmente ama senza mai fallire</l>
+<l>però ch'ell'ama te sovr'ogni cosa'.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">LIV.</head>
+<head rend="sc">&lt;madonna&gt;</head>
+<lg type="sonetto">
+<lg>
+<l>Oi amoroso e mio fedele amante,</l>
+<l>amato più di null'altro amadore,</l>
+<l>se tu ti doli, i' aggio pene tante</l>
+<l>ch'ardo tutta ed incendo per amore.</l></lg>
+<lg>
+<l>E se lo core meo fosse diamante,</l>
+<l>non doveria aver forza né valore;</l>
+<l>e se di doglia in cera fai sembiante,</l>
+<l>eo sono, eo, quella che la porto in core.</l></lg>
+<lg>
+<l>Amore meo, cui più coralmente amo</l>
+<l>ch'amasse già mai donna suo servente,</l>
+<l>e che non fece Tisbia Priamo,</l></lg>
+<lg>
+<l>l'atender non ti sia disavenente,</l>
+<l>ched io tanto del cor disio e bramo</l>
+<l>che picciol tempo, amor, serai atendente.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">LV.</head>
+<head rend="sc">&lt;messere&gt;</head>
+<lg type="sonetto">
+<lg>
+<l>Graza e merzé vi chero e a voi mi rendo,</l>
+<l>donna, ch'io per neiente non son degno;</l>
+<l>l'amoroso consiglio vostro prendo,</l>
+<l>sperando venire nel vostro regno.</l></lg>
+<lg>
+<l>E s'io aggio fallato, al vostro amendo</l>
+<l>son, di voi, donna, mio core e sostegno;</l>
+<l>e s'io lamento e doglio e non atendo,</l>
+<l>ormai di più doler muto divegno.</l></lg>
+<lg>
+<l>La vostra doglia sia la doglia mia,</l>
+<l>e la mia doglia metto 'n ubrianza;</l>
+<l>più pene sofero ch'io non sofria:</l></lg>
+<lg>
+<l>ma non, mia donna, che paia sembianza.</l>
+<l>Gentile ed amorosa più che sia,</l>
+<l>a voi rendo merzé d'esta inoranza.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">LVI.</head>
+<head rend="sc">&lt;madonna&gt;</head>
+<lg type="sonetto">
+<lg>
+<l>Assai mi son coverta, amore meo:</l>
+<l>oi lassa me, più non posso sofrire;</l>
+<l>cotanto forte d'amor son presa eo</l>
+<l>ch'io non aggio potenza, omè, di dire.</l></lg>
+<lg>
+<l>Ch'io nonn-amo né temo tanto Deo</l>
+<l>quanto te, amoroso e dolze sire,</l>
+<l>e vo' ben che tu sacce e penzi ch'eo</l>
+<l>condotta son per te presso al morire.</l></lg>
+<lg>
+<l>E se co·gli occhi piangi o ti lamente,</l>
+<l>e' son quella che non trovo riposo</l>
+<l>lo dì ch'io non ti veggio, amor piagente.</l></lg>
+<lg>
+<l>E se due giorni o tre mi stesse ascoso,</l>
+<l>io n'anderei piangendo infra la gente,</l>
+<l>cherendo te, meo sir disideroso.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">LVII.</head>
+<head rend="sc">&lt;messere&gt;</head>
+<lg type="sonetto">
+<lg>
+<l>Gentile ed amorosa ed avenente,</l>
+<l>cortese e saggia con gaia sembianza,</l>
+<l>ben aggia il giorno che vostro servente</l>
+<l>Amor mi fe', di voi che simiglianza</l></lg>
+<lg>
+<l>non avete né pare, al mio parvente.</l>
+<l>Conforto e doglia m'è vostra pesanza,</l>
+<l>pensandome ch'Amor veracemente</l>
+<l>vi stringa, dolce donna, per amanza.</l></lg>
+<lg>
+<l>Di ciò prendo conforto nel coraggio,</l>
+<l>e dolemi se voi doglia portate,</l>
+<l>ché quando voi dolete io gioia non aggio.</l></lg>
+<lg>
+<l>Ma se di me vi pesa o se m'amate,</l>
+<l>Amor ringrazo, che 'n suo segnoraggio</l>
+<l>mi tene, e voi, madonn', ha in potestate.</l></lg>
+</lg></div1>
+<div1 type="poesia">
+<head rend="sc">LVIII.</head>
+<lg type="sonetto">
+<lg>
+<l>Due cavalier valenti d'un paraggio</l>
+<l>aman di core una donna valente;</l>
+<l>ciascuno l'ama tanto in suo coraggio</l>
+<l>che d'avanzar d'amar saria neiente.</l></lg>
+<lg>
+<l>L'un è cortese ed insegnato e saggio,</l>
+<l>largo in donare ed in tutto avenente;</l>
+<l>l'altro è prode e di grande vassallaggio,</l>
+<l>fiero ed ardito e dottato da gente.</l></lg>
+<lg>
+<l>Qual d'esti due è più degno d'avere</l>
+<l>da la sua donna ciò ch'e' ne disia,</l>
+<l>tra quel c'ha 'n sé cortesia e savere</l></lg>
+<lg>
+<l>e l'altro d'arme molta valentia?</l>
+<l>Or me ne conta tutto il tuo volere:</l>
+<l>s'io fosse donna, ben so qual vorria.</l>
+</lg></lg>
+</div1>
+</body>
+</text>
+</TEI.2>

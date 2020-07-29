@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>S' apra al riso</title>
+    </titleStmt>
+    <extent>12 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001322</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Le Cantate sacre</title>
+        <author>Stradella, Alessandro</author>
+        <editor id="ed">McCrickard, Eleanor F.</editor>
+        <publisher>ETS</publisher>
+        <pubPlace>Pisa</pubPlace>
+        <date>In corso di stampa</date>
+        <note>Fa parte di: Edizione Nazionale dell'Opera Omnia di Alessandro Stradella</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>600</date>
+    </creation>
+    <langUsage><language id="codice">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-06-01T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Chiara Comastri</name>
+        <name>CIBIT - Pisa</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2003-06-23T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+<castList><head>Personaggi</head>
+<castItem><emph>Pastore I</emph> Soprano</castItem><lb/>
+<castItem><emph>Pastore II</emph> Contralto</castItem><lb/>
+<castItem><emph>Pastore III</emph> Basso</castItem>
+</castList></front>
+<body>
+<div1><head>Cantata per la Notte del Santissimo Natale</head>
+<sp><speaker><emph>Pastore I</emph></speaker>
+	<lg type="verso-libero" part="I">
+	<l>S'apra al riso ogni labro</l>
+	<l>e si racchiuda ogni pupilla al pianto!</l></lg></sp>
+<sp><speaker><emph>Pastore II</emph></speaker>
+	<lg part="M">
+	<l>Di giubilo cotanto</l>
+	<l>chi fia giocondo fabro?</l></lg></sp>
+<sp><speaker><emph>Pastore I</emph></speaker>
+	<lg part="M">
+	<l n="5">La torbida tempesta</l>
+	<l>raserenar convien</l>
+	<l>d'ogni cura molesta,</l>
+	<l>e spezzar le catene</l>
+	<l>ch'il primo genitor</l>
+	<l part="I" n="10">ci pose al piè.</l></lg></sp>
+<sp><speaker><emph>Pastori II e III</emph></speaker>
+	<lg part="M"><l part="F" n="10">Perché?</l></lg></sp>
+<sp><speaker><emph>Pastore I</emph></speaker>
+	<lg part="M">
+	<l>La cagion d'ogni gioia è il gran <name>Natale</name></l>
+	<l>di fanciullo reale</l>
+	<l>a cui gl'astri più belli</l>
+	<l part="I">ornan le chiome.</l></lg></sp>
+<sp><speaker><emph>Pastori II e III</emph></speaker>
+	<lg part="M"><l part="F">Come?</l></lg></sp>
+<sp><speaker><emph>Pastore I</emph></speaker>
+	<lg part="M">
+	<l n="15">Quel ch'al fato dà legge,</l>
+	<l>quel che dà il volo ai venti,</l>
+	<l>il corso all'acque,</l>
+	<l>quello ch'il mondo regge</l>
+	<l>sotto povero tetto or ora nacque;</l>
+	<l n="20">e in sembianza di tenero bambino</l>
+	<l>il suo corpo divin</l>
+	<l part="I">d'umanità vestì.</l></lg></sp>
+<sp><speaker><emph>Pastori II e III</emph></speaker>
+	<lg part="M">
+	<l part="F">Chi?</l></lg></sp>
+<sp><speaker><emph>Pastore I</emph></speaker>
+	<lg part="M">
+	<l>Vostra stupida mente</l>
+	<l>non si confonda più:</l>
+	<l n="25">quello ch'è nato è il Redentor <name>Gesù</name>.</l></lg></sp>
+<sp><speaker><emph>Pastore II</emph></speaker>
+	<lg part="M">
+	<l>O fortunato avviso!</l></lg></sp>
+<sp><speaker><emph>Pastore III</emph></speaker>
+	<lg part="M">
+	<l>O prospera novella!</l></lg></sp>
+<sp><speaker><emph>Pastori II e III</emph></speaker>
+	<lg part="F">
+	<l>S'apra ogni labro al riso!</l>
+	<l>Su su, al canto si sciolga ogni favella!</l></lg></sp>
+
+
+<sp><speaker><emph>Pastori I, II e III</emph></speaker>
+		<lg type="strofa" part="I">
+		<l rend="indent" n="30">O di notte felice e beata</l>
+		<l>ombra amata,</l>
+		<l>gradito orrore in cui sorge</l>
+		<l>e vita a noi porge</l>
+		<l>delle stelle il supremo Fattore.</l></lg></sp>
+<sp><speaker><emph>Pastore I</emph></speaker>
+		<lg type="strofa" part="F">
+		<l rend="indent" n="35">Con insoliti e chiari splendori</l>
+		<l>al <name>Natale</name> del <name>Re delle sfere</name>,</l>
+		<l>ogni tenebra par che s'indori</l>
+		<l>e scintillin le nubi più nere.</l>
+		<l>Le caligini oscure il ciel disgombra,</l>
+		<l n="40">all'apparir del sol sparisce ogn'ombra.</l></lg></sp>
+
+
+<sp><speaker><emph>Pastore III</emph></speaker>
+		<lg type="strofa" part="I">
+		<l rend="indent">Della gregge mansueta</l>
+		<l>fida turba conduttrice,</l>
+		<l>godi pur festosa e lieta</l>
+		<l>ad annuncio sì felice.</l></lg>
+    </sp>
+<sp><speaker><emph>Pastori I, II e III</emph></speaker>
+		<lg part="F" type="strofa"><l rend="indent" n="45">Temer più non lice</l>
+		<l>d'arciera severa</l>
+		<l>il colpo mortale:</l>
+		<l>spezza al nascer di <name>Dio</name> morte lo strale.</l></lg></sp>
+
+
+<sp><speaker><emph>Pastore I</emph></speaker>
+		<lg type="strofa">
+		<l rend="indent">Or mirate il gran tonante,</l>
+		<l n="50">ch'umanato pargoleggia</l>
+		<l>e nel fieno ha la sua reggia,</l>
+		<l>ch'ha nel ciel soglio stellante.</l>
+		<l>Gl'occhi volgete a <name>Dio</name> ch'a voi si svela;</l>
+		<l>quindi ardete per lui s'ei per voi gela.</l></lg></sp>
+
+
+<sp><speaker><emph>Pastore II</emph></speaker>
+	<lg type="strofa">
+		<l rend="indent" n="55">All'ignudo <name>Redentore</name>,</l>
+		<l>se non fosse troppo angusto</l>
+		<l>e di colpe così onusto,</l>
+		<l>offrirei per cuna il core,</l>
+		<l>o col foco de' caldi sospir miei</l>
+		<l n="60">le fredde membra sue riscalderei.</l></lg></sp>
+
+
+<sp><speaker><emph>Pastore III</emph></speaker>
+	<lg type="strofa">
+		<l rend="indent">Con quel gel ch'il sen gl'agghiaccia</l>
+		<l>vibra altrui celeste arsura,</l>
+		<l>ond'avvien ch'ogn'alma pura</l>
+		<l>dolcemente si disfaccia.</l>
+		<l n="65">Ei regge il mondo eppur vagisce infante:</l>
+		<l>ha le saette in mano ed è tremante.</l></lg></sp>
+
+
+<sp><speaker><emph>Pastori I e III</emph></speaker>
+		<lg type="strofa">
+		<l rend="indent">Mentre ingemmano il suo viso </l>
+		<l>vive perle ruggiadose,</l>
+		<l>da sue lagrime preziose</l>
+		<l n="70">ha il natale il nostro riso.</l>
+		<l>E mentre ei dà principio a un mesto pianto</l>
+		<l>il nostro lagrimar termina intanto.</l></lg></sp>
+
+
+<sp><speaker><emph>Pastore I</emph></speaker>
+		<lg type="strofa">
+		<l rend="indent">E non si spezza</l>
+		<l>a tant'amore</l>
+		<l n="75">l'aspra durezza</l>
+		<l>d'ingrato core,</l></lg></sp>
+
+
+<sp><speaker><emph>Pastori I, II e III</emph></speaker>
+	<lg type="strofa">
+	<l>O gran bontà del regnator dell'<name>Etra</name>:</l>
+	<l><name>Iddio</name> si fa di carne e l'uom di pietra.</l></lg></sp>
+
+</div1></body></text>
+</TEI.2>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Titanomachia di Esiodo</title>
+      <author>Giacomo Leopardi</author>
+    </titleStmt>
+    <extent>21 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000995</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le opere</title>
+        <author>Leopardi, Giacomo</author>
+        <editor id="ed">Felici, Lucio</editor>
+        <publisher>Lexis Progetti Editoriali</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1998</date>
+        <note>L'edizione elettronica fa riferimento al testo G.L., Tutte le opere, a cura di W. Binni-E. Ghidetti, I, Firenze, Sansoni 1989.</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>858.7 - MISCELLANEA ITALIANA. 1814-1859</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-07-05T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marta Zanazzi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-07-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<div1 type="dedica">
+<head>Ai lettori</head>
+<p>Abbiatevi, o lettori, la <title>Titanomachia</title> di Esiodo, che è a dire la battaglia de' Titani co' Saturnii. Già sapete che non è opera speziale, ma un gherone della <title>Teogonia</title>. Prima, se vi piace, leggete questo preambolo, il quale se troverete più lungo dell'opera, non sarà male quando sia utile; e questo spero, perchè tratterà di Esiodo il quale già tanto letto e studiato, ora in Italia non so dove nè come si legga. E sì 'l merita per Giove se altro mai. Tanto è semplice, grave, dolce, che v'innamora e v'incatena e tienvi adugnati (per valermi di una frase di Marcaurelio<note resp="aut" place="foot"><quote><foreign lang="lat">Sed me Cesaris Oratio uncis unguibus adtinet</foreign>.</quote> <bibl lang="lat"><title>Ep. ad Fronton. 9</title> lib. ad M. Caesar</bibl>.</note>) con quella sua greca schiettezza che in lui antichissimo è somma. A me avvenne di leggere Esiodo dopo Omero colla mente impregnata delle idee e de' modi e della divinità di costui, e mi parve tanto più semplice, candido, naturale che o io piglio una balena, o certo Esiodo alla più trista fu de' padri di Omero. So che anche al Lipsio lo stile di Esiodo seppe di più vecchio, e mi danno da ridere il Salmasio e il Kuster quando mi fanno sapere che la cosa va a rovescio e che se lo stile decide, l'ha vinta Omero di che mi rallegro. Dove sia vero quello di che molti critici per la moltitudine e l'antichità de' testimoni non vorrebbero dubitare che Esiodo facesse a cantare con Omero e vincesse, l'avrà vinto garzonetto, sendo già in là cogli anni, non per lo contrario attempato, sendo egli in età fresca, come altri dice. Coi marmi d'Oxford, con Erodoto, Platone, Eforo ed altri moltissimi dalla mia, non istò solo nè male accompagnato, credo anzi meglio degli altri, nella mia sentenza, la quale se è vera (e non sia: già non è quasi adesso chi non dica l'un poeta nato e vissuto un poco prima della morte dell'altro) quanto non sarà da studiare Esiodo antichissimo tra' poeti non sacri o tutti o salvo uno solo! Sapete bene che le lettere, e singolarmente la poesia, vanno a ritroso delle scienze; voglio dire, dove queste vengon via sempre all'insù, quelle quando nascono sono giganti e col tempo rappicciniscono. Ora quanto debba essere grande Esiodo vel dica Omero, al quale la natura, per dare un compagno, dovette aspettare che le lettere morissero e fosser sepolte per tutto il mondo, poi rinascendo dessero fuori in Dante il secondo miracolo, come nascendo duemila anni avanti aveano dato il primo. Se mi chiederete quale scritto di Esiodo io brami che innanzi agli altri sia letto e studiato, risponderò franco, <title>Le Opere e i Giorni</title>. Il quale a Seleuco Nicanore morto trovarono sul capezzale; e i Beozi de' contorni d'Elicona e d'Ascra diceano a Pausania essere l'unico parto reale di Esiodo, e glielo davano a vedere, scritto sopra antichissime lastre di piombo. Oh che ingenuità, che vaghezza, che soavità! E che cosa è divino in letteratura se nol sono la favoletta dello sparviero e del rosignuolo, e la pittura del verno? Quegli ammaestramenti di morale dati così alla semplice a Perse nella prima parte, quelle immaginette delle cose naturali e della vita campaiuola nella seconda, come si possono leggere senza un soavissimo commovimento di tutta l'anima? Leggiadro tempo quando il poeta nella natura, fresca vergine intatta, vedendo tutto cogli occhi propri, non s'affannando a cercare novità, che tutto era nuovo, creando senza pensarselo, le regole dell'arte, con quella negligenza di cui ora tutta la forza dell'ingegno e dello studio appena ci sa dare la sembianza, cantava cose divine ed eternamente durature! E appunto nell'opera di Esiodo, più che in qualsivoglia altra, ride e spira quella freschezza della natura or sempre avvizzata. Insomma la è più che bellissima e più classica, ed è vergogna non averla letta. Non voglio con lodarla e meno del merito, fare presso che dubbio quello ch'è certo, e dar vista di tenere per opinione mia particolare quella che fu e sarà di tutti i secoli. Leggetela voi stessi nè 'l zucchero vi parrà più dolce, nè 'l latte più candido, nè l'oro fino terso lucente più puro di quella poesia, di quello stile, di quella semplicità, la quale, secondo me, come vi ho detto, maggiore dell'Omerica, se vorrete chiamare rozzezza, non istarò a farne piato, sì veramente che confessiate non ci aver tesoro al mondo che basti a pagare quella rozzezza.</p>
+<p>Or come va che tanto solenne opera non si legge pure non che si studi dai più de' letterati d'Italia? Spacciovi per le corte. È in greco: traduzione sopportabile in nostra lingua non ce ne ha. Vedete bene che non bisogna cercar altro. Leggere nel testo i poeti greci alla distesa non crediate che sia facile nè meno ai dotti: e leggendoli così a spizzico e alla stentata, s'intendono ma non si assaporano. Però le traduzioni poetiche dal greco spesso non pur son utili, ma necessarie anche ai dotti: quanto più ai letterati non dotti in materia di lingue! E questi possono essere e talora sono uomini sommi. Ma per traduzioni necessarie ai dotti e ai grandi letterati intendo, senza dir altro, quelle che gli scrittori loro fanno immortali, e per cui presso una nazione la fama e il nome del traduttore sono come annestati a quelli dell'autore. Sovente ho pensato al modo in che avrà adoperato l'Ariosto per leggere Omero. Non sapendo il greco, lo avrà letto in quelle traduzionacce latine che correvano allora, e vi davano mezzo Omero, per non dire un terzo. Dunque l'Ariosto non conobbe Omero, o solo indovinando. E questo a quanti altri, anche grandi uomini, debbe essere avvenuto! Cosa terribile: non aver conosciuto Omero: ma certa. Lode al cielo e benedizioni eterne al Monti che questo, mercè di lui, non accadrà più. Abbiamo, non dirò una classica traduzione dell'<title>Iliade</title>, ma l'<title>Iliade</title> in nostra lingua, e già ogn'Italiano, letto il Monti, può francamente e veramente dire: ho letto Omero. Non è da credere quanto io me ne rallegri, pensando che finalmente nel secolo decimonono tutti noi Italiani possiamo, come gli antichi Greci, a posta nostra leggere e studiare quel divino che da ventisette secoli.</p>
+<p><foreign lang="lat" rend="italic">Posteritate suum crescere sentit opus</foreign>. Così questa fortuna incontrasse anche alla sorella dell'<title>Iliade</title>; dico l'<title>Odissea</title>, e per non uscire di strada e non entrare, come dicono, nel pecoreccio, volesse Iddio che come la <title>Iliade</title> si potesse leggere <title>Le Opere e i Giorni</title>. Ma ciò non può essere se a questo poema non tocca come a quello un grande ingegno e un vero poeta per tradurre. E questo vorrei che fosse il frutto del mio discorso, tirare all'impresa alcuno di questi singolari ingegni che pur sono in Italia: chè già altri che essi non mi curo di muovere, perchè di cose mediocri non c'è carestia, anzi n'abbiamo sino alla gola. A voi dunque mi volgo, se degnate di darmi orecchio, o pochissimi cari alle muse, che a questa seconda Grecia conservate la gloria antica, e reverentemente vi prego che non vogliate lasciare così ignuda e senza onore la prima opera di un antichissimo padre dell'arte vostra. Quanto bene farete alla patria racquistandole un tesoro che ella o non conosce o non può mettere a guadagno, e quanto bello e puro piacere procaccerete a voi! E che Esiodo possa darvi larghissima gloria ed anche farvi immortali, chi vorrà metterlo in dubbio? Chi non sa che il Caro vivrà finchè Virgilio, il Monti finchè Omero, il Bellotti finchè Sofocle? Oh la bella sorte, non poter morire se non con un immortale!</p>
+<p>E poichè ho nominato il Caro, a me pare che stile convenientissimo ad un Esiodo italiano sarebbe il suo. Ma qui prego non mi sia disdetto uscire con una riflessione che a me veramente non è avvenuto di leggere nè di udir mai, ma che se agl'illustri amici di quell'eminente scrittore parrà o falsa o vecchia, io stesso condannerò e porrò giù come non mia. Che il Caro non sia stato sempre geloso dell'oro di Virgilio, anzi n'abbia sprecato più che alquanto, per modo che il testo vinca e non di rado talvolta d'assai la traduzione, è cosa detta da molti, e che a me non par da negare ma nè manco da rimestare. Io trovo vizioso il maggior pregio della traduzione del Caro. Il quale sta in quella scioltezza, o volete disinvoltura, che fa parere l'opera non traduzione, ma originale. E questa s'ha procacciata il Caro con usar parole e frasi al tutto proprie della lingua nostra, e modi non ignobilmente volgari, che danno all'opera un colore di semplicità vaghissima e di nobile famigliarità. Con uso anche più copioso di questi mezzi il Davanzati, padrone assoluto di quella onnipotente lingua fiorentina, ci ha dato la nervosissima e originalissima traduzione di Tacito, la quale come più l'uomo considera, più dispera d'imitare. E il Davanzati nella prosa è appunto quello che il Caro nella poesia; traduttore che per esquisito artifizio vi sembra originale parlandovi così alla buona e alla famigliare. Ma questa semplicità e questa famigliarità per essere lecitamente scelte dal Caro a qualità principali della sua traduzione, doveano certo essere qualità principali dello stile di Virgilio. Ora voi aprite l'<title>Eneide</title>, e di queste in genere non trovate niente o quasi niente, ma in vece un dire sempre grande, sempre magnifico, sempre segnalatamente nobile, sempre superiore a quello del comune degli uomini. Questo risalta e vi dà negli occhi, e questo chiamate carattere dello stile virgiliano, il quale ognuno raffigura a quel colore poetico dato costantemente a che che sia, e a quell'oro in cui sono legati anche i ciottoli: dove il Caro perchè la sua traduzione corra sempre libera e spedita, s'adopera a fare bellamente famigliari anche i luoghi nobilissimi; e questo chiamate carattere del suo stile. Laonde questi due caratteri sono se non opposti certo disparatissimi. Ora s'egli è obbligo stretto del traduttore il conservare anche i minutissimi lineamenti del testo, l'averne tramutato il distintivo e la proprietà principale, certo sarà gran peccato. Per tanto il Caro non mai letto nè studiato abbastanza, a me pare che sia da imitar con molto giudizio come traduttore. Vedete come abbia saputo farlo il Monti servendosi di quella sua maniera leggiadrissima a tradurre Omero, al quale si confà egregiamente, come benissimo si confarebbe ad Esiodo nobilmente semplicissimo e famigliarissimo, tanto che quella stretta proprietà di lingua e quegl'idiotismi ad una traduzione del suo poema non che stessero bene ma sarebbero necessari. E tuttavia lo stile del Monti non è già un solo con quello del Caro, anzi da questo alla bella prima si distingue per quella tinta vivissima di nobiltà da per tutto uguale e tutta propria di lui, che anche in altre opere del Monti risplende tanto mirabilmente. Il perchè tra il Monti e il Caro non è dubbio che Virgilio amerebbe meglio quello che questo. E chi non comprende qual divario sia dallo stile di Virgilio a quello del Caro, metta il Caro col Parini: e questo confronto sarà il caso anche per coloro (e non saranno pochi) che non crederanno poter Virgilio parlare l'italiano altramente che presso il Caro. Veggano come parla il Virgilio della moderna Italia, veggano se nel suo stile è ombra di quello del Caro, veggano se a Virgilio si può far parlare l'italiano virgilianamente, e mi dicano se par loro che chi traducendo un poema gli ha dato un colore tutt'altro da quello che nel testo a prima giunta salta agli occhi, in guisa che altri, letta la traduzione, non possa nè poco nè punto figurarsi in mente con verità lo stile dell'originale, abbia adempiuto l'uffizio suo. Dovrebbe un traduttore di Virgilio studiare assaissimo il Parini, e quanto più al Pariniano s'accostasse, tanto più avrebbe del Virgiliano. Però io sono contentissimo che l'Arici abbia tradotto, e tradotte voglia, come spero, dar fuori le <title>Georgiche</title> di Virgilio. L'Arici (e si roda e si affetti e si trucioli l'invidia a sua posta) si vede chiaro per li suoi versi originali che ha rimenato il Parini assiduamente, ed è il più Virgiliano e Pariniano poeta che si conosca, non aggiungo, in Italia, perchè niuno vorrà credere che gli stranieri abbiano poeti Pariniani. Nè di Virgilio potea egli sceglier cosa che più delle <title>Georgiche</title> s'addicesse alla sua penna tanto e tanto bene esercitata nella poesia didascalica, e nomatamente in quella che tratta le cose rustiche, della quale, se punto di amore della vera e casta e leggiadra poesia resterà agli avvenire, l'Arici sarà citato a modello con l'Alamanni e lo Spolverini. Ma perchè a tradurre si vogliono qualità non necessarie a produrre, nè sempre un valentissimo autore può riuscir buon traduttore, io potrei sgarrarla, nè qui ho voluto sporre altro che una conghiettura. Nè questa, nè il decreto dell'Ateneo di Brescia che nel 1812 aggiudicò alle <title>Georgiche</title> dell'Arici l'uno de' suoi premii, torrà al comune o a me, com'elle sieno venute in luce, il farne stima da noi.</p>
+<p>Ma saltando di palo in frasca e d'Arno in Bacchiglione, ci siamo dilungati un pezzo da Esiodo. Tornando a bomba, dico che dello <title>Scudo d'Ercole</title> da molti conteso al nostro poeta non ho da dir niente, e poco della <title>Teogonia</title>, la cui lettura, comecchè quella vaghissima semplicità io non giudichi inutile, non voglio raccomandare per non parere indiscreto. Luogo veramente poetico non mi pare v'abbia altro che questo che vi ho tradotto: ma gli è tanto bello che anche per amore di esso solo sarebbe da ringraziare la fortuna dell'averci conservato la <title>Teogonia</title>. Leggendo questi versi par di leggere Omero e Pindaro; altri aggiunga, se vuole, e Milton: io non l'aggiungo perchè la semplicità loro non si trova in poeta non greco. La terribilità semplicissima di questo luogo dovrebbe farlovi studiare assai. Ponete mente sopra tutto com'ella già somma sul cominciare, resti, anzi cresca per tanto spazio sino al fine. La qual cosa è tanto difficile quanto le difficilissime. Perchè il terribile, oltrechè facilmente si cangia in ridicolo, percuote di primo lancio gagliardissimamente l'animo del lettore; e le vivissime commozioni non durano quasi mai, perchè colui presto si stanca, e il poeta ha bel seguitare, che egli già raffreddato sta sodo e lo lascia ire avanti. Però è maraviglioso com'Esiodo ci trascini dietro alla fantasia per tanti versi, e ci sforzi a inorridire, finch'e' vuole, avendo già sul bel principio data tanta veemenza all'orrore. E nientemeno questo luogo tanto nobilissimo sepolto sotto quella mora di nomi, dico la <title>Teogonia</title> non è celebre, che sappia io, presso veruno. Perchè lo leggeste l'ho tradotto e ve l'offro da per se; e sapendo come più dei nomi che delle cose si tenga conto, ho voluto dargli un titolo perchè venendo fuori così senza nome, non avesse a rientrare subito subito nelle tenebre, alle quali però, a malgrado di tutto questo, ritornerà. <title>Titanomachia</title> fu titolo antico di un'antichissima opera di poeta incerto, allegata da Ateneo<note resp="aut" place="foot">Deipnos. L. I et VII.</note> e da Clemente Alessandrino<note resp="aut" place="foot">Strom. L. I, c. 15.</note>: laonde non crediate ch'io m'abbia foggiato questo vocabolo greco di mio cervello. Della traduzione, se vorrete, parlerete voi.</p>
+<p>La coscienza non vuole che io finisca senza aggiugnere qualche cosa. Io disopra ho ardito censurare il Caro; e di questo ardire ho tanto rimorso che mi bisogna confessarvelo solennemente. Dovreste aver veduto che io spezialissimamente ammiro quello insigne: qui però vo' dirvi che non pur lo ammiro ma l'amo, e di leggerlo e rileggerlo e volgerlo e rivolgerlo non mi sazio mai: e già se questo non fosse, non altri che io n'avrebbe il danno. Quello che ho detto m'è paruto vero, e per amore del vero ho voluto dirlo. Ma io so quanto sieno da riverire i Classici, e la sperienza m'ha insegnato come sovente le cose che in essi paion difetti sieno tutt'altro. Però se ho errato, e se errando o non errando ho usato modi sdicevoli alla piccolezza mia, sinceramente e al Caro e agli amici di lui, che degno è d'averne tanti quanti sono gl'Italiani, ne chieggio perdono.</p>
+</div1>
+</front>
+<body>
+<div1>
+<head>TITANOMACHIA DI ESIODO</head>
+<lg>
+<l>Disse. Ascoltato il dir lodaro i Numi</l>
+<l>Donatori de' beni; e più che pria</l>
+<l>Guerra agognava il cor. Tutti quel giorno</l>
+<l>Svegliar femmine e maschi immensa zuffa</l>
+<l>Gli Dei Titani e i di Saturno usciti</l>
+<l>E i di sotterra da l'Erebo tratti</l>
+<l>Per Giove in luce, orribili gagliardi,</l>
+<l>Di sfolgorata possa. Cento mani</l>
+<l>Lor gittavan le spalle, e questo a tutti,</l>
+<l>E da le spalle a ciaschedun cinquanta</l>
+<l>Teste nascean su le granate membra.</l>
+<l>Fronteggiaro i Titani, tramenando</l>
+<l>Ne la dogliosa pugna eccelse balze</l>
+<l>Con le mani robuste. E di rincontro</l>
+<l>Baldi i Titani ingagliardian le squadre;</l>
+<l>E di possanza a un tempo opre e di mani</l>
+<l>Sfoggiavan questi e quegli. Orrendamente</l>
+<l>L'interminato ponto reboava,</l>
+<l>Alto strepeva il suol, gemea squassato</l>
+<l>L'aperto cielo, e a la divina foga</l>
+<l>Da l'imo il vasto tracollava Olimpo.</l>
+<l>Pervenne al buio 'nferno il poderoso</l>
+<l>Crollo e 'l sonante scalpitar, lo sconcio</l>
+<l>De' vigorosi colpi rovinio.</l>
+<l>Sì gli uni a gli altri i luttuosi dardi</l>
+<l>Scagliavansi: e 'l clamor comune al cielo</l>
+<l>Stellato aggiunse e lo stiparsi. Immani</l>
+<l>Mettèan grida pugnando. Allor non tenne</l>
+<l>Giove più l'ira sua: d'ira colmossi</l>
+<l>A Giove il cor subitamente. Tutta</l>
+<l>Pompeggiava sua possa. Iva dal cielo</l>
+<l>E da l'Olimpo insieme a la distesa</l>
+<l>Lampeggiando. Volavan folti ratti</l>
+<l>Al par col tuono e col baleno i fulmini</l>
+<l>Da la gagliarda man, sacra volvendo</l>
+<l>Fiamma. La vital terra divampata</l>
+<l>Strepitava a l'intorno, e pel gran foco</l>
+<l>La foresta latissima crosciava.</l>
+<l>Bollia tutta la terra e d'Oceàno</l>
+<l>I flutti, e 'l mare immisurato. Avvolse</l>
+<l>I terrestri Titani il caldo fumo;</l>
+<l>E pervenne al divino aere la vampa</l>
+<l>Infinita. A' pugnanti ancorchè forti</l>
+<l>Il corruscar de' fulmini e de' lampi</l>
+<l>Abbarbagliava il guardo. Il sovrumano</l>
+<l>Incendio impigliò 'l Caos. E' di rimpetto</l>
+<l>Veder con gli occhi, ed ascoltar la voce</l>
+<l>Con gli orecchi parea. Qual s'incombesse</l>
+<l>Sopra la terra il vasto ciel; che tale</l>
+<l>Darian tremendo fracasso, la terra</l>
+<l>Sprofondando, e inseguendola da l'alto</l>
+<l>Il cielo: e tal de la divina mischia</l>
+<l>Era il fragore. In un destava il vento</l>
+<l>Sbattito, polverio, tuon, lampo, ardente</l>
+<l>Fulmin, saette del gran Giove, e al mezzo</l>
+<l>Cacciava lo stridor, lo schiamazzio</l>
+<l>D'ambe le parti. De l'orrenda zuffa</l>
+<l>Sorgea 'l trambusto immenso, e de le prove</l>
+<l>La fortezza apparia. Piegò la pugna.</l>
+<l>Ambo di pari ne la forte guerra</l>
+<l>Fino allor combattuto a fermo piede</l>
+<l>Avean: ma rinfrescàr l'amara tutta</l>
+<l>De la battaglia insaziabil Gige</l>
+<l>E Cotto e Briareo. De la frontiera</l>
+<l>Con le robuste man trecento pietre</l>
+<l>Lanciavan tutta fiata, ed i Titani</l>
+<l>Di frecce intenebravano, che sotto</l>
+<l>La vasta terra da lor possa vinti</l>
+<l>Gittàr benchè traforti, e con acerbe</l>
+<l>Catene inferriàr tanto sotterra</l>
+<l>Quanto da terra il ciel distà, che pari</l>
+<l>Spazio la terra e 'l negro Erebo parte.</l>
+</lg></div1>
+</body>
+</text>
+</TEI.2>

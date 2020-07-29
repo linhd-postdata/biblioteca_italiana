@@ -1,0 +1,4615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Nuovi poemetti</title>
+      <author>Giovanni Pascoli</author>
+    </titleStmt>
+    <extent>169 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000739</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Poesie</title>
+        <title type="part">Nuovi poemetti ; Canti di Castelvecchio ; Odi e inni</title>
+        <author>Pascoli, Giovanni</author>
+        <editor id="ed">Vicinelli, Augusto</editor>
+        <publisher>Mondadori</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date>1997</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>900</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language><language id="ger">Tedesco</language><language id="eng">Inglese</language><language id="spa">Spagnolo</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-02-10T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marta Zanazzi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-07-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<front>
+<epigraph><p rend="sc">II</p><p rend="sc">PAULO MAIORA</p>
+<ab type="dedica"><hi rend="sc">AI MIEI SCOLARI DI MATERA MASSA LIVORNO MESSINA PISA BOLOGNA</hi></ab></epigraph>
+</front>
+<body>
+<div1 type="prefazione">
+<head rend="italic">PREFAZIONE</head>
+<p rend="italic">A voi che mi conoscete. A voi, ai quali non avrò sempre mostrato molto ingegno e assai dottrina, ma animo onesto uguale sincero sì, sempre. A voi, ai quali credo aver dato mai esempi di presunzione e di ambizione, di malevolenza e di maldicenza. A voi, infine, ai quali io devo molto più che non diedi.</p>
+<p rend="italic">Perché vi devo l'abitudine di supporre sempre avanti me che scrivo, come ho avanti me che parlo, anime giovanili, che è dovere e religione non abbassare, raffreddare, violare.</p>
+<p rend="italic">Così voi mi avete beneficato.</p>
+<p rend="italic">Così io sono lieto d'aver unito alla divina poesia l'esercizio umano che più con la poesia si accorda: la scuola.</p>
+<closer>
+<dateline>Bologna, 24 giugno 1909.</dateline>
+<signed><hi rend="sc">GIOVANNI PASCOLI</hi></signed>
+</closer>
+</div1>
+<div1 type="sezione">
+<head rend="italic">LA FIORITA</head>
+<div2 type="poemetto">
+<head>IL PITTIERE</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Oh! tutti i giorni e tante volte al giorno</l>
+<l>s'erano visti! L'uno era in orecchi</l>
+<l>sempre che udisse spittinire intorno.</l></lg>
+<lg>
+<l>E s'ei tornava a casa con due stecchi</l>
+<l>o due vincigli, l'altro lo seguiva</l>
+<l>da ramo a ramo. Erano amici vecchi.</l></lg>
+<lg>
+<l>Ma oggi, tutto maraviglia viva</l>
+<l>nel petto rosso, l'uno alzava a scatti</l>
+<l>la coda al dorso di color d'uliva.</l></lg>
+<lg>
+<l>Parea dicesse: - O dunque fa di fatti!? -</l>
+<l>Ora aliava in terra tra lo sfagno,</l>
+<l>ora volava in cima a gli albigatti.</l></lg>
+<lg>
+<l>Con gli occhi tondi aperti sul compagno</l>
+<l>molleggiava sul cesto e su l'ontano.</l>
+<l>L'altro sedeva al calcio d'un castagno,</l></lg>
+<lg>
+<l>con una vetta e un coltelluccio in mano...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Pareva savio, un altro! Il suo coltello</l>
+<l>fece alla vetta torno torno un segno</l>
+<l>uguale, netto, e un piccolo tassello.</l></lg>
+<lg>
+<l>Ed egli poi con arte e con ingegno</l>
+<l>torse la buccia tra i due pugni, e trasse</l>
+<l>fuor della buccia umido e bianco il legno.</l></lg>
+<lg>
+<l>Tagliò del legno quanto gli tappasse</l>
+<l>quel cannoncello, ma non tutto e troppo.</l>
+<l>Scese il pittiere su le stipe basse.</l></lg>
+<lg>
+<l>Provò se il fiato non avesse intoppo,</l>
+<l>soffiando un poco, e si drizzò contento.</l>
+<l>Frullò il pittiere sur un alto pioppo.</l></lg>
+<lg>
+<l>Poi, nella selva, coi capelli al vento,</l>
+<l>lungo il ruscello, il fanciulletto Dore</l>
+<l>col flauto verde annunziò l'avvento</l></lg>
+<lg>
+<l>dei fiori brevi e dell'eterno amore.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>O primo fiore! o bianca primavera!</l>
+<l>Hai gli orli rossi, come li ha l'aurora,</l>
+<l>e il sole biondo è nella tua raggiera!</l></lg>
+<lg>
+<l>Dore sonava. All'uccellino allora</l>
+<l>sovvenne il nido. Alzò, partendo, il canto</l>
+<l>che là, negli alti monti ove dimora,</l></lg>
+<lg>
+<l>canta alle solitudini soltanto.</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head>IL SOLITARIO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Stette sul botro, stette su lo scoglio,</l>
+<l>dritto, sonando il flauto di corteccia:</l>
+<l>l'acqua rispose con un suo gorgoglio.</l></lg>
+<lg>
+<l>Intese la diana boschereccia</l>
+<l>il vecchio bosco, e la vitalba volle</l>
+<l>togliersi i bianchi bioccoli alla treccia.</l></lg>
+<lg>
+<l>E passò l'acqua e risalì sul colle:</l>
+<l>per tutti i poggi il sufolo selvaggio</l>
+<l>schiudeva i bocci, apriva le corolle.</l></lg>
+<lg>
+<l>Pioppi ed ontani pendere, al passaggio,</l>
+<l>facean dai rami ciondoli e nappine;</l>
+<l>chiedea l'avorno, s'era giunto maggio.</l></lg>
+<lg>
+<l>Mettea, chi fiori non potea, le spine;</l>
+<l>mettea le gemme l'albero più brullo:</l>
+<l>piovea la quercia, vergognando alfine,</l></lg>
+<lg>
+<l>le vecchie foglie a' piedi del fanciullo.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>E il bel fanciullo nella lieta ascesa</l>
+<l>passò, col fresco flauto tra le dita,</l>
+<l>presso macèe che furono una chiesa.</l></lg>
+<lg>
+<l>Pur v'è qualcosa della scorsa vita,</l>
+<l>poiché vi canta all'apparir del nuovo</l>
+<l>giorno ed al vespro il passero eremita.</l></lg>
+<lg>
+<l>Vi canta ai biacchi, che lì hanno il covo,</l>
+<l>ai grilli, alle lucertole che destre</l>
+<l>vengono a guizzi di tra il cardo e il rovo.</l></lg>
+<lg>
+<l>Dore intonò col sufolo silvestre</l>
+<l>la sua fanfara del ritorno; e il suono</l>
+<l>sparse per tutto un vago odor cilestre:</l></lg>
+<lg>
+<l>per tutto un casto odore, un odor buono,</l>
+<l>dov'era già il sagrato, dove pare</l>
+<l>fosse la croce, dove, ignoti, sono</l></lg>
+<lg>
+<l>sepolti i morti sotto il morto altare.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>Viole caste, pallide viole!</l>
+<l>Il fiore va, ma lascia un seme e il miele.</l>
+<l>Aprite, o fiori, all'ape che vi vuole!</l></lg>
+<lg>
+<l>Il solitario udiva. Ecco, e fedele</l>
+<l>alla rovina, prese alcun fuscello,</l>
+<l>radiche e scorze, crini e ragnatele;</l></lg>
+<lg>
+<l>e fece il nido, oh! rozzo assai, ma bello.</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head>LA RONDINE</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>E fu tra i campi e stie' su l'altipiano</l>
+<l>Dore, sonando. Ed ecco che un susino</l>
+<l>bianco sbocciò sul verzicar del grano.</l></lg>
+<lg>
+<l>Come un sol fiore gli sbocciò vicino</l>
+<l>un pesco, e un altro. I peschi del filare</l>
+<l>parvero cirri d'umido mattino;</l></lg>
+<lg>
+<l>d'un bel mattino a nuvilette chiare</l>
+<l>rosate in cima, che dall'Alpi d'oro</l>
+<l>guàtino ancora palpitando il mare.</l></lg>
+<lg>
+<l>Usciano le api. Ed or s'udiva un coro</l>
+<l>basso, un brusìo degli alberi fioriti,</l>
+<l>un gran sussurro, un favellar sonoro.</l></lg>
+<lg>
+<l>Dicean del verno, si facean gl'inviti</l>
+<l>di primavera. Per le viti sole</l>
+<l>era ancor presto, e ne piangean, le viti,</l></lg>
+<lg>
+<l>a grandi stille, in cui fioriva il sole.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Nell'aia, sotto un prugno, sur un mucchio</l>
+<l>di piote, egli chiamò le rondinelle,</l>
+<l>Dore, col flauto di castagno in succhio.</l></lg>
+<lg>
+<l>Le voci fuori ne traea più belle</l>
+<l>e più lontane. Ed ecco che su l'aia</l>
+<l>vide due rondini aliare snelle.</l></lg>
+<lg>
+<l>Svolar le vide sotto la grondaia,</l>
+<l>e poi sparire; e ritornar più tante,</l>
+<l>tornare in quattro, in otto, in dieci, a paia.</l></lg>
+<lg>
+<l>E stava sotto il prugno tremolante</l>
+<l>di bianchi fiori, tra il girar veloce</l>
+<l>di tante nere rondinelle sante.</l></lg>
+<lg>
+<l>(Avean Gesù pur consolato in croce!)</l>
+<l>Forse mancava a casa lor qualcosa:</l>
+<l>parlavan alto, tutte ad una voce...</l></lg>
+<lg>
+<l>E su la soglia ecco che venne Rosa.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>Torna la rondine! È fiorito il prugno!</l>
+<l>Il prugno è in fiore, in succhio è già il castagno</l>
+<l>Quale, di marzo, quale è in fior, di giugno.</l></lg>
+<lg>
+<l>Rosa tenea nel gomito il cavagno</l>
+<l>pieno di ghiomi. Stette fissa al grido</l>
+<l>del buon ritorno. Ognuna, il suo compagno!</l></lg>
+<lg>
+<l>L'albero ha il fiore e la rondine il nido.</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head>LA CINCIALLEGRA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>E poi cantò la cinciallegra, e Rigo</l>
+<l>tornò. T'avea sognata sul mattino,</l>
+<l>t'avea sognata tra un odor di spigo,</l></lg>
+<lg>
+<l>sognata, o Rosa, in un candor di lino,</l>
+<l>candor di fiori prima della foglia,</l>
+<l>senza una foglia, o candido armellino!</l></lg>
+<lg>
+<l>Avevi i piedi ignudi su la soglia,</l>
+<l>tremavi come un armellino in fiore,</l>
+<l>che trema tutto al vento che lo spoglia.</l></lg>
+<lg>
+<l>Era rimasto a Rigo, quel tremore;</l>
+<l>nel cuore suo, che per due cuori accanto</l>
+<l>avea battuto un attimo... o quante ore?</l></lg>
+<lg>
+<l>Gli era rimasta una dolcezza, un pianto</l>
+<l>per lei come pel bimbo che non parla!</l>
+<l>Or pregherebbe come avanti un santo...</l></lg>
+<lg>
+<l>E vide Rosa, e non ardì guardarla.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Cantava a lei, ch'era a ronzar nell'orto,</l>
+<l>la cinciallegra, e l'era Rigo a mente,</l>
+<l>quando lo vide, lieto insieme e smorto.</l></lg>
+<lg>
+<l>"Rigo!" E lasciò cadere la semente</l>
+<l>che aveva in grembo; e vide sé, smarrita,</l>
+<l>tutt'arruffata, con le vesti scente...</l></lg>
+<lg>
+<l>Si ravviò con le veloci dita:</l>
+<l>pareano i segni che si fanno in chiesa.</l>
+<l>Sfiorò d'un tratto fronte spalle vita.</l></lg>
+<lg>
+<l>Come pareva anche più bella, accesa</l>
+<l>in viso, sfatto il nodo biondo, un piede</l>
+<l>ignudo fuor della gonnella tesa!</l></lg>
+<lg>
+<l>"Oh! quant'è mai che non vi si rivede!"</l>
+<l>"Il babbo è indietro con le sue faccende:</l>
+<l>gli legherò due viti o tre, se crede..."</l></lg>
+<lg>
+<l>Poi mormorò: "Ben rende chi ben prende".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>Squittian nel sole sopra la fanciulla,</l>
+<l>chiedeano a lui le rondinelle nere,</l>
+<l>chiedeano: - Ed ora non le dici nulla? -</l></lg>
+<lg>
+<l>Ma Rigo, no; perché volea vedere.</l>
+<l>- Sei tu che vieni a me tutte le aurore?</l>
+<l>Sei tu che torni a me tutte le sere?</l></lg>
+<lg>
+<l>Fa, quando s'apre, un fiore più rumore... -</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head>IL TORCICOLLO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>E dicea - <emph>Cincin... pota Cincin... pota</emph> -</l>
+<l>la cinciallegra; e un canto uscì dal prato</l>
+<l>d'erba lupina: un'altra voce nota.</l></lg>
+<lg>
+<l>Potava il babbo; lasciò star pennato</l>
+<l>forbici e torchi, e poi seguì, fischiando</l>
+<l>anch'esso un po', l'altro messaggio alato.</l></lg>
+<lg>
+<l>Prese la vanga (questo era il comando</l>
+<l>dell'altro uccello) dalla punta d'oro;</l>
+<l>andò la bricia a tirar su, con Nando.</l></lg>
+<lg>
+<l>Poi spicciolò nel campo il suo tesoro</l>
+<l>di chicchi d'oro; e gli dicea, Fa piano!,</l>
+<l>quell'incessante piagnisteo canoro.</l></lg>
+<lg>
+<l>Dicea: - Bada! Il granturco non è grano:</l>
+<l>ben altra rappa nascerà da un chicco! -</l>
+<l>Quasi parea glieli contasse in mano,</l></lg>
+<lg>
+<l>dicendo: - A uno a uno! Non sei ricco! -</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Poi l'ammoniva ch'era giunta l'ora</l>
+<l>di seminar la canipa. Ma poca!</l>
+<l>E tristo a lungo ripetea, Lavora!</l></lg>
+<lg>
+<l>Ei t'ubbidiva, o poverella fioca</l>
+<l>canipaiola: e seminò ben fitto,</l>
+<l>dicendo: "Non mai vince, chi non gioca.</l></lg>
+<lg>
+<l>Il più del seme ai passeri lo gitto</l>
+<l>per certo! È il meno che doventa tela".</l>
+<l>Però d'intorno non s'udiva un zitto.</l></lg>
+<lg>
+<l>Ma il torcicollo a cui nulla si cela,</l>
+<l>avanti o dietro, e che giammai non erra,</l>
+<l>cantava pur la lunga sua querela.</l></lg>
+<lg>
+<l>Ei li vedeva, i figli della terra,</l>
+<l>color di terra, che tendean, gl'ingordi!</l>
+<l>Forse pensava: - E l'uomo muove guerra,</l></lg>
+<lg>
+<l>per via di loro, ai torcicolli e a' tordi! -</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg><l>Ma l'uomo fece un uomo d'una cappa</l>
+<l>e d'un cappello. "E' vi darà buon conto!"</l>
+<l>diceva: e se n'andò con la sua zappa.</l></lg>
+<lg>
+<l>Scesero allora i passeri. Il tramonto</l>
+<l>era dorato. Erano cento e cento...</l>
+<l>- Oh! il poveruomo! Ha l'ali, al volo è pronto;</l></lg>
+<lg>
+<l>ma è confitto, e lo patulla il vento! -</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head>IL CUCULO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Rigo, mentr'era buona ancor la luna,</l>
+<l>potava. Aveva, a raccattar le brocche,</l>
+<l>la bionda Rosa e la Viola bruna.</l></lg>
+<lg>
+<l>Allegre. Oh! d'un viticcio tra le ciocche</l>
+<l>ridean mezz'ora! e poi dicean, ridenti,</l>
+<l>col fascio in capo: "Siamo o no due sciocche?"</l></lg>
+<lg>
+<l>Rigo seguiva il loro andar con lenti</l>
+<l>sguardi, col tralcio che torceva in mano,</l>
+<l>ed un vinchietto tremolo tra i denti.</l></lg>
+<lg>
+<l>Ché s'affrettava. Era già alto il grano,</l>
+<l>avean le gemme l'uva in bocca. - O vigna! -</l>
+<l>pensava: - il cucco già non è lontano! -</l></lg>
+<lg>
+<l>Pensava: - Il ben nel presto non alligna.</l>
+<l>Ma sì, potava, poi torceva a modo</l>
+<l>il capo buono, quel che fa la pigna;</l></lg>
+<lg>
+<l>e lo legava con vie più d'un nodo.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Sì: presto e bene. E già finiva il tutto,</l>
+<l>quasi; e non s'era inteso il doppio accento</l>
+<l>del cucco: - Un giorno molle, un giorno asciutto; -</l></lg>
+<lg>
+<l>non s'era inteso annoverar tra il vento</l>
+<l>dolce le viti ancora da potare,</l>
+<l>cuculiando il contadino lento.</l></lg>
+<lg>
+<l>Era all'ultima vite del filare</l>
+<l>Rigo, e le donne all'ultimo fastello;</l>
+<l>e venne il canto da di là del mare.</l></lg>
+<lg>
+<l>Con la sua mucca risalìa bel bello</l>
+<l>la mamma, e il babbo la scontrava in via.</l>
+<l>Dore si ritrovò col suo fratello.</l></lg>
+<lg>
+<l>"L'ultimo nodo!" Rigo gridò: "Via!"</l>
+<l>Rosa premeva il fascio coi ginocchi...</l>
+<l>C'erano tutti, in pace e compagnia,</l></lg>
+<lg>
+<l>col sol morente, che splendea, negli occhi.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>Avea finito. E stettero alcun poco.</l>
+<l>E teste bianche e teste bionde e nere</l>
+<l>splendean sotto le nuvole di fuoco.</l></lg>
+<lg>
+<l>Udiano le due voci delle sere</l>
+<l>di primavera, limpide e sonore,</l>
+<l>così lontano che parean non vere,</l></lg>
+<lg>
+<l>così vicine che parean del cuore.</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head>LA CAPINERA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Su l'alba Rigo udì cantar gli uccelli.</l>
+<l>Parlavan, ora che nessun li udiva,</l>
+<l>tra loro, de' lor piccoli castelli:</l></lg>
+<lg>
+<l>castelli in aria; in vetta a un melo, in riva</l>
+<l>a un botro, appeso a un trave, dentro un muro</l>
+<l>nel buco d'un castagno o d'un'oliva.</l></lg>
+<lg>
+<l>Il cinguettìo, così tra lume e scuro,</l>
+<l>cessò d'un tratto. Era comparso il sole.</l>
+<l>Sparì ciascuno nel bel giorno puro.</l></lg>
+<lg>
+<l>E Rigo in cuore preparò parole</l>
+<l>da dire a lei, ridire, da vicino..</l>
+<l>Oh! era tempo! E tutto può chi vuole.</l></lg>
+<lg>
+<l>Via via le rimutava in suo cammino,</l>
+<l>per via le fece belle a poco a poco...</l>
+<l>Rosa stendeva sopra un biancospino</l></lg>
+<lg>
+<l>l'accia filata nell'inverno al fuoco.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>E' parlò d'altro, e disse in fine: "O Rosa..."</l>
+<l>Rosa aspettava. "Tutte l'altre vanno</l>
+<l>a nozze; e voi non vi farete sposa?"</l></lg>
+<lg>
+<l>"Mia madre non è quella d'or un anno.</l>
+<l>Come faceva! come lavorava!</l>
+<l>Ma ora fa le scale con l'affanno.</l></lg>
+<lg>
+<l>Viola è sempre piccola, ed è brava</l>
+<l>ma per le bestie. Ora, chi fa mangiare?</l>
+<l>chi cuce un po'? chi tesse un po'? chi lava?</l></lg>
+<lg>
+<l>Da fare, in una casa, non appare,</l>
+<l>ma c'è n'è tanto. E i bimbi? se sapeste!</l>
+<l>Dore è piccino, a me mi sembra un mare.</l></lg>
+<lg>
+<l>Ora chi li rammenda e li riveste?</l>
+<l>Ché tutti i giorni manca lor qualcosa.</l>
+<l>Tutti i giorni! Non dico poi le feste..."</l></lg>
+<lg>
+<l>A lui così tu rispondesti, o Rosa.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>E quando venne l'ora del ritorno,</l>
+<l>Rosa era allegra, e Rigo, no, non era.</l>
+<l>Andava cupo sul morir del giorno.</l></lg>
+<lg>
+<l>E chiedeva alcunché la capinera</l>
+<l>alto cantando con la voce chiara;</l>
+<l>oh! non a lui! Ché nella rosea sera</l></lg>
+<lg>
+<l>le rispondeva un'altra voce cara.</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head>LA LODOLA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Cantar gli uccelli Rigo udì su l'alba.</l>
+<l>Parlavan piano di bambagia e piume</l>
+<l>e fili e peli e pappi di vitalba.</l></lg>
+<lg>
+<l>Dei lor lettini essi garrian tra lume</l>
+<l>e scuro. E venne il sole. E frullò via</l>
+<l>ciascuno, al bosco, al prato, al campo, al fiume.</l></lg>
+<lg>
+<l>- Casa mia! - pensò Rigo - una badia</l>
+<l>tu sei davvero, con un fraticello</l>
+<l>romito e solo, o trista casa mia!</l></lg>
+<lg>
+<l>E ci sarebbe pure tanto bello,</l>
+<l>se lei vedessi tutte le mattine</l>
+<l>girare in pianellette ed in guarnello... -</l></lg>
+<lg>
+<l>Così pensava, e, passo passo, alfine,</l>
+<l>vide i cipressi neri della Pieve...</l>
+<l>Rosa piegava una sua tela fine</l></lg>
+<lg>
+<l>che avea tessuta i giorni della neve.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Aveva i pésti, aveva pianto. "O Rosa!</l>
+<l>Rosa, avete le guance scolorate,</l>
+<l>avete pianto, Rosa. Per che cosa?</l></lg>
+<lg>
+<l>Voi fate troppo, autunno verno estate.</l>
+<l>Rosa, se non lavate, voi stendete!</l>
+<l>Rosa, se non tessete, voi filate!</l></lg>
+<lg>
+<l>Per voi non c'è momento di quiete.</l>
+<l>Tutto tenete lindo netto asciutto,</l>
+<l>lustrate ogni solaio, ogni parete.</l></lg>
+<lg>
+<l>Parete un uccelletto, biondo, sdutto,</l>
+<l>snello, che cala becca salta frulla</l>
+<l>in un minuto. E sola fate il tutto!</l></lg>
+<lg>
+<l>E siete sempre piccola fanciulla..."</l>
+<l>"Povera mamma, è lei che non ha posa!</l>
+<l>Senza mia madre non saprei far nulla".</l></lg>
+<lg>
+<l>A lui così tu rispondesti, o Rosa.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>E' ritornò più tristo, a capo chino.</l>
+<l>Ed ecco, in mezzo al grande ciel sereno,</l>
+<l>la lodoletta, uguale ad un puntino,</l></lg>
+<lg>
+<l>cantava; e poi, come venisse meno</l>
+<l>dalla dolcezza, si gittò nel piano:</l>
+<l>s'abbandonò sul nido suo terreno,</l></lg>
+<lg>
+<l>s'abbandonò sul nido suo tra il grano.</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head>L'USIGNOLO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Su l'alba udì, ma piano, come fosse</l>
+<l>un gran segreto, bisbigliar di bianche</l>
+<l>ova e celesti con goccine rosse,</l></lg>
+<lg>
+<l>calde nel musco, sopra i pappi, ed anche</l>
+<l>tra foglie secche... Prima ancor di giorno</l>
+<l>volò ciascuno alle compagne stanche.</l></lg>
+<lg>
+<l>Ma tutto il giorno andava Rigo attorno</l>
+<l>senza far nulla. Non guardò nell'orto</l>
+<l>spighe di lilla e ciondoli d'avorno.</l></lg>
+<lg>
+<l>Violacciocche, e' vi guardava torto</l>
+<l>quando lo chiamavate con l'odore!</l>
+<l>Ma verso sera egli là era, smorto...</l></lg>
+<lg>
+<l>E vide Rosa: aveva in grembo un fiore,</l>
+<l>non facea nulla, ed era sola e muta.</l>
+<l>S'udia lontano il sufolo di Dore.</l></lg>
+<lg>
+<l>Guardava in aria, a nulla. Era seduta.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Rigo le prese le due mani. "O Rosa,</l>
+<l>ti voglio bene. Io t'amo e mi vergogno</l>
+<l>di dirlo a te, di dirlo a te... mia sposa!</l></lg>
+<lg>
+<l>Non ho coraggio, Rosa, ed ho bisogno</l>
+<l>che tu m'incuori. Il cuore trema: senti?</l>
+<l>E non m'attento di parlar, che in sogno.</l></lg>
+<lg>
+<l>Anche tu sembra allora che ti attenti.</l>
+<l>Se mostro un po' di chiuder gli occhi e taccio,</l>
+<l>tu entri in casa senza aprir battenti.</l></lg>
+<lg>
+<l>Tu vai, tu vieni... Oh! io non ti discaccio!"</l>
+<l>Ecco e d'un braccio cinse a lei la vita,</l>
+<l>ed essa gli si abbandonò sul braccio.</l></lg>
+<lg>
+<l>"Tu sei l'anima mia, sei la mia vita.</l>
+<l>Battere, il cuore, senza il tuo, non osa</l>
+<l>più. Respiriamo con la bocca unita!</l></lg>
+<lg>
+<l>Apriti, alfine, o mio bocciòl di rosa!"</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>Allor s'aprì la prima stella in cielo;</l>
+<l>e dalla terra tacita e sorpresa</l>
+<l>si levò un trillo come un lungo stelo.</l></lg>
+<lg>
+<l>Un'altra, un altro. Ad ogni stella accesa,</l>
+<l>un nuovo canto. Un canto senza posa</l>
+<l>correva ardendo lungo la distesa</l></lg>
+<lg>
+<l>del cielo azzurro. - È l'usignolo, o Rosa! -</l></lg>
+</div3>
+</div2>
+</div1>
+<div1 type="sezione">
+<head rend="italic">IL NAUFRAGO – IL PRIGIONIERO</head>
+<div2 type="poemetto">
+<head rend="italic">IL NAUFRAGO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Il mare, al buio, fu cattivo. Urlava</l>
+<l>sotto gli schiocchi della folgore! Ora</l>
+<l>qua e là brilla in rosa la sua bava.</l></lg>
+<lg>
+<l>Intorno a mucchi d'alga ora si dora</l>
+<l>la bava sua lungi da lui. S'effonde</l>
+<l>l'alito salso alla novella aurora.</l></lg>
+<lg>
+<l>Vengono e vanno in un sussurro l'onde.</l>
+<l>Sembra che l'una dopo l'altra salga</l>
+<l>per veder meglio. E chiede una, risponde</l></lg>
+<lg>
+<l>l'altra, spiando tra quei mucchi d'alga...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>- Chi è? Non so. Chi sei? Che fai? Più nulla.</l>
+<l>Dorme? Non so. Sì: non si muove. E il mare</l>
+<l>perennemente avanti lui si culla.</l></lg>
+<lg>
+<l>Noi gli occhi aperti ti baciamo ignare.</l>
+<l>Che guardi? Il vento ti spezzò la nave?</l>
+<l>Il vento vano che, sì, è, né pare?</l></lg>
+<lg>
+<l>E tu chi sei? Noi, quasi miti schiave,</l>
+<l>moviamo insieme, noi moriamo insieme</l>
+<l>costì con un rammarichìo soave...</l></lg>
+<lg>
+<l>Siamo onde, onda che canta, onda che geme...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>Tu guardi triste. E dunque tua forse era</l>
+<l>la voce che parea maledicesse</l>
+<l>nell'alta notte in mezzo alla bufera!</l></lg>
+<lg>
+<l>Noi siamo onde superbe, onde sommesse.</l>
+<l>Onde, e non più. L'acqua del mare è tanta!</l>
+<l>Siamo in un attimo, e non mai le stesse.</l></lg>
+<lg>
+<l>Ora io son quella che già là s'è franta.</l>
+<l>E io già quella ch'ora là si frange.</l>
+<l>L'onda che geme ora è lassù, che canta;</l></lg>
+<lg>
+<l>l'onda che ride, ai piedi tuoi già piange.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg>
+<l>Noi siamo quello che sei tu: non siamo.</l>
+<l>L'ombre del moto siamo. E ci son onde</l>
+<l>anche tra voi, figli del rosso Adamo?</l></lg>
+<lg>
+<l>Non sono. È il vento ch'agita, confonde,</l>
+<l>mesce, alza, abbassa; è il vento che ci schiaccia</l>
+<l>contro gli scogli e rotola alle sponde.</l></lg>
+<lg>
+<l>Pace! Pace! È tornata la bonaccia.</l>
+<l>Pace! È tornata la serenità.</l>
+<l>Tu dormi, e par che in sogno apra le braccia.</l></lg>
+<lg>
+<l>Onde! Onde! Onda che viene, onda che va... -</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">LA MORTE DEL PAPA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>"Oh! nonna! il Papa" uno gridò "sta male!"</l>
+<l>un seggiolaio che da Montebono</l>
+<l>salìa lungo Corsonna: "è sul giornale".</l></lg>
+<lg>
+<l>Andava all'Alpe, dove più non sono</l>
+<l>che greggi erranti, e dove non si sente,</l>
+<l>fuor che di foglie al vento, altro frastuono;</l></lg>
+<lg>
+<l>o il solitario scroscio del torrente</l>
+<l>dopo un'acquata, o il conversar tranquillo,</l>
+<l>presso le bianche nuvole, di gente,</l></lg>
+<lg>
+<l>che non si vede, intorno cui lo squillo</l>
+<l>de' campanacci va per le pratina</l>
+<l>odorate di menta e di serpillo.</l></lg>
+<lg>
+<l>La vecchietta filava. A lei vicina</l>
+<l>una sua pecorella da guadagno</l>
+<l>strappava ciuffi d'erba pannocchina.</l></lg>
+<lg>
+<l>Essa filava all'ombra d'un castagno</l>
+<l>centenario, e parlava alla sua recchia.</l>
+<l>Infilato nel braccio era il cavagno.</l></lg>
+<lg>
+<l>E tra ch'ell'era dura un po' d'orecchia,</l>
+<l>e che il cielo echeggiava di cicale,</l>
+<l>aspre dal sole, a mezzodì; la vecchia</l></lg>
+<lg>
+<l>"Chi?" disse. "Il Papa". "Il Papa, che?" "Sta male".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Alzò le braccia col cavagno e il fuso,</l>
+<l>al cielo azzurro, e mormorò: "Madonna</l>
+<l>del Carmine!" La recchia levò il muso.</l></lg>
+<lg>
+<l>"Siete d'età," l'uomo riprese: "eh nonna?</l>
+<l>Ma voi siete altra tiglia! A voi fa prode</l>
+<l>l'aria di monte e l'acqua di Corsonna".</l></lg>
+<lg>
+<l>Ma la vecchina non sentì la lode.</l>
+<l>Smerlucciò tra i castagni, quasi intorno</l>
+<l>fosse, a qualch'ombra, l'angiolo custode.</l></lg>
+<lg>
+<l>Ell'era nata lo stesso anno e giorno!</l>
+<l>E da vent'anni le diceva il cuore</l>
+<l>che farebbero insieme anche il ritorno.</l></lg>
+<lg>
+<l>"O dunque c'è la diceria, che muore?"</l>
+<l>"Più troppo!" Dunque non vedrebbe il rosso</l>
+<l>delle fragole e il nero delle more!</l></lg>
+<lg>
+<l>"Addio 'n salute!" "Addio". L'uno pel fosso,</l>
+<l>e l'altra prese per uno sgaruglio.</l>
+<l>Avea le gambe flosce, il fiato grosso.</l></lg>
+<lg>
+<l>Tornava a casa. O Vergine di luglio!</l>
+<l>o bianca nuviletta del Carmelo!</l>
+<l>La recchia dietro lei qualche cespuglio</l></lg>
+<lg>
+<l>brucava, e poi stradava con un belo.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>"<emph>Ta ta</emph>, Nina, <emph>ta ta</emph>". Come gagliardi</l>
+<l>eran quei tre castagni suoi! Che mèsse!</l>
+<l>che cimi! E la chioccetta era nei cardi!</l></lg>
+<lg>
+<l>Il suo figliolo quando vi cogliesse,</l>
+<l>nella sera che accecano il metato,</l>
+<l>sì, penserebbe a farle dir due mésse.</l></lg>
+<lg>
+<l>Buttar due lire uguanno non fa stato.</l>
+<l>Uguanno è annata, se non è lo strino</l>
+<l>che c'entri prima ch'abbiano animato.</l></lg>
+<lg>
+<l>La vecchietta era giunta al casalino;</l>
+<l>ma non l'antico suo paiòl di rame</l>
+<l>appese alla catena del camino.</l></lg>
+<lg>
+<l>Era avvilita, e non le facea fame!</l>
+<l>Mise un lenzuolo bianco al sacconcello,</l>
+<l>ma prima un poco ne rumò lo strame.</l></lg>
+<lg>
+<l>Poi si portò su l'uscio uno sgabello.</l>
+<l>Sedé movendo ad or ad or la bocca.</l>
+<l>Aspettò che venisse il suo gemello.</l></lg>
+<lg>
+<l>Sgranava qualche rappa nella cocca</l>
+<l>del pannello, e chiamava <emph>Curre! Curre!</emph></l>
+<l>Poi, rinfilata nel pensier la rócca,</l></lg>
+<lg>
+<l>filava in mezzo alle montagne azzurre.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg>
+<l><emph>Dan dan... dan dan...</emph> Passava un carbonaio</l>
+<l>col suo muletto. "O Chiozza, se vedete</l>
+<l>il Ciampa, il mi' figliolo di Renaio,</l></lg>
+<lg>
+<l>ditegli, se non è per le faggete,</l>
+<l>che non l'ho visto da non so mai quanto,</l>
+<l>e che cammini. E ditel anco al prete.</l></lg>
+<lg>
+<l>Venga di quella via con l'olio santo".</l>
+<l>"Servirò. Ma che avete? O che vi sente?"</l>
+<l>"O Chiozza, è l'ora che par poco il tanto!"</l></lg>
+<lg>
+<l>"Che dite, nonna?" "Anzi non par più niente!"</l>
+<l>"Coraggio!" "Più che vecchi, non si campa.</l>
+<l>Da Roma il Papa ha da venire..." "O gente!"</l></lg>
+<lg>
+<l>"E voi sapete leggere?" "La stampa".</l>
+<l>"Che scrivono?" "Che muore". "Ecco, tra poco</l>
+<l>andrò con lui. Se lo vedete, il Ciampa,</l></lg>
+<lg>
+<l>il mi' figliolo..." Ella parlava fioco,</l>
+<l>l'altro ripiva. Le montagne in faccia</l>
+<l>brillavano d'un grande orlo di fuoco.</l></lg>
+<lg>
+<l><emph>Dan dan...</emph> Sul petto ella piegò le braccia.</l>
+<l>Dovean sonare Avemarie dintorno.</l>
+<l><emph>Dan dan... dan dan</emph>... Era finita l'accia,</l></lg>
+<lg>
+<l>e pieno il fuso, e terminato il giorno.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg>
+<l>Il giorno dopo il Ciampa (era ai vincigli</l>
+<l>poco lontano) entrò senza picchiare</l>
+<l>col più piccino dei suoi sottofigli.</l></lg>
+<lg>
+<l>La trovò che sfaceva col cucchiare</l>
+<l>nel laveggino nero una brancata</l>
+<l>di farina, in ginocchio al focolare.</l></lg>
+<lg>
+<l>"Ch'ha detto il Chiozza, ch'érite malata?"</l>
+<l>"Oh! Gigi! Ahimè che tremo ho fatto! Provo</l>
+<l>se mi fa bono un po' di farinata".</l></lg>
+<lg>
+<l>"Più bono, o mamma, vi farebbe un ovo".</l>
+<l>"Con l'ova abbiamo da comprare il sale".</l>
+<l>"O dunque, mamma, cosa c'è di novo?"</l></lg>
+<lg>
+<l>"Forse, figliolo, c'è più ben che male".</l>
+<l>"Dio v'ascolti". "O codesto rapacchiotto?"</l>
+<l>"È il Gigino del mi' pover Natale".</l></lg>
+<lg>
+<l>"Dio lo riposi. E in quanti sono?" "In otto".</l>
+<l>"Polenta vi ci vuole ora e coraggio!"</l>
+<l>"Su dunque, Nini: porgigli il ricotto".</l></lg>
+<lg>
+<l>Nelle sue frasche e' lo tenea, di faggio,</l>
+<l>verdi, col cimo in dentro e fuori il calcio:</l>
+<l>un fardelletto bello come un maggio,</l></lg>
+<lg>
+<l>legato con un torchiettin di salcio.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg>
+<l>Ella guardò, mestando. "O che gli porti,</l>
+<l>Nini, alla nonna? O che tu l'hai saputo</l>
+<l>ch'io vado in pace, a ritrovare i morti?</l></lg>
+<lg>
+<l>Che glielo faccio a babbo, omo, un saluto?</l>
+<l>Che gli dico del bimbo? Eh! gli vuol detto</l>
+<l>ch'è savio, che dà retta, ch'è d'aiuto;</l></lg>
+<lg>
+<l>ch'ha il grembialino, ch'ha il rastellinetto,</l>
+<l>che va colle sue genti alle faccende,</l>
+<l>anco alla ruspa dopo fatto appietto;</l></lg>
+<lg>
+<l>e ch'abbada alle pecore, e contende</l>
+<l>se vanno al danno, e poi che fa in Corsonna</l>
+<l>le vetrici e le monda e le rivende.</l></lg>
+<lg>
+<l>Va colassù, va colassù la nonna,</l>
+<l>con uno che ci sa; che può, se vuole,</l>
+<l>anco portarla avanti alla Madonna.</l></lg>
+<lg>
+<l>Da lui si farà dire le parole</l>
+<l>per benedire i figli de' suoi figli</l>
+<l>coi lor figlioli e colle lor figliole;</l></lg>
+<lg>
+<l>perché Dio vi protegga e vi consigli,</l>
+<l>e abbiate ogni anno lo stabbiato e il frutto,</l>
+<l>e lana e legna, e le fronde e i vincigli,</l></lg>
+<lg>
+<l>e la polenta d'ogni giorno, e tutto".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VII</head>
+<lg>
+<l>La fronte e gli occhi si spazzò col dosso</l>
+<l>della mano. S'alzò. Prese in un godo</l>
+<l>del soppianello due cucchiai di bosso.</l></lg>
+<lg>
+<l>Prese anche il suo ch'era attaccato al chiodo.</l>
+<l>Staccò il laveggio, a stento, dall'uncino:</l>
+<l>riempì tre pianette: il tutto a modo.</l></lg>
+<lg>
+<l>Poi prese il fior di latte: anche, a modino,</l>
+<l>aprì le frasche, e giù, per non lo sfare,</l>
+<l>lo sbacchiò sopra un borracciòl di lino.</l></lg>
+<lg>
+<l>E mangiarono avanti il focolare</l>
+<l>in pace e amore, con di tanto in tanto</l>
+<l>quattro parole, a cucchiaiate rare.</l></lg>
+<lg>
+<l>Il bimbo in terra era seduto accanto</l>
+<l>alla bisnonna, e spesso dalle dita</l>
+<l>di lei pigliava un suo bocconcin santo.</l></lg>
+<lg>
+<l>L'uscio era aperto. I fior di margherita</l>
+<l>non aprivano ancora le corolle</l>
+<l>di su le crepe della soglia erbita.</l></lg>
+<lg>
+<l>Brillava al sole ogni albero, ogni colle;</l>
+<l>ma la casuccia si godeva ancora</l>
+<l>l'ombra sua propria, piccola, ancor molle</l></lg>
+<lg>
+<l>della guazza caduta in su l'aurora.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VIII</head>
+<lg>
+<l>"Sentite, Gigi. La recchietta voglio</l>
+<l>che la meniate ora con voi nel branco.</l>
+<l>È avvezza a qualche filo di trifoglio...</l></lg>
+<lg>
+<l>Un po' di tela c'è tavìa nel banco.</l>
+<l>Ho due lenzuola nove; anco un rotello,</l>
+<l>da tanto tempo, ch'ha riperso il bianco.</l></lg>
+<lg>
+<l>Ci troverete qualche buon guarnello,</l>
+<l>persino una sottana con la gala,</l>
+<l>che mi son fatte, là per là, bel bello.</l></lg>
+<lg>
+<l>Faccio per dire che non son cicala</l>
+<l>ch'ha un sol vestito, e quando è liso, muore.</l>
+<l>Ma poi, sentite: penso a quella scala...</l></lg>
+<lg>
+<l>Ditelo, Gigi, con le vostre nuore,</l>
+<l>che quell'andare su la scala in chiesa,</l>
+<l>così legata, m'è una spina al cuore!</l></lg>
+<lg>
+<l>Almeno almeno, senza vostra spesa,</l>
+<l>vuo' per amor di Dio che mi mettiate</l>
+<l>quella camicia nova ch'è lì stesa.</l></lg>
+<lg>
+<l>Io l'ho cucita, al sole della state;</l>
+<l>io l'ho sbiancata, al lume della luna;</l>
+<l>io l'ho tessuta, per le gran nevate;</l></lg>
+<lg>
+<l>filata, presso qualche vostra cuna".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IX</head>
+<lg>
+<l>Il bimbo era lì fuori. Ella più presso</l>
+<l>si fece al vecchio. "A Dio non si nasconde</l>
+<l>quello che al prete, ed anche a voi confesso.</l></lg>
+<lg>
+<l>Ho fatto a volte un carico di fronde</l>
+<l>in quel del Maso". "Un carichello!" "Ho colte</l>
+<l>nel suo, prima dell'alba, le sue gronde".</l></lg>
+<lg>
+<l>"Altro che gronde, il pover Maso!" "A volte,</l>
+<l>per due fagioli, m'allungavo all'orto.</l>
+<l>Menavo a bere le mie bestie sciolte..."</l></lg>
+<lg>
+<l>"Ma il pover Maso..." "Il pover Maso è morto!</l>
+<l>Fatemi dir due messe, una per Maso,</l>
+<l>una per me..." "Si fanno dire accòrto".</l></lg>
+<lg>
+<l>Erano usciti. "Siete persuaso?"</l>
+<l>"Sì". "La recchietta vuol menata a mano</l>
+<l>su le prime". "Si sa". "Fatene caso".</l></lg>
+<lg>
+<l>"Addio, madre". "Addio Gigi... State sano.</l>
+<l>Addio, Nina. O che beli? Io mi contento</l>
+<l>d'ire con lui che sta così lontano!"</l></lg>
+<lg>
+<l>Ai monti sparsi d'un vapor d'argento</l>
+<l>ella accennava con la mano arsita,</l>
+<l>e foglie secche, mosse un po' dal vento,</l></lg>
+<lg>
+<l>parean in aria le sue cinque dita.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">X</head>
+<lg>
+<l>Quel giorno un tuono rimbombò che scosse</l>
+<l>l'alta montagna, e, terminato il tuono,</l>
+<l>inviò l'acqua a gocce rade e grosse.</l></lg>
+<lg>
+<l>Ed un'acquata venne giù col suono</l>
+<l>d'un gran passaggio con un grande struscio.</l>
+<l>A sera il tempo era tornato al buono.</l></lg>
+<lg>
+<l>Il cielo aveva l'iridi del guscio</l>
+<l>di madreperla. Stava lì tranquilla</l>
+<l>nel suo lettino, con aperto l'uscio,</l></lg>
+<lg>
+<l>la vecchina, se udisse ora la squilla</l>
+<l>del sagrestano, si vedesse alfine</l>
+<l>venir l'ombrella color bianco e lilla,</l></lg>
+<lg>
+<l>salir di qua di là tante stelline,</l>
+<l>salir cantando, con in mano un cero,</l>
+<l>una fila di donne e di bambine.</l></lg>
+<lg>
+<l>E già scuriva. E sì, vedeva, in vero,</l>
+<l>splender ora più fitte ora più rare</l>
+<l>le luccioline avanti l'uscio nero.</l></lg>
+<lg>
+<l>Quante candele c'erano al sogliare!</l>
+<l>Udiva, sì, cantare; ma lontane</l>
+<l>erano ancora, colaggiù; cantare</l></lg>
+<lg>
+<l>cantare le ranelle con le rane.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XI</head>
+<lg>
+<l>E levò gli occhi, e ravvisò la strada,</l>
+<l>nel cielo azzurro, tra le stelle ardenti</l>
+<l>bianca ma quasi molle di rugiada,</l></lg>
+<lg>
+<l>la tacita sul sonno delle genti</l>
+<l>strada di Roma. Un tratto ne lucea</l>
+<l>nel breve spazio in mezzo ai due battenti:</l></lg>
+<lg>
+<l>un sentieròlo con una macea,</l>
+<l>lassù nel cielo: un pallido biancore</l>
+<l>presso le stelle di Cassiopea.</l></lg>
+<lg>
+<l>Al capo della via, forse a quell'ore</l>
+<l>prendea con le due mani il pastorale,</l>
+<l>e si levava su forse il pastore.</l></lg>
+<lg>
+<l>Forse veniva tra un sussurro d'ale</l>
+<l>d'angeli per l'azzurro cielo, e un coro</l>
+<l>d'anime nel silenzio siderale.</l></lg>
+<lg>
+<l>E passando cantavano, <emph>V'adoro</emph></l>
+<l><emph>ogni momento</emph>... sopra gli alti monti.</l>
+<l>Ed egli aveva la sua mitria d'oro.</l></lg>
+<lg>
+<l>Splendean le selve, risplendean le fonti,</l>
+<l>al suo passaggio, d'un baglior fugace</l>
+<l>che ancor passava su le bianche fronti</l></lg>
+<lg>
+<l>d'uomini e donne addormentati in pace.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XII</head>
+<lg>
+<l>Per quella via... Ma quella era la via</l>
+<l>dell'Universo, l'alta sui burroni</l>
+<l>dell'Infinito ignota Galaxia:</l></lg>
+<lg>
+<l>e prima d'essa Cani Idre Leoni,</l>
+<l>raggianti nelle tenebre celesti,</l>
+<l>gelide: stelle, costellazioni:</l></lg>
+<lg>
+<l>Soli: sciami di Soli, anzi, con mesti</l>
+<l>pianeti ognuno, dove il fuoco primo</l>
+<l>par che si spenga e che l'amor si desti;</l></lg>
+<lg>
+<l>dove marcisce il puro fuoco in limo</l>
+<l>di vita, impuro, su cui vola forse</l>
+<l>l'uomo con l'ali, o sguazza il fauno simo.</l></lg>
+<lg>
+<l>Le costellazioni indi trascorse,</l>
+<l>dalla fulgida Lira alla Carena,</l>
+<l>dalla fulgida Croce alle grandi Orse;</l></lg>
+<lg>
+<l>ecco la fitta polvere, la rena</l>
+<l>ogni cui grano è Mondo che sfavilla</l>
+<l>nella sua solitudine serena;</l></lg>
+<lg>
+<l>dove pare un pulviscolo, una stilla,</l>
+<l>il nostro cielo dalla volta immensa...</l>
+<l>se pur là c'è la notte, una pupilla</l></lg>
+<lg>
+<l>nell'ombra, uno che veglia, uno che pensa!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XIII</head>
+<lg>
+<l>E la vecchietta, dietro il suo pensiero,</l>
+<l>guardando il cielo, ora vedea sé stessa,</l>
+<l>non così vecchia, su per un sentiero.</l></lg>
+<lg>
+<l>Andava col su' omo, era ben messa,</l>
+<l>incignava quel giorno anzi un guarnello:</l>
+<l>andava a su per ascoltar la messa.</l></lg>
+<lg>
+<l>Lo conosceva quel viotterello:</l>
+<l>era pieno di fragole e di more.</l>
+<l>Quasi quasi n'empiva il suo pannello.</l></lg>
+<lg>
+<l>Ma poi ben altro le diceva il cuore,</l>
+<l>perché sentiva scampanare a festa:</l>
+<l>era la festa delle Quarant'ore.</l></lg>
+<lg>
+<l>Ella saliva i poggi lesta lesta,</l>
+<l>cantarellando, fresca come brina;</l>
+<l>ma in fondo al cuore era tra lieta e mesta.</l></lg>
+<lg>
+<l>E si trovava povera bambina:</l>
+<l>frignava, dicea <emph>Pappa</emph>, dicea <emph>Bombo</emph>:</l>
+<l>un'altra voce ripetea: Cammina!</l></lg>
+<lg>
+<l>Tremava in aria più vicino il rombo</l>
+<l>del doppio. Lesta, ché non è lontano!</l>
+<l>Sì, ma le sue gambette erano un piombo.</l></lg>
+<lg>
+<l>Allor sua mamma la pigliò per mano.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XIV</head>
+<lg>
+<l>Una sua nuora, lì con la sua rócca,</l>
+<l>c'era a vegliarla. Ad or ad or lo sputo</l>
+<l>dava alle dita e due prilli alla cocca.</l></lg>
+<lg>
+<l>Svagellava, la nonna. Ogni minuto</l>
+<l>parea l'ultimo. All'ultimo ecco a stento</l>
+<l>aperse gli occhi. Essa lo avea veduto!</l></lg>
+<lg>
+<l>Il Papa! Era per l'Alpe, era tra il vento</l>
+<l>gelido, anch'esso, era piccino e stanco,</l>
+<l>sfinito morto, ma parea contento.</l></lg>
+<lg>
+<l>Come accaldato! Aveva corso in branco</l>
+<l>co' suoi compagni: aveva il capo in fiamma.</l>
+<l>Ora sudava freddo; e con un bianco</l></lg>
+<lg>
+<l>lino la fronte gli tergea sua mamma.</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">ZI MEO</head>
+<lg type="poemetto">
+<lg>
+<l>Guardava ognuno, per un po', la vigna</l>
+<l>tua lì rimpetto, nell'uscir di chiesa.</l>
+<l>Oh! c'era sempre qualche bella pigna!</l></lg>
+<lg>
+<l>"Non ha finito!" E in dir così, sospesa</l>
+<l>con l'acquasanta ancora avea la mano:</l>
+<l>l'altra reggeva una candela accesa.</l></lg>
+<lg>
+<l>"Tutti vizzati buoni: colombano</l>
+<l>e capobugio". E discendean le soglie,</l>
+<l>a due a due, salmodiando piano.</l></lg>
+<lg>
+<l>O tra la lieve nebbia che si scioglie,</l>
+<l>sole d'ottobre! o come lunghe aurore</l>
+<l>giornate pure! o rosseggiar di foglie</l></lg>
+<lg>
+<l>presso a cadere! o limpide ultime ore!</l>
+<l>Un pesco, tra le viti sciolte, rosso</l>
+<l>era così come quand'era in fiore:</l></lg>
+<lg>
+<l>si ricordava! In faccia a lui, sul fosso,</l>
+<l>grandi castagni con i cardi a ciocche</l>
+<l>in tutti i rami; e i cardi avean già mosso.</l></lg>
+<lg>
+<l>Erano a bocca aperta, e dalle bocche</l>
+<l>già si vedea la bella buccia bionda.</l>
+<l>Oh! il bel tempo del fuoco e delle rócche!</l></lg>
+<lg>
+<l>quando le genti siedono alla tonda</l>
+<l>avanti al fuoco, e quelle donne, quale</l>
+<l>fa le mondine e quale poi le monda:</l></lg>
+<lg>
+<l>quando l'annata sia pur ita male,</l>
+<l>ma il fuoco scalda! ma rallegra il vino!</l>
+<l>e il vino è poco? Meno è, più vale.</l></lg>
+<lg>
+<l>Andavano pensando a San Martino,</l>
+<l>sotto i castagni, e c'eri, su la bara,</l>
+<l>coi panni buoni, tu, mio buon vicino!</l></lg>
+<lg>
+<l>Dal Rio mandava la sua voce chiara</l>
+<l>interrogando, l'usignol dei Morti,</l>
+<l>ch'è il pettirosso, e più l'alzava a gara.</l></lg>
+<lg>
+<l>Usignol della nebbia, che i nostri orti</l>
+<l>visiti quando non c'è più che bruchi,</l>
+<l>tu che ci lodi il verno che ci porti;</l></lg>
+<lg>
+<l>e ti fai cuore, e vieni e vai, t'imbuchi</l>
+<l>t'infraschi, e cerchi e fai sentire un canto</l>
+<l>appena trovi sanguini o sambuchi:</l></lg>
+<lg>
+<l>un uomo noi portiamo al camposanto</l>
+<l>che, come te, dimestico e silvano,</l>
+<l>godea del poco e non sapea del tanto.</l></lg>
+<lg>
+<l>I figli avea nell'oltremar lontano,</l>
+<l>e quasi solo vivucchiava in pace</l>
+<l>contento del suo vino e del suo grano.</l></lg>
+<lg>
+<l>Covava il fuoco avendo nelle brace</l>
+<l>poche castagne, e già vecchietto stanco</l>
+<l>pensava all'aspra giovinezza audace;</l></lg>
+<lg>
+<l>allor che in vetta all'alto pioppo bianco</l>
+<l>non scendea; no: gli dava l'onda e in aria</l>
+<l>prendeva a volo l'altro pioppo a fianco:</l></lg>
+<lg>
+<l>alla sua giovinezza aspra di paria,</l>
+<l>allor che dentro il suo metato in monte</l>
+<l>dovea passar la notte solitaria;</l></lg>
+<lg>
+<l>ma, per il fumo, tenea fuor la fronte</l>
+<l>e la lasciava al vento ed al nevischio</l>
+<l>sino al primo baglior dell'orizzonte:</l></lg>
+<lg>
+<l>ché allora a casa discendea tra il fischio</l>
+<l>del tramontano, la crinella in collo,</l>
+<l>zeppa di fronde, ed ogni passo un rischio.</l></lg>
+<lg>
+<l>Era di ceppa vecchia egli rampollo!</l>
+<l>Seguiva il cenno della madre austera</l>
+<l>imperiosa sotto il suo corollo!</l></lg>
+<lg>
+<l>Che vita, allora! il pane allor non c'era</l>
+<l>che per le Pasque! Ora godeva il verno</l>
+<l>egli che non godé la primavera.</l></lg>
+<lg>
+<l>In vece qui con un saluto eterno</l>
+<l>noi ti lasciamo. Addio, Zi Meo! Le zolle</l>
+<l>che abbiam gettate sul tuo cuor fraterno!</l></lg>
+<lg>
+<l>E questa croce sul terreno molle</l>
+<l>non reggerà! Verranno poi le acquate.</l>
+<l>Poi, bianco il monte e sarà bianco il colle.</l></lg>
+<lg>
+<l>Poi, torneranno i figli nell'estate</l>
+<l>a prender l'aria. Addio, Zi Meo! La vita</l>
+<l>è così fatta. Andiamo, dunque. - Andate</l></lg>
+<lg>
+<l>alla vendemmia non ancor finita! -</l></lg>
+</lg>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">NANNETTO</head>
+<lg type="poemetto">
+<lg>
+<l>Su qualche tetto erano forse al sole</l>
+<l>o in qualche prato, simili a vedere</l>
+<l>a bianche pietre, in tanto verde, sole.</l></lg>
+<lg>
+<l>Io le cercava, una di queste sere,</l>
+<l>guardando certe novità dell'orto</l>
+<l>suo: peri nani con enormi pere.</l></lg>
+<lg>
+<l>Andavo su e giù come a diporto</l>
+<l>col babbo suo, mentre cercavo intorno</l>
+<l>le due colombe del fanciullo morto.</l></lg>
+<lg>
+<l>Le avea portate da Zurigo un giorno</l>
+<l>e qui lasciate per tenergli il posto</l>
+<l>nella sua casa fino al suo ritorno;</l></lg>
+<lg>
+<l>per aspettarlo fino al nuovo agosto;</l>
+<l>no, per restare anch'esso tra i suoi monti</l>
+<l>e veder tutto, dentro lor nascosto:</l></lg>
+<lg>
+<l>girare i boschi, bere ai puri fonti</l>
+<l>della sua terra, e te godere ancora,</l>
+<l>sole, che così bello oggi tramonti,</l></lg>
+<lg>
+<l>e, dopo ancor l'Avemaria, quest'ora</l>
+<l>chiara e la sera che s'addorme e pare</l>
+<l>sognar, sui monti, d'essere l'aurora.</l></lg>
+<lg>
+<l>A lui parrebbe d'esserci, e di fare</l>
+<l>qualcosa anch'esso e d'aiutare un poco</l>
+<l>i suoi compagni e lor sorelle care:</l></lg>
+<lg>
+<l>roncare insieme, ma così per gioco,</l>
+<l>tirar la piena stridula carretta,</l>
+<l>mettere al mucchio dell'erbacce il fuoco;</l></lg>
+<lg>
+<l>a un primo lampo, a un primo tuono, in fretta</l>
+<l>correre tutti ad ammucchiare il fieno;</l>
+<l>condurre a mano la vacca soletta;</l></lg>
+<lg>
+<l>e per la strada, sotto un ciel sereno</l>
+<l>come ora, con qualcuno che s'arresta,</l>
+<l>parlar di forivia, del più, del meno;</l></lg>
+<lg>
+<l>andare ad ogni sagra, ad ogni festa</l>
+<l>de' suoi villaggi, semplice e fedele,</l>
+<l>con lo straniero berrettino in testa;</l></lg>
+<lg>
+<l>e contemplare il nuovo San Michele,</l>
+<l>venuto insin d'America ad Albiano,</l>
+<l>tra quel vapor d'incenso e di candele.</l></lg>
+<lg>
+<l>Oh! ci sarebbe, pur così lontano!</l>
+<l>vedrebbe qui, sull'ali del suo paio</l>
+<l>di colombelle, viti ulivi e grano:</l></lg>
+<lg>
+<l>e le ceragie prime, e il primo staio</l>
+<l>delle castagne, e i primi fichi d'oro</l>
+<l>vedrebbe, e il primo grispolletto vaio!</l></lg>
+<lg>
+<l>Dove son elle? Il cielo in vano esploro.</l>
+<l>Dov'è il ricordo del fanciullo buono?</l>
+<l>Ed ecco il padre un fischio dà sonoro.</l></lg>
+<lg>
+<l>Ed ecco un altro suono dietro il suono;</l>
+<l>un lieve moto, un fischio, un volo, un rombo.</l>
+<l>Ei non c'è più; ma elle ancor ci sono.</l></lg>
+<lg>
+<l>Vien la colomba accanto al suo colombo,</l>
+<l>e tutti e due si posano su 'n ramo,</l>
+<l>snodando il collo del color di piombo.</l></lg>
+<lg>
+<l>Scattano il collo a rimirar chi siamo,</l>
+<l>a lungo a lungo. Esse beveano al fiume,</l>
+<l>quando le scosse il solito richiamo.</l></lg>
+<lg>
+<l>- Dov'è? - Guardano guardano nel lume</l>
+<l>roseo. - Non c'è! - Riguardano. E non vanno.</l>
+<l>Col becco intanto lisciano le piume.</l></lg>
+<lg>
+<l>No, che non c'è. Non tornerà quest'anno!</l>
+<l>È il babbo solo... e tanto in cuor gli spiace</l>
+<l>d'avervi fatto questo breve inganno.</l></lg>
+<lg>
+<l>Non c'è, per ora. Ite a dormire in pace.</l>
+<l>Nannetto vostro è sempre via pel mondo,</l>
+<l>ed, a quest'ora, anch'esso dorme, e tace.</l></lg>
+<lg>
+<l>Non più, colombe, ora a Zurigo, in fondo</l>
+<l>di <emph>Magnusstrasse</emph>, ritto dietro il banco,</l>
+<l>vede chi passa, il bel fanciullo biondo.</l></lg>
+<lg>
+<l>Vede bensì l'<foreign lang="ger" rend="italic">Eichhörnchen</foreign> suo, che stanco</l>
+<l>è d'aspettare, e siede sullo staggio</l>
+<l>mostrando tutto il folto petto bianco.</l></lg>
+<lg>
+<l>Né prende i semi d'acero e di faggio</l>
+<l>tra le zampine, e pensa che l'estate</l>
+<l>finisce, ed ei non torna dal viaggio</l></lg>
+<lg>
+<l>fatto in cercar le due compagne alate.</l></lg>
+</lg>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">BELLIS PERENNIS</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Chi vede mai le pratelline in boccia?</l>
+<l>Ed un bel dì le pratelline in fiore</l>
+<l>empiono il prato e stellano la roccia.</l></lg>
+<lg>
+<l>Chi ti sapeva, o bianco fior d'amore</l>
+<l>chiuso nel cuore? E tutta, all'improvviso,</l>
+<l>la nera terra ecco mutò colore.</l></lg>
+<lg>
+<l>Sono pensieri, ignoti già, che in viso</l>
+<l>rimiran ora, ove si resti o vada;</l>
+<l>nati così, nell'ombra, d'un sorriso</l></lg>
+<lg>
+<l>di stella e d'una goccia di rugiada...</l></lg>
+<lg>
+<l>O mezzo aperta come chi non osa,</l>
+<l>o pratellina pallida e confusa,</l></lg>
+<lg>
+<l>che sei dovunque l'occhio mio si posa,</l>
+<l>e chini il capo, all'occhio altrui non usa;</l></lg>
+<lg>
+<l>bianca, ma i lievi sommoli, di rosa;</l>
+<l>tanto più rosa quanto più sei chiusa:</l></lg>
+<lg>
+<l>ti chiudi a sera, chi sa mai per cosa,</l>
+<l>sei chiusa all'alba, ed il perché sai tu;</l></lg>
+<lg>
+<l>o primo amore, o giovinetta sposa.</l>
+<l>o prima e sola cara gioventù!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>È il verno, e tutti i fiori arse la brina</l>
+<l>nei prati e tutte strinò l'erbe il gelo:</l>
+<l>ma te vedo fiorir, primaverina.</l></lg>
+<lg>
+<l>Tu persuasa dal fiorir del cielo,</l>
+<l>fioristi; ed ora, quasi più non voglia</l>
+<l>perché sei sola, appena alzi lo stelo.</l></lg>
+<lg>
+<l>O fior d'amore su la trita soglia!</l>
+<l>Tu tingi al sommo i petali d'argento</l>
+<l>d'un rosso lieve. Una raminga foglia</l></lg>
+<lg>
+<l>ti copre un poco, e passa via col vento...</l></lg>
+<lg>
+<l>O fior d'amore su la soglia trita!</l>
+<l>o, quando tutto se ne va, venuta!</l></lg>
+<lg>
+<l>che vivi quando è per finir la vita!</l>
+<l>e che non muti anche se il ciel si muta!</l></lg>
+<lg>
+<l>Hai visto i fiori nella lor fiorita:</l>
+<l>vedi le foglie nella lor caduta.</l></lg>
+<lg>
+<l>Ti coglierà passando Margherita</l>
+<l>col cuore assorto nell'amor che fu.</l></lg>
+<lg>
+<l>Ti lascerà cadere dalle dita...</l>
+<l>- Egli non t'ama, egli non t'ama più! -</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">LA PECORELLA SMARRITA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>"Frate," una voce gli diceva: "è l'ora</l>
+<l>che tu ti svegli. Alzati! La rugiada</l>
+<l>è sulle foglie, e viene già l'aurora".</l></lg>
+<lg>
+<l>Egli si alzava. "L'ombra si dirada</l>
+<l>nel cielo. Il cielo scende a goccia a goccia.</l>
+<l>Biancica, in terra, qua e là, la strada".</l></lg>
+<lg>
+<l>S'incamminava. "Spunta dalla roccia</l>
+<l>un lungo stelo. In cima dello stelo,</l>
+<l>grave di guazza pende il fiore in boccia".</l></lg>
+<lg>
+<l>S'inginocchiava. "Si dirompe il cielo!</l>
+<l>Albeggia Dio! Plaudite con le mani,</l>
+<l>pini de l'Hermon, cedri del Carmelo!"</l></lg>
+<lg>
+<l>Tre volte il gallo battea l'ali. I cani</l>
+<l>squittìano in sogno. Le sei ali in croce</l>
+<l>egli vedea di seraphim lontani.</l></lg>
+<lg>
+<l>Sentiva in cuore il rombo della voce.</l>
+<l>Su lui, con le infinite stelle, lento,</l>
+<l>fluiva il cielo verso la sua foce.</l></lg>
+<lg>
+<l>Era il dì del Signore, era l'avvento.</l>
+<l>Spariva sotto i baratri profondi</l>
+<l>colmi di stelle il tacito convento.</l></lg>
+<lg>
+<l>- Mucchi di stelle, grappoli di mondi,</l>
+<l>nebbie di cosmi. Il frate disse: "O duce</l>
+<l>di nostra casa, vieni! Eccoci mondi".</l></lg>
+<lg>
+<l>In quella immensa polvere di luce</l>
+<l>splendeano, occhi di draghi e di leoni,</l>
+<l>Vega, Deneb, Aldebaran, Polluce...</l></lg>
+<lg>
+<l>E il frate udì, fissando i milioni</l>
+<l>d'astri, il vagito d'un agnello sperso</l>
+<l>la tra le grandi costellazioni</l></lg>
+<lg>
+<l>nella profondità dell'Universo...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>E il dubbio entrò nel cuore tristo e pio.</l>
+<l>"Che sei tu, Terra, perché in te si sveli</l>
+<l>tutto il mistero, e vi s'incarni Dio?</l></lg>
+<lg>
+<l>O Terra, l'uno tu non sei, che i Cieli</l>
+<l>sian l'altro! Non, del tuo Signor, sei l'orto</l>
+<l>con astri a fiori, e lunghi sguardi a steli!</l></lg>
+<lg>
+<l>Noi ti sappiamo. Non sei, Terra, il porto</l>
+<l>del mare in cui gli eterni astri si cullano...</l>
+<l>un astro sei, senza più luce, morto:</l></lg>
+<lg>
+<l>foglia secca d'un gruppo cui trastulla</l>
+<l>il vento eterno in mezzo all'infinito:</l>
+<l>scheggia, grano, favilla, atomo, nulla!"</l></lg>
+<lg>
+<l>Così pensava: al sommo del suo dito</l>
+<l>giungeva allora da una stella il raggio</l>
+<l>che da più di mille anni era partito.</l></lg>
+<lg>
+<l>E vide una fiammella in un villaggio</l>
+<l>lontano, a quelle di lassù confusa:</l>
+<l>udì lontano un dolce suon selvaggio.</l></lg>
+<lg>
+<l>Laggiù da una capanna semichiusa</l>
+<l>veniva il suono per la notte pura,</l>
+<l>il dolce suono d'una cornamusa.</l></lg>
+<lg>
+<l>E risonava tutta la pianura</l>
+<l>d'uno scalpiccio verso la capanna:</l>
+<l>forse pastori dalla lor pastura.</l></lg>
+<lg>
+<l>E il frate al suono dell'agreste canna</l>
+<l>ripensò quelle tante pecorelle</l>
+<l>che il pastor buono non di lor s'affanna:</l></lg>
+<lg>
+<l>tra i fuochi accesi stanno in pace, quelle,</l>
+<l>sicure là su la montagna bruna;</l>
+<l>e il pastor buono al lume delle stelle</l></lg>
+<lg>
+<l>quaggiù ne cerca intanto una, sol una...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>"Sei tu quell'una, tu quell'una, o Terra!</l>
+<l>Sola, del santo monte, ove s'uccida,</l>
+<l>dove sia l'odio, dove sia la guerra;</l></lg>
+<lg>
+<l>dove di tristi lagrime s'intrida</l>
+<l>il pan di vita! Tu non sei che pianto</l>
+<l>versato in vano! Sangue sei, che grida!</l></lg>
+<lg>
+<l>E tu volesti Dio per te soltanto:</l>
+<l>volesti che scendesse sconosciuto</l>
+<l>nell'alta notte dal suo monte santo.</l></lg>
+<lg>
+<l>Tu lo volesti in forma d'un tuo bruto</l>
+<l>dal mal pensiero: e in una croce infame</l>
+<l>l'alzasti in vista del suo cielo muto".</l></lg>
+<lg>
+<l>In cielo e in terra tremulo uno sciame</l>
+<l>era di luci. Andavano al lamento</l>
+<l>della zampogna, e fasci avean di strame.</l></lg>
+<lg>
+<l>Ma il frate, andando, con un pio sgomento</l>
+<l>toccava appena la rea terra, appena</l>
+<l>guardava il folgorìo del firmamento:</l></lg>
+<lg>
+<l>quella nebbia di mondi, quella rena</l>
+<l>di Soli sparsi intorno alla Polare</l>
+<l>dentro la solitudine serena.</l></lg>
+<lg>
+<l>Ognun dei Soli nel tranquillo andare</l>
+<l>traeva seco i placidi pianeti</l>
+<l>come famiglie intorno al focolare:</l></lg>
+<lg>
+<l>oh! tutti savi, tutti buoni, queti,</l>
+<l>persino ignari, colassù, del male,</l>
+<l>che no, non s'ama, anche se niun lo vieti.</l></lg>
+<lg>
+<l>Sonava la zampogna pastorale.</l>
+<l>E Dio scendea la cerula pendice</l>
+<l>cercando in fondo dell'abisso astrale</l></lg>
+<lg>
+<l>la Terra, sola rea, sola infelice.</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">LA VERTIGINE</head>
+<epigraph>
+<p rend="italic">Si racconta di un fanciullo che aveva perduto il senso della gravità...</p>
+</epigraph>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Uomini, se in voi guardo, il mio spavento</l>
+<l>cresce nel cuore. Io senza voce e moto</l>
+<l>voi vedo immersi nell'eterno vento;</l></lg>
+<lg>
+<l>voi vedo, fermi i brevi piedi al loto,</l>
+<l>ai sassi, all'erbe dell'aerea terra,</l>
+<l>abbandonarvi e pender giù nel vuoto.</l></lg>
+<lg>
+<l>Oh! voi non siete il bosco, che s'afferra</l>
+<l>con le radici, e non si getta in aria</l>
+<l>se d'altrettanto non va su, sotterra!</l></lg>
+<lg>
+<l>Oh! voi non siete il mare, cui contraria</l>
+<l>regge una forza, un soffio che s'effonde,</l>
+<l>laggiù, dal cielo, e che giammai non varia.</l></lg>
+<lg>
+<l>Eternamente il mar selvaggio l'onde</l>
+<l>protende al cupo; e un alito incessante</l>
+<l>piano al suo rauco rantolar risponde.</l></lg>
+<lg>
+<l>Ma voi... Chi ferma a voi quassù le piante?</l>
+<l>Vero è che andate, gli occhi e il cuore stretti</l>
+<l>a questa informe oscurità volante;</l></lg>
+<lg>
+<l>che fisso il mento a gli anelanti petti,</l>
+<l>andate, ingombri dell'oblio che nega,</l>
+<l>penduli, o voi che vi credete eretti!</l></lg>
+<lg>
+<l>Ma quando il capo e l'occhio vi si piega</l>
+<l>giù per l'abisso in cui lontan lontano</l>
+<l>in fondo in fondo è il luccichìo di Vega...?</l></lg>
+<lg>
+<l>Allora io, sempre, io l'una e l'altra mano</l>
+<l>getto a una rupe, a un albero, a uno stelo,</l>
+<l>a un filo d'erba, per l'orror del vano!</l></lg>
+<lg>
+<l>a un nulla, qui, per non cadere in cielo!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Oh! se la notte, almeno lei, non fosse!</l>
+<l>Qual freddo orrore pendere su quelle</l>
+<l>lontane, fredde, bianche azzurre e rosse,</l></lg>
+<lg>
+<l>su quell'immenso baratro di stelle,</l>
+<l>sopra quei gruppi, sopra quelli ammassi,</l>
+<l>quel seminìo, quel polverìo di stelle!</l></lg>
+<lg>
+<l>Su quell'immenso baratro tu passi</l>
+<l>correndo, o Terra, e non sei mai trascorsa,</l>
+<l>con noi pendenti, in grande oblìo, dai sassi.</l></lg>
+<lg>
+<l>Io veglio. In cuor mi venta la tua corsa.</l>
+<l>Veglio. Mi fissa di laggiù coi tondi</l>
+<l>occhi, tutta la notte, la Grande Orsa:</l></lg>
+<lg>
+<l>se mi si svella, se mi si sprofondi</l>
+<l>l'essere, tutto l'essere, in quel mare</l>
+<l>d'astri, in quel cupo vortice di mondi!</l></lg>
+<lg>
+<l>veder d'attimo in attimo più chiare</l>
+<l>le costellazioni, il firmamento</l>
+<l>crescere sotto il mio precipitare!</l></lg>
+<lg>
+<l>precipitare languido, sgomento,</l>
+<l>nullo, senza più peso e senza senso.</l>
+<l>sprofondar d'un millennio ogni momento!</l></lg>
+<lg>
+<l>di là da ciò che vedo e ciò che penso,</l>
+<l>non trovar fondo, non trovar mai posa,</l>
+<l>da spazio immenso ad altro spazio immenso;</l></lg>
+<lg>
+<l>forse, giù giù, via via, sperar... che cosa?</l>
+<l>La sosta! Il fine! Il termine ultimo! Io,</l>
+<l>io te, di nebulosa in nebulosa,</l></lg>
+<lg>
+<l>di cielo in cielo, in vano e sempre, Dio!</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">IL PRIGIONIERO</head>
+<lg type="poemetto">
+<lg>
+<l>Prendi, infelice, il tuo dolore in pace!</l>
+<l>"Perché?" Tu, perché gridi, urti la porta?</l>
+<l>"Perché dolore è più dolor, se tace".</l></lg>
+<lg>
+<l>Se lo nascondi, frutterà. Sopporta,</l>
+<l>attendi, spera... "O vanità! Non spero.</l>
+<l>Non credo". Eppure... "Dio non è!" Che importa?</l></lg>
+<lg>
+<l>C'è del mistero intorno a te... "Mistero?</l>
+<l>Io non lo vedo". Ciò che tu non vedi,</l>
+<l>o prigioniero, è un altro prigioniero;</l></lg>
+<lg>
+<l>e un altro e un altro. Hanno nei ceppi i piedi...</l>
+<l>"Anch'io". Presto la morte, ora catene!</l>
+<l>"Anch'io". Dunque tu sai, dunque tu credi.</l></lg>
+<lg>
+<l>Non li destare! "Io, dormo forse?" Ebbene?</l>
+<l>Se vuoi parlare, parla sì, ma piano;</l>
+<l>canta, se vuoi, ciò che dal cuor ti viene:</l></lg>
+<lg>
+<l>canta, ma un dolce canto, esile, vano,</l>
+<l>che su la piuma delle sue parole</l>
+<l>li porti in collo al loro amor lontano:</l></lg>
+<lg>
+<l>cantalo quello che nel cuor ti duole!</l>
+<l>piangano anch'essi, ma dormendo ancora!</l>
+<l>Chi piange in sogno, è giunto a ciò che vuole,</l></lg>
+<lg>
+<l>è giunto alfine a tutto ciò che implora</l>
+<l>invano. Canta: e l'anima pugnace</l>
+<l>tua placherai. Ritroverà l'aurora</l></lg>
+<lg>
+<l>anche te forse addormentato in pace.</l></lg>
+</lg>
+</div2>
+</div1>
+<div1 type="sezione">
+<head rend="italic">I FILUGELLI – LA MIETITURA</head>
+<div2 type="poemetto">
+<head rend="italic">I FILUGELLI</head>
+<div3 type="canto">
+<head rend="sc">CANTO PRIMO</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Con chi partisci quell'esigua messe?</l>
+<l>La deve qualche luccioletta avere,</l>
+<l>che ti fa lume? o il ragno, che ti tesse?</l></lg>
+<lg>
+<l>o la formica? Le formiche nere</l>
+<l>t'han fatto il mucchio, che somiglia un poggio?</l>
+<l>E mezzo devi il grano del podere,</l></lg>
+<lg>
+<l>e lo misuri: e il tuo ditale è il moggio.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>T'han fatto, o Rosa, le formiche il mucchio.</l>
+<l>Ora partisci, benché sia d'aprile;</l>
+<l>San Marco, appunto; quando il gelso è in succhio.</l></lg>
+<lg>
+<l>E il tuo grano è una polvere sottile</l>
+<l>e sembra nato tutto in una zolla...</l>
+<l>Lo tribbiò il grillo dentro il suo cortile,</l></lg>
+<lg>
+<l>e la vanessa ventilò la lolla.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Te lo tribbiò le lunghe sere il grillo</l>
+<l>trillando acuto... Oppur codesto grano</l>
+<l>tu l'hai mietuto al regamo e al serpillo?</l></lg>
+<lg>
+<l>O scosso t'hai nel cavo della mano</l>
+<l>l'urna del fiore dell'oblio, del fiore</l>
+<l>del dolce sonno? Vi s'udiva un vano</l></lg>
+<lg>
+<l>scrosciar di pioggia in un lontano albore...</l></lg>
+</lg>
+<lg>
+<head rend="sc">IV</head>
+<lg>
+<l>E tu vuoi dunque seminare il sogno</l>
+<l>del rosso fiore? Non è tardi? È molto</l>
+<l>che cadde il fiore al melo ed al cotogno.</l></lg>
+<lg>
+<l>Fiorisce il grano già da te sepolto.</l>
+<l>Pendono ai rami i pomi verdi e lazzi.</l>
+<l>Fiorisce l'uva; e dal ciliegio folto</l></lg>
+<lg>
+<l>pendono bianche le ciliege a mazzi.</l></lg>
+</lg>
+<lg>
+<head rend="sc">V</head>
+<lg>
+<l>Ma tu ti sganci il candido corsetto,</l>
+<l>o bionda Rosa. Fuori è chiaro il sole,</l>
+<l>e due colombi tubano sul tetto</l></lg>
+<lg>
+<l>Ti slacci il busto. Odore di viole</l>
+<l>bianche è nell'orto. Oh! lascia come prima.</l>
+<l>Bello è come è. Non altro fior ci vuole.</l></lg>
+<lg>
+<l>Ci son due bocci ch'hanno il rosso in cima.</l></lg>
+</lg>
+<lg>
+<head rend="sc">VI</head>
+<lg>
+<l>Non chiudere entro il bianco petto, o Rosa,</l>
+<l>il fior del sonno. Non la notte e il giorno</l>
+<l>costì si veglia e mai non si riposa?</l></lg>
+<lg>
+<l>Ma senti a un tratto scalpicciare intorno</l>
+<l>alla tua casa... Ora le lievi trine</l>
+<l>tu lieve agganci, ed il corsetto adorno</l></lg>
+<lg>
+<l>richiudi, a un grido delle tue vicine.</l></lg>
+</lg>
+<lg>
+<head rend="sc">VII</head>
+<lg>
+<l>Chiamano: Rosa! A doppio le campane</l>
+<l>suonano. Andate! Va con l'altre a schiera:</l>
+<l>prega da Dio la cara pace e il pane.</l></lg>
+<lg>
+<l>Peregrinando suoni la preghiera</l>
+<l>per campi e selve, e per le vigne e gli orti.</l>
+<l>Ristate, o litanie di primavera,</l></lg>
+<lg>
+<l>avanti a croci, qua e là, di morti!</l></lg>
+</lg>
+<lg>
+<head rend="sc">VIII</head>
+<lg>
+<l>Appiedi, o Rosa, delle vecchie croci</l>
+<l>prega anche tu: che venga alle su' ore</l>
+<l>il grano e l'uva, e le gioconde noci</l></lg>
+<lg>
+<l>e le castagne; per il dolce amore</l>
+<l>tuo, per quei morti, che non sai chi sono...</l>
+<l>Prega! Pregate che sfiorisca il fiore,</l></lg>
+<lg>
+<l>che il bello passi ma che lasci il buono.</l></lg>
+</lg>
+<lg>
+<head rend="sc">IX</head>
+<lg>
+<l>Ai morti ignoti hanno pensato, ed anche</l>
+<l>al seme chiuso che lor è sul cuore,</l>
+<l>covato già da due lievi ale bianche...</l></lg>
+<lg>
+<l>E vanno via le vergini canore</l>
+<l>e il canto lor si perde nella valle.</l>
+<l>Cantano lontanando: <emph>Non si muor</emph></l></lg>
+<lg>
+<l>E poi: <emph>Lo sanno insino le farfalle!</emph> ..</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">CANTO SECONDO</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Nati! Son nati nel tuo petto i semi!</l>
+<l>Ah! che son bruchi, squallidi di pelo,</l>
+<l>neri, infiniti! Ma tu già non temi.</l></lg>
+<lg>
+<l>Tu cauta e pia nel piccolo suo telo,</l>
+<l>in un paniere, adagi il tuo tesoro;</l>
+<l>e su vi spargi lievemente un velo</l></lg>
+<lg>
+<l>di foglie trite e di germogli d'oro.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Ché savio il gelso come se c'intenda,</l>
+<l>ha messo a tempo. Ed ora ogni quattro ore</l>
+<l>tu recherai la piccola profenda,</l></lg>
+<lg>
+<l>al lor presepe, nell'ugual tepore</l>
+<l>della tua stanza; ed essi pasceranno.</l>
+<l>Ma ecco, un dì, non toccano più fiore:</l></lg>
+<lg>
+<l>noia li prende; alzano il capo, e stanno.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Dormono. Or tu non romperai quel sogno</l>
+<l>che forse fanno. Non portar più frasca;</l>
+<l>ché non d'altro che d'aria hanno bisogno.</l></lg>
+<lg>
+<l>Un giorno; e par che il gregge tuo rinasca.</l>
+<l>Par nuovo. E tu gli porgi qualche cima</l>
+<l>fresca a cui salga il nuovo gregge, e pasca;</l></lg>
+<lg>
+<l>e lo tramuti dal panier di prima.</l></lg>
+</lg>
+<lg>
+<head rend="sc">IV</head>
+<lg>
+<l>Cerca tre volte tanta una canestra:</l>
+<l>prendi i germogli con sur ogni foglia</l>
+<l>appeso una branco, e ponili giù destra.</l></lg>
+<lg>
+<l>Tre volte tanto mangiano. E tu spoglia</l>
+<l>per loro i rami e spicca verdi i germi.</l>
+<l>Mangino. In capo de' sei dì la voglia</l></lg>
+<lg>
+<l>del cibo è queta: alzano il capo, e fermi!</l></lg>
+</lg>
+<lg>
+<head rend="sc">V</head>
+<lg>
+<l>Dormono. Il corpo a qualche cosa attorno</l>
+<l>hanno legato con sottili bave</l>
+<l>come di seta; e dormono un gran giorno.</l></lg>
+<lg>
+<l>Alfine ecco si svolgono dal grave</l>
+<l>sonno, rifatti. Ed ecco a cento a cento</l>
+<l>li cogli a un ramo, poni giù soave</l></lg>
+<lg>
+<l>in una stuoia il tuo cresciuto armento.</l></lg>
+</lg>
+<lg>
+<head rend="sc">VI</head>
+<lg>
+<l>Tre volte tanto brucano foraggio</l>
+<l>così cresciuti. Ma tre volte tanto</l>
+<l>verdeggia il gelso al puro sol di maggio.</l></lg>
+<lg>
+<l>Due rose aperte tu porrai da un canto.</l>
+<l>Sognino nella stanza solitaria</l>
+<l>d'essere in Cina, i bachi, e per incanto</l></lg>
+<lg>
+<l>errar sui gelsi tra il color dell'aria!</l></lg>
+</lg>
+<lg>
+<head rend="sc">VII</head>
+<lg>
+<l>Dormono... Ebbene: tristo sogno è il loro.</l>
+<l>Ma no: vegliano, e sembrano, all'aspetto,</l>
+<l>in doglia grande od a crudel lavoro.</l></lg>
+<lg>
+<l>Non vedi come il torvo capo eretto</l>
+<l>per tutto un giorno dondolano stanchi?</l>
+<l>Póntano i piè di dietro, alzano il petto,</l></lg>
+<lg>
+<l>e di sé stessi escono puri e bianchi.</l></lg>
+</lg>
+<lg>
+<head rend="sc">VIII</head>
+<lg>
+<l>Ora in tre stuoie li porrai, né ora</l>
+<l>più dalle rame sgrapperai le fronde.</l>
+<l>Porgi la rama florida, che odora.</l></lg>
+<lg>
+<l>Non le hai deposte ancora, eccole monde.</l>
+<l>Ma tu gli alunni muterai dal primo</l>
+<l>letto, più volte, o almeno all'ultimo, onde</l></lg>
+<lg>
+<l>l'ultimo sonno non s'invii sul fimo.</l></lg>
+</lg>
+<lg>
+<head rend="sc">IX</head>
+<lg>
+<l>Dormono... O Rosa, siediti; ché giova.</l>
+<l>Dormono alfin la grossa i filugelli</l>
+<l>che tu tenesti, nel tuo seno, in cova.</l></lg>
+<lg>
+<l>Ma tu mondi olivagnoli, e fastelli</l>
+<l>scuoti, di cesti; vieni e vai; ti spicci,</l>
+<l>ti studi, entri, esci, apri, alzi, e sui castelli</l></lg>
+<lg>
+<l>tacita e grave stendi altri cannicci...</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">CANTO TERZO</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Or sì, conviene ai gelsi bianchi, ai mori,</l>
+<l>dare il pennato e portar foglia a fasci,</l>
+<l>con fruscìo grande e il fresco odor di fuori!</l></lg>
+<lg>
+<l>Ma su le prime indugi un po'; né lasci</l>
+<l>che il gregge impingui, e se ne perda il frutto:</l>
+<l>attenta, accorta, a man a man li pasci</l></lg>
+<lg>
+<l>più largamente, fin che indulgi il tutto.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Ed ecco allora, nell'opaca loggia</l>
+<l>piena di verde, uno scrosciare uguale,</l>
+<l>un grosso allegro strepito di pioggia.</l></lg>
+<lg>
+<l>Sembra l'oscurità d'un temporale</l>
+<l>che fa fuggire con le falci in pugno</l>
+<l>le villanelle... Invece le cicale</l></lg>
+<lg>
+<l>cantano al sole, al nuovo sol di giugno.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Canta, nel sole immersa, la calandra</l>
+<l>che inebbria il cielo. Tu tra i tuoi castelli</l>
+<l>nella fresca ombra vegli sulla mandra.</l></lg>
+<lg>
+<l>Di quando in quando vengono i fratelli</l>
+<l>portando rami striduli a bracciate:</l>
+<l>entra con loro il canto degli uccelli,</l></lg>
+<lg>
+<l>entra con loro il soffio dell'estate.</l></lg>
+</lg>
+<lg>
+<head rend="sc">IV</head>
+<lg>
+<l>Ma sazi alfine i tuoi voraci allievi,</l>
+<l>or l'uno or l'altro, lasciano la foglia.</l>
+<l>Erano pigri, agili sono e lievi.</l></lg>
+<lg>
+<l>Vagano spinti da non so qual voglia.</l>
+<l>Talvolta alcuno qua e là s'arresta.</l>
+<l>Sembrano ciechi che da soglia a soglia</l></lg>
+<lg>
+<l>vadano tentennando con la testa.</l></lg>
+</lg>
+<lg>
+<head rend="sc">V</head>
+<lg>
+<l>Tu sai, tu vegli: a tempo tu facesti</l>
+<l>nella tua selva, o Rosa, quando c'eri</l>
+<l>pei primi funghi, irsute stipe e cesti.</l></lg>
+<lg>
+<l>Rami d'ulivi, anche di meli e peri,</l>
+<l>anche di viti, tu serbasti insieme,</l>
+<l>e, quali alberi, piccoli ma veri,</l></lg>
+<lg>
+<l>gambi di rape, dopo colto il seme.</l></lg>
+</lg>
+<lg>
+<head rend="sc">VI</head>
+<lg>
+<l>Di questi rami ed alberi minori</l>
+<l>alzi in un tiepido angolo tranquillo</l>
+<l>un bosco secco senza foglie e fiori.</l></lg>
+<lg>
+<l>- Che rifiorisca? - par che rida il grillo.</l>
+<l>Non ride il ragno: egli fa pur le tele!</l>
+<l>Né l'ape ch'ama il regamo e il serpillo:</l></lg>
+<lg>
+<l>tutto può darsi; ella fa pure il miele!</l></lg>
+</lg>
+<lg>
+<head rend="sc">VII</head>
+<lg>
+<l>Vanno inquieti, contro lor costume.</l>
+<l>Qual monta i ritti, qual s'appende al muro.</l>
+<l>Traspare il corpo se si spera al lume.</l></lg>
+<lg>
+<l>Più nulla è in loro, che non sia futuro.</l>
+<l>Par che la bocca un fil di luce aneli.</l>
+<l>Il verme è mondo, il verme è tutto puro...</l></lg>
+<lg>
+<l>O Rosa, è puro, e cerca ove si celi.</l></lg>
+</lg>
+<lg>
+<head rend="sc">VIII</head>
+<lg>
+<l>Prendili, o Rosa, con le rosee dita:</l>
+<l>portali al bosco. Dentro pochi giorni</l>
+<l>l'arida selva rivedrai fiorita.</l></lg>
+<lg>
+<l>Vai dal castello al bosco, poi ritorni</l>
+<l>dal bosco lieta al tuo castello: lieta,</l>
+<l>che l'un si vuoti e l'altro già s'adorni</l></lg>
+<lg>
+<l>di biondi grandi bozzoli di seta.</l></lg>
+</lg>
+<lg>
+<head rend="sc">IX</head>
+<lg>
+<l>Non più castelli, o Rosa: altro non resta</l>
+<l>che il bosco brullo. Or tu siedi romita,</l>
+<l>pensi all'amore, un po' lieta un po' mesta.</l></lg>
+<lg>
+<l>Dal bosco morto viene un'infinita</l>
+<l>romba nel gran silenzio sonnolento.</l>
+<l>Tra le sue rame odi un ansar di vita...</l></lg>
+<lg>
+<l>le già sue foglie odi stormire al vento.</l></lg>
+</lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">LA MIETITURA</head>
+<div3 type="canto">
+<head>TRA LE SPIGHE</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Il grano biondo sussurrava al vento.</l>
+<l>Qualche fior rosso, qualche fior celeste,</l>
+<l>tra i gambi secchi sorridea contento.</l></lg>
+<lg>
+<l>Pendeano li agli e le cipolle in reste.</l>
+<l>S'udian, mutata alfin la voce in gola,</l>
+<l>cantar galletti, altieri delle creste.</l></lg>
+<lg>
+<l>Tessea le spighe dello spigo a spola</l>
+<l>la cara madre, per i suoi rotelli</l>
+<l>del banco grande e per le sue lenzuola.</l></lg>
+<lg>
+<l>Fioria la zucca, arsivano i piselli,</l>
+<l>nell'orto. Le ciliege erano andate:</l>
+<l>per San Giovanni avevano i giannelli.</l></lg>
+<lg>
+<l>C'erano già le mele dell'estate,</l>
+<l>c'erano le susine di San Pietro.</l>
+<l>Fatte via via più lunghe le giornate,</l></lg>
+<lg>
+<l>il sole, stanco, ritornava indietro.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>E biondo al vento mormorava il grano.</l>
+<l>Fiorivano le snelle spadacciole</l>
+<l>tra i gambi gialli; e non sapean, che in vano.</l></lg>
+<lg>
+<l>C'era un bisbiglio come di parole.</l>
+<l>E l'intendea la lodola che in tanto</l>
+<l>aveva lì la giovinetta prole.</l></lg>
+<lg>
+<l>Tardi avea fatto il nido, lì da un canto.</l>
+<l>Oh! ella amava il sole più che il nido!</l>
+<l>Chissà? voleva far lassù, col canto!</l></lg>
+<lg>
+<l>Or sui piccini udiva già lo strido</l>
+<l>della falciola; e li ammonìa di stare</l>
+<l>accovacciati senza dare un grido.</l></lg>
+<lg>
+<l>Diceva: - Chiotte, contro terra, o care!</l>
+<l>che non si mova un bruscolo, uno stelo!</l>
+<l>V'ho fatte color terra: altro non pare,</l></lg>
+<lg>
+<l>così, che terra, o nate per il cielo! -</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>E il grano al vento strepitava; e disse</l>
+<l>il padre al figlio: "Mieteremo. Vedi:</l>
+<l>verdino è, sì, ma non vorrei patisse.</l></lg>
+<lg>
+<l>Ché il grano dice: - Io sto ritto, e tu siedi.</l>
+<l>Qui temo l'acqua, e il vento mi dà briga.</l>
+<l>Altronde, o presto o tardi, o steso o in piedi,</l></lg>
+<lg>
+<l>se il gambo è secco seccherà la spiga -".</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head>TERRA E CIELO</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>E disse poi, con tutti i figli attorno,</l>
+<l>appiè d'un melo, carico di mele:</l>
+<l>"Sì: mieteremo sull'aprir del giorno.</l></lg>
+<lg>
+<l>La terra è buona: dura, ma fedele;</l>
+<l>ma è una barca, il sole per timone,</l>
+<l>e bianche e nere nuvole per vele.</l></lg>
+<lg>
+<l>Ci vuole il cielo: tutto a sua stagione;</l>
+<l>e freddo, caldo, dolce, aspro, ci vuole,</l>
+<l>e i lampi e i tuoni e il fumido acquazzone.</l></lg>
+<lg>
+<l>Il grano, in prima, ebbe due barbe sole,</l>
+<l>quando escì fuori, un solo gambo in tutto.</l>
+<l>Venne la neve: - Ah! vuoi goderti il sole?</l></lg>
+<lg>
+<l>No! Soffri un po'! Metti altre barbe! Frutto</l>
+<l>non vien da seme che non sia già morto! -</l>
+<l>Die' retta il grano. Marzo venne asciutto.</l></lg>
+<lg>
+<l>Guai se i miei campi li prendea per l'orto!</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Si sa: marzo va secco, il gran fa cesto.</l>
+<l>Il gran, per uno pallido e sottile,</l>
+<l>più ciuffi mise, quanto più fu pesto.</l></lg>
+<lg>
+<l>Talliva. Allora sopravvenne aprile</l>
+<l>con le dolci acque. I giorni erano belli,</l>
+<l>ma e' passava con il suo barile.</l></lg>
+<lg>
+<l>Passava in alto, tra un cantar d'uccelli,</l>
+<l>con una gonfia nuvoletta nera...</l>
+<l>E il gran fece il cannello, anzi i cannelli.</l></lg>
+<lg>
+<l>Doglia di verno, gioia a primavera!</l>
+<l>Tanti cannelli, tante spighe, nate</l>
+<l>d'un chicco solo; e questo chicco ov'era?</l></lg>
+<lg>
+<l>Non c'era più. Restare, a che? Pensate.</l>
+<l>Il grano in tanto chiuso nello stelo,</l>
+<l>dentro le verdi lolle accartocciate,</l></lg>
+<lg>
+<l>fioriva. Unita era la Terra e il Cielo.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+
+<l>Fioriva il grano. Erano in casa, i fiori,</l>
+<l>con l'uscio chiuso, e nuovi della vita</l>
+<l>mescean celati i loro dolci amori.</l></lg>
+<lg>
+<l>Alfin la spiga aperse con due dita</l>
+<l>l'uscio, e guardò stringendo a sé la veste.</l>
+<l>Ma come vide al Ciel la Terra unita,</l></lg>
+<lg>
+<l>anch'ella uscì, ma con un vel di reste.</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head>E LAVORO</head>
+<lg>
+<head rend="sc">I</head>
+<lg><l>E il grano è bello. Ma non fu soltanto</l>
+<l>la terra e il cielo, fu la nostra mano.</l>
+<l>Chi prega è santo, ma chi fa, più santo.</l></lg>
+<lg>
+<l>E prima scelsi il seme del mio grano</l>
+<l>tra il grano mio. Grani più duri e grossi</l>
+<l>o più gentili non cercai lontano.</l></lg>
+<lg>
+<l>Altri grani, altre terre, ed altri fossi</l>
+<l>ed altri conci. Il grano da sementa</l>
+<l>non lo tribbiai né macchinai, ma scossi.</l></lg>
+<lg>
+<l>Quando fu tempo, presi calce, spenta</l>
+<l>da me, non vecchia; tal che, non appena</l>
+<l>l'acqua la bagni, bulica e fermenta.</l></lg>
+<lg>
+<l>Ne feci latte, e in una cesta piena</l>
+<l>v'immersi il grano, che un po' sempre molle,</l>
+<l>quando sentii la lunga cantilena</l></lg>
+<lg>
+<l>di grilli e rane, sparsi sulle zolle.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+
+<l>Né lavorato avevo a fondo: a fondo</l>
+<l>avevo sì, ma pel granturco d'anno.</l>
+<l>Il grano è meglio, e però vien secondo.</l></lg>
+<lg>
+<l>Sta pago il grano a quello che gli dànno.</l>
+<l>Vuol sì la terra trita, ma non trita</l>
+<l>tanto, ché, anzi, gli sarebbe a danno.</l></lg>
+<lg>
+<l>Non diedi al grano, che mi dà la vita,</l>
+<l>nemmeno il concio. Poco o nulla e' chiede</l>
+<l>per far la spiga bella e ben granita.</l></lg>
+<lg>
+<l>Gli basta un po' del troppo che si diede</l>
+<l>al formentone, che scialacqua e, grande</l>
+<l>com'è, non pensa al piccoletto erede.</l></lg>
+<lg>
+<l>Ad ogni acquata egli s'innalza e spande,</l>
+<l>si sogna d'essere albero, fa vanti</l>
+<l>e sfoggi, e vuole intorno a sé ghirlande</l></lg>
+<lg>
+<l>di zucche e di fagioli rampicanti...</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+
+<l>Dov'e' lasciò, grossi, pel fuoco, i gambi,</l>
+<l>io questo grano seminai; non fitto;</l>
+<l>e un sol governo valse per entrambi.</l></lg>
+<lg>
+<l>E visse e crebbe, pesto giallo afflitto...</l>
+<l>Ma, or vedete: e' non s'alletta e sta.</l>
+<l>È bello. Per tenere il capo ritto</l></lg>
+<lg>
+<l>giova la cara buona povertà!</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head>IL PANE</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Date la pietra a falci ed a frullane,</l>
+<l>o cari figli! spruzzolate l'aia</l>
+<l>con acqua pura! Ché ritorna il pane.</l></lg>
+<lg>
+<l>Viene dai campi tratto a noi da paia</l>
+<l>di vaccherelle, a l'aie bianche ov'erra</l>
+<l>odor di fiori e odor di concimaia.</l></lg>
+<lg>
+<l>Fategli festa: ei viene di sotterra,</l>
+<l>e sé dà cibo a quei che l'hanno ucciso,</l>
+<l>il figlio pio del Cielo e della Terra!</l></lg>
+<lg>
+<l>Siete suoi figli; e, dopo che al sorriso</l>
+<l>di vostra madre, di tra le sue stesse</l>
+<l>mammelle sante, avete a lui sorriso.</l></lg>
+<lg>
+<l>Lo stringevate, che non vi cadesse,</l>
+<l>con le due mani, ancora gronchie, al core,</l>
+<l>dandogli un bacio. Egli le sue promesse</l></lg>
+<lg>
+<l>attiene, e per noi nasce e per noi muore.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Fategli festa. Era finito il grano...</l>
+<l>il grano vecchio. Or quello ch'è più in cera,</l>
+<l>noi sceglieremo e batteremo a mano.</l></lg>
+<lg>
+<l>Il meglio, il fiore dell'annata intera,</l>
+<l>noi manderemo subito al molino;</l>
+<l>che l'abbia a giorno e che lo renda a sera.</l></lg>
+<lg>
+<l>L'affioreremo. Vuo' lo staccio fino.</l>
+<l>Prepareremo il lievito, ch'è quello</l>
+<l>che il nonno in casa ritrovò bambino.</l></lg>
+<lg>
+<l>Sia buono il pane, ma non sia men bello:</l>
+<l>meglio che un brutto pan di fiore approvo</l>
+<l>un bel colombo fatto di cruschello.</l></lg>
+<lg>
+<l>Sia ben levato e pieno come un ovo,</l>
+<l>e col suo sale; buono anche da solo.</l>
+<l>Sia questo primo pane di gran nuovo</l></lg>
+<lg>
+<l>per te, mia figlia, che mi prendi il volo.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+
+<l>Ma da' la pietra alla tua falce, o Rosa.</l>
+<l>Mieti con gli altri. Mieterai più lenta</l>
+<l>nei dì che passi tra fanciulla e sposa;</l></lg>
+<lg>
+<l>nei dì che il cuore sembra che si penta</l>
+<l>di far le spighe che per ciò son nate...</l>
+<l>Mieti anche tu. Nelle tue carni ei senta</l></lg>
+<lg>
+<l>l'odor del grano e della grande estate".</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head>LA MESSE</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>I due fratelli con le due sorelle,</l>
+<l>stringendo il grano e le lunate falci,</l>
+<l>mietean le spighe e ne facean mannelle.</l></lg>
+<lg>
+<l>Torceano spighe, per legar, non salci.</l>
+<l>E le stendeano. O vite, così stese</l>
+<l>le carezzavi con l'ombrìa dei tralci.</l></lg>
+<lg>
+<l>L'erbe così, mentre fiorian, sorprese,</l>
+<l>moriano al sole; onde alle bestie grata</l>
+<l>si fa la paglia come fien maggese.</l></lg>
+<lg>
+<l>Passava il padre tutta la giornata</l>
+<l>pei solchi, e ritte le mannelle in croce</l>
+<l>ponea, se l'erba già vedea seccata.</l></lg>
+<lg>
+<l>Seguian nel campo l'opera veloce</l>
+<l>lieti i fratelli e le sorelle accanto.</l>
+<l>Ma non si udiva, o Rosa, la tua voce.</l></lg>
+<lg>
+<l>Un canto, sì, di lodoletta, o un pianto.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>In ogni campo alzarono due tonde</l>
+<l>mete di spighe. Posero per prime</l>
+<l>quattro mannelle, le più grosse e bionde.</l></lg>
+<lg>
+<l>Posero il calcio in terra, alto le cime;</l>
+<l>e poi, con le altre sopra quelle e intorno,</l>
+<l>fecero una gran cupola sublime.</l></lg>
+<lg>
+<l>Mietean tre giorni. Sul finir del giorno,</l>
+<l>era finita. Placida la sera,</l>
+<l>erano i cuori placidi al ritorno.</l></lg>
+<lg>
+<l>"Il grano è bello, e, di verdugio ch'era,</l>
+<l>secco sin troppo. Con quel sole, ha sete.</l>
+<l>Oggi la spiga ci parea leggiera"</l></lg>
+<lg>
+<l>diceva il babbo, e soggiungea: "Vedrete!</l>
+<l>Il gran che il sole ora ha stremato e franto,</l>
+<l>poi si rifà la notte nelle mete,</l></lg>
+<lg>
+<l>e s'enfia e s'empie, e peserà più tanto".</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Nere le mete: solo qualche lampo</l>
+<l>facean le paglie, come se un tesoro</l>
+<l>fosse disperso qua e là nel campo.</l></lg>
+<lg>
+<l>Diceano i grilli grazie mille in coro</l>
+<l>a chi, tagliato, per lor agio, il grano,</l>
+<l>gittò poi l'arma... La falciola d'oro</l></lg>
+<lg>
+<l>brillava in cielo e ricadea lontano.</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head>I SEMI</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>L'alba sul monte e l'ombra nella valle.</l>
+<l>I vermi chiusi ne' ben fatti avelli,</l>
+<l>piccole mummie rinascean farfalle.</l></lg>
+<lg>
+<l>Le spose uscian da' bozzoli più belli,</l>
+<l>candide e gravi. Col frullar dell'ale</l>
+<l>movean ver loro i brevi maschi snelli.</l></lg>
+<lg>
+<l>La savia madre il letto nuziale</l>
+<l>bianco lor tese. Ognuno andava in traccia</l>
+<l>d'una compagna all'opera immortale.</l></lg>
+<lg>
+<l>E venne Rosa dalle bianche braccia</l>
+<l>nella stanzetta del fecondo rito.</l>
+<l>Recava in grembo i bei rotelli e l'accia.</l></lg>
+<lg>
+<l>Rosa ristié vedendo già fiorito</l>
+<l>di semi d'oro, tanti semi, il panno.</l>
+<l>Pensava: - Allora avrò l'anello al dito,</l></lg>
+<lg>
+<l>non ci sarò, quando rinasceranno...</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Sentiva tonfi e scrosci come pioggia</l>
+<l>che sferzi i vetri. Il primo fior del grano</l>
+<l>scotean laggiù nella sonante loggia.</l></lg>
+<lg>
+<l>Prendeva il babbo una mannella in mano</l>
+<l>e la battea, voltandola, più volte,</l>
+<l>forte e con garbo, sur un banco piano.</l></lg>
+<lg>
+<l>Secche, bell'aspre, già per prime colte,</l>
+<l>eran le spighe, e con tre colpi a sesto</l>
+<l>davano fuori il grano lor, disciolte.</l></lg>
+<lg>
+<l>Pioveano i chicchi. A Rosa vie più mesto</l>
+<l>si fece il cuore. Ah! che il desio rimane</l>
+<l>addietro, spesso, e il tempo va più lesto!</l></lg>
+<lg>
+<l>Capì la madre che pensava al pane</l>
+<l>delle sue nozze, pallida e sgomenta;</l>
+<l>e disse, volti gli occhi in là: "Stamane</l></lg>
+<lg>
+<l>scuotono il grano, ma della sementa..."</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>E nelle braccia si trovò piangente</l>
+<l>l'una dell'altra. "Oh! quello che più costa,</l>
+<l>figlia, è la gioia: oh! non si dà per niente!"</l></lg>
+<lg>
+<l>"Se ho fatto male, non l'ho fatto apposta!</l>
+<l>Lascia ch'io resti qui con te, ch'io stia</l>
+<l>in un cantuccio, ma con te, nascosta...</l></lg>
+<lg>
+<l>Non mi mandare, o dolce madre, via!..."</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head>IL CORREDO</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>"Non io ti mando. È un altro che ti manda.</l>
+<l>Fa quel ch'io feci, che per te fu bene.</l>
+<l>Va col tuo velo e con la tua ghirlanda.</l></lg>
+<lg>
+<l>Te la faremo d'astri e di verbene;</l>
+<l>di rose, resti, e per un po', tu sola.</l>
+<l>Va col corredo quale a te perviene.</l></lg>
+<lg>
+<l>Frullare il fuso e correre la spola</l>
+<l>facesti assai! La tela, che tessesti!</l>
+<l>Quante coperte e paia di lenzuola!</l></lg>
+<lg>
+<l>Tutte son tue; che, quando là ti desti</l>
+<l>nei primi giorni, prima che sia giorno,</l>
+<l>pensi che i più, degli anni tuoi, son questi.</l></lg>
+<lg>
+<l>Ti sentirai l'odor di casa attorno,</l>
+<l>il buon odor di spigo e di cotogno,</l>
+<l>e di tua mamma; ed ecco di ritorno</l></lg>
+<lg>
+<l>sarai, tra noi, se dopo dormi, in sogno.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Facesti assai correre l'ago e il fuso,</l>
+<l>la spola e i ferri. Il bene, si ritrova.</l>
+<l>Hai quel ch'è d'uso, ed anche più, che d'uso.</l></lg>
+<lg>
+<l>Senza pensarci, ad una casa nuova</l>
+<l>tu provvedevi: tu, per quella, in piazza</l>
+<l>la seta e i polli tu portasti e l'uova.</l></lg>
+<lg>
+<l>Per quella i teli stavano alla guazza</l>
+<l>ed alla luna. Dice il babbo, o Rosa:</l>
+<l>- Ricca da sposa, oprante da ragazza. -</l></lg>
+<lg>
+<l>Ora, il primo anno, o figlia mia, riposa!</l>
+<l>Godi, che n'hai, le calze, e le gonnelle</l>
+<l>e le tovaglie a spina, a riso, a rosa.</l></lg>
+<lg>
+<l>Per me l'hai fatte, e sono così belle!</l>
+<l>La madre tua le dona a te... Ma pensa!</l>
+<l>Quando i tuoi vecchi un giorno le ciambelle</l></lg>
+<lg>
+<l>ti porteranno, ne ornerai la mensa".</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Così diceva; ma di tanto in tanto</l>
+<l>le si arrochiva e si spengea la voce.</l>
+<l>Assieme allora elle faceano un pianto.</l></lg>
+<lg>
+<l>Come è qui tutto, insino i fiori, a croce!</l>
+<l>La madre altrove la condusse, un banco</l>
+<l>le aperse, nuovo, lucido, di noce.</l></lg>
+<lg>
+<l>"È tuo, con tutto il suo tesoro bianco".</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head>IL SALUTO</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>E il giorno avanti le sue nozze in fiore</l>
+<l>rivide, errando per il colle e il piano,</l>
+<l>ciò ch'ella amava, e che non era amore.</l></lg>
+<lg>
+<l>E salutò coi cenni della mano</l>
+<l>la vigna verde che gli dava il vino,</l>
+<l>il campo grande che gli dava il grano;</l></lg>
+<lg>
+<l>e il melograno rosso e il biancospino</l>
+<l>della sua siepe, e il campo così smorto,</l>
+<l>in cui fiorì come un bel cielo il lino:</l></lg>
+<lg>
+<l>ciò ch'era morto e ciò ch'era risorto,</l>
+<l>ciò che nasceva e che moriva al sole,</l>
+<l>la selva, il prato, l'oliveta e l'orto.</l></lg>
+<lg>
+<l>Di fiori, c'era un alto girasole,</l>
+<l>nell'orto, e qualche zinia ed astro in boccia.</l>
+<l>Tutto era colto... A lei con l'ali sole</l></lg>
+<lg>
+<l>corse, tra un rotto pigolio, la chioccia.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Salutò l'aia, il pozzo, a tutte l'ore</l>
+<l>gemente e fresco, e la sua casa oh! tanto</l>
+<l>e tanto amata! ma non era amore;</l></lg>
+<lg>
+<l>la cameretta, il letto a due, col Santo</l>
+<l>che v'era in cima. Il capo sulla sponda,</l>
+<l>piangeva, ed ecco udiva un altro pianto.</l></lg>
+<lg>
+<l>"Oh! ella aspetta sempre che risponda</l>
+<l>il vitellino!" Era, quel pianto, un muglio.</l>
+<l>Un muglio sì, ma era la sua Bionda!</l></lg>
+<lg>
+<l>Scese, e facea per lei qualche cerfuglio</l>
+<l>e qualche frasca. Ecco un ronzio sonoro.</l>
+<l>Era uno sciame che sciamava in luglio.</l></lg>
+<lg>
+<l>Ronzare udiva quello sciame d'oro,</l>
+<l>e la sua mucca riudì mugliare.</l>
+<l>Rondini udiva cinguettare in coro,</l></lg>
+<lg>
+<l>venute al nido sopra il vento e il mare.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Ed il domani baciò Nando e Dore</l>
+<l>che scappò, il babbo a cui ballava il mento;</l>
+<l>che amava, oh! quanto! ma non era amore.</l></lg>
+<lg>
+<l>Ei disse: "Gioia dentro, lume spento".</l>
+<l>Baciò la madre, che la benedisse;</l>
+<l>e Violetta, col suo viso attento,</l></lg>
+<lg>
+<l>tacita, grave, le pupille fisse.</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head>IL CHIÙ</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>- Addio! - La notte, troppo grande il letto</l>
+<l>era a Viola. Stava dal suo canto,</l>
+<l>con incrociate le due mani al petto;</l></lg>
+<lg>
+<l>ma non dormiva. Non aveva pianto.</l>
+<l>Dicea di quando in quando una preghiera.</l>
+<l>Dormir, sognare, non volea; ché tanto...</l></lg>
+<lg>
+<l>non c'era più! Perché sognar che c'era?</l>
+<l>non saper più, ma per un poco, appena,</l>
+<l>ch'era partita al rosseggiar di sera?</l></lg>
+<lg>
+<l>La notte in cielo risplendea serena:</l>
+<l>tra cielo e terra un murmure, uno spesso</l>
+<l>palpito, l'onda d'un'assidua lena.</l></lg>
+<lg>
+<l>E Violetta si chiedea sommesso</l>
+<l>dov'era quella che non c'era più.</l>
+<l>Col dolce verso sempre mai lo stesso</l></lg>
+<lg>
+<l>le rispondeva di lontano il chiù.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Splendea lassù la gran luce di Sirio.</l>
+<l>Recava odor di fiori pésti il vento.</l>
+<l>- Ell'era andata a chi sa qual martirio!</l></lg>
+<lg>
+<l>Ora, dov'era? A lume acceso o spento?</l>
+<l>Buon che le mise al collo, nell'aspetto,</l>
+<l>quella sua croce piccola d'argento!</l></lg>
+<lg>
+<l>Ella doveva ora vegliar nel letto</l>
+<l>sola con lui! senza sperare aiuto! -</l>
+<l>Viola i panni si stringea sul petto.</l></lg>
+<lg>
+<l>- Che cosa avrebbe egli da lei voluto?</l>
+<l>Qual piaga dare tenera e mortale</l>
+<l>a quelle carni bianche, di velluto?</l></lg>
+<lg>
+<l>Qual pianto fa di quel ch'è ora, e quale</l>
+<l>rimpianto mai di quel ch'un giorno fu!... -</l>
+<l>Col mesto verso eternamente uguale</l></lg>
+<lg>
+<l>le rispondeva di lontano il chiù.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg><l>Quando cantò la prima capinera</l>
+<l>nel puro cielo d'ambra e di viola,</l>
+<l>dormiva, sciolta la gran chioma nera.</l></lg>
+<lg>
+<l>Dormiva forte, stretta alle lenzuola;</l>
+<l>e se sognò, non ricordò, che cosa.</l>
+<l>Si levò tardi. E come te, Viola,</l></lg>
+<lg>
+<l>anche i tuoi vecchi. E tu più tardi, o Rosa.</l></lg>
+</lg>
+</div3>
+</div2>
+</div1>
+<div1 type="sezione">
+<head rend="italic">LE DUE AQUILE – I DUE ALBERI</head>
+<div2 type="poemetto">
+<head rend="italic">LE DUE AQUILE</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>La rupe è là con altre rupi intorno,</l>
+<l>alta, nell'immobilità del gelo.</l>
+<l>Talor vi ruota all'apparir del giorno</l></lg>
+<lg>
+<l>una grande ombra che vien giù dal cielo.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>La rupe un giorno par che muova, il ghiaccio</l>
+<l>semhra che crocchi e crepiti, fin ch'esce</l>
+<l>tristo un fil d'acqua da un sottil crepaccio.</l></lg>
+<lg>
+<l>Al sordo e cupo fremere si mesce</l>
+<l>ora un bisbiglio ed un gorgoglio lene.</l>
+<l>Con l'ali aperte scende l'ombra, cresce</l></lg>
+<lg>
+<l>all'improvviso, e grande sta. - Che avviene? -</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>E l'uccellaccio posa sopra il ciglio</l>
+<l>dell'alta rupe; e sente che s'abbassa</l>
+<l>la rupe sotto l'uno e l'altro artiglio.</l></lg>
+<lg>
+<l>Tacito va, tacito viene, passa</l>
+<l>con le grandi ali. Tronchi d'agrifoglio</l>
+<l>e d'oleastro porta getta ammassa.</l></lg>
+<lg>
+<l>Ora il bisbiglio e il fievole gorgoglio</l>
+<l>si fa rumore, giù di balza in balza,</l>
+<l>divien fracasso, giù da scoglio a scoglio...</l></lg>
+<lg>
+<l>Tutta s'apre la fulva aquila, s'alza...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg>
+<l>S'alza a vedere; tra le nubi e i venti</l>
+<l>s'adagia in cielo. Nelle valli brune</l>
+<l>vede gettarsi i botri ed i torrenti.</l></lg>
+<lg>
+<l>Vanno con un feroce urlo comune,</l>
+<l>chi qua chi là. Scendono ciechi al piano,</l>
+<l>portano massi, travi, alberi, cune.</l></lg>
+<lg>
+<l>Hanno la cupa voce d'uragano</l>
+<l>e di valanga; ed il fragor con loro</l>
+<l>rapido va, ma non è mai lontano.</l></lg>
+<lg>
+<l>Fuor dalle nubi, risplendente d'oro,</l>
+<l>l'aquila ruota, remeggiando lenta,</l>
+<l>sopra il terrestre vortice sonoro.</l></lg>
+<lg>
+<l>E s'alza ancora ed alto un grido avventa,</l>
+<l>atroce, per le vane plaghe sole.</l>
+<l>Tre volte grida, e sta tre volte intenta</l></lg>
+<lg>
+<l>all'eco forse che ne mandi il sole.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg>
+<l>Amore! amore! amore! Ecco apparita</l>
+<l>sopra le nubi, immobile su l'ale,</l>
+<l>tremando in cuor lo squillo della vita,</l></lg>
+<lg>
+<l>tremando in cuore il palpito immortale</l>
+<l>della sua vita, l'altra aquila. S'alza</l>
+<l>lenta, e ricorda a man a man che sale.</l></lg>
+<lg>
+<l>Ricorda tutto, e presso lui già sbalza,</l>
+<l>e insieme precipitano al profondo,</l>
+<l>prèdansi a furia; l'anno e l'ora incalza:</l></lg>
+<lg>
+<l>vuole due grandi aquile nuove il mondo!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg>
+<l>Amore! amore! Or egli tra lo scroscio</l>
+<l>delle cascate s'inabissa a piombo,</l>
+<l>artiglia il daino, lacera il camoscio;</l></lg>
+<lg>
+<l>e brani rossi porta, e sul rimbombo</l>
+<l>delle valanghe suona aspro il suo grido</l>
+<l>di sangue e morte, che poi frena: il rombo</l></lg>
+<lg>
+<l>solo dell'ale ode il solingo nido.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VII</head>
+<lg>
+<l>Amore! Ed ella cova. Il capo eretto</l>
+<l>e gli occhi fissi, lunghi giorni e notti.</l>
+<l>Col rostro adunco ora si spiuma il petto,</l></lg>
+<lg>
+<l>sprimaccia il covo. Sente gli aquilotti...</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">LA PIADA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Il vento come un mostro ebbro mugliare</l>
+<l>udii notturno. Errava non veduto</l>
+<l>tra i monti, e poi s'urtava al casolare</l></lg>
+<lg>
+<l>piccolo, ed in un lungo ululo acuto</l>
+<l>fuggiva ai boschi, e poi tornava ancora</l>
+<l>più ebbro, con suoi gridi aspri di muto.</l></lg>
+<lg>
+<l>L'udii tutta la notte, ed all'aurora,</l>
+<l>non più. Dormii. Sognai, su la mattina,</l>
+<l>che la pace scendeva a chi lavora.</l></lg>
+<lg>
+<l>Or vedo: scende. Scende: era divina</l>
+<l>l'anima. Il cielo tutto a terra cade</l>
+<l>col bianco polverìo d'una rovina.</l></lg>
+<lg>
+<l>Non un'orma. Vanite anche le strade.</l>
+<l>La terra è tutto un solo mare a onde</l>
+<l>bianche, di porche ov'erano le biade.</l></lg>
+<lg>
+<l>Resta il mio casolare unico, donde</l>
+<l>esploro in vano. Non c'è più nessuno.</l>
+<l>E solo a me che chiamo, ecco risponde</l></lg>
+<lg>
+<l>il pigolio d'un passero digiuno.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg><l>Sul liscio faggio danzi corra voli,</l>
+<l>Maria, lo staccio! Siamo soli al mondo:</l>
+<l>facciamo il pane che si fa da soli!</l></lg>
+<lg>
+<l>Voli lo staccio e treppichi giocondo,</l>
+<l>vaporando il suo bianco alito fino,</l>
+<l>che si depone sul tuo capo biondo.</l></lg>
+<lg>
+<l>O lieve staccio, io t'amo. Il tuo destino</l>
+<l>somiglia al mio: tener la crusca; il fiore,</l>
+<l>spargerlo puro per il tuo cammino.</l></lg>
+<lg>
+<l>E fai codesto con un tuo rumore</l>
+<l>lieto, in cadenza: semplice, ma bello</l>
+<l>per l'orecchio del pio lavoratore.</l></lg>
+<lg>
+<l>Ma triste, sotto mezzodì, per quello</l>
+<l>del viandante, che rasenta i triti</l>
+<l>limitari del lungo paesello:</l></lg>
+<lg>
+<l>ch'ode un danzar segreto, ode tra i diti</l>
+<l>di donna sola, in ogni casa, andare</l>
+<l>te, casalingo cembalo, che inviti</l></lg>
+<lg>
+<l>lo sciame errante al tacito alveare.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>Taci, querulo passero: t'invito.</l>
+<l>Sempre diventa il tuo gridìo più fioco:</l>
+<l>taci: or ora imbandisco il mio convito.</l></lg>
+<lg>
+<l>Il poco è molto a chi non ha che il poco:</l>
+<l>io sull'aròla pongo, oltre i sarmenti,</l>
+<l>i gambi del granturco, abili al fuoco.</l></lg>
+<lg>
+<l>Io li riposi già per ciò. Ma lenti</l>
+<l>sono alla fiamma: e i canapugli spargo</l>
+<l>che la maciulla gramolò tra i denti.</l></lg>
+<lg>
+<l>Nulla gettai di quello che non largo</l>
+<l>mi rese il campo: la mia man raccoglie</l>
+<l>anche i fuscelli per il mio letargo.</l></lg>
+<lg>
+<l>Serbo per il mio verno anche le foglie</l>
+<l>aride. Del granturco, ecco via via</l>
+<l>mi scaldo ai gambi e dormo sulle spoglie.</l></lg>
+<lg>
+<l>Ciò che secca e che cade e che s'oblia,</l>
+<l>io lo raccolgo: ancora ciò che al cuore</l>
+<l>si stacca triste e che poi fa che sia</l></lg>
+<lg>
+<l>morbido il sonno, il giorno che si muore.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg>
+<l>Il mio povero mucchio arde e già brilla:</l>
+<l>pian piano appoggio sopra due mattoni</l>
+<l>il nero testo di porosa argilla.</l></lg>
+<lg>
+<l>Maria, nel fiore infondi l'acqua e poni</l>
+<l>il sale; dono di te, Dio; ma pensa!</l>
+<l>l'uomo mi vende ciò che tu ci doni.</l></lg>
+<lg>
+<l>Tu n'empi i mari, e l'uomo lo dispensa</l>
+<l>nella bilancia tremula: le lande</l>
+<l>tu ne condisci, e manca sulla mensa.</l></lg>
+<lg>
+<l>Ma tu, Maria, con le tue mani blande</l>
+<l>domi la pasta e poi l'allarghi e spiani;</l>
+<l>ed ecco è liscia come un foglio, e grande</l></lg>
+<lg>
+<l>come la luna; e sulle aperte mani</l>
+<l>tu me l'arrechi, e me l'adagi molle</l>
+<l>sul testo caldo, e quindi t'allontani.</l></lg>
+<lg>
+<l>Io, la giro, e le attizzo con le molle</l>
+<l>il fuoco sotto, fin che stride invasa</l>
+<l>dal calor mite, e si rigonfia in bolle:</l></lg>
+<lg>
+<l>e l'odore del pane empie la casa.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg>
+<l>Chi picchia all'uscio? Tu forse, Aasvero,</l>
+<l>che ancor cammini per la terra vana,</l>
+<l>arida foglia per un cimitero?</l></lg>
+<lg>
+<l>Chi picchia all'uscio?... E fioca una campana</l>
+<l>suona... Chi suona? Forse un vecchio prete,</l>
+<l>restato a guardia della tomba umana?</l></lg>
+<lg>
+<l>È solo; e ancora a mezzodì ripete</l>
+<l>l'Angelus, ed a rincasare invita,</l>
+<l>morti, voi, che sotterra ora mietete.</l></lg>
+<lg>
+<l>Socchiudo l'uscio. - Antica ombra smarrita,</l>
+<l>che in cerca erri del corpo; ultima foglia,</l>
+<l>che stridi ancora dove fu la vita;</l></lg>
+<lg>
+<l>qual vento t'ha portato alla mia soglia,</l>
+<l>vecchio ramingo, ultima foglia morta</l>
+<l>d'albero immenso che non più germoglia?</l></lg>
+<lg>
+<l>Ma tu sei vivo: hai fame! E qui ti porta</l>
+<l>necessità. Sei vivo: soffri! Vivo</l>
+<l>sei: piangi! Ed ecco, dunque, apro la porta:</l></lg>
+<lg>
+<l>entra, fratello; ché ancor io... sì, vivo. -</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg>
+<l>Entra, vegliardo, antico ospite: ed ecco</l>
+<l>l'azimo antico degli eroi, che cupi</l>
+<l>sedeano all'ombra della nave in secco</l></lg>
+<lg>
+<l>(si levarono grandi sulle rupi</l>
+<l>l'aquile; e nella macchia era tra i rovi</l>
+<l>un inquieto guaiolar di lupi...):</l></lg>
+<lg>
+<l>il pane della povertà, che trovi</l>
+<l>tu, reduce aratore, esca veloce,</l>
+<l>che sol s'intrise all'apparir dei bovi:</l></lg>
+<lg>
+<l>il pane dell'umanità, che cuoce</l>
+<l>in mezzo a tutti, sopra l'ara, e intorno</l>
+<l>poi si partisce in forma della croce:</l></lg>
+<lg>
+<l>il pane della libertà, che il forno</l>
+<l>sdegna venale; cui partisci, o padre,</l>
+<l>tu, nelle più soavi ore del giorno:</l></lg>
+<lg>
+<l>ognuno in cerchio mangia le sue quadre;</l>
+<l>più, i più grandi, e assai forse nessuno;</l>
+<l>o forse n'ebbe più che assai la madre,</l></lg>
+<lg>
+<l>cui n'avanza da darne un po' per uno.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VII</head>
+<lg>
+<l>Azimo santo e povero dei mesti</l>
+<l>agricoltori, il pane del passaggio</l>
+<l>tu sei, che s'accompagna all'erbe agresti;</l></lg>
+<lg>
+<l>il pane, che, verrà tempo e nel raggio</l>
+<l>del cielo, sulla terra alma, gli umani</l>
+<l>lavoreranno nel calendimaggio.</l></lg>
+<lg>
+<l>Ché porranno quel dì su gli altipiani</l>
+<l>le tende, e nel comune attendamento</l>
+<l>l'arte ognun ciberà delle sue mani.</l></lg>
+<lg>
+<l>Ecco il gran fuoco, che s'accende al vento</l>
+<l>di primavera. Ma in disparte, gravi,</l>
+<l>sulla palma le bianche onde del mento,</l></lg>
+<lg>
+<l>parlano i vecchi di non so che schiavi</l>
+<l>d'altri e di sé: ma sembrano parole</l>
+<l>sepolte, dei lontani avi degli avi.</l></lg>
+<lg>
+<l>Guardano poi la prole della prole</l>
+<l>seder concorde, e, con le donne loro</l>
+<l>e i loro figli, in terra sotto il sole,</l></lg>
+<lg>
+<l>frangere in pace il pane del lavoro.</l></lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">GLI EMIGRANTI NELLA LUNA</head>
+<div3 type="canto">
+<head rend="sc">CANTO PRIMO</head>
+<head rend="sc">IL BRODIAG E LO STUDENTE</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Mancava ormai la legna e l'acquavite.</l>
+<l>Non venne il sonno e ritornò la fame.</l>
+<l>Disse un brodiag ai contadini: "Udite?"</l></lg>
+<lg>
+<l>Si lisciava la gran barba di rame</l>
+<l>senza parlare, e si togliea tra il pelo</l>
+<l>le foglie secche e qualche fil di strame.</l></lg>
+<lg>
+<l>Quelli aprivano gli occhi color cielo,</l>
+<l>zuppi di sogno. "Il vento!" disse: "il vento</l>
+<l>del nord! Quest'anno tarderà lo sgelo!"</l></lg>
+<lg>
+<l>E l'isba scricchiolò con un lamento</l>
+<l>lungo ad un urto. Alzò le spalle un vecchio</l>
+<l>senza levare dalle palme il mento.</l></lg>
+<lg>
+<l>Gli altri alla romba porsero l'orecchio.</l>
+<l>"Hai pane, tu," ghignò il brodiag "tu, fieno!</l>
+<l>legna nel canto! latte anche nel secchio!"</l></lg>
+<lg>
+<l>"Che farci?" disse il vecchio. "Olio, non meno!..."</l>
+<l>Il lume un po' guizzò palpitò sfrisse,</l>
+<l>si spense. Il vecchio disse: "Olio, nemmeno".</l></lg>
+<lg>
+<l>Che farci! Serrò gli occhi. Altro non disse.</l>
+<l>Ecco e s'empiva l'abituro d'una</l>
+<l>pallida nebbia. Ché via via men fisse</l></lg>
+<lg>
+<l>vanian le stelle all'alba della luna.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>E la luna calante batté gialla</l>
+<l>sull'impannata. Netta, senza brume,</l>
+<l>stava, sul liscio mar di neve a galla.</l></lg>
+<lg>
+<l>L'immensa taiga biancheggiava al lume.</l>
+<l>Qualche betulla nuda, qualche cono</l>
+<l>d'abete, e solchi d'ombra d'un gran fiume.</l></lg>
+<lg>
+<l>E si levò tra quelle genti un suono</l>
+<l>dolce di voce: "Il giovine straniero</l>
+<l>giunto tra noi, che parla a noi, ch'è buono...</l></lg>
+<lg>
+<l>egli sa tutto; vede anche il pensiero</l>
+<l>chiuso nei cuori... egli leggeva un giorno</l>
+<l>un libro, il libro che ci dice il vero...</l></lg>
+<lg>
+<l>La Luna, dice, è un'altra Terra, attorno</l>
+<l>a questa Terra. E ci si va. C'è gente</l>
+<l>che v'andò, che ne parla, ora, al ritorno..."</l></lg>
+<lg>
+<l>La giovinetta voce piovea lente</l>
+<l>le sue parole. Balenava un raggio</l>
+<l>or qua or là da due pupille attente.</l></lg>
+<lg>
+<l>E il contadino e il boscaiol selvaggio</l>
+<l>e donne e bimbi nella solitaria</l>
+<l>capanna, udian la storia del passaggio</l></lg>
+<lg>
+<l>a quella luna, per il mar dell'aria.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Scrollò la testa, il vecchio, e disse: "Fole!</l>
+<l>L'uomo non vola, o garrula ghiandaia,</l>
+<l>come gli uccelli e come le parole!</l></lg>
+<lg>
+<l>L'acqua ci può. Sul fiume va l'alzaia,</l>
+<l>non già per aria. L'aria è aria; nulla.</l>
+<l>Ma l'acqua è cosa, quando pur traspaia.</l></lg>
+<lg>
+<l>Fole da dire sotto una betulla,</l>
+<l>d'estate, a sera..." Ed ella disse: "Allora</l>
+<l>le nuvole?..." E il brodiag: "Ecco, fanciulla!</l></lg>
+<lg>
+<l>Terra e lombrichi vede chi lavora</l>
+<l>le terra. C'è nel mondo altro, che il grano!</l>
+<l>Il sole cade; e l'uomo fa l'aurora!</l></lg>
+<lg>
+<l>Uno bisbiglia; e l'ode uno lontano</l>
+<l>le mille miglia! I carri vanno a torma,</l>
+<l>da sé, con un fragore d'uragano!</l></lg>
+<lg>
+<l>E c'è chi vola senza lasciar l'orma.</l>
+<l>Sì! Sì... come la nuvola che batte</l>
+<l>nella luna, e si ragna e si deforma..."</l></lg>
+<lg>
+<l>Le sue parole in un chiaror di latte</l>
+<l>passavano, nel loro alitar su.</l>
+<l>Come nuvole presto fatte e sfatte</l></lg>
+<lg>
+<l>le rimirava l'umile tribù.</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">CANTO SECONDO</head>
+<head rend="sc">COM'È LA LUNA</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Scórsero i giorni, anche le notti; e il vento</l>
+<l>soffiò più forte, e si levò la luna</l>
+<l>più tardi, e il fuoco morto e il lume spento</l></lg>
+<lg>
+<l>s'era più presto: un'altra notte, e una</l>
+<l>pallida nebbia errò su padri e figli</l>
+<l>non sazi. Ma la madre era digiuna.</l></lg>
+<lg>
+<l>Destò la luna i languidi sbadigli</l>
+<l>degli altri: a lei si rifletté su gli occhi</l>
+<l>umidi e lustri sotto i curvi cigli.</l></lg>
+<lg>
+<l>Si scaldavano un poco ora i marmocchi</l>
+<l>a lei. L'ultimo, in terra, il capo ciondo-</l>
+<l>loni via via le urtava ai due ginocchi.</l></lg>
+<lg>
+<l>Ella parlò: "Se fosse qui quel biondo</l>
+<l>grande... Ma egli prese la bisaccia</l>
+<l>vuota; e chi sa, dov'ora è mai, del mondo?</l></lg>
+<lg>
+<l>Io gli avrei detto: Non è lei che ghiaccia</l>
+<l>i fossi e i fiumi? Non è lei che imbeve</l>
+<l>del suo biancore i lunghi teli e l'accia?</l></lg>
+<lg>
+<l>Non fa la brina e il gelo essa? Ci deve</l>
+<l>far così freddo! tra le stelle sole,</l>
+<l>liscie, lustranti! Quel biancore è neve..."</l></lg>
+<lg>
+<l>"No, mamma," disse la fanciulla: "è il Sole!"</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>E la tribù guardò nel cielo. Quella?</l>
+<l>Dunque piena di sole essa trascorre,</l>
+<l>di notte, come una più grande stella?</l></lg>
+<lg>
+<l>Una piccola Terra, or sulla torre,</l>
+<l>or sull'abete... Ma quell'ombre? Monti,</l>
+<l>quelle ombre, rupi valli greppi forre...</l></lg>
+<lg>
+<l>rughe: le rughe delle vecchie fronti.</l>
+<l>Ma ella, dunque, è vecchia calva ossuta,</l>
+<l>senza verde di frondi, acqua di fonti?</l></lg>
+<lg>
+<l>E la fanciulla disse: "Io l'ho veduta.</l>
+<l>In un suo libro. Egli sapea contare</l>
+<l>i monti e i mari. Io l'ascoltava muta.</l></lg>
+<lg>
+<l>C'è il Mare di Serenità. C'è il Mare</l>
+<l>di Nubi. Anche, di Pioggie e di Tempeste.</l>
+<l>Un altro Mare senza l'acque amare.</l></lg>
+<lg>
+<l>C'è la Palude delle Nebbie meste.</l>
+<l>C'è anche un Seno, a goccia a goccia pieno</l>
+<l>di guazza dalla grande alba celeste.</l></lg>
+<lg>
+<l>E c'è il Lago dei Sogni. Anche c'è il Seno</l>
+<l>delle Iridi: tanti alti archi di porte</l>
+<l>nel cielo: un infinito arcobaleno.</l></lg>
+<lg>
+<l>Vicino ai Sogni, il Lago della Morte".</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Anche la morte? e dunque anche i viventi?</l>
+<l>"No! no! nessuno. Chi v'andò, discese.</l>
+<l>In terra avea del bene e le sue genti".</l></lg>
+<lg>
+<l>Dunque nessuno... O tacito paese</l>
+<l>sopra le nubi, o isola del cielo,</l>
+<l>che fiorisci e sfiorisci d'ogni mese!</l></lg>
+<lg>
+<l>Il sole ha fatto colassù lo sgelo!</l>
+<l>Gli stagni son coperti ora dei gigli</l>
+<l>d'acqua, a fior d'acqua sopra il lungo stelo.</l></lg>
+<lg>
+<l>Si sommergono gli alberi vermigli</l>
+<l>dentro la cilestrina acqua dei laghi.</l>
+<l>L'aria è fiorita dall'odor dei tigli.</l></lg>
+<lg>
+<l>E rossi e gialli spuntano tra gli aghi</l>
+<l>d'abeti e pini, che nessun calpesta,</l>
+<l>fiori, bocche di lupi, occhi di draghi...</l></lg>
+<lg>
+<l>Al dolce vento trema la foresta.</l>
+<l>Dalla foresta vengono col vento</l>
+<l>lontane voci di campane a festa...</l></lg>
+<lg>
+<l>Vi s'ode ancora un palpito più lento,</l>
+<l>un tuffo molle a quando a quando, un va</l>
+<l>e vieni: ondeggiamento sonnolento,</l></lg>
+<lg>
+<l>lassù, nel Mare di Serenità.</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">CANTO TERZO</head>
+<head rend="sc">IN SOGNO</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Scórsero i giorni; ancor le notti, a una</l>
+<l>a una, sempre più stellate e scure;</l>
+<l>e più tarda e più vana era la luna.</l></lg>
+<lg>
+<l>Ma quelli in sogno ecco prendean la scure</l>
+<l>avanti l'alba. Erano, chi tra un denso</l>
+<l>nebbione, chi su ventilate alture.</l></lg>
+<lg>
+<l>Chi s'arrestava avanti un mare immenso,</l>
+<l>chi camminava, lungo un colonnato</l>
+<l>d'enormi pini, tra l'odor d'incenso.</l></lg>
+<lg>
+<l>E non vedeva che a sé stesso il fiato</l>
+<l>cerulo, ognuno, e s'ascoltava il gemito</l>
+<l>arido, nel silenzio inabitato.</l></lg>
+<lg>
+<l>A pini e cerri i pionieri estremi</l>
+<l>davan la scure per la lor capanna</l>
+<l>e i nuovi aratri, e per la nave e i remi.</l></lg>
+<lg>
+<l>Quella, in un poggio, il tetto avea di canna</l>
+<l>fiorita ancora. Questa, umida ancora,</l>
+<l>nereggiava sotto alte iridi, in panna.</l></lg>
+<lg>
+<l>Ma tristi gli emigranti erano! Allora</l>
+<l>uno di tronchi costruì l'altare.</l>
+<l>E saliva un soave inno, all'aurora,</l></lg>
+<lg>
+<l>dallo scosceso Caucaso lunare.</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Due, la fanciulla e il giovane che amava,</l>
+<l>ecco non più si videro. Interrotte</l>
+<l>n'erano l'orme a un tondo orlo di lava.</l></lg>
+<lg>
+<l>Vicino al Lago, essi, dei Sogni, in grotte</l>
+<l>azzurre, orlate d'ellera e vilucchio,</l>
+<l>vivean felici. V'era anche la notte,</l></lg>
+<lg>
+<l>presso quel Lago! Era lor letto un mucchio</l>
+<l>d'alghe e di felci; e li addormiva il vago</l>
+<l>sogno dell'acque e il fievole risucchio.</l></lg>
+<lg>
+<l>Presso il Lago dei Sogni, c'era il Lago</l>
+<l>dei Morti; e niuno ardìa venirci. Alfine</l>
+<l>erano soli. Il loro cuor fu pago.</l></lg>
+<lg>
+<l>E i morti? Ebbene, anime pellegrine</l>
+<l>anch'esse, anch'esse giunte là dal lido</l>
+<l>terrestre, buone e tacite vicine...</l></lg>
+<lg>
+<l>non s'udiva che un loro esile strido</l>
+<l>di notte, come già sotto le gronde</l>
+<l>a notte buia il pigolìo d'un nido:</l></lg>
+<lg>
+<l>lo strido, ch'uno chiama uno risponde,</l>
+<l>allor che spunta dalle cime, ed erra</l>
+<l>nel cielo azzurro, e tremola sull'onde</l></lg>
+<lg>
+<l>azzurre, come un grande astro, la Terra.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Tutti felici! V'era solo Dio</l>
+<l>lassù. Poneano nel lor campo un sasso,</l>
+<l>poneano un segno al lor canotto: È mio!</l></lg>
+<lg>
+<l>Ma non premeva le lor vie, che il passo</l>
+<l>di miti renne. Il lor tranquillo mare</l>
+<l>solo sentiva remigar lo svasso.</l></lg>
+<lg>
+<l>Le donne al Mare senza l'acque amare</l>
+<l>soleano andare all'acqua; ma lontano</l>
+<l>gli uomini in pace le sentian cantare.</l></lg>
+<lg>
+<l>La vecchia fame li rodea... ma il grano</l>
+<l>c'era, ma gialle non avea le reste;</l>
+<l>ma già prendeano le falciole in mano.</l></lg>
+<lg>
+<l>Il vecchio freddo li pungea... la veste</l>
+<l>c'era: in dosso alle renne era tuttora.</l>
+<l>La legna c'era, ma nelle foreste.</l></lg>
+<lg>
+<l>E non c'è dì senz'alba, e l'alba è l'ora</l>
+<l>più bella; e senza fiore non c'è frutto,</l>
+<l>e il fiore è bello, il fiore è il più che odora.</l></lg>
+<lg>
+<l>Ed è bello ogni boccio, anche s'è brutto...</l>
+<l>Sì; ma il lor mondo, più vicino al dì,</l>
+<l>era una falce, un'unghia, un filo... e tutto</l></lg>
+<lg>
+<l>in una luminosa alba vanì.</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">CANTO QUARTO</head>
+<head rend="sc">RITORNO IN SOGNO</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Ed il lor sogno anche vanì dai cuori.</l>
+<l>E si sparsero intorno, come i cani</l>
+<l>dopo una morte: vagolano fuori,</l></lg>
+<lg>
+<l>fiutano cento miglia oggi, domani</l>
+<l>piangono all'uscio. Quella madre a Dio</l>
+<l>tendeva, sola, dentro sé, le mani.</l></lg>
+<lg>
+<l>Ma c'era, ahimè! tanto piagnucolìo</l>
+<l>di madri, al mondo! che potean soltanto</l>
+<l>dire, d'un po' di carne viva: È mio!</l></lg>
+<lg>
+<l>Il cielo alfine si velò, poi franto</l>
+<l>giù si versò. L'acqua s'udia cadere</l>
+<l>col suono ora d'un canto, ora d'un pianto.</l></lg>
+<lg>
+<l>Non c'erano nel mondo albe né sere.</l>
+<l>C'era un silenzio fatto di frastuono</l>
+<l>nei giorni oscuri, nelle notti nere.</l></lg>
+<lg>
+<l>Ed ecco che rimbombò lungo un tuono</l>
+<l>allegro, apparve in fondo al cielo un fioco</l>
+<l>raggio di sole, un suo sorriso buono.</l></lg>
+<lg>
+<l>E su la terra non restò per poco</l>
+<l>che un luminoso sgocciolìo sonoro;</l>
+<l>e poi, tra i cirri e i cumoli di fuoco,</l></lg>
+<lg>
+<l>un filo, un'unghia, era una falce d'oro!</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Scórsero i giorni; ella cresceva: ed ecco</l>
+<l>l'un dopo l'altro scesero a trovare</l>
+<l>la lor capanna e la lor nave in secco.</l></lg>
+<lg>
+<l>L'erba cresceva sopra il limitare.</l>
+<l>Lungo il lido la nave intarmoliva.</l>
+<l>Là sui monti funghito era l'altare.</l></lg>
+<lg>
+<l>Chi stava in monte, ora scendeva in riva</l>
+<l>del mare. Chi vivea presso lo stagno,</l>
+<l>ora cercava una sorgente viva.</l></lg>
+<lg>
+<l>E ciascuno s'urtava al suo compagno.</l>
+<l>Taciti, prima; e quindi alcuno disse:</l>
+<l>"Va, mosca!" e l'altro ribatté: "Va, ragno!"</l></lg>
+<lg>
+<l>Al Mare Dolce s'accendean le risse</l>
+<l>stridule, acute. V'accorrean dai monti,</l>
+<l>l'ascie nei tronchi abbandonando infisse,</l></lg>
+<lg>
+<l>gli uomini, calmi e gravi in viso, e pronti,</l>
+<l>nel cuore, a tutto. Uno dicea sereno</l>
+<l>il viso: "O donna, mancheranno fonti!</l></lg>
+<lg>
+<l>Prendi l'orciuolo e va per acqua al Seno</l>
+<l>della Rugiada!" Era sparita intanto</l>
+<l>la luna; e folgorava egli un baleno</l></lg>
+<lg>
+<l>d'odio a colui che gli tremava accanto.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg><l>E malcontenti erravano già tutti</l>
+<l>lassù, notturni, nell'odor del sole</l>
+<l>che apriva i fiori e maturava i frutti.</l></lg>
+<lg>
+<l>E questi invece si mettea per gole</l>
+<l>nere di monti, e quegli ambiva rade,</l>
+<l>nei grandi mari, inesplorate e sole.</l></lg>
+<lg>
+<l>E quegli, andando per anguste strade,</l>
+<l>vedeva un altro, di rincontro, al varco.</l>
+<l>Si vedeano con truci occhi di spade...</l></lg>
+<lg>
+<l>E questi cauto s'allestìa lo sbarco</l>
+<l>tra giunchi e biodi, quando, ecco un burchiello</l>
+<l>venir, piccolo e nero, sotto un arco</l></lg>
+<lg>
+<l>d'iride... Ognuno fuggì via dal bello</l>
+<l>e scese tra le nebbie, alla Palude.</l>
+<l>Ma vi trovava l'ombra del fratello.</l></lg>
+<lg>
+<l>E da per tutto s'incontrava, rude,</l>
+<l>in quella donna con la sua sommessa</l>
+<l>voce, con quelle creature ignude.</l></lg>
+<lg>
+<l>In poco tempo il lor dolore messa</l>
+<l>avea la sua radice anche su lì;</l>
+<l>e quella Terra era già vecchia anch'essa:</l></lg>
+<lg>
+<l>soffriva ognuno ciò che già soffrì.</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">CANTO QUINTO</head>
+<head rend="sc">L'ALTRA FACCIA LUNARE</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Crescea la luna. Ognuno già per ogni</l>
+<l>plaga passava come a lui straniera.</l>
+<l>Ognuno al Lago ora pensò, dei Sogni.</l></lg>
+<lg>
+<l>Forse la morte non temean, tant'era</l>
+<l>la lor tristezza. E il Lago era pur bello</l>
+<l>con le bianche ninfee di primavera!</l></lg>
+<lg>
+<l>Ivi abbracciato al dolce oblìo gemello</l>
+<l>era il ricordo. Ivi cantava un nido,</l>
+<l>da sé, partito ch'era già l'uccello.</l></lg>
+<lg>
+<l>Cantava il cuore, ora, da sé, col grido</l>
+<l>d'allora, a notte! E ve l'udian cantare</l>
+<l>i soli morti assisi lungo il lido.</l></lg>
+<lg>
+<l>Ed era il Lago ora nel lume, e chiare</l>
+<l>fiorian le schiume. Ecco, una luce scialba</l>
+<l>si diffondea nel Caucaso lunare.</l></lg>
+<lg>
+<l>E dalle grotte orlate di vitalba</l>
+<l>videro, i due, rifulgere le accette</l>
+<l>lassù, nel monte, tra il chiaror dell'alba.</l></lg>
+<lg>
+<l>S'udiva per le valli e per le strette</l>
+<l>l'arido scroscio delle foglie morte...</l>
+<l>I lor compagni erano sulle vette,</l></lg>
+<lg>
+<l>volti ai Laghi dei Sogni e della Morte!</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg><l>E si levò tra quelle genti un suono</l>
+<l>dolce di voce. Usciva allor da un velo</l>
+<l>rado la luna pendula, dal cono</l></lg>
+<lg>
+<l>d'un abete. Una nebbia, un ragnatelo</l>
+<l>di luce scialba tremolò su crani</l>
+<l>lustri, su cenci e bioccoli di pelo;</l></lg>
+<lg>
+<l>e rifulsero allora occhi lontani,</l>
+<l>zuppi di sogno, e bocche aperte a un alto</l>
+<l>ululo. Il pugno si stringean le mani.</l></lg>
+<lg>
+<l>Videro tutti là, di soprassalto,</l>
+<l>quella fanciulla, con le braccia in croce,</l>
+<l>bianca sul liscio lago di cobalto.</l></lg>
+<lg>
+<l>Ella parlava timida e veloce.</l>
+<l>Quello che ammansa, quello che consola,</l>
+<l>pioveva dalla giovinetta voce.</l></lg>
+<lg>
+<l>"Io l'ho veduta. Corre sempre, vola,</l>
+<l>passa. Ma mentre va, che non mai posa,</l>
+<l>a noi non volge che una parte sola.</l></lg>
+<lg>
+<l>Vediamo, noi, nel cielo azzurro o rosa,</l>
+<l>sempre quelle montagne, sempre quelle</l>
+<l>paludi. Sempre. Ma di là? Che cosa</l></lg>
+<lg>
+<l>è mai di là, verso le grandi stelle?"</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg><l>E la luna fu mezza. Erano tutti</l>
+<l>di là. Ciascuno avea varcato un nero</l>
+<l>cerchio di monti, un bianco orlo di flutti.</l></lg>
+<lg>
+<l>Ciascuno andava per un suo sentiero.</l>
+<l>Movean lassù per il paese vuoto,</l>
+<l>silenzioso come il lor pensiero.</l></lg>
+<lg>
+<l>Movean pensosi; e cancellava il moto</l>
+<l>l'orme sue stesse; per l'eternamente</l>
+<l>non visto, per l'eternamente ignoto;</l></lg>
+<lg>
+<l>là, dove il tutto rifiorìa dal niente,</l>
+<l>libero, dove s'adempìa perenne</l>
+<l>un sogno, sogno del buon Dio dormente.</l></lg>
+<lg>
+<l>C'era anche il pane. E c'erano le renne</l>
+<l>placide, il latte, il fuoco: tutto! Oh! molto</l>
+<l>pensava il vecchio: ma di là non venne.</l></lg>
+<lg>
+<l>Oh! la sua Terra! Egli torceva il volto.</l>
+<l>Veder la Terra gli era assai; ché infine</l>
+<l>e' non doveva ch'esservi sepolto.</l></lg>
+<lg>
+<l>Oh! pur dal fascio, ch'era, lì, di spine,</l>
+<l>all'appressarsi dell'oscurità,</l>
+<l>veder la Terra rosseggiar sul crine</l></lg>
+<lg>
+<l>delle montagne e dileguar di là!</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">CANTO SESTO</head>
+<head rend="sc">IN CERCA DELLA GUIDA</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>Più che mezza la luna era, e più ore</l>
+<l>restava su, tra l'iridato alone,</l>
+<l>e le notti imbevea del suo pallore.</l></lg>
+<lg>
+<l>E sonava il fragor d'un acquazzone,</l>
+<l>sempre: era il fiume che la terra brulla</l>
+<l>fendea, cantando la sua gran canzone.</l></lg>
+<lg>
+<l>Rimpennava ogni tiglio, ogni betulla.</l>
+<l>Era la primavera, era lo sgelo.</l>
+<l>E, una sera, uno esclamò: "Fanciulla!</l></lg>
+<lg>
+<l>Dov'è colui che sa le vie del cielo?</l>
+<l>La luna è là. Le cose ormai son fatte".</l>
+<l>Ciascuno attese. Anche quel vecchio, anelo...</l></lg>
+<lg>
+<l>"Oh! no! Restiamo! O madre che si batte</l>
+<l>perché ci nutra! O madre che si lascia</l>
+<l>se non dà pane, dopo dato il latte!"</l></lg>
+<lg>
+<l>"Dov'è?" chiedeva con segreta ambascia</l>
+<l>la trista madre. Che darebbe or ella</l>
+<l>ai bimbi, a cena? il ferro, ormai, dell'ascia?</l></lg>
+<lg>
+<l>"Dov'è?" Splendeva una solinga stella</l>
+<l>presso la luna, per il gran deserto</l>
+<l>del cielo. "Dove?" "Sì, dov'è, sorella?"</l></lg>
+<lg>
+<l>"Dov'è? Cerchiamo. In qualche luogo è certo".</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Si sparsero dall'alba di quel giorno,</l>
+<l>come da quercia morta aride foglie</l>
+<l>a una ventata che le sparge intorno.</l></lg>
+<lg>
+<l>Stavano, come indifferenti, a soglie</l>
+<l>di vecchie case, ad ascoltar lì, gronchi,</l>
+<l>l'uomo gridare e sfaccendar la moglie.</l></lg>
+<lg>
+<l>Battean le selve; il frullo dei bofonchi</l>
+<l>parea parole: erano péste i picchi</l>
+<l>dei picchi verdi sui marciti tronchi.</l></lg>
+<lg>
+<l>Sedean sopra le pietre nei crocicchi,</l>
+<l>guardando i carri; con pupille fisse</l>
+<l>seguendo al passo i contadini e i ricchi.</l></lg>
+<lg>
+<l>Non c'era più! Non c'era più! Ma disse</l>
+<l>alcuno: "Forse... se per suo costume</l>
+<l>quello straniero sol a notte uscisse?"</l></lg>
+<lg>
+<l>E per le lande errarono nel lume</l>
+<l>di luna, tutti, per le selve rare,</l>
+<l>lunghesso il verde scintillìo del fiume.</l></lg>
+<lg>
+<l>Videro alcuni un uomo in mezzo a un mare</l>
+<l>di luce, nero, e diedero la voce...</l>
+<l>Ed era il vecchio che volea restare;</l></lg>
+<lg>
+<l>sopra un sepolcro, a' piedi d'una croce.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>E scórse un giorno. E spuntò, grande grande,</l>
+<l>la luna piena, e per il ciel si mosse.</l>
+<l>Risplendean l'acque, risplendean le lande.</l></lg>
+<lg>
+<l>Come di giorno. Un giorno senza rosse</l>
+<l>luci, né voci; il giorno d'un riverso</l>
+<l>silenzioso, che nessun più fosse.</l></lg>
+<lg>
+<l>Per vero, intorno, qualche cane sperso</l>
+<l>urlava a lupo. Al colmo era la luna,</l>
+<l>sola soletta in mezzo all'universo.</l></lg>
+<lg>
+<l>E nella terra errava quella bruna</l>
+<l>compagnia d'ombre. Elle tendean le braccia.</l>
+<l>Avean lassù tutta la lor fortuna!</l></lg>
+<lg>
+<l>E case e terre! E persa avean la traccia</l>
+<l>della lor guida! E videro uno spetro,</l>
+<l>lontano, col bastone e la bisaccia.</l></lg>
+<lg>
+<l>Corsero. Corse, coi marmocchi dietro,</l>
+<l>la madre. E come furono di paro...</l>
+<l>era il brodiag. Egli si fermò, tetro.</l></lg>
+<lg>
+<l>La grande barba risplendeva al chiaro</l>
+<l>di luna... "Guida, esso non c'è, sii tu!</l>
+<l>La luna è pronta..." Oh! come rise amaro!</l></lg>
+<lg>
+<l>Rideva; e i cani urlavano vie più.</l></lg>
+</lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">I DUE ALBERI</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Vento dei Santi, il giorno si raccoglie</l>
+<l>già per morire; e tu su' due gemelli</l>
+<l>alberi soffi, e stacchi lor le foglie.</l></lg>
+<lg>
+<l>Ora le tocchi appena, ora le svelli:</l>
+<l>quali cadono a una a una, quali</l>
+<l>partono a branchi, come vol d'uccelli.</l></lg>
+<lg>
+<l>Tutta una fuga, quando tu li assali,</l>
+<l>si fa nel cielo, e in terra, fra le zolle,</l>
+<l>un fruscìo grande, un vano tremor d'ali:</l></lg>
+<lg>
+<l>stridono e vanno, girano in un folle</l>
+<l>vortice, frullano inquiete attorno,</l>
+<l>calano con un abbandono molle.</l></lg>
+<lg>
+<l>A volte sembra muovano al ritorno,</l>
+<l>a sbalzi... Ma, tu le riprendi, e porti</l>
+<l>con te, via. Tutte son cadute e il giorno</l></lg>
+<lg>
+<l>è morto: tu lo sai, vento dei Morti!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Viene col vento un canto di preghiera</l>
+<l>e di tristezza, e vanno via le foglie</l>
+<l>con lui, stridendo in mezzo alla bufera:</l></lg>
+<lg>
+<l>"Noi di noi siamo le fugaci spoglie:</l>
+<l>la nostra vita è sempre là dov'era.</l></lg>
+<lg>
+<l>Il vento in vano all'albero ci toglie:</l>
+<l>là rinverzicheremo a primavera".</l></lg>
+<lg>
+<l>Col vento via le vane foglie vanno;</l>
+<l>gemono, mentre intorno si fa sera.</l></lg>
+<lg>
+<l>"Non torneremo al rifiorir dell'anno:</l>
+<l>noi ce n'andiamo avvolte nell'oblìo.</l></lg>
+<lg>
+<l>Non fu la vita che un fugace inganno.</l>
+<l>L'albero è morto. Addio per sempre! Addio!"</l></lg>
+<lg>
+<l>È morto il giorno, ed anche muor la sera,</l>
+<l>ed anche muore il canto tristo e pio.</l>
+<l>E il cielo splende su la terra nera.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>Il vento trova la sua strada ingombra</l>
+<l>di foglie e stelle. Gli alberi, sparito</l>
+<l>e l'uno e l'altro. Io vedo una grande ombra.</l></lg>
+<lg>
+<l>Ne vedo un solo. All'animo lo addito,</l>
+<l>l'albero solo. Spunta da un velame</l>
+<l>di nebbia eterna, ed empie l'Infinito.</l></lg>
+<lg>
+<l>Protende le invisibili sue rame</l>
+<l>cui sono appesi d'ogni parte i mondi.</l>
+<l>Si crolla ad un grande alito il fogliame;</l></lg>
+<lg>
+<l>e d'un perenne tremolìo le frondi</l>
+<l>lustrano ardenti. Alcuna cade e brilla</l>
+<l>giù per gli abissi ceruli, profondi.</l></lg>
+<lg>
+<l>Io, sotto la corona, che sfavilla,</l>
+<l>dell'Universo, odo, smarrito assòrto,</l>
+<l>uno stridìo. Forse una foglia oscilla</l></lg>
+<lg>
+<l>ancora a un ramo dell'albero morto.</l></lg>
+</div3>
+</div2>
+</div1>
+<div1 type="sezione">
+<head rend="italic">LA VENDEMMIA – PIETOLE</head>
+<div2 type="poemetto">
+<head rend="italic">LA VENDEMMIA</head>
+<div3 type="canto">
+<head rend="sc">CANTO PRIMO</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>"Una vendemmia fa, così, piacere!</l>
+<l>Nemmeno un chicco marcio nella pigna".</l>
+<l>"E tutte pigne, salde fisse nere".</l></lg>
+<lg>
+<l>"Uva d'alberi, e pare uva di vigna".</l>
+<l>"Ma qui ci son d'agosto le cicale</l>
+<l>da levar gli occhi! qui la vite alligna!"</l></lg>
+<lg>
+<l>"Porta il bigoncio". "È pieno".</l>
+<l rend="italic">-Avessi l'ale!</l>
+<l rend="italic">Avessi l'ale d'una rondinella!</l>
+<l rend="italic">Il nido lo farei nel tuo guanciale. -</l></lg>
+<lg>
+<l>"Guarda: la vespa vuole la più bella".</l>
+<l>"L'ape fa il miele, eppur le basta un fiore,</l>
+<l>fior di trifoglio, fior di lupinella".</l></lg>
+<lg>
+<l>"Ha fatto buono all'uva lo stridore</l>
+<l>di tutta estate". "Ciò che fa per l'una,</l>
+<l>non fa per l'altro". "Ora, contava l'ore".</l></lg>
+<lg>
+<l>"Qua le canestre, donne". -</l>
+<l rend="italic">O bella bruna!</l>
+<l rend="italic">Quando nascesti, in cielo una campana</l>
+<l rend="italic">sonava sola, al lume della luna. -</l></lg>
+<lg>
+<l>"Questa la stenderete sull'altana:</l>
+<l>è troppo bella per andar nel tino".</l>
+<l>"Ma anche quello è come vin di grana!"</l></lg>
+<lg>
+<l>"Non ci fu pioggie, non ci fu lo strino".</l>
+<l>"Portate bere. Molto all'uva aggrada</l>
+<l>sentirsi in viso l'alito del vino".</l></lg>
+<lg>
+<l>"Pigia il bigoncio un po'". - "</l>
+<l rend="italic">Sono in istrada,</l>
+<l rend="italic">E che mi dài, che mi conviene andare?"</l>
+<l rend="italic">"Un bacio in bocca, perché tu non vada". -</l></lg>
+<lg>
+<l>"La paradisa ha pigne lunghe e chiare,</l>
+<l>e tutti d'oro sono i chicchi, e hanno</l>
+<l>il sole dentro, il sole che traspare".</l></lg>
+<lg>
+<l>"Rigo, di tutte queste qui, si fanno</l>
+<l>cipelle, acché, tu con la moglie accanto,</l>
+<l>ne mangi all'alba, il primo dì dell'anno.</l></lg>
+<lg>
+<l>L'uva vuol dire il buono, il bello, il tanto.</l>
+<l>E porta bene, o Rigo". -</l>
+<l rend="italic">Ho contro, io sento,</l>
+<l rend="italic">fin le finestre, e quando passo e canto,</l>
+<l rend="italic">si chiudono da loro senza vento. -</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Così staccavi la dolce uva, alfine,</l>
+<l>co' tuoi vicini, ché i vicini sono</l>
+<l>mezzo parenti, e con le tue vicine,</l></lg>
+<lg>
+<l>o Rigo. Il tempo era da un pezzo al buono,</l>
+<l>e la vendemmia si cocea matura</l>
+<l>anche a bacìo; quando sentisti un tuono.</l></lg>
+<lg>
+<l>Dicesti: il bello è bello, ma non dura.</l>
+<l>E vendemmiasti. Ed era un giorno asciutto,</l>
+<l>si scivolava per la grande asprura,</l></lg>
+<lg>
+<l>cupo di vespe era un ronzìo per tutto,</l>
+<l>calda era l'uva e, nei bigonci ancora,</l>
+<l>rendeva già l'odor del mosto e il flutto.</l></lg>
+<lg>
+<l>La gente era venuta sull'aurora</l>
+<l>quando la guazza o la nebbietta inerte</l>
+<l>vapora in cielo, e il cielo si colora.</l></lg>
+<lg>
+<l>Allor le donne ascesero per l'erte,</l>
+<l>parlando basso, e recideano a prova</l>
+<l>le pigne con le piccole ugne esperte.</l></lg>
+<lg>
+<l>Le recideano al nodo che si trova</l>
+<l>a mezzo il gambo. Le galline intorno</l>
+<l>bandian l'annunzio, ad or ad or, dell'ova.</l></lg>
+<lg>
+<l>Ma crebbe il vario favellìo col giorno.</l>
+<l>Montava, per tagliare le pinzane,</l>
+<l>un giovinetto sul pioppo e sull'orno.</l></lg>
+<lg>
+<l>Cantava poi, quand'erano lontane</l>
+<l>le donne, quando in una sua cestella</l>
+<l>portava il vino Violetta e il pane.</l></lg>
+<lg>
+<l>Ell'era in casa della sua sorella</l>
+<l>da un mese e più; ma stava per tornare</l>
+<l>a casa sua, più pallida e più bella.</l></lg>
+<lg>
+<l>"C'è tempo:" Rigo alla gentil comare</l>
+<l>diceva "addietro è là da voi la vite.</l>
+<l>Poi verrò io: non c'è di mezzo il mare".</l></lg>
+<lg>
+<l>Era un piacere rivederle unite</l>
+<l>le due sorelle al solito lavoro!</l>
+<l>Ma quelle sere, nell'ottobre mite,</l></lg>
+<lg>
+<l>anche si dava che piangean tra loro.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Erano quella sera alla finestra.</l>
+<l>Salìano gli uni coi bigonci pieni,</l>
+<l>l'altre scendean con vuota la canestra.</l></lg>
+<lg>
+<l>Parlavano nel lungo va e vieni,</l>
+<l>alto, ché in loro anche parlava il vino.</l>
+<l>"Si vuol finire, prima che si ceni".</l></lg>
+<lg>
+<l>"Non resta che il filare qui vicino.</l>
+<l>Saranno due bigonci o tre; ma un poco,</l>
+<l>perché li tenga, vuol pigiato il tino".</l></lg>
+<lg>
+<l>Il cielo già si colorava in fuoco.</l>
+<l>Al colmo tino il giovinetto snello</l>
+<l>si lanciò su, come a provar per gioco.</l></lg>
+<lg>
+<l>Stette sull'orlo un poco in piedi, bello,</l>
+<l>raggiante tutto del suo bel domani,</l>
+<l>a braccia spante, simile a un uccello.</l></lg>
+<lg>
+<l>Poi si chinò, s'apprese con le mani</l>
+<l>all'orlo, e dentro, fra le pigne frante</l>
+<l>tuffò le gambe e sul crosciar dei grani.</l></lg>
+<lg>
+<l>Il rosso mosto risalì spumante</l>
+<l>sopra i garretti; ed ei girava a tondo</l>
+<l>premendo coi calcagni e con le piante.</l></lg>
+<lg>
+<l>E il sole rosso illuminava il biondo</l>
+<l>vendemmiatore; ed ecco, da un remoto</l>
+<l>canto del cielo un tintinnìo giocondo.</l></lg>
+<lg>
+<l>Uno, dal cielo, accompagnava il moto</l>
+<l>dei piedi suoi, di su quei rosei fiocchi,</l>
+<l>picchiando in furia sur un bronzo vuoto...</l></lg>
+<lg>
+<l>L'altro moveva rapidi i ginocchi</l>
+<l>sul rosso mosto, anche movea la testa</l>
+<l>ben in cadenza, il sole in mezzo agli occhi.</l></lg>
+<lg>
+<l>Ma era un suono di campane a festa.</l>
+<l>E quei pigiava; quando, all'improvviso,</l>
+<l>Rosa lassù, Rosa, già muta e mesta,</l></lg>
+<lg>
+<l>si levò su, molle di pianto il viso,</l>
+<l>con un singhiozzo, e Violetta, china</l>
+<l>a guardar fuori immersa in un sorriso</l></lg>
+<lg>
+<l>si volse bianca, e mormorò: Rosina!</l></lg>
+</lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">CANTO SECONDO</head>
+<lg>
+<head rend="sc">I</head>
+<lg>
+<l>"Rosina! L'hai promesso anche stamane...</l>
+<l>Non pianger più!" Ma Rosa pianse ancora,</l>
+<l>tra il suono a festa delle due campane.</l></lg>
+<lg>
+<l>"O Violetta, mi pareva or ora</l>
+<l>fosse la gloria per un angiolino...</l>
+<l>oh! come quando... Fu dopo l'aurora.</l></lg>
+<lg>
+<l>Sentii parlare ed un odor vicino.</l>
+<l>Avean qualche garofano e viola:</l>
+<l>una ghirlanda per il mio bambino.</l></lg>
+<lg>
+<l>E c'era il prete, il prete con la stola.</l>
+<l>- Ma tutto ha qui! le robe sue ben fatte,</l>
+<l>la sua cunella con le sue lenzuola,</l></lg>
+<lg>
+<l>e un petto ancora pieno del suo latte!</l></lg>
+</lg>
+<lg>
+<head rend="sc">II</head>
+<lg>
+<l>Non vuol venire. È tristo, che fa pena.</l>
+<l>Oh! come è tristo! In vero è così poco</l>
+<l>che ride un poco! Ci ha imparato appena! -</l></lg>
+<lg>
+<l>Ricordo un giorno lo sfasciavo, al fuoco,</l>
+<l>e lo guardavo. Ei tese il dito a un occhio.</l>
+<l>Lo vide lustro, gli pareva un gioco,</l></lg>
+<lg>
+<l>chi sa? vedeva un altro bel rabocchio</l>
+<l>lì dentro. E io me lo tenea lontano,</l>
+<l>lo patullavo in alto d'in ginocchio,</l></lg>
+<lg>
+<l>gli prendea la manina nella mano,</l>
+<l>e la scoteva, gli facea le rise;</l>
+<l>ed ecco, anch'egli si provò pian piano,</l></lg>
+<lg>
+<l>fece bel bello le fossette, e rise.</l></lg>
+</lg>
+<lg>
+<head rend="sc">III</head>
+<lg>
+<l>Rise. M'avea riconosciuta: ero io:</l>
+<l>la mamma, ahimè!... Prima, diceva al seno,</l>
+<l>con gli occhi e con le due manine, È mio!</l></lg>
+<lg>
+<l>Dopo, ero sua, tutta, né più né meno.</l>
+<l>E, se vagiva e se piangeva, al suono</l>
+<l>della mia voce si facea sereno.</l></lg>
+<lg>
+<l>Com'era savio! Come savio e buono!</l>
+<l>A volte, quando era a dormir di giorno,</l>
+<l>entravo, udito un grido, un tonfo, un tuono...</l></lg>
+<lg>
+<l>S'è desto? Nulla. Qualche mosca intorno</l>
+<l>ai vetri... Alzavo il velo della culla.</l>
+<l>Sul guancialino coi belli orli a giorno,</l></lg>
+<lg>
+<l>ridea tra sé, guardando in alto, a nulla.</l></lg>
+</lg>
+<lg>
+<head rend="sc">IV</head>
+<lg>
+<l>Oh! non a nulla! Egli rideva, io penso,</l>
+<l>con gli angioletti. Io ci sentii l'odore</l>
+<l>di gigli, a volte; o un vago odor d'incenso.</l></lg>
+<lg>
+<l>Nella sua stanza essi venian nell'ore</l>
+<l>calde che i bimbi dormono. Alla gola</l>
+<l>uno lo vellicava con un fiore;</l></lg>
+<lg>
+<l>e tutti attorno alla cunella sola</l>
+<l>facean i giochi, ed e' guardava attento,</l>
+<l>come lassù si canta e suona e vola:</l></lg>
+<lg>
+<l>scoteano i loro cembali d'argento,</l>
+<l>battean sui loro tamburelli vani...</l>
+<l>Entravo, e via sparivano col vento:</l></lg>
+<lg>
+<l>rideva esso, annaspando con le mani.</l></lg>
+</lg>
+<lg>
+<head rend="sc">V</head>
+<lg>
+<l>Ma poi... piangeva. Mi si fece bianco</l>
+<l>e stento, e quando lo attaccavo al petto,</l>
+<l>succhiava un poco e poi pareva stanco.</l></lg>
+<lg>
+<l>Non mi voleva. E quasi avea dispetto</l>
+<l>della sua mamma. Quante n'ho cantate,</l>
+<l>di ninnenanne, senza toccar letto!</l></lg>
+<lg>
+<l>Me lo ninnavo in collo le nottate</l>
+<l>intere al fresco, uscendo con lui fuori</l>
+<l>al lucciolìo dell'odorosa estate.</l></lg>
+<lg>
+<l>Pensavo ai mesi ch'ebbi in me due cuori...</l>
+<l>Come piangeva or l'uno e l'altro, accanto!</l>
+<l>E tra quella allegria di grilli mori</l></lg>
+<lg>
+<l>come passava triste ora quel pianto!</l></lg>
+</lg>
+<lg>
+<head rend="sc">VI</head>
+<lg>
+<l>- Ma che vuoi dunque? Andar con loro? E ch'io</l>
+<l>ti lasci andare? A me tu lo domandi?</l>
+<l>Per me t'ho fatto! - Eppure un giorno, addio!</l></lg>
+<lg>
+<l>- Hai pianto e pianto a ciò che ti rimandi</l>
+<l>donde sei sceso. Ora ti lascio alfine! -</l>
+<l>Restò con gli occhi aperti fissi grandi.</l></lg>
+<lg>
+<l>Gli misi la cuffietta con le trine;</l>
+<l>la sua camicia, la sua vesticciola,</l>
+<l>gli misi i fiori nelle sue manine.</l></lg>
+<lg>
+<l>L'accomodavo senza far parola,</l>
+<l>quando d'un tratto udii parlar da basso.</l>
+<l>Gli misi le scarpine con la suola</l></lg>
+<lg>
+<l>nova, pulita... O Dio, nemmeno un passo!</l></lg>
+</lg>
+<lg>
+<head rend="sc">VII</head>
+<lg>
+<l>La terra, non l'avean toccata ancora!</l>
+<l>oh! i miei piedini!... I bimbi della scuola</l>
+<l>venner coi fiori un po' dopo l'aurora.</l></lg>
+<lg>
+<l>E c'era il prete, il prete con la stola.</l>
+<l>Era pronto il bambino, era vestito.</l>
+<l>Quando sonò la gloria alla chiesuola...</l></lg>
+<lg>
+<l>Che scampanìo festoso ed infinito!</l>
+<l>L'angiolo andava a gli angioli, a cui tanto</l>
+<l>avea sorriso tacito e romito.</l></lg>
+<lg>
+<l>E va, va pure, piccolo mio santo...</l>
+<l>Cos'è la mamma? E che può darti? Il petto</l>
+<l>e un po' di latte; il cuore, un cuore affranto;</l></lg>
+<lg>
+<l>e poi, cos'altro? Oh! niente, angiolo eletto.</l></lg>
+</lg>
+<lg>
+<head rend="sc">VIII</head>
+<lg><l>Va dunque, e tu, veglia su lei, su loro.</l>
+<l>E cosa ha fatto ella per te? T'ha fatte</l>
+<l>due camicine: non un gran lavoro!</l></lg>
+<lg>
+<l>Lassù quell'uomo batte batte batte</l>
+<l>sulle campane... Io guardo il bimbo, muto</l>
+<l>con gli occhi aperti, gli occhi ancor di latte...</l></lg>
+<lg>
+<l>Ah! che capii, che non avea voluto,</l>
+<l>che non voleva! Quel gran pianto, oh! era,</l>
+<l>che non voleva, e mi chiedeva aiuto!</l></lg>
+<lg>
+<l>Nella cassina stava lì, di cera,</l>
+<l>con le manine che facean Gesù,</l>
+<l>con gli occhi aperti sino da ier sera:</l></lg>
+<lg>
+<l>guardava... - O mamma, che non mi vuoi più! -"</l></lg>
+</lg>
+<lg>
+<head rend="sc">IX</head>
+<lg>
+<l>Piangea più forte, ma s'alzò smarrita.</l>
+<l>Sentiva, dentro, un rodere, un discreto</l>
+<l>grattar all'uscio, all'uscio della vita;</l></lg>
+<lg>
+<l>ma così piano, ma così segreto,</l>
+<l>così lontano... Avea tre mesi appena...</l>
+<l>Era già buio, e tutto era già cheto.</l></lg>
+<lg>
+<l>L'uva era colta, e si dovea far cena.</l></lg>
+</lg>
+</div3>
+</div2>
+<div2 type="poemetto">
+<head rend="italic">PIETOLE</head>
+<epigraph><p rend="italic">Sacro all'Italia esule</p></epigraph>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg>
+<l>Siede, adagiato sotto la corona</l>
+<l>d'un ampio faggio, il dorso ad una siepe,</l>
+<l>il contadino. E piena d'api i fiori,</l>
+<l>la siepe manda un lieve suo sussurro.</l>
+<l>Splendono intorno e fiumi e laghi al sole,</l>
+<l>al vento glauche fremono le spighe.</l>
+<l>Ad ora ad ora un muglio di giovenchi</l>
+<l>cupo, e un tremulo ringhio di polledri;</l>
+<l>e tubar rauche qua e là colombe,</l>
+<l>e gemebonde tortori sull'olmo.</l>
+<l>Quegli ripete aspre parole ai pioppi,</l>
+<l>ai lunghi pioppi dondolanti in fila.</l>
+<l>E dice:</l></lg>
+<lg>
+<l>- <foreign lang="eng" rend="italic">I am Italian</foreign></l>
+<l><foreign lang="eng" rend="italic">I am hungry</foreign>... -</l></lg>
+<lg>
+<l>I pioppi a lui rispondono, col canto</l>
+<l>d'un rusignolo ch'ha sui rami ognuno,</l>
+<l>l'un dopo l'altro; e lontanando il canto</l>
+<l>va sino al Mincio ed al ceruleo Po.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l>Ché nell'autunno è per lasciare i campi,</l>
+<l>il campagnolo, e dire addio per sempre</l>
+<l>alla sua verde Pietole. Ché fugge</l>
+<l>la Patria; dove, e' non lo sa per ora.</l>
+<l>Qual sia per lui, de' quattro venti, ancora</l>
+<l>e' non lo sa; né lo sa meglio il vento,</l>
+<l>il lieve vento ch'ora sulla palma</l>
+<l>gli sfiora e sfoglia crepitando un libro</l>
+<l>da portar seco nel cammino ignoto.</l>
+<l>Ora a quel vento e' cómpita cantando</l>
+<l>strane parole a chieder pane e fuoco,</l>
+<l>acqua e lavoro, oltr'alpi ed oltre mare,</l>
+<l>sotto altro sole...</l></lg>
+<lg>
+<l>- <foreign lang="ger" rend="italic">Ich bin Italiener</foreign></l>
+<l><foreign lang="ger" rend="italic">Ich bin hungrig</foreign>... -</l></lg>
+<lg>
+<l>A quelle voci strane</l>
+<l>dalle verdi acque echeggiano le rane</l>
+<l>con la querela sempre ugual, ch'eterna-</l>
+<l>mente gracidano gracidano...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg>
+<l>- <foreign lang="spa" rend="italic">Soy Italiano</foreign></l>
+<l><foreign lang="spa" rend="italic">Tengo ambre</foreign>... -</l></lg>
+<lg>
+<l>Ed ecco</l>
+<l>brilla nei tardi avvolgimenti il Mincio,</l>
+<l>cinto d'un orlo tenero di canne;</l>
+<l>s'irida, come d'un sorriso, il lago.</l>
+<l>Leva tra i biodi la giovenca il muso</l>
+<l>e fiuta l'aria con le froge larghe;</l>
+<l>né più dismette di tubar su l'olmo</l>
+<l>la tortore e la querula colomba.</l>
+<l>Risuona tutta la campagna intorno</l>
+<l>d'allegri ringhi e cupi mugli lunghi.</l>
+<l>E di lontano ora vien su crescendo</l>
+<l>la melodia de' rusignoli in coro,</l>
+<l>quasi canoro aereo ruscello,</l>
+<l>nel quale, piane, guazzano le rane.</l>
+<l>Bombisce a un tratto e palpita la siepe,</l>
+<l>e, fatto sciame, volano via l'api</l>
+<l>come un'oscura nuvola. Ché tu,</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg>
+<l>tu sopra vieni; e ti si fanno incontro</l>
+<l>tutte, dai florei pascoli e dai bugni,</l>
+<l>l'api con suon d'avene e di campestri</l>
+<l>buccine e franto strepere di trombe;</l>
+<l>ecco e piegare al tuo passaggio i pioppi,</l>
+<l>i lunghi pioppi, con l'ondulamento</l>
+<l>d'opre che a tondo menino le falci;</l>
+<l>ecco e fiottare al tuo passaggio i campi</l>
+<l>d'orzo e di grano, come ad un fecondo</l>
+<l>soffio, in un lustro tremolìo di reste;</l>
+<l>e impazienti a te muggir le stalle</l>
+<l>chiuse; dall'aie a te squittir la forza</l>
+<l>fida dei cani; a te, dal pingue concio,</l>
+<l>rosso plaudir, battendo l'ale, il gallo:</l>
+<l>perché tu vieni ai dolci campi, ai noti</l>
+<l>fiumi, ritorni al tuo natio villaggio,</l>
+<l>alla tua gente ed alla tua tribù,</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg>
+<l><hi rend="sc">VIRGILIO</hi>! O tu, cui partorì la madre</l>
+<l>nei campi, al sole, dentro un solco aperto</l>
+<l>dal curvo aratro per il pio frumento;</l>
+<l>o tu, che avesti per gemello un pioppo</l>
+<l>che si levò su tutti gli altri al cielo,</l>
+<l>sì che ai suoi rami si stessean le nubi:</l>
+<l>appiè del dio, chiuso nell'aureo musco,</l>
+<l>venìan le incinte, e i loro blandi voti</l>
+<l>s'unìan lassù col pigolìo dei nidi:</l>
+<l>o tu cui l'arnie, di cucite scorze</l>
+<l>o di tessuti lenti vinchi, all'ombra</l>
+<l>dell'oleastro, persuadeano il sonno</l>
+<l>col grave rombo, quando a te tra i fiori</l>
+<l>era la cuna: fiori d'ulivella,</l>
+<l>timbra e serpillo che lontano odora,</l>
+<l>e di viole scese a bere al fonte,</l>
+<l>al fonte che scivola molle e va;</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg>
+<l>ritorni al luogo, donde già vedesti</l>
+<l>passar cacciato dalle sue maggesi</l>
+<l>il contadino; che annestati i peri,</l>
+<l>piantato vigna, seminato il grano</l>
+<l>avea per altri, e che non più, tornando</l>
+<l>al regno suo cinto di siepe viva,</l>
+<l>alla sua reggia dal colmigno a piote,</l>
+<l>vedrebbe ormai, che qualche grama spiga:</l>
+<l>passava avendo siepe e campi in cuore,</l>
+<l>e l'abituro, e si parava innanzi</l>
+<l>poche sue capre, e ne traeva a mano</l>
+<l>una che addietro si volgea belando;</l>
+<l>che avea lasciato due gemelli addietro</l>
+<l>ah! su la ghiara: ed il pastore andava;</l>
+<l>ed era l'ora del ritorno a casa</l>
+<l>e della cena; e dai tuguri il fumo</l>
+<l>salìa nella crescente oscurità.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VII</head>
+<lg>
+<l><hi rend="sc">VIRGILIO</hi>, e tu, di tra i pastori uscito,</l>
+<l>vedesti intorno lo squallor dei campi</l>
+<l>abbandonati, e non più messi, e date</l>
+<l>le curve falci al fonditor di spade,</l>
+<l>e tolto il coltro all'imporrito aratro:</l>
+<l>l'aratro nuovo tu facesti, d'olmo</l>
+<l>piegato a forza, e l'erpice e la treggia,</l>
+<l>ed intessesti le crinelle e i valli;</l>
+<l>e nella nuova primavera, al primo</l>
+<l>tiepido soffio, gli anelanti bovi</l>
+<l>spingesti al solco, e nereggiava il suolo</l>
+<l>al vostro tergo, e si bruniva attrito</l>
+<l>lo scabro e roggio vomere. La strada</l>
+<l>così segnavi ai campagnoli ignari,</l>
+<l>l'opere e i giorni, ed imparare, in prima,</l>
+<l>la dura terra, ed osservar nel cielo</l>
+<l>la luna e il sole, e il volo delle gru.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VIII</head>
+<lg>
+<l>Ritorni ai campi, o già dei campi uscito,</l>
+<l>uscito in riva all'infecondo mare;</l>
+<l>in cui vedesti gli esuli del fato</l>
+<l>venir col fuoco tratto fuor dal fuoco,</l>
+<l>venire in cerca dell'antica madre.</l>
+<l>Una indugiava, delle stelle in fuga;</l>
+<l>una splendea tra il rosso dell'aurora.</l>
+<l><hi rend="sc">ITALIA! ITALIA</hi>! udivi tu gridare</l>
+<l>di su le prue, tra l'ànsito del mare.</l>
+<l>Sul tremolante rosseggiar dell'onde,</l>
+<l>nere venìan le navi. E c'era a poppa</l>
+<l>d'una un gran vecchio che libava il vino,</l>
+<l>con gli occhi al cielo. Ed in un verde prato</l>
+<l>pascean, drizzando ad or ad or le orecchie,</l>
+<l>quattro cavalli d'un candor di neve.</l>
+<l><hi rend="sc">ITALIA</hi>! E il mare col sussurro eterno</l>
+<l>montava su, ridiscendeva giù...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IX</head>
+<lg>
+<l>O madre grande d'ogni messe, o grande</l>
+<l>madre d'eroi! D'oro e d'incenso abbondi,</l>
+<l>nessuna terra è più di lei ferace.</l>
+<l>Qui piene spighe, qui rigoglio d'uve,</l>
+<l>qui pingui ulivi, qui fecondi armenti.</l>
+<l>Il bel cavallo qui le zampe al trotto</l>
+<l>scambia a test'alta; qui con lenta possa</l>
+<l>muovono i bianchi bovi trionfali.</l>
+<l>Pascon, la guerra e la vittoria, insieme!</l>
+<l>Qui tiepide aure e il fiore d'ogni mese.</l>
+<l>Eppur non tigri, non leoni, o l'erba</l>
+<l>che buona sembra a cogliere, che uccide;</l>
+<l>né il serpe striscia in terra lungo, e s'alza</l>
+<l>ravvolto a spire... E quanta opera d'uomo!</l>
+<l>Quante massiccie acropoli sui monti!</l>
+<l>E quanti fiumi specchiano le grandi</l>
+<l>mura di preromulee città!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">X</head>
+<lg>
+<l>I suoi due mari? dove il Po travolge</l>
+<l>lo scintillìo de' ghiacciai su l'Alpi,</l>
+<l>e dove il sacro Tevere conduce</l>
+<l>l'acque di neri sotterranei laghi?</l>
+<l>E i grandi laghi? così grande alcuno,</l>
+<l>che come un mare si ribella al vento?</l>
+<l>E i tanti porti? E nelle vene il rame</l>
+<l>ebbe e l'argento; ebbe già l'oro: ha il ferro.</l>
+<l>Ha questa terra una gagliarda stirpe</l>
+<l>d'uomini, i Marsi, la genìa Sabella</l>
+<l>aspra dal sole, i Liguri indomati</l>
+<l>dalla fortuna. Questa terra al mondo</l>
+<l>diede gli eroi: gli uomini pronti al fato,</l>
+<l>duri alla guerra, i Deci ed i Camilli...</l>
+<l>Eppur la terra è del buon Dio di pace,</l>
+<l>del buon fuggiasco ignoto Dio, la terra</l>
+<l>della giustizia e della libertà!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XI</head>
+<lg>
+<l>- <foreign lang="spa" rend="italic">Soy Italiano</foreign></l>
+<l><foreign lang="spa" rend="italic">Tengo ambre</foreign>... -</l></lg>
+<lg>
+<l>E Roma</l>
+<l>tu la vedesti quando ancor non era.</l>
+<l>L'acque del sacro Tevere la nave</l>
+<l>saliva, all'ombra tremula, solcando</l>
+<l>nel liscio specchio la boscaglia verde.</l>
+<l>Sul mezzodì videro un colle sparso</l>
+<l>di pochi tetti; ma quel dì la gente</l>
+<l>cingea col re, lunghesso il fiume, un'ara,</l>
+<l>l'ara più grande. Ed in due cori i Salii,</l>
+<l>giovani e vecchi, avendo al capo rami</l>
+<l>di pioppo bianco, dissero un lor canto,</l>
+<l>tripudiando, al domator dei mostri</l>
+<l>e della morte, ad Ercole sereno,</l>
+<l>al viandante pacificatore,</l>
+<l>armato appena d'un fortuito tronco</l>
+<l>d'albero. Ercole nudo, Ercole solo,</l>
+<l>figlio del cielo, ma né dio né re.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XII</head>
+<lg>
+<l>E il re pastore e il povero senato</l>
+<l>davano incensi all'ara, un tempo e sempre</l>
+<l>massima. E il re del grande Pallantèo</l>
+<l>scotean dal sonno i passeri annidati</l>
+<l>sotto la stoppia della sua capanna.</l>
+<l>Erano scorta, al re per via, due cani.</l>
+<l>Pascean nel Foro e nelle vie di Roma</l>
+<l>mandre di bovi ad or ad or mugghianti;</l>
+<l>ed echeggiava il Campidoglio ai mugghi.</l>
+<l>Ed era tutto una silvestre macchia</l>
+<l>il Campidoglio, e ruderi, tra i bronchi,</l>
+<l>grandi giacean d'una città distrutta.</l>
+<l>Roma era morta, e ancor dovea, l'eterna,</l>
+<l>sorgere al sole; ancor dovea d'un muro</l>
+<l>cingere, Roma, i sette colli, il Lazio,</l>
+<l>l'Italia, l'Alpi, i mari ed i deserti,</l>
+<l>tutte le genti e l'orbe intiero, a sé.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XIII</head>
+<lg>
+<l>Ma il contadino legge sempre al vento</l>
+<l>le rauche carte, e lungo sé non vede</l>
+<l><hi rend="sc">VIRGILIO</hi>, a cui fremon le messi, e i pioppi</l>
+<l>paion falciare mollemente in aria.</l>
+<l>Ed egli parla, non inteso all'uomo</l>
+<l>suo paesano; l'odono le miti</l>
+<l>giovenche intorno e i fervidi polledri.</l>
+<l>O forse l'uomo udir non può, che sopra</l>
+<l>ora gli ronza più che prima, d'api</l>
+<l>tornate ai fiori, la pasciuta siepe;</l>
+<l>e d'ogni pioppo ora risuona il canto</l>
+<l>d'un rusignolo; il dolce e triste canto</l>
+<l>ch'e' fa notturno, e che somiglia al pianto.</l>
+<l>E il migratore cómpita presago</l>
+<l>a campi e nubi le sue voci strane;</l>
+<l>e quatte quatte nelle placide acque</l>
+<l>strepono or qua, le vecchie rane, or là.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XIV</head>
+<lg>
+<l>Dice <hi rend="sc">VIRGILIO</hi>: "Oh! troppo fortunati</l>
+<l>agricoltori, cui la madre terra</l>
+<l>latta da sé, come una buona madre!</l>
+<l>Giusta è la terra e non ti nega il cibo,</l>
+<l>la madre, mai: se il grano è poco, l'uva</l>
+<l>è tanta: è sempre di qualcosa, annata.</l>
+<l>Poi, c'è la pace, e le gioconde feste,</l>
+<l>e il sonnellino sotto un olmo, al canto</l>
+<l>delle cicale, al mormorìo dell'acque.</l>
+<l>Tu non sei ricco ed accallato hai l'uscio,</l>
+<l>sempre, di casa, e la gallina becca</l>
+<l>nell'atrio tuo; non hai tappeti e bronzi,</l>
+<l>e non odora, l'aia tua, d'amomo:</l>
+<l>ma il bimbo ricco, in casa tua, s'invoglia</l>
+<l>di tutto, e tutto ammira, e tutto chiede,</l>
+<l>il pane, il pomo, il latte, l'uovo; e sente</l>
+<l>che il buono e il tutto è quello che non ha.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XV</head>
+<lg>
+<l>Cerchino gli altri il pallido oro e il plauso</l>
+<l>vertiginoso e lascino la soglia</l>
+<l>trita dai loro, e migrino: tu resta.</l>
+<l>Tu con l'aratro i piccoli nepoti</l>
+<l>nutri, e la Patria, e tieni gli occhi in alto,</l>
+<l>perché tu segui a mano a mano il sole.</l>
+<l>Viene l'inverno, e tu godi il fruttato,</l>
+<l>frangi le ulive e affumi quel secondo</l>
+<l>orto ch'è il porco che mangiò la ghianda.</l>
+<l>La notte, vegli, appunti faci, o tessi</l>
+<l>valletti e cesti; e la tua moglie canta,</l>
+<l>tra l'alternar dei pettini e dei licci.</l>
+<l>Oppure schiuma, più vicina, al fuoco,</l>
+<l>con una foglia l'onde che traboccano,</l>
+<l>entro il paiuolo tremulo, del mosto.</l>
+<l>O notti! O vita dolce assai, ch'ha sempre</l>
+<l>amor la notte, come sole il dì!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XVI</head>
+<lg>
+<l>E perché migri? e perché fuggi? Grande</l>
+<l>assai non t'è questo tuo verde campo?</l>
+<l>Non ha la siepe, che lo fa più grande</l>
+<l>perché più tuo? Mugliano i bovi, i galli</l>
+<l>cantano, l'api ronzano. Qui tutto</l>
+<l>avrei passato, io, senza gloria, il tempo!</l>
+<l>Qui, la giustizia, che tornava al cielo,</l>
+<l>sostò, lasciando una parola in terra:</l>
+<l>- Non l'uno il troppo ed abbia l'altro il poco!</l>
+<l>Pace abbia il cuor dell'uomo e non lo muova</l>
+<l>il ricco all'astio ed il mendico al pianto! -</l>
+<l>Va coi vicini, poi ch'è festa, e steso</l>
+<l>con lor su l'erba, e col cratere in mezzo,</l>
+<l>bevi giocondo... Vissero nei campi</l>
+<l>i forti antichi popoli; l'aratro</l>
+<l>il solco eterno disegnò di Roma;</l>
+<l>l'<hi rend="sc">ITALIA</hi> detta dai giovenchi, è qui".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XVII</head>
+<lg>
+<l>- <foreign lang="eng" rend="italic">I am Italian</foreign></l>
+<l><foreign lang="eng" rend="italic">I am hungry</foreign>... -</l></lg>
+<lg>
+<l>All'ombra</l>
+<l><hi rend="sc">VIRGILIO</hi> siede, non a lui veduto;</l>
+<l>ed in quel core egli ode la querela</l>
+<l>del fuggitivo suo pastore antico.</l>
+<l>"Non anche dunque al lor levante primo</l>
+<l>vennero gli astri e ricominciò l'anno</l>
+<l>dell'Universo? E non ne diede il segno</l>
+<l>a cieli e terre un fievole vagito?</l>
+<l>Non ritornò la Vergine? Non prese</l>
+<l>dunque a regnare, luce e vita, il Sole?"</l>
+<l><hi rend="sc">VIRGILIO</hi> pensa che il vicin suo gramo</l>
+<l>fugge dai campi, oh! non a lui, no, dolci,</l>
+<l>ch'egli ha solcato con servile aratro</l>
+<l>e bovi d'altri, per il pane e il sale.</l>
+<l>"Dunque non è ricominciato il regno</l>
+<l>del Dio latino, di quel Dio che giusto</l>
+<l>semina e miete? E Roma non è più?"</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">XVIII</head>
+<lg>
+<l>O buon profeta! o anima immortale</l>
+<l>di nostra gente! La Saturnia terra</l>
+<l>torni a chi l'ama, a chi la vanga ed ara!</l>
+<l>Rieda a' suoi posti il migratore, e parco</l>
+<l>alcuni scabri iugeri redima,</l>
+<l>come il tuo vecchio Cilice, e vi pianti</l>
+<l>la sua casetta, e viti ed arnie e fiori,</l>
+<l>grano per casa, e fieno pei giovenchi,</l>
+<l>e pei nepoti il molto cauto ulivo!</l>
+<l>Tu sei con noi: la voce tua che suona</l>
+<l>mista di trilli, di ronzii, di mugli,</l>
+<l>dal cielo annunzia il nuovo tempo umano.</l>
+<l>Per tutto ondeggia, senza reste, il grano,</l>
+<l>il miele sgorga dalle cave quercie,</l>
+<l>e pende l'uva dagl'incolti pruni.</l>
+<l><hi rend="sc">ITALIA! ITALIA</hi>!... Ed altri eroi son nati,</l>
+<l>e sarà, tutto, ciò che ancor non fu.</l></lg>
+</div3>
+</div2>
+<trailer><hi rend="sc">VITA SIT UT VITIS</hi></trailer></div1></body>
+<back>
+<div1 type="note">
+<head rend="italic">NOTE</head>
+<div2 type="parte">
+<head>Pag. 29 - LA MORTE DEL PAPA</head>
+<p>Vorrei che il lettore ricordasse certi particolari della morte di Papa Leone; per esempio questo: "Ricordò, tra l'altro, come all'età di otto anni,.. fosse colto da grave malore per una scalmanata presasi... correndo all'impazzata con alcuni suoi giovani amici... Il Papa è da stamane in preda ad un delirio calmo, con brevi momenti di conoscenza" ("Tribuna" del 15 luglio 1903). Morendo si torna bambini.</p>
+<p>Poi bisognerà che io gli spieghi qualche parola del linguaggio montapino che usava la vecchiettina dell'Alpi.</p>
+<p><hi rend="italic">Accecare il melato</hi>: accendere il fuoco nel Beccatoio delle castagne.</p>
+<p><hi rend="italic">accòrto</hi>: facile, speditamente. Le gambe di Lano (<title>Inf.</title> <hi rend="sc">XIII</hi>, 120) non erano <emph>spedite</emph>? E Dante dice: <emph>accorte</emph>.</p>
+<p><hi rend="italic">annata (è)</hi>: sott. buona, <emph>piena</emph>.</p>
+<p><hi rend="italic">appietto (fare)</hi>: far la còlta definitiva.</p>
+<p><hi rend="italic">aspro</hi>: irruvidito.</p>
+<p><hi rend="italic">avvilito</hi>: cascante di debolezza.</p>
+<p><hi rend="italic">banco</hi>: armadio per la biancheria, per le vesti ecc.</p>
+<p><hi rend="italic">bocconcin santo</hi>: un buon boccone che si tiene per ultimo.</p>
+<p><hi rend="italic">boracciòlo</hi>: canovaccio.</p>
+<p><hi rend="italic">brancata</hi>: una mano.</p>
+<p><hi rend="italic">calcio</hi>: come a dire, i1 <emph>piede</emph>: contrario di <emph>cimo</emph>.</p>
+<p><hi rend="italic">casalino</hi>: casuccia.</p>
+<p><hi rend="italic">cimo</hi>: così, non <emph>cima</emph>, se è di foglie e d'alberi.</p>
+<p><hi rend="italic">contende</hi>: sgrida.</p>
+<p><hi rend="italic">Curre! Curre!</hi>: grido per chiamar le galline, che da ciò si chiamano anche <emph>currine</emph>.</p>
+<p><hi rend="italic">danno (al)</hi>: per es, a mangiar pampane, granturco.</p>
+<p><hi rend="italic">età (esser d')</hi>: della stessa età.</p>
+<p><hi rend="italic">godo</hi>: scompartimento.</p>
+<p><hi rend="italic">grembialino</hi>: piccolo grembiale per riporvi le castagne.</p>
+<p><hi rend="italic">gronde</hi>: i luoghi dove sono a confino i castagni. Le castagne sono di chi possiede, non l'albero donde cascano, ma il terreno dove cascano.</p>
+<p><hi rend="italic">liso</hi>: rotto o ragnato: si dice dei drappi.</p>
+<p><hi rend="italic">macèa</hi>: muricciolo a secco, pieno d'erba.</p>
+<p><hi rend="italic">maggio o maggino</hi>: ramoscello fiorito.</p>
+<p><hi rend="italic">male (stare)</hi>: star <emph>molto</emph> male!</p>
+<p><hi rend="italic">mèsse</hi>: polle, latte, vermelle.</p>
+<p><hi rend="italic">omo, mi' omo</hi>: si dice, scherzosamente, ai bambini, quasi a dichiararli l'aiuto di casa.</p>
+<p><hi rend="italic">pannello</hi>: grembiule.</p>
+<p><hi rend="italic">pensiere</hi>: cappiettino per infilarvi la rócca.</p>
+<p><hi rend="italic">pianette</hi>: scodelle.</p>
+<p><hi rend="italic">pover (il)</hi>: il fu.</p>
+<p><hi rend="italic">pratina</hi>: plur. neutro.</p>
+<p><hi rend="italic">prode</hi>: pro'.</p>
+<p><hi rend="italic">rapacchiotto</hi>: bel figliolone.</p>
+<p><hi rend="italic">rappa</hi>: spiga o pannocchia.</p>
+<p><hi rend="italic">rastellinetto</hi>: piccolo rastello o ruspa per trovar le castagne in terra tra il mustio e le foglie.</p>
+<p><hi rend="italic">recchia</hi>: (da <emph>reicula</emph>?): pecora che non <emph>fa</emph> ancora.</p>
+<p><hi rend="italic">ricotto</hi>: non <emph>ricotta</emph>: latte ricotto.</p>
+<p><hi rend="italic">ripire</hi>: salire.</p>
+<p><hi rend="italic">rotello</hi>: da noi romagnoli, <emph>torsello</emph>. Rotolo di tela.</p>
+<p><hi rend="italic">rumare</hi>: frugare.</p>
+<p><hi rend="italic">ruspa (alla)</hi>: a cercar le castagne dopo la còlta definitiva.</p>
+<p><hi rend="italic">sa (ci)</hi>: conosce la strada.</p>
+<p><hi rend="italic">sgaruglio</hi>: viottola dirupata.</p>
+<p><hi rend="italic">smerlucciare</hi>: guardar qua e là in sospetto.</p>
+<p><hi rend="italic">soppianello</hi>: specie di piccola madia.</p>
+<p><hi rend="italic">sottofigli</hi>: figli de' figli, nepoti abiatici.</p>
+<p><hi rend="italic">stabbiato</hi>: il fimo delle pecore.</p>
+<p><hi rend="italic">stradare</hi>: continuare la strada.</p>
+<p><hi rend="italic">strino</hi>: peronospora.</p>
+<p><hi rend="italic">tavìa</hi>: tuttavia.</p>
+<p><hi rend="italic">tiglia</hi>: filamento della canapa.</p>
+<p><hi rend="italic">torchiettino</hi>: da <emph>torchio</emph>: legame.</p>
+<p><hi rend="italic">trèmo</hi>: tremito, scossone.</p>
+<p><hi rend="italic">troppo (più)</hi>. Così dicono, non <emph>pur troppo</emph>.</p>
+<p><hi rend="italic">uguanno</hi>: quest'anno.</p>
+<p><hi rend="italic">vincigli</hi>: rami di castagno, serbati al verno, per cibo alle bestie.</p>
+<p><hi rend="italic">vuol</hi>: con un participio: si sott. <emph>essere</emph>.</p>
+</div2>
+<div2 type="parte">
+<head>Pag. 43 - ZI MEO</head>
+<p>Questo caro amico campagnolo morì non proprio vecchio per quei posti, nell'ottobre del 1906, a 72 anni. Morì, più che per altro, di tristezza e scoramento. Onore alla sua memoria!</p>
+</div2>
+<div2 type="parte">
+<head>Pag. 47 - NANNETTO</head>
+<p>Questo giovinetto morì a Zurigo dove suo padre, Giovanni Conti, altro mio caro amico, teneva bottega. Ora il padre è tornato alla nativa campagna di Castelvecchio, ma senza il diletto primogenito. Era pien d'amore Tonino o <emph>Nannetto</emph>, come lo chiamavo io, per i suoi, e voleva anche molto bene agli animali, colombi, conigli, caprine. Nella sua bottega a Zurigo teneva uno scoiattolo, nella sua casa a Castelvecchio aveva lasciate due colombe che accorrevano a un suo fischio.</p>
+</div2>
+<div2 type="parte">
+<head>Pag. 101 - LA PIADA</head>
+<p>È il pane, anzi il cibo, direi, nazionale dei romagnoli. Si fa senza lievito e si cote sopra un <emph>testo</emph>. Rassomiglia quindi agli azimi che gli Ebrei mangiano per Pasqua insieme <foreign lang="lat" rend="italic">cum lactucis agrestibus</foreign> (<title>Num.</title> 9, 11) .È pane affrettato e ognuno lo fa da sé. È il pane primitivo: <foreign lang="lat" rend="italic">panem... primo cinis calidus et fervens</foreign> testa <foreign lang="lat" rend="italic">percoxit, deinde furni paulatim reperti</foreign> (<hi rend="sc">SEN.</hi> <title>Ep. mor.</title> 90, 24). O vedete, miei conterranei, che non c'è bisogno di cercare un equivalente italiano alla parola testo, che è latina latinissima (oltre <emph>testa</emph>, c'è anche <emph>testu</emph>)? E non è bello sostituire a <emph>piada</emph> (da <emph>plata</emph>, che é un relitto greco delle nostre spiaggie che tanti altri ne hanno, come <emph>matra</emph> per madia, <emph>calzèdar</emph> per brocca od orcio), quella cara <emph>pizza</emph> che i napoletani si meraviglierebbero molto se sapessero che i nostri contadini la mangiano a desinare e a cena. <emph>Piada</emph> dunque cotta sul <emph>testo</emph>. E sia il pane del Calendimaggio, la qual festa è o deve essere il <emph>passaggio</emph>, il <emph>Phase</emph>, dalla vecchia Èra alla nuova. E nel <emph>passaggio</emph>, è convenevole cibo quello dei tempi primi, quello degli Ebrei che scampano alla servitù, quello dei venuti dall'oriente nella terra Saturnia. Ricordate? Leggete Virgilio, nell'<title>Eneide</title>, libro <hi rend="sc">VII</hi>, versi 109 e segg. Dove imparerete che in latino si chiamavano <foreign lang="lat" rend="italic">quadrae</foreign> quelli che noi eredi e fedeli di Roma chiamiamo <emph>quadrett</emph>. E vedete <hi rend="sc">HOR</hi>. <title>Ep.</title> <hi rend="sc">I</hi>, 17, 49; <hi rend="sc">VERG</hi>. <title>Moretum</title> 47; <hi rend="sc">SEN</hi>. <title>Ben.</title> <hi rend="sc">IV</hi>, 29, 2.</p>
+</div2>
+<div2 type="parte">
+<head>Pag. 108 - GLI EMIGRANTI NELLA LUNA</head>
+<p>Lessi in un giornale che alcuni poveri contadini russi s'erano dati a credere di poter salire sulla luna e lì trovare terra e libertà. Uno studente leggeva a loro, mi pare, un romanzo di Verne. Nel mio poemetto si tratta invece d'un libro d'astronomia.</p>
+</div2>
+<div2 type="parte">
+<head>Pag 145 - PIETOLE</head>
+<p>Bisogna aver presenti di Virgilio, specialmente l'<title>Ecloga</title>, <hi rend="sc">I</hi>, <hi rend="sc">IV</hi>, <hi rend="sc">IX</hi>, le <title>Georg.</title> tutte, e in particolare i notissimi episodi delle lodi d'Italia e della .vita rustica, 1'Eneide qua e là, fermandosi sui versi 521 segg, del libro <hi rend="sc">III</hi>, sui 782 segg., 793 segg. del libro <hi rend="sc">VI</hi>, sui 91 segg. Dell'<hi rend="sc">VIII</hi>. Ma certo anche questo mio additamento è superfluo. I miei lettori, non molti ma buoni, conoscono colui che è veramente il nostro poeta nazionale.</p>
+<p>I quali, intorno ai particolari accennati nella strofa <hi rend="sc">V</hi>, devono ricordare Donato in <title>Vergilii vita</title>, 1-6. Narra Donato che il padre di Virgilio, prima fattore poi anche genero d'un tal Magio, accrebbe il piccolo bene del suocero e con altro e con la coltivazione delle api. Secondo questa <title>Vita</title>, la madre di Virgilio lo avrebbe partorito in campagna, la mattina dopo un sogno augurale. Ella, andando ai campi, sentì le doglie, e allora svoltò dalla sua strada e partorì <foreign lang="lat" rend="italic">in subiecta fossa</foreign>. Che questa fosse un solco, e un solco per il grano, argomento io dal fatto che Virgilio nacque il 15 ottobre. Secondo l'uso del paese, fu nel luogo stesso della nascita piantata una verga di pioppo, che divenne un gran pioppo e si chiamò l'albero di Virgilio e fu considerato sacro; e le donne gravide o uscite di parto vi venivano a fare o sciogliere voti.</p>
+<p>Le <emph>strane</emph> voci del contadino sono tratte da un libretto che Clinio Cottafavi scrisse per gli emigranti del Mantovano. È intitolato <title>Vademecum dell'Emigrante Mantovano</title>, e contiene, oltre molte notizie, <emph>le parole e le frasi più comuni e necessarie per un emigrante</emph>. È un libretto santo che stringe il cuore. Ma via coraggio! L'emigrazione, che pare una fuga, porta poi un grande affluire d'insolita ricchezza nelle campagne italiche, e darà, giova credere, e in tempo non lontano, tutto l'agro nostro in mano a forti, attenti, felici, virgiliani, lavoratori sul suo. Il che si adombra nella conclusione della mia <emph>ecloga</emph>.</p>
+<p>Questo, s'intende, per una faccia del problema, per quelli, cioè, che vanno bensì ma tornano. Quelli che si fermano là dove hanno trovato da far bene... oh! questi altri, se non sono partiti con l'italianità nell'intelletto e nel cuore, se in patria non hanno conosciuto la scuola, sarà ben difficile che cerchino per i loro figli nati nella nuova loro patria l'educazione e l'istruzione italiana che essi nella patria antica non ebbero! E tuttavia molto si può e si deve fare... Ma torniamo a quelli che tornano. I quali tornati, trovano quasi sempre questo saluto nella loro terra.</p>
+<p>"...egli ha (l'emigrato) ancora un nemico mortale, che è stato e sarà la causa di molti suoi mali: l'ignoranza. Il sua desiderio di possedere la terra è così ardente, così febbrile; la fiducia che egli ha di saperla fecondare colle sue braccia è tale e tanta, che la paga il doppio, più spesso il triplo del suo valore. Il proprietario che lo aveva oppresso in passato e che deve ora essere espropriato, profitta di questa ignoranza, e compie l'ultimo sfruttamento. Questo è un fatto generale, notissimo, che segue su larga scala così nel nord come nel sud. La conseguenza inevitabile è che il lavoratore avrà dal capitale, con tanto sudore raccolto, il terzo della rendita che dovrebbe avere".</p>
+<p>Sono parole, queste, d'un gran vecchio... Ecco, a me pare che il gran vecchio, che ha dette queste parole, sia colui che a poppa d'una nave, mentre s'alzava il grido <emph>Italiam Italiam</emph>, libava e pregava e consigliava e augurava. In verità quanto tempo è che egli segna la via e indica il pale e mostra i rimedi! Di lui sì può ripetere ciò che di Mazzini disse Garibaldi: Quando tutti dormivano, egli solo vegliava. Il gran vecchio che parla alto nel silenzio di tutti, è Pasquale Villari (<title>Scritti sulla emigrazione</title>, Bologna, 1909). E anche questa volta propone al guaio il rimedio:</p>
+<p>"Ora io mi domando: non potrebbe l'<emph>Umanitaria</emph> di Milano fare essa quel che fanno queste Società speculatrici, volgendo a vantaggio dei lavoratori ciò che esse hanno intrapreso a vantaggio dei proprietari? Basterebbe che facesse l'esperimento, comprando due tenute, una negli Abruzzi, l'altra nella provincia di Belluno o di Udine, per rivenderle in piccoli lotti agli emigrati, che tornano dall'America, al prezzo normale del loro valore reale, in modo da riprendere tutto il suo capitale, con l'interesse del 3 o del 4%, ripagandosi anche di tutte le spese fatte.</p>
+<p>Questa operazione semplicissima eserciterebbe la sua azione sopra una zona assai più vasta dei ristretti confini in cui l'<emph>Umanitaria</emph> direttamente agirebbe. Impedirebbe l'azione delle Società che speculano a danno dei lavoratori; manterrebbe il prezzo delle terre nei limiti del loro valore reale, senza artificialmente rialzarlo. Renderebbe inoltre, senza nessun proprio aggravio, un beneficio enorme alle condizioni economiche dell'emigrato, compiendo un'opera veramente umanitaria.</p>
+<p>È questa la proposta che io oso sottomettere alla direzione della filantropico Società milanese..."</p>
+<p>La Società milanese ha accettato la proposta? Lo ignoro, ma mi auguro di sì. Intanto giovi aver terminato questo mio libretto col nome venerato e amato di questo difensore d'ogni causa buona.</p>
+<p>Possa egli vincerle sempre!</p>
+</div2>
+</div1>
+</back>
+</text>
+</TEI.2>

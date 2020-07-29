@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//BIBIT//DTD BibIt L1 TEI Document Type//EN" "http://backend.bibliotecaitaliana.it/DTD/bibit-l1.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Il secretario</title>
+                <author>Torquato Tasso</author>
+            </titleStmt>
+            <extent>50000 Kb in UTF-8</extent>
+            <publicationStmt>
+                <publisher>Biblioteca Italiana</publisher>
+                <pubPlace>Roma</pubPlace>
+                <date>2007</date>
+                <idno>bibit001449</idno>
+                <availability>
+                    <p>Questa risorsa digitale è liberamente accessibile per uso
+                        personale o scientifico. Ogni uso commerciale è vietato</p>
+                </availability>
+            </publicationStmt>
+            <seriesStmt>
+                <title>Collezione BibIt</title>
+            </seriesStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Tutte le opere</title>
+                    <author>Tasso, Torquato</author>
+                    <editor id="ed">Quondam, Amedeo</editor>
+                    <publisher>Lexis Progetti Editoriali</publisher>
+                    <pubPlace>Roma</pubPlace>
+                    <date>1997</date>
+                    <note>L'edizione elettronica fa riferimento al testo Le prose diverse, a cura di C. Guasti, II, Firenze, Le Monnier 1875.</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc><samplingDecl>
+            <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                digitale</p>
+        </samplingDecl>
+            <editorialDecl>
+                <correction method="silent" status="medium">
+                    <p>Livello medio: controllo a video con collazione con edizione di
+                        riferimento</p>
+                </correction>
+                <quotation form="data" marks="all">
+                    <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                </quotation>
+                <hyphenation eol="none">
+                    <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                </hyphenation>
+            </editorialDecl><classDecl>
+                <taxonomy id="CGB">
+                    <bibl>Classificazione generi BibIt</bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date>500</date>
+            </creation>
+            <langUsage>
+                <language id="ita">Italiano</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="CGB">
+                    <term>Poesia</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>Data sconosciuta anteriore al 2000</date>
+                <respStmt>
+                    <name>LEXIS</name>
+                </respStmt>
+                <item>Digitalizzazione - OCR</item>
+            </change>
+            <change>
+                <date>Data sconosciuta anteriore al 2000</date>
+                <respStmt>
+                    <name>LEXIS</name>
+                </respStmt>
+                <item>Correzione linguistica</item>
+            </change>
+            <change>
+                <date>2007-02-14T00:00:00.000+02:00</date>
+                <respStmt>
+                    <name>Carla Deiana</name>
+                    <name>BIBIT</name>
+                </respStmt>
+                <item>Codifica XML - Codifica manuale</item>
+            </change>
+            <change>
+                <date>2007-02-14T00:00:00.000+02:00</date>
+                <respStmt>
+                    <name>Carla Deiana</name>
+                    <name>BIBIT</name>
+                </respStmt>
+                <item>Validazione</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <div1><head>Dedica</head>
+<p>Il mio <hi rend="italic">Secretario</hi> è picciol dono, e non atto a pagar
+grande obligo, o a dimostrar intieramente grande affezione:
+ma se le picciole cose ancora non s'accettassero volentieri,
+non si conoscerebbe la benignità di colui che riceve il
+dono; la quale è tanto maggiore, quanto è uomo di più alto
+affare, ed in principe di più rare condizioni. Prego,
+dunque, Vostra Eccellenza che non ricusi almeno questa
+occasione di mostrarsi cortese e magnanimo, ricevendo con
+lieta fronte quel che l'appresenta amorevol ma povero
+donatore: il qual dona poco a chi merita molto, per difetto
+di fortuna non di giudizio, conoscendo la bontà e 'l valore
+di Vostra Eccellenza, e la grandezza e la nobiltà della sua
+Casa; la quale il Signore Iddio prosperi e conservi. E le
+bacio le mani. Di Mantoa, il di 17 di gennaio del 1587.</p>
+<p>Di Vostra Eccellenza illustrissima</p>
+<closer><signed>Affez. ser.
+TORQUATO TASSO. </signed></closer></div1>
+<div1><head>Trattato primo</head>
+<p>Io non ho dubitato s'io dovessi compiacervi in quel che mi
+ricercate, perchè niun dubbio è nella nostra amicizia; ma in
+qual modo io potessi far più convenevolmente quel che mi
+dimandate, o dando le regole dello scriver lettere, o
+formando un perfetto secretario: perchè l'una e l'altra cosa
+insieme è molto difficile da congiongere, se vogliamo aver
+riguardo a Marco Tullio, il quale scrisse in libri separati
+l'idea del perfetto Oratore e gli Ammaestramenti retorici;
+perchè in quelli c'inalziamo a la considerazione
+dell'eccellenza, e comprendiamo con la mente un non so che
+di più alto e di più esquisito, che non sono gli scritti
+medesimi; ma in questi lo stilo alcune volte s'abbassa a le
+cose minute e particolari. E s'io volessi in questo mio
+Trattato darvi i precetti, e mostrarvi insieme la perfezion
+del secretario, quasi in imagine o in ritratto, farei
+peraventura cosa che parrebbe disegnata da vari maestri e
+colorita da mani diverse con diverso artificio; nella quale
+si mettesse diligenza soverchia nell'unghie e ne' capelli,
+ma la somma dell'opra fosse infelice. Lascierò, dunque, da
+parte alcuni avertimenti, i quali si danno del modo dello
+scrivere; perchè voi potrete facilmente leggerli in Demetrio
+Falereo, in Gregorio Nazianzeno, ed in alcuni moderni che
+nacquero di là da' monti; e quelli ch'io darò, saran più
+tosto simili a' cenni degli amici ch'a gli espressi
+commandamenti de' maestri. Perchè niuna cosa è data per
+legge inviolabile, ove si lascia libera l'elezione a la
+prudenza ed a l'accorgimento del secretario; ma si pone
+alcuna volta la sua eccellenza nel disprezzo di quelle cose
+che sono insegnate da' Retori, e s'acquista la prima lode
+non ricercandola affettuosamente, ma ricusandola
+modestamente e quasi riputandola soperchia nell'operazione e
+dannosa per conseguir la grazia da' padroni; in quel modo
+che sono gl'impedimenti nell'esercito, i quali si difendono
+da' nemici per riputazione, non perchè alcune volte non
+possano ritardar la vittoria. Sia dunque riposto il
+secretario, non fra le scuole, nè fra l'academie, ma nelle
+Corti e nel campo e co' principi e co' generali: o sia
+condotto in Vaticano, come fu il Bembo, e gli sia aperta la
+strada a gli altissimi onori, la qual per l'a dietro non gli
+fu mai rinchiusa: ma prima che egli arrivi a questa dignità,
+dee correre per tutti gli spazii della dottrina, e passar
+per tutte quelle scienze che son dette circolari, e
+partirsene non come fanno i mercanti da la fiera, ma a guisa
+di coloro i quali comprano alcune cose per ornamento: non
+essendo suo ufficio d'insegnar maestrevolmente, nè di far
+esatta dimostrazione delle cose ch'egli scrive; ma di
+servire il padrone con acconcio modo, e di persuaderlo non
+tanto con le parole, quanto con la secretezza e con la fede:
+avegnachè tutta la servitù e tutta la vita del secretario
+sia una tacita persuasione. Nondimeno, perchè egli dee
+adoprarsi per servigio del padrone, e molte cose trattare in
+suo nome con gli altri, e per gli altri con esso lui, dee
+scrivere e parlare eloquentemente, e congiungere insieme
+queste due parti, le quali rade volte si congiunsero fra gli
+antichi: perciò che l'una fu lasciata a' Sofisti, come
+furono Ippia e Gorgia ed Alcidamante; e fra questi è
+numerato Socrate medesimo: l'altra era propria degli
+oratori; io dico Pericle ed Alcibiade e somiglianti: ma si
+congiunsero nondimeno in Demostene prima, e da poi in Marco
+Tullio, i quali parlarono eloquentissimamente nel Senato di
+Atene e di Roma, e lasciarono l'orazioni quasi eterne
+memorie del nome loro. Ma Cicerone lasciò, con l'altre sue
+opere, due libri d'Epistole, le Famigliari e quelle ad
+Attico: le quali non dee mai lasciare il secretario, perchè
+da loro s'apprende non solamente l'eloquenza, ma la
+prudenza. E quantunque il mondo abbia mutato forma, e quasi
+faccia e sembianza, perciò che da la corruzione degli
+antichi regni dell'antiche republiche se ne sono generate
+dell'altre, e 'l nuovo imperio acquistato e mantenuto con
+l'autorità e con l'armi, e la nova e santissima religione e
+'l santissimo pontificato abbiano introdotti altri costumi
+ed altre cerimonie, e quasi altra vita; nondimeno niun
+gentile è più degno d'essere imitato di Marco Tullio: e se
+niun vestigio ci rimane di libertà, d'altezza d'animo, di
+sincerità, di gravità di costumi, di somma costanza di
+volontà, di somma incostanza della fortuna, si vede
+nell'opre sue più espressamente, che in quelle d'alcun
+altro. Ma egli scrisse come padre della patria, e come
+amatore della libertà; e 'l nostro secretario scrive come
+figliuolo dell'ubedienza, e come amico della servitù. Laonde
+la imitazione in tanta dissimilitudine e diversità di cose
+non è sicura, se non dove il giudicio è senza difetto, e
+scieglie le cose convenienti. Può, dunque, da lui prendere
+la copia e la varietà e le ricchezze dell'orazione, e
+raccoglier que' semi di prudenza, che sono sparsi ne' suoi
+libri, quasi in fecondissimo campo, i quali poi deono esser
+maturati nelle Corti da l'uso e da l'esperienza. E come le
+piante sono trasportate da l'una nell'altra regione; così da
+la favella de' Greci e de' Latini deono trasportarsi nella
+nostra i concetti e le sentenze e gli altri ornamenti del
+parlare: come fece mio Padre, il quale in ciò
+particolarmente meritò molta lode, nè fu lasciato a dietro
+da alcun altro. Nè solo da l'epistole deono esser tolte, ma
+da gli altri luoghi: perchè il secretario è quasi oratore, e
+tutti i generi dell'orazione si veggono nell'epistole, se
+non espressi, almeno adombrati: perciò che in loro s'accusa
+e si difende; la qual parte è diligentemente trattata da
+Marco Tullio in quelle ch'egli scrive ad Appio il Bello:
+alcuna volta consiglia e persuade; come nell'altre che
+scrive a Curione, a Lentulo, a Marcello ed a Lucio: alcune
+loda, come scrivendo ed a Servio Sulpicio ed a Catone. Nè
+solamente si lodano gli uomini, ma i paesi; come fa Plinio
+descrivendo il suo Laurentino, e mio Padre nella descrizione
+di Napoli e di Sorrento. E 'l rallegrarsi e 'l consolare e
+'l raccomandare sono ancora ufficii dell'oratore, dal quale
+gli apprende il secretario. Laonde deono esser trattati con
+molta eloquenza; perchè l'arte oratoria non è ristretta in
+que' tre generi, quasi dentro a' confini ed a' cancelli. E
+quantunque vi si rinchiuda spesse volte, nondimeno l'è
+conceduto l'uscirne, ed albergar non solo nelle scuole de'
+filosofi e nell'academie de' letterati; ma ne' tempii de'
+religiosi, e nelle Corti, e nelle abitazioni de' principi, è
+molto spesso onorata. Onde il secretario ne dovrà esser
+fornito a bastanza. E quantunque i generi dell'orazione sian
+diversi da quelli dell'epistola (perchè tre son quelli
+dell'orazione, come abbiam detto; il demostrativo, il
+deliberativo e 'l giudiciale: e tre quelli dell'epistole,
+come piacque a Cicerone; il primo de' quali è cortissimo, e
+consiste nel dare aviso a gli amici lontani di quelle cose
+ch'appartengono a chi scrive, o a colui a chi si scrive; il
+secondo è delle materie gravi e severe; il terzo, delle
+piacevoli e giocose), nondimeno questa distinzione e quasi
+divisione de' confini è tra 'l picciolo oratore e 'l
+picciolo secretario; i quali, a guisa de' poveri
+posseditori, hanno temenza che non sia loro occupata alcuna
+parte della possessione: ma 'l grande oratore e 'l gran
+secretario fanno quasi communi tutte le cose, e con
+amichevole confusione l'un passa nel podere dell'altro. È,
+dunque, il nostro secretario oratore; e l'arte dello scriver
+lettere è molto simile a quella dello scrivere orazioni:
+benchè questa, della qual parliamo, paia più tosto una
+potenza o facoltà, perch'ella è delle cose contrarie. Io
+dico del silenzio e del parlare, perchè il tacere e 'l
+ragionare sono egualmente ufficii del secretario; il quale
+dee conoscere i tempi dell'uno e dell'altro, e la diversità
+delle cose che deono esser dette e taciute: nondimeno egli
+prende il nome dal silenzio, come da parte ch'è di maggiore
+importanza: avegna che niuna cosa più si ricerchi nel
+secretario che la fede, per la quale egli dee esser
+fedelissimo guardator de' secreti: e se le virtù e l'arti
+sono scienze, l'arte della secretaria non sarà altro ch'una
+scienza delle cose che deono esser tenute secrete e
+rivelate, ed il secretario sarà scrittore di cose secrete.
+Benchè s'egli in questo modo fosse diffinito, la
+diffinizione si prenderebbe da una sua parte; perchè le
+lettere, le quali oggi sono usi di scrivere i secretari, si
+possono dividere in due generi principali: l'uno del
+negozio, e l'altro del compimento. E nel primo genere io
+ripongo tutto quello che appertiene a colui che scrive, o a
+chi si scrive: nell'altro raccolgo le lettere che si mandano
+rallegrandosi o dolendosi, o le raccomandazioni, e l'altre
+sì fatte. E perciò che i nascimenti de' principi, e le
+nozze, e le dignità acquistate e concedute, nelle quali
+usiam di rallegrarci, sogliono esser publiche; può il
+secretario senza biasimo ragionarne con gli amici, e
+similmente nelle morti, e nella perdita de' beni, e
+nell'esilio, e negli altri infelici avenimenti, ne' quali
+sogliamo dolerci. Laonde compiutamente s'esprimerà l'ufficio
+del secretario dicendosi, ch'egli sia interprete della
+volontà, e conservator de' secreti del principe. E perciò
+che l'interprete può esser severo e clemente, meriterà
+sempre maggior lode nella clemenza che nella severità:
+conciosiacosa che il secretario, per la dimestichezza
+ch'egli ha co 'l principe, dee quasi ammollire il rigore
+delle leggi, e temperar l'asprezza delle pene: e nel
+presentar delle suppliche esser tanto favorevole a gli
+amici, che la sua autorità sia quasi rifugio de'
+supplichevoli. E questa medesima bontà d'animo dee mostrar
+nell'interpretar le lettere che sono scritte al principe: le
+quali essendo prese in sinistra parte, potrebbono esser
+cagione di liti e d'inimicizie e di male sodisfazioni. E
+quantunque s'appertenga al secretario più tosto di eseguir
+la volontà del padrone, che di manifestar la sua; nondimeno
+molte cose si rimettono nel suo giudicio e nella sua
+prudenza: nelle quali egli può usare le parole più
+convenevoli a l'amicizia, che suole esser conservata con gli
+ufficii fatti nelle sue lettere: onde chi volesse chiamarli
+espressioni d'amore, userebbe nome conveniente. Ma le
+lettere si scrivono molte fiate ancora per significazione
+d'onore: laonde la dimostrazione non dee essere solo
+dell'amore, ma dell'onore parimente, il quale dee
+manifestarsi nelle parole scritte dal secretario in guisa
+che 'l principe, il quale le riceve, ne resti sodisfatto; a'
+nostri tempi massimamente, ne' quali tutte le cose son
+misurate con l'estimazione e con l'utilità. Laonde le
+significazioni fatte per onorare alcuno, o sia eguale o
+inferiore, non deono esser simili a le misure degli osti, nè
+meno esser grandi ove si compra, e picciole dove si vende.
+Se pur i titoli e l'altre parole significative d'onore son
+comprate co' servigi e con ufficii, anzi è giudicato scarso
+ed ingrato chi le distribuisce avaramente: benchè non possa
+esser riputata ingiustizia usar l'antiche misure, le quali
+furono usate da' padri e da gli avi; e deono esser note al
+secretario, non altramente che l'altre, con le quali si
+vende il vino e l'olio e 'l frumento, son conosciute da gli
+altri magistrati. Tuttavolta sogliono spesso riformarsi, e
+farsene delle nuove, ed annullarsi le vecchie: onde il
+secretario dee non solamente esser informato de' titoli
+usati nell'antiche istorie, e di quelli che si leggono ne'
+privilegi e negli instrumenti e nell'altre scritture
+conservate da' principi; ma conoscere anche la natura delle
+cose, ed intender la forza de' vocaboli, e la ragion loro, e
+la derivazione; come intende il signor Benedetto Manzuolo,
+il quale possede tutte le lingue e tutte le scienze: ed egli
+stima che tanto vaglia <hi rend="italic">Altezza</hi> tra' volgari quanto
+<hi rend="italic">Celsitudo</hi> fra' latini; tal ch'essendo a' Principi d'Este
+conceduto l'uno di questi titoli, l'altro non si può negare
+in modo alcuno: ma da loro è stato preso come ereditario con
+gli Stati e con la grandezza nella quale sono succeduti. Ma
+perchè sovra molte cose, delle quali suol trattare il
+secretario, posson esser fatti i decreti e gli ordini delle
+città e de' principi; conviene che 'l secretario sia di
+tanto sentimento nelle leggi civili, che basti per
+eseguirli; e paragonandosi insieme con la consuetudine, si
+può assomigliar la legge scritta a la tirannide, come
+assomigliò Dion Crisostomo, e la consuetudine al regno; e se
+i Re sono sopra le leggi, essi nondimeno seguono la
+consuetudine. Laonde i titoli e gli altri onori, che son
+fatti per usanza, dovriano esser usati da' Re medesimi. Il
+parer, dunque, de' secretari dee esser tanto preferito a la
+sentenza de' giudici, quanto è la consuetudine a le leggi;
+perchè alcuna legge non vale nella guerra, anzi tutte
+soglion tacere fra lo strepito dell'armi e fra lo spavento
+delle bombarde: ma la consuetudine è conservata appresso
+ciascuno ancora nelle estreme inimicizie; e le scritte leggi
+erano custodite nelle tavole e nelle colonne: ma la
+consuetudine si custodisce negli animi nostri. Ed oltre a
+ciò, la legge scritta è severa e crudele: ma della
+consuetudine niuna cosa è più soave. Onde le leggi sogliono
+facilmente dimenticarsi; ma della consuetudine non è
+oblivione. Ma perchè non intendiamo di ogni consuetudine, ma
+di quella de' buoni, la quale è veramente consuetudine; a
+questa il secretario dee aver principal riguardo, senza
+entrare in altro riguardamento, se non volesse considerar la
+natura delle cose e de' nomi; perchè alcuni d'essi sono in
+qualche modo per natura, com'è piaciuto a' Platonici ed a
+que' Peripatetici i quali hanno congiunta l'una e l'altra
+filosofia. E tra' nomi sì fatti possono annoverarsi gran
+parte di que' titoli che soglion darsi a' principi: però,
+chi gli biasmasse, presumerebbe contra la natura delle cose
+medesime. E se la legge ne' tempi antichi fece così stimar
+l'oleastro, e l'appio, e 'l pino, e la corona di verdi
+frondi; cose vili in se medesime e di poco prezzo: a' nostri
+tempi la legge, la concessione de' principi sovrani, e la
+consuetudine ha fatte degne di maggior stima le corone che
+son poste sovra l'arme, e l'altre dimostrazioni d'onore; le
+quali tutte deono esser note al secretario, ed intesa la
+cagione, e l'origine, e 'l modo d'usarle; acciò ch'egli
+possa onorar ciascuno secondo il suo merito e la sua
+grandezza, avendo considerazione a la volontà del suo
+principe; per la quale posson riformarsi gli antichi ordini
+e le vecchie consuetudini, s'elle non fossero state ben
+introdotte. Ed in vero, in questa parte il principe non può
+avere miglior consigliero del secretario che noi formiamo;
+il quale dee esser non solamente orator ma filosofo, cioè
+conoscitor della natura delle cose e de' nomi. E
+particolarmente dee mostrar nella filosofia de' costumi la
+sua eccellenza: perciò che, s'a niuna composizione si
+conviene esser costumata, si conviene a la lettera, come ci
+insegna il Falereo; essendo ella una imagine dell'animo
+nostro: e come le pitture di Polignoto meritavano maggior
+lode che l'altre perch'imitavano i buon costumi; così quelle
+son più laudevoli epistole, che meglio dimostrano la bontà
+interiore. È dunque il secretario a guisa di pittore, il
+quale adoprando i colori e i lumi delle parole e delle
+sentenze, dipinge la forma e i lineamenti dell'animo. Ma
+alcuna volta dimostra l'animo suo medesimo, alcuna quello
+del principe; però molta diversità dee esser fra l'une e
+l'altre: e molto riguardo dee aversi al decoro del padrone;
+onde molte cose, le quali son dicevoli co 'l servitore,
+sarebbono sconvenevoli al padrone. E perchè a' grandi ed a'
+magnanimi si conviene usar poche parole, le lettere de'
+principi deono esser scritte brevemente: e tali sono tra'
+Greci quelle di Falari, la cui tirannide più tosto fu colpa
+della fortuna che difetto della volontà: e fra' Latini,
+quelle di Traiano, ottimo imperatore. E ciò dee osservarsi
+ancora per un'altra ragione, perchè la brevità conviene a lo
+stil grave: ma i principi deono esser gravissimi,
+particolarmente scrivendo a soggetti ed a vassalli, a' quali
+si commanda: perciò che il commandare si fa con poche
+parole; ma il supplicare, a l'incontro, ne ricerca molte.
+Onde tutte quelle lettere che dal secretario o da gli altri
+si scrivono al principe supplichevolmente, deono esser
+lunghe, anzi che non, ma non ecceder la debita lunghezza;
+perchè il pensiero de' principi il più delle volte è
+impedito, e gli animi da le infinite sollecitudini sono
+occupati; talchè breve spazio di tempo posson compartire a
+la lezion delle cose. E quelle lettere che si scrivono a'
+principi deono esser più tosto piene di concetti che di
+parole, acciò ch'in un breve spazio di carta s'appresenti
+loro poco da leggere e molto da considerare. E l'altezza
+dello stilo è conveniente a questa sorte di lettere, che
+sono scritte a' Re ed a le città: ma l'altre, che 'l
+secretario scrive in suo nome a gli amici ed a' famigliari,
+deono esser scritte in stilo men alto; perchè la forma
+dell'epistola, communemente parlando, in quanto appartiene a
+l'artificio, è mescolata, come piace a Demetrio, di due
+caratteri; del venusto, che si può dir grazioso, e del
+tenue, che si direbbe sottile non disconvenevolmente. Talchè
+in questa sorte di lettere sono convenevoli le lusinghe con
+gli amici, ed i vezzi, e i proverbi, e i giochi, e gli
+scherzi; e i leggiadri motti sarebbon convenientissimi, dei
+quali il volgar fiorentino è più ricco e più copioso che
+alcun altro. Laonde i Fiorentini, o coloro che lungamente
+sono vissuti in Fiorenza, sanno mordere e pungere più
+graziosamente degli altri, ed unger parimente. Ma il
+motteggiare non si fa con tanta grazia nè con tanta vivacità
+da i Lombardi o da gli altri che son nati nell'altre parti
+d'Italia. Però deono usar più tosto la gravità e l'ornamento
+delle parole, nelle quali possono esser non inferiori con
+l'esempio non sol di Platone, ma di Demostene e di Marco
+Tullio, che usarono alcuna volta le sentenze, l'uso delle
+quali nell'epistole è riprovato dal Falereo: perch'egli
+stima che 'l parlar sentenzioso sia quasi un parlar per
+macchina. E senza dubbio non convengono elle a tutti gli
+uomini nè a tutte l'età, nè sempre si deono usare, nè in
+tutte le materie; ma rade volte, per accrescer gravità a le
+persone per le quali sono usate da gli uomini gravi, o per
+far testimonianza, come se ci fosse negata fede: perciò che
+disse Marco Tullio, ch'egli stimava ch'ogni detto d'Euripide
+fosse un testimonio. Riceve, dunque, l'epistola alcuna volta
+le sentenze; ed oltra questo, ha le proprie dimostrazioni:
+per esempio delle quali si può addurre quella d'Aristotile,
+che meritò nelle epistole grandissima lode, come ch'elle non
+siano pervenute nelle nostre mani. Perchè volendo egli
+insegnarci, che nell'istesso modo si deono fare i beneficii
+a le città grandi ed a le picciole, disse che gl'Iddii erano
+eguali. Ma tutte queste cose useremo con gran distinzione
+dei tempi e delle materie e delle persone, e con gran
+diversità di quel che conviene a ciascheduno. Ma perchè il
+secretario non dee esser perfetto in un sol genere, ma in
+tutti; non in una sola forma, ma in tutte le forme; dee
+scriver le materie piacevoli piacevolmente, e le severe
+severamente, mescolando la piacevolezza con la severità;
+lusingar gli amici, ed onorare i padroni; avisare i
+cittadini, accarezzar i forastieri; e nei motti esser acuto,
+negli scherzi accorto, nelle sentenze grave, nelle
+dimostrazioni ingegnoso, nei costumi candido, nei movimenti
+affettuoso, negli ornamenti magnifico, nei numeri sonoro,
+nella composizione delle parole dolce e delicato; schivando
+in tutte le cose il soverchio, e particolarmente nelle
+clausole, delle quali non conviene far un lungo circuito, nè
+rinchiudere le sentenze in un cerchio, non altrimente che
+s'egli difendesse la causa davanti al Senato: ma spesso
+conviene usare il parlar disciolto, non legando le parole
+con le parole, e le sentenze con le sentenze,
+particolarmente se scrive a gli amici più domestici. E ben
+che Marco Tullio scriva a Pomponio Attico, che ciascuna
+epistola gli pareva tanto migliore, quanto era più longa:
+nondimeno il suo detto si dee prender più tosto per
+argomento di benevolenza e di stima, che per ammaestramento;
+e la longhezza, che si loda e si comporta nelle lettere, dee
+esser conveniente a lettera e non a libro. Nè le materie
+naturali e le questioni dialettiche e sofistiche convengono
+a le lettere, nè a quelle particolarmente del secretario che
+noi formiamo; il quale scriverà talvolta delle materie
+morali, che s'appartengano a l'ufficio che egli esercita per
+servigio del padrone, o per sodisfazione degli amici: ed in
+tutte si mostrerà dottissimo ed eloquentissimo. Ma perchè
+noi formiamo un secretario d'un gran principe, nel quale
+tante e sì laudevoli condizioni son necessarie; dobbiamo
+aggiungervi l'intelligenza della filosofia civile, e
+l'esperienza delle cose di Stato, che sono in continuo
+movimento: laonde hanno bisogno di prudenza e di consiglio.
+Convien, dunque, che il secretario sia politico, e che abbia
+risguardo non solo a' tempi presenti ma a i futuri. Laonde
+da una parte conviene ch'egli abbia gran cognizione
+dell'istorie; da l'altra, fa mestier ch'egli possa
+ragionevolmente discorrere dell'avenire, facendo i
+pronostichi del corpo infermo d'alcun regno o d'una
+provincia, in quella guisa che fanno i medici degli
+ammalati; e misurando le cose antiche con le nove, e le
+forastiere con l'italiane, e le irreligiose con le
+cattoliche, e le naturali con le maravigliose, e le solite
+con le inusitate; e paragonando le republiche co' regni, ed
+i regni verso di sè, dee tener dritta la bilancia nel
+giudicare, non concedendo ad alcuna parte più che a l'altra.
+Ma nell'eseguir dee vestirsi degli affetti del padrone, ed
+aver somma fede, grandissima sincerità, immutabil costanza,
+infaticabil diligenza, intrepida secretezza; ed i secreti
+del padrone talora deono esser scritti da lui con altre
+forme di lettere e con altri caratteri che non son gli
+ordinari: e questi son detti cifre; a i quali più
+secretamente si commettono le cose occulte, che già non se
+ne faceva a la scitala degli Spartani. Ma niuna sicurezza
+maggiore è di quella, che porta seco la fede e l'animo del
+secretario. Laonde quello ch'è trattato da lui, io stimo
+eccellentissimo negozio; del quale fra' Greci furono scritti
+due libri, come si legge in Ateneo. Nè so quel che in lor
+fosse particolarmente contenuto, perchè non è scritto in
+quell'autore: ma se noi vogliamo raccoglier tutti quelli nei
+quali può impiegarsi la prudenza dell'uomo civile o del
+cortigiano, preporremo a tutti gli altri i negozii trattati
+dal secretario e da l'ambasciatore: laonde io in due libri
+ho trattato degli uni e degli altri. Eccellentissimo
+nondimeno è quello del secretario, e nel secondo luogo è
+quello dell'ambasciatore, il quale da lui in alcun modo ha
+dipendenza. E se è vero quello che si legge in Simplicio,
+che l'ordine conviene egualmente al primo ed al secondo,
+benchè il secretario sia primo e più vicino al principe;
+nondimeno l'uno e l'altro dipende dal principe parimente. Ma
+l'ambasciatore prende l'instruzioni dal secretario, le quali
+sono quasi leggi dell'ambasciatore formate e scritte dal
+secretario con la volontà del principe. Donque il secretario
+è tanto più degno dell'ambasciatore, quanto è il legislatore
+di colui ch'osserva le leggi, e del giudice a cui si
+conviene d'interpretarle. Ma l'ambasciatore può nondimeno
+interpretar la commissione, s'ella non gli fosse stata
+dichiarata, ed è signore de' tempi e delle occasioni, come
+pare a Demostene; perciò che elle sono infinite, nè possono
+esser determinate da colui che fa l'instruzione: e chi
+privasse l'ambasciatore di questa autorità, gli torrebbe
+quello che è proprio dell'ufficio suo. Per questa cagione
+deono esser amici il secretario e l'ambasciatore, e quasi
+conspirare al servigio del principe: e se nascesse qualche
+emulazione, dee esser per servigio del principe, perciò che
+altramente la virtù dell'uno sarebbe più lucente per lo
+difetto dell'altro. Ma s'ambeduo cercano a prova
+d'illustrarsi con la splendida azione, di niuna cosa più si
+terranno onorati, che della benevolenza de' padroni: avegna
+che nella Corte son proposti due premii a la fedel servitù;
+l'uno è la grazia de' signori, l'altro e l'onore: e questi
+sono in guisa congiunti, come il raggio con la luce, e co 'l
+pensier a pena possono esser separati. Ma gli onori
+dell'ambasciatore risplendono negli occhi degli uomini, e
+quelli del secretario spesse volte sono occulti come i
+secreti: tuttavolta le scritte lettere sogliono alcuna fiata
+restar quasi eterni simulacri della fedel servitù; come
+rimasero quelle di molti scrittori famosi in questa lingua.
+E perch'elle rimangono fra tutte l'altre operazioni del
+secretario, è ragionevole che se ne favelli in questa ultima
+parte del nostro Trattato. Diciamo, donque, che la lettera è
+quasi un dono; laonde coloro a i quali scrivono i principi,
+sono quasi vicini al dono: ma i doni sogliono esser
+adornati; però conviene adornar parimente le lettere. Nè
+senza ragione stimava Demetrio, che la lettera dovesse esser
+polita con maggior diligenza che il dialogo. Imperò che 'l
+dialogo imita colui che parla a l'improviso: ma la lettera
+si scrive con studio e con diligenza. E quantunque la
+ragione sia vera, nondimeno il nostro secretario a le volte
+è constretto di scrivere frettolosamente; ed a l'incontro
+nel dialogo alcuna volta si imita persona che ragioni dopo
+longa considerazione; sì come Marco Crasso in quelli
+dell'Oratore: ed essendo da persona introdotta a parlar
+eloquentissimamente, pare che ricercasse il stil più ornato
+che l'epistola. Donque non dee il dialogo cedere a
+l'epistola senza contesa, se fra' Latini è degna di
+considerazione l'autorità di Marco Tullio, e fra' Greci
+quella di Platone. Ed io in vero non saprei quale elegger
+più tosto fra l'opinione dell'Alvonio, che mette l'epistola
+nell'ordine inferiore, o quella del Vittorio, che la pone
+nel superiore. Ma se nell'ordine superiore deono esser
+riposte le contemplazioni, è superiore senza dubbio il
+dialogo; e se l'azioni publiche o private, l'epistola, nella
+quale son descritte. È donque l'epistola o la lettera, che
+vogliam dirla, l'imagine della prudenza del secretario, e
+della dignità del principe, la quale solo rimane a' posteri.
+Ma perciò che il fine de' secretari non è la gloria, come
+quel del dialettico, ma la grazia dei padroni, molte fiate
+sono rimase occulte quelle nelle quali si mostrava maggior
+eccellenza e maggior accorgimento; le quali per servigio dei
+principi furono scritte e furono divulgate.</p></div1>
+<div1><head>Trattato secondo</head>
+<opener><salute>Al signor Antonio Costantini.</salute></opener>
+<p>Mi rallegro e mi doglio per diverse cagioni, ch'il mio
+Secretario vi paia in guisa breve, che vi muova a desiderar
+nuovo discorso in questa materia. Mi rallegro, perch'è
+verisimile che molte cose piacciano in quell'opere nelle
+quali dispiace la brevità; mi doglio poi, perchè non sono
+perfette quelle a le quali mancano alcune o molte delle
+parti necessarie: e tale è peraventura questa mia al
+giudicio di molti; non dirò al vostro, avegna che non
+severità di giudicio, ma affezion d'animo sia stata cagione
+in voi di questo desiderio; parendovi che ciascuno de' miei
+componimenti tanto sia migliore, quanto è più lungo: e se
+portate questa opinione, non sarebbe stato troppo malagevole
+accrescer il primo libro, ch'io ho fatto, del Secretario;
+perciò che nell'accrescimento non sempre s'aggiungano alcune
+parti necessariamente ricercate, ma se ne prendano alcune
+altre quasi straniere, più tosto per ornamento delle cose
+dette, che per dimostrazione; là dove il far nuovo trattato
+in questo soggetto porta seco maggior malagevolezza, perchè
+o convien dir le cose medesime, o diverse. Se le medesime si
+dicono, paiono alcuna volta soverchie, quantunque in altro
+modo e con altre parole sian dette; come disse Marco Tullio:
+se diverse, nasce alcuna suspicione, che lo autore non sia
+costante nell'opinione, ma contradica a se stesso; come pare
+che faccia Aristotile nell'opere varie che scrisse de'
+Costumi o della Retorica. Anzi l'uno o l'altro di questi
+errori potrebbono esser notati in Aristotile da gli
+invidiosi della sua dottrina, o da poco intendenti. Imperò
+che alcune cose da lui sono replicate, in altre par diverso
+da se medesimo; e dovendo io schivar l'una e l'altra di
+queste sconvenevolezze, o pur di queste suspicioni, mi
+veggio imposto un gravissimo peso d'obligazione. Ma la
+vostra da me conosciuta cortesia ed affezione può in modo
+alleggerirlo, ch'io non senta la fatica, benchè conosca il
+pericolo di cadervi sotto. Sarò, dunque, tanto più breve,
+quanto mi conviene l'esser più cauto; acciò ch'io abbia in
+parte almeno sodisfatto al vostro desiderio, e corrisposto a
+l'opinione. Ma dovendo io di nuovo discorrer dell'ufficio
+del secretario, non adoprerò alcuna nuova dottrina, nè
+alcuna non più intesa opinione condurrò in campo; ma
+deriverò questo quasi rivo o ruscello da' medesimi fonti,
+da' quali il primo è derivato, non riprovando alcune delle
+cose ch'in lui furono scritte, ma confermandole, e le
+contrarie escludendo e quasi discacciando. Imperò che assai
+bene fu da me diffinito il secretario, interprete della
+volontà, e scrittore di cose secrete. Ma la prima parte di
+questa diffinizione non conviene tanto a l'epistola, come
+parve a coloro che la diffinirono interprete dell'animo;
+avegna ch'ella sia interpretazione, non interprete,
+propriamente parlando, come dee parlar chi diffinisce. Bene
+ancora furono diffinite l'epistole o lettere, come diciamo:
+espressione d'onore e d'amore; o vero, imagine dell'animo. E
+quantunque le diffinizioni, come insegna Aristotile, non si
+possino dimostrare nè per la divisione nè per la diffinizion
+del contrario, nè forse in altro modo, s'elle non si
+dimostrano per la cagione (il quale, come parve ad alcuni, è
+logico anzi che no); tuttavia in questa medesima maniera non
+sarebbe malagevole dimostrarle; perchè il fin del secretario
+non è altro, che interpretar l'animo e significar i concetti
+del padrone; ed egli medesimo è quello che l'interpreta e
+significa; non l'epistola, ch'è l'interpretazione o
+significazione, come detto abbiamo. Similmente, il fine per
+lo quale sono scritte l'epistole, altro non è che
+l'espressione dell'onore o della benevolenza; però in questa
+guisa sono assai bene diffinite; e si potrebbe ciò confermar
+con l'autorità di Demetrio Falereo e di Basilio Magno; il
+quale scrivendo a Gregorio Teologo, mostra d'aver
+riconosciuta la sua epistola, in quel modo ch'i figliuoli si
+conoscono da l'imagine del padre. Convenevolmente fu
+espresso ancora da me l'ufficio e 'l fine del secretario
+quando io scrissi, che l'uno era di servire il padrone con
+acconcio modo, e di persuaderlo non tanto con le parole,
+quanto con la secretezza e con la fede; e l'altro era la
+grazia di esso padrone. E quantunque alcuni scrittori latini
+vogliano che sian due fini: l'uno esterno, il quale non è in
+nostro potere; l'altro interno, che è l'istesso con
+l'ufficio: nondimeno lasciando questi da parte, fra' quali è
+il Nifo nella Retorica; posso con Alessandro Afrodiseo
+affermare assai securamente, che non siano proposti i fini a
+l'arti conietturali, ed a l'altre arti nel modo istesso. Ma
+s'alcuna arte è nel secretario, quella è tutta fondata su le
+conietture, o su' discorsi di cose possibili, che vogliam
+dirli. Perciò che le cose delle quali scrive il secretario,
+non sono l'eterne nè le certe nè le sostanziali, delle quali
+si possa dar alcuna certa dimostrazione; ma son quelle che
+possono essere e non essere, avenire e non avenire: la cui
+natura, come parve ad Alcinoo, è posta in mezzo tra 'l vero
+e 'l falso. Laonde ora più a l'una delle parti s'avicina,
+ora più s'inchina a l'altra. Ma 'l giudicio del secretario
+consiste in discernere a quale più s'appressi. E tutte le
+ragioni ch'egli può addurre o scrivendo o ragionando, sono
+probabili, e non apportano alcuna necessità. L'arte, dunque,
+del secretario, se pur gli vogliamo concedere alcuno
+artificio, è molto simile a quella dell'oratore: però quegli
+ammaestramenti medesimi che si danno per l'orazioni, possono
+servir per le epistole, quantunque se ne possan dare alcuni
+proprii, gran parte de' quali io diedi nell'altro mio
+Trattato, e si posson legger in Demetrio Falereo. Non sono
+però i generi dell'orazioni e dell'epistole i medesimi, come
+non è affatto l'istesso l'oratore e 'l secretario: ma
+l'oratore parla a' presenti, il secretario scrive a'
+lontani: però certissimo è quel genere dell'epistole nel
+quale si danno avisi a gli amici e si fanno (per così dire)
+certi di quel ch'aviene. E quinci, se non m'inganno, è nata
+la diversità de' generi fra gli uni e fra gli altri. Onde io
+non posso in modo alcuno lodar coloro i quali fanno i generi
+medesimi quelli dell'epistole e dell'orazione. Oltre a ciò,
+l'orator regna ne' giudicii, come si vede ancora a' nostri
+tempi in Vinezia; ma l'azione del secretario è lontanissima
+da gli strepiti del palazzo e da le contese de' litiganti.
+Si vede nondimeno qualche somiglianza dell'accusa e della
+difesa nelle lettere ancora del secretario; e del persuader
+e dissuader, consigliando più espressamente, e del biasimo
+ancora e della laude. Ma non sono nelle lettere del
+secretario così distinte le parti, o polite con tanto
+ornamento, con quanto son quelle dell'oratore: però mi piace
+più tosto seguir la divisione fatta da Cicerone, non
+sottilissimamente, ma in quella guisa che più si conveniva:
+la quale è di tre generi, e ciascun di essi può ricever
+nuova divisione. Libanio Sofista ne annoverò sino ad
+ottanta, altri sino a quaranta, altri sino ad altro numero.
+Ma questa minutissima divisione si dee credere che possa
+esser fatta con qualche contemplazione degna di laude;
+nondimeno ella non è molto utile al nostro secretario nello
+scriver lettere: perch'egli non dimora fra le scuole de'
+retori o de' sofisti, ma ne' palazzi o nelle Corti de'
+principi; nè vive nella contemplazione, ma nell'azione. E
+quantunque l'azione, come stimò Plotino, sia una certa
+contemplazione; tuttavolta nel contemplar del secretario si
+vede, che non è ricercata tanta sottigliezza quanta nella
+speculazione de' filosofi o degli altri uomini speculativi;
+ma si desidera maggior pompa, maggior grandezza e maggior
+magnificenza nello scrivere e nel parlare. Però io rimossi
+alcuna volta que' termini che sono fra l'oratore e 'l
+secretario, acciò che l'uno potesse, richiedendolo
+l'occasione, passar nelle possessioni dell'altro. E se da
+altri non fossero dati infiniti ammaestramenti dell'arte
+oratoria, sarebbe forse a me necessario scrivere più
+lungamente dell'artificio dello scriver lettere. Ma i
+precetti proprii di questa arte son pochi, e si possono
+ristringere in pochi fogli: gli altri sono communi con
+l'arte oratoria, da la quale possono esser derivati. Io vi
+mostro i fonti, a i quali possiate trarvi la sete; e fonti
+perpetui, fonti abbondantissimi, fonti chiarissimi; e sono
+altrettanto copiosi la state quanto il verno, ed altrettanto
+l'autunno quanto la primavera. Tutto ciò che scrive
+Aristotile dell'entimema e dell'esempio, che sono gli
+argomenti dell'oratore, tutto può servire al secretario, che
+non usa altre dimostrazioni; e tutto quello che Aristotile
+scrive de' luoghi da' quali si cavano gli argomenti, dee
+esser letto ed inteso da lui parimente; e quello che scrive
+dei costumi e degli affetti similmente; acciò che sappia il
+secretario non solamente argomentare, ma fare la sua lettera
+costumata ed affettuosa, ove si richiede. Gli ornamenti
+ancora del parlare e i lumi e i colori delle sentenze e
+dell'elocuzioni ci sono mostrati da Aristotile e da Demetrio
+bastevolmente: e da loro impariamo ad usare il parlar legato
+o disciolto, i periodi, gli incisi, i membri, le metafore,
+l'imagini, le comparazioni, gli antiteti o contraposti, la
+mutazione de' casi, la antipallage, la dissoluzione e 'l suo
+contrario, la replicazione, il concorso delle vocali,
+l'allegoria, la reticenza e l'epifonema, o quella elocuzione
+che porta ornamento, e la iperbole, e la prosopopea, e
+l'ascensione, che è quasi un salir per gradi, ed alcune
+altre figure che possono far bella ed ornata la orazione e
+la epistola. E se ad alcuno paresse che in questa parte
+fossino stati scarsi, può legger Ermogene, può legger
+Cicerone, può legger l'Autore ad Erennio, può legger
+Quintiliano, i quali ne trattano copiosissimamente. Ma come
+abbiam detto, la lettera non è orazione: però dee il
+secretario o lasciare alcuni di questi ornamenti, o usarli
+più scarsamente che non fa l'oratore: perchè quello che è
+bastevole nell'orazione, sarebbe soverchio nella lettera,
+nella quale è molto lodata la purità, il candor, la
+facilità, e la chiarezza e la piacevolezza del parlare; ed a
+questo fine par che siano drizzati gli ammaestramenti del
+Falereo. Perciò che egli vuole che lo stile nelle epistole
+sia mescolato di due caratteri, cioè del sottile e del
+grazioso: ma forse egli, quando queste cose insegnava, non
+ebbe riguardo a tutte l'epistole, ma a le famigliari
+solamente; oltre le quali è una altra sorte di lettere
+scritte a' re, a' gran principi ed a le città, nelle quali,
+a giudicio di Demetrio, ancora non sarebbe sconvenevole la
+magnificenza del parlare. Possono, dunque, esser mescolati
+questi altri due caratteri, io dico il magnifico e 'l
+veemente, in questa altra maniera di lettere che si scrivono
+a gli Imperatori e gli Augusti, ed a' Principi ed a le
+Republiche, come già Cicerone mescolò, e particolarmente in
+quella epistola ch'egli scrisse ad Ottaviano dopo l'occupata
+signoria. Abbiasi nondimeno sempre risguardo non solo a chi
+si scrive le lettere, o a chi le riceve, ma a l'istessa
+natura dell'epistola; perciò che non dee mai alcuna lettera
+tanto esser inalzata, o tanto aggrandita, o con tanta pompa,
+con tanti colori e con tanti ornamenti, quanti ne sono
+adoprati nelle orazioni. Laonde Demetrio attribuì a
+l'epistole que' caratteri che paiono loro più convenirsi. Ma
+benchè l'ufficio del secretario principalmente sia di
+scriver lettere, nondimeno di molte cose egli suol trattar
+ragionando co' padroni e con gli amici. Laonde egli non dee
+esser in tutto privo di quella eloquenza che si dimostra con
+l'azione, e nella pronunzia: e s'egli non ne fosse da la
+natura fornito bastevolmente, dee con l'arte vincer la
+natura, come fece Demostene: il che sarà molto più agevole
+al secretario; perchè l'azione dee esser più temperata e la
+voce più sommessa; laonde picciola parte di questa eloquenza
+può soperchiare al secretario, non solo bastarli. E
+quantunque sia ricercata ancora in lui grandissima memoria e
+cognizione di molte lingue, nondimeno s'in queste condizioni
+non fosse simile a Mitridate o a Temistocle o a Simonide,
+non gli mancherà molto a la perfezione, benchè molto gli
+manchi a l'apparenza. Parlo de' secretari de' principi
+italiani o francesi, perchè i secretari di que' grandissimi
+re i quali commandano a molte nazioni, hanno bisogno maggior
+della moltitudine e della varietà delle lingue; ed a pena
+ch'io stimi verisimile, che senza molte di loro potesse
+insieme sodisfare a' principi ed a' soggetti. Ma le molte
+lingue non si possono apprender senza molta memoria; della
+quale alcuni insegnano l'artificio, il quale è quello di
+conservar l'imagini e di riporle ne' luoghi loro; artificio
+particolarmente insegnatoci da l'Autore ad Erennio e
+d'alcuni altri: però che Aristotile accenna come da'
+contrarii e da' simili possiamo venire in cognizione de'
+simili e de' contrarii: e questa è azione della mente, non
+solo passione: e peraventura è qualche parte vero quello che
+dice Porfirio, che la memoria non sia conservazion
+dell'imagini, ***: ma le proposizioni, è un produrre in atto 
+quelle cose che l'animo già avea pensato di cavar fuori. 
+Laonde se fosse ciò vero, non avrebbe il nostro secretario 
+necessità di formar sempre e di guastare le imagini e di 
+riformar le nuove, per riempiere i luoghi vacui; nè sarebbe 
+più intento in questa occupazione, che nella contemplazione 
+dell'idee, che sono esemplari dell'imagini. Ma nè l'una nè 
+l'altra si richiede al perfetto secretario; se pur il nostro 
+è perfetto: perch'egli s'impiega nell'azione, la quale è un 
+caso della contemplazione, ma non però sì grande, che non possa
+risorgere e spesso inalzarsi il pensiero a le cose più
+sublimi, le quali non si guastano nè si rinnovano, ma sono
+sempre le medesime, sempre immortali, sempre eterne.
+Lascierem, dunque, da parte questo artificio, o
+esercitazione, o occupazione, ch'ella sia, della memoria: o
+pur concedendola a l'uomo ozioso (poichè Aristotile non la
+riprova), torremo questa soverchia fatica al secretario, il
+quale co 'l dispor ed ordinar i concetti nell'animo e di
+fuor le scritture, potrà agevolmente conservarsi, ed
+accrescer la memoria naturale. Ma oltre tutte le operazioni,
+sono al secretario necessarie quelle del giudizio e della
+prudenza; e sono convenevoli e proprie della sua professione
+e della sua nobiltà. Onde, bench'egli fosse eloquentissimo,
+dee schivar la soverchia pompa e 'l soverchio studio del
+parlare; perchè così al gentiluomo di Corte, come a l'uomo
+civile non conviene quella eloquenza piena d'ambizione e di
+fasto, che suol muover gran maraviglia ne' teatri o nella
+scena; nè quella ancora è gran fatto conveniente, nella
+quale al lume di lucerna si pone troppo studio negli
+argomenti. Ma tra l'una e tra l'altra dee esser temperata e
+grave ed ornata convenevolmente, e tale dee esser
+l'operazione del secretario, quale abbiamo figurata
+l'eloquenza; perch'a lui non si conviene solamente il
+parlare o lo scrivere, ma l'operare. E l'operazione sua non
+è men degna di quella dell'ambasciatore, benchè sia più
+lontano al suo principe, ma più cara; ricercando l'ufficio
+di lui, ch'egli non s'allontani da la presenza del principe,
+nè perda alcuna occasione del suo servizio, o del
+conservarsi, e d'accrescer la sua grazia. E perchè
+l'occasione è un fior del tempo nelle cose che deono esser
+trattate, si conviene al secretario con prudenza sceglier
+l'occasioni, prendendo le buone e rifiutando l'altre, come
+si sceglie fior da fiore. Conosca ancora il nostro
+secretario l'opportunità, se pur non è la medesima: perchè
+conoscerà quel tempo nel quale ciascuna cosa è disposta a
+fare ed a patire: avegna che, secondo le varie disposizioni
+de' principi, i negozi più facilmente e più difficilmente si
+sogliano spedire; e molte grazie si concedano in un tempo,
+che nell'altro son negate. L'occasion, dunque, e
+l'opportunità principalmente regnano nelle Corti, e possono
+aprir la strada a tutti gli onori ed a tutte le grazie.
+Laonde il secretario non solamente dee conoscerle quando
+s'appresentano, ma antivederle molto prima, e servirsene per
+riputazione e per utile del suo principe più che per sua
+propria utilità. Non dee ancora il secretario esser
+negligente in osservar i moti della fortuna; perciò ch'ella,
+come scrive Speusippo, è un movimento da l'occulto
+nell'occulto: laonde, quanto le cagioni ed i principii della
+sua mutazione sono più celati, tanto maggior prudenza è
+necessaria in prevederli. E quantunque possa parere ad
+alcuno, che tutte queste cose sian più necessarie a l'uomo
+di Stato ch'al secretario; nondimeno il secretario, che noi
+formiamo, non è semplice esecutore dell'altrui volontà e
+degli altrui commandamenti, che meriti d'esser impiegato
+negli ufficii servili o nelle fatiche del corpo; ma un
+gentiluomo a la cui fede ed al cui sapere si possono
+confidare gli Stati e la vita e l'onor del principe: però
+niuna esquisita cognizione si richiede nell'uomo di Stato,
+ch'in lui non si ricerchi parimente. E dovendo egli saper le
+guerre, le sedizioni, le discordie, le vittorie, gli
+acquisti e le perdite delle provincie e de' regni e degli
+eserciti, le paci, le tregue, i parentadi, i nascimenti, le
+morti de' grandi, e l'esaltazioni e le depressioni degli
+uomini famosi, ed in somma tutti gli avenimenti e tutti gli
+accidenti del mondo, di tutti possa discorrere co 'l
+principe, e scrivere ancora, se da lui gli sarà commandato:
+nè gli dee mostrar (posto ch'egli potesse) il vero in
+iscambio del falso, o 'l falso in iscambio del vero, come
+fanno gli specchi, ne' quali le parti destre paiono
+sinistre, e le sinistre destre; anzi nelle sue parole e
+negli scritti dee a gli occhi del principe rilucere la
+verità, ed a quegli degli altri la fede: acciò che
+intieramente adempia le due parti, e quasi officii, i quali
+si fanno co 'l dire al principe la sua opinione, e con
+l'eseguire i commandamenti. E perchè voi al secondo sete già
+attissimo per ingegno, per lettere, per diligenza, per
+secretezza, per accortezza, e per bella e gentil maniera di
+scrivere e di ragionare; al primo aspirate
+ragionevolissimamente, e nulla vi manca se non l'età, e
+quelle cose ch'a pena con la maturità degli anni si possono
+acquistare. E niuno impedimento dee ritenervi da l'andare
+avanti per quella strada la quale avete cominciata. E perchè
+due ancora sono i modi d'entrar nelle Corti: l'uno più
+spedito e più breve, usato da coloro i quali possono
+pervenire senza altro mezzo a la grazia de' padroni; l'altro
+più facile e più sicuro, d'appoggiarsi a' ministri ed a'
+gentiluomini principali, i quali possono aprir ed agevolar
+la via a la servitù ed a la benevolenza de' principi; la
+fortuna ha maggior parte, dove l'ha minore l'industria. Ma
+coloro ch'essendo nuovi nella Corte, sono privi di tutti gli
+altri appoggi, ed ascendono da se medesimi, di leggieri
+possono cadere o esser gittati a terra; però deono schivar
+ogni superbia ed ogni soverchio ardire, essendo la caduta
+tanto più vergognosa, quanto è da luogo più riguardevole: sì
+come quelli che sono stati sostenuti da l'altrui autorità,
+quasi edera dal tronco, lasciano biasmevole esempio
+d'ingratitudine, cercando di opprimere chi gli sosteneva,
+quantunque potessero farlo agevolmente: nè so qual sia più
+vergognoso, o quel precipizio, o questa esaltazione. Tutti
+gli esempi dunque di vera lode, Signor mio, dovete proporvi,
+perch'a tutti potete facilmente assomigliarvi.</p></div1></body></text></TEI.2>

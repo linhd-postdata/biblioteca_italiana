@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+  <teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie</title>
+      <author>Giovanni di Maffeo da Barberino</author>
+    </titleStmt>
+    <extent>8 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001483</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Lirici toscani del Quattrocento</title>
+        <title type="part">v.</title>
+        <editor id="ed">Lanza, Antonio</editor>
+        <publisher>Bulzoni</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1973</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-05-25T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Tiziana Mancinelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2004-05-27T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+  <text>
+
+    <body>
+      <div1 type="poesia">
+        <head>I</head>
+        <div2 type="sezione">
+          <head> Antonio Araldo a Giovanni di Maffeo </head>
+          <lg type="sonetto">
+            <lg rend="italic">
+              <l>Giovanni, i' mi parti' non meno offeso</l>
+              <l>che tu dalla tuo propia passïone,</l>
+              <l>dubitando poterne esser cagione,</l>
+              <l>per volerne piacer, disagio preso.</l>
+            </lg>
+            <lg rend="italic">
+              <l>E per in parte alleviar tuo peso,</l>
+              <l>che tutto a tôrlo via non t'è cagione,</l>
+              <l>rimbrotti, bizarrie, mugghi e quistione</l>
+              <l>sien teco sempre, e nel guarire acceso,</l>
+            </lg>
+            <lg rend="italic">
+              <l>esser di tutte cose impazïente,</l>
+              <l>far traboccare all'appitito il sacco,</l>
+              <l>viver sempre lascivo e 'ncontenente;</l>
+            </lg>
+            <lg rend="italic">
+              <l>aceto, agresto, agrumi e frutte a sbacco</l>
+              <l>in ogni cibo e continuamente</l>
+              <l>nondimen non lasciar l'uso di Cacco.</l>
+            </lg>
+            <lg rend="italic">
+              <l>Seguir Venere e Bacco</l>
+              <l>t'ingegna, quando se' dal duol più afflitto,</l>
+              <l>con trincar malvagìa e chiavar ritto.</l>
+            </lg>
+          </lg>
+        </div2>
+        <div2 type="sezione">
+          <head>Risposta ad Antonio Araldo </head>
+          <lg type="sonetto">
+            <lg>
+              <l>L'avere e corpi d'uno umor compreso,</l>
+              <l>gli animi di medesma oppenïone</l>
+              <l>fan l'un dell'altro aver compassïone,</l>
+              <l>ch'abbin d'ira e di sdegno il cor acceso.</l>
+            </lg>
+            <lg>
+              <l>Il rimedio a me dato ho bene inteso;</l>
+              <l>a te il rimando con duplicagione,</l>
+              <l>con questa aggiunta alla tuo purgagione,</l>
+              <l>c'ha da purgarti lo sciloppo preso.</l>
+            </lg>
+            <lg>
+              <l>Tedio, rabbia, dispetto e duol di dente</l>
+              <l>sien tuo riposo quando se' più stracco,</l>
+              <l>d'albitrio privo, d'amico e parente.</l>
+            </lg>
+            <lg>
+              <l>Vivi sopposto al morso del tabacco,</l>
+              <l>in odio e 'n dispiacere a tutta gente,</l>
+              <l>ed apprezzato men ch'un vil patacco.</l>
+            </lg>
+            <lg>
+              <l>Ancor questo v'attacco:</l>
+              <l>da' rimpruover tu sia ognor trafitto</l>
+              <l>e patir pena dell'altrui delitto.</l>
+            </lg>
+          </lg>
+        </div2>
+      </div1>
+      <div1 type="poesia">
+        <head>II</head>
+        <div2 type="sezione">
+          <head>Ad Antonio Araldo </head>
+          <lg type="sonetto">
+            <lg>
+              <l>Tu mi saetti nel dir medicame</l>
+              <l>ed io a te bombarderò di notte;</l>
+              <l>tu mi vuo' dar medicina alle gotte:</l>
+              <l>guarisci te con le tuo cose grame.</l>
+            </lg>
+            <lg>
+              <l>Oche, bue, porco, pesce con salame,</l>
+              <l>anguille, agrume e vivande corrotte,</l>
+              <l>vin turbo, grasso, agresto empie le botte</l>
+              <l>e di quel mangia e béi quando n'ha' fame.</l>
+            </lg>
+            <lg>
+              <l>S'io mangiar posso, i' vo' starne e capponi,</l>
+              <l>lamprede, anguille, arrosto ed in tocchetto,</l>
+              <l>quaglie, fagiani e pollastri e pippioni,</l>
+            </lg>
+            <lg>
+              <l>malvagìe e trebbian ber per diletto,</l>
+              <l>mandorle, pere, pesche e buon poponi,</l>
+              <l>vernaccia doppo il cibo e del confetto.</l>
+            </lg>
+            <lg>
+              <l>Di Venere l'effetto</l>
+              <l>l'accidente e l'età me n'hanno privo,</l>
+              <l>ché, se 'l potessi usar, non sare' vivo.</l>
+            </lg>
+          </lg>
+        </div2>
+        <div2 type="sezione">
+          <head>Antonio Araldo a Giovanni di Maffeo </head>
+          <lg type="sonetto">
+            <lg rend="italic">
+              <l>Non son gli unguenti tuoi di verderame,</l>
+              <l>ma ser Ago fé mai sì gran condotte</l>
+              <l>di bubbon, di scorpion, d'aspidi o botte,</l>
+              <l>dond'uscisse velen per far suo trame,</l>
+            </lg>
+            <lg rend="italic">
+              <l>simile a quel che trai; e se 'l farsame.</l>
+              <l>che di' ch'i' piglio, e le cose malcotte</l>
+              <l>con ber vin ferrarese a tutte dotte</l>
+              <l>e 'l gustar cibi ghiotti mi sie infame,</l>
+            </lg>
+            <lg rend="italic">
+              <l>non m'è invidia il cibar di buon bocconi,</l>
+              <l>li quai tu fai pensando ai tuo difetto,</l>
+              <l>che di più scuoter non potêr gli arnioni.</l>
+            </lg>
+            <lg rend="italic">
+              <l>I' pure ancor mi voltolo pel letto,</l>
+              <l>né Sforza mai inforcò meglio arcioni</l>
+              <l>di me, quando dal duol non sono istretto.</l>
+            </lg>
+            <lg rend="italic">
+              <l>E fa' questo concetto:</l>
+              <l>che ancora mi risponde il genitivo</l>
+              <l>più olio che qual hai migliore ulivo.</l>
+            </lg>
+          </lg>
+        </div2>
+      </div1>
+      <div1 type="poesia">
+        <head>III</head>
+        <argument>
+          <p rend="italic">Versi fatti di Giovanni di Maffeo da Barberino insino a dì 8
+            d'aprile 1435, adiritti a Cosmo de' Medici, raccomandandosegli che della ragione
+            pregasse un certo ufizio che l'avesse per raccomandato, volendo intendere bene quella
+            causa e poi dargli spaccio, ed era di tanta importanza che, avendo perduta, n'era sempre
+            disfatto; il perché, parendogli esser allo stremo, veduto che quello ufizio
+            quasi tutto gli giudicavano in quel piato il torto adosso, dove più
+            cordialmente dogliendosi, così in questi suo versi supplicando disse:</p>
+        </argument>
+        <lg type="capitolo-ternario">
+          <lg>
+            <l>Pietà per dio del mie grieve dolore,</l>
+            <l>offeso a tanto stremo e sanza amici,</l>
+            <l>povero, vecchio, infermo e peccatore,</l>
+          </lg>
+          <lg>
+            <l>ingiusto giudicato in negli uffici,</l>
+            <l>né udita, né 'ntesa è mie ragione,</l>
+            <l>ma trattato da lor come nimici,</l>
+          </lg>
+          <lg>
+            <l>di me avendo falsa oppenïone,</l>
+            <l>sotto presunzïon dannando il vero,</l>
+            <l>per non lo essaminar con discrezione.</l>
+          </lg>
+          <lg>
+            <l>Or veder puoi s'i' ho dolor severo,</l>
+            <l>vedermi sì crudelmente trattare</l>
+            <l>da chi è posto a far giudicio intero;</l>
+          </lg>
+          <lg>
+            <l>ed ogni mie ragion veggo mancare,</l>
+            <l>se gi... soccorso non vien da colui,</l>
+            <l>il qual santificò nel medicare,</l>
+          </lg>
+          <lg>
+            <l>perché le piaghe fattemi d'altrui</l>
+            <l>ingiustamente bisogna curare</l>
+            <l>e risanarle con gli unguenti sui.</l>
+          </lg>
+          <lg>
+            <l>Né altra via ci veggio al mie scampare</l>
+            <l>se non di quest'uom giusto i degni unguenti,</l>
+            <l>ch'ogn'incurabil mal fanno saldare.</l>
+          </lg>
+          <lg>
+            <l>Tutt'altre vie e tutt'altri argomenti</l>
+            <l>sarieno scarsi, anzi diverrien vani,</l>
+            <l>quantunque giusti e quantunque prudenti.</l>
+          </lg>
+          <lg>
+            <l>Supplico adunque le suo sante mani</l>
+            <l>porga, e vogli veder la trista cura,</l>
+            <l>ch'è suta fatta a me da questi strani;</l>
+          </lg>
+          <lg>
+            <l>e poi veduta con giusta misura,</l>
+            <l>mi faccia giudicare e con ispaccio,</l>
+            <l>com'è dotato in suo propria natura;</l>
+          </lg>
+          <lg>
+            <l>sì ch'una volta di tant'aspro laccio</l>
+            <l>mi deggi trar, ché, se nol fai, rimango</l>
+            <l>privato di speranza in tanto impaccio.</l>
+          </lg>
+          <lg>
+            <l>Ché sempre dentro al cor con l'almo piango,</l>
+            <l>né sotto 'l ciel più gnuna cosa spero;</l>
+            <l>vilipeso qual piombo terso o fango,</l>
+          </lg>
+          <lg>
+            <l>sol rimarrò tra la gobbola e 'l zero.</l>
+          </lg>
+        </lg>
+      </div1>
+    </body>
+  </text>
+</TEI.2>

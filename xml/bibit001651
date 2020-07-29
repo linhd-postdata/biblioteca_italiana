@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Catone in Affrica</title>
+      <author>Giacomo Leopardi</author>
+    </titleStmt>
+    <extent>42 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001651</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le opere</title>
+        <author>Leopardi, Giacomo</author>
+        <editor id="ed">Felici, Lucio</editor>
+        <publisher>Lexis Progetti Editoriali</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1998</date>
+        <note>L'edizione elettronica fa riferimento al testo Entro dipinta gabbia. Tutti gli scritti inediti, rari e editi 1809-1810 di Giacomo Leopardi, a cura di M. Corti, Milano, Bompiani 1972.</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="codice">italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-03-30T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marco Fucini e Sonia Sabelli</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-04-02T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1>
+<head>1</head>
+<argument><p>Prefazione</p></argument>
+<p>Rivolgendo, e contemplando le carte, in cui il nascimento il progresso, ed il fine si narra della potenza di quella si formidabil nazione, che trasse l'origine da un altro puranche bellicosissimo popolo, ed al cui solo nome tremavano i più stabili troni, e le più forti monarchie, non cessava di ammirar quegli Eroi, che con la loro dottrina, e con il lor valore contribuirono all'innalzamento di questo popolo rozzo dapprima, ed incolto, e dipoi si nobile, e civile. Stupii nel vedere un ignobil bifolco salire al trono, ed occupar la sede del fondator di Roma, e nello scorgere cotanta sapienza, e penetrazione in un povero aratore. Ammirai la fortezza d'animo di un uomo stimato universalmente pazzo, il quale tolse all'oppressor del Lazio lo scettro, e stabili quella si ben regolata Repubblica, che per più secoli si mantenne fiorita, e indivisibile finchè non sorsero le civili turbolenze ad atterrarla. Meraviglioso mi parve il valore dell'intrepido Camillo, dei forti Scipioni, del magnanimo Emilio, del gran Pompeo, e d'altri molti, che sconfissero tante barbare nazioni, portarono il terror della guerra nei paesi creduti inaccessibili, e ritornarono carichi delle spoglie di popoli peranco invitti. Ma come il sole offusca lo splendore degli astri, e come frondosa quercia s'innalza sublime al di sopra degli umili arboscelli; tale Catone ergersi mi parve al di sopra di ogni altro Eroe, ed offuscare con le sue egregie doti il fulgore delle virtù di qualunque altro illustre Romano: poichè in essi può ammirarsi, o il coraggio nell'affrontar l'inimico, o l'ingegno nel disporre l'esercito alla battaglia, o la scienza in sommo grado posseduta; ma in Catone forza, destrezza, coraggio, e sapienza si scorgono insiem congiunti, ed accorsi a formarne un grand'uomo qual'egli chiaramente a tutti si appalesò. Una sana Filosofia non avvolta da alcun velo di errore, e non offuscata dalle tenebre d'iniquità, un valore, ed una fortezza invincibile, una integrità immacolata, che non potè esser corrotta da qualunque lusinghiera promessa formano per se medesime il suo elogio, e la sua morte istessa prova chiaramente quanto egli abborrisse la ribellione, e l'infedeltà. Questo fu quello, che determinommi ad esporre in rozzi versi la sua principale azione, cioè l'assistenza ch'egli prestò al Console fedele alla patria, il quale si oppose al suo nemico, ed oppressore. Le sue virtù tutte in essa chiaramente si appalesano. Lusingarmi non posso in alcun modo di averle ben dipinte, ed espresse, ma se ottener potrò un benigno compatimento stimerò abbondantemente ricompensate le mie tenui fatiche.</p>
+</div1>
+<div1>
+<head>2</head>
+<argument><p rend="italic">Descrizione del campo di Farsaglia: partenza di Metello Scipione per l'Affrica: alleanza fra Giuba Rè di Mauritania, il console Scipione, e Varo Comandante Romano in Affrica.</p></argument>
+<p rend="italic">Sestine</p>
+<lg type="non–definito">
+<lg>
+<l>Appiè d'un monte, a la cui cima altera</l>
+<l>Infra l'orror d'inospita foresta</l>
+<l>Cupa selva s'innalza opaca, e nera;</l>
+<l>Quivi si mostra di terror funesta</l>
+<l>Scena fatale di lamento, e lutto</l>
+<l>Dell'insane discordie orrido frutto.</l>
+</lg><lg>
+<l>Vasta pianura, su' cui scorre a fiumi</l>
+<l>Per ogni parte sparso il freddo sangue</l>
+<l>Stendesi intorno: i moribondi lumi</l>
+<l>Fascia morte a le turbe; anela, e langue</l>
+<l>Infra l'estremo palpitar frequente</l>
+<l>Dell'affannoso cuor l'afflitta gente.</l>
+</lg><lg>
+<l>Sorger tenta talun; l'asta guerriera</l>
+<l>Sul suolo infigge, e le tremanti membra</l>
+<l>Con il ferro sostien, ma densa, e nera</l>
+<l>Notte gli offusca il guardo; ci cade, e sembra</l>
+<l>Funesto rogo il campo, e morte intanto</l>
+<l>La falce ruota infra le strida, e il pianto.</l>
+</lg><lg>
+<l>Spezzati acciari, usberghi, e scudi infranti,</l>
+<l>Rilucenti, e criniti, alti cimieri</l>
+<l>Aste appuntate, e cavalieri, e fanti,</l>
+<l>Loriche, e cocchi, e nobili destrieri</l>
+<l>Sparsi d'intorno son: neglette, e vinte</l>
+<l>Giaccion l'insegne d'atro sangue tinte.</l>
+</lg><lg>
+<l>Ma ancor di libertà l'amica speme</l>
+<l>Non perdette però Roma feroce,</l>
+<l>Il capo crolla, squassa l'asta, e freme,</l>
+<l>Di scuoter brama il duro giogo atroce,</l>
+<l>Snuda l'acciaro, e con guerriero sdegno</l>
+<l>Batte lo scudo di fierezza in segno.</l>
+</lg><lg>
+<l>Scipione intanto bellicoso, ardente</l>
+<l>Mira l'orrida scena; il cuor doglioso</l>
+<l>L'ira sconvolge, ed il furor; fremente</l>
+<l>A la vendetta anela, e minaccioso</l>
+<l>Armati aduna, e d'Ocean sul dorso</l>
+<l>A l'Affrica rivolge ansioso il corso.</l>
+</lg><lg>
+<l>Tosto le navi la fuggevol'onda</l>
+<l>De' venti a lo spirar fendon veloci;</l>
+<l>Da l'occhio uman di già sparì la sponda,</l>
+<l>S'alzano al ciel le strepitose voci</l>
+<l>De le marziali furibonde schiere</l>
+<l>In cuor frementi, e in volto audaci, e fiere.</l>
+</lg><lg>
+<l>D'Affrica già la desiata terra</l>
+<l>Da l'alte navi comparir si vede;</l>
+<l>Odio spirando, e interminabil guerra</l>
+<l>Pone la turba ostil sul suolo il piede,</l>
+<l>E il piumato crollando alto cimiero</l>
+<l>Marzial forza promette, e ardor guerriero.</l>
+</lg><lg>
+<l>Scipion frattanto d'ogn'intorno cinto</l>
+<l>Dai temuti Littori alter si asside;</l>
+<l>E, amici, esclama, al suol prostrato, e vinto</l>
+<l>Giacque il fiero Pompeo; giubila, e ride</l>
+<l>Il truce vincitor; sconfitta, e doma</l>
+<l>Dunque cader dovrà la forte Roma?</l>
+</lg><lg>
+<l>Guerrieri, a l'armi, il temerario orgoglio</l>
+<l>D'un ribelle s'atterri; immobil sieda</l>
+<l>Libertà di Quirin su l'alto soglio,</l>
+<l>E d'un empio infedel la morte veda</l>
+<l>L'armi prendiamo, e con feroce sdegno</l>
+<l>La gloria difendiam, la patria, il regno.</l>
+</lg><lg>
+<l>Disse; e Giuba guerrier le fiere genti</l>
+<l>Al Console congiunge; al Lazio fide,</l>
+<l>Audaci schiere bellicose, ardenti</l>
+<l>Varo comanda; a l'ira lor sorride</l>
+<l>Cesare intanto, e ad ostinata guerra</l>
+<l>Sfidare immobil sembra, e cielo, e terra.</l>
+</lg>
+</lg>
+</div1>
+<div1>
+<head>3</head>
+<argument><p rend="italic">Viaggio di Catone per i deserti della Libia con le truppe, che comandava nella guerra fra Cesare, e Pompeo: suo arrivo in Affrica: fortificazione della città di Utica, in cui si rinserra.</p></argument>
+<p rend="italic">Anacreontica</p>
+<lg type="non–definito">
+<lg>
+<l>Per l'infeconda Libia,</l>
+<l>Per le deserte arene</l>
+<l>Caton feroce avvìasi</l>
+<l>Da l'alta, ampia Cirene.</l>
+</lg><lg>
+<l>Fra i boschi ombrosi, e taciti, </l>
+<l>Fra l'intricate selve</l>
+<l>S'avvanza al fiero rugghio</l>
+<l>De le frementi belve.</l>
+</lg><lg>
+<l>Seguelo ardente, e fervido</l>
+<l>Il fido stuol guerriero, </l>
+<l>Precede il Duce intrepido,</l>
+<l>E nobilmente altero.</l>
+</lg><lg>
+<l>L'arida, incolta sabbia</l>
+<l>Col piè veloce ci preme,</l>
+<l>Cesare in cuor minaccia, </l>
+<l>E vincitor nol teme.</l>
+</lg><lg>
+<l>Del sole ignito, e rapido</l>
+<l>Al caldo, ardente raggio</l>
+<l>Egli prosiegue intrepido</l>
+<l>Il lungo, aspro viaggio, </l>
+</lg><lg>
+<l>E allor che il cocchio lucido</l>
+<l>Precipita ne l'onde,</l>
+<l>E la splendente faccia</l>
+<l>Ne l'oceano asconde:</l>
+</lg><lg>
+<l>Breve sopore, e languido</l>
+<l>In cieca obblivione</l>
+<l>Le membra avvolge, e tacito</l>
+<l>Sen giace allor Catone.</l>
+</lg><lg>
+<l>Ma quando il canto ascoltasi</l>
+<l>Del vigilante augello</l>
+<l>Sorgere a un punto vedesi</l>
+<l>L'armato, e fier drappello.</l>
+</lg><lg>
+<l>E tosto il passo muovere</l>
+<l>Per l'arenose sponde,</l>
+<l>Per terre oscure, e tacite,</l>
+<l>Incolte, ed infeconde.</l>
+</lg><lg>
+<l>Di già fremente, e intrepido</l>
+<l>Del Lazio il forte stuolo</l>
+<l>Feroce preme il fervido</l>
+<l>D'Affrica ardente suolo.</l>
+</lg><lg>
+<l>Liete, e gioconde accorrono</l>
+<l>Le Mauritanie schiere,</l>
+<l>E del Romano esercito</l>
+<l>Le Ede turme e fiere.</l>
+</lg><lg>
+<l>Sparsi d'intorno vedonsi</l>
+<l>Gli usberghi rilucenti,</l>
+<l>L'aste, gli acciari, e i nobili,</l>
+<l>Criniti elmi splendenti.</l>
+</lg><lg>
+<l>Per ogni parte ascoltansi</l>
+<l>Le risuonanti evviva,</l>
+<l>E a l'alte grida eccheggia</l>
+<l>De l'ocean la riva.</l>
+</lg><lg>
+<l>Al forte Eroe Romuleo</l>
+<l>Arride ognor la sorte;</l>
+<l>A lui d'Utica nobile</l>
+<l>Dischiudonsi le porte.</l>
+</lg><lg>
+<l>Ella de l'armi al fulgido</l>
+<l>Splendor superba, e altera</l>
+<l>Grandeggia, e cinta mirasi</l>
+<l>Da marzial turba, e fiera.</l>
+</lg><lg>
+<l>Sopra de l'alto soglio</l>
+<l>Roma feroce intanto</l>
+<l>Lieta si asside, e tergesi</l>
+<l>Dal ciglio il mesto pianto.</l>
+</lg><lg>
+<l>L'acciaro al fianco cingesi</l>
+<l>Il forte usbergo allaccia,</l>
+<l>Afferra l'asta, e il fulgido,</l>
+<l>Aurato scudo imbraccia.</l>
+</lg><lg>
+<l>Col piede i lacci ferrei</l>
+<l>Calpesta altera, e preme,</l>
+<l>L'amiche turbe, e fervide</l>
+<l>Superba mira, e freme.</l>
+</lg>
+</lg>
+</div1>
+<div1>
+<head>4</head>
+<argument><p rend="italic">Viaggio di Cesare: suo arrivo in Affrica: Combattimento fra le sue truppe, e quelle del Console Scipione con egual perdita da ambe le parti.</p></argument>
+<p rend="italic">Quartine</p>
+<lg type="non–definito">
+<lg>
+<l>Da l'intrepide cinto amiche schiere</l>
+<l>Forza spiranti, e marzial costanza,</l>
+<l>Fra i consolari fasci, e fra le altere,</l>
+<l>Aurate insegne il Dittator s'avvanza.</l>
+</lg><lg>
+<l>D'argentea poppa, e di purpuree vele</l>
+<l>Su' nobil nave ascende; il segue, e freme</l>
+<l>Tra il confuso clamor lo stuol fedele,</l>
+<l>Sprezza il Numida, ed il Roman non teme.</l>
+</lg><lg>
+<l>Fuggon le navi, e d'Ocean sul dorso</l>
+<l>Solcando van l'altero flutto acquoso, </l>
+<l>Fendesi l'onda al rapido lor corso</l>
+<l>Per il vasto del mar campo spumoso.</l>
+</lg><lg>
+<l>Toccano alfin la meta, e la tenace</l>
+<l>Ancora ferma sul nemico suolo</l>
+<l>I ferrati navigli; altero, e audace</l>
+<l>Del Dittator discende il fido stuolo</l>
+</lg><lg>
+<l>Tosto esultanti i fervidi guerrieri</l>
+<l>Distendonsi sul lido; i rilucenti</l>
+<l>Scudi depongon quindi, e gli elmi alteri,</l>
+<l>E gli acciari, e le forti armi splendenti. </l>
+</lg><lg>
+<l>Quando l'orecchio a un tratto alto–percuote</l>
+<l>Di lung'armato stuol l'ostil fragore</l>
+<l>Fra il risuonar de le stridenti ruote,</l>
+<l>E di ferrata selva infra l'orrore.</l>
+</lg><lg>
+<l>Tosto sorge la turba, e l'asta afferra, </l>
+<l>Cinge l'acciaro, e l'aureo scudo imbraccia,</l>
+<l>Sdegno spirando, ed ostinata guerra</l>
+<l>Morte, eccidio, ruina, orror minaccia.</l>
+</lg><lg>
+<l>Già stansi a fronte, e già fendon veloci</l>
+<l>I ferrei dardi l'aria; omai di sangue</l>
+<l>Tinte son l'armi infra le meste voci,</l>
+<l>E fra le strida di chi muore, e langue.</l>
+</lg><lg>
+<l>Urtansi l'aste, la tremenda morte</l>
+<l>Ruota intorno l'acciar, cade il possente,</l>
+<l>Cade il timido, e il vil, soggiace il forte</l>
+<l>Tra la pugna fatal, tra l'ira ardente.</l>
+</lg><lg>
+<l>Ma l'atra notte, e tenebrosa intanto</l>
+<l>Dal cavo speco ad oscurare il giorno</l>
+<l>Placida uscìa l'opaco, e nero manto</l>
+<l>Fra il terrifico orror stendendo intorno.</l>
+</lg><lg>
+<l>Vansi arretrando alfin l'audaci schiere,</l>
+<l>Gettan l'acciar di nero sangue tinto,</l>
+<l>Depongon l'armi rilucenti, e fiere:</l>
+<l>Scipione è vincitor; Cesar non vinto.</l>
+</lg>
+</lg>
+</div1>
+<div1>
+<head>5</head>
+<argument><p rend="italic">Incursione fatta nel regno di Giuba da Sittio uno de' congiurati di Catilina, che dopo la sua morte avea radunate varie truppe, a cui comandava: assedio, e presa della città di Cirta: partenza di Giuba dal campo di Scipione per difendere il suo regno.</p></argument>
+<p rend="italic">Anacreontica</p>
+<lg type="non–definito">
+<lg>
+<l>Fiero nel volto e torbido</l>
+<l>Tra l'aste, e l'armi lucide</l>
+<l>Sittio feroce avvanzasi</l>
+<l>Cinto da forte stuol.</l>
+</lg><lg>
+<l>Nel cuore ansioso, e fervido</l>
+<l>Morte, ruina, eccidio,</l>
+<l>Lutto, e terror minaccia</l>
+<l>Al Mauritanio suol.</l>
+</lg><lg>
+<l>Freme l'amico esercito,</l>
+<l>E a l'alta Cirta, e nobile</l>
+<l>Il piè rivolger mirasi</l>
+<l>Pianto recando, e orror.</l>
+</lg><lg>
+<l>De la città Numidica</l>
+<l>Le mura intorno cingono</l>
+<l>Le ardenti turbe, e fervide</l>
+<l>Spirando ira, e furor.</l>
+</lg><lg>
+<l>Per la pianura scorrono</l>
+<l>Forti destrieri, e celeri,</l>
+<l>E a lor nitriti eccheggiano</l>
+<l>La valle, il monte, e il pian. </l>
+</lg><lg>
+<l>Su' d'alto cocchio affidasi</l>
+<l>Sittio feroce, ed anima</l>
+<l>Le turbe, e intorno aggirasi</l>
+<l>Spinto da sdegno insan.</l>
+</lg><lg>
+<l>E fanti, e cocchi, e rapidi</l>
+<l>Destrieri intorno cuoprono</l>
+<l>Il vasto campo, e fremono</l>
+<l>De l'alte mura appiè.</l>
+</lg><lg>
+<l>L'acciar feroci snudano</l>
+<l>Le ardenti squadre intrepide</l>
+<l>Al Duce formidabile</l>
+<l>Amor giurando, e fè.</l>
+</lg><lg>
+<l>Di già le scale apprestano</l>
+<l>La forte lancia afferrano,</l>
+<l>Cingon l'usbergo, e squassano</l>
+<l>L'alato, e ferreo stral.</l>
+</lg><lg>
+<l>Col forte scudo lucido</l>
+<l>L'elmo crinito coprono,</l>
+<l>E a la cittade appressansi</l>
+<l>Spirando ira marzial.</l>
+</lg><lg>
+<l>A l'opra tosto accingonsi,</l>
+<l>Già l'alte mura assalgono,</l>
+<l>L'aste appuntate vibrano,</l>
+<l>Ruotano il nudo acciar.</l>
+</lg><lg>
+<l>Quando ad un tratto ascoltansi</l>
+<l>In sui stridenti cardini,</l>
+<l>Fra il bellicoso fremito</l>
+<l>Le porte risuonar.</l>
+</lg><lg>
+<l>Tosto feroci sboccano</l>
+<l>Le avverse schiere fervide,</l>
+<l>E sul nemico scagliansi</l>
+<l>Portando ira, e terror.</l>
+</lg><lg>
+<l>Gli alati dardi volano,</l>
+<l>E sovra i scudi affoltansi,</l>
+<l>Qual cupa selva orrifica</l>
+<l>Di Marte infra l'orror.</l>
+</lg><lg>
+<l>Le ferree spade lucide</l>
+<l>Intorno splender vedonsi,</l>
+<l>Morte d'intorno aggirasi</l>
+<l>De l'armi al rimbombar.</l>
+</lg><lg>
+<l>L'aspra bipenne ferrea</l>
+<l>Alto solleva, e miransi</l>
+<l>Le turbe ai colpi orribili</l>
+<l>In preda a lei spirar.</l>
+</lg><lg>
+<l>Per ogni parte vedesi</l>
+<l>Il caldo sangue scorrere,</l>
+<l>E l'alte grida ascoltansi</l>
+<l>Del furibondo stuol.</l>
+</lg><lg>
+<l>Ora il Romano arretrasi,</l>
+<l>Or cede il fier Numidico,</l>
+<l>E omai di estinte, e gelide</l>
+<l>Salme cuoperto è il suol.</l>
+</lg><lg>
+<l>Ma vinti alfin soccombono</l>
+<l>Gli aspri Affricani intrepidi,</l>
+<l>E vincitor grandeggia</l>
+<l>Sittio superbo, e fier</l>
+</lg><lg>
+<l>Sul vasto campo innalzasi</l>
+<l>Di forti scudi fulgidi,</l>
+<l>D'acciari, e d'armi splendide</l>
+<l>Alto trofeo guerrier.</l>
+</lg><lg>
+<l>Ma già le penne celeri</l>
+<l>Scuote la fama, e rapida</l>
+<l>Nunzia fedele avvìasi</l>
+<l>Al Mauritanio Rè.</l>
+</lg><lg>
+<l>Di sdegno ardente, e fervido</l>
+<l>Giuba feroce accendesi,</l>
+<l>E furibondo, e torbido</l>
+<l>Muove anelando il piè.</l>
+</lg><lg>
+<l>Del fier Latino esercito,</l>
+<l>Del Roman Duce immemore</l>
+<l>Furente, irato volgesi</l>
+<l>Al Mauritanio suol;</l>
+</lg><lg>
+<l>Che d'armi cinto, e nobili</l>
+<l>Guerrieri oppresso vedesi</l>
+<l>Tra i ferrei lacci gemere</l>
+<l>In lacrimevol duol.</l>
+</lg><lg>
+<l>Fra l'aste, e i scudi fulgidi</l>
+<l>Feroce il Rege avvanzasi</l>
+<l>Sdegno furore, ed odio</l>
+<l>Fitto portando in cuor.</l>
+</lg><lg>
+<l>Ma non pertanto arretrasi</l>
+<l>Il forte Scipio, e immobile</l>
+<l>Guerra fatal minaccia</l>
+<l>Al fiero Dittator.</l>
+</lg>
+</lg>
+</div1>
+<div1>
+<head>6</head>
+<argument><p rend="italic">Tempesta notturna, e pericolo corso dall'armata di Cesare.</p></argument>
+<p rend="italic">Canzone</p>
+<lg type="canzone">
+<lg>
+<l>Fra l'atre, oscure tenebre,</l>
+<l>Fra il mesto, e cupo orrore</l>
+<l>Notte su l'ali tacite</l>
+<l>Avvanzasi dell'ore,</l>
+<l>E sovra il mondo intero</l>
+<l>Superba stende il plumbeo scettro altero.</l>
+</lg><lg>
+<l>In dolce quiete placida</l>
+<l>Giace natura avvolta;</l>
+<l>Tutto d'intorno ottenebra</l>
+<l>Densa caligin folta; </l>
+<l>Un nubiloso velo</l>
+<l>D'ogni parte ricuopre, e terra, e cielo.</l>
+</lg><lg>
+<l>Urlar più non ascoltansi</l>
+<l>L'irte, affamate belve,</l>
+<l>Nè al lor ruggito eccheggiano</l>
+<l>L'alto–ramose selve;</l>
+<l>In cupo orror profondo</l>
+<l>Sepolto tace, ed assopito il mondo.</l>
+</lg><lg>
+<l>In mesto suono lugubre</l>
+<l>Il gufo lamentoso</l>
+<l>Esprime il lungo gemito</l>
+<l>Da l'antro tenebroso,</l>
+<l>E sovra il campo ameno</l>
+<l>Posan gli armenti de l'erbette in seno.</l>
+</lg><lg>
+<l>Amico sonno languido</l>
+<l>Lo stuolo al Lazio infido</l>
+<l>Prende de l'armi immemore</l>
+<l>De l'Ocean sul lido;</l>
+<l>Giacciono i sensi, e l'alma</l>
+<l>In soave senolti amabil calma.</l>
+</lg><lg>
+<l>Su' gli ampj scudi fulgidi</l>
+<l>Su le corazze aurate</l>
+<l>Posan le turbe intrepide</l>
+<l>Fra l'aste, e le ferrate</l>
+<l>Loriche, e fra gli alteri</l>
+<l>Terribili, e chiomati elmi guerrieri.</l>
+</lg><lg>
+<l>Quando un violento scoppio</l>
+<l>Di romoroso tuono</l>
+<l>Muggir per l'aria ascoltasi</l>
+<l>In ripercosso suono,</l>
+<l>Per cui da l'imo fondo</l>
+<l>Scuotesi il suol, per cui traballa il mondo.</l>
+</lg><lg>
+<l>Da le caverne orribili,</l>
+<l>Nel cupo seno orrendo</l>
+<l>I scabri monti eccheggiano,</l>
+<l>Ed al fragor tremendo</l>
+<l>Ne le frondose selve</l>
+<l>Ruggon svegliate le atterrite belve.</l>
+</lg><lg>
+<l>Con alto orribil fremito</l>
+<l>A loro il mar risponde</l>
+<l>Tutte commove, ed agita</l>
+<l>Bianco–spumanti l'onde,</l>
+<l>E con i flutti alteri</l>
+<l>I neghittosi cuopre aspri guerrieri.</l>
+</lg><lg>
+<l>Destansi tosto, e pavidi</l>
+<l>Privi di moto, e lena</l>
+<l>Restano a un tratto, e miransi</l>
+<l>Cinti da vasta piena,</l>
+<l>Che d'ogni parte innonda,</l>
+<l>E la ricurva allaga equorea sponda.</l>
+</lg><lg>
+<l>Tosto atterriti corrono,</l>
+<l>Chi va, chi vien, chi fugge,</l>
+<l>Infra l'orrendo fremito</l>
+<l>De l'ocean, che mugge,</l>
+<l>Chi l'armi incerto afferra,</l>
+<l>Chi sul lido si aggira intorno, ed erra.</l>
+</lg><lg>
+<l>Qual cacciator, che vedesi</l>
+<l>In folto bosco, e nero</l>
+<l>Cinto di belve orribili</l>
+<l>Da atroce stuolo, e fiero</l>
+<l>Impallidisce, e teme</l>
+<l>La turba nel mirar, ch'orrida freme:</l>
+</lg><lg>
+<l>Tale il Romano esercito</l>
+<l>Tremante, e sbigottito</l>
+<l>S'avvanza, e tosto arretrasi</l>
+<l>Incerto, ed atterrito,</l>
+<l>E ne l'aperto campo</l>
+<l>Erra dubbioso, e cerca invan lo scampo.</l>
+</lg><lg>
+<l>Rompe il baleno rapido</l>
+<l>L'atro–funesto velo,</l>
+<l>Pei spessi tuoni, e folgori</l>
+<l>Arde, e rimbomba il cielo,</l>
+<l>E fra il tremendo orrore</l>
+<l>D'ogni parte si mostra alto terrore.</l>
+</lg><lg>
+<l>In ogni oggetto affacciasi</l>
+<l>L'inevitabil morte</l>
+<l>Ministra inesorabile</l>
+<l>De l'empia, avversa sorte;</l>
+<l>E il forte stuolo intanto</l>
+<l>Nuota sul lido infra i lamenti, e il pianto.</l>
+</lg><lg>
+<l>Da l'alto cielo scagliasi</l>
+<l>Con orrido fragore</l>
+<l>La strepitosa grandine,</l>
+<l>E accresce il cupo orrore,</l>
+<l>E dentro il cavo speco</l>
+<l>Il rimbombante suon ripete l'eco.</l>
+</lg><lg>
+<l>Alfin di spume candide</l>
+<l>Il lieto stuol grondante</l>
+<l>Lungi dal lido invìasi</l>
+<l>Giojoso, ed esultante,</l>
+<l>Scaccia il terrore; a l'alma</l>
+<l>Riede l'amica, desiata calma.</l>
+</lg><lg>
+<l>Gli orridi nembi cessano</l>
+<l>Sen fuggon le procelle;</l>
+<l>Tosto a risplender tornano</l>
+<l>Le sfolgoranti stelle,</l>
+<l>Squarciasi il fosco velo,</l>
+<l>La tempesta sparì sereno è il cielo.</l>
+</lg>
+</lg>
+</div1>
+<div1>
+<head>7</head>
+<argument><p rend="italic">Ritorno di Giuba, e della sua armata, che si unisce a quella di Scipione lasciando Sabura uno de' suoi Generali nella Mauritania per opporsi a Sittio: Nobile accoglimento fattogli da Sc.</p></argument>
+<p rend="italic">Anacreontica</p>
+<lg type="non–definito">
+<lg>
+<l>Cinto l'egregia</l>
+<l>Fronte d'alloro;</l>
+<l>Spirando intrepido</l>
+<l>Regal decoro;</l>
+</lg><lg>
+<l>Lo scettro splendido</l>
+<l>Reggendo in mano</l>
+<l>Il forte avvanzasi</l>
+<l>Rege Affricano.</l>
+</lg><lg>
+<l>Squassa la ferrea</l>
+<l>Asta appuntata; </l>
+<l>Il petto cuopregli</l>
+<l>Lorica aurata.</l>
+</lg><lg>
+<l>L'acciar fulmineo</l>
+<l>Al fianco pende,</l>
+<l>Coturno argenteo</l>
+<l>Il piè difende.</l>
+</lg><lg>
+<l>Feroci seguonlo</l>
+<l>Le fide schiere</l>
+<l>Nel cuore intrepide,</l>
+<l>Nel volto fiere. </l>
+</lg><lg>
+<l>Intorno aggiransi</l>
+<l>Gli elmi lucenti,</l>
+<l>Gli acciari, e i nobili</l>
+<l>Scudi fulgenti.</l>
+</lg><lg>
+<l>Come rimirasi</l>
+<l>Fiamma furtiva</l>
+<l>Strisciar per l'etere</l>
+<l>In notte estiva;</l>
+</lg><lg>
+<l>Tali uscir vedonsi</l>
+<l>Veloci lampi</l>
+<l>Da l'armi, e scorrere</l>
+<l>Pei vasti campi</l>
+</lg><lg>
+<l>guerra minacciano</l>
+<l>Gli aspri guerrieri,</l>
+<l>Feroci crollano</l>
+<l>Gli alti cimieri.</l>
+</lg><lg>
+<l>Superbi innoltransi</l>
+<l>Portando in cuore</l>
+<l>Furioso, intrepido,</l>
+<l>Marzial valore.</l>
+</lg><lg>
+<l>Il passo muovono</l>
+<l>Con ferme fronti,</l>
+<l>La spada ferrea</l>
+<l>A impugnar pronti.</l>
+</lg><lg>
+<l>Alto grandeggia</l>
+<l>Il Duce fiero;</l>
+<l>Trascorre, ed anima</l>
+<l>Lo stuol guerriero:</l>
+</lg><lg>
+<l>Che ardente, e fervido</l>
+<l>Audace freme,</l>
+<l>E il formidabile</l>
+<l>Cesar non teme.</l>
+</lg><lg>
+<l>Quand'ecco avvanzasi</l>
+<l>Ver l'Affricano</l>
+<l>Il forte, e nobile</l>
+<l>Duce Romano.</l>
+</lg><lg>
+<l>L'alte precedonlo</l>
+<l>Insegne aurate,</l>
+<l>Intorno cingonlo</l>
+<l>Le schiere armate.</l>
+</lg><lg>
+<l>Tosto discendono</l>
+<l>Dal cocchio altero</l>
+<l>L'eroe Romuleo,</l>
+<l>E il Rege fiero.</l>
+</lg><lg>
+<l>La destra porgonsi</l>
+<l>Fede, ed amore</l>
+<l>Giurando, e scacciano</l>
+<l>L'odio, e il livore.</l>
+</lg><lg>
+<l>Ecco congiungonsi</l>
+<l>L'alte bandiere,</l>
+<l>E le sollecite,</l>
+<l>Amiche schiere.</l>
+</lg><lg>
+<l>Il volto pingegli</l>
+<l>Gioia, e contento,</l>
+<l>Nel cuor magnanimo</l>
+<l>Terrore è spento.</l>
+</lg><lg>
+<l>Unite avvanzansi</l>
+<l>Guerrier valore</l>
+<l>Spirando, e nobile,</l>
+<l>Marzial furore.</l>
+</lg><lg>
+<l>Le lancie scuotono,</l>
+<l>Snudan le spade:</l>
+<l>Del Lazio mirali</l>
+<l>La Libertade:</l>
+</lg><lg>
+<l>Al cuor ritornano</l>
+<l>Giubilo, e speme;</l>
+<l>Al forte esercito</l>
+<l>Applaude, e freme.</l>
+</lg><lg>
+<l>Le meste lacrime</l>
+<l>Terge sul ciglio;</l>
+<l>Disprezza intrepida</l>
+<l>Terror, periglio.</l>
+</lg>
+</lg>
+</div1>
+<div1>
+<head>8</head>
+<argument><p rend="italic">Notte: sacrifizio offerto dal Console Scipione a Marte onde ottener la vittoria nella decisiva battaglia da darsi il dì seguente.</p></argument>
+<p rend="italic">Canzone</p>
+<lg type="canzone">
+<lg>
+<l>S'asconde il sole; un nero</l>
+<l>Oscuro manto infra l'opaco orrore</l>
+<l>Vedesi intorno ottenebrare il cielo,</l>
+<l>Regna dal soglio altero,</l>
+<l>E lo scettro leteo stende il sopore; </l>
+<l>Tutta cuopre natura un denso velo;</l>
+<l>Giace la terra in cieco obblìo sepolta;</l>
+<l>Posan tranquille ne le folte selve</l>
+<l>Le taciturne belve;</l>
+<l>Pallide larve, e mute erran d'intorno; </l>
+<l>Del feroce Scipion lo stuol pensoso</l>
+<l>Occupa incerto sonno, ed affannoso.</l>
+</lg><lg>
+<l>Quando al guerriero suono</l>
+<l>De la tibia marzial, dei rimbombanti,</l>
+<l>Elastici metalli, e dei percossi</l>
+<l>Timpani al forte tuono,</l>
+<l>A l'eccheggiar di trombe risuonanti</l>
+<l>Destansi a un tratto, e dal fragor riscossi</l>
+<l>Lo stuol Roman, la Mauritania turba</l>
+<l>Indossan l'armi, e gli ampj scudi alteri, </l>
+<l>E i nobili cimieri,</l>
+<l>Snudan gli acciari, alzan l'insegne aurate,</l>
+<l>E d'esse al folgorar vedesi intorno</l>
+<l>Vinta la notte, e già rinato il giorno.</l>
+</lg><lg>
+<l>Tosto al guerriero Nume</l>
+<l>Ergesi l'ara de l'ardenti faci</l>
+<l>Al dubbioso, ed incerto, almo splendore:</l>
+<l>De l'elmo alter le piume</l>
+<l>Crollando allor le forti squadre audaci</l>
+<l>Cingonla intorno, intrepido valore</l>
+<l>Spirando, e marzial, feroce sdegno,</l>
+<l>Stringon la nuda spada, e la ferrata</l>
+<l>Guerriera asta appuntata,</l>
+<l>E qual arborea selva il vasto campo</l>
+<l>Vedesi ricuoprir di folte, e spesse</l>
+<l>Armi fulgenti ammonticchiata messe.</l>
+</lg><lg>
+<l>Al forte Scipio accanto</l>
+<l>Truce nel volto maestoso, e fiero,</l>
+<l>Reggendo in man lo scettro imperioso,</l>
+<l>Di ricco, aurato manto</l>
+<l>Coperto il tergo sopra il soglio altero,</l>
+<l>Infra l'amico stuol, con minaccioso,</l>
+<l>Torbido cuore, e con feroce aspetto,</l>
+<l>Il forte Rè si asside: il capo cinto</l>
+<l>Di vaghi fiori, e avvinto</l>
+<l>D'intorte funi, de le fiere squadre</l>
+<l>Tra le festose grida, un bue mugghiante</l>
+<l>Traggesi a forza a l'ara sacra innante.</l>
+</lg><lg>
+<l>Con maestoso volto</l>
+<l>S'avvanza il Sacerdote; a questo allato</l>
+<l>Stan gli attenti ministri, ci tosto afferra,</l>
+<l>Da bianche bende avvolto,</l>
+<l>La sacra scure, e il bue corni–dorato</l>
+<l>Alto–percuote: inferocito a terra</l>
+<l>Cade quegli, e si aggira, e tenta urlando</l>
+<l>Sorger dal suol, del proprio sangue tinto</l>
+<l>Cozza co' corni, e spinto</l>
+<l>Da l'atroce dolor s'infuria, il colpo</l>
+<l>Ripete intanto il Sacerdote, e giace</l>
+<l>Vittima uccisa il forte toro audace.</l>
+</lg><lg>
+<l>Quindi di secche legna</l>
+<l>Ampia catasta s'innalzò, l'eletto</l>
+<l>Licor lieo su' vi si versa; intorno</l>
+<l>Gioia, e contento regna;</l>
+<l>V'appicca il fuoco in dignitoso aspetto</l>
+<l>De le sacrate, e ricche spoglie adorno</l>
+<l>Il ministro de' Numi; arde, e distrugge</l>
+<l>La parte de gli Dei la fiamma; intanto</l>
+<l>Del Latin Duce accanto</l>
+<l>Piega a terra il ginocchio umile, e chino</l>
+<l>Il Sacerdote augusto, e le feroci</l>
+<l>Marziali schiere al ciel mandan tai voci.</l>
+</lg><lg>
+<l>O Nume armi–possente,</l>
+<l>Deh fa; tu il puoi; che del Romuleo stuolo</l>
+<l>Sotto la ferrea, fulminante spada</l>
+<l>De la Latina gente</l>
+<l>Morda il crudele, empio tiranno il suolo,</l>
+<l>Deh fa, che l'Oppressor trafitto cada,</l>
+<l>Che regni libertà sul patrio soglio,</l>
+<l>E del nemico alter su le ruine</l>
+<l>Fiera passeggi alfine.</l>
+<l>Tacquero quindi, e un indistinta forza</l>
+<l>D'ira, di sdegno, e di marzial valore</l>
+<l>D'ogni alma s'impossessa, e d'ogni cuore.</l>
+</lg><lg>
+<l>Ma già l'accesa brace</l>
+<l>Lenta ammollì le scelte carni; allora</l>
+<l>Nei spiedi infitte s'abbrostir: l'altera</l>
+<l>Amica turba audace</l>
+<l>Lieta si asside, ed esultante ognora</l>
+<l>L'invitta a ristorar forza guerriera.</l>
+<l>“Poichè de' cibi il natural desìo”</l>
+<l>Si spense in lor, da colma tazza aurata</l>
+<l>La fiera gente armata</l>
+<l>Versa di vino alcune stille, e quindi</l>
+<l>Libando ognun vi attinge il labbro, al forte</l>
+<l>Nume chiedendo alto trionfo, o morte.</l>
+</lg><lg>
+<l>A la guerriera pugna</l>
+<l>Tosto ciascun s'appresta, e lo splendente,</l>
+<l>Aurato scudo imbraccia, e la feroce</l>
+<l>Asta letale impugna,</l>
+<l>E al Sanco cinge il fido acciar possente;</l>
+<l>E qual l'alato suo dardo veloce</l>
+<l>Squassa, e il piumato crolla alto cimiero,</l>
+<l>E qual l'usbergo rilucente allaccia,</l>
+<l>E morte, e orror minaccia;</l>
+<l>Con indistinto mormorlo confuso</l>
+<l>Cupo–fremente il forte stuol s'avvanza</l>
+<l>Sdegno spirando, e marzial costanza.</l>
+</lg>
+</lg>
+</div1>
+<div1>
+<head>9</head>
+<argument><p rend="italic">Battaglia, e vittoria di Cesare.</p></argument>
+<p rend="italic">Sciolti</p>
+<lg type="non–definito">
+<lg>
+<l>Di già sorgeva il luminoso cocchio</l>
+<l>Febo guidando, e i sottoposti colli,</l>
+<l>E i vasti campi ad indorar, veloce</l>
+<l>Per l'eterea magion volgeva il corso,</l>
+<l>Già del presago augello udiasi il canto</l>
+<l>Annunziator del rinascente giorno:</l>
+<l>Quando in tremenda maestà raccolte</l>
+<l>Quinci, e quindi le forti, audaci schiere</l>
+<l>S'avvanzano del pari, alto di polve</l>
+<l>Turbin s'innalza, e sfolgorar si vede</l>
+<l>L'aperto campo ai luminosi raggi</l>
+<l>De l'arme aurate, e dei lucenti acciari:</l>
+<l>Trema percosso il suolo al grave pondo</l>
+<l>De le turbe nemiche; in fiero aspetto</l>
+<l>L'empia Discordia, e il rio furor precede</l>
+<l>La sanguigna squassando accesa face;</l>
+<l>Erra il terror pel campo, e già di Marte</l>
+<l>L'aura fatal l'ardenti squadre investe;</l>
+<l>Già la tromba guerriera il segno diede</l>
+<l>Di strage annunziator: piombano a un tratte</l>
+<l>D'ambe le parti le furenti schiere</l>
+<l>Contro il nemico stuol; così talora</l>
+<l>Esce feroce dal covil nascosto</l>
+<l>Lione irsuto, e la chiomata testa</l>
+<l>Truce scuotendo, e digrignando i denti</l>
+<l>Contro avverso cignal, che il grifo orrendo</l>
+<l>Audace mostra in volto fier s'avventa...</l>
+</lg><lg>
+<l>L'aste appuntate in pria vibrar le forti</l>
+<l>Squadre marziali, ma spezzate a un tratto</l>
+<l>Caddero queste al suol, dei ferrei scudi</l>
+<l>L'urto impotenti a sostener; le spade</l>
+<l>Snudano quindi, e per sentier di sangue</l>
+<l>Scorrendo vanno, e il fido acciar ruotando</l>
+<l>De gl'inimici al petto apronsi il varco.</l>
+<l>Tosto il fiero Scipion su' d'alto cocchio</l>
+<l>In minacciosa maestade assiso</l>
+<l>Amiche turbe, esclama, orsù di Roma</l>
+<l>La libertade difendiam, s'atterri</l>
+<l>Il crudele oppressor, trafitto cada</l>
+<l>L'orgoglioso tiranno, andiam, co l'armi</l>
+<l>Vincansi le sue turme, ed ci conosca,</l>
+<l>Che d'un Romano in cuor nò non è spento</l>
+<l>Il coraggio, il valor; degni mostriamci</l>
+<l>Del latin nome, e vincitore, o vinto</l>
+<l>Il fier nemico ad apprezzarci impari.</l>
+<l>Disse, e sferzando i rapidi destrieri</l>
+<l>Contro si scaglia a le frementi schiere;</l>
+<l>Seguonlo ardenti le Romane turbe</l>
+<l>Fuoco spiranti, e cupo orror di morte</l>
+<l>Dal fosco ciglio; il giorno oscura un folto</l>
+<l>Nuvol di dardi, e di lanciate pietre.</l>
+<l>A l'impeto tremendo, al fiero scontro,</l>
+<l>A l'urto sanguinoso il forte stuolo</l>
+<l>Si arretra, e cede al fulminante brando</l>
+<l>Del feroce Scipion: furiosa Erinni</l>
+<l>Questi rassembra, che d'Averno uscita</l>
+<l>Scuota il flagello sibilante, e orrendo;</l>
+<l>Somiglia l'elmo a le fischianti serpi</l>
+<l>Terribil crine dei Tartarei mostri,</l>
+<l>E vibran l'armi rilucenti raggi,</l>
+<l>Come d'erebo ignito orride fiamme.</l>
+<l>E già cadean di libertade infranti</l>
+<l>I ferrei lacci, e vincitor pel campo</l>
+<l>Del Console scorrea l'ardente stuolo,</l>
+<l>Che qual torrente impetuoso, o scabro</l>
+<l>Masso spiccato da la cima alpestre</l>
+<l>D'inospitale, e dirupato monte</l>
+<l>Strage ovunque recava, il fiero Duce</l>
+<l>Animoso seguendo, a cui di morte</l>
+<l>Notte letal cuopriva il ciglio orrendo:</l>
+<l>Quando ad un tratto polveroso, e tinto</l>
+<l>Di nero sangue il Dittator d'innanzi</l>
+<l>Fassi a l'Eroe, che vittorioso intorno</l>
+<l>Ruotava il brando, ed inseguìa feroce</l>
+<l>Il fuggitivo esercito tremante;</l>
+<l>E vieni, esclama, il tuo signore affronta,</l>
+<l>Iniquo Duce, sprezzator malvagio</l>
+<l>Del sovrano poter, vieni trafiggi</l>
+<l>Quegli a cui Roma diè di se l'impero;</l>
+<l>Vibra l'asta infedel contro il mio petto;</l>
+<l>Il tuo nemico, il Dittator son io.</l>
+</lg><lg>
+<l>Come l'ondoso mar da opposti venti</l>
+<l>Agitato, e commosso i vasti flutti</l>
+<l>Al cielo innalza, e si sconvolge, e bolle</l>
+<l>Fra l'orrido mugghiar sul curvo dorso</l>
+<l>De lo spumante, ed arenoso lido:</l>
+<l>Tal di Scipione in cuor l'ardente sdegno</l>
+<l>Cupo–fremea tra le focose vampe</l>
+<l>D'indomito furor; tosto feroce</l>
+<l>Impugna l'asta, ed al nemico usbergo</l>
+<l>Drizza la ferrea punta, e vibra il colpo</l>
+<l>Rapido sì, ma più veloce un dardo</l>
+<l>Vola fischiando, e a lui trafigge, e abbatte</l>
+<l>L'armata destra; urlo di doglia, e rabbia</l>
+<l>Manda il Console fier; di man gli cadde</l>
+<l>L'asta appuntata, e non difeso il petto</l>
+<l>Al Dittatore offrì; l'acciar guerriero</l>
+<l>Ei tosto snuda, e contro lui s'avventa</l>
+<l>Spirando ira, e terror, ma accorre a un tratto</l>
+<l>Il fido stuolo, ed il piagato Duce</l>
+<l>Cinge d'intorno, e i forti scudi oppone</l>
+<l>Al mortifero colpo; allor fremendo</l>
+<l>Sferza i destrieri il Dittatore, e vola</l>
+<l>Ove ferve la pugna; il Rè Numida</l>
+<l>Scorge, che assiso in su' d'altero cocchio</l>
+<l>Fra l'aste, e l'armi le nemiche turme</l>
+<l>Dispergendo inseguìa, ma d'altra parte</l>
+<l>Fuggir rimira de l'opposte squadre</l>
+<l>Il palpitante stuolo: il nudo acciaro</l>
+<l>Con la destra reggendo ci si rivolge</l>
+<l>Al Mauritanio esercito feroce;</l>
+<l>Aura di morte, ed alto lutto il segue,</l>
+<l>Precedelo il terror; l'orrida vista</l>
+<l>A sostener non vale il fier Numida,</l>
+<l>E un panico spavento occupa a un tratto</l>
+<l>Le vincitrici schiere, e già veloci</l>
+<l>Volgono indietro il piè; tosto le avverse,</l>
+<l>Guerriere turbe ad inseguir si danno</l>
+<l>L'esercito fuggente; il sangue scorre</l>
+<l>Come torbido fiume, i morti corpi</l>
+<l>Cuoprono il suol; le vittoriose squadre</l>
+<l>A le vinte soggiacciono. Squassando</l>
+<l>L'asta grondante di nemico sangue</l>
+<l>Pel vasto campo il vincitor passeggia,</l>
+<l>E con il fermo piè l'estinte salme</l>
+<l>Dei Romani calpesta, e già gli sembra</l>
+<l>Regnar sul campidoglio, e al mondo intero</l>
+<l>Leggi dettare in maestoso aspetto,</l>
+<l>E prostesi mirare a' piedi suoi</l>
+<l>E popoli, e città, regni, ed imperi.</l>
+<l>Folle! da l'alto ciel con torvo ciglio</l>
+<l>Quirino il mira, e minaccioso il Nume</l>
+<l>Squassa il fulmin trisulco; orrido lampo</l>
+<l>Fende l'aria ad un tratto, il cupo tuono</l>
+<l>Con terribil fragor tremendo scoppia,</l>
+<l>De L'Euro più veloce il fiammeggiante</l>
+<l>Acceso dardo piomba: il fiero Duce</l>
+<l>Spaventato si arresta, e l'elmo altero</l>
+<l>Co la destra percuote, un freddo gelo</l>
+<l>A lui scorre per l'ossa; intorno volge</l>
+<l>Dubitando lo sguardo, e il ciel rimira</l>
+<l>Corruciarsi, oscurarsi, orride nubi</l>
+<l>Ottenebrare il dì; Giove che annunzi?</l>
+<l>Tremante esclama, un sì funesto augurio</l>
+<l>Qual colpa meritò? perchè la terra</l>
+<l>Fuma pel dardo tuo? dicea, quand'ecco</l>
+<l>Austro veloce sorge, e in fuga pone</l>
+<l>Procelle, e nembi, serenossi il cielo,</l>
+<l>Ma non tranquillo ancor, con mesta fronte</l>
+<l>Il fiero Dittator la lancia, e il brando</l>
+<l>Tinti reggendo di Romano sangue</l>
+<l>A la tenda marzial rivolge il passo.</l>
+</lg>
+</lg>
+</div1>
+<div1>
+<head>10</head>
+<argument><p rend="italic">Morte di Catone</p></argument>
+<lg>
+<lg>
+<l>Già nasce il dì, la rubiconda aurora</l>
+<l>Spunta dal Gange e col suo cocchio splendido</l>
+<l>Gli ameni colli, e gli alti monti indora.</l>
+</lg><lg>
+<l>Al vivido fulgor lucido, e vago</l>
+<l>Il fatidico canto odesi sciogliere</l>
+<l>L'ali battendo il lieto augel presago.</l>
+</lg><lg>
+<l>Quando Catone dal notturno letto</l>
+<l>Con agitato cuor, dubbioso, e tacito</l>
+<l>Inquieto sorge in minacciante aspetto.</l>
+</lg><lg>
+<l>L'acciaro afferra quell'acciar funesto,</l>
+<l>Che la sua man ruotò, che al fiero esercito</l>
+<l>Fu de' nemici un dì cotanto infesto.</l>
+</lg><lg>
+<l>Lo snuda a un tratto, e di tai voci il suono,</l>
+<l>Fuoco spirando da la torva faccia,</l>
+<l>Udir ci fa, con alto, orribil tuono.</l>
+</lg><lg>
+<l>Roma infelice, sventurata Roma,</l>
+<l>Dunque il capo dovrai piegar da un empio,</l>
+<l>Da un perverso tiranno oppressa, e doma?</l>
+</lg><lg>
+<l>Dunque vinta cadrai, dunque il tuo soglio</l>
+<l>Calpesterà con fermo piede immobile</l>
+<l>D'un ribelle infedele il fiero orgoglio?</l>
+</lg><lg>
+<l>Te, che de' Galli il popol contumace</l>
+<l>Sconfigger già potesti, e la Numidica</l>
+<l>Intrepida atterrar nazione audace;</l>
+</lg><lg>
+<l>Te, per cui cadde estinto il fier Sannita,</l>
+<l>Cui nel campo cedè l'alter Macedone,</l>
+<l>E de l'Assirio Rè la turba ardita;</l>
+</lg><lg>
+<l>Te, che su' d'aureo trono alto, e sublime</l>
+<l>Sedesti un dì, te dunque i lacci stringono,</l>
+<l>Ed un giogo servile atterra, e opprime?</l>
+</lg><lg>
+<l>E mirarti io potrò sotto l'altero</l>
+<l>Scettro di tua ruina infausto indizio</l>
+<l>Il crinito piegar nobil cimiero?</l>
+</lg><lg>
+<l>E la fulminea tua spada raggiante,</l>
+<l>E il serto aurato, e l'asta, e l'armi lucide</l>
+<l>Sul suol deporre ad un tiranno innante?</l>
+</lg><lg>
+<l>Ah nò! simil orror da gli occhi miei</l>
+<l>Esser lungi dovrà; tue leggi io venero;</l>
+<l>La mia Signora, alta città, tu sei.</l>
+</lg><lg>
+<l>Se cade il tuo poter, cadere insieme</l>
+<l>Quegli dovrà, che a te fedel conservasi,</l>
+<l>E che di morte il crudo acciar non teme.</l>
+</lg><lg>
+<l>Dunque... si muora, ed alla tua ruina</l>
+<l>Quella si unisca di Catone, e vedasi</l>
+<l>“Spirar con me la libertà latina”.</l>
+</lg><lg>
+<l>Disse, ed il brando volse al forte petto,</l>
+<l>E su' d'esso fermò la punta ferrea</l>
+<l>Con ciglio immoto, e con feroce aspetto.</l>
+</lg><lg>
+<l>Quindi nel sen l'immerge; orrido scende</l>
+<l>Il ferro micidial, cade, ed aggirasi</l>
+<l>Caton feroce, e sovra il suol si stende.</l>
+</lg><lg>
+<l>Così talor da villereccio stuolo</l>
+<l>Recisa altera quercia, o annoso platano</l>
+<l>De la vasta sua mole ingombra il suolo.</l>
+</lg><lg>
+<l>Torser lo sguardo innorridito i Numi:</l>
+<l>Di già spirò l'invitto Eroe Romuleo,</l>
+<l>Spirò del Lazio il Duce, e chiuse i lumi.</l>
+</lg>
+</lg>
+</div1>
+<div1>
+<head>11</head>
+<argument><p rend="italic">Cesare Vincitore</p></argument>
+<p rend="italic">Sonetto</p>
+<lg type="sonetto">
+<lg>
+<l>Empio, vincesti omai, cadde trafitto</l>
+<l>Di Catone il valor; siedi Signore</l>
+<l>Di Roma altera, e il tuo fatal delitto</l>
+<l>A l'Italia arrecò pianto, e dolore.</l>
+</lg><lg>
+<l>Volgi, o crudele, al campidoglio afflitto</l>
+<l>Il truce sguardo, e fremi; invan l'amore</l>
+<l>Cerchi de' tuoi Romani, il duolo è scritto</l>
+<l>Su la fronte d'ognun, d'ognun sul cuore.</l>
+</lg><lg>
+<l>Geme chi volge al tuo funesto trono</l>
+<l>Le abbattute pupille; il mondo intero</l>
+<l>I suoi lamenti esprime in flebil suono.</l>
+</lg><lg>
+<l>Più che sperar non v'è tregua, o perdono,</l>
+<l>E con dolente ognun labbro sincero</l>
+<l>Ai numi chiede di tua morte il dono.</l>
+</lg>
+</lg>
+</div1>
+</body>
+<back>
+<div1>
+<head>Indice</head>
+<p>Prefazione. pag. 1.</p>
+<p>Descrizione del campo di Farsaglia: partenza di Metello Scipione per l'Affrica: Alleanza fra Giuba Rè di Mauritania, il console Scipione, e Varo comandante Romano in Affrica = Sestine = pag. 5.</p>
+<p>Viaggio di Catone per i deserti della Libia con le truppe, che comandava nella guerra fra Cesare, e Pompeo: suo arrivo in Affrica: fortificazione della città di Utica, in cui si rinserra = Anacreontica = pag. 9.</p>
+<p>Viaggio di Cesare: suo arrivo in Affrica: combattimento fra le sue truppe, e quelle del console Scipione con egual perdita d'ambe le parti = Quartine = pag. 13.</p>
+<p>Incursione fatta nel regno di Giuba da Sittio uno de' congiurati di Catilina, che dopo la sua morte avea radunate varie truppe, a cui comandava: assedio, e presa della città di Cirta: partenza di Giuba dal campo di Scipione per difendere il suo regno = Anacreontica = pag. 16.</p>
+<p>Tempesta notturna, e pericolo corso dall'armata di Cesare = Canzone = pag. 23.</p>
+<p>Ritorno di Giuba, e della sua armata, che si unisce a quella di Scipione lasciando Sabura uno de' suoi Generali nella Mauritania per opporsi a Sittio: nobile accoglimento fattogli da Scipione = Anacreontica = pag. 30.</p>
+<p>Notte: Sacrifizio offerto dal Console Scipione a Marte, onde ottener la vittoria nella decisiva battaglia da darsi il dì seguente = Canzone = pag. 35.</p>
+<p>Battaglia, e vittoria di Cesare = Sciolti = pag. 42.</p>
+<p>Morte di Catone. pag. 50.</p>
+<p>Cesare vincitore = Sonetto = pag. 53.</p>
+<p>Fine.</p>
+</div1>
+</back>
+</text>
+</TEI.2>

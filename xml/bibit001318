@@ -1,0 +1,2441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Trionfi</title>
+      <author>Francesco Petrarca</author>
+    </titleStmt>
+    <extent>133 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001318</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Triumphi</title>
+        <author>Petrarca, Francesco</author>
+        <editor id="ed">Ariani, Marco</editor>
+        <publisher>Mursia</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date>1988</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <editorialDecl><p>Concordemente all'originale cartaceo, i titoli dei frammenti riportati in appendice sono stati inclusi tra parentesi quadre</p></editorialDecl><classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>300</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.1 - Poesia italiana fino al 1375.</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-01-01T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Umberto La Torraca</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-07-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+
+
+<text>
+<body>
+
+<div1 type="parte"><head>TRIUMPHUS CUPIDINIS</head>
+	<div2 type="canto"><head>I</head>
+		<lg type="terzina">
+			<lg><l>Al tempo che rinova i mie' sospiri</l>
+			    <l>per la dolce memoria di quel giorno</l>
+			    <l>che fu principio a sí lunghi martiri,</l></lg>
+			<lg><l>già il Sole al Toro l'uno e l'altro corno</l>
+			    <l>scaldava, e la fanciulla di Titone</l>
+			    <l>correa gelata al suo usato soggiorno.</l></lg>
+			<lg><l>Amor, gli sdegni e 'l pianto, e la stagione</l>
+			    <l>ricondotto m'aveano al chiuso loco</l>
+			    <l>ov'ogni fascio il cor lasso ripone.</l></lg>
+			<lg><l>Ivi fra l'erbe, già del pianger fioco,</l>
+			    <l>vinto dal sonno, vidi una gran luce,</l>
+			    <l>e dentro assai dolor con breve gioco.</l></lg>
+			<lg><l>Vidi un vittorioso e sommo duce,</l>
+			    <l>pur com'un di color che 'n Campidoglio</l>
+			    <l>triumfal carro a gran gloria conduce.</l></lg>
+			<lg><l>I' che gioir di tal vista non soglio</l>
+			    <l>per lo secol noioso in ch'i' mi trovo,</l>
+			    <l>vòto d'ogni valor, pien d'ogn'orgoglio,</l></lg>
+			<lg><l>l'abito in vista sí leggiadro e novo</l>
+			    <l>mirai, alzando gli occhi gravi e stanchi,</l>
+			    <l>ch'altro diletto che 'nparar non provo:</l></lg>
+			<lg><l>quattro destrier vie piú che neve bianchi,</l>
+			    <l>sovr'un carro di foco un garzon crudo</l>
+			    <l>con arco in man e con saette a' fianchi;</l></lg>
+			<lg><l>nulla temea, però non maglia o scudo,</l>
+			    <l>ma sugli omeri avea sol due grand'ali</l>
+			    <l>di color mille, tutto l 'altro ignudo;</l></lg>
+			<lg><l>d'intorno innumerabili mortali,</l>
+			    <l>parte presi in battaglia, e parte occisi,</l>
+			    <l>parte feriti di pungenti strali.</l></lg>
+			<lg><l>Vago d'udir novelle, oltra mi misi</l>
+			    <l>tanto ch'io fui in esser di quegli uno</l>
+			    <l>che per sua man di vita eran divisi.</l></lg>
+			<lg><l>Allor mi strinsi a remirar s'alcuno</l>
+			    <l>riconoscessi ne la folta schiera</l>
+			    <l>del re non mai di lagrime digiuno:</l></lg>
+			<lg><l>nesun vi riconobbi; e s'alcun v'era</l>
+			    <l>di mia notizia, avea cangiata vista</l>
+			    <l>per morte o per pregion crudele e fera.</l></lg>
+			<lg><l>Un'ombra alquanto men che l'altre trista</l>
+			    <l>mi venne incontra e mi chiamò per nome,</l>
+			    <l>dicendo: — Or questo per amar s'acquista! —</l></lg>
+			<lg><l>Ond'io meravigliando dissi: — Or come</l>
+			    <l>conosci me, ch'io te non riconosca? —</l>
+			    <l>Et e': — Questo m'aven per l'aspre some</l></lg>
+			<lg><l>de' legami ch'io porto, e l'aer fosca</l>
+			    <l>contende agli occhi tuoi; ma vero amico</l>
+			    <l>ti son e teco nacqui in terra tosca. —</l></lg>
+			<lg><l>Le sue parole e 'l ragionare antico</l>
+			    <l>scoverson quel che 'l viso mi celava;</l>
+			    <l>e cosí n'assidemmo in loco aprico.</l></lg>
+			<lg><l>E' cominciò: — Gran tempo è ch'io pensava</l>
+			    <l>vederti qui fra noi, ché da' primi anni</l>
+			    <l>tal presagio di te tua vita dava. —</l></lg>
+			<lg><l>— E' fu ben ver, ma gli amorosi affanni</l>
+			    <l>mi spaventâr sí ch'io lasciai la 'mpresa;</l>
+			    <l>ma squarciati ne porto il petto e' panni. —</l></lg>
+			<lg><l>Così diss'io; et e', quando ebbe intesa</l>
+			    <l>la mia risposta, sorridendo disse:</l>
+			    <l>— Oh, figliuol mio, qual per te fiamma è accesa! —</l></lg>
+			<lg><l>Io no' l'intesi allor; ma or sí fisse</l>
+			    <l>sue parole mi trovo entro la testa,</l>
+			    <l>che mai piú saldo in marmo non si scrisse.</l></lg>
+			<lg><l>E per la nova età, ch'ardita e presta</l>
+			    <l>fa la mente e la lingua, il demandai:</l>
+			    <l>— Dimmi, per cortesia, che gente è questa? —</l></lg>
+			<lg><l>— Di qui a poco tempo tel saprai</l>
+			    <l>per te stesso — rispose — e sarai d'elli,</l>
+			    <l>tal per te nodo fassi, e tu no 'l sai;</l></lg>
+			<lg><l>e prima cangerai vólto e capelli,</l>
+			    <l>che 'l nodo di ch'io parlo si discioglia</l>
+			    <l>dal collo e da' tuo' piedi anco rebelli.</l></lg>
+			<lg><l>Ma per empier la tua giovenil voglia,</l>
+			    <l>dirò di noi, e 'n prima del maggiore,</l>
+			    <l>che cosí vita e libertà ne spoglia.</l></lg>
+			<lg><l>Questi è colui che 'l mondo chiama Amore;</l>
+			    <l>amaro, come vedi, e vedrai meglio</l>
+			    <l>quando fia tuo com'è nostro signore;</l></lg>
+			<lg><l>giovencel mansueto, e fiero veglio:</l>
+			    <l>ben sa chi 'l prova, e fíate cosa piana</l>
+			    <l>anzi mill'anni; in fin ad or ti sveglio.</l></lg>
+			<lg><l>Ei nacque d'ozio e di lascivia umana,</l>
+			    <l>nudrito di penser dolci soavi,</l>
+			    <l>fatto signore e dio da gente vana.</l></lg>
+			<lg><l>Qual è morto da lui, qual con piú gravi</l>
+			    <l>leggi mena sua vita aspra et acerba</l>
+			    <l>sotto mille catene e mille chiavi.</l></lg>
+			<lg><l>Quel che 'n sí signorile et sí superba</l>
+			    <l>vista vien primo è Cesar, che 'n Egitto</l>
+			    <l>Cleopatra legò tra' fiori e l'erba.</l></lg>
+			<lg><l>Or di lui si triumfa, et è ben dritto,</l>
+			    <l>s'e' vinse 'l mondo, et altri ha vinto lui,</l>
+			    <l>che del suo vincitor sia gloria il vitto.</l></lg>
+			<lg><l>L'altro è suo figlio, e pure amò costui</l>
+			    <l>piú giustamente: egli è Cesare Augusto,</l>
+			    <l>che Livia sua, pregando, tolse altrui.</l></lg>
+			<lg><l>Neron è il terzo, dispietato e 'ngiusto;</l>
+			    <l>vedilo andar pien d'ira e di disdegno:</l>
+			    <l>femina il vinse, e par tanto robusto.</l></lg>
+			<lg><l>Vedi il bon Marco d'ogni laude degno,</l>
+			    <l>pien di filosofia la lingua e 'l petto,</l>
+			    <l>ma pur Faustina il fa qui star a segno.</l></lg>
+			<lg><l>Que' duo pien di paura e di sospetto,</l>
+			    <l>l'uno è Dionisio e l'altr'è Alessandro:</l>
+			    <l>ma quel di suo temer ha degno effetto.</l></lg>
+			<lg><l>L'altro è colui che pianse sotto Antandro</l>
+			    <l>la morte di Creusa, e 'l suo amor tolse</l>
+			    <l>a que' che 'l suo figliuol tolse ad Evandro.</l></lg>
+			<lg><l>Udito hai ragionar d'un che non volse</l>
+			    <l>consentir al furor de la matrigna,</l>
+			    <l>e da suoi preghi per fuggir si sciolse;</l></lg>
+			<lg><l>ma quella intenzion casta e benigna</l>
+			    <l>l'occise, sí l'amore in odio torse</l>
+			    <l>Fedra, amante terribile e maligna.</l></lg>
+			<lg><l>Et ella ne morío; vendetta forse</l>
+			    <l>d'Ipolito e di Teseo e d'Adrianna,</l>
+			    <l>ch'a morte, tu 'l sai bene, amando corse.</l></lg>
+			<lg><l>Tal biasma altrui che se stesso condanna;</l>
+			    <l>ché, chi prende diletto di far frode,</l>
+			    <l>non si de' lamentar s'altri lo 'nganna.</l></lg>
+			<lg><l>Vedi 'l famoso, con sua tanta lode,</l>
+			    <l>preso menar tra due sorelle morte:</l>
+			    <l>l'una di lui et ei de l'altra gode.</l></lg>
+			<lg><l>Colui ch'è seco è quel possente e forte</l>
+			    <l>Ercole, ch'Amor prese, e l'altro è Achille,</l>
+			    <l>ch'ebbe in suo amar assai dogliose sorte.</l></lg>
+			<lg><l>Quello è Demofoon, e quella è Fille,</l>
+			    <l>quello è Giasone e quell'altra è Medea,</l>
+			    <l>ch'Amor e lui seguío per tante ville.</l></lg>
+			<lg><l>E quanto al padre et al fratel piú rea</l>
+			    <l>tanto al suo amante è piú turbata e fella,</l>
+			    <l>ché del suo amor piú degna esser credea.</l></lg>
+			<lg><l>Isifile vien poi, e duolsi anch'ella</l>
+			    <l>del barbarico amor che 'l suo l'ha tolto.</l>
+			    <l>Poi vèn colei c'ha il titol d'esser bella;</l></lg>
+			<lg><l>seco è 'l pastor che male il suo bel vólto</l>
+			    <l>mirò sí fiso, ond'uscir gran tempeste,</l>
+			    <l>e funne il mondo sottosopra vòlto.</l></lg>
+			<lg><l>Odi poi lamentar fra l'altre meste</l>
+			    <l>Enone di París, e Menelao</l>
+			    <l>d'Elena, et Ermion chiamare Oreste,</l></lg>
+			<lg><l>e Laodomia il suo Protesilao,</l>
+			    <l>et Argia Polinice, assai piú fida</l>
+			    <l>che l'avara mogliera d'Amfiarao.</l></lg>
+			<lg><l>Odi 'l pianto e i sospiri, odi le strida</l>
+			    <l>de le misere accese che li spirti</l>
+			    <l>rendero a lui che 'n tal modo gli guida.</l></lg>
+			<lg><l>Non poría mai di tutti il nome dirti,</l>
+			    <l>ché non uomini pur, ma dèi gran parte</l>
+			    <l>empion del bosco e de gli ombrosi mirti.</l></lg>
+			<lg><l>Vedi Venere bella, e con lei Marte</l>
+			    <l>cinto di ferro i pie', le braccia e 'l collo,</l>
+			    <l>e Plutone e Proserpina in disparte.</l></lg>
+			<lg><l>Vedi Iunon gelosa, e 'l biondo Apollo,</l>
+			    <l>che solea disprezzar l'etate e l'arco</l>
+			    <l>che gli diede in Tesaglia poi tal crollo.</l></lg>
+			<lg><l>Che debb'io dire? In un passo men varco:</l>
+			    <l>tutti son qui in pregion gli dèi di Varro,</l>
+			    <l>e di lacciuoli innumerabil carco</l></lg>
+			<lg><l>vèn catenato Giove innanzi al carro. —</l></lg>
+		</lg>
+	</div2>
+	<div2 type="canto"><head>II</head>
+		<lg type="terzina">
+			<lg><l>Stanco già di mirar, non sazio ancora,</l>
+			    <l>or quinci or quindi mi volgea, guardando</l>
+			    <l>cose ch'a ricontarle è breve l'ora.</l></lg>
+			<lg><l>Giva 'l cor di pensiero in pensier, quando</l>
+			    <l>tutto a sé il trasser due che a mano a mano</l>
+			    <l>passavan dolcemente lagrimando:</l></lg>
+			<lg><l>mossemi il lor leggiadro abito e strano,</l>
+			    <l>e 'l parlar pellegrin, che m'era oscuro,</l>
+			    <l>ma l'interprete mio mel facea piano.</l></lg>
+			<lg><l>Poi che seppi chi eran, piú securo</l>
+			    <l>m'accostai a lor, ché l'un spirito amico</l>
+			    <l>al nostro nome, l'altro era empio e duro.</l></lg>
+			<lg><l>Fecimi al primo: — O Massinissa antico,</l>
+			    <l>per lo tuo Scipione e per costei</l>
+			    <l>— cominciai — non t'incresca quel ch'i' dico. —</l></lg>
+			<lg><l>Mirommi, e disse: — Volontier saprei</l>
+			    <l>chi tu se'inanzi, da poi che sí bene</l>
+			    <l>hai spiato ambeduo gli affetti miei. —</l></lg>
+			<lg><l>— L'esser mio — gli risposi — non sostene</l>
+			    <l>tanto conoscitor, ché cosí lunge</l>
+			    <l>di poca fiamma gran luce non vène;</l></lg>
+			<lg><l>ma tua fama real per tutto aggiunge,</l>
+			    <l>e tal che mai non ti vedrà né vide,</l>
+			    <l>con bel nodo d'amor teco congiunge.</l></lg>
+			<lg><l>Or dimmi, se colui in pace vi guide</l>
+			    <l>— e mostrai il duca lor — che coppia è questa,</l>
+			    <l>che mi par de le cose rare e fide? —</l></lg>
+			<lg><l>— La lingua tua, al mio nome sí presta,</l>
+			    <l>prova — diss'ei — che 'l sappi per te stesso,</l>
+			    <l>ma dirò per sfogar l'anima mesta:</l></lg>
+			<lg><l>avend'io in quel sommo uom tutto 'l cor messo,</l>
+			    <l>tanto ch'a Lelio ne do vanto a pena,</l>
+			    <l>ovunque fur sue insegne, e fui lor presso.</l></lg>
+			<lg><l>A lui Fortuna fu sempre serena,</l>
+			    <l>ma non già quanto degno era il valore,</l>
+			    <l>del qual, piú d'altro mai, l'alma ebbe piena.</l></lg>
+			<lg><l>Poi che l'arme romane a grande onore</l>
+			    <l>per l'estremo occidente furo sparse,</l>
+			    <l>ivi n'aggiunse e ne congiunse Amore;</l></lg>
+			<lg><l>né mai piú dolce fiamma in duo cori arse,</l>
+			    <l>né farà, credo: o me! ma poche notti</l>
+			    <l>fur a tanti desir sí brevi e scarse,</l></lg>
+			<lg><l>indarno a marital giogo condotti,</l>
+			    <l>che del nostro furor scuse non false,</l>
+			    <l>e i legittimi nodi furon rotti.</l></lg>
+			<lg><l>Quel che sol piú che tutto 'l mondo valse,</l>
+			    <l>ne dipartí con sue sante parole;</l>
+			    <l>ché di nostri sospir nulla gli calse.</l></lg>
+			<lg><l>E ben che fosse onde mi dolse e dole,</l>
+			    <l>pur vidi in lui chiara vertute accesa;</l>
+			    <l>ché 'n tutto è orbo chi non vede il sole.</l></lg>
+			<lg><l>Gran giustizia a gli amanti è grave offesa;</l>
+			    <l>però di tanto amico un tal consiglio</l>
+			    <l>fu quasi scoglio a l'amorosa impresa.</l></lg>
+			<lg><l>Padre m'era in onore, in amor figlio,</l>
+			    <l>fratel ne gli anni; onde obedir convenne,</l>
+			    <l>ma col cor tristo e con turbato ciglio.</l></lg>
+			<lg><l>Cosí questa mia cara a morte venne;</l>
+			    <l>ché, vedendosi giunta in forza altrui,</l>
+			    <l>morir in prima che servir sostenne.</l></lg>
+			<lg><l>Et io del dolor mio ministro fui;</l>
+			    <l>ché 'l pregator e i preghi era sí ardenti,</l>
+			    <l>ch'offesi me per non offender lui;</l></lg>
+			<lg><l>e manda' le il velen con sí dolenti</l>
+			    <l>pensier, com'io so bene, et ella il crede,</l>
+			    <l>e tu, se tanto o quanto d'amor senti.</l></lg>
+			<lg><l>Pianto fu 'l mio di tanta sposa erede;</l>
+			    <l>lei, et ogni mio bene, ogni speranza</l>
+			    <l>perder elessi per non perder fede.</l></lg>
+			<lg><l>Ma cerca omai se trovi in questa danza</l>
+			    <l>notabil cosa, perché 'l tempo è leve</l>
+			    <l>e piú de l'opra che del giorno avanza. —</l></lg>
+			<lg><l>Pien di pietate, e ripensando 'l breve</l>
+			    <l>spazio al gran foco di duo tali amanti,</l>
+			    <l>pareami al sol aver un cor di neve;</l></lg>
+			<lg><l>quand'io udi' dir su, nel passar avanti:</l>
+			    <l>— Costui certo per sé già non mi spiace,</l>
+			    <l>ma ferma son d'odiarli tutti quanti. —</l></lg>
+			<lg><l>— Pon — diss'io — il core, o Sofonisba, in pace,</l>
+			    <l>ché Cartagine tua per le man nostre</l>
+			    <l>tre volte cadde, et a la terza giace. —</l></lg>
+			<lg><l>Et ella: — Altro vogl'io che tu mi mostre:</l>
+			    <l>se Affrica pianse, Italia non ne rise:</l>
+			    <l>dimandatene pur l'istorie vostre. —</l></lg>
+			<lg><l>A tanto il nostro e suo amico si mise,</l>
+			    <l>sorridendo, con lei nella gran calca,</l>
+			    <l>e fur da lor le mie luci divise.</l></lg>
+			<lg><l>Come uom che per terren dubio cavalca,</l>
+			    <l>che va restando ad ogni passo e guarda,</l>
+			    <l>e 'l pensier de l'andar molto difalca,</l></lg>
+			<lg><l>cosí l'andata mia dubiosa e tarda</l>
+			    <l>facean gli amanti; di che ancor m'aggrada</l>
+			    <l>saver quanto ciascun e 'n qual foco arda.</l></lg>
+			<lg><l>I' vidi ir a man manca un fuor di strada,</l>
+			    <l>a guisa di chi brami e trovi cosa</l>
+			    <l>onde poi vergognoso e lieto vada.</l></lg>
+			<lg><l>Donar altrui la sua diletta sposa:</l>
+			    <l>o sommo amore e nova cortesia!</l>
+			    <l>tal ch'ella stessa lieta e vergognosa</l></lg>
+			<lg><l>parea del cambio; e givansi per via</l>
+			    <l>parlando insieme de' lor dolci affetti,</l>
+			    <l>e sospirando il regno di Soria.</l></lg>
+			<lg><l>Trassimi a que' tre spirti, che ristretti</l>
+			    <l>eran già per seguire altro camino,</l>
+			    <l>e dissi al primo: — I' prego che t'aspetti. —</l></lg>
+			<lg><l>Et egli, al suon del ragionar latino,</l>
+			    <l>turbato in vista, si ratenne un poco;</l>
+			    <l>e poi, del mio voler quasi indivino,</l></lg>
+			<lg><l>disse: — Io Seleuco son, questi è Antioco</l>
+			    <l>mio figlio, che gran guerra ebbe con voi:</l>
+			    <l>ma ragion contra forza non ha loco.</l></lg>
+			<lg><l>Questa, mia in prima, sua donna fu poi,</l>
+			    <l>ché per scamparlo d'amorosa morte</l>
+			    <l>gliel diedi; e 'l don fu lecito fra noi.</l></lg>
+			<lg><l>Stratonica è 'l suo nome, e nostra sorte,</l>
+			    <l>come vedi, indivisa; e per tal segno</l>
+			    <l>si vede il nostro amor tenace e forte;</l></lg>
+			<lg><l>ch'è contenta costei lasciar me e 'l regno,</l>
+			    <l>io il mio diletto, e questi la sua vita,</l>
+			    <l>per far, vie piú che sé, l'un l'altro degno.</l></lg>
+			<lg><l>E se non fosse la discreta aita</l>
+			    <l>del fisico gentil, che ben s'accorse,</l>
+			    <l>l'età sua in sul fiorire era finita.</l></lg>
+			<lg><l>Tacendo, amando, quasi a morte corse;</l>
+			    <l>e l'amar forza, e 'l tacer fu vertute;</l>
+			    <l>la mia, vera pietà, ch'a lui soccorse. —</l></lg>
+			<lg><l>Cosí disse; e, come uom che voler mute,</l>
+			    <l>col fin de le parole i passi volse,</l>
+			    <l>ch'a pena gli potei render salute.</l></lg>
+			<lg><l>Poi che dagli occhi miei l'ombra si tolse,</l>
+			    <l>rimasi grave, e sospirando andai,</l>
+			    <l>ché 'l mio cor dal suo dir non si disciolse</l></lg>
+			<lg><l>in fin che mi fu detto: — Troppo stai</l>
+			    <l>in un penser a le cose diverse,</l>
+			    <l>e 'l tempo ch'è brevissimo ben sai. —</l></lg>
+			<lg><l>Non menò tanti armati in Grecia Serse</l>
+			    <l>quanti ivi erano amanti ignudi e presi,</l>
+			    <l>tal che l'occhio la vista non sofferse:</l></lg>
+			<lg><l>varii di lingue e varii di paesi,</l>
+			    <l>tanto che di mille un non seppi il nome,</l>
+			    <l>e fanno istoria quei pochi ch'i' 'ntesi.</l></lg>
+			<lg><l>Perseo era l'uno e volsi saper come</l>
+			    <l>Andromeda gli piacque in Etiopia,</l>
+			    <l>vergine bruna i begli occhi e le chiome;</l></lg>
+			<lg><l>ivi il vano amador che la sua propia</l>
+			    <l>bellezza desiando fu distrutto,</l>
+			    <l>povero sol per troppo averne copia,</l></lg>
+			<lg><l>ché divenne un bel fior senza alcun frutto;</l>
+			    <l>e quella che, lui amando, ignuda voce</l>
+			    <l>fecesi, e 'l corpo un duro sasso asciutto;</l></lg>
+			<lg><l>ivi quell'altro al suo mal sí veloce,</l>
+			    <l>Ifi, ch'amando altrui in odio s'ebbe,</l>
+			    <l>con piú altri dannati a simil croce:</l></lg>
+			<lg><l>gente cui per amar vivere increbbe;</l>
+			    <l>ove raffigurai alcun moderni,</l>
+			    <l>ch'a nominar perduta opra sarebbe:</l></lg>
+			<lg><l>que' duo che fece Amor compagni eterni,</l>
+			    <l>Alcione e Ceice, in riva al mare</l>
+			    <l>far i lor nidi a' piú soavi verni;</l></lg>
+			<lg><l>lungo costor pensoso Esaco stare,</l>
+			    <l>cercando Esperia, or sovra un sasso assiso</l>
+			    <l>et or sott'acqua et or alto volare;</l></lg>
+			<lg><l>e vidi la crudel figlia di Niso</l>
+			    <l>fuggir volando, e correr Atalanta,</l>
+			    <l>da tre palle d'òr vinta e d'un bel viso;</l></lg>
+			<lg><l>e seco Ipomenès, che, fra cotanta</l>
+			    <l>turba d'amanti miseri cursori,</l>
+			    <l>sol di vittoria si rallegra e vanta.</l></lg>
+			<lg><l>Fra questi fabulosi e vani amori</l>
+			    <l>vidi Aci e Galatea, che 'n grembo gli era,</l>
+			    <l>e Polifemo farne gran romori;</l></lg>
+			<lg><l>Glauco ondeggiar per entro quella schiera</l>
+			    <l>senza colei cui sola par che pregi,</l>
+			    <l>nomando un'altr'amante acerba e fera;</l></lg>
+			<lg><l>Canente e Pico, un già de' nostri regi,</l>
+			    <l>or vago augello; e chi di stato il mosse</l>
+			    <l>lasciògli il nome e 'l real manto e i fregi.</l></lg>
+			<lg><l>Vidi 'l pianto d'Egeria; e 'n vece d'osse</l>
+			    <l>Scilla indurarse in petra aspra ed alpestra,</l>
+			    <l>che del mar ciciliano infamia fosse;</l></lg>
+			<lg><l>e quella che la penna da man destra,</l>
+			    <l>come dogliosa e desperata scriva,</l>
+			    <l>e 'l ferro ignudo tèn dalla sinestra;</l></lg>
+			<lg><l>Pigmalion con la sua donna viva;</l>
+			    <l>e mille che Castalia, et Aganippe,</l>
+			    <l>udí cantar per la sua verde riva;</l></lg>
+			<lg><l>e d'un pomo beffata al fin Cidippe.</l></lg>
+		</lg>
+	</div2>
+	<div2 type="canto"><head>III</head>
+		<lg type="terzina">
+			<lg><l>Era sí pieno il cor di meraviglie</l>
+			    <l>ch'i' stava come l'uom che non pò dire,</l>
+			    <l>e tace, e guarda pur ch'altri il consiglie,</l></lg>
+			<lg><l>quando l'amico mio: — Che fai? che mire?</l>
+			    <l>che pensi? — disse — non sai tu ben ch'io</l>
+			    <l>son de la turba? e' mi convien seguire —</l></lg>
+			<lg><l>— Frate — risposi — e tu sai l'esser mio</l>
+			    <l>e l'amor del saper che m'ha sí acceso,</l>
+			    <l>che l'opra è ritardata dal desio. —</l></lg>
+			<lg><l>Et egli: — I' t'avea già, tacendo, inteso:</l>
+			    <l>tu vuoli udir che son quest'altri ancora;</l>
+			    <l>i' tel dirò, se 'l dir non è conteso.</l></lg>
+			<lg><l>Vedi quel grande il quale ogni uomo onora;</l>
+			    <l>egli è Pompeo, et ha Cornelia seco,</l>
+			    <l>che del vil Tolomeo si lagna e plora.</l></lg>
+			<lg><l>L'altro piú di lontan, quel è 'l gran greco;</l>
+			    <l>né vede Egisto e l'empia Clitemestra:</l>
+			    <l>or puoi veder Amor s'egli è ben cieco.</l></lg>
+			<lg><l>Altra fede, altro amor: vedi Ipermestra,</l>
+			    <l>vedi Piramo e Tisbe insieme a l'ombra,</l>
+			    <l>Leandro in mare et Ero a la fenestra.</l></lg>
+			<lg><l>Quel sí pensoso è Ulisse, affabile ombra,</l>
+			    <l>che la casta mogliera aspetta e prega;</l>
+			    <l>ma Circe, amando, gliel ritene e 'ngombra.</l></lg>
+			<lg><l>L'altro è il figliuol d'Amilcare, e no 'l piega</l>
+			    <l>in cotanti anni Italia tutta e Roma;</l>
+			    <l>vil feminella in Puglia il prende e lega.</l></lg>
+			<lg><l>Quella che 'l suo signor con breve coma</l>
+			    <l>va seguitando, in Ponto fu reina:</l>
+			    <l>come in atto servil se stessa doma!</l></lg>
+			<lg><l>L'altra è Porzia, che 'l ferro e 'l foco affina;</l>
+			    <l>quell'altra è Giulia, e duolsi del marito</l>
+			    <l>ch'a la seconda fiamma piú s'inchina.</l></lg>
+			<lg><l>Volgi in qua gli occhi al gran padre schernito,</l>
+			    <l>che non si muta, e d'aver non gl'incresce</l>
+			    <l>sette e sette anni per Rachel servito:</l></lg>
+			<lg><l>vivace amor, che negli affanni cresce!</l>
+			    <l>Vedi 'l padre di questo, e vedi l'avo</l>
+			    <l>come di sua magion sol con Sara esce.</l></lg>
+			<lg><l>Poi vedi come Amor crudele e pravo</l>
+			    <l>vince Davit, e sforzalo a far l'opra</l>
+			    <l>onde poi pianga in loco oscuro e cavo.</l></lg>
+			<lg><l>Simile nebbia par ch'oscuri e copra</l>
+			    <l>del piú saggio figliuol la chiara fama,</l>
+			    <l>e 'l parta in tutto dal Signor di sopra.</l></lg>
+			<lg><l>De l'altro, che 'n un punto ama e disama,</l>
+			    <l>vedi Tamar ch'al suo frate Absalone</l>
+			    <l>disdegnosa e dolente si richiama.</l></lg>
+			<lg><l>Poco dinanzi a lei vedi Sansone,</l>
+			    <l>vie piú forte che saggio, che per ciance</l>
+			    <l>in grembo a la nemica il capo pone.</l></lg>
+			<lg><l>Vedi qui ben fra quante spade e lance</l>
+			    <l>Amor, e 'l sonno, ed una vedovetta</l>
+			    <l>con bel parlar, con sue polite guance</l></lg>
+			<lg><l>vince Oloferne; e lei tornar soletta</l>
+			    <l>con una ancilla e con l'orribil teschio,</l>
+			    <l>Dio ringraziando, a mezza notte, in fretta.</l></lg>
+			<lg><l>Vedi Sichem, e 'l suo sangue ch'è meschio</l>
+			    <l>de la circoncisione e de la morte,</l>
+			    <l>e 'l padre còlto e 'l popol ad un veschio:</l></lg>
+			<lg><l>questo gli ha fatto il súbito amar forte.</l>
+			    <l>Vedi Assuero il suo amor in qual modo</l>
+			    <l>va medicando a ciò che 'n pace il porte:</l></lg>
+			<lg><l>da l'un si scioglie e lega a l'altro nodo;</l>
+			    <l>cotal ha questa malizia remedio</l>
+			    <l>come d'asse si trae chiodo con chiodo.</l></lg>
+			<lg><l>Vuo' veder in un cor diletto e tedio,</l>
+			    <l>dolce et amaro? Or mira il fero Erode:</l>
+			    <l>Amore e crudeltà gli han posto assedio.</l></lg>
+			<lg><l>Vedi come arde in prima, e poi si rode,</l>
+			    <l>tardi pentito di sua feritate,</l>
+			    <l>Marianne chiamando, che non l'ode.</l></lg>
+			<lg><l>Vedi tre belle donne innamorate,</l>
+			    <l>Procri, Artemisia, con Deidamia,</l>
+			    <l>ed altrettante ardite e scelerate,</l></lg>
+			<lg><l>Semiramís, Biblí e Mirra ria:</l>
+			    <l>come ciascuna par che si vergogni</l>
+			    <l>de la sua non concessa e torta via!</l></lg>
+			<lg><l>Ecco quei che le carte empion di sogni,</l>
+			    <l>Lancilotto, Tristano, e gli altri erranti,</l>
+			    <l>ove conven che 'l vulgo errante agogni.</l></lg>
+			<lg><l>Vedi Ginevra, Isolda, e l'altre amanti,</l>
+			    <l>e la coppia d'Arimino, che 'nseme</l>
+			    <l>vanno facendo dolorosi pianti. —</l></lg>
+			<lg><l>Cosí parlava; et io, come chi teme</l>
+			    <l>futuro male, e trema anzi la tromba,</l>
+			    <l>sentendo già dov'altri anco no 'l preme,</l></lg>
+			<lg><l>avea color d'uom tratto d'una tomba,</l>
+			    <l>quando una giovenetta ebbi dallato,</l>
+			    <l>pura assai piú che candida colomba:</l></lg>
+			<lg><l>ella mi prese; et io, ch'avrei giurato</l>
+			    <l>difendermi d'un uom coverto d'arme,</l>
+			    <l>con parole e con cenni fui legato.</l></lg>
+			<lg><l>E come ricordar di vero parme,</l>
+			    <l>l'amico mio piú presso mi si fece,</l>
+			    <l>e con un riso, per piú doglia darme,</l></lg>
+			<lg><l>dissemi entro l'orecchia: — Omai ti lece</l>
+			    <l>per te stesso parlar con chi ti piace,</l>
+			    <l>ché tutti siam macchiati d'una pece. —</l></lg>
+			<lg><l>Io era un di color cui piú dispiace</l>
+			    <l>de l'altrui ben che del suo mal, vedendo</l>
+			    <l>chi m'avea preso, in libertate e 'n pace;</l></lg>
+			<lg><l>e come tardi dopo 'l danno intendo,</l>
+			    <l>di sue bellezze mia morte facea,</l>
+			    <l>d'amor, di gelosia, d'invidia ardendo.</l></lg>
+			<lg><l>Gli occhi dal suo bel viso non torcea,</l>
+			    <l>come uom ch'è infermo, e di tal cosa ingordo</l>
+			    <l>ch'è dolce al gusto, a la salute è rea.</l></lg>
+			<lg><l>Ad ogni altro piacer cieco era e sordo,</l>
+			    <l>seguendo lei per sí dubbiosi passi</l>
+			    <l>ch'i' tremo ancor, qualor me ne ricordo.</l></lg>
+			<lg><l>Da quel tempo ebbi gli occhi umidi e bassi,</l>
+			    <l>e 'l cor pensoso, e solitario albergo</l>
+			    <l>fonti, fiumi, montagne, boschi e sassi;</l></lg>
+			<lg><l>da indi in qua cotante carte aspergo</l>
+			    <l>di penseri, e di lagrime, e d'inchiostro,</l>
+			    <l>tante ne squarcio, e n'apparecchio, e vergo;</l></lg>
+			<lg><l>da indi in qua so che si fa nel chiostro</l>
+			    <l>d'Amore, e che si teme, e che si spera,</l>
+			    <l>e, chi sa legger, ne la fronte il mostro.</l></lg>
+			<lg><l>E veggio andar quella leggiadra fera,</l>
+			    <l>non curando di me né di mie pene,</l>
+			    <l>di sue vertuti e di mie spoglie altera.</l></lg>
+			<lg><l>Da l'altra parte, s'io discerno bene,</l>
+			    <l>questo signor, che tutto 'l mondo sforza,</l>
+			    <l>teme di lei, ond'io son fuor di spene;</l></lg>
+			<lg><l>ch'a mia difesa non ho ardir né forza,</l>
+			    <l>e quello, in ch'io sperava, lei lusinga,</l>
+			    <l>che me e gli altri crudelmente scorza.</l></lg>
+			<lg><l>Costei non è chi tanto o quanto stringa,</l>
+			    <l>cosí selvaggia e rebellante suole</l>
+			    <l>da le 'nsegne d'Amore andar solinga:</l></lg>
+			<lg><l>e veramente è fra le stelle un sole,</l>
+			    <l>un singular suo proprio portamento,</l>
+			    <l>suo riso, suoi disdegni e sue parole;</l></lg>
+			<lg><l>le chiome accolte in oro o sparse al vento;</l>
+			    <l>gli occhi ch'accesi d'un celeste lume</l>
+			    <l>m'infiamman sí ch'i' son d'arder contento.</l></lg>
+			<lg><l>Chi poría 'l mansueto alto costume</l>
+			    <l>aguagliar mai, parlando, e la vertute,</l>
+			    <l>ov'è 'l mio stil quasi al mar picciol fiume?</l></lg>
+			<lg><l>Nove cose, e già mai piú non vedute,</l>
+			    <l>né da veder già mai piú d'una volta,</l>
+			    <l>ove tutte le lingue sarien mute!</l></lg>
+			<lg><l>Cosí preso mi trovo, et ella è sciolta;</l>
+			    <l>io prego giorno e notte (o stella iniqua!),</l>
+			    <l>et ella a pena di mille uno ascolta.</l></lg>
+			<lg><l>Dura legge d'Amor! ma, ben che obliqua,</l>
+			    <l>servar convensi, però ch'ella aggiunge</l>
+			    <l>di cielo in terra, universale, antiqua.</l></lg>
+			<lg><l>Or so come da sé 'l cor di disgiunge,</l>
+			    <l>e come sa far pace, guerra, e tregua,</l>
+			    <l>e coprir suo dolor quand'altri il punge;</l></lg>
+			<lg><l>e so come in un punto si dilegua</l>
+			    <l>e poi si sparge per le guance il sangue,</l>
+			    <l>se paura o vergogna avèn che 'l segua;</l></lg>
+			<lg><l>so come sta tra' fiori ascoso l'angue,</l>
+			    <l>come sempre tra due si vegghia e dorme,</l>
+			    <l>come senza languir si more e langue;</l></lg>
+			<lg><l>so de la mia nemica cercar l'orme,</l>
+			    <l>e temer di trovarla, e so in qual guisa</l>
+			    <l>l'amante ne l'amato si transforme;</l></lg>
+			<lg><l>so fra lunghi sospiri e brevi risa</l>
+			    <l>stato, voglia, color cangiare spesso,</l>
+			    <l>viver stando dal cor l'alma divisa;</l></lg>
+			<lg><l>so mille volte il dí ingannar me stesso;</l>
+			    <l>so, seguendo 'l mio foco ovunque e' fugge,</l>
+			    <l>arder da lunge et agghiacciar da presso;</l></lg>
+			<lg><l>so come Amor sovra la mente rugge,</l>
+			    <l>e come ogni ragione indi discaccia,</l>
+			    <l>e so in quante maniere il cor si strugge;</l></lg>
+			<lg><l>so di che poco canape s'allaccia</l>
+			    <l>un'anima gentil, quand'ella è sola,</l>
+			    <l>e non v'è chi per lei difesa faccia;</l></lg>
+			<lg><l>so come Amor saetta, e come vola,</l>
+			    <l>e so com'or minaccia et or percote,</l>
+			    <l>come ruba per forza e come invola,</l></lg>
+			<lg><l>e come sono instabili sue rote,</l>
+			    <l>le mani armate, e gli occhi avolti in fasce,</l>
+			    <l>sue promesse di fé come son vòte;</l></lg>
+			<lg><l>come nell'ossa il suo foco si pasce,</l>
+			    <l>e ne le vene vive occulta piaga,</l>
+			    <l>onde morte e palese incendio nasce.</l></lg>
+			<lg><l>In somma so che cosa è l'alma vaga,</l>
+			    <l>rotto parlar con súbito silenzio,</l>
+			    <l>che poco dolce molto amaro appaga,</l></lg>
+			<lg><l> di che s'ha il mèl temprato con l'assenzio.</l></lg>
+		</lg>
+	</div2>
+	<div2 type="canto"><head>IV</head>
+		<lg type="terzina">
+			<lg><l>Poscia che mia fortuna in forza altrui</l>
+			    <l>m'ebbe sospinto, e tutti incisi i nervi</l>
+			    <l>di libertate ov'alcun tempo fui,</l></lg>
+			<lg><l>io, ch'era piú salvatico che i cervi,</l>
+			    <l>ratto domesticato fui con tutti</l>
+			    <l>i miei infelici e miseri conservi;</l></lg>
+			<lg><l>e le fatiche lor vidi, e i lor frutti,</l>
+			    <l>per che torti sentieri e con qual arte</l>
+			    <l>a l'amorosa greggia eran condutti.</l></lg>
+			<lg><l>Mentre io volgeva gli occhi in ogni parte,</l>
+			    <l>s'i' ne vedesse alcun di chiara fama</l>
+			    <l>o per antiche o per moderne carte,</l></lg>
+			<lg><l>vidi colui che sola Euridice ama,</l>
+			    <l>e lei segue a l'inferno, e, per lei morto,</l>
+			    <l>con la lingua già fredda anco la chiama.</l></lg>
+			<lg><l>Alceo conobbi, a dir s'amor sí scorto,</l>
+			    <l>Pindaro, Anacreonte che rimesse</l>
+			    <l>ha le sue muse sol d'Amore in porto.</l></lg>
+			<lg><l>Virgilio vidi, e parmi intorno avesse</l>
+			    <l>compagni d'alto ingegno e da trastullo,</l>
+			    <l>di quei che volentier già 'l mondo lesse:</l></lg>
+			<lg><l>l'uno era Ovidio, e l'altro era Catullo,</l>
+			    <l>l'altro Properzio, che d'amor cantaro</l>
+			    <l>fervidamente, e l'altro era Tibullo.</l></lg>
+			<lg><l>Una giovene greca a paro a paro</l>
+			    <l>co i nobili poeti iva cantando,</l>
+			    <l>et avea un suo stil soave e raro.</l></lg>
+			<lg><l>Cosí, or quinci or quindi rimirando,</l>
+			    <l>vidi gente ir per una verde piaggia</l>
+			    <l>pur d'amor volgarmente ragionando:</l></lg>
+			<lg><l>ecco Dante e Beatrice, ecco Selvaggia,</l>
+			    <l>ecco Cin da Pistoia, Guitton d'Arezzo,</l>
+			    <l>che di non esser primo par ch'ira aggia;</l></lg>
+			<lg><l>ecco i duo Guidi, che già fur in prezzo,</l>
+			    <l>Onesto bolognese, e i ciciliani,</l>
+			    <l>che fur già primi, e quivi eran da sezzo;</l></lg>
+			<lg><l>Sennuccio e Franceschin, che fur sí umani</l>
+			    <l>come ogni uom vide; e poi v'era un drappello</l>
+			    <l>di portamenti e di volgari strani:</l></lg>
+			<lg><l>fra tutti il primo Arnaldo Daniello,</l>
+			    <l>gran maestro d'amor, ch'a la sua terra</l>
+			    <l>ancor fa onor col suo dir strano e bello.</l></lg>
+			<lg><l>Eranvi quei ch'Amor sí leve afferra:</l>
+			    <l>l'un Piero e l'altro, e 'l men famoso Arnaldo,</l>
+			    <l>e quei che fur conquisi con piú guerra:</l></lg>
+			<lg><l>i' dico l'uno e l'altro Raimbaldo</l>
+			    <l>che cantò pur Beatrice e Monferrato,</l>
+			    <l>e 'l vecchio Pier d'Alvernia con Giraldo;</l></lg>
+			<lg><l>Folco, que' ch'a Marsilia il nome ha dato,</l>
+			    <l>et a Genova tolto, ed a l'estremo</l>
+			    <l>cangiò per miglior patria abito e stato;</l></lg>
+			<lg><l>Giaufré Rudel, ch'usò la vela e 'l remo</l>
+			    <l>a cercar la sua morte, e quel Guillielmo</l>
+			    <l>che per cantar ha 'l fior de' suoi dí scemo;</l></lg>
+			<lg><l>Amerigo, Bernardo, Ugo e Gauselmo,</l>
+			    <l>e molti altri ne vidi, a cui la lingua</l>
+			    <l>lancia e spada fu sempre e targia et elmo.</l></lg>
+			<lg><l>E, poi conven che 'l mio dolor distingua,</l>
+			    <l>volsimi a' nostri, e vidi 'l bon Tomasso,</l>
+			    <l>ch'ornò Bologna, et or Messina impingua.</l></lg>
+			<lg><l>O fugace dolcezza! o viver lasso!</l>
+			    <l>chi mi ti tolse sí tosto d'inanzi,</l>
+			    <l>senza 'l qual non sapea movere un passo?</l></lg>
+			<lg><l>dove se' or, che meco eri pur dianzi?</l>
+			    <l>Ben è 'l viver mortal, che sí n'agrada,</l>
+			    <l>sogno d'infermi e fola di romanzi!</l></lg>
+			<lg><l>Poco era fuor de la comune strada,</l>
+			    <l>quando Socrate e Lelio vidi in prima:</l>
+			    <l>con lor piú lunga via conven ch'io vada.</l></lg>
+			<lg><l>O qual coppia d'amici! che né 'n rima</l>
+			    <l>poria né 'n prosa ornar assai né 'n versi,</l>
+			    <l>se, come dee, vertú nuda s'estima.</l></lg>
+			<lg><l>Con questi duo cercai monti diversi,</l>
+			    <l>andando tutti tre sempre ad un giogo;</l>
+			    <l>a questi le mie piaghe tutte apersi;</l></lg>
+			<lg><l>da costor non mi pò tempo né luogo</l>
+			    <l>divider mai, sí come io spero e bramo,</l>
+			    <l>in fino al cener del funereo rogo;</l></lg>
+			<lg><l>con costor colsi il glorioso ramo</l>
+			    <l>onde forse anzi tempo ornai le tempie</l>
+			    <l>in memoria di quella ch'io tanto amo.</l></lg>
+			<lg><l>Ma pur di lei che 'l cor di pensier m'empie,</l>
+			    <l>non potei coglier mai ramo né foglia,</l>
+			    <l>sí fur le sue radici acerbe et empie;</l></lg>
+			<lg><l>onde, ben che talor doler mi soglia,</l>
+			    <l>come uom ch'è offeso, quel che con questi occhi</l>
+			    <l>vidi m'è fren che mai piú non mi doglia:</l></lg>
+			<lg><l>materia di coturni, e non di socchi,</l>
+			    <l>veder preso colui ch'è fatto deo</l>
+			    <l>da tardi ingegni, rintuzzati e sciocchi!</l></lg>
+			<lg><l>Ma prima vo' seguir che di noi feo,</l>
+			    <l>e poi dirò quel che d'altrui sostenne:</l>
+			    <l>opra non mia, d'Omero o ver d'Orfeo.</l></lg>
+			<lg><l>Seguimmo il suon de le purpuree penne</l>
+			    <l>de' volanti corsier per mille fosse,</l>
+			    <l>fin che nel regno di sua madre venne;</l></lg>
+			<lg><l>né rallentate le catene o scosse,</l>
+			    <l>ma straccati per selve e per montagne,</l>
+			    <l>tal che nesun sapea in qual mondo fosse.</l></lg>
+			<lg><l>Giace oltra, ove l'Egeo sospira e piagne,</l>
+			    <l>un'isoletta dilicata e molle</l>
+			    <l>piú d'altra che 'l sol scalde o che 'l mar bagne:</l></lg>
+			<lg><l>nel mezzo è un ombroso e chiuso colle</l>
+			    <l>con sí soavi odor, con sí dolci acque</l>
+			    <l>ch'ogni maschio pensier de l'alma tolle.</l></lg>
+			<lg><l>Questa è la terra che cotanto piacque</l>
+			    <l>a Venere, e 'n quel tempo a lei fu sagra</l>
+			    <l>che 'l ver nascoso e sconosciuto giacque;</l></lg>
+			<lg><l>et anco è di valor sí nuda e magra,</l>
+			    <l>tanto riten del suo primo esser vile,</l>
+			    <l>che par dolce a i cattivi et a i buoni agra.</l></lg>
+			<lg><l>Or quivi triumfò il signor gentile</l>
+			    <l>di noi e de gli altri tutti ch'ad un laccio</l>
+			    <l>presi avea, dal mar d'India a quel di Tile:</l></lg>
+			<lg><l>pensieri in grembo e vanitadi in braccio,</l>
+			    <l>diletti fugitivi e ferma noia,</l>
+			    <l>ròse di verno a mezza state il ghiaccio;</l></lg>
+			<lg><l>dubbia speme davanti e breve gioia,</l>
+			    <l>penitenzia e dolor dopo le spalle;</l>
+			    <l>sallo il regno di Roma e quel di Troia.</l></lg>
+			<lg><l>E rimbombava tutta quella valle</l>
+			    <l>d'acque e d'augelli, et eran le sue rive</l>
+			    <l>bianche, verdi, vermiglie, perse e gialle;</l></lg>
+			<lg><l>rivi correnti di fontane vive</l>
+			    <l>al caldo tempo su per l'erba fresca,</l>
+			    <l>e l'ombra spessa e l'aure dolci estive;</l></lg>
+			<lg><l>poi quand' è 'l verno e l'aer si rinfresca,</l>
+			    <l>tepidi soli e giuochi e cibi et ozio</l>
+			    <l>lento, che i semplicetti cori invesca.</l></lg>
+			<lg><l>Era ne la stagion che l'equinozio</l>
+			    <l>fa vincitore il giorno, e Progne riede</l>
+			    <l>con la sorella al suo dolce negozio.</l></lg>
+			<lg><l>O di nostre fortune instabil fede!</l>
+			    <l>In quel loco e 'n quel tempo et in quell'ora</l>
+			    <l>che piú largo tributo a gli occhi chiede,</l></lg>
+			<lg><l>triumfar volse que' che 'l vulgo adora.</l>
+			    <l>E vidi a qual servaggio, et a qual morte,</l>
+			    <l>a quale strazio va chi s'innamora:</l></lg>
+			<lg><l>errori e sogni et imagini smorte</l>
+			    <l>eran d'intorno a l'arco triumfale,</l>
+			    <l>e false opinioni in su le porte,</l></lg>
+			<lg><l>e lubrico sperar su per le scale,</l>
+			    <l>e dannoso guadagno ed util danno,</l>
+			    <l>e gradi ove piú scende chi piú sale;</l></lg>
+			<lg><l>stanco riposo e riposato affanno,</l>
+			    <l>chiaro disnore e gloria oscura e nigra,</l>
+			    <l>perfida lealtate e fido inganno,</l></lg>
+			<lg><l>sollicito furor e ragion pigra,</l>
+			    <l>carcer ove si vèn per strade aperte,</l>
+			    <l>onde per strette a gran pena si migra,</l></lg>
+			<lg><l>ratte scese a l'entrare, a l'uscir erte,</l>
+			    <l>dentro confusion turbida e mischia</l>
+			    <l>di certe doglie e d'allegrezze incerte.</l></lg>
+			<lg><l>Non bollí mai Vulcan, Lipari od Ischia,</l>
+			    <l>Stromboli o Mongibello in tanta rabbia:</l>
+			    <l>poco ama sé chi 'n tal gioco s'arrischia.</l></lg>
+			<lg><l>In cosí tenebrosa e stretta gabbia</l>
+			    <l>rinchiusi fummo, ove le penne usate</l>
+			    <l>mutai per tempo e la mia prima labbia:</l></lg>
+			<lg><l>e 'n tanto, pur sognando libertate,</l>
+			    <l>l'alma, che 'l gran disio fea pronta e lève,</l>
+			    <l>consolai col veder le cose andate.</l></lg>
+			<lg><l>Rimirando, er'io fatto al sol di neve,</l>
+			    <l>tanti spirti e sí chiari in carcer tetro,</l>
+			    <l>quasi lunga pittura in tempo breve,</l></lg>
+			<lg><l>che 'l piè va inanzi, e l'occhio torna a dietro.</l></lg>
+		</lg>
+	</div2>
+</div1>
+<div1 type="parte"><head>TRIUMPHUS PUDICITIE</head>
+		<lg type="terzina">
+			<lg><l>Quando ad un giogo et in un tempo quivi</l>
+			    <l>domita l'alterezza de gli dèi</l>
+			    <l>e de gli uomini vidi al mondo divi,</l></lg>
+			<lg><l>i' presi essempio de' lor stati rei,</l>
+			    <l>facendo mio profetto l'altrui male</l>
+			    <l>in consolar i casi e i dolor mei;</l></lg>
+			<lg><l>ché s'io veggio d'un arco e d'uno strale</l>
+			    <l>Febo percosso e 'l giovene d'Abído,</l>
+			    <l>l'un detto deo, l'altro uom puro mortale,</l></lg>
+			<lg><l>e veggio ad un lacciuol Giunone e Dido,</l>
+			    <l>ch'amor pio del suo sposo a morte spinse,</l>
+			    <l>non quel d'Enea, com'è 'l publico grido,</l></lg>
+			<lg><l>non mi debb'io doler s'altri mi vinse</l>
+			    <l>giovene, incauto, disarmato e solo.</l>
+			    <l>E se la mia nemica Amor non strinse,</l></lg>
+			<lg><l>non è ancor giusta assai cagion di duolo,</l>
+			    <l>ché 'n abito il revidi ch'io ne piansi,</l>
+			    <l>sí tolte gli eran l'ali e 'l gire a volo.</l></lg>
+			<lg><l>Non con altro romor di petto dansi</l>
+			    <l>duo leon feri, o duo folgori ardenti</l>
+			    <l>che cielo e terra e mar dar loco fansi,</l></lg>
+			<lg><l>ch'i' vidi Amor con tutti suoi argomenti</l>
+			    <l>mover contra colei di ch'io ragiono,</l>
+			    <l>e lei presta assai piú che fiamme o venti.</l></lg>
+			<lg><l>Non fan sí grande e sí terribil sòno</l>
+			    <l>Etna qualor da Enchelado è piú scossa,</l>
+			    <l>Scilla e Caribdi quando irate sono,</l></lg>
+			<lg><l>che via maggiore in su la prima mossa</l>
+			    <l>non fusse del dubbioso e grave assalto,</l>
+			    <l>ch'i' non cre' che ridir sappia né possa.</l></lg>
+			<lg><l>Ciascun per sé si ritraeva in alto</l>
+			    <l>per veder meglio, e l'orror de l'impresa</l>
+			    <l>i cori e gli occhi avea fatti di smalto.</l></lg>
+			<lg><l>Quel vincitor che primo era a l'offesa,</l>
+			    <l>da man dritta lo stral, da l'altra l'arco,</l>
+			    <l>e la corda a l'orecchia avea già stesa.</l></lg>
+			<lg><l>Non corse mai sí levemente al varco</l>
+			    <l>d'una fugace cerva un leopardo</l>
+			    <l>libero in selva, o di catene scarco,</l></lg>
+			<lg><l>che non fusse stato ivi lento e tardo,</l>
+			    <l>tanto Amor pronto venne a lei ferire</l>
+			    <l>ch'al volto ha le faville ond'io tutto ardo.</l></lg>
+			<lg><l>Combattea in me co la pietà il desire,</l>
+			    <l>ché dolce m'era sí fatta compagna,</l>
+			    <l>duro a vederla in tal modo perire.</l></lg>
+			<lg><l>Ma vertú, che da' buon non si scompagna,</l>
+			    <l>mostrò a quel punto ben come a gran torto</l>
+			    <l>chi abandona lei d'altrui si lagna;</l></lg>
+			<lg><l>ché già mai schermidor non fu sí accorto</l>
+			    <l>a schifar colpo, né nocchier sí presto</l>
+			    <l>a volger nave da gli scogli in porto,</l></lg>
+			<lg><l>come uno schermo intrepido et onesto</l>
+			    <l>súbito ricoverse quel bel viso</l>
+			    <l>dal colpo, a chi l'attende, agro e funesto.</l></lg>
+			<lg><l>Io era al fin co gli occhi e col cor fiso,</l>
+			    <l>sperando la vittoria ond'esser sòle,</l>
+			    <l>e di non esser piú da lei diviso.</l></lg>
+			<lg><l>Come chi smisuratamente vòle,</l>
+			    <l>ch'ha scritte, inanzi ch'a parlar cominci,</l>
+			    <l>ne gli occhi e ne la fronte le parole,</l></lg>
+			<lg><l>volea dir io: — Signor mio, se tu vinci,</l>
+			    <l>légami con costei, s'io ne son degno,</l>
+			    <l>né temer che già mai mi scioglia quinci —</l></lg>
+			<lg><l>quand'io 'l vidi pien d'ira e di disdegno</l>
+			    <l>sí grave ch'a ridirlo sarien vinti</l>
+			    <l>tutti i maggior, non che 'l mio basso ingegno;</l></lg>
+			<lg><l>ché già in fredda onestate erano estinti</l>
+			    <l>i dorati suoi strali, accesi in fiamma</l>
+			    <l>d'amorosa beltate e 'n piacer tinti.</l></lg>
+			<lg><l>Non ebbe mai di vero valor dramma</l>
+			    <l>Camilla, e l'altre andar use in battaglia</l>
+			    <l>con la sinistra sola intera mamma;</l></lg>
+			<lg><l>non fu sí ardente Cesare in Farsaglia</l>
+			    <l>contra 'l genero suo, com'ella fue</l>
+			    <l>contra colui ch'ogni lorica smaglia.</l></lg>
+			<lg><l>Armate era con lei tutte le sue</l>
+			    <l>chiare virtuti (o gloriosa schiera!)</l>
+			    <l>e teneansi per mano a due a due:</l></lg>
+			<lg><l>Onestate e Vergogna a la fronte era,</l>
+			    <l>nobile par de le virtú divine,</l>
+			    <l>che fan costei sopra le donne altera;</l></lg>
+			<lg><l>Senno e Modestia e l'altre due confine,</l>
+			    <l>Abito con Diletto in mezzo 'l core,</l>
+			    <l>Perseveranza e Gloria in su la fine;</l></lg>
+			<lg><l>Bella Accoglienza, Accorgimento fòre,</l>
+			    <l>Cortesia intorno intorno e Puritate,</l>
+			    <l>Timor d'infamia e Desio sol d'onore;</l></lg>
+			<lg><l>penser canuti in giovenile etate,</l>
+			    <l>e (la concordia ch'è sí rara al mondo)</l>
+			    <l>v'era con Castità somma Beltate.</l></lg>
+			<lg><l>tal venía contr'Amore e 'n sí secondo</l>
+			    <l>favor del cielo e de le ben nate alme,</l>
+			    <l>che de la vista e'non sofferse il pondo.</l></lg>
+			<lg><l>Mille e mille famose e care salme</l>
+			    <l>tòrre gli vidi e scuotergli di mano</l>
+			    <l>mille vittoriose e chiare palme.</l></lg>
+			<lg><l>Non fu il cader di súbito sí strano</l>
+			    <l>dopo tante vittorie ad Aniballe,</l>
+			    <l>vinto a la fin dal giovene romano;</l></lg>
+			<lg><l>non giacque sí smarrito ne la valle</l>
+			    <l>di Terebinto quel gran Filisteo</l>
+			    <l>a cui tutto Israel dava le spalle,</l></lg>
+			<lg><l>al primo sasso del garzon ebreo;</l>
+			    <l>né Ciro in Scizia, ove la vedova orba</l>
+			    <l>la gran vendetta a memorabil feo.</l></lg>
+			<lg><l>Com'uom ch'è sano e 'n un momento amorba,</l>
+			    <l>che sbigottisce e duolsi, o còlto in atto</l>
+			    <l>che vergogna con man da gli occhi forba,</l></lg>
+			<lg><l>cotale era egli, e tanto a peggior patto</l>
+			    <l>che paura e dolor, vergogna et ira</l>
+			    <l>eran nel volto suo tutte ad un tratto:</l></lg>
+			<lg><l>non freme cosí 'l mar quando s'adira,</l>
+			    <l>non Inarime allor che Tifeo piagne,</l>
+			    <l>né Mongibel s'Enchelado sospira.</l></lg>
+			<lg><l>Passo qui cose gloriose e magne</l>
+			    <l>ch'io vidi e dir non oso; a la mia donna</l>
+			    <l>vengo et all'altre sue minor compagne.</l></lg>
+			<lg><l>Ell'avea in dosso, il dí, candida gonna,</l>
+			    <l>lo scudo in man che mal vide Medusa.</l>
+			    <l>D'un bel diaspro er'ivi una colonna,</l></lg>
+			<lg><l>a la qual d'una in mezzo Lete infusa</l>
+			    <l>catena di diamante e di topazio,</l>
+			    <l>che s'usò fra le donne, oggi non s'usa,</l></lg>
+			<lg><l>legarlo vidi, e farne quello strazio</l>
+			    <l>che bastò bene a mille altre vendette;</l>
+			    <l>et io per me ne fui contento e sazio.</l></lg>
+			<lg><l>I' non poria le sacre e benedette</l>
+			    <l>vergini ch'ivi fur chiudere in rima,</l>
+			    <l>non Calliope e Clio con l'altre sette;</l></lg>
+			<lg><l>ma d'alquante dirò che 'n su la cima</l>
+			    <l>son di vera onestate; in fra le quali</l>
+			    <l>Lucrezia da man destra era la prima,</l></lg>
+			<lg><l>l'altra Penelopè: queste gli strali</l>
+			    <l>avean spezzato e la faretra a lato</l>
+			    <l>a quel protervo, e spennachiate l'ali.</l></lg>
+			<lg><l>Verginia a presso e 'l fero padre armato</l>
+			    <l>di disdegno e di ferro e di pietate,</l>
+			    <l>ch'a sua figlia et a Roma cangiò stato,</l></lg>
+			<lg><l>l'una e l'altra ponendo in libertate;</l>
+			    <l>poi le tedesche che con aspra morte</l>
+			    <l>servaron lor barbarica onestate;</l></lg>
+			<lg><l>Iudit ebrea, la saggia, casta e forte,</l>
+			    <l>e quella greca che saltò nel mare</l>
+			    <l>per morir netta e fuggir dura sorte.</l></lg>
+			<lg><l>Con queste e con certe altre anime chiare</l>
+			    <l>triumfar vidi di colui che pria</l>
+			    <l>veduto avea del mondo triumfare.</l></lg>
+			<lg><l>Fra l'altre la vestal vergine pia</l>
+			    <l>che baldanzosamente corse al Tibro,</l>
+			    <l>e, per purgarsi d'ogni fama ria,</l></lg>
+			<lg><l>portò del fiume al tempio acqua col cribro;</l>
+			    <l>poi vidi Ersilia con le sue sabine,</l>
+			    <l>schiera che del suo nome empie ogni libro;</l></lg>
+			<lg><l>poi vidi, fra le donne pellegrine,</l>
+			    <l>quella che per lo suo diletto e fido</l>
+			    <l>sposo, non per Enea, volse ire al fine.</l></lg>
+			<lg><l>Taccia il vulgo ignorante! io dico Dido,</l>
+			    <l>cui studio d'onestate a morte spinse,</l>
+			    <l>non vano amor come è il publico grido.</l></lg>
+			<lg><l>Al fin vidi una che si chiuse e strinse</l>
+			    <l>sovra Arno per servarsi, e non le valse,</l>
+			    <l>ché forza altrui il suo bel penser vinse.</l></lg>
+			<lg><l>Era il triumfo dove l'onde salse</l>
+			    <l>percoton Baia, ch'al tepido verno</l>
+			    <l>giunse, e a man destra in terra ferma salse.</l></lg>
+			<lg><l>Indi, fra monte Barbaro et Averno,</l>
+			    <l>l'antichissimo albergo di Sibilla</l>
+			    <l>lassando, se n'andâr dritto a Linterno.</l></lg>
+			<lg><l>In cosí angusta e solitaria villa</l>
+			    <l>era il grand'uom che d'Affrica s'appella</l>
+			    <l>perché prima col ferro al vivo aprilla.</l></lg>
+			<lg><l>Qui de l'ostile onor l'alta novella,</l>
+			    <l>non scemato co gli occhi, a tutti piacque,</l>
+			    <l>e la piú casta v'era la piú bella.</l></lg>
+			<lg><l>Né 'l triumfo non suo seguire spiacque</l>
+			    <l>a lui che, se credenza non è vana,</l>
+			    <l>sol per triumfi e per imperii nacque.</l></lg>
+			<lg><l>Cosí giugnemmo a la città sovrana,</l>
+			    <l>nel tempio pria che dedicò Sulpizia</l>
+			    <l>per spegner ne la mente fiamma insana;</l></lg>
+			<lg><l>passammo al tempio poi di Pudicizia,</l>
+			    <l>ch'accende in cor gentile oneste voglie,</l>
+			    <l>non di gente plebeia, ma di patrizia.</l></lg>
+			<lg><l>Ivi spiegò le gloriose spoglie</l>
+			    <l>la bella vincitrice, ivi depose</l>
+			    <l>le sue vittoriose e sacre foglie;</l></lg>
+			<lg><l>e 'l giovene toscan che non ascose</l>
+			    <l>le belle piaghe che 'l fer non sospetto,</l>
+			    <l>del comune nemico in guardia pose</l></lg>
+			<lg><l>con parecchi altri (e fummi il nome detto</l>
+			    <l>d'alcun di lor, come mia sorte seppe)</l>
+			    <l>ch'avean fatto ad Amor chiaro disdetto:</l></lg>
+			<lg><l>fra gli altri vidi Ipolito e Ioseppe.</l></lg>
+		</lg>
+</div1>
+<div1 type="parte"><head>TRIUMPHUS MORTIS</head>
+	<div2 type="canto"><head>I</head>
+		<lg type="terzina">
+			<lg><l>Quella leggiadra e gloriosa donna</l>
+			    <l>ch'è oggi ignudo spirto e poca terra</l>
+			    <l>e fu già di valore alta colonna,</l></lg>
+			<lg><l>tornava con onor da la sua guerra,</l>
+			    <l>allegra, avendo vinto il gran nemico</l>
+			    <l>che con suo' ingegni tutto il mondo atterra,</l></lg>
+			<lg><l>non con altre arme che col cor pudico</l>
+			    <l>e d'un bel viso e de' pensieri schivi,</l>
+			    <l>d'un parlar saggio e d'onestate amico.</l></lg>
+			<lg><l>Era miracol novo a veder ivi</l>
+			    <l>rotte l'arme d'Amore, arco e saette,</l>
+			    <l>e tal morti da lui, tal presi e vivi.</l></lg>
+			<lg><l>La bella donna e le compagne elette</l>
+			    <l>tornando da la nobile vittoria,</l>
+			    <l>in un bel drappelletto ivan ristrette:</l></lg>
+			<lg><l>poche eran, perché rara è vera gloria,</l>
+			    <l>ma ciascuna per sé parea ben degna</l>
+			    <l>di poema chiarissimo e d'istoria.</l></lg>
+			<lg><l>Era la lor vittoriosa insegna</l>
+			    <l>in campo verde un candido ermellino,</l>
+			    <l>ch'oro fino e topazi al collo tegna.</l></lg>
+			<lg><l>Non uman veramente, ma divino</l>
+			    <l>lor andare era, e lor sante parole:</l>
+			    <l>beato s'è qual nasce a tal destino!</l></lg>
+			<lg><l>Stelle chiare pareano, in mezzo un sole</l>
+			    <l>che tutte ornava e non togliea lor vista,</l>
+			    <l>di rose incoronate e di viole.</l></lg>
+			<lg><l>E come gentil cor onore acquista,</l>
+			    <l>cosí venía quella brigata allegra,</l>
+			    <l>quando vidi una insegna oscura e trista;</l></lg>
+			<lg><l>et una donna involta in veste negra,</l>
+			    <l>con un furor qual io non so se mai</l>
+			    <l>al tempo de' giganti fusse a Flegra,</l></lg>
+			<lg><l>si mosse, e disse: — O tu, donna, che vai</l>
+			    <l>di gioventute e di bellezze altera,</l>
+			    <l>e di tua vita il termine non sai,</l></lg>
+			<lg><l>io son colei che sí importuna e fera</l>
+			    <l>chiamata son da voi, e sorda e cieca</l>
+			    <l>gente a cui si fa notte inanzi sera.</l></lg>
+			<lg><l>Io ho condutto al fin la gente greca</l>
+			    <l>e la troiana, a l'ultimo i romani,</l>
+			    <l>con la mia spada, la qual punge e seca,</l></lg>
+			<lg><l>e popoli altri barbareschi e strani;</l>
+			    <l>e giugnendo quand'altri non m'aspetta,</l>
+			    <l>ho interrotti infiniti penser vani.</l></lg>
+			<lg><l>Ora a voi, quando il viver piú diletta,</l>
+			    <l>drizzo il mio corso, inanzi che Fortuna</l>
+			    <l>nel vostro dolce qualche amaro metta. —</l></lg>
+			<lg><l>— In costor non hai tu ragione alcuna,</l>
+			    <l>et in me poca; solo in questa spoglia</l>
+			    <l>— rispose quella che fu nel mondo una. —</l></lg>
+			<lg><l>Altri so che n'avrà piú di me doglia,</l>
+			    <l>la cui salute dal mio viver pende;</l>
+			    <l>a me fia grazia che di qui mi scioglia. —</l></lg>
+			<lg><l>Qual è chi 'n cosa nova gli occhi intende</l>
+			    <l>e vede ond'al principio non s'accorse,</l>
+			    <l>di che or si meraviglia e si riprende,</l></lg>
+			<lg><l>tal si fe' quella fera; e poi che 'n forse</l>
+			    <l>fu stata un poco: — Ben le riconosco</l>
+			    <l>— disse — e so quando 'l mio dente le morse. —</l></lg>
+			<lg><l>Poi, col ciglio men torbido e men fosco,</l>
+			    <l>disse: — Tu, che la bella schiera guidi,</l>
+			    <l>pur non sentisti mai del mio tosco:</l></lg>
+			<lg><l>se del consiglio mio punto ti fidi,</l>
+			    <l>che sforzar posso, egli è pure il migliore</l>
+			    <l>fuggir vecchiezza e suoi molti fastidi;</l></lg>
+			<lg><l>io son disposta a farti un tale onore</l>
+			    <l>qual altrui far non soglio, e che tu passi</l>
+			    <l>senza paura e senz'alcun dolore. —</l></lg>
+			<lg><l>— Come piace al Signor che 'n cielo stassi,</l>
+			    <l>et indi regge e tempra l'universo,</l>
+			    <l>farai di me quel che de gli altri fassi. —</l></lg>
+			<lg><l>Cosí rispose; et ecco da traverso</l>
+			    <l>piena di morti tutta la campagna,</l>
+			    <l>che comprender no 'l pò prosa né verso:</l></lg>
+			<lg><l>da India, dal Cataio, Marrocco e Spagna</l>
+			    <l>el mezzo avea già pieno e le pendici</l>
+			    <l>per molti tempi quella turba magna.</l></lg>
+			<lg><l>Ivi eran quei che fur detti felici,</l>
+			    <l>pontefici, regnanti, imperadori;</l>
+			    <l>or sono ignudi, miseri e mendici.</l></lg>
+			<lg><l>U' sono or le richezza? u' son gli onori?</l>
+			    <l>e le gemme e gli scettri e le corone,</l>
+			    <l>e le mitre e i purpurei colori?</l></lg>
+			<lg><l>Miser chi speme in cosa mortal pone</l>
+			    <l>(ma chi non ve la pone?) e se si trova</l>
+			    <l>a la fine ingannato, è ben ragione.</l></lg>
+			<lg><l>O ciechi, el tanto affaticar che giova?</l>
+			    <l>Tutti tornate a la gran madre antica,</l>
+			    <l>e 'l vostro nome a pena si ritrova.</l></lg>
+			<lg><l>Pur de le mill'è un'utile fatica,</l>
+			    <l>che non sian tutte vanità palesi?</l>
+			    <l>Chi intende a' vostri studii, sí mel dica.</l></lg>
+			<lg><l>Che vale a soggiogar gli altrui paesi</l>
+			    <l>e tributarie far le genti strane</l>
+			    <l>co gli animi al suo danno sempre accesi?</l></lg>
+			<lg><l>Dopo le 'mprese perigliose e vane,</l>
+			    <l>e col sangue acquistar terre e tesoro,</l>
+			    <l>vie piú dolce si trova l'acqua e 'l pane,</l></lg>
+			<lg><l>e 'l legno e 'l vetro, che le gemme e l'oro.</l>
+			    <l>Ma per non seguir piú sí lunga tema,</l>
+			    <l>tempo è ch'io torni al mio primo lavoro.</l></lg>
+			<lg><l>Io dico che giunta era l'ora estrema</l>
+			    <l>di quella breve vita gloriosa,</l>
+			    <l>e 'l dubbio passo di che il mondo trema,</l></lg>
+			<lg><l>ed a vederla un'altra valorosa</l>
+			    <l>schiera di donne, non dal corpo sciolta,</l>
+			    <l>per saper s'esser pò Morte pietosa.</l></lg>
+			<lg><l>Quella bella compagna era ivi accolta</l>
+			    <l>pure a vedere e contemplare il fine</l>
+			    <l>che far convensi, e non piú d'una volta;</l></lg>
+			<lg><l>tutte sue amiche, e tutte eran vicine.</l>
+			    <l>Allor di quella bionda testa svelse</l>
+			    <l>Morte co la sua man un aureo crine:</l></lg>
+			<lg><l>cosí del mondo il piú bel fiore scelse,</l>
+			    <l>non già per odio, ma per dimostrarsi</l>
+			    <l>piú chiaramente ne le cose eccelse.</l></lg>
+			<lg><l>Quanti lamenti lagrimosi sparsi</l>
+			    <l>fur ivi, essendo que' belli occhi asciutti</l>
+			    <l>per ch'io lunga stagion cantai et arsi!</l></lg>
+			<lg><l>E fra tanti sospiri e tanti lutti</l>
+			    <l>tacita, e sola lieta, si sedea,</l>
+			    <l>del suo bel viver già cogliendo i frutti.</l></lg>
+			<lg><l>— Vattene in pace, o vera mortal dea —</l>
+			    <l>dicean; e tal fu ben, ma non le valse</l>
+			    <l>contra la Morte, in sua ragion sí rea.</l></lg>
+			<lg><l>Che fia de l'altre, se questa arse et alse</l>
+			    <l>in poche notti, e si cangiò piú volte?</l>
+			    <l>O umane speranze cieche e false!</l></lg>
+			<lg><l>Se la terra bagnar lagrime molte</l>
+			    <l>per la pietà di quell'alma gentile,</l>
+			    <l>chi 'l vide, il sa; tu 'l pensa che l'ascolte.</l></lg>
+			<lg><l>L'ora prima era, il dí sesto d'aprile,</l>
+			    <l>che già mi strinse, et or, lasso, mi sciolse:</l>
+			    <l>come Fortuna va cangiando stile!</l></lg>
+			<lg><l>Nesun di servitú già mai si dolse</l>
+			    <l>né di morte quant'io di libertate,</l>
+			    <l>e de la vita ch'altri non mi tolse:</l></lg>
+			<lg><l>debito al mondo e debito a l'etate</l>
+			    <l>cacciar me inanzi, ch'ero giunto in prima,</l>
+			    <l>né a lui tòrre ancor sua dignitate.</l></lg>
+			<lg><l>Or qual fusse il dolor qui non si stima,</l>
+			    <l>ch'a pena oso pensarne, non ch'io sia</l>
+			    <l>ardito di parlarne in versi o 'n rima.</l></lg>
+			<lg><l>— Virtú mort'è, bellezza e leggiadria! —</l>
+			    <l>le belle donne intorno al casto letto</l>
+			    <l>triste diceano — omai di noi che fia?</l></lg>
+			<lg><l>chi vedrà mai in donna atto perfetto?</l>
+			    <l>chi udirà il parlar di saver pieno,</l>
+			    <l>e 'l canto pien d'angelico diletto? —</l></lg>
+			<lg><l>Lo spirto per partir di quel bel seno</l>
+			    <l>con tutte sue virtuti in sé romito,</l>
+			    <l>fatto avea in quella parte il ciel sereno.</l></lg>
+			<lg><l>Nesun de gli adversarii fu sí ardito</l>
+			    <l>ch'apparisse già mai con vista oscura</l>
+			    <l>fin che Morte il suo assalto ebbe fornito.</l></lg>
+			<lg><l>Poi che deposto il pianto e la paura</l>
+			    <l>pur al bel vólto era ciascuna intenta,</l>
+			    <l>per desperazion fatta secura,</l></lg>
+			<lg><l>non come fiamma che per forza è spenta,</l>
+			    <l>ma che per se medesma si consume,</l>
+			    <l>se n'andò in pace l'anima contenta,</l></lg>
+			<lg><l>a guisa d'un soave e chiaro lume</l>
+			    <l>cui nutrimento a poco a poco manca,</l>
+			    <l>tenendo al fine il suo caro costume.</l></lg>
+			<lg><l>Pallida no, ma piú che neve bianca</l>
+			    <l>che senza venti in un bel colle fiocchi,</l>
+			    <l>parea posar come persona stanca:</l></lg>
+			<lg><l>quansi un dolce dormir ne' suo' belli occhi,</l>
+			    <l>sendo lo spirto già da lei diviso,</l>
+			    <l>era quel che morir chiaman gli sciocchi:</l></lg>
+			<lg><l>Morte bella parea nel suo bel viso.</l></lg>
+		</lg>
+	</div2>
+	<div2 type="canto"><head>II</head>
+		<lg type="terzina">
+			<lg><l>La notte che seguí l'orribil caso</l>
+			    <l>che spense il sole, anzi 'l ripose in cielo,</l>
+			    <l>di ch'io son qui come uom cieco rimaso,</l></lg>
+			<lg><l>spargea per l'aere il dolce estivo gelo,</l>
+			    <l>che con la bianca amica di Titone</l>
+			    <l>suol da' sogni confusi tòrre il velo,</l></lg>
+			<lg><l>quando donna sembiante a la stagione,</l>
+			    <l>di gemme orientali incoronata,</l>
+			    <l>mosse vèr me da mille altre corone,</l></lg>
+			<lg><l>e quella man, già tanto desiata,</l>
+			    <l>a me, parlando e sospirando, porse,</l>
+			    <l>onde eterna dolcezza al cor m'è nata:</l></lg>
+			<lg><l>— Riconosci colei che 'n prima torse</l>
+			    <l>i passi tuoi dal publico viaggio? —</l>
+			    <l>Come 'l cor giovenil di lei s'accorse,</l></lg>
+			<lg><l>cosí, pensosa, in atto umíle e saggio</l>
+			    <l>s'assise, e seder fèmmi in una riva</l>
+			    <l>la qual ombrava un bel lauro et un faggio.</l></lg>
+			<lg><l>— Come non conosco io l'alma mia diva?</l>
+			    <l>— risposi in guisa d'uom che parla e plora —</l>
+			    <l>Dimmi pur, prego, s' tu se' morta o viva. —</l></lg>
+			<lg><l>— Viva son io, e tu se' morto ancora</l>
+			    <l>— diss'ella — e sarai sempre, in fin che giunga</l>
+			    <l>per levarti di terra l'ultima ora.</l></lg>
+			<lg><l>Ma 'l tempo è breve, e nostra voglia è lunga:</l>
+			    <l>però t'avisa, e 'l tuo dir stringi e frena,</l>
+			    <l>anzi che 'l giorno, già vicin, n'agiunga. —</l></lg>
+			<lg><l>Et io: — Al fin di questa altra serena</l>
+			    <l>c'ha nome vita, che per prova il sai,</l>
+			    <l>deh, dimmi se 'l morir è sí gran pena. —</l></lg>
+			<lg><l>Rispose: — Mentre al vulgo dietro vai</l>
+			    <l>et a la opinion sua cieca e dura,</l>
+			    <l>esser felice non puoi tu già mai.</l></lg>
+			<lg><l>La morte è fin d'una pregione oscura</l>
+			    <l>all'anime gentili; all'altre è noia,</l>
+			    <l>c'hanno posto nel fango ogni lor cura.</l></lg>
+			<lg><l>Et ora il morir mio, che sí t'annoia,</l>
+			    <l>ti farebbe allegrar se tu sentissi</l>
+			    <l>la millesima parte di mia gioia. —</l></lg>
+			<lg><l>Cosí parlava, e gli occhi avea al ciel fissi</l>
+			    <l>devotamente; poi mosse in silenzio</l>
+			    <l>quelle labbra rosate, in fin ch'i' dissi:</l></lg>
+			<lg><l>— Silla, Mario, Neron, Gaio e Mezenzio,</l>
+			    <l>fianchi, stomachi, e febri ardenti fanno</l>
+			    <l>parer la morte amara piú ch'assenzio. —</l></lg>
+			<lg><l>— Negar — disse — non posso che l'affanno,</l>
+			    <l>che va inanzi al morir, non doglia forte,</l>
+			    <l>e piú la tema de l'etterno danno;</l></lg>
+			<lg><l>ma, pur che l'alma in Dio si riconforte,</l>
+			    <l>e 'l cor, che 'n se medesmo è forse lasso,</l>
+			    <l>che altro ch'un sospir breve è la morte?</l></lg>
+			<lg><l>Io avea già vicin l'ultimo passo,</l>
+			    <l>la carne inferma, e l'anima ancor pronta,</l>
+			    <l>quando udi'dir in un son tristo e basso:</l></lg>
+			<lg><l>«O misero colui che' giorni conta,</l>
+			    <l>e pargli l'un mille anni! Indarno vive,</l>
+			    <l>ché seco in terra mai non si raffronta.</l></lg>
+			<lg><l>E' cerca il mare, e tutte le sue rive,</l>
+			    <l>e sempre un stil, ovunqu'e' fusse, tenne;</l>
+			    <l>sol di lei pensa, o di lei parla, o scrive».</l></lg>
+			<lg><l>Allora in quella parte onde 'l suon venne</l>
+			    <l>gli occhi languidi volgo, e veggio quella</l>
+			    <l>che amò noi, me sospinse e te ritenne.</l></lg>
+			<lg><l>Riconobbila al volto e a la favella,</l>
+			    <l>che spesso ha già il mio cor racconsolato,</l>
+			    <l>or grave e saggia, allor onesta e bella.</l></lg>
+			<lg><l>E quando io fui nel mio piú bello stato,</l>
+			    <l>ne l'età mia piú verde, a te piú cara,</l>
+			    <l>ch'a dire et a pensare a molti ha dato,</l></lg>
+			<lg><l>mi fu la vita poco men ch'amara</l>
+			    <l>a rispetto di quella mansueta</l>
+			    <l>e dolce morte ch'a' mortali è rara:</l></lg>
+			<lg><l>ché 'n tutto quel mio passo er'io piú lieta</l>
+			    <l>che qual d'essilio al dolce albergo riede,</l>
+			    <l>se non che mi stringea di te sol pièta. —</l></lg>
+			<lg><l>— Deh, madonna — diss'io — per quella fede</l>
+			    <l>che vi fu, credo, al tempo manifesta,</l>
+			    <l>or piú nel volto di chi tutto vede,</l></lg>
+			<lg><l>creòvi Amor pensier mai nella testa</l>
+			    <l>d'aver pietà del mio lungo martire,</l>
+			    <l>non lasciando vostra alta impresa onesta?</l></lg>
+			<lg><l>Ché vostri dolci sdegni e le dolci ire,</l>
+			    <l>le dolci paci ne' belli occhi scritte,</l>
+			    <l>tenner molti anni in dubbio il mio desire. —</l></lg>
+			<lg><l>A pena ebb'io queste parole ditte,</l>
+			    <l>ch'io vidi lampeggiar quel dolce riso</l>
+			    <l>ch'un sol fu già di mie vertuti afflitte.</l></lg>
+			<lg><l>Poi disse sospirando: — Mai diviso</l>
+			    <l>da te non fu 'l mio cor, né già mai fia;</l>
+			    <l>ma temprai la tua fiamma col mio viso,</l></lg>
+			<lg><l>perché a salvar te e me null'altra via</l>
+			    <l>era, e la nostra giovenetta fama;</l>
+			    <l>né per ferza è però madre men pia.</l></lg>
+			<lg><l>Quante volte diss'io meco: «Questi ama,</l>
+			    <l>anzi arde; or si conven ch'a ciò proveggia,</l>
+			    <l>e mal pò proveder chi teme o brama.</l></lg>
+			<lg><l>Quel di fuor miri, e quel d'entro non veggia».</l>
+			    <l>Questo fu quel che ti rivolse e strinse</l>
+			    <l>spesso, come caval fren, che vaneggia.</l></lg>
+			<lg><l>Piú di mille fiate ira dipinse</l>
+			    <l>il volto mio, ch'Amor ardeva il core:</l>
+			    <l>ma voglia, in me, ragion già mai non vinse.</l></lg>
+			<lg><l>Poi, se vinto ti vidi dal dolore,</l>
+			    <l>drizzai in te gli occhi allor soavemente,</l>
+			    <l>salvando la tua vita e 'l nostro onore;</l></lg>
+			<lg><l>e se fu passion troppo possente,</l>
+			    <l>e la fronte e la voce a salutarti</l>
+			    <l>mossi, et or amorosa et or dolente.</l></lg>
+			<lg><l>Questi fur teco miei ingegni e mie arti,</l>
+			    <l>or benigne accoglienze et ora sdegni:</l>
+			    <l>tu 'l sai, che n'hai cantato in molte parti.</l></lg>
+			<lg><l>Ch'i' vidi gli occhi tuoi talor sí pregni</l>
+			    <l>di lagrime, ch'i' dissi: «Questi è córso,</l>
+			    <l>chi non l'aita, sí 'l conosco a i segni».</l></lg>
+			<lg><l>Allor providi d'onesto soccorso.</l>
+			    <l>Talor ti vidi tali sproni al fianco,</l>
+			    <l>ch'i' dissi: «Qui conven piú duro morso».</l></lg>
+			<lg><l>Cosí caldo, vermiglio, freddo e bianco,</l>
+			    <l>or tristo, or lieto, in fin qui t'ho condutto</l>
+			    <l>salvo (ond'io mi rallegro), ben che stanco. —</l></lg>
+			<lg><l>Et io: — Madonna, assai fora gran frutto</l>
+			    <l>questo d'ogni mia fé, pur ch'i' 'l credessi —</l>
+			    <l>dissi tremando e non col viso asciutto.</l></lg>
+			<lg><l>— Di poca fede! or io, se no 'l sapessi,</l>
+			    <l>se non fusse ben ver, perché 'l direi?</l>
+			    <l>— rispose, e 'n vista parve s'accendessi —</l></lg>
+			<lg><l>S'al mondo tu piacesti a gli occhi mei,</l>
+			    <l>questo mi taccio; pur quel dolce nodo</l>
+			    <l>mi piacque assai che 'ntorno al cor avei;</l></lg>
+			<lg><l>e piacemi il bel nome, se vero odo,</l>
+			    <l>che lunge e presso col tuo dir m'acquisti;</l>
+			    <l>né mai in tua amor richiesi altro che 'l modo.</l></lg>
+			<lg><l>Quel mancò solo, e mentre in atti tristi</l>
+			    <l>volei mostrarmi quel ch'i' vedea sempre,</l>
+			    <l>il tuo cor chiuso a tutto il mondo apristi.</l></lg>
+			<lg><l>Quinci il mio gelo, onde ancor ti distempre;</l>
+			    <l>ché concordia era tal dell'altre cose</l>
+			    <l>qual giunge Amor, pur ch'onestate il tempre.</l></lg>
+			<lg><l>Fur quasi eguali in noi fiamme amorose,</l>
+			    <l>almen poi ch'i' m'avidi del tuo foco;</l>
+			    <l>ma l'un le palesò, l'altro l'ascose.</l></lg>
+			<lg><l>Tu eri di mercé chiamar già roco,</l>
+			    <l>quando tacea, perché vergogna e tema</l>
+			    <l>facean molto desir parer sí poco.</l></lg>
+			<lg><l>Non è minor il duol perché altri il prema,</l>
+			    <l>né maggior per andarsi lamentando;</l>
+			    <l>per ficzion non cresce il ver né scema.</l></lg>
+			<lg><l>Ma non si ruppe almen ogni vel, quando,</l>
+			    <l>soli, i tuo' detti, te presente accolsi,</l>
+			    <l>«di piú non osa il nostro amor» cantando?</l></lg>
+			<lg><l>Teco era il core, a me gli occhi raccolsi:</l>
+			    <l>di ciò, come d' iniqua parte, duolti,</l>
+			    <l>se 'l meglio e 'l piú ti diedi, e 'l men ti tolsi!</l></lg>
+			<lg><l>Né pensi che, perché ti fossin tolti,</l>
+			    <l>ben mille volte, e piú di mille e mille,</l>
+			    <l>renduti e con pietate a te fur volti;</l></lg>
+			<lg><l>e state foran lor luci tranquille</l>
+			    <l>sempre ver' te, se non ch'ebbi temenza</l>
+			    <l>delle pericolose tue faville.</l></lg>
+			<lg><l>Piú ti vo' dir, per non lasciarti senza</l>
+			    <l>una conclusion che a te fia grata,</l>
+			    <l>forse, d'udire in su questa partenza:</l></lg>
+			<lg><l>in tutte l'altre cose assai beata,</l>
+			    <l>in una sola a me stessa dispiacqui,</l>
+			    <l>che 'n troppo umil terren mi trovai nata;</l></lg>
+			<lg><l>duolmi ancor veramente ch'i' non nacqui</l>
+			    <l>almen piú presso al tuo fiorito nido:</l>
+			    <l>ma assai fu bel paese ond'io ti piacqui;</l></lg>
+			<lg><l>ché potea il cor, del qual sol io mi fido,</l>
+			    <l>volgersi altrove, a te essendo ignota,</l>
+			    <l>onde io fora men chiara e di men grido. —</l></lg>
+			<lg><l>— Questo non — rispos'io — perché la rota</l>
+			    <l>terza del ciel m'alzava a tanto amore,</l>
+			    <l>ovunque fusse, stabile et immota. —</l></lg>
+			<lg><l>— Or, cosí sia — diss'ella — i' n'ebbi onore,</l>
+			    <l>ch'ancor mi segue. Ma per tuo diletto</l>
+			    <l>tu non t'accorgi del fuggir de l'ore;</l></lg>
+			<lg><l>vedi l'Aurora da l'aurato letto</l>
+			    <l>rimenar a i mortali il giorno, e 'l Sole</l>
+			    <l>già fuor de l'oceàno infino al petto:</l></lg>
+			<lg><l>questa vien per partirne, onde mi dole;</l>
+			    <l>s'a dire hai altro, studia d'esser breve,</l>
+			    <l>e col tempo dispensa le parole. —</l></lg>
+			<lg><l>— Quant'io soffersi mai, soave e leve</l>
+			    <l>— dissi — m'ha fatto il parlar dolce e pio;</l>
+			    <l>ma 'l viver senza voi m'è duro e greve.</l></lg>
+			<lg><l>Però saper vorrei, madonna, s'io</l>
+			    <l>son per tardi seguirvi, o se per tempo. —</l>
+			    <l>Ella, già mossa, disse: — Al creder mio,</l></lg>
+			<lg><l>tu starai in terra senza me gran tempo. —</l></lg>
+		</lg>
+	</div2>
+</div1>
+<div1 type="parte"><head>TRIUMPHUS FAME</head>
+	<div2 type="canto"><head>I</head>
+		<lg type="terzina">
+			<lg><l>Da poi che Morte triumfò nel volto</l>
+			    <l>che di me stesso triumfar solea,</l>
+			    <l>e fu del nostro mondo il suo sol tolto,</l></lg>
+			<lg><l>partissi quella dispietata e rea,</l>
+			    <l>pallida in vista, orribile e superba,</l>
+			    <l>che 'l lume di beltate spento avea;</l></lg>
+			<lg><l>quando, mirando intorno su per l'erba,</l>
+			    <l>vidi da l'altra parte giugner quella</l>
+			    <l>che trae l'uom del sepolcro e 'n vita il serba.</l></lg>
+			<lg><l>Quale in sul giorno un'amorosa stella</l>
+			    <l>suol venir d'oriente innanzi al Sole,</l>
+			    <l>che s'accompagna volentier con ella,</l></lg>
+			<lg><l>cotal venía. Et, oh!, di quali scole</l>
+			    <l>verrà il maestro che discriva a pieno</l>
+			    <l>quel ch'io vo' dire in simplici parole?</l></lg>
+			<lg><l>Era d'intorno il ciel tanto sereno</l>
+			    <l>che, per tutto 'l desir ch'ardea nel core,</l>
+			    <l>l'occhio mio non potea non venir meno.</l></lg>
+			<lg><l>Scolpito per le fronti era il valore</l>
+			    <l>de l'onorata gente, dov'io scorsi</l>
+			    <l>molti di quei che legar vidi Amore.</l></lg>
+			<lg><l>Da man destra, ove gli occhi in prima porsi,</l>
+			    <l>la bella donna avea Cesare e Scipio,</l>
+			    <l>ma, qual piú presso, a gran pena m'accorsi:</l></lg>
+			<lg><l>l'un di Vertute e non d'Amor mancipio,</l>
+			    <l>l'altro d'entrambi. E poi mi fu mostrata,</l>
+			    <l>dopo sí glorioso e bel principio,</l></lg>
+			<lg><l>gente di ferro e di valore armata:</l>
+			    <l>sí come in Campidoglio al tempo antico</l>
+			    <l>talora o per via Sacra e per via Lata</l></lg>
+			<lg><l>venian tutti, in quell'ordine ch'io dico,</l>
+			    <l>e leggeasi a ciascuno intorno al ciglio</l>
+			    <l>il nome al mondo piú di gloria amico.</l></lg>
+			<lg><l>Io era intento al nobile pispiglio,</l>
+			    <l>a i volti, a gli atti; ed ecco i primi due,</l>
+			    <l>l'un seguiva il nipote e l'altro il figlio,</l></lg>
+			<lg><l>che sol, senza alcun pari, al mondo fue;</l>
+			    <l>e quei che volsero a' nemici armati</l>
+			    <l>chiudere il passo co le membra sue;</l></lg>
+			<lg><l>duo padri, da tre figli accompagnati:</l>
+			    <l>l'un giva inanzi, e duo ne venian dopo,</l>
+			    <l>e l'ultimo era il primo fra' laudati.</l></lg>
+			<lg><l>Poi fiammeggiava a guisa d'un piropo</l>
+			    <l>colui che col consiglio e co la mano</l>
+			    <l>a tutta Italia giunse al maggior uopo:</l></lg>
+			<lg><l>di Claudio dico, che notturno e piano,</l>
+			    <l>come il Metauro vide, a purgar venne</l>
+			    <l>di ria semenza il buon campo romano:</l></lg>
+			<lg><l>egli ebbe occhi a vedere, a volar penne;</l>
+			    <l>et un gran vecchio il secondava a presso,</l>
+			    <l>che con arte Anibále a bada tenne.</l></lg>
+			<lg><l>Duo altri Fabii, e duo Caton con esso,</l>
+			    <l>e duo Pauli, duo Bruti, e duo Marcelli;</l>
+			    <l>un regol ch'amò altrui piú che se stesso;</l></lg>
+			<lg><l>un Curio et un Fabrizio, assai piú belli</l>
+			    <l>con la lor povertà che Mida o Crasso</l>
+			    <l>con l'oro, onde a virtú furon rebelli;</l></lg>
+			<lg><l>Cincinnato e Serran, che solo un passo</l>
+			    <l>senza costor non vanno; e 'l gran Camillo</l>
+			    <l>di viver prima, che di ben far, lasso,</l></lg>
+			<lg><l>perch'a sí alto grado il ciel sortillo,</l>
+			    <l>che sua virtute chiara il ricondusse</l>
+			    <l>onde altrui cieca rabbia dipartillo.</l></lg>
+			<lg><l>Poi quel Torquato che 'l figliuol percusse,</l>
+			    <l>e viver orbo per amor sofferse</l>
+			    <l>della milizia, perché orba non fusse.</l></lg>
+			<lg><l>L'un Decio e l'altro, che col petto aperse</l>
+			    <l>le schiere de' nemici: o fiero voto,</l>
+			    <l>che 'l padre e 'l figlio ad una morte offerse!</l></lg>
+			<lg><l>Curzio venia con lor, non men devoto,</l>
+			    <l>che di sé e dell'arme empié lo speco</l>
+			    <l>in mezzo il Foro orribilmente voto.</l></lg>
+			<lg><l>Mummio, Levino, Attilio; et era seco</l>
+			    <l>Tito Flamminio, che con forza vinse,</l>
+			    <l>ma vie piú con pietate, il popol greco.</l></lg>
+			<lg><l>Eravi quei che 'l re di Siria cinse</l>
+			    <l>d'un magnanimo cerchio, e co la fronte</l>
+			    <l>e co la lingua a sua voglia lo strinse;</l></lg>
+			<lg><l>e quel ch'armato, sol, difese un monte,</l>
+			    <l>onde poi fu sospinto; e quel che, solo,</l>
+			    <l>contra tutta Toscana tenne un ponte;</l></lg>
+			<lg><l>e chi a grande opra nel nemico stuolo</l>
+			    <l>mosse la mano indarno, e poscia l'arse,</l>
+			    <l>sí seco irato che non sentí il duolo;</l></lg>
+			<lg><l>e chi 'n mar prima vincitor apparse</l>
+			    <l>contr'a' Cartaginesi, e chi lor navi</l>
+			    <l>fra Cicilia e Sardigna ruppe e sparse.</l></lg>
+			<lg><l>Appio conobbi a gli occhi, e ' suoi che gravi</l>
+			    <l>furon sempre e molesti a l'umil plebe.</l>
+			    <l>Poi vidi un grande con atti soavi,</l></lg>
+			<lg><l>e, se non che 'l suo lume all'estremo ebe,</l>
+			    <l>forse era il primo, e certo fu fra noi</l>
+			    <l>qual Bacco, Alcide, Epaminonda a Tebe:</l></lg>
+			<lg><l>ma 'l peggio è viver troppo! E vidi poi</l>
+			    <l>quel che da l'esser suo destro e leggiero</l>
+			    <l>ebbe nome, e fu 'l fior de gli anni suoi;</l></lg>
+			<lg><l>e quanto in arme fu crudo e severo,</l>
+			    <l>tanto quei che 'l seguiva era benigno,</l>
+			    <l>non so se miglior duce o cavalero.</l></lg>
+			<lg><l>Poi venia que' che livido maligno</l>
+			    <l>tumor di sangue, bene oprando, oppresse,</l>
+			    <l>nobil Volumnio e d'alta laude digno;</l></lg>
+			<lg><l>Cosso e Filon, Rutilio, e dalle spesse</l>
+			    <l>luci in disparte tre soli ir vedeva,</l>
+			    <l>rotti i membri e smagliate l'arme e fesse:</l></lg>
+			<lg><l>Lucio Dentato, e Marco Sergio, e Sceva,</l>
+			    <l>que' tre folgori e tre scogli di guerra,</l>
+			    <l>ma l'un rio successor di fama leva;</l></lg>
+			<lg><l>Mario poi, che Iugurta e ' Cimbri atterra</l>
+			    <l>e 'l tedesco furore, e Fulvio Flacco,</l>
+			    <l>ch'a l'ingrati troncar a bel studio erra;</l></lg>
+			<lg><l>et il piú nobil Fulvio, e solo un Gracco</l>
+			    <l>di quel gran nido garulo inquieto,</l>
+			    <l>che fe' il popol roman piú volte stracco;</l></lg>
+			<lg><l>e quel che parve altrui beato e lieto,</l>
+			    <l>non dico fu, ché non chiaro si vede</l>
+			    <l>un chiuso cor profondo in suo secreto:</l></lg>
+			<lg><l>Metello dico, e suo padre, e suo' rede,</l>
+			    <l>che già di Macedonia e de' Numidi</l>
+			    <l>e di Creta e di Spagna addusser prede.</l></lg>
+			<lg><l>Poscia Vespasian col figlio vidi,</l>
+			    <l>il buono e bello, non già il bello e rio,</l>
+			    <l>e 'l buon Nerva, e Traian, principi fidi,</l></lg>
+			<lg><l>Elio Adriano, e 'l suo Antonin Pio,</l>
+			    <l>bella successione in fino a Marco,</l>
+			    <l>ché bono a buono ha natural desio.</l></lg>
+			<lg><l>Mentre che vago oltre co gli occhi varco,</l>
+			    <l>vidi il gran fondatore, e i regi cinque;</l>
+			    <l>l'altro era in terra di mal peso carco, </l></lg>
+			<lg><l>come adivien a chi vertú relinque.</l></lg>
+		</lg>
+	</div2>
+	<div2 type="canto"><head>II</head>
+		<lg type="terzina">
+			<lg><l>Pien d'infinita e nobil meraviglia,</l>
+			    <l>presa a mirar il buon popol di Marte,</l>
+			    <l>ch'al mondo non fu mai simil famiglia,</l></lg>
+			<lg><l>giungea la vista con l'antiche carte</l>
+			    <l>ove son gli alti nomi e ' sommi pregi,</l>
+			    <l>e sentiv'al mio dir mancar gran parte.</l></lg>
+			<lg><l>Ma disviarmi i pellegrini egregi:</l>
+			    <l>Anibal primo, e quel, cantato in versi,</l>
+			    <l>Achille, che di fama ebbe gran fregi,</l></lg>
+			<lg><l>i duo chiari troiani e ' duo gran persi,</l>
+			    <l>Filippo e 'l figlio, che da Pella a gl'Indi</l>
+			    <l>correndo vinse paesi diversi.</l></lg>
+			<lg><l>Vidi l'altro Alessandro non lunge indi,</l>
+			    <l>non già correr cosí, ch'ebbe altro intoppo:</l>
+			    <l>quanto del vero onor, Fortuna, scindi!</l></lg>
+			<lg><l>I tre Teban ch'i' dissi, in un bel groppo;</l>
+			    <l>ne l'altro Aiace, Diomede, Ulisse,</l>
+			    <l>che desiò del mondo veder troppo;</l></lg>
+			<lg><l>Nestor, che tanto seppe e tanto visse,</l>
+			    <l>Agamenón e Menelao, che 'n spose</l>
+			    <l>poco felici al mondo fer gran risse;</l></lg>
+			<lg><l>Leonida, ch'a' suoi lieto propose</l>
+			    <l>un duro prandio, una terribil cena,</l>
+			    <l>e 'n poca piazza fe' mirabil cose;</l></lg>
+			<lg><l>et Alcibiade, che sí spesso Atena</l>
+			    <l>come fu suo piacer volse e rivolse,</l>
+			    <l>con dolce lingua e con fronte serena;</l></lg>
+			<lg><l>Milciade, che 'l gran gioco a Grecia tolse,</l>
+			    <l>e 'l buon figliuol, che con pietà perfetta</l>
+			    <l>legò se vivo, e 'l padre morto sciolse;</l></lg>
+			<lg><l>Teseo, Temistoclès con questa setta,</l>
+			    <l>Aristidès, che fu un greco Fabrizio:</l>
+			    <l>a tutti fu crudelmente interdetta</l></lg>
+			<lg><l>la patria sepoltura, e l'altrui vizio</l>
+			    <l>illustra lor, ché nulla meglio scopre</l>
+			    <l>contrari duo com' piccolo interstizio.</l></lg>
+			<lg><l>Focion va con questi tre di sopre,</l>
+			    <l>che di sua terra fu scacciato morto:</l>
+			    <l>molto diverso il guidardon da l'opre.</l></lg>
+			<lg><l>Com'io mi volsi, il buon Pirro ebbi scorto,</l>
+			    <l>e 'l buon re Massinissa, e gli era aviso,</l>
+			    <l>d'esser senza i roman, ricever torto.</l></lg>
+			<lg><l>Con lui, mirando quinci e quindi fiso,</l>
+			    <l>Iero siracusan conobbi, e 'l crudo</l>
+			    <l>Amilcare da lor molto diviso.</l></lg>
+			<lg><l>Vidi, qual uscí già del foco ignudo</l>
+			    <l>il re di Lidia, manifesto essempio</l>
+			    <l>che poco val contra Fortuna scudo.</l></lg>
+			<lg><l>Vidi Siface pari a simil scempio;</l>
+			    <l>Brenno, sotto cui cadde gente molta,</l>
+			    <l>e poi cadde ei sotto il delfico tempio.</l></lg>
+			<lg><l>In abito diversa, in popol folta</l>
+			    <l>fu quella schiera; e mentre gli occhi alto ergo,</l>
+			    <l>vidi una parte tutta in sé raccolta:</l></lg>
+			<lg><l>e quel che volse a Dio far grande albergo</l>
+			    <l>per abitar fra gli uomini, era il primo;</l>
+			    <l>ma chi fe' l'opra, gli venía da tergo:</l></lg>
+			<lg><l>a lui fu destinato, onde da imo</l>
+			    <l>produsse al sommo l'edificio santo,</l>
+			    <l>non tal, dentro, architetto, com'io estimo.</l></lg>
+			<lg><l>Poi quel ch'a Dio familiar fu tanto</l>
+			    <l>in grazia, a parlar seco a faccia a faccia,</l>
+			    <l>che nesun altro se ne pò dar vanto;</l></lg>
+			<lg><l>e quel che, come uno animal s'allaccia,</l>
+			    <l>co la lingua possente legò 'l Sole,</l>
+			    <l>per giugner de' nemici suoi la traccia:</l></lg>
+			<lg><l>o fidanza gentil! chi Dio ben cole,</l>
+			    <l>quanto Dio ha creato aver suggetto</l>
+			    <l>e 'l ciel tener con semplici parole!</l></lg>
+			<lg><l>Poi vidi il padre nostro, a cui fu detto</l>
+			    <l>ch'uscisse di sua terra e gisse al loco</l>
+			    <l>ch'a l'umana salute era già eletto;</l></lg>
+			<lg><l>seco il figlio e 'l nipote, a cui fu il gioco</l>
+			    <l>fatto de le due spose, e 'l saggio e casto</l>
+			    <l>Iosef dal padre lontanarsi un poco.</l></lg>
+			<lg><l>Poi, stendendo la vista quant'io basto,</l>
+			    <l>colui vidi oltra il qual occhio non varca,</l>
+			    <l>la cui inobedienza ha il mondo guasto.</l></lg>
+			<lg><l>Di qua da lui, chi fece la grande arca,</l>
+			    <l>e quei che cominciò poi la gran torre,</l>
+			    <l>che fu sí di peccato e d'error carca.</l></lg>
+			<lg><l>Poi quel buon Iuda, a cui nesun pò tòrre</l>
+			    <l>le sue leggi paterne, invitto e franco</l>
+			    <l>come uom che per giustizia a morte corre.</l></lg>
+			<lg><l>Già era il mio desio presso che stanco,</l>
+			    <l>quando mi fece una leggiadra vista</l>
+			    <l>piú vago di mirar ch'i' ne fossi anco:</l></lg>
+			<lg><l>i' vidi alquante donne ad una lista,</l>
+			    <l>Antiope ed Oritia armata e bella,</l>
+			    <l>Ipolita, del figlio afflitta e trista,</l></lg>
+			<lg><l>e Menalippe, e ciascuna sí snella</l>
+			    <l>che vincerle fu gloria al grande Alcide:</l>
+			    <l>e' l'una ebbe, e Teseo l'altra sorella;</l></lg>
+			<lg><l>la vedova che sí secura vide</l>
+			    <l>morto 'l figliolo, e tal vendetta feo</l>
+			    <l>ch'uccise Ciro, et or sua fama uccide,</l></lg>
+			<lg><l>però che, udendo ancora il suo fin reo,</l>
+			    <l>par che di novo a sua gran colpa muoia,</l>
+			    <l>tanto quel dí del suo nome perdeo.</l></lg>
+			<lg><l>Poi vidi quella che mal vide Troia;</l>
+			    <l>e, fra queste, una vergine latina</l>
+			    <l>ch'in Italia a' Troian fe' molta noia.</l></lg>
+			<lg><l>Poi vidi la magnanima reina,</l>
+			    <l>ch'una treccia ravolta e l'altra sparsa</l>
+			    <l>corse a la babilonica rapina;</l></lg>
+			<lg><l>poi Cleopatra: e l'un' e l'altra er'arsa</l>
+			    <l>d'indegno foco. E vidi in quella tresca</l>
+			    <l>Zenobia, del suo onore assai piú scarsa:</l></lg>
+			<lg><l>bella era, e nell'età fiorita e fresca,</l>
+			    <l>quanto in piú gioventute e 'n piú bellezza</l>
+			    <l>tanto par ch'onestà sua laude accresca.</l></lg>
+			<lg><l>Nel cor femineo fu sí gran fermezza,</l>
+			    <l>che col bel viso e coll'armata coma</l>
+			    <l>fece temer chi per natura sprezza:</l></lg>
+			<lg><l>io parlo de l'imperio alto di Roma,</l>
+			    <l>che con arme assalío, ben ch'a l'estremo</l>
+			    <l>fusse al nostro triumfo ricca soma.</l></lg>
+			<lg><l>Fra ' nomi che 'n dir breve ascondo e premo,</l>
+			    <l>non fia Iudit, la vedovetta ardita</l>
+			    <l>che fe' il folle amador del capo scemo.</l></lg>
+			<lg><l>Ma Nino, ond'ogni istoria umana è ordita,</l>
+			    <l>dove lasc'io? e 'l suo gran successore,</l>
+			    <l>che superbia condusse a bestial vita?</l></lg>
+			<lg><l>Belo dove riman, fonte d'errore,</l>
+			    <l>non per sua colpa? dove Zoroastro,</l>
+			    <l>che fu de l'arte magiche inventore?</l></lg>
+			<lg><l>e chi de' nostri dogi, che 'n duro astro</l>
+			    <l>passar l'Eufrate, fece il mal governo,</l>
+			    <l>a l'italiche doglie fero impiastro?</l></lg>
+			<lg><l>Ov'è 'l gran Mitridate, quello eterno</l>
+			    <l>nemico de' roman, che sí ramingo</l>
+			    <l>fuggí dinanzi a lor la state e 'l verno?</l></lg>
+			<lg><l>Molte gran cose in picciol fascio stringo.</l>
+			    <l>Ov'è un re Arturo, e tre Cesari Augusti,</l>
+			    <l>un d'Affrica, un di Spagna, un Lottoringo?</l></lg>
+			<lg><l>Cingean costui suo' dodici robusti,</l>
+			    <l>poi venía solo il buon duce Goffrido,</l>
+			    <l>che fe' l'impresa santa e ' passi giusti:</l></lg>
+			<lg><l>questo (di ch'io mi sdegno e 'ndarno grido)</l>
+			    <l>fece in Ierusalem colle sue mani</l>
+			    <l>il mal guardato e già negletto nido.</l></lg>
+			<lg><l>Gite superbi, o miseri cristiani,</l>
+			    <l>consumando l'un l'altro, e non vi caglia</l>
+			    <l>che 'l sepolcro di Cristo è in man de' cani!</l></lg>
+			<lg><l>Raro o nesun che 'n alta fama saglia</l>
+			    <l>vidi dopo costui, s'io non m'inganno,</l>
+			    <l>o per arte di pace o di battaglia.</l></lg>
+			<lg><l>Pur, come uomini eletti ultimi vanno,</l>
+			    <l>vidi verso la fine il Saracino</l>
+			    <l>che fece a' nostri assai vergogna e danno.</l></lg>
+			<lg><l>Quel di Luria seguiva il Saladino;</l>
+			    <l>poi il duca di Lancastro, che pur dianzi</l>
+			    <l>era al regno de' franchi aspro vicino.</l></lg>
+			<lg><l>Miro, come uom che volentier s'avanzi,</l>
+			    <l>s'alcuno ivi vedessi qual egli era</l>
+			    <l>altrove a gli occhi mei veduto inanzi,</l></lg>
+			<lg><l>e vidi duo che si partir ier sera</l>
+			    <l>di questa nostra etate e del paese;</l>
+			    <l>costor chiudean quella onorata schiera:</l></lg>
+			<lg><l>il buon re cicilian che 'n alto intese,</l>
+			    <l>e lunge vide, e fu veramente Argo;</l>
+			    <l>dall'altra parte il mio gran Colonnese,</l></lg>
+			<lg><l>magnanimo, gentil, constante e largo.</l></lg>
+		</lg>
+	</div2>
+	<div2 type="canto"><head>III</head>
+		<lg type="terzina">
+			<lg><l>Io non sapea da tal vista levarme,</l>
+			    <l>quand'io udi': — Pon mente a l'altro lato,</l>
+			    <l>ché s'acquista ben pregio altro che d'arme. —</l></lg>
+			<lg><l>Volsimi da man manca, e vidi Plato,</l>
+			    <l>che 'n quella schiera andò piú presso al segno</l>
+			    <l>al qual aggiunge cui dal cielo è dato;</l></lg>
+			<lg><l>Aristotele poi, pien d'alto ingegno;</l>
+			    <l>Pitagora, che primo umilemente</l>
+			    <l>filosofia chiamò per nome degno;</l></lg>
+			<lg><l>Socrate e Senofonte, e quello ardente</l>
+			    <l>vecchio a cui fur le Muse tanto amiche</l>
+			    <l>ch'Argo e Micena e Troia se ne sente.</l></lg>
+			<lg><l>Questo cantò gli errori e le fatiche</l>
+			    <l>del figliuol di Laerte, e d'una diva,</l>
+			    <l>primo pintor delle memorie antiche.</l></lg>
+			<lg><l>A man a man con lui cantando giva</l>
+			    <l>il mantovan che di par seco giostra,</l>
+			    <l>et un al cui passar l'erba fioriva:</l></lg>
+			<lg><l>questo è quel Marco Tullio in cui si mostra</l>
+			    <l>chiaro quanti eloquenzia ha frutti e fiori;</l>
+			    <l>questi son gli occhi de la lingua nostra.</l></lg>
+			<lg><l>Dopo venía Demostene, che fori</l>
+			    <l>è di speranza omai del primo loco,</l>
+			    <l>non ben contento de' secondi onori:</l></lg>
+			<lg><l>un gran folgor parea tutto di foco;</l>
+			    <l>Eschine il dica, che 'l poteo sentire</l>
+			    <l>quando presso al suo tuon parve già fioco.</l></lg>
+			<lg><l>Io non posso per ordine ridire</l>
+			    <l>questo o quel dove mi vedessi o quando</l>
+			    <l>e qual andar inanzi e qual seguire;</l></lg>
+			<lg><l>ché cose innumerabili pensando,</l>
+			    <l>e mirando la turba tale e tanta,</l>
+			    <l>l'occhio e 'l pensier m'andava disviando.</l></lg>
+			<lg><l>Vidi Solon, di cui fu l'util pianta,</l>
+			    <l>che, se mal colta è, mal frutto produce,</l>
+			    <l>co gli altri sei di che Grecia si vanta.</l></lg>
+			<lg><l>Qui vid'io nostra gente aver per duce</l>
+			    <l>Varrone, il terzo gran lume romano,</l>
+			    <l>che, quando il miri piú, tanto piú luce;</l></lg>
+			<lg><l>Crispo Salustio, e seco a mano a mano</l>
+			    <l>un che già l'ebbe a schifo e 'l vide torto,</l>
+			    <l>cioè 'l gran Tito Livio padovano.</l></lg>
+			<lg><l>Mentr'io 'l mirava, subito ebbi scorto</l>
+			    <l>quel Plinio veronese suo vicino,</l>
+			    <l>a scriver molto, a morir poco accorto.</l></lg>
+			<lg><l>Poi vidi il gran platonico Plotino,</l>
+			    <l>che, credendosi in ozio viver salvo,</l>
+			    <l>prevento fu dal suo fero destino,</l></lg>
+			<lg><l>il qual seco venia dal materno alvo,</l>
+			    <l>e però providenzia ivi non valse;</l>
+			    <l>poi Crasso, Antonio, Ortensio, Galba e Calvo</l></lg>
+			<lg><l>con Pollion, che 'n tal superbia salse</l>
+			    <l>che contra quel d'Arpino armar le lingue,</l>
+			    <l>cercando ambeduo fame indegne e false.</l></lg>
+			<lg><l>Tuchidide vid'io, che ben distingue</l>
+			    <l>i tempi e ' luoghi e l'opere leggiadre,</l>
+			    <l>e di che sangue quel campo s'impingue.</l></lg>
+			<lg><l>Erodoto, di greca istoria padre,</l>
+			    <l>vidi, e dipinto il nobil geometra</l>
+			    <l>di triangoli e tondi e forme quadre;</l></lg>
+			<lg><l>e quel che 'n ver di noi divenne petra,</l>
+			    <l>Porfirio, che d'acuti silogismi</l>
+			    <l>empié la dialetica faretra,</l></lg>
+			<lg><l>faccendo contra 'l vero arme i sofismi;</l>
+			    <l>e quel di Coo, che fe' vie miglior l'opra,</l>
+			    <l>se bene intesi fusser gli aforismi.</l></lg>
+			<lg><l>Apollo et Esculapio gli son sopra,</l>
+			    <l>chiusi ch'a pena il viso gli comprende,</l>
+			    <l>sí par che i nomi il tempo limi e copra.</l></lg>
+			<lg><l>Un di Pergamo il segue, et in lui pende</l>
+			    <l>l'arte guasta fra noi, allor non vile,</l>
+			    <l>ma breve e scura; e' la dichiara e stende.</l></lg>
+			<lg><l>Vidi Anassarco intrepido e virile,</l>
+			    <l>e Senocrate piú saldo ch'un sasso,</l>
+			    <l>che nulla forza volse ad atto vile.</l></lg>
+			<lg><l>Vidi Archimede star col viso basso,</l>
+			    <l>e Democrito andar tutto pensoso,</l>
+			    <l>per suo voler di lume e d'oro casso.</l></lg>
+			<lg><l>Vidi Ippia, el vecchiarel che già fu oso</l>
+			    <l>dir — Io so tutto —; e poi di nulla certo,</l>
+			    <l>ma d'ogni cosa Archesilao dubbioso.</l></lg>
+			<lg><l>Vidi in suoi detti Eraclito coverto;</l>
+			    <l>e Diogene cinico, in suo' fatti,</l>
+			    <l>assai piú che non vuol vergogna, aperto;</l></lg>
+			<lg><l>e quel che lieto i suo' campi disfatti</l>
+			    <l>vide e deserti, d'altre merci carco,</l>
+			    <l>credendo averne invidiosi patti.</l></lg>
+			<lg><l>Ivi era il curioso Dicearco;</l>
+			    <l>et in suo' magisteri assai dispari</l>
+			    <l>Quintiliano e Seneca e Plutarco.</l></lg>
+			<lg><l>Vidivi alquanti c'han turbati i mari</l>
+			    <l>con venti adversi e con ingegni vaghi,</l>
+			    <l>non per saver, ma per contender chiari,</l></lg>
+			<lg><l>urtar come leoni, e come draghi</l>
+			    <l>co le code avinchiarsi: or che è questo,</l>
+			    <l>ch'ognun del suo saver par che s'appaghi?</l></lg>
+			<lg><l>Carneade vidi in suo' studi sí desto,</l>
+			    <l>che, parlando egli, il vero e 'l falso a pena</l>
+			    <l>si discernea, cosí nel dir fu presto.</l></lg>
+			<lg><l>La lunga vita e la sua larga vena</l>
+			    <l>d'ingegno pose in accordar le parti</l>
+			    <l>che 'l furor litterato a guerra mena;</l></lg>
+			<lg><l>né 'l poteo far, ché, come crebber l'arti,</l>
+			    <l>crebbe l'invidia, e col savere inseme</l>
+			    <l>ne' cori enfiati i suo' veneni ha sparti.</l></lg>
+			<lg><l>Contra 'l buon Siro, che l'umana speme</l>
+			    <l>alzò ponendo l'anima immortale,</l>
+			    <l>s'armò Epicuro, onde sua fama geme,</l></lg>
+			<lg><l>ardito a dir ch'ella non fusse tale;</l>
+			    <l>cosí al lume fu famoso e lippo,</l>
+			    <l>co la brigata al suo maestro eguale:</l></lg>
+			<lg><l>di Metrodoro parlo e d'Aristippo.</l>
+			    <l>Poi con gran subbio, e con mirabil fuso,</l>
+			    <l>vidi tela sottil tesser Crisippo.</l></lg>
+			<lg><l>De gli stoici il padre alzato in suso,</l>
+			    <l>per far chiaro suo dir, vidi Zenone</l>
+			    <l>mostrar la palma apera e 'l pugno chiuso;</l></lg>
+			<lg><l>e per fermar sua bella intenzione,</l>
+			    <l>la sua tela gentil ordir Cleante,</l>
+			    <l>che tira al ver la vaga opinione.</l></lg>
+			<lg><l>Qui lascio, e piú di lor non dico avante.</l></lg>
+		</lg>
+	</div2>
+</div1>
+<div1 type="parte"><head>TRIUMPHUS TEMPORIS</head>
+		<lg type="terzina">
+			<lg><l>De l'aureo albergo, co l'Aurora inanzi,</l>
+			    <l>sí ratto usciva il Sol cinto di raggi,</l>
+			    <l>che detto avresti: — E' si corcò pur dianzi! —</l></lg>
+			<lg><l>Alzato un poco, come fanno i saggi,</l>
+			    <l>guardossi intorno, et a se stesso disse:</l>
+			    <l>— Che pensi? omai conven che piú cura aggi:</l></lg>
+			<lg><l>ecco, s'un che famoso in terra visse</l>
+			    <l>de la sua fama per morir non esce,</l>
+			    <l>che sarà de la legge che 'l ciel fisse?</l></lg>
+			<lg><l>E se fama mortal morendo cresce,</l>
+			    <l>che spegner si devea in breve, veggio</l>
+			    <l>nostra eccellenzia al fine; onde m'incresce.</l></lg>
+			<lg><l>Che piú s'aspetta? e che puote esser peggio?</l>
+			    <l>che piú nel ciel ho io, che 'n terra un uomo,</l>
+			    <l>a cui esser egual per grazia cheggio?</l></lg>
+			<lg><l>Quattro cavai con quanto studio como,</l>
+			    <l>pasco nell'oceáno, e sprono e sferzo,</l>
+			    <l>e pur la fama d'un mortal non domo!</l></lg>
+			<lg><l>Ingiuria da corruccio, e non da scherzo,</l>
+			    <l>avenir questo a me, s'i' fossi in cielo</l>
+			    <l>non dirò primo, ma secondo o terzo!</l></lg>
+			<lg><l>Or conven che s'accenda ogni mio zelo,</l>
+			    <l>sí ch'al mio volo l'ira adoppi i vanni,</l>
+			    <l>ch'io porto invidia a gli uomini, e no 'l celo;</l></lg>
+			<lg><l>de' quali io veggio alcun dopo mille anni,</l>
+			    <l>e mille e mille, piú chiari che 'n vita;</l>
+			    <l>et io m'avanzo di perpetui affanni.</l></lg>
+			<lg><l>Tal son qual era anzi che stabilita</l>
+			    <l>fusse la terra, dí e notte rotando</l>
+			    <l>per la strada ritonda ch'è infinita. —</l></lg>
+			<lg><l>Poi che questo ebbe detto, disdegnando</l>
+			    <l>riprese il corso, piú veloce assai</l>
+			    <l>che falcon d'alto a sua preda volando,</l></lg>
+			<lg><l>piú dico, né pensier poria già mai</l>
+			    <l>seguir suo volo, non che lingua o stile;</l>
+			    <l>tal che con gran paura il rimirai.</l></lg>
+			<lg><l>Allor tenn'io il viver nostro a vile</l>
+			    <l>per la mirabil sua velocitate,</l>
+			    <l>vie piú che inanzi no 'l tenea gentile,</l></lg>
+			<lg><l>e parvemi terribil vanitate</l>
+			    <l>fermare in cose il cor che 'l Tempo preme,</l>
+			    <l>che, mentre piú le stringi, son passate.</l></lg>
+			<lg><l>Però chi di suo stato cura o teme,</l>
+			    <l>proveggia ben, mentr'è l'arbitrio intero,</l>
+			    <l>fondare in loco stabile sua speme,</l></lg>
+			<lg><l>ché quant'io vidi il Tempo andar leggiero</l>
+			    <l>dopo la guida sua, che mai non posa,</l>
+			    <l>io no 'l dirò, perché poter non spero:</l></lg>
+			<lg><l>i' vidi il ghiaccio, e lí stesso la rosa,</l>
+			    <l>quasi in un punto il gran freddo e 'l gran caldo,</l>
+			    <l>che, pur udendo, par mirabil cosa.</l></lg>
+			<lg><l>Ma chi ben mira, col giudizio saldo,</l>
+			    <l>vedrá esser cosí. Ché no 'l vid'io?</l>
+			    <l>di che contra me stesso or mi riscaldo.</l></lg>
+			<lg><l>Segui' già le speranze e 'l van desio;</l>
+			    <l>or ho dinanzi a gli occhi un chiaro specchio</l>
+			    <l>ov'io veggio me stesso e 'l fallir mio,</l></lg>
+			<lg><l>e quanto posso al fine m'apparecchio,</l>
+			    <l>pensando al breve viver mio, nel quale</l>
+			    <l>stamani era un fanciullo et or son vecchio.</l></lg>
+			<lg><l>Che piú d'un giorno è la vita mortale?</l>
+			    <l>Nubil' e brev' e freddo e pien di noia,</l>
+			    <l>che pò bella parer, ma nulla vale.</l></lg>
+			<lg><l>Qui l'umana speranza e qui la gioia,</l>
+			    <l>qui ' miseri mortali alzan la testa,</l>
+			    <l>e nesun sa quanto si viva o moia.</l></lg>
+			<lg><l>Veggio or la fuga del mio viver presta,</l>
+			    <l>anzi di tutti, e nel fuggir del Sole,</l>
+			    <l>la ruina del mondo manifesta.</l></lg>
+			<lg><l>Or vi riconfortate in vostre fole,</l>
+			    <l>gioveni, e misurate il tempo largo!</l>
+			    <l>Ma piaga antiveduta assai men dole.</l></lg>
+			<lg><l>Forse che 'ndarno mie parole spargo,</l>
+			    <l>ma io v'annunzio che voi sete offesi</l>
+			    <l>da un grave e mortifero letargo,</l></lg>
+			<lg><l>ché volan l'ore e ' giorni e gli anni e ' mesi:</l>
+			    <l>inseme, con brevissimo intervallo,</l>
+			    <l>tutti avemo a cercar altri paesi.</l></lg>
+			<lg><l>Non fate contra 'l vero al core un callo,</l>
+			    <l>come sete usi, anzi volgete gli occhi,</l>
+			    <l>mentre emendar si pote il vostro fallo;</l></lg>
+			<lg><l>non aspettate che la morte scocchi,</l>
+			    <l>come fa la piú parte, ché per certo</l>
+			    <l>infinita è la schiera de gli sciocchi.</l></lg>
+			<lg><l>Poi ch'io ebbi veduto e veggio aperto</l>
+			    <l>il volar e 'l fuggir del gran pianeta,</l>
+			    <l>ond'io ho danni et inganni assai sofferto,</l></lg>
+			<lg><l>vidi una gente andarsen queta queta,</l>
+			    <l>senza temer di Tempo o di sua rabbia,</l>
+			    <l>ché gli avea in guardia istorico o poeta.</l></lg>
+			<lg><l>Di lor par che piú d'altri invidia s'abbia,</l>
+			    <l>ché per se stessi son levati a volo,</l>
+			    <l>uscendo for de la comune gabbia.</l></lg>
+			<lg><l>Contra costor colui che splende solo</l>
+			    <l>s'apparecchiava con maggiore sforzo,</l>
+			    <l>e riprendeva un piú spedito volo:</l></lg>
+			<lg><l>a' suoi corsier radoppiato era l'orzo;</l>
+			    <l>e la reina di ch'io sopra dissi,</l>
+			    <l>d'alcun de' suoi già volea far divorzo.</l></lg>
+			<lg><l>Udi' dir, non so a chi, ma 'l detto scrissi:</l>
+			    <l>«In questi umani, a dir proprio, ligustri,</l>
+			    <l>di cieca oblivion che scuri abissi!</l></lg>
+			<lg><l>Volgerà il Sol, non pure anni, ma lustri,</l>
+			    <l>e secoli, vittor d'ogni cerebro,</l>
+			    <l>e vedrà i vaneggiar di questi illustri.</l></lg>
+			<lg><l>Quanti fur chiari fra Peneo et Ebro,</l>
+			    <l>che son venuti e verran tosto meno!</l>
+			    <l>quanti sul Xanto, e quanti in val di Tebro!</l></lg>
+			<lg><l>Un dubbio iberno, instabile sereno</l>
+			    <l>è vostra fama, e poca nebbia il rompe,</l>
+			    <l>e 'l gran tempo a' gran nomi è gran veneno.</l></lg>
+			<lg><l>Passan vostre grandezze e vostre pompe,</l>
+			    <l>passan le signorie, passano i regni:</l>
+			    <l>ogni cosa mortal Tempo interrompe,</l></lg>
+			<lg><l>e, ritolta a' men buon, non dà a' piú degni;</l>
+			    <l>non pur quel di fuori il Tempo solve,</l>
+			    <l>ma le vostre eloquenzie e' vostri ingegni.</l></lg>
+			<lg><l>Cosí fuggendo il mondo seco volve,</l>
+			    <l>é mai si posa, né s'arresta o torna,</l>
+			    <l>fin che v'ha ricondotti in poca polve.</l></lg>
+			<lg><l>Or, perché umana gloria ha tante corna,</l>
+			    <l>on è mirabil cosa s'a fiaccarle</l>
+			    <l>alquanto oltra l'usanza si soggiorna.</l></lg>
+			<lg><l>Ma quantunque si pensi il vulgo o parle,</l>
+			    <l>e 'l viver vostro non fusse sí breve,</l>
+			    <l>tosto vedresti in fumo ritornarle».</l></lg>
+			<lg><l>Udito questo, perché al ver di deve</l>
+			    <l>on contrastar, ma dar perfetta fede,</l>
+			    <l>vidi ogni nostra gloria, al sol, di neve;</l></lg>
+			<lg><l>e vidi il Tempo rimenar tal prede</l>
+			    <l>e' nostri nomi ch'io gli ebbi per nulla,</l>
+			    <l>ben che la gente ciò non sa né crede:</l></lg>
+			<lg><l>cieca, che sempre al vento si trastulla,</l>
+			    <l> pur di false opinion si pasce,</l>
+			    <l>lodando piú il morir vecchio che 'n culla.</l></lg>
+			<lg><l>Quanti son già felici morti in fasce!</l>
+			    <l>uanti miseri in ultima vecchiezza!</l>
+			    <l>Alcun dice: — Beato chi non nasce! —</l></lg>
+			<lg><l>Ma per la turba, a' grandi errori avezza,</l>
+			    <l>opo la lunga età sia il nome chiaro:</l>
+			    <l>che è questo però che sí s'apprezza?</l></lg>
+			<lg><l>Tutto vince e ritoglie il Tempo avaro;</l>
+			    <l>chiamasi Fama, et è morir secondo;</l>
+			    <l>né piú che contra 'l primo è alcun riparo.</l></lg>
+			<lg><l>Cosí 'l Tempo triumfa i nomi e 'l mondo!</l></lg>
+		</lg>
+</div1>
+<div1 type="parte"><head>TRIUMPHUS ETERNITATIS</head>
+		<lg type="terzina">
+			<lg><l>Da poi che sotto 'l ciel cosa non vidi</l>
+			    <l>stabile e ferma, tutto sbigottito</l>
+			    <l>mi volsi al cor, e dissi: — In che ti fidi? —</l></lg>
+			<lg><l>Rispose: — Nel Signor, che mai fallito</l>
+			    <l>non ha promessa a chi si fida in lui:</l>
+			    <l>ma ben veggio che 'l mondo m'ha schernito,</l></lg>
+			<lg><l>e sento quel ch'i' sono e quel ch'i' fui,</l>
+			    <l>e veggio andar, anzi volare, il tempo,</l>
+			    <l>e doler mi vorrei, né so di cui;</l></lg>
+			<lg><l>ché la colpa è pur mia, che piú per tempo</l>
+			    <l>devé' aprir li occhi, e non tardar al fine,</l>
+			    <l>ch'a dir il vero, omai troppo m'attempo.</l></lg>
+			<lg><l>Ma tarde non fur mai grazie divine;</l>
+			    <l>in quelle spero che 'n me ancor faranno</l>
+			    <l>alte operazioni e pellegrine. —</l></lg>
+			<lg><l>Cosí detto e risposto. Or se non stanno</l>
+			    <l>queste cose che 'l ciel volge e governa,</l>
+			    <l>dopo molto voltar, che fine avranno?</l></lg>
+			<lg><l>Questo pensava: e mentre piú s'interna</l>
+			    <l>la mente mia, veder mi parve un mondo</l>
+			    <l>novo, in etate immobile ed eterna,</l></lg>
+			<lg><l>e 'l Sole e tutto 'l ciel disfar a tondo</l>
+			    <l>con le sue stelle, ancor la terra e 'l mare,</l>
+			    <l>e rifarne un piú bello e piú giocondo.</l></lg>
+			<lg><l>Qual meraviglia ebb'io quando ristare</l>
+			    <l>vidi in un punto quel che mai non stette,</l>
+			    <l>ma discorrendo suol tutto cangiare!</l></lg>
+			<lg><l>E le tre parti sue vidi ristrette</l>
+			    <l>ad una sola, e quella una esser ferma</l>
+			    <l>sí che, come solea, piú non s'affrette,</l></lg>
+			<lg><l>e, quasi in terra d'erbe ignuda et erma,</l>
+			    <l>né fia, né fu, né mai, né inanzi, o 'ndietro,</l>
+			    <l>ch'umana vita fanno varia e 'nferma!</l></lg>
+			<lg><l>Passa il penser sí come sole in vetro,</l>
+			    <l>anzi piú assai, però che nulla il tene.</l>
+			    <l>O qual grazia mi fia, se mai l'impetro,</l></lg>
+			<lg><l>ch'i' veggia ivi presente il sommo bene,</l>
+			    <l>non alcun mal, che solo il tempo mesce,</l>
+			    <l>e con lui si diparte, e con lui vene!</l></lg>
+			<lg><l>Non avrà albergo il Sol Tauro né Pesce,</l>
+			    <l>per lo cui variar nostro lavoro</l>
+			    <l>or nasce, or more, et ora scema, or cresce.</l></lg>
+			<lg><l>Beat'i spirti che nel sommo coro</l>
+			    <l>si troveranno, o trovano, in tal grado</l>
+			    <l>che sia memoria eterna il nome loro!</l></lg>
+			<lg><l>O felice colui che trova il guado</l>
+			    <l>di questo alpestro e rapido torrente</l>
+			    <l>c'ha nome vita, e a molti è sí a grado!</l></lg>
+			<lg><l>Misera la volgare e cieca gente,</l>
+			    <l>che pon qui sue speranze in cose tali</l>
+			    <l>che 'l tempo le ne porta sí repente!</l></lg>
+			<lg><l>O veramente sordi, ignudi e frali,</l>
+			    <l>poveri d'argomenti e di consiglio,</l>
+			    <l>egri del tutto e miseri mortali!</l></lg>
+			<lg><l>Quei che 'l mondo governa pur col ciglio,</l>
+			    <l>che conturba et acqueta gli elementi,</l>
+			    <l>al cui saver non pur io non m'appiglio,</l></lg>
+			<lg><l>ma li angeli ne son lieti e contenti</l>
+			    <l>di veder de le mille parti l'una,</l>
+			    <l>et in ciò stanno desiosi e 'ntenti!</l></lg>
+			<lg><l>O mente vaga, al fin sempre digiuna,</l>
+			    <l>a che tanti penseri? Un'ora sgombra</l>
+			    <l>quanto in molt'anni a pena si raguna:</l></lg>
+			<lg><l>quel che l'anima nostra preme e 'ngombra,</l>
+			    <l>dianzi, adesso, ier, deman, matino e sera,</l>
+			    <l>tutti in un punto passeran com'ombra;</l></lg>
+			<lg><l>non avrà loco fu, sarà, ned era,</l>
+			    <l>ma è solo, in presente, et ora, et oggi,</l>
+			    <l>e sola eternità raccolta e 'ntera.</l></lg>
+			<lg><l>Quasi spianati dietro e 'nanzi i poggi,</l>
+			    <l>ch'occupavan la vista, non fia in cui</l>
+			    <l>vostro sperare e rimembrar s'appoggi;</l></lg>
+			<lg><l>la qual varietà fa spesso altrui</l>
+			    <l>vaneggiar sí, che 'l viver par un gioco,</l>
+			    <l>pensando pur — che sarò io? che fui? —</l></lg>
+			<lg><l>Non sarà piú diviso a poco a poco,</l>
+			    <l>ma tutto inseme, e non piú state o verno,</l>
+			    <l>ma morto il tempo, e variato il loco;</l></lg>
+			<lg><l>e non avranno in man li anni il governo</l>
+			    <l>de le fame mortali; anzi chi fia</l>
+			    <l>chiaro una volta, fia chiaro in eterno.</l></lg>
+			<lg><l>O felici quelle anime che 'n via</l>
+			    <l>sono o seranno di venire al fine</l>
+			    <l>di ch'io ragiono, quandunque e' si sia!</l></lg>
+			<lg><l>E tra l'altre leggiadre e pellegrine,</l>
+			    <l>beatissima lei che Morte occise</l>
+			    <l>assai di qua dal natural confine!</l></lg>
+			<lg><l>Parranno allor l'angeliche divise,</l>
+			    <l>e l'oneste parole, e i penser casti,</l>
+			    <l>che nel cor giovenil natura mise.</l></lg>
+			<lg><l>Tanti volti che Morte e 'l Tempo ha guasti,</l>
+			    <l>torneranno al suo piú fiorito stato;</l>
+			    <l>e vedrassi ove, Amor, tu mi legasti,</l></lg>
+			<lg><l>ond'io a dito ne sarò mostrato:</l>
+			    <l>— Ecco chi pianse sempre, e nel suo pianto</l>
+			    <l>sovra 'l riso d'ogni altro fu beato! —</l></lg>
+			<lg><l>E quella di ch'ancor piangendo canto</l>
+			    <l>avrà gran meraviglia di se stessa,</l>
+			    <l>vedendosi fra tutte dar il vanto.</l></lg>
+			<lg><l>Quando ciò fia, no 'l so: se fu soppressa</l>
+			    <l>tanta credenza a' piú fidi compagni,</l>
+			    <l>a sí alto segreto chi s'appressa?</l></lg>
+			<lg><l>Credo io che s'avicini, e de' guadagni</l>
+			    <l>veri e de' falsi si farà ragione,</l>
+			    <l>che tutti fíen allor opre d'aragni.</l></lg>
+			<lg><l>Vedrassi quanto in van cura si pone,</l>
+			    <l>e quanto indarno s'affatica e suda,</l>
+			    <l>come sono inganate le persone:</l></lg>
+			<lg><l>nesun segreto fia chi copra o chiuda;</l>
+			    <l>fia ogni conscienza, o chiara, o fosca,</l>
+			    <l>dinanzi a tutto 'l mondo aperta e nuda:</l></lg>
+			<lg><l>e fia chi ragion giudichi e conosca.</l>
+			    <l>Ciascun poi vedrem prender suo viaggio</l>
+			    <l>come fier scacciata che s'imbosca;</l></lg>
+			<lg><l>e vedrassi quel poco di paraggio</l>
+			    <l>che vi fa ir superbi, e oro, e terreno,</l>
+			    <l>esservi stato danno, e non vantaggio;</l></lg>
+			<lg><l>e 'n disparte, color che sotto 'l freno</l>
+			    <l>di modesta fortuna ebbero in uso,</l>
+			    <l>senz'ogni pompa, di godersi in seno.</l></lg>
+			<lg><l>Questi triumfi, i cinque in terra giuso</l>
+			    <l>avem veduto, et a la fine il sesto,</l>
+			    <l>Dio permettente, vederem lassuso;</l></lg>
+			<lg><l>e 'l Tempo, a disfar tutto cosí presto,</l>
+			    <l>e Morte, in sua ragion cotanto avara,</l>
+			    <l>morti insieme seranno e quella e questo;</l></lg>
+			<lg><l>e quei che fama meritaron chiara,</l>
+			    <l>che 'l Tempo spense, e i be' visi leggiadri,</l>
+			    <l>che 'mpallidir fe' 'l Tempo e Morte amara,</l></lg>
+			<lg><l>l'oblivion, gli aspetti oscuri et adri,</l>
+			    <l>piú che mai bei tornando, lascieranno</l>
+			    <l>a morte impetuosa, a' giorni ladri:</l></lg>
+			<lg><l>ne l'età piú fiorita e verde avranno</l>
+			    <l>con immortal bellezza eterna fama.</l>
+			    <l>Ma, innanzi a tutte ch'a rifar si vanno,</l></lg>
+			<lg><l>è quella che piangendo il mondo chiama</l>
+			    <l>con la mia lingua e con la stanca penna;</l>
+			    <l>ma 'l ciel pur di vederla intera brama.</l></lg>
+			<lg><l>A riva un fiume che nasce in Gebenna,</l>
+			    <l>Amor mi die' per lei sí lunga guerra,</l>
+			    <l>che la memoria ancora il cor accenna:</l></lg>
+			<lg><l>felice sasso, che 'l bel viso serra!</l>
+			    <l>che poi ch'avrà ripreso il suo bel velo,</l>
+			    <l>se fu beato che la vide in terra,</l></lg>
+			<lg><l>or che fia dunque a rivederla in cielo?</l></lg>
+		</lg>
+</div1>
+<div1 type="parte"><head>[TRIUMPHUS MORTIS Ia]</head>
+		<lg type="terzina">
+			<lg><l>Quanti già ne l'età matura et acra</l>
+			    <l>triumfi ornaro il glorioso colle,</l>
+			    <l>quanti pregion passar per la via Sacra</l></lg>
+			<lg><l>sotto 'l monarca ch'al suo tempo volle</l>
+			    <l>far il mondo descrivere universo,</l>
+			    <l>che 'l nome di grandezza a gli altri tolle,</l></lg>
+			<lg><l>o sotto quel che non d'argento terso</l>
+			    <l>die' bere a' suoi, ma d'un rivo sanguigno:</l>
+			    <l>tutti poco o niente foran verso</l></lg>
+			<lg><l>quest'un ch'io parlo. E sí candido cigno</l>
+			    <l>non fu già mai che non sembiasse un corvo</l>
+			    <l>presso al bel viso angelico benigno.</l></lg>
+			<lg><l>E cosí, in atto dolcemente torvo,</l>
+			    <l>l'onesta vincitrice in vèr l'occaso</l>
+			    <l>seguío il lito tirren sonante e córvo.</l></lg>
+			<lg><l>Ove Sorga e Durenza in maggior vaso</l>
+			    <l>congiungon le lor chiare e torbide acque,</l>
+			    <l>la mia Academia un tempo e 'l mio Parnaso,</l></lg>
+			<lg><l>ivi, onde a gli occhi miei il bel lume nacque</l>
+			    <l>che gli volse al bon porto, si ratenne</l>
+			    <l>quella per cui ben far prima mi piacque.</l></lg>
+		</lg>
+</div1>
+<div1 type="parte"><head>[TRIUMPHUS FAME Ia]</head>
+		<lg type="terzina">
+			<lg><l>Nel cor pien d'amarissima dolcezza</l>
+			    <l>risonavano ancor gli ultimi accenti</l>
+			    <l>del ragionar ch'e' sol brama et apprezza,</l></lg>
+			<lg><l>e volea dir — O dí miei tristi et lenti! —</l>
+			    <l>e piú cose altre, quand'io vidi allegra</l>
+			    <l>girsene lei fra belle alme lucenti.</l></lg>
+			<lg><l>Avea già il Sol la benda umida e negra</l>
+			    <l>tolta dal duro volto della Terra,</l>
+			    <l>riposo della gente mortale egra;</l></lg>
+			<lg><l>il sonno, e quella ch'ancor apre e serra</l>
+			    <l>il mio cor lasso, a pena eran partiti,</l>
+			    <l>ch'io vidi incominciar un'altra guerra.</l></lg>
+			<lg><l>O Polimnia, or prego che m'aiti,</l>
+			    <l>e tu, Memoria, il mio stile accompagni,</l>
+			    <l>che 'mprende a ricercar diversi liti.</l></lg>
+			<lg><l>Uomini e fatti gloriosi e magni,</l>
+			    <l>per le parti di mezzo e per l'estreme,</l>
+			    <l>ove sera e matina il Sol si bagni,</l></lg>
+			<lg><l>io vidi, molta nobil gente inseme</l>
+			    <l>sotto le 'nsegne d'una gran reina,</l>
+			    <l>che ciascun l'alma, riverisce e teme.</l></lg>
+			<lg><l>Ella a veder parea cosa divina,</l>
+			    <l>e da man destra avea quel gran romano</l>
+			    <l>che fe' in Germania e 'n Francia tal ruina;</l></lg>
+			<lg><l>Augusto e Druso seco a mano a mano</l>
+			    <l>e ' duo folgori veri di battaglia,</l>
+			    <l>il maggior e 'l minor Scipio Affricano;</l></lg>
+			<lg><l>e Papirio Cursor, che tutto smaglia,</l>
+			    <l>Curio e Fabrizio, e l'un e l'altro Cato,</l>
+			    <l>e 'l gran Pompeo, che mal vide Tesaglia.</l></lg>
+			<lg><l>E Valerio Corvino, e quel Torquato</l>
+			    <l>che per troppa pietate occise il figlio;</l>
+			    <l>e 'l primo Bruto li sedea da lato;</l></lg>
+			<lg><l>poi il buon villan che fe' il nume vermiglio</l>
+			    <l>del fero sangue, e 'l vecchio ch'Aniballe</l>
+			    <l>frenò con tarditate e con consiglio;</l></lg>
+			<lg><l>Claudio Neron, che 'l capo d'Asdruballe</l>
+			    <l>presentò al fratello aspro e feroce,</l>
+			    <l>sí che di duol li fe' voltar le spalle;</l></lg>
+			<lg><l>Muzio, che la sua destra errante coce;</l>
+			    <l>Orazio, sol contra Toscana tutta,</l>
+			    <l>che né foco né ferro a vertú noce;</l></lg>
+			<lg><l>e chi con sospizion indegna lutta,</l>
+			    <l>Valerio, di piacer al popol vago</l>
+			    <l>sí che s'inchina, e sua casa è distrutta;</l></lg>
+			<lg><l>e quel che i latin vince sovra il lago</l>
+			    <l>Regillo, e quel che prima Affrica assalta,</l>
+			    <l>e i duo che prima in mar vinser Cartago,</l></lg>
+			<lg><l>dico Appio audace e Catulo, che smalta</l>
+			    <l>il pelago di sangue, e quel Duillo</l>
+			    <l>che d'aver vinto allor sempre s'esalta.</l></lg>
+			<lg><l>Vidi 'l vittorioso e gran Camillo</l>
+			    <l>sgombrar l'oro, menar la spada a cerco,</l>
+			    <l>e riportare il perduto vessillo.</l></lg>
+			<lg><l>Mentre con gli occhi quinci e quindi cerco,</l>
+			    <l>vidivi Cosso, con le spoglie ostili,</l>
+			    <l>e 'l dittator Emilio Mamerco;</l></lg>
+			<lg><l>e parecchi altri di natura umíli,</l>
+			    <l>Rutilio, e Volumnio, e Gracco, e Filo,</l>
+			    <l>fatti per vertú d'arme alti e gentili:</l></lg>
+			<lg><l>costor vid'io fra 'l nobil sangue d'Ilo</l>
+			    <l>misto col roman sangue chiaro e bello,</l>
+			    <l>cui non basta né mio né altro stilo.</l></lg>
+			<lg><l>Vidi ' duo Paoli, e 'l buon Marco Marcello,</l>
+			    <l>che 'n su riva di Po, presso a Casteggio,</l>
+			    <l>occise di sua mano il gran rebello.</l></lg>
+			<lg><l>E, volgendomi indietro, ancora veggio</l>
+			    <l>i primi quattro buon ch'ebbero in Roma</l>
+			    <l>primo, secondo, terzo e quarto seggio,</l></lg>
+			<lg><l>e Cincinnato con la inculta chioma,</l>
+			    <l>e 'l gran Rutilian col chiaro sdegno,</l>
+			    <l>e Metello orbo con la nobil soma;</l></lg>
+			<lg><l>Regolo Attilio, sí di laude degno</l>
+			    <l>e vincendo e morendo, et Appio cieco</l>
+			    <l>che Pirro fe' di veder Roma indegno.</l></lg>
+			<lg><l>Era un altro Appio, spron del popol, seco,</l>
+			    <l>duo Fulvii, e Manlio Volso, e quel Flaminio</l>
+			    <l>che vinse e liberò 'l paese greco.</l></lg>
+			<lg><l>Ivi fra gli altri tinto era Virginio</l>
+			    <l>del sangue di sua figlia, onde a que' dieci</l>
+			    <l>tiranni tolto fu l'empio dominio;</l></lg>
+			<lg><l>e larghi due di lor sangue o tre Deci,</l>
+			    <l>e ' duo gran Scipion che Spagna oppresse,</l>
+			    <l>e Marzio che sostenne ambe lor veci.</l></lg>
+			<lg><l>E come a' suoi ciascun par che s'appresse,</l>
+			    <l>l'Asiatico era ivi, e quel perfetto</l>
+			    <l>ch'ottimo solo il buon senato elesse.</l></lg>
+			<lg><l>E Lelio a' suoi Cornelii era ristretto;</l>
+			    <l>non cosí quel Metello al qual arrise</l>
+			    <l>tanto Fortuna che felice è detto:</l></lg>
+			<lg><l>parean, vivendo, lor menti divise,</l>
+			    <l>morendo, ricongiunte; e seco il padre</l>
+			    <l>era, e 'l suo seme, che sotterra il mise.</l></lg>
+			<lg><l>Vespasian poi a le spalle quadre</l>
+			    <l>riconobbi et al viso d'uom che ponta,</l>
+			    <l>con Tito suo dall'opre alte e leggiadre.</l></lg>
+			<lg><l>Domizian non v'era, ond'ira et onta</l>
+			    <l>avean, ma la famiglia che per varco</l>
+			    <l>d'adozion al sommo imperio monta:</l></lg>
+			<lg><l>Traiano et Adriano, Antonio e Marco,</l>
+			    <l>che facea d'adottar anch'egli il meglio;</l>
+			    <l>al fin Teodosio di ben far non parco.</l></lg>
+			<lg><l>Questo fu di vertú l'ultimo speglio,</l>
+			    <l>in quell'ordine dico; e dopo lui</l>
+			    <l>cominciò forte il mondo a farsi veglio.</l></lg>
+			<lg><l>Poco in disparte, accorto anco mi fui</l>
+			    <l>d'alquanti in cui regnò vertú non poca,</l>
+			    <l>ma ricoperta fu dall'ombra altrui:</l></lg>
+			<lg><l>ivi era quel che ' fondamenti loca</l>
+			    <l>d'Albalunga in quel monte pellegrino,</l>
+			    <l>et Ati, e Numitor, e Silvio e Proca,</l></lg>
+			<lg><l>e Capi, e 'l vecchio e 'l novo re Latino,</l>
+			    <l>Agrippa, e i duo ch'etterno nome denno</l>
+			    <l>al Tevero et al bel colle Aventino.</l></lg>
+			<lg><l>Non m'accorgea, ma fummi fatto un cenno,</l>
+			    <l>e quasi in un mirar dubbio notturno</l>
+			    <l>vidi quei ch'ebber men forza e piú senno,</l></lg>
+			<lg><l>primi italici regi: ivi Saturno,</l>
+			    <l>Pico e Fauno e Iano, e poi non lunge</l>
+			    <l>pensosi vidi andar Camilla e Turno.</l></lg>
+			<lg><l>E perché gloria in ogni parte aggiunge,</l>
+			    <l>vidi, oltra un rivo, il gran cartaginese,</l>
+			    <l>la cui memoria ancor Italia punge:</l></lg>
+			<lg><l>l'un occhio avea lasciato al mio paese,</l>
+			    <l>stagnando al freddo tempo il fiume tosco,</l>
+			    <l>sicché gli era, a vederlo, stranio arnese,</l></lg>
+			<lg><l>sovra un grande elefante un doge losco.</l>
+			    <l>Guarda' gli intorno, e vidi 'l re Filippo</l>
+			    <l>similemente dall'un lato fosco.</l></lg>
+			<lg><l>Vidi 'l Lacedemonio ivi, Santippo,</l>
+			    <l>ch' a cruda gente fece il bel servigio,</l>
+			    <l>e d'un nido medesmo uscir Gilippo.</l></lg>
+			<lg><l>Vidi color ch'andaro al regno stigio,</l>
+			    <l>Ercole, Enea, Teseo et Ulisse,</l>
+			    <l>e lasciar qui di fama tal vestigio.</l></lg>
+			<lg><l>Ettor col padre, quel che troppo visse,</l>
+			    <l>Dardano, e Tros, et eroi altri vidi</l>
+			    <l>chiari per sé, ma piú per chi ne scrisse;</l></lg>
+			<lg><l>Diomedès, Achille, e i grandi Atridi,</l>
+			    <l>duo Aiaci, e Tideo, e Polinice,</l>
+			    <l>nemici in prima, amici poi sí fidi;</l></lg>
+			<lg><l>e la brigata ardita et infelice</l>
+			    <l>che cadde a Tebe; e quell'altra ch'a Troia</l>
+			    <l>fece assai, credo, ma di piú si dice.</l></lg>
+			<lg><l>Pantasilea, ch'a' greci fe' gran noia,</l>
+			    <l>Ipolita ed Oritia, che regnaro</l>
+			    <l>là presso al mar ov'entra la Danoia.</l></lg>
+			<lg><l>E vidi Ciro, piú di sangue avaro</l>
+			    <l>che Crasso d'oro, e l'un e l'altro n'ebbe</l>
+			    <l>tanto ch'al fine a ciascun parve amaro;</l></lg>
+			<lg><l>Filopomene, a cui nulla sarebbe</l>
+			    <l>nova arte in guerra, e chi di fede abonda,</l>
+			    <l>Massinissa, nel qual sempre ella crebbe;</l></lg>
+			<lg><l>Leonida, e 'l tebano Epaminonda,</l>
+			    <l>Milciade e Temistocle, che i persi</l>
+			    <l>cacciar di Grecia, vinti in terra e 'n onda.</l></lg>
+			<lg><l>Vidi Davit cantar celesti versi,</l>
+			    <l>e Iuda Maccabeo, e Iosuè,</l>
+			    <l>a cui 'l Sole e la Luna immobil fersi;</l></lg>
+			<lg><l>Alessandro, ch'al mondo briga die',</l>
+			    <l>or l'ocean tentava, e potea farlo;</l>
+			    <l>Morte vi s'interpose, onde no 'l fe';</l></lg>
+			<lg><l>poi alla fine vidi Arturo e Carlo.</l></lg>
+		</lg>
+</div1>
+<div1 type="parte"><head>[TRIUMPHUS FAME IIa]</head>
+		<lg type="terzina">
+			<lg><l>Poi che la bella e gloriosa donna</l>
+			    <l>cosí ornata giunse da man destra,</l>
+			    <l>volsimi a l'altra, del suo onor colonna,</l></lg>
+			<lg><l>e vidi a quella man gente selvestra,</l>
+			    <l>tacita e grave, che pensando avea</l>
+			    <l>fatto al ciel co' l'ingegno alta fenestra.</l></lg>
+			<lg><l>Ivi vidi colui che pose idea</l>
+			    <l>ne la mente divina, e chi di questo</l>
+			    <l>e d'altre cose seco contendea,</l></lg>
+			<lg><l>ed era amico, ciò dicea, ma presto...</l>
+			    <l>Poi vidi il padre di filosofia,</l>
+			    <l>Socrate, un vecchiarello allegro, onesto.</l></lg>
+			<lg><l>Que' la trasse del cielo ove era pria</l>
+			    <l>ed allogolla in terra fra i mortali</l>
+			    <l>perché il vivere umano utile sia.</l></lg>
+			<lg><l>Poi vidi alcuni alzarsi ed aprir l'ali</l>
+			    <l>ove non bisognava ad ora ad ora,</l>
+			    <l>e far dal ciel nel fango brutti cali.</l></lg>
+			<lg><l>Pitagora che 'l nome, il qual onora</l>
+			    <l>suoi possessor se 'n dritta parte è preso,</l>
+			    <l>prima trovò; l'altra è tuba sonora,</l></lg>
+			<lg><l>Senofonte, e Solon che diede a Creso</l>
+			    <l>il buon consiglio di guardare al fine,</l>
+			    <l>da molti udito, ma da pochi inteso;</l></lg>
+			<lg><l>e gli altri sei in non men pellegrine</l>
+			    <l>sedie vidi io, ma fama il ver non muta.</l>
+			    <l>Poi contendea Demostene ed Eschine:</l></lg>
+			<lg><l>ciascun con sí tagliente e con sí aguta</l>
+			    <l>lingua, ch'udendo lor querele tante,</l>
+			    <l>Grecia mi parve sbigottita e muta.</l></lg>
+			<lg><l>Senocrate, Anassagora e Cleante</l>
+			    <l>e Zenone e Ferecide, radice</l>
+			    <l>onde uscir molte verdi e liete piante;</l></lg>
+			<lg><l>ed Epicuro che col popol dice,</l>
+			    <l>pur che 'l diletto sensual trabocchi,</l>
+			    <l>un uom razional porco felice.</l></lg>
+			<lg><l>Poi colui ch'a se stesso tolse gli occhi,</l>
+			    <l>perché 'l pensier la vista non occupe</l>
+			    <l>forse, o per non veder fiorir li sciocchi;</l></lg>
+			<lg><l>e Crisippo a le cose oscure e cupe</l>
+			    <l>non meno intento e duo bon poverelli,</l>
+			    <l>l'un in un tino e l'altro in una rupe.</l></lg>
+			<lg><l>Diogene e Parmenide son quelli</l>
+			    <l>di ch'io ragiono; Antistene, Anacarse,</l>
+			    <l>Crantor, Anassimene eran con elli;</l></lg>
+			<lg><l>Anassarco e Calan, che vivo s'arse</l>
+			    <l>di viver sazio, e cui vaneggiando</l>
+			    <l>Mongibello sepolcro onesto parse;</l></lg>
+			<lg><l>Varro e 'l gran Tullio che venian parlando</l>
+			    <l>lingua latina, e Seneca il seguía;</l>
+			    <l>e Virgilio ed Omero alto cantando.</l></lg>
+			<lg><l>Dolce mi fu il mirar lor leggiadria,</l>
+			    <l>in atto in lingue in abito distinta,</l>
+			    <l>ed udir lor celeste melodia.</l></lg>
+			<lg><l>Di lauro avea ciascun la fronte cinta,</l>
+			    <l>o d'edera o di mirto, altri ch'un solo,</l>
+			    <l>che cantava canzon vera e non finta.</l></lg>
+			<lg><l>Euripide vid'io levarsi a volo</l>
+			    <l>e Sofoclè, duo nobili tragedi,</l>
+			    <l><gap extent="1 verso"/>. . . . . . . . . . </l></lg>
+			<lg><l>E Greci e nostri, che son fatti eredi</l>
+			    <l>del monte di Parnaso e per quei gioghi</l>
+			    <l>mosser piú tardo, non men presti, i piedi.</l></lg>
+			<lg><l>Tal al parlar, tal riconobbi ai luoghi:</l>
+			    <l>quel era di Volterra e quel d'Aquino,</l>
+			    <l>ciascun par che suo sdegno in verso sfoghi.</l></lg>
+			<lg><l>Dinanzi a questo Orazio venusino</l>
+			    <l>con la sua lira e 'l Fiorentin ch'è messo</l>
+			    <l>a cantar Pluto e Stillico e Ruffino.</l></lg>
+			<lg><l>Vidi Stazio a Virgilio ir sí da presso</l>
+			    <l>che li dava del piè nelle calcagna,</l>
+			    <l>e reverente umiliar se stesso.</l></lg>
+			<lg><l>Poi vidi con Lucan d'ultima Spagna</l>
+			    <l>Columella venir e Marziale</l>
+			    <l>ch'un gran Guascone aveva in lor compagna.</l></lg>
+			<lg><l>Non è l'ingegno né lo stile equale</l>
+			    <l>a la materia, onde di mille taccio,</l>
+			    <l>ma non posso tacer . . . . . .</l></lg>
+			<lg><l>Lucilio, Ennio, Pacuvio, Plauto ed Accio,</l>
+			    <l>Nevio ed altri che poser in trastullo</l>
+			    <l>il mal d'amor, ricever fiamma e ghiaccio:</l></lg>
+			<lg><l>Anacreonte, Alceo e con Catullo,</l>
+			    <l>nodrito in Campo Marzo veronese,</l>
+			    <l>e Properzio ed Ovidio era e Tibullo.</l></lg>
+			<lg><l>Ibico il grande amante calabrese</l>
+			    <l>iva con lor; fra ta' sette vidi una</l>
+			    <l>giovane Greca assai bella e cortese</l></lg>
+			<lg><l>d'amor lagnarsi, di sua ria fortuna.</l>
+			    <l>Poi vidi ond'ave appoggi ed alimenti</l>
+			    <l>nostra memoria fragile e digiuna.</l></lg>
+			<lg><l>Livio il gran padoan, da' fondamenti</l>
+			    <l>il qual di Roma cosí passo passo</l>
+			    <l>venne col tempo alle famose genti,</l></lg>
+			<lg><l>era il primo fra questi e questi lasso</l>
+			    <l>parea del gran viaggio e poi il secondo,</l>
+			    <l>Crispo Sallustio che non parla in casso.</l></lg>
+			<lg><l>Trogo che col suo stile abbraccia il mondo,</l>
+			    <l>non stringe, e Iustin seco e Festo e Floro</l>
+			    <l>toccar la superficie ma no 'l fondo.</l></lg>
+			<lg><l>Erodoto e Tuchidide e con loro</l>
+			    <l>Polibio e Quinto Claudio, che tesseo</l>
+			    <l>di rozza trame un nobile lavoro;</l></lg>
+			<lg><l>e in ciò sembiante il veritiero ebreo</l>
+			    <l>Iosefo ed Egesippo, in cinque libri</l>
+			    <l>che poi l'istoria sua piú breve feo;</l></lg>
+			<lg><l>e Iulio Celso ch'io non so qual vibri</l>
+			    <l>meglio o 'l ferro o la penna; e Dare e Dite</l>
+			    <l>fra lor discordi e non è chi 'l ver cribri;</l></lg>
+			<lg><l>cosí rimansi ancor l'antica lite</l>
+			    <l>di questi e d'altri e gli argomenti interi,</l>
+			    <l>ché le certe notizie son fallite.</l></lg>
+			<lg><l>Vidi ancor duo Corneli e duo Valeri,</l>
+			    <l>Orosio, Eutropio, Curzio ed altri molti,</l>
+			    <l>tutti d'ingegno e d'eloquenzia alteri.</l></lg>
+			<lg><l>*</l>
+			    <l>Cinea  e Carneadès che di memoria</l>
+			    <l>vinsero ogni uomo, sicome Grecia afferma;</l></lg>
+			<lg><l>Ortensio, ch'à gran parte in questa gloria;</l>
+			    <l>Plinio con libri suoi quattro e settanta</l>
+			    <l>di sua romana e natural istoria.</l></lg>
+		</lg>
+</div1>
+
+</body>
+</text>
+</TEI.2>

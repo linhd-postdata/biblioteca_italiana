@@ -1,0 +1,2308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Pastorale</title>
+      <author>Matteo Maria Boiardo</author>
+    </titleStmt>
+    <extent>76 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000380</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Opere volgari : Amorum libri, Pastorale, Lettere</title>
+        <author>Boiardo, Matteo Maria</author>
+        <editor id="ed">Mengaldo, Pier Vincenzo</editor>
+        <publisher>Laterza</publisher>
+        <pubPlace>Bari</pubPlace>
+        <date>1962</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>858 - Scritti miscellanei italiani</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-10-10T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="parte">
+<head>PASTORALE DEL MAG<corr resp="ed">NIFI</corr>CO CONTE DI SCANDIANO MATHEO MARIA BOIARDO</head>
+<div2 type="parte">
+<head>1</head>
+<stage>Ne la Egloga prima parlano insieme <hi rend="sc">TITIRO</hi>
+e <hi rend="sc">MOPSO</hi>.</stage>
+<sp><speaker>TI.</speaker>
+<lg type="egloga">
+<lg>
+<l>La luce che raporta il novo giorno</l>
+<l>or esce lampegiando in quel colore</l>
+<l>che fa l'aria vermiglia e de oro intorno;</l></lg>
+<lg>
+<l>fuor de la mandra or esce ogni pastore</l>
+<l>e cum la bianca grege e cum lo armento</l>
+<l>pasce per l'erbe il roscido liquore.</l></lg>
+<lg>
+<l>Ed io meschin piangendo mi lamento</l>
+<l>ne la ripa selvagia al crudo sasso</l>
+<l>e spargo indarno e' mei sospiri al vento.</l></lg>
+<lg>
+<l>Chiedendo al Celo aiuto ormai son lasso,</l>
+<l>però destino, insin che dura il spirto,</l>
+<l>tenir giù lacrimando il viso basso:</l></lg>
+<lg>
+<l>verde genepre ombroso folto ed irto,</l>
+<l>ispidi pruni, a voi facio palese</l>
+<l>il mio dolor, e a te, frondente mirto.</l></lg>
+<lg>
+<l>Quel mio fiorito dolce almo paese,</l>
+<l>novo Menalo a noi, novo Liceo,</l>
+<l>ove Pan a cantar spesso discese,</l></lg>
+<lg>
+<l>sotto lo ungion de lo Animal nemeo,</l>
+<l>tra il scuro iato e l'una e l'altra zanna,</l>
+<l>quasi è già preda e pasto di quel reo.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MO.</speaker>
+<lg type="egloga">
+<lg>
+<l> Titiro è quello, o la vista me inganna,</l>
+<l>che là soletto in il fiume diserto</l>
+<l>cum tal pietade a lacrimar se affanna?</l></lg>
+<lg>
+<l>Conoscolo a la voce, ed esso è certo:</l>
+<l>suo dolce querellar or voglio odire</l>
+<l>tra queste fronde ascoso e ricoperto.</l></lg>
+</lg>
+</sp>
+<sp><speaker>TI.</speaker>
+<lg type="egloga">
+<lg>
+<l> Qual tigre ircane o qual aspide dire</l>
+<l>potrian cum gli ochi asciuti riguardare</l>
+<l>la orribil fiera sopra a noi fremire?</l></lg>
+<lg>
+<l>Le pecorelle spaventate e rare</l>
+<l>cadendo van di tabe e di penuria,</l>
+<l>e il suo pastor in campo non appare.</l></lg>
+<lg>
+<l>Le stelle coniurate a farce iniuria</l>
+<l>posto hano Alcide languido nel prato,</l>
+<l>che solo era riparo a tanta furia.</l></lg>
+<lg>
+<l>Eridano il dolente, abandonato</l>
+<l>da le Naiade, Satiri e Napee,</l>
+<l>corre di sangue e lacrime meschiato.</l></lg>
+<lg>
+<l>Né sopra Xanto né a le selve idee,</l>
+<l>là dove il bel pastor in alto fasto</l>
+<l>se pose a iudicar tra le tre dee,</l></lg>
+<lg>
+<l>fo dato a ferro e a foco un cotal guasto,</l>
+<l>né sparso a terra tanto sangue umano,</l>
+<l>parte a le fiere e parte a' pesci in pasto.</l></lg>
+<lg>
+<l>Lasso, che al lamentar son fatto insano</l>
+<l>e non ramento mia sorte tapina,</l>
+<l>nel publico dolor piangendo invano.</l></lg>
+<lg>
+<l>Ove è il mio ostello a lato a la marina?</l>
+<l>ove il rico giardin dai frutti d'oro?</l>
+<l>Tutto è fiaccato ed arso cun ruina.</l></lg>
+<lg>
+<l>Ove è il novo boschetto e il verde aloro</l>
+<l>quale io stesso piantai cum rame tenere,</l>
+<l>de amor cantando onde or di doglia ploro?</l></lg>
+<lg>
+<l>Da quel vermiglio fior che amò già Venere</l>
+<l>era nomato, e il nome asumigliava:</l>
+<l>or in terra è divelto e posto in cenere.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MO.</speaker>
+<lg type="egloga">
+<lg>
+<l> Tanto la noglia di costui mi grava,</l>
+<l>sì vivo a li ochi soi se stilla il pianto</l>
+<l>che dentro al petto sino al cor mi lava;</l></lg>
+<lg>
+<l>né Filomena si darebe il vanto,</l>
+<l>né Alcione plorando il suo Ceice,</l>
+<l>equar questo lamento in dolce canto,</l></lg>
+<lg>
+<l>né quello ardito amante che se dice</l>
+<l>aver mutato la morte inmutabile</l>
+<l>e tolta a Dite sua cara Euridice.</l></lg>
+</lg>
+</sp>
+<sp><speaker>TI.</speaker>
+<lg type="egloga">
+<lg>
+<l> Come spuma di mare e fiume labile</l>
+<l>periti siamo e como aura che spira:</l>
+<l>or pòi mirar se 'l mondo è cosa stabile.</l></lg>
+<lg>
+<l>Non vede il sol che tuto il mondo agira</l>
+<l>cosa tanto gentil quanto la terra</l>
+<l>a cui ciascun pianeta è volto in ira:</l></lg>
+<lg>
+<l>diluvio de onde, peste, fame e guerra</l>
+<l>premeno insieme, e questo il Cel non cura</l>
+<l>né a tanta crudeltà la porta serra;</l></lg>
+<lg>
+<l>soi sacri tempii e sua santa cultura</l>
+<l>son consumati, e le divine effigie</l>
+<l>abandonate, e sparsa ogni figura.</l></lg>
+<lg>
+<l>Quai miseri Tebani o gente frigie</l>
+<l>patirno a soi delitti cotal pena,</l>
+<l>o qual magior è giù tra l'ombre stigie?</l></lg>
+<lg>
+<l>L'aria sopra di nui non se asserena,</l>
+<l>il foco e l'aque ce fan danno a prova,</l>
+<l>la terra è di cordoglio e pianti piena.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MO.</speaker>
+<lg type="egloga">
+<lg>
+<l> Meglio è che a consolar costui me mova:</l>
+<l>a quel che vedo il suo dolor non manca,</l>
+<l>anci magior nel pianto se rinova.</l></lg>
+<lg>
+<l>Leva, Titiro, su l'anima stanca,</l>
+<l>leva le membra: or non sai che Fortuna</l>
+<l>talor nera ha la facia e talor bianca?</l></lg>
+<lg>
+<l>Stato fermo non è sotto la luna,</l>
+<l>né fo né mai serà: però la sorte</l>
+<l>candida tornerà, che or tanto è bruna.</l></lg>
+<lg>
+<l>Alcia la mente e fa lo animo forte,</l>
+<l>ché, come tra' più sagi si ragiona,</l>
+<l>tristizia è da fugir sina a la morte.</l></lg>
+<lg>
+<l>Leva di terra tua lassa persona,</l>
+<l>leva la umida facia ed alcia il ciglio:</l>
+<l>perduto è sol chi se stesso abandona.</l></lg>
+<lg>
+<l>Come fronde caduca e còlto ziglio</l>
+<l>è quel che da speranza se alontana,</l>
+<l>né il suo saper gli giova o altrui consiglio.</l></lg>
+</lg>
+</sp>
+<sp><speaker>TI.</speaker>
+<lg type="egloga">
+<lg>
+<l> Chi te ha condutto in questa parte istrana,</l>
+<l>Mopso, a vederme in sì dolente caso,</l>
+<l>qual m'ha da gli ochi tratto una fontana?</l></lg>
+<lg>
+<l>Rapito mi è l'armento, il grege invaso</l>
+<l>da peste muore, il mio paese ameno</l>
+<l>inculto solo e squalido è rimaso.</l></lg>
+<lg>
+<l>E chiedi che al dolore io ponga freno?</l>
+<l>Mancherà l'onda al mare e luce al sole</l>
+<l>prima che 'l pianto mio mai venga a meno.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MO.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ben iusta è la cagion che al cor ti dole;</l>
+<l>ma il lamentar che giova? e che riparo</l>
+<l>se trova a quel che il Cel destina e vole?</l></lg>
+<lg>
+<l>Atendi al mio conforto, e fìati caro</l>
+<l>venirne meco al fonte di Narciso,</l>
+<l>e passaren parlando il tempo amaro.</l></lg>
+<lg>
+<l>Ma vedi tu, o ch'io ben non aviso?</l>
+<l>Il sacro arbor de Apollo intorno è scritto</l>
+<l>e tuto a letre il tronco pare inciso.</l></lg>
+</lg>
+</sp>
+<sp><speaker>TI.</speaker>
+<lg type="egloga">
+<lg>
+<l> Io il vedo, e se non è forse interditto</l>
+<l>lo antivedere il fàtto, legi un poco,</l>
+<l>se trovasti conforto al core afflitto.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MO.</speaker>
+<lg type="egloga">
+<lg>
+<l> Non scio se per nascondere o per gioco,</l>
+<l>in giro è scritto e par del capo privo;</l>
+<l>ma pur certo comincia in questo loco:</l></lg>
+<lg>
+<l>–Qualunque passerà nel santo rivo</l>
+<l>vedrà il salir de' Stati e il precipizio:</l>
+<l>io, Febo, che non mento, a voi lo scrivo.</l></lg>
+<lg>
+<l>Più faustamente e cum miglior auspizio</l>
+<l>nascerà il tempo, e tornerà la fine</l>
+<l>mite e diversa a sì crudel inizio.</l></lg>
+<lg>
+<l>Il sangue il foco e' pianti e le roine</l>
+<l>che move il fier Leon, meso han pietade</l>
+<l>per tuto il celo a l'anime divine.</l></lg>
+<lg>
+<l>Là dove il nome è di nova citade</l>
+<l>vedo levare una incredibil luce,</l>
+<l>qual è il mio carro in Cancro a megia estade.</l></lg>
+<lg>
+<l>Sieco natura ogni gloria produce:</l>
+<l>rara ionctura, ardir co la prudenzia</l>
+<l>accolti ha insembre questo inclito duce.</l></lg>
+<lg>
+<l>Ben n'ha la Italia vera experienzia,</l>
+<l>che già ripiena di spietati Turchi</l>
+<l>per lui purgata fu di tal semenzia.</l></lg>
+<lg>
+<l>Dalmati e Sclavi e' soi signor più lurchi</l>
+<l>vedo or fugir avanti a la sua facia,</l>
+<l>e lasserano in Po gondolle e burchi;</l></lg>
+<lg>
+<l>e da lo ispano Ibero a lo Ebro in Tracia</l>
+<l>sonerà il nome di quella virtute</l>
+<l>che a gli Indi, a' Sciti e a' Nomadi minacia.</l></lg>
+<lg>
+<l>Lui sol di tuta Esperia fia salute,</l>
+<l>e saran l'opre sue maravigliose,</l>
+<l>non da veder più mai né mai vedute.</l></lg>
+<lg>
+<l>Per lui l'arme dolente fieno ascose</l>
+<l>e sotto il suo pacifico vexillo</l>
+<l>la terra fiorirà viole e rose;</l></lg>
+<lg>
+<l>l'aria serena, il mar sarà tranquillo,</l>
+<l>e fia la fama sua fra l'altre quale</l>
+<l>puro adamante al turbido berillo.</l></lg>
+<lg>
+<l>Ercule alor, disolto de ogni male,</l>
+<l>per tuto il mondo prenderà diffesa</l>
+<l>contro il Leon che aperte ha sì grande ale;</l></lg>
+<lg>
+<l>e benché fia tremenda la contesa,</l>
+<l>ché il magior monstro mai non fo veduto,</l>
+<l>pur fia punito alfin de ogni sua offesa;</l></lg>
+<lg>
+<l>più non serà, come era prima, arguto,</l>
+<l>ma de' monti caciato e de le selve,</l>
+<l>al litto tornerà donde è venuto.</l></lg>
+<lg>
+<l>In terra non saran più monstri o belve;</l>
+<l>tutte le vedo oppresse andare al fondo,</l>
+<l>ché 'l novo Alcide le strugge e divelve.</l></lg>
+<lg>
+<l>Tornerà poi quel tempo sì iocondo</l>
+<l>che ben di questo potrà fare amenda,</l>
+<l>tanto fia lieto e grazioso il mondo.–</l></lg>
+</lg>
+</sp>
+<sp><speaker>TI.</speaker>
+<lg type="egloga">
+<lg>
+<l> Par che nova alegreza il cor me accenda</l>
+<l>e cum gran zoglia quel che leggi ascolto,</l>
+<l>abenché chiaro il tuto non intenda.</l></lg>
+<lg>
+<l>Ma vedi il sol che a lo ocidente è volto:</l>
+<l>partir convienme ormai, ché il cel se anera,</l>
+<l>il tempo è poco e il mio camino è molto.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MO.</speaker>
+<lg type="egloga">
+<lg>
+<l> Come tu dici, è già gionta la sera,</l>
+<l>e se a te non dispiace la mia stanza,</l>
+<l>posar potremo in su questa rivera,</l></lg>
+<lg>
+<l>cantando insieme il giorno che ne avanza.</l></lg></lg>
+</sp>
+</div2>
+<div2 type="parte">
+<head>2</head>
+<stage>Egloga secunda, ne la qual parla lo auttor e canta
+<hi rend="sc">GALATEA</hi>.</stage>
+<sp>
+<lg type="egloga">
+<lg>
+<l>Posto me era a posare in su la riva</l>
+<l>de il re di fiumi, tacito e pensoso,</l>
+<l>mirando il sol che a Ponente ussiva;</l></lg>
+<lg>
+<l>tra folte rame de arbori nascoso</l>
+<l>gli augelleti ascoltava e quel diletto</l>
+<l>che fan cantando al giorno luminoso.</l></lg>
+<lg>
+<l>Mentre lo armento e la mia gregge aspetto,</l>
+<l>la bellissinia ninfa Galatea</l>
+<l>ussite fuor de l'onde a megio al petto.</l></lg>
+<lg>
+<l>Quando sorse da il mar Venere idea,</l>
+<l>mostrando ignuda l'alta sua belleza,</l>
+<l>nulla serebbe a quel ch'io là vedea:</l></lg>
+<lg>
+<l>sparsa a le spalle avea l'umida treza</l>
+<l>qual sì ioconda a nodi lustregiava</l>
+<l>che téne il fiume il corso per vageza.</l></lg>
+<lg>
+<l>Ogni ocellin che lì prima cantava</l>
+<l>quetò la voce per vederla, e il vento</l>
+<l>senza soffiare e stupido amirava.</l></lg>
+<lg>
+<l>E standome io a cotal vista intento,</l>
+<l>lei dolcemente mosse sospirando</l>
+<l>queste parole a guisa de lamento:</l></lg>
+<lg>
+<l>–Quando serà quel giorno gionto e quando</l>
+<l>serà nel mondo quel'ora felice</l>
+<l>che io vida il viso che me strugge amando?</l></lg>
+<lg>
+<l>Lassai Peloro e il bel monte de Erice</l>
+<l>per veder lui, che ogni anima gentile</l>
+<l>le sue vestigie a seguitar elice.</l></lg>
+<lg>
+<l>Ditime, Ninfe, voi, se forsi umile</l>
+<l>torni il Leon che sì crudo vi cacia,</l>
+<l>se la Fortuna cangi miglior stile,</l></lg>
+<lg>
+<l>non aspettati che sua regal facia</l>
+<l>ponga spavento a la terribil fiera</l>
+<l>qual vi ha già chiuse quasi entro le bracia?</l></lg>
+<lg>
+<l>non aspettati che questa rivera</l>
+<l>che or sanguinosa e turbida se trova</l>
+<l>torni tranquilla e lucida come era?</l></lg>
+<lg>
+<l>Ben scio dir io che non fia cosa nova</l>
+<l>a lui quel monstro che orgoglioso è tanto,</l>
+<l>ché in altro loco ha fatto magior prova.</l></lg>
+<lg>
+<l>Ne la marina dove iace Otranto</l>
+<l>un drago sì crudel era disseso</l>
+<l>che tuta Ausonia avea già posta in pianto.</l></lg>
+<lg>
+<l>Era il gran còlto di tal fiama acceso,</l>
+<l>le gente intorno sì smarite e sparte</l>
+<l>che un altro mondo non l'avria diffeso,</l></lg>
+<lg>
+<l>se quel figliol di Pallade e di Marte,</l>
+<l>di cui ragiono ed ardo in tanto amore,</l>
+<l>gionto non fosse cum possanza ed arte.</l></lg>
+<lg>
+<l>Non è sola questa opra al suo valore;</l>
+<l>tra tante alte vittorie una ne è tale</l>
+<l>che non se amenta in terra la magiore:</l></lg>
+<lg>
+<l>il Leon vero e questo altro da l'ale,</l>
+<l>la Vipera sublime e il sacro Ocello</l>
+<l>sconfisse insieme a Poggio Imperiale.</l></lg>
+<lg>
+<l>Né più lodar se puote il gran flagello</l>
+<l>di terra etrusca che la pace ove esso</l>
+<l>condusse a ber il lupo cum l'agnello.</l></lg>
+<lg>
+<l>Io parlo, e pur rivolgo il viso spesso</l>
+<l>al bel paese che un tempo era pieno</l>
+<l>de ogni leticia, or misero ed oppresso.</l></lg>
+<lg>
+<l>Ove èno e' cori? e il canto sì sereno</l>
+<l>che adequava Parnaso e la sua fonte?</l>
+<l>Come è venuta tanta zoglia meno?</l></lg>
+<lg>
+<l>Ove son le sorelle di Fetonte</l>
+<l>che solìano ombregiar di tal verdura</l>
+<l>questo bel fiume da la foce al monte?</l></lg>
+<lg>
+<l>Qual malegno pianeta o stella oscura</l>
+<l>fatto ha tal stracio in sì fiorito loco,</l>
+<l>che pur a rimirarlo è una paura?</l></lg>
+<lg>
+<l>Àprete, celo, e voi guardati un poco,</l>
+<l>pietosi Dei, a le isole del Pado,</l>
+<l>che per tuto è roina e sangue e foco.</l></lg>
+<lg>
+<l>Di corpi occisi è fatto un novo vado,</l>
+<l>e fame e peste sceman tutavia</l>
+<l>ogni etade ogni sexo ed ogni grado.</l></lg>
+<lg>
+<l>È questa quella terra che solia</l>
+<l>esser spechio de Italia, anci del mondo,</l>
+<l>a li omini cortesa ed al Cel pia?</l></lg>
+<lg>
+<l>Sì regal corte e stato sì iocondo,</l>
+<l>tanti trionfi e tanti cavalieri,</l>
+<l>come ha sparsi Fortuna e posti al fondo?</l></lg>
+<lg>
+<l>Le large strate or son stretti sentieri,</l>
+<l>arse le ville, e tra la gente morta</l>
+<l>stanno or le serpi o barbari più fieri.</l></lg>
+<lg>
+<l>Non sei del tuo periglio, Italia, accorta?</l>
+<l>Vedi che a divorarte el Leon ponge</l>
+<l>in ogni parte e bate a questa porta:</l></lg>
+<lg>
+<l>la soglia de la intrata ha già tra l'onge</l>
+<l>e ciascun passo fia soluto e piano</l>
+<l>se quel che io dico a tempo non vi gionge.</l></lg>
+<lg>
+<l>Ogni rimedio, ogni altro aiuto è vano,</l>
+<l>però che Alcide, qual era restauro</l>
+<l>al danno inmenso ed al furore insano,</l></lg>
+<lg>
+<l>non da getico dardo o stral di Mauro,</l>
+<l>ma da febre ferito a terra giace,</l>
+<l>e sieco di vertute ogni tesauro.</l></lg>
+<lg>
+<l>Oh, se risurga quel spirto vivace,</l>
+<l>credeti che il Leon che sì se afretta</l>
+<l>non farà tal fremir come ora face.</l></lg>
+<lg>
+<l>Ma tu perché non vieni, anima eletta,</l>
+<l>eletta in terra a possider vittoria,</l>
+<l>perché non vieni a chi tanto t'aspetta?</l></lg>
+<lg>
+<l>Ove credi aquistar mai più di gloria,</l>
+<l>traendo Italia languida e confusa</l>
+<l>fuor de la servitù di tanta boria?</l></lg>
+<lg>
+<l>Non sciai che Mongibello ed Aretusa</l>
+<l>fuòr da gli atavi toi già liberati</l>
+<l>cum quel valor che ancor tra voi se adusa?</l></lg>
+<lg>
+<l>Ed or le stelle a te fautrici e i fati</l>
+<l>e la intonsa Fortuna te aparechia</l>
+<l>più fulvido scalion, se ben ve guati.</l></lg>
+<lg>
+<l>Cotanta armata gente in te si spechia</l>
+<l>e così da te sol ciaschedun pende</l>
+<l>che ogni altrui fama sembra oscura e vechia.</l></lg>
+<lg>
+<l>La palma non ha quel che non contende,</l>
+<l>ma sol chi segue a magnanima empresa</l>
+<l>cum nome trionfale al celo ascende.</l></lg>
+<lg>
+<l>Io pur te aspetto e dubito sospesa</l>
+<l>che al gran desir lo effetto non riesca,</l>
+<l>qual m'ha ne lo aspettar la mente accesa.</l></lg>
+<lg>
+<l>Che degio far ormai, che ardo come esca?</l>
+<l>Starò nascosa al fiume che mi cella,</l>
+<l>temprando il mio fervore a l'onda fresca.–</l></lg>
+<lg>
+<l>Non avea dette quella ninfa bella</l>
+<l>apena apena l'ultime parole,</l>
+<l>che 'l viso ascose e l'una e l'altra stella.</l></lg>
+<lg>
+<l>Le stelle, dico, che sembravan sole</l>
+<l>de sotto a' cilii, e' lumi tanto vaghi</l>
+<l>che ancor quel dipartir dolce me dole</l></lg>
+<lg>
+<l>né mai serà piacer che me ne apaghi.</l></lg></lg>
+</sp>
+</div2>
+<div2 type="parte">
+<head>3</head>
+<stage>Ne la terza parla lo auttor; cantano alternatamente
+nello amabeo rispondendosi <hi rend="sc">ARISTEO</hi> e <hi rend="sc">DAFNIDE</hi>.</stage>
+<sp>
+<lg type="egloga">
+<lg>
+<l>Abandonata il pastore Aristeo</l>
+<l>avia Tesaglia e la dolce verdura</l>
+<l>e 'l chiaro Anfriso e il fiume di Peneo;</l></lg>
+<lg>
+<l>ma dentro al petto più fervida cura</l>
+<l>lo accende ed arde che la dipartita</l>
+<l>da' colli ameni e sua antica pastura:</l></lg>
+<lg>
+<l>perché sovente a lacrimar lo invita</l>
+<l>Cloride bella, a lui fissa nel core</l>
+<l>da' suoi primi anni e da la età fiorita.</l></lg>
+<lg>
+<l>Sieco piangendo adunque quello ardore,</l>
+<l>véne in Cileno, e là sotto ad un pino</l>
+<l>Dafnide a l'ombra se dolea de amore.</l></lg>
+<lg>
+<l>Sospetto di geloso <add resp="ed">a</add> quel tapino</l>
+<l>Citeride avia tolta, onde dolente</l>
+<l>si stava sospirando a capo chino.</l></lg>
+<lg>
+<l>E poi che ciaschedun primeramente</l>
+<l>detto ebe lo esser suo cum la cagione</l>
+<l>che gli atristava l'anima e la mente,</l></lg>
+<lg>
+<l>deliberarno la lor passione</l>
+<l>cantando l'uno e l'altro far palese</l>
+<l>cum versi alterni e nuota di canzone.</l></lg>
+<lg>
+<l>Dafnide primo in su il fiume dissese,</l>
+<l>mutando il fiato e il ditto sì veloce</l>
+<l>che le parole al suono erano intese;</l></lg>
+<lg>
+<l>e ritocando or questa or quella voce,</l>
+<l>cum tal parlare in dolce melodia</l>
+<l>aperse quello ardor che 'l cor gli coce.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg type="egloga">
+<lg>
+<l> Stella de amor che al giorno fai la via,</l>
+<l>torna la notte e copre il tuo bel lume,</l>
+<l>che 'l sol di me non prenda gelosia.</l></lg>
+<lg>
+<l>Io farò colmo in questo tempo el fiume</l>
+<l>di quello umor che a gli ochi se destilla,</l>
+<l>poiché il Cel vol che in pianto io me consume.</l></lg>
+</lg>
+</sp>
+<sp><speaker>ARIST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Per me non splenda ragio né sintilla</l>
+<l>di celeste fulgor, ché non ho mai</l>
+<l>né mai son per aver ora tranquilla.</l></lg>
+<lg>
+<l>Dipoi che 'l mio diletto abandonai</l>
+<l>non ebi né aver vuò vita serena,</l>
+<l>ma sempre in pianti consumarmi e in guai.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg type="egloga">
+<lg>
+<l> Quella stagion che al bon tempo rimena</l>
+<l>rami fronzuti e i fiori intra le fronde,</l>
+<l>dona altrui zoglia, e me ripone in pena;</l></lg>
+<lg>
+<l>e quando io miro e' pesci intra queste onde,</l>
+<l>sì son de ogni altra sorte invidioso</l>
+<l>che el lor vago solazo mi confonde.</l></lg>
+</lg>
+</sp>
+<sp><speaker>ARIST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Quanto è più il verno turbido e guazoso</l>
+<l>e pioggia il cel riversa e fredo vento,</l>
+<l>nì luce apare e il sol ci sta nascoso,</l></lg>
+<lg>
+<l>ne la cruda stagione io me contento,</l>
+<l>parendomi al languir non esser solo,</l>
+<l>ché compagnia raqueta ogni lamento.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg type="egloga">
+<lg>
+<l> Se io vedo occelli andar insieme a volo,</l>
+<l>se l'armento de' cervi in selva accolto,</l>
+<l>di cotal vista più me acresce il dolo:</l></lg>
+<lg>
+<l>ché ogni animal va libero e dissolto</l>
+<l>e se accompagna a quel che lo diletta,</l>
+<l>ma a me star sieco o pur vederla è tolto.</l></lg>
+</lg>
+</sp>
+<sp><speaker>ARIST.</speaker>
+<lg type="egloga">
+<lg>
+<l> La tortorella che si sta soletta,</l>
+<l>cantando, anci piangendo il suo consorte,</l>
+<l>per meggio al cor di doglia mi saetta,</l></lg>
+<lg>
+<l>e mi ramenta mia misera sorte,</l>
+<l>ché son rimaso solo e sconsolato,</l>
+<l>come io sono e sarò sino a la morte.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg type="egloga">
+<lg>
+<l> Verde cipresso, nobile e beato</l>
+<l>per la cara memoria di colei</l>
+<l>che ha il suo bel nome in tua scorza segnato,</l></lg>
+<lg>
+<l>ben tra le piante gloriar te dei,</l>
+<l>avendo un tal tesor che è teco unito,</l>
+<l>ma doler mi debo io che la perdei.</l></lg>
+</lg>
+</sp>
+<sp><speaker>ARIST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Il dolce nome tuo non fia partito</l>
+<l>mai de il mio petto: Amor cum la sua mano</l>
+<l>cum un stral d'or ve l'ha dentro scolpito.</l></lg>
+<lg>
+<l>Ma rimembrando quanto io son lontano</l>
+<l>al tuo bel viso, per la angoscia moro;</l>
+<l>se a te non torno ogni altro aiuto è vano.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg type="egloga">
+<lg>
+<l> Quando a mente mi torna il lacio d'oro</l>
+<l>che m'ha legato, e lui veder non posso,</l>
+<l>nel spirto avampo e in facia mi scoloro.</l></lg>
+<lg>
+<l>Più me accende il disir che è più rimosso;</l>
+<l>come è che a me nascoso sia quel foco</l>
+<l>qual le medolle me arde in ciascun osso?</l></lg>
+</lg>
+</sp>
+<sp><speaker>ARIST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Lo arder da presso un tempo mi fo gioco;</l>
+<l>or la fiama lassata sì me strugge</l>
+<l>che mia vita consuma a poco a poco.</l></lg>
+<lg>
+<l>Fugito ho lei, ma lei da me non fugge;</l>
+<l>–chi mai lo crederà quando si dica?–</l>
+<l>quanto più mi è lontana più me adugge.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg type="egloga">
+<lg>
+<l> Splendeva il sole a la mia valle aprica,</l>
+<l>le vite carche e l'uva era matura,</l>
+<l>compiuto il grano ed arida la spica:</l></lg>
+<lg>
+<l>cade tempesta e grandine sì dura</l>
+<l>che, essendo già vicino a tanto acquisto,</l>
+<l>ogni speranza de le man mi fura.</l></lg>
+</lg>
+</sp>
+<sp><speaker>ARIST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Lasso dolente sventurato e tristo,</l>
+<l>che ebi nel prato un arborscello inserto:</l>
+<l>più vago tronco il mondo non ha visto.</l></lg>
+<lg>
+<l>De le sue fronde standomi coperto</l>
+<l>e già godendo il suo frutto soave,</l>
+<l>lo abandonai, ed è per me diserto.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAF.</speaker>
+<lg type="egloga">
+<lg>
+<l> Mai non averà in terra e mai non ave</l>
+<l>fiera tanto gentile e mansueta</l>
+<l>che in monte pasca o nel fiume se lave,</l></lg>
+<lg>
+<l>quanto la cerva mia candida e lieta,</l>
+<l>che ogni mia noglia il suo guardo aquetava:</l>
+<l>or tolta mi è nì val ch'io la ripeta.</l></lg>
+</lg>
+</sp>
+<sp><speaker>ARIST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Danno insperato e perdita mi grava:</l>
+<l>ebi in tal modo una columba aveza</l>
+<l>che aprendo il beco in boca mi basava;</l></lg>
+<lg>
+<l>e poi la abandonai per mia sciocheza,</l>
+<l>e se non torno a lei credo morire,</l>
+<l>ché ogni altra zoglia l'anima dispreza.</l></lg>
+</lg>
+</sp>
+<sp><speaker>AUT.</speaker>
+<lg type="egloga">
+<lg>
+<l> Cantando e' doi pastori in tal disire</l>
+<l>de amor sì caldi e voce tanto vive,</l>
+<l>le Ninfe e ' Fauni venero ad udire;</l></lg>
+<lg>
+<l>venero e' fiumi e seco le sue rive,</l>
+<l>e veder si potea ne lo ascoltare</l>
+<l>piegar il capo pampini ed olive.</l></lg>
+<lg>
+<l>Sinché fu forza il canto abandonare,</l>
+<l>poiché la notte, alciando le sue velle,</l>
+<l>coprìti de ombra avia la terra e il mare,</l></lg>
+<lg>
+<l>e fo dipinto il cel tuto di stelle.</l></lg></lg>
+</sp>
+</div2>
+<div2 type="parte">
+<head>4</head>
+<stage>Ne la quarta Egloga parlano insieme <hi rend="sc">MELIBEO</hi> e <hi rend="sc">DAMETA</hi>,
+cantando l'uno dipoi l'altro cum verso intercalare.</stage>
+<sp><speaker>MEL.</speaker>
+<lg type="egloga">
+<lg>
+<l> Dimi Dameta, poiché il Celo e Jove</l>
+<l>ce hano conduti alla fresca rivera</l>
+<l>che sì soave il corso queto move,</l></lg>
+<lg>
+<l>vogliàn che sanza canti il tempo pèra,</l>
+<l>sinché il sol alto e il gran fervor de il giorno</l>
+<l>se intepedisca e piègisse alla sera?</l></lg>
+</lg>
+</sp>
+<sp><speaker>DA.</speaker>
+<lg type="egloga">
+<lg>
+<l> O Melibeo, se ben riguardi intorno</l>
+<l>pianger vedrai le Ninfe al dolce colle</l>
+<l>che fo de verdi pini un tempo adorno.</l></lg>
+<lg>
+<l>Glauzia tra queste langue e il viso ha molle</l>
+<l>de liquido cristallo, e se destina</l>
+<l>provar se un pianto eterno il dolor tolle.</l></lg>
+<lg>
+<l>Odi il gran mormorar de la marina,</l>
+<l>il vento che sospira e li animali</l>
+<l>andarsi lamentando a testa china.</l></lg>
+<lg>
+<l>E tu chiedi ch'io canti in tanti mali!</l>
+<l>e ben comprender poi, così come io,</l>
+<l>che e' versi a la stagion son disequalli.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEL.</speaker>
+<lg type="egloga">
+<lg>
+<l> Sempre nel tuo comando è il voler mio,</l>
+<l>ma certo a me paria che in minor pena,</l>
+<l>cantando, se trapassi il tempo rio.</l></lg>
+<lg>
+<l>E se Fortuna a lamentar ce mena,</l>
+<l>né Fillida più spira o il biondo Aminta</l>
+<l>le usate voce a la amorosa avena,</l></lg>
+<lg>
+<l>non fia la mente da langor sì vinta</l>
+<l>che io non mostri cantando fuor la doglia</l>
+<l>qual ho nel cor di lacrime dipinta.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DA.</speaker>
+<lg type="egloga">
+<lg>
+<l> Pur mo' composi e scrissi in verde foglia</l>
+<l>la amara presa del figlio de Egeo,</l>
+<l>qual de Acheronte è posto in su la soglia.</l></lg>
+<lg>
+<l>Cerbero là no il tien come già feo,</l>
+<l>ma un monstro più crudele e dispietato</l>
+<l>che uscì lo altro èr de il regno di Proteo.</l></lg>
+<lg>
+<l>Come leone orribile è formato,</l>
+<l>l'ali ha penute e la coda di pesce</l>
+<l>e faza e busto a sangue colorato.</l></lg>
+<lg>
+<l>Da le salse palude il superbo esce,</l>
+<l>cum la ciampa alta il mondo e il cel minacia:</l>
+<l>guai a la terra se quel monstro cresce.</l></lg>
+<lg>
+<l>Or de ciò canterò quando ti piacia,</l>
+<l>se canto se può dir questo lamento,</l>
+<l>che sol nel rimembrar dentro me agiacia.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEL.</speaker>
+<lg type="egloga">
+<lg>
+<l> Tanto son fatto allo ascoltare intento</l>
+<l>che umido mergo più non chiede il sole</l>
+<l>né lo affanato cerbo il fresco vento.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DA.</speaker>
+<lg type="egloga">
+<lg>
+<l> Se avesse voce in vice de parole,</l>
+<l>gli alti ioggi de' monti e i fiumi bassi</l>
+<l>e colli e ' fonti e l'erbe e le viole</l></lg>
+<lg>
+<l>cum nui nel sospirar foran già lassi,</l>
+<l>e forza avrebe lo intimo dolore</l>
+<l>spezar per la pietade e' crudi sassi.</l></lg>
+<lg>
+<l>Luce del celo e tu, stella magiore,</l>
+<l>che a lo imbrunir de il giorno e al matutino</l>
+<l>splendi rorando lucido licore,</l></lg>
+<lg>
+<l>come è sofferto che quel peregrino</l>
+<l>spirto gentile e di virtù corona</l>
+<l>stia relegato e posto in tal confino?</l></lg>
+<lg>
+<l>Cum lui Prodecia e Senno ce abandona,</l>
+<l>sieco ranchiusa e presa è Cortesia,</l>
+<l>né di tornar sanza esso a noi ragiona.</l></lg>
+<lg>
+<l>Il saggio Ardire e onesta Ligiadria</l>
+<l>di qua son dipartiti, e il dolce Amore</l>
+<l>per gire a impregionarsi è posto in via.</l></lg>
+<lg>
+<l>Luce de il celo e tu, stella magiore,</l>
+<l>che giù mirando cum benigno aspetto</l>
+<l>produci in ramo e in prato ogni bel fiore,</l></lg>
+<lg>
+<l>non piangi ed hai perduto il tuo diletto,</l>
+<l>il tuo Teséo e l'umana delizia?</l>
+<l>e non ti batti cum le palme il petto?</l></lg>
+<lg>
+<l>Nel più vago fiorir, quando primizia</l>
+<l>de' soi trionfi a Marte dovia rendere,</l>
+<l>Fortuna l'ha batuto cum nequicia.</l></lg>
+<lg>
+<l>E non se armava adesso per contendere</l>
+<l>a Dite né Proserpina a lui tòre,</l>
+<l>ma per Alcide e sua ragion diffendere.</l></lg>
+<lg>
+<l>Luce del celo e tu, stella magiore,</l>
+<l>qual di letizia e de effetto iocondo</l>
+<l>scaldi cum zoglia a li animanti il core,</l></lg>
+<lg>
+<l>come è contraro a la tua essenza il mondo,</l>
+<l>pien di lamenti e sconsolato e scuro,</l>
+<l>dipoi che il suo splendore è posto al fondo!</l></lg>
+<lg>
+<l>Non han li armenti e tauri il cor sì duro</l>
+<l>che voglian consolarsi al caso estremo</l>
+<l>né pascer l'erbe o ber al fiume puro;</l></lg>
+<lg>
+<l>ed io tra lor iacendo in terra gemmo,</l>
+<l>se forsi il pianto aqueti il mio furore</l>
+<l>e il foco dei sospir che al petto premmo.</l></lg>
+<lg>
+<l>Luce del celo e tu, stella magiore,</l>
+<l>rendéti a sì dolenti e iusti pregi</l>
+<l>la nostra gloria in terra e il nostro onore.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEL.</speaker>
+<lg type="egloga">
+<lg>
+<l> Tanto soave e' dolci versi spiegi</l>
+<l>che creder non potrai che te disdica</l>
+<l>né quel che sì ben chiedi il Cel ti negi.</l></lg>
+<lg>
+<l>Ma come a la timbrea siegue la ortica,</l>
+<l>il palido ligustro al bianco ziglio,</l>
+<l>come la avena a più felice spica,</l></lg>
+<lg>
+<l>per farti la risposta il libro piglio</l>
+<l>quale ho composto cum scorza di fagio</l>
+<l>e scritto a celse di color vermiglio.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DA.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ben del tuo iubilar altra prova hagio,</l>
+<l>né Acantide nel canto più lusinga</l>
+<l>né Filomena al bel mese di magio.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEL.</speaker>
+<lg type="egloga">
+<lg>
+<l> Credo che amor a tal loda te impinga;</l>
+<l>ma lascia il ragionar, ché il canto aviso</l>
+<l>e già la mano ho posta a la siringa.</l></lg>
+<lg>
+<l>Anoncio a voi pastori eterno riso,</l>
+<l>ché visto ho ussire il Sol da il mar eoo</l>
+<l>e di iacinti e rose adorno ha il viso.</l></lg>
+<lg>
+<l>Quel che fiacò le corna ad Acheloo</l>
+<l>sieco è nel carro ed a Dite ha ritolto</l>
+<l>colui che è un sol voler cum Piritoo.</l></lg>
+<lg>
+<l>Or vieni Amor e mostra il tuo bel volto,</l>
+<l>fà che se alegri ogni animal in terra,</l>
+<l>poiché il nostro dolore in zoglia è volto.</l></lg>
+<lg>
+<l>Apri ambe l'ale e le fiame diserra,</l>
+<l>il tuo foco odorato ogni odio estingua,</l>
+<l>e sola qua fra noi sia la tua guerra.</l></lg>
+<lg>
+<l>Noi cantarem cum canne e cum la lingua</l>
+<l>le tue vittorie e l'alta tua possanza,</l>
+<l>se canto esser potrà che le distingua.</l></lg>
+<lg>
+<l>Questa parte del mondo il Celo avanza</l>
+<l>ove Teseo già libero e disolto</l>
+<l>de ogni virtude ha sieco la sembianza.</l></lg>
+<lg>
+<l>Or vieni Amore e mostra il tuo bel volto,</l>
+<l>né te ritenga Amaraco in Idalia</l>
+<l>né il bosco de Citera a mirti folto.</l></lg>
+<lg>
+<l>Vedi il figlio de Egeo che ha la ragalia</l>
+<l>di Pasitea e di tute le Grazie,</l>
+<l>e per lui solo è un paradiso Italia.</l></lg>
+<lg>
+<l>La figlia da Cefiso che ha tre fazie</l>
+<l>cum l'altre soe compagne al dolce sono</l>
+<l>danzar intorno a lui non fòr mai sacie.</l></lg>
+<lg>
+<l>Questa arguta armonia de che io ragiono</l>
+<l>tanto soave nel mio core ascolto</l>
+<l>che per dolceza me stesso abandono.</l></lg>
+<lg>
+<l>Or vieni Amor e mostra il tuo bel volto,</l>
+<l>e troverai de intorno al nostro coro</l>
+<l>il colegio dei Dei tuto aricolto.</l></lg>
+<lg>
+<l>Venuto è a festegiar ciascun di loro:</l>
+<l>Cillenide ha la lira, Iàco salta</l>
+<l>e canta Febo a la citera d'oro;</l></lg>
+<lg>
+<l>ma sopra tuti Palade se essalta</l>
+<l>di tanto alonno, e sparge per Atiene</l>
+<l>croco narciso e fior d'Adone e calta.</l></lg>
+<lg>
+<l>Qual magior festa o gioco te retene?</l>
+<l>Non è, che io creda, altrove o poco o molto,</l>
+<l>e se al mondo più ne è cum tieco viene.</l></lg>
+<lg>
+<l>Or vieni Amor e mostra il tuo bel volto,</l>
+<l>poiché a diretto Jove te ringuarda</l>
+<l>e ciascun fausto sido è a te rivolto.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DA.</speaker>
+<lg type="egloga">
+<lg>
+<l> Se la felice gionta più non tarda,</l>
+<l>qual fai cantando cum sì bono augurio</l>
+<l>che par che di speranza il cor già m'arda,</l></lg>
+<lg>
+<l>quel che io ho votato a Tetide e a Mercurio,</l>
+<l>nove iuvence, getarò nel mare,</l>
+<l>getarò in foco il tauro lor decurio.</l></lg>
+<lg>
+<l>Se dritamente m'ebe a dimostrare</l>
+<l>Mopso lo arcado il corso de le stelle,</l>
+<l>quel che ho cantato non potrà mancare.</l></lg>
+<lg>
+<l>Scio getar sorte cum fronde novelle,</l>
+<l>scio l'arte che mai falsa non si trova,</l>
+<l>mirando il volo e il canto de le ocelle.</l></lg>
+<lg>
+<l>E tu ne pigliarai verace prova,</l>
+<l>ché Teseo tornerà come fenice</l>
+<l>che ardendo se abellisce e se rinova.</l></lg>
+<lg>
+<l>Passiamo adunque in su quella pendice</l>
+<l>qual sopra al fiume adombra il praticello:</l>
+<l>di certo il mio penser presagio dice</l></lg>
+<lg>
+<l>che a nui ritornerà più che mai bello.</l></lg></lg>
+</sp>
+</div2>
+<div2 type="parte">
+<head>5</head>
+<stage>Ne la quinta parlano insieme <hi rend="sc">MENALCA</hi> e <hi rend="sc">GORGO</hi>; canta per
+sé <hi rend="sc">MENALCA</hi> in frotola.</stage>
+<sp><speaker>ME.</speaker>
+<lg type="egloga">
+<lg>
+<l> Quanto pensier de amor il cor me ingombra!</l>
+<l>E le pecore mie tute han riposo,</l>
+<l>ogni mia capra rumiga ne l'ombra;</l></lg>
+<lg>
+<l>ogni pastore è ne lo antro frondoso</l>
+<l>e nel fervor de il dì prende risoro:</l>
+<l>ed io sol ardo sempre e mai non poso.</l></lg>
+<lg>
+<l>Se questo sole e l'altro che io me adoro</l>
+<l>fossero insembre, io non iudicaria</l>
+<l>qual se risplenda in più luce di loro.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Pur sei, Menalca, ne l'antiqua via,</l>
+<l>questo tuo sospirar eterno dura:</l>
+<l>dopoi tanti sospiri alfin che fia?</l></lg>
+</lg>
+</sp>
+<sp><speaker>ME.</speaker>
+<lg type="egloga">
+<lg>
+<l> Nulla speranza, o Gorgo, me assicura</l>
+<l>che il pianto mio se alente per la morte,</l>
+<l>ma piagner credo ne la sepoltura.</l></lg>
+<lg>
+<l>E poiché il Cel me destina a tal sorte,</l>
+<l>che posso io più? Se non che in questi canti</l>
+<l>pur me raqueto e par che me conforte.</l>
+</lg></lg></sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Questo è vulgato ed uso de gli amanti,</l>
+<l>cantando le sue pene a condolersi,</l>
+<l>e par che l'armonia temperi e' pianti.</l></lg>
+<lg>
+<l>E' mi ramenta già che de' to' versi</l>
+<l>alquanti ne sapea, ed or mi dole</l>
+<l>che, eccetti questi dua, tuti l'ho persi:</l></lg>
+<lg>
+<l>–Amor che me scaldava al suo bel sole</l>
+<l>nel dolce tempo di mia età fiorita...–</l>
+<l>Più non ne scio, ché scorse ho le parole.</l></lg>
+<lg>
+<l>Ma nanti che de qui facia partita</l>
+<l>alcun ne canterai, se non ti è grave:</l>
+<l>vedi che il fiumo al gorgoliar te invita,</l></lg>
+<lg>
+<l>e 'l fresco vento e l'aura più soave.</l>
+<l>Il canto intona: or mostra qual ardore</l>
+<l>e cum qual chiovo l'anima te inchiave.</l></lg>
+</lg>
+</sp>
+<sp><speaker>ME.</speaker>
+<lg type="egloga">
+<lg>
+<l> Se io te potesse ben mostrar di fore</l>
+<l>l'ascosa vampa che entro al petto io sento,</l>
+<l>faria questa aqua sfavilar de amore.</l></lg>
+<lg>
+<l>Ma si a te piace odire il mio tormento</l>
+<l>fa che ad altrui per te non se ridica:</l>
+<l>cum questa legge a dirlo io son contento.</l></lg>
+<lg>
+<l>–Tanto me intrica questa mia nemica</l>
+<l>che la sua dolce ortica me diletta;</l>
+<l>me come a latta a lacrime notrica.</l></lg>
+<lg>
+<l>In giovenetta età poco si metta</l>
+<l>di spene, ma chi aspetta e pò durare</l>
+<l>sinché possa indurire, il tempo assetta.</l></lg>
+<lg>
+<l>Or cossì andare a me bisogna e fare</l>
+<l>ciò che a fortuna pare, e pur il fine</l>
+<l>sarà una fune a tante pene amare.</l></lg>
+<lg>
+<l>Chi me divine se le matutine</l>
+<l>rose tra tante spine accoglier possa?</l>
+<l>ché il bronco passa e temo che me uncine.</l></lg>
+<lg>
+<l>Mai non l'ha mossa la crudel percossa</l>
+<l>che m'arse dentro a l'ossa de il so' foco;</l>
+<l>né dataro né fico ho per riscossa.</l></lg>
+<lg>
+<l>Mercede invoco e non ritrovo loco;</l>
+<l>languendo a poco a poco me disfacio,</l>
+<l>ma sì noglioso officio ho già per gioco.</l></lg>
+<lg>
+<l>Per mio solacio miro il fredo giacio</l>
+<l>qual nì loco nì spacio mi nasconde,</l>
+<l>ché sempre scande ov'io mi trovo avacio.</l></lg>
+<lg>
+<l>Le treze bionde e il viso mi confonde,</l>
+<l>tanto che io non trovo onde aver riparo,</l>
+<l>né dove me ripore accato sponde.</l></lg>
+<lg>
+<l>Cum pianto amaro a le mie spese imparo</l>
+<l>quanto altrui costi caro ove se aduna</l>
+<l>l'occhio che dona il guardo tanto avaro.</l></lg>
+<lg>
+<l>Come la luna fa la mia fortuna:</l>
+<l>palida rossa o bruna che la volti,</l>
+<l>ritien sempre quel volto e stassi in una.</l></lg>
+<lg>
+<l>Meschino, or duolti a questi lochi incolti;</l>
+<l>ma non ha chi me ascolti e non ho voce,</l>
+<l>poi che una vice gli ochi mi fur tolti.</l></lg>
+<lg>
+<l>Or vieni atroce e ponimi a la croce;</l>
+<l>ogni martìr feroce io vuò patire,</l>
+<l>né a te imputare il foco che mi coce.–</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ben ho diletto e molto de il tuo dire,</l>
+<l>ma quel che dice poco o nulla intendo,</l>
+<l>sì sai parlando tua voglia coprire;</l></lg>
+<lg>
+<l>e se l'ora de il sol dritto comprendo,</l>
+<l>passata è già la nona e il tempo fugge</l>
+<l>mentre che ascolto e il tuo cantar atendo:</l></lg>
+<lg>
+<l>la mia iuvenca su nel bosco mugge,</l>
+<l>e non scio la cagione, e temo assai</l>
+<l>che altrui furtivo l'ubera li mugge.</l></lg>
+</lg>
+</sp>
+<sp><speaker>ME.</speaker>
+<lg type="egloga">
+<lg>
+<l> Vàtene, Gorgo, perché è tempo ormai</l>
+<l>de la ricolta, e più non stare a bada;</l>
+<l>ed io cantando allevierò mie' guai,</l></lg>
+<lg>
+<l>benché più il pianto che il cantar mi agrada.</l></lg></lg>
+</sp>
+</div2>
+<div2 type="parte">
+<head>6</head>
+<stage>Ne la sesta Egloga alegoricamente parlano un <hi rend="sc">CACIATORE</hi>
+affanato ed un <hi rend="sc">PASTORE</hi>, nascondendo e' nomi loro sì come
+è la matera nascosa.</stage>
+<sp><speaker>VEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Diti, pastori <corr resp="ed">e se vi duri il giorno</corr></l>
+<l><corr resp="ed">tepido sempre e la notte serena</corr>,</l>
+<l>se alcuna fonte qua sorge intorno.</l></lg>
+<lg>
+<l>Per Dio, mostrati qual strata vi mena,</l>
+<l>perché mirando non vedo vestigio</l>
+<l>di fiume o d'aqua che sorga di vena.</l></lg>
+<lg>
+<l>Ed io son lasso detro a un capro grigio,</l>
+<l>che 'l più bel mai non vide Iasio in Creta</l>
+<l>né al bosco de Ida il giovaneto frigio.</l></lg>
+</lg>
+</sp>
+<sp><speaker>PAST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Là tra que' colli, ove è l'erba più lieta,</l>
+<l>dal bianco marmo una aqua se diriva;</l>
+<l>ma ber a lo affanato se diveta,</l></lg>
+<lg>
+<l>perché de ogni vigor l'anima priva</l>
+<l>e tragge e' nervi caldi a tal rigore</l>
+<l>che non se vede alcun che beva e viva.</l></lg>
+<lg>
+<l>Nel pin che sopra sta nascoso è Amore,</l>
+<l>e per le rame subito saetta</l>
+<l>qualunque scorge a la sua riva pore.</l></lg>
+<lg>
+<l>Però la pioggia o la rugiada aspetta,</l>
+<l>vinci soffrendo de la sete il tedio,</l>
+<l>se più nel mondo viver te diletta.</l></lg>
+</lg>
+</sp>
+<sp><speaker>VEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Donque al mio scampo non serà remedio?</l>
+<l>Deh, per Dio, dati a questo spirto aiuto,</l>
+<l>ché ardor e sete gli han posto lo assedio.</l></lg>
+</lg>
+</sp>
+<sp><speaker>PAST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Tanto ti vedo nel viso perduto,</l>
+<l>e sì conquiso e vinto da lo affanno</l>
+<l>che per condurti a ber il passo muto.</l></lg>
+<lg>
+<l>Ma a la fonte de Amor bisogna inganno,</l>
+<l>e inganar per amor non è malizia;</l>
+<l>or per piacerti a me stesso fò danno.</l></lg>
+</lg>
+</sp>
+<sp><speaker>VEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Sì forte voglia nel pensier me aticia</l>
+<l>che ogni cosa vuò far, anche morire,</l>
+<l>pur che io me intinga e' labri de una spricia.</l></lg>
+<lg>
+<l>O me tapino, io già vedo aparire</l>
+<l>là sopra al colle il mio formoso capro;</l>
+<l>sinché io sia vivo me il convien seguire.</l></lg>
+<lg>
+<l>Lassai per lui nel bosco un cerbo e un apro;</l>
+<l>tanto ne' salti a rimirar me inzoglia</l>
+<l>che fino al cor la vista de gli ochi apro.</l></lg>
+</lg>
+</sp>
+<sp><speaker>PAST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ahimè, che dici? o che furor te invoglia?</l>
+<l>Quello è il capro di Pan il nostro Idio;</l>
+<l>pur ne lo odirti io tremo come foglia.</l></lg>
+<lg>
+<l>Leva de la tua mente tal disio,</l>
+<l>però che ireticar sì bella caccia</l>
+<l>cosa non è di tuo poter nì mio.</l></lg>
+</lg>
+</sp>
+<sp><speaker>VEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ben vedo che al seguirlo è cosa paccia,</l>
+<l>ma che degio più far? Ché se io no il seguo</l>
+<l>e' par che il core in petto me si sfaccia</l></lg>
+<lg>
+<l>e come cera al foco mi dileguo.</l>
+<l>Che degio far? Io son morto se io il lasso,</l>
+<l>e morto son se il mio desir proseguo.</l></lg>
+</lg>
+</sp>
+<sp><speaker>PAST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Il nome tuo non scio, ma ferma il passo,</l>
+<l>chiunque tu sia, e se ben fosti Apollo,</l>
+<l>di tal empresa romaresti al basso.</l></lg>
+<lg>
+<l>Or non te avedi che già il capo e il collo</l>
+<l>ha drento al parco? E chi entra quel seraglio</l>
+<l>ne la sua vita non darà mai crollo.</l></lg>
+<lg>
+<l>Mira, che de oro a le spalle ha il camaglio,</l>
+<l>verde una gamba e l'altra a rose e a zigli,</l>
+<l>e gli ochi puri a guisa di miraglio.</l></lg>
+<lg>
+<l>Meglio è che a destra mano il camin pigli:</l>
+<l>vedi là il prato che ha cotanti fiori</l>
+<l>azzuri e giali e candidi e vermigli;</l></lg>
+<lg>
+<l>se tra l'erbete ponto te dimori</l>
+<l>sinché il sol passi a l'ora che se infresca,</l>
+<l>co il tempo passeran cotanti ardori.</l></lg>
+</lg>
+</sp>
+<sp><speaker>VEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Vedi ch'io moro, e par che non te incresca</l>
+<l>de il mio morir: deh, mename a la fonte,</l>
+<l>ché lo un desir o l'altro mi riesca.</l></lg>
+</lg>
+</sp>
+<sp><speaker>PAST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Sol de lo affanno mi suda la fonte</l>
+<l>per la promessa ch'io feci improviso,</l>
+<l>che ora nel cor mi dona mille ponte.</l></lg>
+<lg>
+<l>Quella fontana è sol mio paradiso,</l>
+<l>sol mio diletto e sola zoglia mia,</l>
+<l>ove io mi spechio rimirando il viso;</l></lg>
+<lg>
+<l>e se altri la tocasse, e' mi paria</l>
+<l>che in lei non fosse quella puritade</l>
+<l>ne l'onda chiara come era di pria.</l></lg>
+<lg>
+<l>Come esser debon le parole rade!</l>
+<l>perché qualunque al proferire è ingordo</l>
+<l>spesso per danno o per vergogna cade.</l></lg>
+<lg>
+<l>Ora ne andiamo, ma ben ti ricordo</l>
+<l>che transformato bever ti convene,</l>
+<l>né trovaresti in altra forma acordo.</l></lg>
+</lg>
+</sp>
+<sp><speaker>VEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Novello amico, io riconosco bene</l>
+<l>che discortese assai sono, e non poco,</l>
+<l>bevendo a l'aqua che in vita te tiene;</l></lg>
+<lg>
+<l>ma perché esser potria che in altro loco</l>
+<l>a te rendesse per la fonte un fiume,</l>
+<l>prego me aiuti a spenger questo foco.</l></lg>
+<lg>
+<l>Mostra come andar possa e cum qual lume:</l>
+<l>se transformar mi debbo in pioggia d'oro,</l>
+<l>come già Giove, o copromi de piume.</l></lg>
+</lg>
+</sp>
+<sp><speaker>PAST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Qua non vi giova l'alie nì tesoro,</l>
+<l>ma per astuto ingegno e per inganni</l>
+<l>farai, come t'ho detto, il bel lavoro.</l></lg>
+<lg>
+<l>Quinci te spolia e vestite me' panni,</l>
+<l>questa pèle di lince e questo manto</l>
+<l>che conosciuto è già per mio molti anni.</l></lg>
+<lg>
+<l>Mòvete ormai, ché io te ritengo tanto:</l>
+<l>più dolce aqua del mondo e la più chiara</l>
+<l>aver bevuta te potrai dar vanto.</l></lg>
+<lg>
+<l>Né creder che mi sia cotanto amara</l>
+<l>come or ti dissi questa mia proferta,</l>
+<l>ché più bel dono è di cosa più cara.</l></lg>
+</lg>
+</sp>
+<sp><speaker>VEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ciò che tu dici nel mio cor se acerta,</l>
+<l>ma tal servigio a bisogno cotale</l>
+<l>per tempo esser scordato mai non merta;</l></lg>
+<lg>
+<l>e perché il guiderdon seguirà male,</l>
+<l>ché altro di te non ho che l'aparenza,</l>
+<l>dimi il tuo nome, se di me ti cale.</l></lg>
+</lg>
+</sp>
+<sp><speaker>PAST.</speaker>
+<lg type="egloga">
+<lg>
+<l> Star più non posso ne la tua presenza,</l>
+<l>ché ogi al guardar mi toca la vicenda,</l>
+<l>onde il mio nome e la mia conoscenza</l></lg>
+<lg>
+<l>per più bel aggio voglio che se intenda.</l></lg></lg>
+</sp>
+</div2>
+<div2 type="parte">
+<head>7</head>
+<stage>Ne la settima contendono in sdruzola <hi rend="sc">DAMONE</hi> e <hi rend="sc">GORGO</hi>; parla
+CORINA. Cantano per amabeo ne la medesima rima.</stage>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Che canti a quel alòr de il nostro trivio?</l>
+<l>Come cicada sotto al sole estifero,</l>
+<l>rauca hai la voce ed arido il salivio,</l></lg>
+<lg>
+<l>e la cicuta soni come piffero:</l>
+<l>se fai di cotal canto tanta copia</l>
+<l>secar vedrai questo arbore odorifero.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Gorgo, sempre intervien che dov'è inopia</l>
+<l>magior de quella cosa, più se aprecia,</l>
+<l>come ambro in India e giazo in Etiopia:</l></lg>
+<lg>
+<l>però Corina, ad ascoltar avecia</l>
+<l>il canto tuo che sembra quel de la ulula,</l>
+<l>questo mio, benché rocio, lo acarecia;</l></lg>
+<lg>
+<l>e da' mei versi questo lauro pulula</l>
+<l>rami novelli, e sotto a lui non cantano</l>
+<l>più le cornice e lupo più non vi ulula.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Color, Damone, che sue cose vantano,</l>
+<l>de altrui che gli dia loda hano penuria,</l>
+<l>ove è mestier che lor stessi le incantano.</l></lg>
+<lg>
+<l>Però non dar al dir fora la furia,</l>
+<l>poiché nel far mi dai cotanto oltraggio:</l>
+<l>ma a l'uno e l'altro vengiarò la iniuria.</l></lg>
+<lg>
+<l>Andiamo insieme a quel bosco di faggio,</l>
+<l>là dove l'onda più gelida flue</l>
+<l>e rami folti al sol rompono il raggio.</l></lg>
+<lg>
+<l>Là provarem mie voci cum le tue,</l>
+<l>e mostrarò tra lor tal differencia</l>
+<l>qual di grandecia è tra la rana e il bue.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Adonque vòi mostrar la tua scienzia</l>
+<l>a' faggi sordi e a l'onde che non odeno?</l>
+<l>Ma chi darà tra noi questa sentenzia?</l></lg>
+<lg>
+<l>Vogliam far come alaude che se godeno</l>
+<l>sole del suo cantar salendo a l'aria,</l>
+<l>on far come le tarme che se rodeno?</l></lg>
+<lg>
+<l>Ma vedo io bene, o che il veder mi svaria,</l>
+<l>là giù nel prato sotto al verde sovero</l>
+<l>Corina starsi a l'ombra solitaria?</l></lg>
+<lg>
+<l>Come tornato sei palido e povero</l>
+<l>de la usata baldanza! Or vati a scondere,</l>
+<l>che non hai a vergogna altro ricovero.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ben te avedrai se a te saprò rispondere;</l>
+<l>ma que' begli ochi e le amorose fiacole</l>
+<l>ne la vista di lei mi fa confondere.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Pur sei gionto a la rete tra le macule!</l>
+<l>Se ponto vali in versi, ora comenzia:</l>
+<l>qua bisogna che canti e non che gracule.</l></lg>
+<lg>
+<l>Vedi come apre il naso e il viso agrincia,</l>
+<l>move lo ingegno e forma la memoria;</l>
+<l>sorta è Corina e vol veder qual vincia.</l></lg>
+</lg>
+</sp>
+<sp><speaker>COR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Cantati, bei pastor, sì eterna gloria</l>
+<l>i vostri versi siegua e il desiderio</l>
+<l>de la sua amata otenga chi ha vittoria.</l></lg>
+<lg>
+<l>E benché a me mal venga tal emperio,</l>
+<l>starò ad odervi, e al mio poco iudicio</l>
+<l>fia lo esser visto manco vituperio.</l></lg>
+<lg>
+<l>Tu, Gorgo, donerai al canto inizio.</l>
+<l>Né a l'onor né a lo amor mai si vol cedere:</l>
+<l>ogni contesa in altra cosa è vizio.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Tu che èi precinto di corimbi ed edere,</l>
+<l>dona a' mei versi, o Baco, tua leticia:</l>
+<l>più non dimando e più non sare' chiedere.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Nemico di riposo e di pigrizia,</l>
+<l>spira, o Mercurio, da il monte Menalio,</l>
+<l>sì che il mio canto ad ascoltar alicia.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Le nove ninfe de il monte Castalio</l>
+<l>ténero un tempo il viso che io vaggegio;</l>
+<l>or è mutato e stassi in Acidalio.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Quel amoroso volto che ognor chiegio</l>
+<l>stassi co il sole, e a sua similitudine</l>
+<l>quanto più il miro cum più pena il vegio.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Come potrei contar la moltitudine</l>
+<l>de' mei martir? ché Amor sì me contamina</l>
+<l>come se bate un ferro in su lo ancudine.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Me bate ancor come io fosse una lamina</l>
+<l>de oro o de argento o di metal flussibile,</l>
+<l>e nel suo foco me affina ed examina.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> È fatta l'alma mia tanto insensibile</l>
+<l>che creder voglia quel che non può essere,</l>
+<l>e a ciò che io vedo son fatto incredibile.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Già comenciai cum l'onda il foco a tessere,</l>
+<l>ché possibil mi par ciò che io desidero:</l>
+<l>chi potrà mai questo disio compescere?</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Oh, quante volte tacito considero</l>
+<l>ciò che gli antiqui in bella donna dissero!</l>
+<l>Ma questa che vegiàn noi, mai non videro.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Quanti or son vivi e quanti mai ne vissero,</l>
+<l>cantando non porian sue lode agiongere</l>
+<l>cum quelle ale de amor che al cor se affissero.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Non vi val arte o succo de erbe ad ongere</l>
+<l>ove ferisse Amor, e tanto è il tedio</l>
+<l>che lo afro scorpio non ha pigior pongere.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Amor a gli ochi mei posto ha lo assedio</l>
+<l>e me combate a fiame tanto calide</l>
+<l>che ora mi rendo e più non vi ho rimedio.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Già il bel Narciso e il gioveneto Ebalide</l>
+<l>fatto han de amore infausto il mondo florido,</l>
+<l>e il biondo croco e le viole palide.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Tra Dii e Dee non è più crudo ed orrido</l>
+<l>di quel fanciulo, e il non posso discrivere,</l>
+<l>che avampa al giazo e agiaza al sol più torrido.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Io me credete aver mie pene livere</l>
+<l>lassando il lauro e il pino; ora un genevere</l>
+<l>mi ponge sì che più non posso vivere.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> A questa fonte me chinai a bevere,</l>
+<l>ma l'onda dolce tanta sete genera</l>
+<l>che non la atuteria Po, lo Arno e il Tevere.</l></lg>
+</lg>
+</sp>
+<sp><speaker>GOR.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ne' mei primi anni e ne la età più tenera</l>
+<l>fo posto nel mio core il pongente arbero</l>
+<l>che in sé non arde e me per tuto acenera.</l></lg>
+</lg>
+</sp>
+<sp><speaker>DAM.</speaker>
+<lg type="egloga">
+<lg>
+<l> Un tempo mite queste onde me aparbero,</l>
+<l>or sì crudel che a pietà porian movere</l>
+<l>un Geta, un Mauro o se altro è ancor più barbaro.</l></lg>
+</lg>
+</sp>
+<sp><speaker>CORINA</speaker>
+<lg type="egloga">
+<lg>
+<l> Se io non me ingano al prato de la rovere</l>
+<l>oggi li Fauni e Driade se agirano,</l>
+<l>là dove a frize d'oro Amor sol piovere;</l></lg>
+<lg>
+<l>tute le Ninfe a quella festa aspirano,</l>
+<l>che là vano a danzare, e se non danzano,</l>
+<l>sono da altrui mirate on altri mirano.</l></lg>
+<lg>
+<l>Quelle che ascose stan poco gli avanzano,</l>
+<l>ed io vi voglio andare e fin vuò ponere</l>
+<l>a' versi vostri, che di par bilanzano.</l></lg>
+<lg>
+<l>Vostra bontade prego che me essonere</l>
+<l>da il iudicar chi tanto se aparegia</l>
+<l>che lo uno a l'altro non saria preponere:</l></lg>
+<lg>
+<l>e pur, aciò che alcun merto si vegia,</l>
+<l>ambi a le fronti vi cingo di bachera.</l>
+<l>Ma già nel ballo il mio pensier vagegia:</l></lg>
+<lg>
+<l>più non starei, ché odir mi par la nachera.</l></lg></lg>
+</sp>
+</div2>
+<div2 type="parte">
+<head>8</head>
+<stage>Ne la ottava, condolendosi di una fanciulla morta, parlano e
+piangono insieme <hi rend="sc">MELIBEO</hi> e <hi rend="sc">MENALCA</hi>.</stage>
+<sp><speaker>MEL.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ritornati, pastori, a la pastura:</l>
+<l>passato è il caldo e più non ferve il sole,</l>
+<l>e l'ombra ha duplicata sua misura.</l></lg>
+<lg>
+<l>Ma non è quel Menalca, che se dole</l>
+<l>e vien piangendo a noi cum passo rado</l>
+<l>e rompe ne' singiozi le parole?</l></lg>
+<lg>
+<l>Maraviglia è vederlo in simil grado,</l>
+<l>ché il più lieto pastor non se vedia</l>
+<l>da dove Adice bagna a Val di Pado.</l></lg>
+<lg>
+<l>Non dimando, o Menalca, come stia,</l>
+<l>ché lo esser tuo è nel viso aparente,</l>
+<l>ma la cagion di tua sembianza ria.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ben doveti voi star fuor de ogni gente,</l>
+<l>o Melibeo, se ancor quivi si tace</l>
+<l>quel ch'è palese e tuto il mondo sente.</l></lg>
+<lg>
+<l>Apena di parlare io sono audace</l>
+<l>quivi di guerra, e temo non me ascolte</l>
+<l>questo bel loco, ove abita la pace.</l></lg>
+<lg>
+<l>Le vostre pecorelle, qua ricolte</l>
+<l>intorno a le fontane e fiumi usati,</l>
+<l>vano pascendo libere e disolte;</l></lg>
+<lg>
+<l>e voi sicuri qua de amor cantati,</l>
+<l>e le fanciule intorno vi fan festa</l>
+<l>cogliendo e' fiori e l'erbe a questi prati.</l></lg>
+<lg>
+<l>Quanto è diversa nostra sorte a questa!</l>
+<l>Li nostri armenti e le pecore in preda,</l>
+<l>e noi scaciati o morti a la foresta;</l></lg>
+<lg>
+<l>né sotto al cel stimo io che mai si veda</l>
+<l>cosa tanto crudel, onde a nararla</l>
+<l>vengo sospeso e temo non si creda.</l></lg>
+<lg>
+<l>E poi così me afflige il ricercarla</l>
+<l>che estender non mi vò, ma dirvi in una</l>
+<l>che 'l danno è assai magior che non si parla.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEL.</speaker>
+<lg type="egloga">
+<lg>
+<l> Qua le tue capre cum le nostre aduna;</l>
+<l>quando ti piaccia nosco poserai,</l>
+<l>sinché altro volto volti la Fortuna:</l></lg>
+<lg>
+<l>quivi son li antri freschi, e come sciai</l>
+<l>spira aura più salubre, e se riverde</l>
+<l>l'erba pasciuta e non manca giamai;</l></lg>
+<lg>
+<l>quivi è il boschetto che fronda non perde</l>
+<l>per la fredda stagione, e dentro è Amore,</l>
+<l>che ancor mi ponge a la foglieta verde.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Dunque è Genevre ancora nel tuo core?</l>
+<l>Ben vero è che lo amor de' teneri anni</l>
+<l>nì tempo mai nì caso può distòre.</l></lg>
+<lg>
+<l>Ma io che debbo fare in tanti affanni?</l>
+<l>Tolto morte m'ha Nisa, il mio diletto,</l>
+<l>il mio risoro a' smisurati danni.</l></lg>
+<lg>
+<l>Più mai conforto aver nì zoglia aspetto:</l>
+<l>perduto ho la mia vita ed ancor vivo,</l>
+<l>ché 'l Cel spirar mi fa per più dispetto.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEL.</speaker>
+<lg type="egloga">
+<lg>
+<l> Ahimè, che dici? adonque è il mondo privo</l>
+<l>de la beltade ch'a l'altre era quale</l>
+<l>ilice a lauro e salice a lo olivo?</l></lg>
+<lg>
+<l>Ben ha stirpate Amor le penne a l'ale,</l>
+<l>ben posar pote lo arco e la faretra,</l>
+<l>ché senza lei sua possa poco vale.</l></lg>
+<lg>
+<l>Ben avrebe ciascuno il cor di petra</l>
+<l>qual non piangesse tal dano, e la terra</l>
+<l>dovria tuta coprirsi a veste tetra.</l></lg>
+<lg>
+<l>Or è finita la tua dolce guerra,</l>
+<l>caro Menalca, e la tua dolce pace;</l>
+<l>tuo dolce affetto un sasso ignudo serra.</l></lg>
+<lg>
+<l>Deh, non getar que' cridi! un poco tace.</l>
+<l>Se così fai, il tuo viver fia corto:</l>
+<l>voler conviene a noi ciò che al Cel piace.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Or così fosse io, Melibeo, già morto,</l>
+<l>che ben avanti a lei ne dovea gire;</l>
+<l>ma vissi per sofrir tal dolo a torto.</l></lg>
+<lg>
+<l>Oh beato colui che può finire</l>
+<l>sua vita prima che entri ne lo amaro,</l>
+<l>ché nel viver megliore è bon morire.</l></lg>
+<lg>
+<l>Quando pòte il mio fine essermi caro,</l>
+<l>oggi ha tre mesi, e come mal si mora</l>
+<l>vivendo in doglia a mio gran costo imparo.</l></lg>
+<lg>
+<l>Ove è l'alma amorosa? ove dimora</l>
+<l>quel gentil spirto? ove quel vivo guardo,</l>
+<l>e il ragionar soave che me accora?</l></lg>
+<lg>
+<l>Mio dolce foco è morto ed io pur ardo,</l>
+<l>io ardo lacrimando, e ben me aviene,</l>
+<l>perché a seguirla omai troppo mi tardo.</l></lg>
+<lg>
+<l>Perito è cum quel viso ogni mio bene;</l>
+<l>io detro a quel pensando me disfacio,</l>
+<l>né pongo alcun rimedio a tante pene.</l></lg>
+<lg>
+<l>Ma il mio fero destin non sarà sacio,</l>
+<l>e le stelle crudel, ché a suo mal grato</l>
+<l>morendo mi trarò di tal impacio.</l></lg>
+<lg>
+<l>Dicetimi, pastori, in qualche lato</l>
+<l>di questi monti loco alcuno o riva</l>
+<l>di alpestro fiume o sasso derupato,</l></lg>
+<lg>
+<l>che là di sospirar se farà priva</l>
+<l>questa anima infelice traboccando,</l>
+<l>dipoi che il mondo ormai non vol ch'io viva.</l></lg>
+<lg>
+<l>Vedrò morta colei almanco, quando</l>
+<l>non piace al Cel che in vita io la rivegia:</l>
+<l>mia membra sparse a voi le ricomando.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEL.</speaker>
+<lg type="egloga">
+<lg>
+<l> Poiché la mente tua tuta vanegia</l>
+<l>ne la luce che hai persa, almen comporta</l>
+<l>che per sua parte alquanto te richiegia.</l></lg>
+<lg>
+<l>Odi lei che ti dice:–Se io son morta</l>
+<l>in terra, nel cel vivo, e in tanta zoglia</l>
+<l>solo il tuo lamentar mi disconforta.</l></lg>
+<lg>
+<l>Se hai disio di vedermi, l'aspra voglia</l>
+<l>cacia da te, ché morte voluntaria</l>
+<l>a la porta del cel serra la soglia.</l></lg>
+<lg>
+<l>Su non veresti ove abito ne l'aria,</l>
+<l>se te occidesti, ma ne lo Acheronte,</l>
+<l>ch'è sede da la mia diversa e varia.–</l></lg>
+<lg>
+<l>Così parla tua Diva: alcia la fronte</l>
+<l>e voglia viver per amor di lei</l>
+<l>che el ti domanda e prega a palme gionte.</l></lg>
+</lg>
+</sp>
+<sp><speaker>MEN.</speaker>
+<lg type="egloga">
+<lg>
+<l> Cossì pace mi renda il mondo e i Dei,</l>
+<l>e il Cel che contro a torto me congiura,</l>
+<l>come tu di mia vita cagion sei,</l></lg>
+<lg>
+<l>e quella peregrina creatura</l>
+<l>che Natura mostrò per farci ingordi</l>
+<l>al suo bel viso, e sì presto lo fura,</l></lg>
+<lg>
+<l>cum que' soi santi e angelici ricordi</l>
+<l>che per tua voce a le orechie mi sona,</l>
+<l>e vol che teco a viver me concordi.</l></lg>
+<lg>
+<l>Suo fo il mio core e sua la mia persona,</l>
+<l>e sarà sempre, e a suo comandamento</l>
+<l>vive Menalca e la morte abandona.</l></lg>
+<lg>
+<l>Posarmi qua cum teco io son contento,</l>
+<l>né aver potrebi loco più iocondo</l>
+<l>sinché fortuna muti miglior vento,</l></lg>
+<lg>
+<l>e il Cel se plachi e ponga in pace il mondo.</l></lg></lg>
+</sp>
+</div2>
+<div2 type="parte">
+<head>9</head>
+<stage>In questa nona lamentasi cantando <hi rend="sc">CORIDONE</hi> per la sua cara
+Nisa a Mopso maritata.</stage>
+<sp>
+<lg type="egloga">
+<lg>
+<l>Fiorita riva e voi, verdi arborscelli,</l>
+<l>che adombrati onda sì tranquilla e chiara,</l>
+<l>a voi convien che mia pena rivelli:</l></lg>
+<lg>
+<l>perché colei che più che 'l cor ho cara</l>
+<l>qua cum voi steti, e credo che ogni fronda</l>
+<l>de' vostri rami odir de amore impara.</l></lg>
+<lg>
+<l>Vòlgete, fiume, e torna al fonte l'onda,</l>
+<l>dipoi che piace al Celo e a la Fortuna</l>
+<l>che il fango e l'oro insieme se confonda.</l></lg>
+<lg>
+<l>Di Mopso è Nisa: or fia la neve bruna!</l>
+<l>Nisa è di Mopso: e chi crederà mai?</l>
+<l>Amor il guffo e la colomba aduna.</l></lg>
+<lg>
+<l>Tu, dolce anima mia, pur te ne vai,</l>
+<l>né te rincresce de uno abandonato</l>
+<l>che più te ama che l'alma, e ben lo sciai.</l></lg>
+<lg>
+<l>Scio che lo sciai e scio che l'hai provato,</l>
+<l>se questo novo ardor forse non tragge</l>
+<l>for de tua mente il bon tempo passato.</l></lg>
+<lg>
+<l>Ma già non credo, o creder voglio, che agge</l>
+<l>sì poco di fermeza, ché al cor mio</l>
+<l>sta pur scolpita ancor tua bella imagge.</l></lg>
+<lg>
+<l>Se fatta sei de altrui, che ne posso io?</l>
+<l>Io pur son tuo come foi sempre, e questo</l>
+<l>non mi può tuor Fortuna o caso rio.</l></lg>
+<lg>
+<l>Oh, quanto è più noglioso e più molesto</l>
+<l>se un altro te percuote e poi fa motto!</l>
+<l>Perché stral improviso è troppo presto.</l></lg>
+<lg>
+<l>Marito inamorato, ora ha' tu rotto</l>
+<l>il panno virginale! or sta di sopra</l>
+<l>tal che già stete e stava ancor di sotto!</l></lg>
+<lg>
+<l>Non più di lui, non più, che ormai se scopra</l>
+<l>quel volto onde Natura se vergogna</l>
+<l>de aver produtta al mondo cotal opra:</l></lg>
+<lg>
+<l>ochi di gatta e voce de om che sogna,</l>
+<l>rari e' capegli e bianchi come stoppa,</l>
+<l>il busto oguale e gambe de cicogna.</l></lg>
+<lg>
+<l>Vedeti che lo un labro a l'altro poppa,</l>
+<l>se doneando, ché di fresco è raso,</l>
+<l>nel novo manto tuto se ragroppa.</l></lg>
+<lg>
+<l>Deh, disleale Amor, ove è rimaso</l>
+<l>l'onor de la tua corte? E la tua stella</l>
+<l>ben se può dir che sia gionta a l'occaso.</l></lg>
+<lg>
+<l>Qual anima crudele e più ribella</l>
+<l>de ogni pietate lacrime non getta,</l>
+<l>vegendo a sì vil man cosa sì bella?</l></lg>
+<lg>
+<l>Che sia quel ponto e l'ora maledetta</l>
+<l>qual tolse sua speranza a tanta fede,</l>
+<l>che avendola perduta ancor l'aspetta.</l></lg>
+<lg>
+<l>Sia maledeto chi prosume e crede</l>
+<l>coprir doi sì diversi de una tegola:</l>
+<l>vero è che Amor è cieco e non li vede,</l></lg>
+<lg>
+<l>che vol compore il balsamo a la pegola.</l>
+<l>Oh, come è pazo chi crede e prosume</l>
+<l>pore a li amanti né ordine né regola!</l></lg>
+<lg>
+<l>Ben prima sarà il foco in questo fiume</l>
+<l>e gli occei tuti vestiran di scaglia</l>
+<l>e tuti e' pesci fian coperti a piume,</l></lg>
+<lg>
+<l>che mai ragione umana o forza vaglia</l>
+<l>spiccar que' cor che insieme agionse Amore;</l>
+<l>né a foco o a ferro un bon voler si taglia.</l></lg>
+<lg>
+<l>Ma pur da altrui fia colto il mio bel fiore:</l>
+<l>colto, che dico? scalpizato e guasto;</l>
+<l>e viver posso ancora in tal dolore?</l></lg>
+<lg>
+<l>Qual pelago indiano o mar più vasto</l>
+<l>potrà imbianchir la tenebrosa machia</l>
+<l>che già me atrista pur sentirla al tasto?</l></lg>
+<lg>
+<l>Qual levo corvo o qual destra cornachia</l>
+<l>sì tristo augurio ad altro amante porta,</l>
+<l>lo un crocitando e l'altra quando grachia,</l></lg>
+<lg>
+<l>come a me Lica sbigotita e smorta,</l>
+<l>qual vien piangendo e vegendomi aresta,</l>
+<l>che sol mirando a l'atto mi sconforta?</l></lg>
+<lg>
+<l>Ed io presago già de la tempesta</l>
+<l>che predice il delfin da il curvo dorso,</l>
+<l>chinai senza sapper altro la testa.</l></lg>
+<lg>
+<l>Ma lasso, che vagando io son trascorso</l>
+<l>e del passato parlo di presente,</l>
+<l>tanto insano è il dolor che il cor m'ha morso.</l></lg>
+<lg>
+<l>Sì disviato ha l'animo la mente</l>
+<l>che rime o verso o musica non cura,</l>
+<l>ma sol piangendo sé mostrar dolente.</l></lg>
+<lg>
+<l>Nel mio cantar è persa ogni misura,</l>
+<l>né ho più quel dolce suon che aver solia,</l>
+<l>ché il tanto sengiocir la voce indura.</l></lg>
+<lg>
+<l>Ah, Coridone, ove hai tanta folia?</l>
+<l>Ne l'aria de li augei seguire l'orme,</l>
+<l>de' pesci in mar seguir credi la via?</l></lg>
+<lg>
+<l>Chi avrà ricolto a casa le tue torme?</l>
+<l>chi chiuderà la mandra? Or vedi, istolto,</l>
+<l>qual stai piangendo quando ogni altro dorme,</l></lg>
+<lg>
+<l>quando il lume de il cel al tuto è tolto</l>
+<l>né il fior se scerne da la erbetta verde,</l>
+<l>ché notte a veste negra ha il mondo involto:</l></lg>
+<lg>
+<l>mal fa chi per altrui sé stesso perde.</l></lg></lg>
+</sp>
+</div2>
+<div2 type="parte">
+<head>10</head>
+<stage>Ne l'ultima parla lo auttore e canta <hi rend="sc">ORFEO</hi> el panagirico
+de lo incomparabile Signor Duca de Calabria.</stage>
+<sp>
+<lg type="egloga">
+<lg>
+<l>Sorge, Aretusa, e fonde ogni tua vena</l>
+<l>ché l'alta fonte che è tra Cirra e Nisa</l>
+<l>non bastarebe a tanta empresa apena.</l></lg>
+<lg>
+<l>Questa matera che mia mente avisa,</l>
+<l>fuor de gli usati paschi è da cantare</l>
+<l>cum meglior voce e versi de altra guisa.</l></lg>
+<lg>
+<l>Venite, belle Ninfe, ad ascoltare:</l>
+<l>or non vi narrerò le pome de oro</l>
+<l>che fér nel corso Ippomene avanzare;</l></lg>
+<lg>
+<l>né porò l'Orse tra le stelle in coro,</l>
+<l>nì vi dirò di Crete il labirinto,</l>
+<l>nì quel di Tebe o qual fo più lavoro;</l></lg>
+<lg>
+<l>o come fosse da Poluce vinto</l>
+<l>Bebrida al cesto, o le Arpie spenachiate,</l>
+<l>e ciò che ogni poeta ha già dipinto.</l></lg>
+<lg>
+<l>Dir non voglio io queste opere vulgate,</l>
+<l>ma la virtute splendida de un duce</l>
+<l>qual non ha pari in questa o in altra etate,</l></lg>
+<lg>
+<l>se quello inmenso affetto che me aduce</l>
+<l>a narrar opra sì sublime e grave</l>
+<l>non me confonde gli ochi in tanta luce.</l></lg>
+<lg>
+<l>Quei che passarno cum la prima nave</l>
+<l>eber cum sieco il bel figlio di Febo,</l>
+<l>qual fo nel canto più che altri soave:</l></lg>
+<lg>
+<l>colui, dico io, che da il dolente Erebo</l>
+<l>tornò sonando, e da le Bacce occiso</l>
+<l>fo, sendo ancora giovene ed efebo.</l></lg>
+<lg>
+<l>Questo cum dolce voce e cum bel viso</l>
+<l>piegava e' scogli e facea stare il vento,</l>
+<l>movea le piante a pianto e i saxi a riso,</l></lg>
+<lg>
+<l>passando per la spiaggia lento lento,</l>
+<l>là dove le Sirene a dolci versi</l>
+<l>faceano in zoglia altrui morir contento;</l></lg>
+<lg>
+<l>e ' naviganti tuti eran già persi</l>
+<l>né si potean sé stessi contenire,</l>
+<l>ma il volto e i remi al canto avian conversi.</l></lg>
+<lg>
+<l>Alor comenciò lui suo canto a ordire</l>
+<l>cum tal dolcezza che ogni mente oblitera</l>
+<l>e la Sirena taque per odire.</l></lg>
+<lg>
+<l>Rimena il plectro de oro in su la citera</l>
+<l>e cum le corde acorda la sua voce,</l>
+<l>e il mare e il monte intorno la reitera.</l></lg>
+<lg>
+<l>E cerco a lui vi avea delfini e fòce,</l>
+<l>né cèto né altro monstro al fondo resta,</l>
+<l>ma ciascun trage al canto più veloce.</l></lg>
+<lg>
+<l>Tuti del mare avean sorta la testa</l>
+<l>e ciaschedun più presso ascoltar vole</l>
+<l>la cantilena, ch'a quel suon fo questa:</l></lg>
+<lg>
+<l>–Eo vedo ussir da lo occidente un Sole,</l>
+<l>se Apollo a me, suo figlio, il ver predice,</l>
+<l>che ascende ove questo altro scender sòle,</l></lg>
+<lg>
+<l>e fermarasse in su questa pendice</l>
+<l>che ora vedeti avanti sì diserta,</l>
+<l>ma fia più ch'altra nobile e felice.</l></lg>
+<lg>
+<l>Poi che sarà la Vergine scoperta</l>
+<l>e ritrovata a quella sepoltura</l>
+<l>da gente nova e da abitare incerta,</l></lg>
+<lg>
+<l>longo quel litto sorgeran le mura</l>
+<l>di quella alma cità, qual di vageza</l>
+<l>e de alta fama non avrà misura:</l></lg>
+<lg>
+<l>né ciò dico per possa o per vechieza,</l>
+<l>per soperbi edifici o per bel sito,</l>
+<l>o per sua gente a le virtute aveza,</l></lg>
+<lg>
+<l>ma perché il novo Sol de Spagna ussito,</l>
+<l>poi che avrà lustregiato tuto il mondo,</l>
+<l>fermarà la sua luce in questo lito.</l></lg>
+<lg>
+<l>Da le superne stelle al mar profondo</l>
+<l>la terra sonerà del primo Alfonso,</l>
+<l>e seconderà il nome nel secondo.</l></lg>
+<lg>
+<l>Né fia di Delfo oraculo o responso</l>
+<l>la gloria di costui, ma tanto chiara</l>
+<l>quanto di raggi ha Febo il capo intonso.</l></lg>
+<lg>
+<l>Natura generosa che rippara</l>
+<l>in regal sangue alcun lignaggio antico,</l>
+<l>in altra stirpe più non se rischiara;</l></lg>
+<lg>
+<l>nì Atalarico già nì Rodorico,</l>
+<l>che a quest'inclita iesta son di sopra,</l>
+<l>oguagliar se potrano a quel che io dico.</l></lg>
+<lg>
+<l>Vedeti che a sì grande e nobil opra,</l>
+<l>quale è produtta per cotanti onori,</l>
+<l>par che ogni stella il bel viso discopra;</l></lg>
+<lg>
+<l>vedeti il mondo ornato a rose e a fiori,</l>
+<l>e il mar tornato di sapor di mèle,</l>
+<l>spirar il vento de cinamo odori;</l></lg>
+<lg>
+<l>tigri e serpenti e ogni animal crudele</l>
+<l>rari sarano, e se qualcun ne fia,</l>
+<l>sarà senza veneno e senza fele.</l></lg>
+<lg>
+<l>Come fia nato, a lui per compagnia,</l>
+<l>sarà donato Amor cum gli ochi aperti</l>
+<l>e Gentilezza e Ardire e Cortesia;</l></lg>
+<lg>
+<l>né sarano a sue guanze e' pel scoperti</l>
+<l>che de lui s'oderà non dico segno,</l>
+<l>ma prove d'uom compiuto e fatti experti.</l></lg>
+<lg>
+<l>A la difesa del paterno regno,</l>
+<l>quasi fanciullo, ov'è Troia minore</l>
+<l>di cotal parte si mostrarà degno.</l></lg>
+<lg>
+<l>Non crescerà suo triunfal onore</l>
+<l>com'altri a poco a poco, ma ad un ponto</l>
+<l>darà per tuto subito fulgore.</l></lg>
+<lg>
+<l>La bellica prodezza ch'io ve conto</l>
+<l>fia tuta sieco, e non sarà divelta</l>
+<l>sinché fia al cielo in anima ragionto.</l></lg>
+<lg>
+<l>E come il Mauro ha l'asteciola inselta</l>
+<l>e quel di Baleare ha la sua fronda,</l>
+<l>il Scita l'arco e Amazone la pelta,</l></lg>
+<lg>
+<l>così parrà che ogn'arte a lui risponda,</l>
+<l>non sol che s'usi ma pensar si possa,</l>
+<l>per opra di bataglia in terra e in onda.</l></lg>
+<lg>
+<l>Talor giocando a scudo ed asta grossa</l>
+<l>farà di sé tal mostra che ciascuno</l>
+<l>se stupirà di sua destrezza e possa.</l></lg>
+<lg>
+<l>Coteste lodi che cantando aduno</l>
+<l>non son la summa di virtute tanta,</l>
+<l>ma qual in bella donna è l'ochio bruno;</l></lg>
+<lg>
+<l>e qual è fior vermiglio in verde pianta,</l>
+<l>in monil d'oro il lucido carbone,</l>
+<l>tal tra tutti altri sol costui si vanta.</l></lg>
+<lg>
+<l>Testimonio è Flaminia e il Rubicone:</l>
+<l>là tra' nemici passarà di volo,</l>
+<l>prendendo il pasto a guisa di falcone.</l></lg>
+<lg>
+<l>Testimonio fia l'Arno e l'alto dolo</l>
+<l>ch'a Puoggio Imperial Toscana sente:</l>
+<l>là tanti segni abbaterà lui solo.</l></lg>
+<lg>
+<l>Non fia riparo all'animosa mente</l>
+<l>inexpugnabil colle, e ogni altro loco</l>
+<l>sempre di contrastarlo al fin si pente.</l></lg>
+<lg>
+<l>Ma d'ognor quel ch'è fatto a lui par poco,</l>
+<l>e più richiede sua virtude accesa,</l>
+<l>spirando ad alto sempre come foco.</l></lg>
+<lg>
+<l>Mirate Italia, che si sta difesa</l>
+<l>sotto al suo scudo e senza altra vigilia,</l>
+<l>senza altra guarda a sì stupenda impresa.</l></lg>
+<lg>
+<l>Dal mare Eusino a' jogi di Panfilia,</l>
+<l>e ciò ch'è tra l'Eufrate e tra il Danubbio</l>
+<l>ne ven armato al Regno di Sicilia;</l></lg>
+<lg>
+<l>e se non rompe a sì gran tela il subbio</l>
+<l>e sì gran tramma quel duca sicuro,</l>
+<l>perduta è Italia e non ne faccio dubbio.</l></lg>
+<lg>
+<l>Ma che dico io? quei barbari non curo,</l>
+<l>ché già di salto a l'alte terre in cima</l>
+<l>e già d'Otrànto il veggio sopra al muro.</l></lg>
+<lg>
+<l>Sagite foco e folgore non stima,</l>
+<l>né quella gente oribil e legera</l>
+<l>tra la qual Marte sua sede ebbe in prima.</l></lg>
+<lg>
+<l>O gentil alma nobil ed altera</l>
+<l>ch'a tua prodezza non trovi confino,</l>
+<l>a maggior fatti drizza la bandiera.</l></lg>
+<lg>
+<l>Già il Mencio, lo Oglio, Pado, Ada e Tesino</l>
+<l>a te fan riverenza, e il bel paese</l>
+<l>qual chiude l'Alpe, il mare e l'Apenino.</l></lg>
+<lg>
+<l>Là farai l'opre grande e sì distese</l>
+<l>che bisogno non è ch'io le ricorde,</l>
+<l>quando in sé stesse fien chiare e palese.–</l></lg>
+<lg>
+<l>Cantava Orfeo cum voce e con le corde,</l>
+<l>ma la sua nave non potea star quieta,</l>
+<l>cum tal dolcezza quel canto la morde;</l></lg>
+<lg>
+<l>e tanto è di quel suon zogliosa e lieta</l>
+<l>che verso il ciel adriciava la prora,</l>
+<l>onde più longo il canto li divieta:</l></lg>
+<lg>
+<l>benché gran gesti restavan ancora,</l>
+<l>ma non potendo, al lito periglioso</l>
+<l>voltò la poppa e non fece dimora.</l></lg>
+<lg>
+<l>Ed io nel bosco ormai più star non oso,</l>
+<l>poiché oscurito è per tutto d'intorno,</l>
+<l>gionta è la notte e il tempo de riposo.</l></lg>
+<lg>
+<l>Ma se mia voce, com'io spero, adorno,</l>
+<l>di questo duca l'abito regale</l>
+<l>cum altri versi a dimostrar ritorno,</l></lg>
+<lg>
+<l>pur ch'al disio la possa spieghi l'ale.</l>
+</lg></lg>
+</sp>
+</div2>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Bucolica</title>
+      <author>Gianni Battista Cantalicio</author>
+    </titleStmt>
+    <extent>71 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000313</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Bucolica ; Spectacula Lucretiana</title>
+        <author>Cantalicio, Giovanni Battista</author>
+        <editor id="ed">Monti Sabia, Liliana</editor>
+        <publisher>Sicania</publisher>
+        <pubPlace>Messina</pubPlace>
+        <date>1996</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>871.04 - POESIA LATINA, 1350-</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Messina</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Messina</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-09-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Valeriano Fiori</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-09-17T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="egloga"><head>AEGLOGA PRIMA</head>
+<argument><p>De duce Calabriae Alfonso et de duce Urbini Federico vastante agrum Florentinum.</p></argument>
+<stage>Battus Tuscus et Phosphorus Umber pastores introducuntur.</stage>
+<sp><speaker>PHOSPHORUS</speaker><l>Quae te, Batte, refer, properantem cogit ab oris</l>
+<l>cedere causa tuis? Quae te tam dira capellas</l>
+<l>tempestas agitare tuas huc iussit in Umbros?</l>
+<l>Qui, rogo, Tyrrhenas potuisti linquere valles,</l>
+<l>colliculos fontesque sacros silvasque virentes,</l>
+<l>nec non herbiferos, laetissima pascua, campos?</l>
+<l>Nanque ego te memini – nondum altera clauditur aestas –</l>
+<l>securum pavisse pecus, noctesque diesque</l>
+<l>pastorum Tuscis carmen resonare sub antris,</l>
+<l>quo satyros, quo Pana simul faunosque tenebas.</l>
+<l>Teque virum petiit quondam formosa Lycoris,</l>
+<l>ad tua quum faciles properarent carmina nymphae.</l>
+<l>Par tibi nullus erat pastorum, Batte, nec ulli</l>
+<l>quam tibi plus dederat pecoris fortuna, nec aurae.</l>
+<l>Mille boves memini stabulis te mane trahentem</l>
+<l>ad vicina tuis deducere pascua rivis.</l>
+<l>Hinc tibi balantum fuerat grex magnus, et hedos</l>
+<l>centum saepe simul, centum portabat in urbem</l>
+<l>Crispula venales, quoties lux festa rediret,</l>
+<l>inde super tarda nummosa redibat asella.</l>
+<l>Sique domi ignavae pluviae ventique tenerent,</l>
+<l>vidimus egregio texentem vimina cantu</l>
+<l>praeteriisse dies inter te saepe Napeas.</l>
+<l>Ipse equidem vereor quid te huc impellat anhelum.</l>
+<l>Heu qualem, qualem video te, Batte, repente!</l>
+<l>Unde haec anxietas? Et quae tibi squalida pendet</l>
+<l>barba situ! Pedibus nudis agis, ecce, capellas,</l>
+<l>nec tibi villosus pendet post terga cucullus,</l>
+<l>fistula non humeris, collo nec mantica, nec te</l>
+<l>ferre pedum video nodis de more politum.</l>
+<l>Batte, refer, quae causa tuos turbavit honores?</l>
+<l>Quae tibi causa viae? Pudeat non vera fateri:</l>
+<l>forte tibi miserum pectus moerore levabo.</l></sp>
+<sp><speaker>BATTUS</speaker><l>O chare ante alios semper mihi, Phosphore, cunctos!</l>
+<l>Fidere Fortunae quenquam dementia summa est:</l>
+<l>haec mutat turbatque vices, nec parcitur ulli,</l>
+<l>haec humiles tegetes in celsa palatia mutat,</l>
+<l>saepius haec Irum de Cosmo fecit egentem.</l>
+<l>An non dum nostri vestras penetravit ad oras</l>
+<l>fama mali, quod nuper agros vexavit Ethruscos?</l>
+<l>Hei mihi, quam miserum est nostras memorare ruinas,</l>
+<l>Phosphore! Magna tibi sunt ocia, flatque capellis</l>
+<l>aura tuis nimium, nam quae sensere Sycambri</l>
+<l>et Parthi Maurique simul, quae novit Eous,</l>
+<l>ipse nec audisti. Miserum est quod scire requiris.</l></sp>
+<sp><speaker>PHOSPHORUS</speaker><l>Nunc scio, Batte, Iovis modo quid sibi fulmina vellent,</l>
+<l>multa quibus nostris quercus iacet obruta silvis;</l>
+<l>quaeque meae cecinit villae de culmine cornix</l>
+<l>ipse mala agricolis usquam ventura putabam.</l>
+<l>Sed quae pernicies, quaenam pervasit Ethruscos</l>
+<l>ira deum, quae vis hominum fuit ista furorque?</l></sp>
+<sp><speaker>BATTUS</speaker><l>Impius, heu, patrios miles populatur agellos</l>
+<l>praedaturque pecus nullo discrimine passim.</l>
+<l>Milia tot nunquam classis Pelopeia muros</l>
+<l>duxerat ad Phrygios, nec Cadmi moenia tantus</l>
+<l>presserat armorum bello fervente tumultus,</l>
+<l>invasit quantus Tyrrhena per arva colonos.</l>
+<l>Pastorum pars magna plagas orientis adivit</l>
+<l>et trepida occiduas pars commigravit ad oras,</l>
+<l>magna per Illyrici fines pars mesta vagatur,</l>
+<l>pars Ligurum patriam germanaque regna petivit,</l>
+<l>pars pecore amisso vinclis captiva revincta est.</l>
+<l>En ego quas cernis vix inter tela capellas</l>
+<l>quattuor eripui, sed te quoque, candida coniux,</l>
+<l>Crispula, perdidimus, poteras quae sola dolores</l>
+<l>demulcere meos, lachrymisque imponere finem!</l></sp>
+<sp><speaker>PHOSPHORUS</speaker><l>Peccasti nec, Batte, parum! Servare capellas</l>
+<l>dum cuperes potius, rapta est tibi Crispula coniux.</l></sp>
+<sp><speaker>BATTUS</speaker><l>Phosphore, quid facerem? Media de nocte maritum</l>
+<l>chara sequebatur; ruit impia turba repente,</l>
+<l>unius ad vocem, miserae conversa capellae</l>
+<l>et pecore et misso me surripuere puellam.</l>
+<l>Illa quidem denas bis iam numerabat aristas,</l>
+<l>ante alias Tuscas cunctas cantare perita;</l>
+<l>ulla nec hac melius depresserat ubera palmis</l>
+<l>aut ovium teneros depascere noverat agnos;</l>
+<l>ulla nec aut lardo sapientius unxerat ollas,</l>
+<l>aut oleo, nobis caules siquando parabat;</l>
+<l>nulla magis rectum sulcum faciebat aratro,</l>
+<l>nulla magis prudens ex arbore poma legebat,</l>
+<l>et sola in triviis induxerat illa choreas,</l>
+<l>quum te, sancta Pales, celebrabat rustica pubes;</l>
+<l>denique nulla fuit toto sapientior orbe.</l>
+<l>Haec soror Arcadici fuerat Stylphonis, et Asti</l>
+<l>filia, sed Liguris veniens de gente Molorchi.</l>
+<l>Undique pastores sponsam petiere parentes</l>
+<l>Arnicolae, sed me voluit solum illa maritum,</l>
+<l>quam neque iam misero superest spes ulla videndi,</l>
+<l>nec pecus amissum, patrios nec, Phosphore, fines.</l></sp>
+<sp><speaker>PHOSPHORUS</speaker><l>Batte, tuas mecum paulum depone querelas!</l>
+<l>Si libet, his dabitur regionibus altera coniux</l>
+<l>gente nec inferior, Siculos quae vincere cantus</l>
+<l>audeat, et simas depascere docta capellas.</l>
+<l>Sed, precor, haec referas nobis: quis bella superbis</l>
+<l>intulit Ethruscis? Quae tantae est causa ruinae?</l>
+<l>Quae fuit haec vestros inter discordia cives</l>
+<l>Atque hoc interea molli tua cespite fessa</l>
+<l>membra leva, nam stare tibi sit, credo, molestum.</l></sp>
+<sp><speaker>BATTUS</speaker><l>Phosphore, quae patimur tantorum causa malorum est</l>
+<l>regum dira sitis: nunc altera clauditur aestas</l>
+<l>ex quo nulla novis mandavimus ordea sulcis,</l>
+<l>nec licuit foetas ad pascua ducere vaccas,</l>
+<l>gramina nec pecudes, nec contigit hedus hibiscum.</l></sp>
+<sp><speaker>PHOSPHORUS</speaker><l>Qui belli sunt, Batte, duces, quae signa, quis author?</l></sp>
+<sp><speaker>BATTUS</speaker><l>Ipse ovium certe tibi promptius omnia dicam</l>
+<l>nomina quas habui, quam singula nomina possim</l>
+<l>enumerare ducum. Belli est Florentia summa;</l>
+<l>pastores unum Tyrrheni nomine dicunt</l>
+<l>Alfonsum Iuvenem, Calabrum cui regio servit,</l>
+<l>quique Fluentinos iuravit Marte favente</l>
+<l>diripuisse focos: validae sunt pectore vires,</l>
+<l>est animus iuveni, bellum movet ille tremendum.</l>
+<l>Heu quanto Tuscos discurrit milite campos,</l>
+<l>quantus agit praedas! Nimium miser ille, ruenti</l>
+<l>claudere qui portas ausit, vel claudere valles!</l>
+<l>Pastores alium Phedericum nomine dicunt,</l>
+<l>Hadriacis felix regnum qui terminat oris,</l>
+<l>non modo quem populi trepidant, sed pontus et aether,</l>
+<l>quodque magis stupeas, luscus plus prospicit Argo:</l>
+<l>scis quot fronte oculos, scis quot cervice gerebat!</l>
+<l>Quaslibet hic Martis magna vi perdomat urbes,</l>
+<l>flumina, castra, viros, pontes, castella casasque;</l>
+<l>aerias arces bombo flagrante per auras</l>
+<l>deiicit et nuper, quum Castellina sonarent</l>
+<l>moenia, abortivos centum peperere iuvencae.</l>
+<l>Sed quid ego haec refero tibi, Phosphore? Sat tibi Battum est</l>
+<l>cernere, nam prohibet dolor his tibi plura referre.</l>
+<l>Surgite iam miserae mecum, mea cura, capellae,</l>
+<l>surgite: in exilium, quo nos fors ducet, eamus;</l>
+<l>nec vobis posthac unquam mea Crispula frondes</l>
+<l>excisas summa virides iactabit ab ulmo,</l>
+<l>nec stipulas mollique toro susternet avenas.</l>
+<l>Surgite, tuque vale iam, nate per omnia felix,</l>
+<l>Phosphore: deductis hinc me libet ire capellis.</l></sp>
+<sp><speaker>PHOSPHORUS</speaker><l>Batte, tuam cepit quae tanta insania mentem?</l>
+<l>Quo, dic, ire paras? Ubi tutam figere sedem</l>
+<l>ipse magis poteris quam mecum? Crevit ab annis</l>
+<l>noster amor teneris! Hic hic requiescere fas est</l>
+<l>iam tibi, post tantos quos dat fortuna labores.</l>
+<l>Cernis ut obscurum complerint nubila coelum,</l>
+<l>perque omnes fuscis valles nox spargitur umbris.</l>
+<l>Est mihi quam nosti, quanvis vetus, optima coniux,</l>
+<l>quae te cunque tuis quantum valet arte capellis</l>
+<l>Ruffa, viri nullo discrimine, laeta fovebit.</l>
+<l>Inter pastores non est me ditior Umbros</l>
+<l>nec pecoris quisquam, nec agri, nam sulcat aratrum</l>
+<l>iugera mille mihi: poteris iam vivere mecum.</l>
+<l>Batte, resume animos et quam mihi Ruffa paravit</l>
+<l>ad coenam, properemus iter: scio, bullit in olla</l>
+<l>caulis et immensum setosi sinciput apri.</l></sp></div1>
+<div1 type="egloga"><head>AEGLOGA SECUNDA</head>
+<argument><p>ALLEGORICA De Ursinis principibus oppressis</p></argument>
+<stage>Aphradus, Cyrtus, Doxocalus pastores introducuntur</stage>
+<sp><speaker>APHRADUS</speaker><l>Cyrte, tuas quo cogis oves? Quo, Cyrte, capellas</l>
+<l>stultus agis? Pingues vel cur de monte iuvencos</l>
+<l>in siccos deducis agros? Necat aridus herbas</l>
+<l>Syrius et liquidos exurit lampade fontes.</l>
+<l>Plana petis, montana fugis: pecus omne peribit,</l>
+<l>Cyrte, tuum! Repetas silvarum, si sapis, umbras</l>
+<l>et pecoris miserere tui: furit aëris aestus,</l>
+<l>verte pedem! Non est prudentia quaerere mortem.</l></sp>
+<sp><speaker>CYRTUS</speaker><l>Aphrade, nulla meos vicit dementia sensus.</l>
+<l>Ducebam ad gelidas umbras armenta gregesque</l>
+<l>quos cernis, mediamque viam iam monte tenebam,</l>
+<l>difficilem facili solatus arundine passum,</l>
+<l>quum mihi forte ruens de vertice montis eodem</l>
+<l>Dyndimus occurrit, sic voce locutus anhela:</l>
+<l>“Quo, miser, ire paras! Quo scandere, Cyrte, laboras?</l>
+<l>Ducis ad exitium pecus omne, revertere retro!</l>
+<l>Ursorum nam lustra petis, ferus undique nostras</l>
+<l>ursus habet silvas; nosti genus ipse ferarum</l>
+<l>quale sit: haud dubitant pastorem invadere primum,</l>
+<l>mox capiunt lacerantque pecus sternuntque molossos.</l>
+<l>Cyrte, tuum converte pecus, fuge, Cyrte, rapinas,</l>
+<l>si sapis!” Admonitus his, Aphrade, monte recessi.</l></sp>
+<sp><speaker>APHRADUS</speaker><l>Non est quod timeas; vanos, age, Cyrte, timores</l>
+<l>exige! Sunt silvae montisque cacumina tuta</l>
+<l>omnia, et ursorum genus omne ex montibus istis</l>
+<l>terruit Androfagus, partim sub iura cathenae</l>
+<l>subdidit et propriis partim expulit ille cavernis.</l>
+<l>Cum catulis abiere suis trepidantibus omnes,</l>
+<l>errabunda cohors, nunquam reditura Latinis</l>
+<l>montibus aut silvis. Sunt pascua libera passim</l>
+<l>haec non sola tibi, sed Iapigis Appula rura</l>
+<l>tutaque iam Calabrae sunt omnia pascua terrae</l>
+<l>et Campanus ager, nec non Laurentia cuncta</l>
+<l>iugera, Romuleos tutum pecus omne per agros</l>
+<l>Tuscaniaeque solum pinguisque per arva Viterbi.</l>
+<l>An nescis gelido quales metuendus ab axe</l>
+<l>duxerit ille canes? Non his valet ulla ferarum</l>
+<l>sistere, sed rabiem primam meditantur in ursos,</l>
+<l>a quibus, ut fas est, tibi desine, Cyrte, timere.</l></sp>
+<sp><speaker>CYRTUS</speaker><l>Ergo ego per montes sic te duce, chare, revertar,</l>
+<l>Aphrade, et in silvas tutum pecus omne reducam.</l>
+<l>Ad virides herbas mecum remeate, capellae,</l>
+<l>vertite, oves, gressum, montisque resumite, tauri,</l>
+<l>pascua et umbrosi conscendite fontis ad undas!</l>
+<l>Ad veteres, dulcis Morica, revertere fagos</l>
+<l>dumosumque nemus; et tu, cornuta mearum</l>
+<l>spes ovium, converte pedem, cape laeta virentis</l>
+<l>montis iter secura tuum. Tuque, Aphrade, semper</l>
+<l>sis felix cum prole tua et cum coniuge laetus,</l>
+<l>qui mihi consilio tali pecus omne furenti</l>
+<l>caumate servasti. Dii dent aliquando benigni</l>
+<l>parque pari et grates meritas tibi posse referre.</l></sp>
+<sp><speaker>APHRADUS</speaker><l>Tu quoque, Cyrte, pecus felix age tempore longo,</l>
+<l>et quam bina tibi, puto, iam per lustra sitisti,</l>
+<l>alma Venus tandem duram tibi molliat Augen.</l></sp>
+<sp><speaker>CYRTUS</speaker><l>O, rogo, siste parum: quae lusimus, Aphrade, in illam,</l>
+<l>hic te audire velim. Credo sint carmina mille,</l>
+<l>mille modi et numeris conrespondentia verba,</l>
+<l>quis ego Massylum mollissem saeva leonum</l>
+<l>pectora, vel tygres placassem foetibus orbas;</l>
+<l>illa tamen surda mea carmina neglegit aure</l>
+<l>hasque meas ridet nares gibbosaque terga</l>
+<l>callosasque manus hirsutaque tegmina barbae.</l>
+<l>Spem tamen illius dederat mihi Cantara mater:</l>
+<l>votaque successent, genitor nisi mortuus esset.</l></sp>
+<sp><speaker>APHRADUS</speaker><l>Cyrte, tuum carmen meliora in tempora differ:</l>
+<l>non vacat, et doleo, mihi nunc audire, quod ipse</l>
+<l>Doxocalum expecto veterem mihi, Cyrte, sodalem</l>
+<l>quem nosti. Exiguum sum mercaturus agellum</l>
+<l>parque boum: pretio cupio mihi providus adsit.</l>
+<l>Nescio venturus cur tardius ille moretur:</l>
+<l>“I prae, nanque sequar propere” mihi dixerat. Ecce</l>
+<l>iam venit. O propera! Iamdudum torridus hic te,</l>
+<l>Doxocale, expecto: quae nam te causa morata est?</l></sp>
+<sp><speaker>DOXOCALUS</speaker><l>Pone sequebar iter, sed me tardavit inertis</l>
+<l>coniugis ira meae. Nam, quum ductaret asellum,</l>
+<l>acta furore viae medio prostravit onustum.</l>
+<l>Accurri posuique manum iuvique, sed illam</l>
+<l>haerentem caesis vix ossibus ipse remisi.</l>
+<l>Sed tibi, Cyrte, pecus quonam, rogo, ducere mens est?</l></sp>
+<sp><speaker>CYRTUS</speaker><l>Doxocale, ad montes, quoniam sunt omnia tuta,</l>
+<l>verto pecus: fugere feri de montibus ursi</l>
+<l>Aphradus his dixit cuncti, durumque cathenae</l>
+<l>Androfagi subiere iugum, qui perdere nostri</l>
+<l>spem gregis et nobis pervertere cuncta solebant.</l>
+<l>Nonne vides etiam insano exardere Leone</l>
+<l>omnia per nostros penitus iam gramina campos?</l>
+<l>Vos remanete ambo, memores per secula nostri</l>
+<l>vivite, et annosae cornicis vivite in annos,</l>
+<l>meque pererrantem, quandoque revisite silvas.</l></sp>
+<sp><speaker>DOXOCALUS</speaker><l>Hactenus, o demens, quod scire, Cyrte, putavi</l>
+<l>consiliumque tuum certe non, Aphrade, ineptum</l>
+<l>omnibus in rebus. Nunc sed mihi parcite uterque:</l>
+<l>mentis inops factus mediis a sensibus erras.</l>
+<l>Creditis edomitos penitus sub iura cathenae,</l>
+<l>aut his perpetuo pulsos a montibus ursos?</l>
+<l>O mentis tenebras, o pectora stulta animosque</l>
+<l>pastorum et fibras male sani cordis inertes!</l>
+<l>An, rogo, nescitis quodnam sit fortibus ursis</l>
+<l>ingenium? Non est certe vis tanta, nec astus,</l>
+<l>non animus, nec tanta ferae prudentia cuiquam.</l>
+<l>Esse putent alii quanvis maiora leonum</l>
+<l>robora, vincit atrox ursus frangitque cathenae</l>
+<l>vincula, siqua subit, semperque revertitur illuc</l>
+<l>fortior ille canum latratibus unde recessit.</l>
+<l>Quid quod et hic etiam coeli convexa supremi</l>
+<l>circuit et gelido celsus supereminet axe</l>
+<l>occiduasque micat non descensurus ad undas?</l>
+<l>Sub nive fert hyemes structisque ex arte cavernis</l>
+<l>nutritur succoque pedum pinguetque veterno,</l>
+<l>more hominumque coit, Veneris quum munera tractat,</l>
+<l>informique suos catulos de carne figurat</l>
+<l>ingrediturque bipes, quoties excanduit ira,</l>
+<l>et ruit in praedam pecorisque armenta gregesque</l>
+<l>aggreditur fremitusque feros movet ore tremendo;</l>
+<l>stat procul et caesi pecoris spectacula pastor</l>
+<l>ingemit et mandras nulla iuvat arte molossus.</l>
+<l>Quos periisse putas ursi iam, Cyrte, redibunt</l>
+<l>cum catulis patribusque suis ac matribus unde</l>
+<l>discessere modo: scio quid mihi nuntiat illa</l>
+<l>quae mihi iam rerum praedixit milia cornix.</l>
+<l>Tu tibi, Cyrte, tuum placeat qua dirige gressum.</l>
+<l>His ego te monui veteri compulsus amore</l>
+<l>expertusque frequens qualis sit moribus ursus.</l>
+<l>Cyrte, vale et felix semper! Nos, Aphrade, tandem</l>
+<l>occeptum peragamus iter, via longa morantes</l>
+<l>increpat, occiduas et sol inclinat ad undas.</l></sp></div1>
+<div1 type="egloga"><head>AEGLOGA TERTIA</head>
+<argument><p>ALLEGORICA De Ursinis liberatis</p></argument>
+<stage>Cyrtus pastor introducitur conquerens pecus amissum</stage>
+<sp><speaker>POETA</speaker><l>Nuper ab Equicolis repetebam forte penates</l>
+<l>et patrios longo non visos tempore fines,</l>
+<l>quum procul audivi Cyrtum de monte ruentem</l>
+<l>pastorem Marsum, superos et sidera coeli</l>
+<l>cuncta execrantem, misera quoque voce querentem</l>
+<l>amissum armenti numerum dulcesque capellas,</l>
+<l>atque ovium quicquid silvis pascebat in altis.</l>
+<l>Has miser et frustra iactabat ad astra querelas:</l>
+<l>“Infelix quid agam? Quo me insperata redegit</l>
+<l>ursorum rabies? Sunt haec, sunt pascua tuta,</l>
+<l>Aphrade, quae dixti? Sic, sic sub iura cathenae</l>
+<l>ursus erat? Nostras silvas sic ille reliquit?</l>
+<l>Ve mihi ve misero, qui sprevi recta monentem</l>
+<l>Doxocalum atque tuis quoniam levis omnia verbis,</l>
+<l>Aphrade, crediderim! Tedet me vivere, tedet</l>
+<l>esse homines inter! Cur non rapuere feroces</l>
+<l>hanc animam potius? Cur non hoc corpus acerbis</l>
+<l>morsibus opposui meritum? Vel dentibus illis</l>
+<l>cur miser effugi? Quavis ego morte merebar</l>
+<l>sed non sic nostrum rapido pecus ore perire</l>
+<l>Praecipitem qua me mittam de rupe merentem?</l>
+<l>Quo me de scopulo rapiet sub vortice pontus?</l>
+<l>Quae miserum subito tollent aconita veneno?</l>
+<l>O utinam infelix inter Massyla leonum</l>
+<l>saeva vel Hircanae modo tygridis ora iacerem,</l>
+<l>aut ego fulminei lacerarer ab ictibus apri</l>
+<l>montibus his qualem sternunt venabula nostris.</l>
+<l>In me vos saltem torvos convertite rictus,</l>
+<l>qui pecus omne meum tenuistis in unguibus, ursi.</l>
+<l>O ubi sunt dulces quondam mea vita capellae?</l>
+<l>O ubi spes ovium, spes est ubi tanta mearum,</l>
+<l>et mihi qui fuerant fortes ad aratra iuvenci?</l>
+<l>Non vitulus, non agnus erit, non caseus ullus,</l>
+<l>non lac, aut nostris pinguis natalibus hedus;</l>
+<l>non his te uxorem ducam te luctibus, Auge,</l>
+<l>iam bis quinque mihi tantum dilecta per annos.</l>
+<l>Vivite pastores ovium pecorisque magistri!</l>
+<l>Vos ego devoveo cunctos, vos omine cunctos</l>
+<l>execror, hanc artem qui me fecistis amare!</l>
+<l>Vos Herebi has voces, precor, exaudite, tyranni,</l>
+<l>et firmate preces! Pecoris contagia vobis</l>
+<l>ominor et nigris sint cuncta armata venenis</l>
+<l>pascua et optatas desiccet Syrius herbas;</l>
+<l>non vaccae, non foetus ovis, non ulla capellae</l>
+<l>nascatur soboles, at si sit gratia partus,</l>
+<l>effundant aloen pro flumine lactis amaram;</l>
+<l>ut mea si fuerint armenta, vorentur ab ursis,</l>
+<l>agnorumque greges si sint, sint praeda luporum.</l>
+<l>Fistula sit vobis non quae sonet ore, sed illa</l>
+<l>cuspide quae vobis praecordia figat acuta,</l>
+<l>pascere monte pecus qui me docuistis ab annis,</l>
+<l>quum nondum certum signabam pulvere calcem,</l>
+<l>cultor agri potui, potui qui vinitor esse,</l>
+<l>aut apium felix examina multa tueri</l>
+<l>arte, vel esse faber melius, vel tardus agaso.</l>
+<l>Et qui pastoris quondam vice functus inertis</l>
+<l>incipias merita iam, Phoebe, senescere barba</l>
+<l>Thessalicique gregis iterum cogare tyranni</l>
+<l>pascere ad Amphrisi privatus numine ripas.</l>
+<l>Sed quid agam? Repetamne domum? Non, si deus ipse</l>
+<l>imperet. Immo ultra Morinos ultraque Britannos</l>
+<l>ibo, vel infelix glacialis ad intima ponti,</l>
+<l>ut, qui silvarum pecori modo frigore rapto</l>
+<l>quaesieram, intenso perdam hanc in frigore vitam.</l>
+<l>Fucine, magne lacus patriae, cunctaeque valete</l>
+<l>Marsorum silvae, celsique cacumina montis.</l>
+<l>Et me quae viridi gentes habuistis in aevo</l>
+<l>hactenus in patria, tumulum vos ponite Cyrto</l>
+<l>(reddantur patrio mea si tamen ossa sepulchro)</l>
+<l>atque meum tali signetis carmine saxum:</l>
+<l>“Conditur hoc pastor Marsus sub marmore Cyrtus,</l>
+<l>impetus ursorum cui iam pecus abstulit omne,</l>
+<l>extinctos stolidus penitus dum crederet ursos””.</l></sp></div1>
+<div1 type="egloga"><head>AEGLOGA QUARTA</head>
+<argument><p>De regibus Aragoneis</p></argument>
+<stage>Carcalus et Carpoforus pastores Campani introducuntur</stage>
+<sp><speaker>CARPOFORUS</speaker><l>Carcale, quid censes? Num censes, Carcale, eundum</l>
+<l>regibus eiectis nobis his montibus esse?</l></sp>
+<sp><speaker>CARCALUS</speaker><l>Immo magis tuta nobis iam sede manendum</l>
+<l>figendumque pedem, superis et rite litandum,</l>
+<l>qui tot Aragoneis nos eripuere tyrannis</l>
+<l>exemptosque pii tandem voluere tributis,</l>
+<l>detrectabat onus quorum gens quaeque superbum.</l></sp>
+<sp><speaker>CARPOFORUS</speaker><l>Carcale, sic illis saltem male parce loquendo,</l>
+<l>nam sua, quum vivant, poterunt in regna reverti</l>
+<l>proque etiam levibus miserum te plectere verbis.</l>
+<l>Ut lubet, hic maneas; ego, Carcale, linquere terras</l>
+<l>has meditor, partes ad quaslibet orbis iturus,</l>
+<l>inclyta Parthenope donec in regna receptet</l>
+<l>inque suas sedes illos aliquando reponat.</l>
+<l>Sed tu, dic quaeso: quae tanta tributa coactus</l>
+<l>pendere iam fueras? Scio me quoque regibus illis</l>
+<l>persolvisse aliquid , sed me sine legibus aequi</l>
+<l>persolvisse nihil. Nunquid tibi, Carcale, reges</l>
+<l>debuerant potius praestare tributa clientes?</l>
+<l>Nam memini dixisse deos monitusque dedisse:</l>
+<l>“Reddite quae regis sunt omnia, reddite regi,</l>
+<l>et sunt quae divum, vos omnia reddite divis”.</l></sp>
+<sp><speaker>CARCALUS</speaker><l>Carpofore, heu quaeris cur me memorare quid olim</l>
+<l>et quantum tribui nostra pro parte? Quotannis</l>
+<l>mittebam binos pingues ab ovilibus agnos,</l>
+<l>tris hedos vitulamque unam pro lege tremenda,</l>
+<l>unius adde etiam vervecis pectora crassi.</l>
+<l>An non hoc fuerat nimis intolerabile pondus?</l></sp>
+<sp><speaker>CARPOFORUS</speaker><l>Ergo quod hoc doleas, hoc est de regibus illis,</l>
+<l>Carcale, quod quereris? Fuit haec num saeva tyrannis</l>
+<l>an onus et pensi fuit haec tam magna tributi</l>
+<l>sarcina? Cur tota sic, Carcale, mente recedis?</l>
+<l>Agnorum plus ipse etiam largissimus illis</l>
+<l>de grege mittebam, plures quoque misimus hedos</l>
+<l>vervecesque decem, totidem cum prole iuvencas,</l>
+<l>cumque his multa dabam laetus pretiosa Galesi</l>
+<l>vellera. Solvissem sed tota armenta gregesque,</l>
+<l>proque illis nunquam renuissem pendere vitam,</l>
+<l>sub quibus has nostras cunctas Astrea per oras</l>
+<l>laeta vagabatur, veluti quum secla fuerunt</l>
+<l>aurea: summa quies passim, pax alta per omnes</l>
+<l>pastores inerat nemorum securaque campis</l>
+<l>pascua cernebas, nusquam formido luporum,</l>
+<l>atque latrocinii nusquam timor, undique cantans</l>
+<l>carpebat tutus noctesque diesque viator</l>
+<l>et securus iter, ipsae meliora capellae</l>
+<l>et distenta magis referebant ubera vaccae,</l>
+<l>et plus lactis oves nostraeque saporis habebant.</l>
+<l>Parce igitur tantis maledictis, Carcale, posthac</l>
+<l>his tu seu maneas, seu sis abiturus ab oris:</l>
+<l>nanque vices variat fallax violentia fati.</l></sp>
+<sp><speaker>CARCALUS</speaker><l>Carpofore, accipito paucis quae sentio verbis:</l>
+<l>tu quia dives eras, haec munera regibus illis,</l>
+<l>sive tributa magis, persolvere tanta solebas.</l>
+<l>At nos, divitias quibus improba fata negarunt,</l>
+<l>multaque turba sumus, tantum iustum esse putamus</l>
+<l>persolvisse nihil: mihi sunt nanque undique nati</l>
+<l>nataque (quod cruciat) iam praematura marito,</l>
+<l>cui iam nupturae non est satis una iuvenca,</l>
+<l>non duo sunt hedi, non quattuor ordine librae</l>
+<l>lanitii. Quid enim tu talia tempora laudas?</l>
+<l>Implevit tandem pastorum vota suorum</l>
+<l>saepe rogata Pales: nam iam, mihi crede, feremus</l>
+<l>mitius imperium, meliores Gallia mores</l>
+<l>attulit huic regno, tutum fore creditur omni</l>
+<l>valle pecus. Trepidae iam vos gaudete capellae,</l>
+<l>iteque securi iam qualibet, ite, iuvenci!</l>
+<l>Quicquid erit, nostrum illud erit, non regibus hedos</l>
+<l>amplius aut agnos, vitulas nec mittere cogar.</l></sp>
+<sp><speaker>CARPOFORUS</speaker><l>Ergo tibi est animus, mens est tibi certa manendi,</l>
+<l>Carcale. Dii tribuant tutae, precor, ocia vitae,</l>
+<l>atque tuo pecori placidam et sine fine quietem;</l>
+<l>sed saepe augurio bona spes concepta futuro</l>
+<l>fallitur, et vana sperantes decipit aura.</l>
+<l>Ast ego, quod statui, tota cum prole recedam</l>
+<l>cumque mei consorte tori, pecus omneque mecum</l>
+<l>certus agam, venumque dabo, si pascua desint.</l>
+<l>Forsitan exilium nostrum fortuna iuvabit,</l>
+<l>me reddens quandoque casae patriaeque relictae.</l>
+<l>Carcale, tu interea Rhodani cum gente triumpha.</l></sp>
+<sp><speaker>CARCALUS</speaker><l>Tu quoque nobiscum potes his remanere sub oris,</l>
+<l>Carpofore, et patrios felix habitare penates.</l>
+<l>Ire per exilii quis te tormenta coegit?</l>
+<l>Quis te Campanis prohibet consistere terris?</l>
+<l>Dulce tibi fuerit sub Gallica vivere iura.</l></sp>
+<sp><speaker>CARPOFORUS</speaker><l>Nil mihi dulce meis poterit sine regibus esse,</l>
+<l>immo etiam misero fuerit iam vivere amarum.</l>
+<l>Vivere num potero miser in regionibus istis</l>
+<l>unde mei extorres modo sic abiere per undas</l>
+<l>Trinacrias cuncti, sed nulla ob crimina, reges?</l>
+<l>Ah, peream potius cum prole, uxore, capellis,</l>
+<l>quam mea tam duris rigeant praecordia fibris!</l>
+<l>Turbasti o nostram cur Gallia saeva quietem?</l>
+<l>Nempe tuis poteras regnis contenta manere.</l>
+<l>Quid tibi Aragoneae gentis domus inclyta fecit?</l>
+<l>Quaeve tuis regnis iniuria venit ab illa?</l>
+<l>Non armata tuas unquam penetravit ad Alpes</l>
+<l>illa, ne insidias contra tua sceptra paravit.</l>
+<l>Campanos sed enim tu milia mille quietos</l>
+<l>impia sparsisti passim sine more per agros</l>
+<l>et cum Teutonicis foedasti haec regna catervis.</l>
+<l>Vivite, si liceat, vos me qui semper amastis</l>
+<l>pastores alii! Cras his me cedere terris</l>
+<l>et migrare palam vestrum me quisque videbit.</l>
+<l>Pro reditu, vos oro, meo date vota precesque,</l>
+<l>ut liceat patrios aliquando revisere fines</l>
+<l>vobiscumque mori, quod ne tamen esse futurum</l>
+<l>credite, Aragoneos videam nisi regna tenere.</l>
+<l>Maxime rex superum, tota cum gente deorum</l>
+<l>te precor ut vanos non haec mea vota per Euros</l>
+<l>ire velis, nostris nec enim tibi, maxime, coeptis</l>
+<l>victima pauca cadet, sed cuncta armenta dabuntur</l>
+<l>nostra tuis cultris, nec non ab ovilibus agni</l>
+<l>quot quot erunt, et pingue ferent hedilia quicquid.</l></sp></div1>
+<div1 type="egloga"><head>AEGLOGA QUINTA</head>
+<argument><p>De regibus Aragon&lt;eis&gt;</p></argument>
+<stage>Daunus et Salentinus introducuntur quaerentes uxores amissas</stage>
+<sp><speaker>DAUNUS</speaker><l>Quid tu etiam has silvas quid, Salentine, pererras?</l>
+<l>Solus et infelix similis mihi flere videris</l>
+<l>amissam uxorem. Nunquid tu forsitan illam</l>
+<l>quaeris et ignoras qua parte sit orbis eundum?</l>
+<l>Non agis aut tauros, aut, Salentine, capellas,</l>
+<l>non canibus comitatus ades. Quo tendis? Et huius</l>
+<l>erroris quae causa tui? Rogo, siste parumper!</l></sp>
+<sp><speaker>SALENTINUS</speaker><l>Me quoque participem voluit fortuna malorum</l>
+<l>tantorum, quae, Daune, vides. Meritoque fatebor</l>
+<l>illa pati, miseram nec parcam perdere vitam,</l>
+<l>quod veters reges fatua modo mente perosus</l>
+<l>stultus adoravi qui venit ab axe tyrannum</l>
+<l>saepius et Belgas captus novitate vocavi.</l>
+<l>Ergo tui nostros tibi monstravere dolores</l>
+<l>et quia consimili concussus sorte vagaris</l>
+<l>amissam uxorem me quaerere, Daune, notasti.</l>
+<l>Quam vellem falsus vates mihi, Daune, fuisses!</l>
+<l>Atque utinam sola viduus consorte carerem:</l>
+<l>vae mihi, sed geminas hodie rapuere sorores,</l>
+<l>quas puto tu noras, non inferiora Sabinis</l>
+<l>pectora servantes! Sed quid vixisse pudice</l>
+<l>profuit? Imprimis genus hoc immane pudicas</l>
+<l>persequitur, fruitur stupro fruiturque rapinis.</l></sp>
+<sp><speaker>DAUNUS</speaker><l>Par scelus est igitur nostrum, par causa nefandi,</l>
+<l>Salentine, mali: meruit mala mortis uterque</l>
+<l>et dare tam magno meritas pro crimine poenas,</l>
+<l>huius agi in praeceps quod amavimus ocia regni.</l>
+<l>At non Belgarum coniux mea casta rapinas</l>
+<l>Sandra merebatur, quae mecum laeta ducentos</l>
+<l>fovit heri et plures intra magalia Gallos</l>
+<l>fronte alacri manibusque piis verbisque benignis</l>
+<l>pinguibus ac dapibus, quales de more parare</l>
+<l>rustica mensa potest. Illuc ego promptus et illuc</l>
+<l>dum studeo plenis nova fercula ponere mensis</l>
+<l>educoque pedem per limina aperta frequenter</l>
+<l>sublata interea nusquam mihi Sandra reperta est,</l>
+<l>quam miser, ut cernis, nemorum per devia quaero.</l></sp>
+<sp><speaker>SALENTINUS</speaker><l>Heu vereor mortem ne sponte petamus uterque!</l>
+<l>Nam quid, si invenias uxorem, Daune? Quid inde</l>
+<l>si de barbarie vel rapta uxore queraris,</l>
+<l>Daune? Statim gladio iugulum prebere necesse est.</l>
+<l>Non peccata putant Galli mortalia septem:</l>
+<l>quicquid enim ingluvie turpique libidine peccant,</l>
+<l>has inter gentes actus venialis habetur.</l>
+<l>Dic quid ages igitur? Statuisne longius ire,</l>
+<l>an repedare domum? Mihi nam iam sistere mens est,</l>
+<l>ulterius nec ferre pedem, quia, Daune, reliqui</l>
+<l>omne pecus, quod credo hodie cum coniuge raptum</l>
+<l>ducitur in praedam. Nam si fortuna perire</l>
+<l>hoc quoque permisit, reliqua est spes nulla salutis,</l>
+<l>Belgarum quoniam quum fessa libido iacebit,</l>
+<l>germanas gravida cum coniuge forte remittent.</l></sp>
+<sp><speaker>DAUNUS</speaker><l>Quid faciam quaeris? Tu, Salentine miselle,</l>
+<l>consule de nostris pariter quid rebus agendum:</l>
+<l>nam sapis, et quoniam video te vera loquentem</l>
+<l>illud agam quod ages: ego sum vix nanque superstes.</l></sp>
+<sp><speaker>SALENTINUS</speaker><l>Daune, per has silvas uxorem quaerere vanum est,</l>
+<l>illa quod Appuliae vicina per oppida fertur</l>
+<l>aut iam Locrenses deducta est praeda per arces.</l>
+<l>Verte pedem, atque tuam sic quaerere desine Sandram</l>
+<l>quae tibi vel dives, vel saltem foeta redibit.</l></sp>
+<sp><speaker>DAUNUS</speaker><l>Me miserum, quid ais? Quid, Salentine, iocaris?</l>
+<l>An si foeta domum redeat tibi forsitan uxor,</l>
+<l>illam intra postquam meditaris habere penates?</l></sp>
+<sp><speaker>SALENTINUS</speaker><l>Daune, mihi credas, non est, quod dico, iocari.</l>
+<l>Cur non pregnantes recipi mereantur, et illud</l>
+<l>tollere quod parient, fuerit seu foemina, vel si</l>
+<l>mascula progenies? Ut quos ita protinus omnes</l>
+<l>fovimus, et toto quos expectavimus anno,</l>
+<l>nascantur nobis etiam de coniuge Galli,</l>
+<l>et quoniam votis respondent fata secundis</l>
+<l>ut testamentis succedat Gallia nostris!</l></sp>
+<sp><speaker>DAUNUS</speaker><l>Tu felix igitur iam, Salentine, profecto</l>
+<l>non modo qui haeredem Gallo de sanguine dulcem</l>
+<l>venturum expectas, sed eodem sanguine iam iam</l>
+<l>sic tua barbarica replebis ovilia prole:</l>
+<l>nam tibi tergeminos referat tua forsitan uxor</l>
+<l>et plures parient tibi, Salentine, sorores:</l>
+<l>sunt foecunda magis quia Gallica femina nostris.</l></sp>
+<sp><speaker>SALENTINUS</speaker><l>Quid tum si redeant utero pregnante sorores,</l>
+<l>Gallorumque gregem pariant hinc inde reversae?</l>
+<l>Custodire pecus melius sic, Daune, licebit:</l>
+<l>non modo pastores ovium sint ocius omnes,</l>
+<l>si fortuna mares tribuat, si foemina nobis</l>
+<l>noscatur, nostro volo pascat monte capellas.</l></sp>
+<sp><speaker>DAUNUS</speaker><l>Dicere iam fas est te, Salentine, beatum,</l>
+<l>qui tot pastores Senonum de gente moraris.</l>
+<l>Nulla magis caute gens hac pecuaria tractat,</l>
+<l>et, quod erit mirum, poterunt ediscere linguam</l>
+<l>Gallorum et mores et Gallica verba capellae.</l>
+<l>At si nostra marem pariat mihi Sandra, magistrum</l>
+<l>cauponae faciam; fuerit si foemina partus</l>
+<l>ante lupanaris prostabit limina cellae.</l>
+<l>Sed iam Phoebus equos Zephyri festinat ad undas</l>
+<l>dum mala quae patimur frustra sectamur uterque.</l>
+<l>Protinus hinc nostrae repetamus culmina villae.</l>
+<l>Nam tua iamdudum sedit sententia cordi,</l>
+<l>Salentine, mihi: vanum est nos longius ire!</l>
+<l>Ipse tuas iam carpe vias (ego nanque revertar</l>
+<l>qua tuleram gressus) et quum tibi reddita coniunx</l>
+<l>fuderit hos partus, me, Salentine, vocandum</l>
+<l>curabis, quoniam statui tibi compater esse.</l></sp>
+<sp><speaker>SALENTINUS</speaker><l>O bene quam dixti: primum te, Daune, vocabo</l>
+<l>compatris ad fontes, et tu compesce dolores</l>
+<l>interea magnos, donec tua Sandra redibit.</l></sp>
+<sp><speaker>DAUNUS</speaker><l>Quam merito patimur nos haec tormenta malorum</l>
+<l>pastores, etiam multo peiora merentes,</l>
+<l>rura per Appuliae cuncti qui vota frequentes</l>
+<l>sparsimus, ut regni tandem diadema novaret</l>
+<l>Parthenope, et nostris melius daret ocia rebus!</l>
+<l>Scilicet haec data sunt pastoribus ocia tantum</l>
+<l>ut iaceant viduo socia sine coniuge lecto.</l>
+<l>Ibo domum, nec chara domi te Sandra videbo.</l>
+<l>Anne domi potero solus sine coniuge tanta</l>
+<l>vivere? Sed rumpant potius mihi stamina Parcae!</l>
+<l>I nunc, Daune; miser iam “Francia, Francia!” clama</l>
+<l>rura per Appuliae. Veteres migrate tyranni</l>
+<l>gentis Aragoneae: sic deperiisse feruntur</l>
+<l>tranquillo ranae quondam de rege querentes.</l></sp></div1>
+<div1 type="egloga"><head>AEGLOGA SEXTA</head>
+<argument><p>De fide Cantalyca servata regibus Aragonensibus Allegoricos</p></argument>
+<stage>Pamphilus pastor introducitur fugiens Gallorum furores, per quem Cantalicius intelligitur</stage>
+<l>Horrebant patriae ventis glacialibus Alpes</l>
+<l>et coelum densabat hyems, via quaeque rigebat</l>
+<l>invia facta gelu, passim nix alta iacebat,</l>
+<l>sparserat et nostras se Gallia saeva per oras,</l>
+<l>Parthenopesque mei deserto stemmate reges</l>
+<l>per Siculas ierant fatis urgentibus undas,</l>
+<l>a quibus haud ullo regni gens tota pudore</l>
+<l>descierat populique omnes in sceptra rebelles</l>
+<l>Gallica voce novum magna diadema vocabant,</l>
+<l>praeter Cantalyci fidissima tecta popelli,</l>
+<l>solus Aragoneos forti qui voce sonabat,</l>
+<l>promptus barbaricis opponere pectora telis</l>
+<l>et pro rege suo mortis genus omne subire.</l>
+<l>Pastorum quum sola fides luxuria decusque,</l>
+<l>Pamphilus obsessa patria modo pastor abibat</l>
+<l>Belgarum fugiens iras Senonumque furores</l>
+<l>et sibi iuratae discrimina plurima mortis,</l>
+<l>nocte dieque suos quod fidus arundine reges</l>
+<l>et quod Aragoneae gentis memoranda canebat.</l>
+<l>Ille, velut Phrygius dux quondam montibus Idae</l>
+<l>cum patre sublato natoque haud passibus aequis</l>
+<l>ibat, anhelantes adverso monte nepotes</l>
+<l>corde gemente trahens: hunc nam cervice gerebat,</l>
+<l>hunc dextrae implicitum, laevae miserabilis illum</l>
+<l>et tamen a lasso pendebat fistula collo</l>
+<l>pastoremque suum semper comitata fidelem;</l>
+<l>anteibant dominum per dura cacumina montis</l>
+<l>insignes gemini magna virtute molossi</l>
+<l>servantesque sui domini vestigia semper.</l>
+<l>Non procul illius sic iam fugientis adhaerens</l>
+<l>turba premebat iter, cui, si via nota fuisset,</l>
+<l>non poterat saevae vitare pericula mortis;</l>
+<l>sed quum sentiret strepitum pius ille sequentum</l>
+<l>vota Pali Phoeboque facit, sic corde profatus:</l>
+<l>“Magna Pales cui sacra damus, quam thure meroque</l>
+<l>pastores colimus, viridi cui cespite in agris</l>
+<l>de grege iure frequens pinguis cadit hostia nostro,</l>
+<l>da mihi barbaricas evadere, sancta, catervas</l>
+<l>insonti, nec enim Gallorum crimine quenquam</l>
+<l>laesimus, illorum nec per vineta capellas</l>
+<l>egimus, aut ovium mandras immisimus agris.</l>
+<l>Et tu, Phoebe pater, precor, auxiliare ruenti</l>
+<l>pastori, qui magna meis tua munera septis</l>
+<l>accipis, et sacris cui nostra altaria fumant;</l>
+<l>tu quoque pastorum placidum nam numen haberis:</l>
+<l>inter pastores olim pecorisque Pheraei</l>
+<l>pastor eras regisque tui pecus omne regebas,</l>
+<l>cui mea continuum meditatur fistula carmen</l>
+<l>semper et assiduis precibus tua limina pulsat”.</l>
+<l>Sic ait et tandem montana per avia Gallos</l>
+<l>effugit et tutus biduo pervenit ad Umbros,</l>
+<l>plus ubi quae fuerat passus memoranda timebat</l>
+<l>quam modo quum fugeret per aperta pericula mortem,</l>
+<l>non secus ac pelagi saevas post nauta procellas</l>
+<l>in non sperato qui vela madentia portu</l>
+<l>colligit et renovat casus memorando pavorem.</l>
+<l>Attamen ut rediit fessos per spiritus arctus</l>
+<l>sedulus ingentes laudes regumque suorum</l>
+<l>fata recantabat, nec adhuc cantare per Umbros</l>
+<l>desinit, has fundens fido de pectore voces:</l>
+<l>“Quando ego laetus oves per Daunia rura reducam</l>
+<l>et mea tam tutis campis armenta fovebo?</l>
+<l>Quando ego Parthenope pulsum te, Galle, videbo,</l>
+<l>interturbator nostrae fractorque quietis?</l>
+<l>Nanque, mihi ut referunt, alias furor ille Latinis</l>
+<l>urbibus irrupit Romanaque moenia coepit</l>
+<l>et Capitolinis iniecit rupibus ignem,</l>
+<l>sed tamen haud unquam regni successibus aequis</l>
+<l>turpiter hinc semper spoliis abiere relictis,</l>
+<l>quod fore nunc etiam spero, pater optime divum,</l>
+<l>huic nisi tam saevae mens est tibi cedere genti.</l>
+<l>Quando ego Aragoneos cunctos ex ordine reges</l>
+<l>in patriam Siculo mirabor ab orbe reversos,</l>
+<l>sedibus inque suis mertissima sceptra tenentes?</l>
+<l>Quando etiam tanta pastores pace fruemur,</l>
+<l>quanta fuit toto regno regnantibus illis?</l>
+<l>Qualibet extorres ierant regione latrones,</l>
+<l>nulla viatores aliquos formido tenebat;</l>
+<l>fas erat et dulces sub qualibet arbore somnos</l>
+<l>carpere, cumque suis balantes matribus agni</l>
+<l>laetitiae tunc signa dabant, brumaque reversa</l>
+<l>Appula sponte sua repetebant pascua vaccae;</l>
+<l>Bacchus ubique dabat large sua dona, Ceresque</l>
+<l>luxuriabat agris; perque oppida cuncta, per urbes,</l>
+<l>nusquam fracta fides, nusquam violentia, nusquam</l>
+<l>coniugis amissae deflebat damna maritus.</l>
+<l>At nunc (invidiae quia sic voluere tumores)</l>
+<l>sub pede barbarico lachrymat Campania tota</l>
+<l>pressa iacens Calabrumque solum, gemit undique tellus</l>
+<l>Daunia, Peligni, Marsique Equique dolentes,</l>
+<l>Parthenope pulsat coelum foedata querelis,</l>
+<l>semper Aragoneis quondam exaltata triumphis.</l>
+<l>Non usquam pastor, non usquam tutus arator,</l>
+<l>villicus haud usquam, parvi vel cultor agelli;</l>
+<l>ulla viatori non est tutela viarum,</l>
+<l>qualibet invadunt nunc in regione latrones,</l>
+<l>Belgarum in praedas abeunt armenta gregesque</l>
+<l>deque viri rapitur mediis complexibus uxor,</l>
+<l>et patitur stuprum castissima virgo nefandum,</l>
+<l>et, quod inauditum, vetulae rapiuntur, et illae</l>
+<l>sacrarunt Vestae quae virginitatis honorem.</l>
+<l>Sicca videt penitus vino sua dolia Bacchus</l>
+<l>passaque sunt Cereris granaria cuncta rapinas</l>
+<l>passaque sunt Cereris granaria cuncta rapinas</l>
+<l>et, ne quid desit, leges siluere Latinae:</l>
+<l>nusquam iustitiae, nusquam pietatis honores.</l>
+<l>Mi, quia cantabam regum memoranda meorum</l>
+<l>facta, necem misero rapta mihi pelle minantur;</l>
+<l>vivo tamen, cantoque tamen de regibus illis,</l>
+<l>semper et illorum canet haec mea fistula laudes</l>
+<l>et mihi pascuntur tutis duo milia campis</l>
+<l>securi pecoris: scio nam regionibus illis</l>
+<l>Gallus abest, nec Piceni malus ocia vexat,</l>
+<l>at mea barbaricae modo quae cinxere phalanges</l>
+<l>parvula Cantalycae fidissima moenia gentis</l>
+<l>non pavitant aliquas animo constante cateias,</l>
+<l>victa nec horrificis poterunt dare pectora bombis,</l>
+<l>immo ferent meritos pulsae obsidionis honores,</l>
+<l>meque revocabunt post tanta pericula tutum</l>
+<l>cum pecore et canibus parvisque nepotibus illuc.</l>
+<l>Non ego sed patriae repetam, mihi credite, fines</l>
+<l>certus Parthenopes sciero nisi sceptra receptae,</l>
+<l>expulit unde meos tam saeva rebellio reges.</l>
+<l>O ego quam dulcis fuero tunc carmine pastor,</l>
+<l>si meus in solium redeat rex magnus avitum!</l>
+<l>Vicerit Eurydices tunc fistula nostra maritum</l>
+<l>et quem cum cithara servavit Ariona delphin</l>
+<l>et qui mellifluo fundavit carmine Thebas.</l>
+<l>Quod mihi si illorum reditum fortuna negarit,</l>
+<l>non procul a patria cupio dissolvere corpus,</l>
+<l>et mea si quisquam dignabitur ossa sepulchro,</l>
+<l>hoc super illud amans dignabitur addere carmen:</l>
+<l>“Pastores inter pecoris notissima fama</l>
+<l>Pamphilus hic iaceo, peregrinis raptus in oris</l>
+<l>sed potui potius qua vis tellure perire</l>
+<l>quam pius in patria sub Gallica vivere iura””.</l>
+<l>Talia pastores noctesque diesque canentem</l>
+<l>excipiunt illum magnis cum laudibus Umbri:</l>
+<l>haec pietas, haec vera fides, hic cordis amantis</l>
+<l>verus amor, non qui rebus retro cedit iniquis</l>
+<l>et solum in rebus qui novit amare secundis.</l></div1>
+<div1 type="egloga"><head>AEGLOGA SEPTIMA</head>
+<argument><p>An Ferdinandus rex sit in regnum rediturus</p></argument>
+<stage>Crotus et Cobalu&lt;s&gt; pastores Appuli introducuntur</stage>
+<sp><speaker>CROTUS</speaker><l>Cobale, sub corylo quid cornicaris opaca?</l>
+<l>Audio nanque tuae iamdudum murmura vocis,</l>
+<l>dum sequor errantes haec per dumeta capellas</l>
+<l>et defessa parum compostus membra sederem;</l>
+<l>nescio Aragonei modo quid de regis agebas</l>
+<l>fortuna et risum interea tecum ipse movebas:</l>
+<l>Dic, rogo, quicquid erat, quanvis ego scire quid esset</l>
+<l>auguror, es quoniam Belgarum semine natus.</l></sp>
+<sp><speaker>COBALUS</speaker><l>Non ego, Crote, fui Belgarum semine natus,</l>
+<l>sed genus et nomen fateor me gentis amare,</l>
+<l>liberat has saeva quae sola tyrannide terras,</l>
+<l>de quibus hic mecum solus modo rebus agebam.</l></sp>
+<sp><speaker>CROTUS</speaker><l>Cobale, quam loqueris quaenam fuit ista tyrannis?</l>
+<l>Spero dabis meritas aliquando, Cobale, poenas</l>
+<l>pro factis dictisque tuis. Nuperne receptam</l>
+<l>Parthenopen nescis, Capuanae et moenia gentis,</l>
+<l>et Martis Veneti cecidisse in retia Belgas,</l>
+<l>et fidei antiquae populos ad iura reverti?</l></sp>
+<sp><speaker>COBALUS</speaker><l>Nescio, sed quid tum? Scio Gallia continet arces</l>
+<l>Parthenopes regnique omnes, et possidet ampla</l>
+<l>Caietae castella manu. Nil proderit aura</l>
+<l>plebis Aragoneis, nam stirps invisa per orbem</l>
+<l>nunc mendicat opem; non illi ex more petitas</l>
+<l>suppetias gens ulla dabit, rex Gallicus ille</l>
+<l>ducet in hoc regnum rursus bonus agmina Xerxis</l>
+<l>non modo, Parthenopen quae ad Gallica sceptra reducent,</l>
+<l>Italiae sed iura dabit legesque subactae.</l>
+<l>Arma quis effugiet, quis Gallica tela, quis astus?</l></sp>
+<sp><speaker>CROTUS</speaker><l>Non noram augurii te, Cobale, scire per artes</l>
+<l>dicere de rebus praesentibus atque futuris.</l>
+<l>An tibi consimilis praedixit talia bubo,</l>
+<l>Cobale, vel tales cecinit tibi noctua cantus?</l>
+<l>O nebulo, Italiae nescis latus omne moveri</l>
+<l>regis in auxilium nostri? Quid inania iactas</l>
+<l>verba, miser? Quid adhuc castella retenta, quid arces</l>
+<l>obiicis et speras venturi quid agmina Xerxis?</l>
+<l>Non bis plena sibi renovabit cornua Phoebe,</l>
+<l>quum debellatis omnes custodibus arces</l>
+<l>gentis Aragoneae cernes ad sceptra reverti,</l>
+<l>cui tandem eiectis reddet deus omnia Gallis.</l></sp>
+<sp><speaker>COBALUS</speaker><l>Crote, ego non augur nec vaticinator habendus,</l>
+<l>nec me solertem volucres fecere futuri,</l>
+<l>sed me harum rerum fecit natura peritum.</l>
+<l>Ipse velim dicas, quibus auxiliaribus armis</l>
+<l>res geritur: Latias non est gens ulla per oras</l>
+<l>auxilio eiectis merito ventura tyrannis</l>
+<l>et qui Parthenopen modo restituere rebelles,</l>
+<l>insidias iidem rursus bellumque novabunt.</l>
+<l>Nunquid adhuc nescis quam sit mutabile vulgus?</l>
+<l>Interea sed tu maledictis parce loquendo,</l>
+<l>nam scio pro verbis tibi reddere verba nefandis.</l></sp>
+<sp><speaker>CROTUS</speaker><l>Talia sic mecum quid, Cobale, fundis, inepte?</l>
+<l>An patrem ignoras Romanae sedis amicas</l>
+<l>erexisse manus et suscepisse tuendum</l>
+<l>regnum Parthenopes, caput et pro regibus illis</l>
+<l>ponere apostolicum nec non diadema paratum?</l>
+<l>Iam iam perspicies valeat quid Borgia mitra</l>
+<l>et quantas habeat cernes gens Borgia vires,</l>
+<l>nobile cui tribuit generosa Valentia nomen:</l>
+<l>illa dedit geminos Christi vice, Cobale, patres,</l>
+<l>qui Vaticani sanctum tenuere tribunal,</l>
+<l>saepius et rutilo fulsit decorata galero.</l>
+<l>Sextus Alexander sed qui nunc praesidet arci,</l>
+<l>nuper et invicta misit cum gente nepotem,</l>
+<l>haereat ut lateri, donec sit victor, amico</l>
+<l>regis Aragonei, cui dent rogo fata salutem.</l></sp>
+<sp><speaker>COBALUS</speaker><l>Crote, quid iste nepos? Dic, quam valet, obsecro, ferre</l>
+<l>solus opem? Non iste potest stabilire labantem</l>
+<l>Parthenopen, tenui gravis exit ab obice torrens.</l></sp>
+<sp><speaker>CROTUS</speaker><l>Quam bene torrentem dixisti, Cobale, Gallos:</l>
+<l>sicut enim aestivo siccatur tempore torrens,</l>
+<l>qui fuerat magnum brumali tempore flumen,</l>
+<l>sic illos Latias modo qui fluxere per oras</l>
+<l>cumque suis stabulis passim pecus omne tulerunt,</l>
+<l>aestibus atque siti siccabit Borgia proles.</l>
+<l>Ignoras iuvenem Cotfredo, Cobale, natum</l>
+<l>moribus et qualis, vel quantus pectore, quantus</l>
+<l>consilio atque animo Ioannes Borgia quantus;</l>
+<l>Parthenopes sed enim postquam sunt tecta recepta</l>
+<l>missus Aragoneo regi est tutela salusque,</l>
+<l>non digressurus, nisi pulsis undique Gallis,</l>
+<l>et cito cardineos ibi percepturus honores.</l></sp>
+<sp><speaker>COBALUS</speaker><l>Unde tibi, quaeso, fuit haec tam nota propago?</l>
+<l>Nanque ego quot pascis; puto te nescire capellas,</l>
+<l>Crote, tuas; demens, quid talia somnia fingis?</l></sp>
+<sp><speaker>CROTUS</speaker><l>Dementem appellas? Et me tibi somnia vana</l>
+<l>fingere, inepte, putas? Scio nomina nempe mearum</l>
+<l>cuncta capellarum, scio quot sunt matribus agni</l>
+<l>et mihi quot fortes sudent ad aratra iuvenci.</l>
+<l>Unde mihi quaeris sit Borgia nota propago,</l>
+<l>nulla magis totum qua stirps est nota per orbem?</l>
+<l>Sed tibi qui potuit gens Borgia tanta vel unde</l>
+<l>nota patere, miser, nunquam versate per urbes,</l>
+<l>incola silvarum nemorumque habitator et antri,</l>
+<l>quem puto non numerum digitorum nosse nec ungues</l>
+<l>quot manibus gestas? Iuvenis quid Borgia possit,</l>
+<l>Cobale, iam cernes, quantum valet arte videbis</l>
+<l>pectore, consilio, lingua, sermone manuque,</l>
+<l>moribus, ingenio, quam strenuus hostibus hostis.</l></sp>
+<sp><speaker>COBALUS</speaker><l>Ergo tuis rebus satis est tibi Borgia proles,</l>
+<l>Parthenope. Insanis, vanum est, mihi crede, loquendo</l>
+<l>quicquid ais: rursus Senonum Campania turmas</l>
+<l>perferet, eiectis rursus male regibus istis</l>
+<l>gentis Aragoneae cunctis, nec Borgia tantis</l>
+<l>eripiet se mitra malis. Volet omnia Gallus</l>
+<l>sub sua sceptra, potens dominus terraeque marisque</l>
+<l>unicus in mundo, qui pro Iove regna tenebit.</l></sp>
+<sp><speaker>CROTUS</speaker><l>Cobale, qui fueras iam pridem carcere dignus,</l>
+<l>qui claudit reseratque fores coelestis Olympi</l>
+<l>sic audes de patre loqui? Dare Borgia regnum</l>
+<l>mitra potest et cuncta potest ea tollere terris,</l>
+<l>Hesperii regis cui se iunxere phalanges.</l>
+<l>Scis habeat forsan quantas Hispania vires</l>
+<l>horrida, nec desunt Germani Caesaris arma,</l>
+<l>magnanimumque suum quibus addidit Anglia regem</l>
+<l>et Ligurum princeps qui temperat anguifer oras,</l>
+<l>Sfortiadasque regit populos temone sub uno.</l>
+<l>Quid referam Venetûm vires artesque potentes,</l>
+<l>quos ego non solum cunctis plus posse Latinis</l>
+<l>crediderim populis, toto plus posse sed orbe,</l>
+<l>qui superant alios argenti et montibus auri,</l>
+<l>atque suas agitant classes maria omnia circum,</l>
+<l>expanduntque manus alio sub sole frequentes?</l>
+<l>Vincere quis poterit terrestri Marte, quis illos</l>
+<l>navali poterit vel propulsare duello?</l>
+<l>Qualiter antiquos aequant virtute Quirites,</l>
+<l>quorum erat in rebus positus non terminus ullus!</l>
+<l>His coniuncta tuos Gallos non Borgia vincet</l>
+<l>dextera? Vae misero tibi, qui cupis, improbe, Gallos!</l></sp>
+<sp><speaker>COBALUS</speaker><l>Hoc sine si vicit regnum mucrone recluso</l>
+<l>Carolus, hoc vincat cur non stricto ense revertens?</l></sp>
+<sp><speaker>CROTUS</speaker><l>Nulla nec obstantes populos devincere laus est.</l>
+<l>Prodidit Italiae livor malus obvia Gallis</l>
+<l>Limina et Euboici populi diuturna simultas.</l>
+<l>Non via barbarica patuit vi facta, nec illis</l>
+<l>fecit iter virtus: nam quid valuere cohortes</l>
+<l>regis Aragonei populis prodentibus urbes</l>
+<l>claustraque portarum cunctis reserantibus hosti?</l>
+<l>Scis bene quantus erat qualisque Alfonsus in armis,</l>
+<l>non modo quem gentes omnes tremuere Latinae,</l>
+<l>magna sed unus erat terrae formido marisque.</l>
+<l>Quid faceret tantis clausus rex ille periclis?</l>
+<l>Cessit et a nato quondam reparanda reliquit</l>
+<l>omnia: norat enim iam iam fugitura Ruteni</l>
+<l>agmina, quod superi menses post quinque dederunt.</l>
+<l>Quare, age, de Gallis iam desine, Cobale, pulsis,</l>
+<l>stulte, loqui, ni forte velis armenta loquendo</l>
+<l>cum pecore et miseram forsan deperdere vitam</l>
+<l>et tua Aragoneum resonet iam fistula regem.</l></sp>
+<sp><speaker>COBALUS</speaker><l>Crote, equidem moriar quavis ego morte, priusquam</l>
+<l>excidat ex animo Galli mihi nomen et ore.</l>
+<l>Tu tibi Aragoneum regem cane, Crote, labantem.</l></sp>
+<sp><speaker>CROTUS</speaker><l>Hic hodie, nisi me pietas innata teneret,</l>
+<l>calcibus et pugnis te, Cobale stulte, docerem</l>
+<l>quid sit Aragoneum fando sic laedere regem,</l>
+<l>atque tuo ferres dignas pro crimine poenas.</l></sp>
+<sp><speaker>COBALUS</speaker><l>Anne tuos pugnos credis me, Crote, timere?</l>
+<l>Ipse etiam et pugnis et calcibus impeto ventres;</l>
+<l>sum quoque, sum quoties opus est mordere paratus.</l>
+<l>Utque tibi stomachus crescat magis, accipe, dicam:</l>
+<l>“Vive decus mundi, tu Francia, Francia, vive!”</l></sp>
+<sp><speaker>CROTUS</speaker><l>Non potes hinc hodie pugnis nisi totus acerbis</l>
+<l>calcibus atque meis nisi, Cobale, tunsus abire.</l>
+<l>Hos tibi nunc calces, quia sic bene “Francia” clamas,</l>
+<l>incutio, hos pugnos habeas tibi, Cobale, quod sic</l>
+<l>agmina Gallorum iam iam reditura profaris;</l>
+<l>hos et Aragonei patiaris nomine regis,</l>
+<l>hos tibi pro meritis infringit Borgia calces.</l>
+<l>I, nunc, de Gallis et cornicare per agros,</l>
+<l>Cobale, de rebus et vaticinare futuris.</l>
+<l>Forte miser disces quid sit maledicere rebus</l>
+<l>regis Aragonei, disces quoque Borgia quanta est</l>
+<l>clara domus, disces etiam non laedere Crotum.</l>
+<l>Vix me contineo quin te cogam ire sub umbras</l>
+<l>Tartareas, soleo sed non occidere quenquam.</l>
+<l>Vive, sed ut meritus pastorum dedecus et faex;</l>
+<l>vive deis superis cunctis invisus et imis</l>
+<l>atque vale Crotique tui quandoque memento.</l></sp>
+<sp><speaker>COBALUS</speaker><l>Ferte inopi auxilium misero, succurrite, quaeso,</l>
+<l>pastores! Quid enim merui fecive malorum?</l>
+<l>Imperiumne tenet nostris hic Crotus in oris?</l>
+<l>Sic fuit et nobis libertas rapta loquendi?</l>
+<l>Est ubi terrarum fandi non libera lingua?</l>
+<l>Sed mereor, quoniam modo sic de rege loquebar</l>
+<l>promptus Aragoneo, nec non de patre supremo</l>
+<l>sedis apostolicae, fuit et mihi laesa propago</l>
+<l>Borgia. Iure igitur dixit bonus ille magister:</l>
+<l>“Praestat et est melius multis aliquando tacere</l>
+<l>quam temere et frustra male perdere verba loquendo”.</l></sp></div1>
+<div1 type="egloga"><head>AEGLOGA OCTAVA</head>
+<argument><p>De cardinali suo Borgia</p></argument>
+<stage>Epolus, Ruffus, Elinus, pastores Latii, introducuntur</stage>
+<sp><speaker>POETA</speaker><l>Moestus eram et, veluti confusa mente solemus,</l>
+<l>per Latios fines nullo comitante vagabar,</l>
+<l>membraque sub patula quercu defessa levabam</l>
+<l>nescius ipse mei, mihi quo tunc esset eundum,</l>
+<l>quum mihi qui fuerant longo iam tempore noti</l>
+<l>Epolus et Ruffus cunctorumque Elinus hospes,</l>
+<l>inter pastores Latios non gloria parva,</l>
+<l>Borgiadum laudes mirandaque verba sonabant.</l>
+<l>Protinus ad nomen conversus et ora loquentum,</l>
+<l>ad me mortifero posito moerore redivi.</l>
+<l>Epolus ad Ruffum sic primum est ore loquutus,</l>
+<l>Elinus inde suas supplebat in ordine partes.</l></sp>
+<sp><speaker>EPOLUS</speaker><l>Ruffe, quid huc properas, quidve huc properando requiris?</l>
+<l>Dic, rogo, quicquid id est, si fas est scire rogando.</l>
+<l>Anne novi quicquam nostros fortuna per agros</l>
+<l>attulit, ut solita est nostram turbare quietem?</l>
+<l>An potius captus sic mente vagaris et erras?</l></sp>
+<sp><speaker>RUFFUS</speaker><l>Epole, non possum tecum hic nunc, parce, morari.</l>
+<l>Nam, cur sic properem, nequeo tibi dicere, nec sum</l>
+<l>demens: sunt nostri, sunt gaudia causa furoris</l>
+<l>maxima; mitte precor, tibi sic armenta gregesque</l>
+<l>crescant et faciles subeant ad aratra iuvenci,</l>
+<l>atque ubi sit noster, cui gaudia talia porto,</l>
+<l>Elinus et pascat dic qua regione capellas.</l></sp>
+<sp><speaker>EPOLUS</speaker><l>Non dicam certe, nisi me prius, ipse rogatus,</l>
+<l>participem facias. Scio se qua valle receptet</l>
+<l>et qua nunc moestas teneat sub rupe capellas.</l></sp>
+<sp><speaker>RUFFUS</speaker><l>Nunquam hodie vinces, ut quae sunt gaudia primus,</l>
+<l>Epole, percipias; potius miracula dices</l>
+<l>et sunt, crede mihi, miracula maxima, vel quae</l>
+<l>maxima mortali raro dare Iuppiter audet:</l>
+<l>Elinus haec primus vollo me referente resciscat,</l>
+<l>cura revertentis cruciat quem saeva doloris.</l>
+<l>Tu nobis ostende locum, quave ille moretur</l>
+<l>parte doce; mecumque veni, si talia sic tu</l>
+<l>scire cupis, vel, quaeso, meum tu dirige gressum.</l></sp>
+<sp><speaker>EPOLUS</speaker><l>Quin potius tecum quam sic remanere profecto</l>
+<l>ferre pedem statuo; sic me hac tu, Ruffe, sequaris.</l>
+<l>Elinus ad quercum veterem sub rupe capellas</l>
+<l>continet atque suos tristes cum matribus agnos.</l>
+<l>Tuque meum interea pecus observare memento,</l>
+<l>Crispe, rogo: raptim (non est via longa) revertar.</l></sp>
+<sp><speaker>RUFFUS</speaker><l>Tandem te video, tandem qua parte moraris,</l>
+<l>Eline care, scio; quid stas moestissime, quid stas?</l>
+<l>Huc ades et lachrymas, gemitus, suspiria, planctus</l>
+<l>comprime, et antiquos tua fistula cantet amores.</l>
+<l>Carpere iam poterunt deserta salicta capellae</l>
+<l>et cythisum tondere suum. Resipisce, quid obstas,</l>
+<l>Eline? Moestitiae non est locus amplius ulli.</l></sp>
+<sp><speaker>ELINUS</speaker><l>Ruffe, quid apportas, quidnam mihi dicito, quidnam,</l>
+<l>quo liceat tantos tandem mollire dolores?</l>
+<l>Sed cave ne fingas quicquam mihi, Ruffe, iocando:</l>
+<l>nota tibi est nostri nam maxima causa doloris.</l></sp>
+<sp><speaker>RUFFUS</speaker><l>Quid dubitas fictis me fingere gaudia rebus?</l>
+<l>Extinctum nuper quem flebas, Borgia noster</l>
+<l>vivit, ab Elysiis hodie tibi redditus oris.</l>
+<l>Quid miraris et haec miracula ficta putasti?</l></sp>
+<sp><speaker>ELINUS</speaker><l>Heu heu me miserum, renovas quid, Ruffe, dolores?</l>
+<l>An licet huic vitae qui concessere relictae</l>
+<l>aethereas illis iterum remeare sub auras?</l>
+<l>Quid me, quid miserum, quid spe sic ludis inani?</l>
+<l>Borgia vivit, ais? Vivit, puto, Borgia fama,</l>
+<l>vivet et astriferum donec teget omnia coelum.</l>
+<l>Ast ubi tam claro facies veneranda decore est,</l>
+<l>illius et radios aequantia lumina solis?</l>
+<l>Sunt ubi nectareos redolentia verba liquores?</l>
+<l>Est ubi magnanimi tam pectoris ampla facultas?</l>
+<l>Est ubi tantus amor, quo se pastoribus ille</l>
+<l>praebuit et nostras iussit sperare capellas?</l>
+<l>Parce, precor, nostros igitur renovare dolores,</l>
+<l>hasque sinas inter me deperiisse capellas.</l></sp>
+<sp><speaker>RUFFUS</speaker><l>Eline, pone tuas lachrymas et crede quod audis:</l>
+<l>Borgia quem lachrymas vivit, mihi crede, reversus</l>
+<l>iam fuerat qualis, rutilo decoratus honore;</l>
+<l>nam, te ne ulterius videar deludere, sic tu</l>
+<l>accipe quae dico: frater germanus eosdem</l>
+<l>cardineos apices accepit Borgia noster</l>
+<l>atque omnes titulos, quos iam germanus habebat.</l>
+<l>Borgia sic noster, sic est a morte reversus.</l></sp>
+<sp><speaker>ELINUS</speaker><l>O faustam laetamque diem! Procul omnia verba</l>
+<l>tristia et ad tegetes villae redeamus ovantes.</l>
+<l>Hinc quoque vos celeres mecum properate, capellae,</l>
+<l>nam licet et vobis ad pascua prisca reverti</l>
+<l>uberaque assueto melius distendere lacte.</l>
+<l>Vos quoque, quae mecum noctesque diesque dolentes</l>
+<l>tristitiam sensistis, oves, deponite curas</l>
+<l>et refovete novis vestris balatibus agnos;</l>
+<l>fundite laetitiam: vivit nam Borgia noster,</l>
+<l>Borgia noster adest, quem flevimus hactenus omnes!</l>
+<l>Vos quoque per campos altaria ponite cuncti</l>
+<l>undique, pastores, pinguisque ab ovilibus aris</l>
+<l>victima quaeque cadat; non est mora, macto ducentos</l>
+<l>ipse agnos, centumque hedos, totidemque iuvencos.</l>
+<l>Quaeque per undenos siluit moestissima menses</l>
+<l>vincat, ut Arcadicos faciam, mea fistula, cantus.</l></sp>
+<sp><speaker>EPOLUS</speaker><l>O bene quam factum est! Cur haec me, Ruffe, rogantem</l>
+<l>gaudia celasti? Scis me quoque non minus esse</l>
+<l>Borgiacum, quam quos produxit Borgia proles.</l>
+<l>Sed quid cessamus? Cur hic producimus horas?</l>
+<l>Ad sacra iam tendamus iter; sit curta supellex</l>
+<l>quanquam, Ruffe, mihi, pecoris grex parvus habento</l>
+<l>quicquid id est arae, simul haec genialis agatur</l>
+<l>et iucunda dies, rediit quia Borgia noster,</l>
+<l>Borgia, quo nobis crescent armenta gregesque.</l></sp>
+<sp><speaker>RUFFUS</speaker><l>Non mihi sunt ovium foetus, non, Eline, tauros</l>
+<l>non vitulas habeo, rapuit nam Gallia nobis</l>
+<l>omne pecus, Latios nuper populata penates;</l>
+<l>sunt tamen argenti veteris sestertia centum</l>
+<l>et puto sunt nummi fulvae mihi mille monetae:</l>
+<l>haec et si qua mihi restant patrimonia cuncta</l>
+<l>fundite, Borgiacos atque instauretis honores,</l>
+<l>et pastoralem positis per compita mensis</l>
+<l>rite vocate chorum. Cressis lux pulchra per agros</l>
+<l>est signanda notis, fument altaria. Quid stas,</l>
+<l>Eline? Carpe viam, simul et properanter eamus</l>
+<l>hinc omnes; properant Pyrous, Eous et Eton</l>
+<l>Oceani fines rapido contingere plaustro.</l></sp>
+<sp><speaker>ELINUS</speaker><l>Vera ait hic fateor, nimium nam, Ruffe, moramur;</l>
+<l>ocyus hac nostras moveamus parte capellas</l>
+<l>hosque greges ovium, quae persentire renatos</l>
+<l>nec non Borgiacos gestire videntur honores.</l>
+<l>Cur non interea, dum sic simul imus, euntes</l>
+<l>Borgiacas canimus magnas ex ordine laudes?</l></sp>
+<sp><speaker>RUFFUS</speaker><l>O utinam vox illa mihi, qua dulcia quondam</l>
+<l>carmina vincebam cygnorum, et carmina quae iam</l>
+<l>remige celato cautus vitavit Ulyxes:</l>
+<l>nympharum omne genus cantu superosque moverem!</l>
+<l>At, quaecumque mihi sit vox, tamen ecce canamus,</l>
+<l>Borgiacasque alacres tollamus ad aethera laudes,</l>
+<l>cantando sed tu gere partes, Eline, primas;</l>
+<l>tu sequere, atque tuas serva post, Epole, partes;</l>
+<l>tertius ipse meas depromam pectore voces.</l></sp>
+<sp><speaker>ELINUS</speaker><l>Immo omnes una melius nunc, Ruffe, canamus,</l>
+<l>alter et alterius toleremus voce laborem.</l></sp>
+<sp><speaker>ELINUS, RUFFUS, EPOLUS</speaker><stage>simul canunt</stage><l>Borgiacas laudes resonet latus omne viarum:</l>
+<l>Borgia te praeter nil nostro in pectore vivit.</l>
+<l>Promptius Oceani magni memorabimus undas,</l>
+<l>quam nos voce tuas referamus, Borgia, laudes,</l>
+<l>quotque orbis nutrit memorabimus ante capellas</l>
+<l>et quot pascuntur per Daunia rura iuvenci;</l>
+<l>immo etiam ranas memorabimus ante palustres</l>
+<l>et convexa polus citius quot sidera pascit.</l>
+<l>Felix quae nobis genuit te, Borgia, tellus,</l>
+<l>inter et Hispanas fortunatissima mater.</l>
+<l>Pascentes nostrae duce te per aperta capellae</l>
+<l>et duce te melius distendent ubera vaccae.</l>
+<l>Borgia, vive diu, Tithoni secula vincens</l>
+<l>Nestoreosque dies, Priami quoque vince senectam.</l>
+<l>Si tibi nostra canit quae fistula, Borgia, amabis</l>
+<l>maior erit nobis non Tityrus aut Meliboeus.</l>
+<l>Qui te quique tuas non cantat Borgia laudes</l>
+<l>carceris obscuris semper lachrymetur in antris.</l>
+<l>Ex animo quisquis non est tibi Borgia amicus</l>
+<l>illius aspectus fugiatur ut ora colubri.</l>
+<l>Ad sacra sed propere, quia sol inclinat, eamus;</l>
+<l>illic Borgiacos melius referemus honores.</l></sp></div1>
+<div1 type="egloga"><head>AEGLOGA NONA</head>
+<argument><p>De discessu Magni Ducis ex Neapoli</p></argument>
+<stage>Sabinus et Parthenopeus pastores</stage>
+<sp><speaker>SABINUS</speaker><l>Ergo Laborinis campis silvisque relictis</l>
+<l>ad patrium remeate solum rupesque, capellae.</l>
+<l>Amplius hac vobis non est regione manendum,</l>
+<l>quanvis latus ager, quanvis sint pinguia rura,</l>
+<l>plusque licet vestro mihi defluat ubere lactis</l>
+<l>multiplicetque gregem maior foetura quotannis.</l>
+<l>I, pecus infelix, modo quod super omnia felix</l>
+<l>dicere te poteras; et tu mea frange cicutas,</l>
+<l>fistula, Menalios, quondam quae vincere cantus</l>
+<l>atque Appennini cautes mollire soebas.</l>
+<l>Non ego Parthenopes festis de more diebus</l>
+<l>moenia iam repetam, non iam castella benigni</l>
+<l>celsa ducis visam, quo me conferre solebam,</l>
+<l>nunc agnos, nunc parva ferens munuscula lactis,</l>
+<l>hedorumve aliquid, semper gratissimus illi:</l>
+<l>intranti clausit nunquam mihi ianitor aulas,</l>
+<l>sed semper patuere fores, mox unde revertens</l>
+<l>magnarum rerum semper spe plenus abibam.</l>
+<l>Ecce reversurus fertur iam classe parata</l>
+<l>Betica regna petens. Mecum deflete, capellae,</l>
+<l>vos etiam miseram sortem, deflete, iuvencae,</l>
+<l>vosque relicturae laetissima pascua, vaccae!</l></sp>
+<sp><speaker>PARTHENOPEUS</speaker><l>Audio pastorem, nisi decipit aura, Sabinum</l>
+<l>et de sorte sua secum nunc multa querentem:</l>
+<l>unde sit haec socii visum libet ire querela.</l>
+<l>Quae mala persequitur nunc te fortuna, Sabine?</l>
+<l>Qui casus, vel quae te sors diversa fatigat?</l>
+<l>Audio te nostra nam de regione capellas</l>
+<l>cogere iamdudum patriaeque parare regressum.</l>
+<l>Quis loca, quis sedem, quis te mutare coegit</l>
+<l>pascua planitiae nunquam cessura Latinae?</l>
+<l>Talia quae colimus non irrigat arva Galesus,</l>
+<l>nec Parmense solum fert talia vellera lanae,</l>
+<l>non Calabri fines, non Appula rura, nec usquam</l>
+<l>ulla salutiferi tanta est clementia coeli.</l>
+<l>Cur pecus, infelix, ad frigora saeva reducis,</l>
+<l>Aprutiasque nives et saxa aequantia coelum?</l>
+<l>Hac potius, si recta sapis, regione manendum est:</l>
+<l>nam quos bellorum campos vexabat Erynnis</l>
+<l>iam reficit tranquilla quies, iam pastor ubique</l>
+<l>securumque pecus sub qualibet arbore somnos</l>
+<l>ducit, et intrepidae pascunt armenta gregesque.</l></sp>
+<sp><speaker>SABINUS</speaker><l>O care ante alios mihi Parthenopee sodales,</l>
+<l>hae sine quas audis non sunt ratione querelae,</l>
+<l>immo etiam certe penetrasse ad sidera voces</l>
+<l>arbitror has nostras. Nunquid quod fama per omnes</l>
+<l>nuntiat ignoras? Discessum classe parata</l>
+<l>moliri et regni penitus dare vela relictis</l>
+<l>nuntiat illa ducem structo iam remige nostrum.</l>
+<l>Quo sine quid faciam miser in regionibus istis,</l>
+<l>unde meis tantum miseris venit aura capellis?</l>
+<l>Quo sine quis nobis defendet pascua, quisve</l>
+<l>raptores mandris ovium prohibebit iniquos?</l>
+<l>Huc omnes fures hoc deficiente recurrent,</l>
+<l>aut omnes subito velut in sua iura latrones,</l>
+<l>forsitan et vestros inter discordia cives.</l>
+<l>Mens erat hos vitam reliquam finire per agros</l>
+<l>atque Laborina cineres occludere terra:</l>
+<l>hoc duce Parthenopes nam dulcia regna tenente</l>
+<l>nil erit his terris quod, Parthenopee, pavescas.</l>
+<l>Hic abeat sed si, dic, quidnam cernere tutum,</l>
+<l>dic, quid securum vel, Parthenopee, quietum</l>
+<l>esse potest? Hominum scis pectora plena tumoris.</l>
+<l>Quam varium studium vulgi et diversa voluntas!</l>
+<l>Ergo hinc cedendum mihi, Parthenopee, putavi,</l>
+<l>ante superveniat mihi quam fortuna malorum,</l>
+<l>et reliquum vitae, si quid mihi restat agendum,</l>
+<l>celsa per Aprutii perque aspera saxa nivesque</l>
+<l>degere fert animus. Tuque hinc, si forsitan ire</l>
+<l>ipse voles etiam, poteris magalia mecum</l>
+<l>et patrias habitare casas mecumque morari</l>
+<l>tutius eventus rerum casusque futuros.</l></sp>
+<sp><speaker>PARTHENOPEUS</speaker><l>Est tibi mens certe nimium praesaga malorum.</l>
+<l>Certa recessuri non est, mihi crede, Sabine,</l>
+<l>fama ducis magni, tamen hunc velut ora loquuntur</l>
+<l>pone recessurum. Nunquid non dicit eundem</l>
+<l>fama reversurum? Non it mansurus Iberis</l>
+<l>ille diu, partos nam vult rex ille triumphos</l>
+<l>noscere Parthenopes et retractare cohortes</l>
+<l>militibusque suis meritum cuiusque laboris</l>
+<l>reddere, et imperii puto vult disponere partes</l>
+<l>ad ducis arbitrium nostri, qui regna redemit</l>
+<l>Marte suo solus. Non est celeberrima regis</l>
+<l>Catholici tam parva fides: quisnam aptior alter</l>
+<l>haec pro rege suo sustentat stemmata, quisnam</l>
+<l>continet hoc melius gentes temone sub uno?</l>
+<l>Gentibus hic merito colitur, veneratur, amatur</l>
+<l>proque sui cunctis animi virtute timetur.</l>
+<l>Et mores hominum novit, populique recenset</l>
+<l>nomina quaeque sui: non est prudentia, non est</l>
+<l>consilium regni placidam turbare quietem.</l>
+<l>Quare, age, siste pecus, nec te mutata, Sabine,</l>
+<l>terra iuvet, non est melior sub sidere campus,</l>
+<l>est ubi, crede, mori melius quam ducere vitam</l>
+<l>Nestoreos orbis quavis sub parte per annos.</l></sp>
+<sp><speaker>SABINUS</speaker><l>Si fore non dubitem mihi, Parthenopee, quod inquis,</l>
+<l>hoc ego non ausim coelum mutare nec auras.</l>
+<l>Sed quis, quaeso, potest cognoscere fata futuri</l>
+<l>temporis, aut tanti quis novit pectora regis?</l>
+<l>Quis scit an extremos dux hic mittatur ad Indos,</l>
+<l>aut hic infidos si dimittatur ad Aphros,</l>
+<l>extremas vel si Morinum mittatur ad oras?</l>
+<l>Catholicus rex magnus avet submittere gentes</l>
+<l>cunctas, quae Christi sunt ad vexilla rebelles,</l>
+<l>maioresque duces hoc non habet ordine toto.</l>
+<l>Immo cupit quoties ad magna incepta cohortes</l>
+<l>mittere, posthabitis aliis iubet ardua magnum</l>
+<l>ducere castra ducem. Gemino mihi scinditur hamo</l>
+<l>cor dubium: maneam, vel, Parthenopee, recedam?</l></sp>
+<sp><speaker>PARTHENOPEUS</speaker><l>Siste pecus, mihi crede, tuum dicam altera rerum</l>
+<l>argumenta tibi. Sit quam speciosa nitensque</l>
+<l>Parthenope, scis ipse puto; quam pulchra decensque</l>
+<l>et quam conspicui vultus, quam candida, quamque</l>
+<l>splendida, quam dulcis, nulli quam corpore par sit:</l>
+<l>non feret absentes huius dux magnus amores,</l>
+<l>pro quam pugnando toties per saeva laborum</l>
+<l>vidit pene Iovis pallentia regna profundi.</l>
+<l>Rivalem sufferre potest scis nullus amator:</l>
+<l>vixerit hic magna semper formidine plenus</l>
+<l>ne redeant illi, quorum de faucibus illam</l>
+<l>strenuus eripuit, magnoque recepit ab hoste.</l>
+<l>Quid quod id antiqua praedixit ab arbore cornix,</l>
+<l>atque aliae volucres mihi iam cecinere sinistrae?</l>
+<l>Scis ego quam augurii sim pastor in arte peritus:</l>
+<l>vana futurorum mihi mon sunt ora, Sabine.</l>
+<l>Haec ego si nobis sic non fore forte vererer,</l>
+<l>me comitem incepti sociumque doloris haberes.</l></sp>
+<sp><speaker>SABINUS</speaker><l>Verborum tua magna fides artisque vetustas</l>
+<l>propositum atque animum sic mutavere labantem,</l>
+<l>consilium quod das ut, Parthenopee, sequamur,</l>
+<l>utque Laborinos qua vis iam parte per agros</l>
+<l>vivere proponam. Sed si dux noster abibit</l>
+<l>vivamus pariter nos, Parthenopee, dolentes</l>
+<l>alter et alterius solantes carmine mentem.</l></sp>
+<sp><speaker>PARTHENOPEUS</speaker><l>Immo etiam mecum potes hanc deducere noctem:</l>
+<l>de duce nam magno possum maiora referre.</l>
+<l>Claude pecus stabulis, properat nam Vesper, eamus!</l>
+<l>Non deerunt Cereris niveae, non munera Bacchi,</l>
+<l>illa nec leporis, crassi nec coenula porci.</l></sp></div1>
+</body>
+</text>
+</TEI.2>

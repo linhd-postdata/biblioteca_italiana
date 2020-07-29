@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Sonetti dei mesi</title>
+      <author>Folgore da San Gimignano</author>
+    </titleStmt>
+    <extent>31 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit000304</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Poeti giocosi del tempo di Dante</title>
+        <editor id="ed">Marti, Mario</editor>
+        <publisher>Rizzoli</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date>1956</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>300</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.1 - Poesia italiana fino al 1375.</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-02-06T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Francesca Cascino</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-04-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="parte">
+<head>Per un cavaliere</head>
+<div2 type="poesia"><head>(Introduzione)</head>
+<lg type="sonetto">
+<lg type="quartina">
+<l>Ora si fa un donzello cavalieri;</l>
+<l>e' vuolsi far novellamente degno, </l>
+<l>e pon sue terre e sue castell'a pegno</l>
+<l>per ben fornirsi di ciò ch'è mistieri:</l>
+</lg><lg type="quartina"><l>annona, pane e vin dà a' forestieri,</l>
+<l>manze, pernici e cappon per ingegno;</l>
+<l>donzelli e servidori a dritto segno,</l>
+<l>camere e letta, cerotti e doppieri;</l>
+</lg><lg type="terzina"><l>e pens'a molti affrenati cavagli,</l>
+<l>armeggiatori e bella compagnia,</l>
+<l>aste, bandiere, coverte e sonagli;</l>
+</lg><lg type="terzina"><l>ed istormenti con gran baronia,</l>
+<l>e giucolar per la terra guidàgli,</l>
+<l>donne e donzelle per ciascuna via.</l>
+</lg></lg>
+</div2>
+<div2 type="poesia">
+<head>Prodezza</head>
+<lg type="sonetto">
+<lg type="quartina">
+<l>Ecco Prodezza, che tosto lo spoglia</l>
+<l>e dice: – Amico, e' convien che tu mudi,</l>
+<l>per ciò ch'i' vo' veder li uomini nudi</l>
+<l>e vo' che sappi non abbo altra voglia;</l>
+</lg>
+<lg type="quartina">
+<l>e lascia ogni costume che far soglia,</l>
+<l>e nuovamente t'affatichi e sudi;</l>
+<l>se questo fai, tu sarai de' miei drudi</l>
+<l>pur che ben far non t'incresca né doglia –.</l></lg>
+<lg type="terzina">
+<l>E quando vede le membra scoperte,</l>
+<l>immantenente sì le reca in braccio</l>
+<l>dicendo: – Queste carni m'hai offerte;</l>
+</lg><lg type="terzina"><l>i' le ricevo e questo don ti faccio,</l>
+<l>acciò che le tue opere sien certe:</l>
+<l>che ogni tuo ben far già mai non taccio –.</l>
+</lg>
+</lg></div2>
+<div2 type="poesia">
+<head>Umilità</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Umilità dolcemente il riceve,</l>
+<l>e dice: – Punto non vo' che ti gravi,</l>
+<l>ch'e' pur convien ch'io ti rimondi e lavi,</l>
+<l>e farotti più bianco che la neve;</l>
+</lg><lg type="quartina"><l>e intendi quel ched io ti dico breve,</l>
+<l>ch'i' vo' portar dello tuo cor le chiavi,</l>
+<l>ed a mio modo converrà che navi,</l>
+<l>ed io ti guiderò sì come meve.</l>
+</lg><lg type="terzina"><l>Ma d'una cosa far tosto ti spaccia,</l>
+<l>ché tu sai che soperbia m'è nimica:</l>
+<l>che più con teco dimoro non faccia.</l>
+</lg><lg type="terzina"><l>I' ti sarabbo così fatta amica</l>
+<l>ch'e' converrà ch'a tutta gente piaccia;</l>
+<l>e così fa chi di me si notrica –.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Discrezione</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Discrezione incontanente venne</l>
+<l>e sì l'asciuga d'un bel drappo e netto,</l>
+<l>e tostamente sì 'l mette in sul letto</l>
+<l>di lin, di seta, coverture e penne;</l>
+</lg><lg type="quartina"><l>or ti ripensa: infino al dì vi 'l tenne</l>
+<l>con canti, con sonare e con diletto;</l>
+<l>accompagnollo, per farlo perfetto,</l>
+<l>di nuovi cavalier, che ben s'avvenne.</l>
+</lg><lg type="terzina"><l>Poi disse: – Lieva suso immantenente,</l>
+<l>ch'e' ti convien rinascere nel mondo,</l>
+<l>e l'ordine che prendi tieni a mente –.</l>
+</lg><lg type="terzina"><l>Egli ha tanti pensier, che non ha fondo,</l>
+<l>del gran legame dov'entrar si sente,</l>
+<l>e non può dire: – A questo mi nascondo –</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Allegrezza</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Giunge Allegrezza con letizia e festa,</l>
+<l>tutta fiorita che pare un rosaio;</l>
+<l>di lin, di seta, di drappo e di vaio</l>
+<l>allor li porta bellissima vesta,</l>
+</lg><lg type="quartina"><l>vetta, cappuccio con ghirlanda in testa,</l>
+<l>e sì adorno l'ha che pare un maio;</l>
+<l>con tanta gente che trema il solaio;</l>
+<l>allor sì face l'opra manifesta.</l>
+</lg><lg type="terzina"><l>E ritto l'ha in calze ed in pianelle,</l>
+<l>borsa, cintura inorata d'argento,</l>
+<l>che stanno sotto la leggiadra pelle;</l>
+</lg><lg type="terzina"><l>cantar, sonando ciascuno stormento,</l>
+<l>mostrando lui a donne ed a donzelle</l>
+<l>e quanti sono a questo assembramento.</l>
+</lg>
+</lg></div2></div1>
+
+<div1 type="poesia">
+<head>Sonetti della Semana</head>
+<div2>
+<head>(Dedica)</head>
+<lg type="sonetto"><lg type="quartina">
+<l>I' ho pensato di fare un gioiello</l>
+<l>che sia allegro, gioioso ed ornato,</l>
+<l>e sì 'l vorrei donare in parte e lato,</l>
+<l>ch'ogn'uomo dica: – E' li sta ben, è bello! –</l>
+</lg><lg type="quartina"><l>E or di nuovo ho trovato un donzello</l>
+<l>saggio, cortese e ben ammaestrato,</l>
+<l>che gli starebbe me' l'imperiato</l>
+<l>che non istà la gemma nell'anello:</l>
+</lg><lg type="terzina"><l>Carlo di misser Guerra Cavicciuoli,</l>
+<l>quel ch'è valente ed ardito e gagliardo</l>
+<l>e servente, comandi chi che vuoli;</l>
+</lg><lg type="terzina"><l>leggero più che lonza o liopardo,</l>
+<l>e mai non fece dei denar figliuoli,</l>
+<l>ma spende più che 'l marchese lombardo.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Lunidie</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Quando la luna e la stella diana</l>
+<l>e la notte si parte e 'l giorno appare,</l>
+<l>vento leggero, per polire l'are</l>
+<l>e far la gente stare allegra e sana;</l>
+</lg><lg type="quartina"><l>il lunedì, per capo di semana,</l>
+<l>con istormenti mattinata fare,</l>
+<l>ed amorose donzelle cantare,</l>
+<l>e 'l sol ferire per la meridiana.</l>
+</lg><lg type="terzina"><l>Lèvati sù, donzello, e non dormire,</l>
+<l>ché l'amoroso giorno ti conforta</l>
+<l>e vuol che vadi tua donna a servire.</l>
+</lg><lg type="terzina"><l>Palafreni e destrier sieno alla porta,</l>
+<l>donzelli e servitor con bel vestire:</l>
+<l>e poi far ciò ch'Amor comanda e porta.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Martidie</head>
+<lg type="sonetto"><lg type="quartina">
+<l>E 'l martedì li do un nuovo mondo:</l>
+<l>udir sonar trombetti e tamburelli,</l>
+<l>armar pedon, cavalieri e donzelli,</l>
+<l>e campane a martello dicer: – don do –;</l>
+</lg><lg type="quartina"><l>e lui primiero e li altri secondo,</l>
+<l>armati di loriche e di cappelli,</l>
+<l>veder nemici e percuotere ad elli,</l>
+<l>dando gran colpi e mettendoli a fondo;</l>
+</lg><lg type="terzina"><l>destrier vedere andare a vuote selle,</l>
+<l>tirando per lo campo lor segnori,</l>
+<l>e strascinando fegati e budelle;</l>
+</lg><lg type="terzina"><l>e sonare a raccolta trombatori</l>
+<l>e sufoli, flaùti e ciramelle,</l>
+<l>e tornare alle schiere i feritori.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Mercoredie</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Ogni mercoredì corredo grande</l>
+<l>di lepri, starne, fagiani e paoni,</l>
+<l>e cotte manze ed arrosti capponi,</l>
+<l>e quante son delicate vivande;</l>
+</lg><lg type="quartina"><l>donne e donzelle star per tutte bande,</l>
+<l>figlie di re, di conti e di baroni,</l>
+<l>e donzellette e giovani garzoni</l>
+<l>servir portando amorose ghirlande;</l>
+</lg><lg type="terzina"><l>coppe, nappi, bacin d'oro e d'argento,</l>
+<l>vin greco di riviera e di vernaccia,</l>
+<l>frutta, confetti quanti li è 'n talento,</l>
+</lg><lg type="terzina"><l>e presentarvi uccellagioni e caccia;</l>
+<l>e quanti sono a suo ragionamento</l>
+<l>sì sieno allegri e con la chiara faccia.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Giovedie</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Ed ogni giovedì torniamento,</l>
+<l>e giostrar cavalier ad uno ad uno,</l>
+<l>e la battaglia sia 'n luogo comuno,</l>
+<l>a cinquanta e cinquanta, e cento e cento.</l>
+</lg><lg type="quartina"><l>Arme, destrieri e tutto guarnimento,</l>
+<l>sien d'un paraggio addobbati ciascuno;</l>
+<l>da terza a vespro, passato 'l digiuno:</l>
+<l>allora si conosca chi ha vento.</l>
+</lg><lg type="terzina"><l>E poi tornare a casa alle lor vaghe,</l>
+<l>ove seranno i fin letti soprani;</l>
+<l>e' medici fasciar percosse e piaghe,</l>
+</lg><lg type="terzina"><l>e le donne aitar con le lor mani;</l>
+<l>e di vederle sì ciascun s'appaghe,</l>
+<l>che la mattina sien guariti e sani.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Venerdie</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Ed ogni venerdì gran caccia e forte:</l>
+<l>veltri, bracchetti, mastini e stivori,</l>
+<l>e bosco basso miglia di staiori,</l>
+<l>là ove si troven molte bestie accorte,</l>
+</lg><lg type="quartina"><l>che possano veder, cacciando, scorte:</l>
+<l>e rampognare insieme i cacciatori,</l>
+<l>cornando a caccia presa i cornatori:</l>
+<l>ed allor vengan molte bestie morte.</l>
+</lg><lg type="terzina"><l>E poi recogliere i cani e la gente,</l>
+<l>e dicer: – L'amor meo manda a cotale –.</l>
+<l>– Alle guagnele, serà bel presente! –</l>
+</lg><lg type="terzina"><l>– Ei par che i nostri cani avesser ale! –</l>
+<l>– Te', te', Belluccia, Picciuolo e Serpente,</l>
+<l>ché oggi è 'l dì della caccia reale! –</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Sabato die</head>
+<lg type="sonetto"><lg type="quartina">
+<l>E 'l sabato diletto ed allegrezza</l>
+<l>in uccellare e volar di falconi,</l>
+<l>e percuotere grue, ed alghironi</l>
+<l>iscendere e salire in grand'altezza;</l>
+</lg><lg type="quartina"><l>ed all'oche ferir per tal fortezza</l>
+<l>che perdan l'ale, le cosce e' gropponi;</l>
+<l>corsieri e palafren mettere a sproni,</l>
+<l>ed isgridar per gloria e per baldezza.</l>
+</lg><lg type="terzina"><l>E poi tornare a casa e dire al cuoco:</l>
+<l>– To' queste cose e acconcia per dimane,</l>
+<l>e pela, taglia, assetta e metti a' fuoco;</l>
+</lg><lg type="terzina"><l>ed abbie fino vino e bianco pane,</l>
+<l>ch'e' s'apparecchia di far festa e giuoco:</l>
+<l>fa che le tue cucine non sien vane! –</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Domenica die</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Alla dimane, all'apparer del giorno</l>
+<l>venente, che domenica si chiama,</l>
+<l>qual più li piace, damigella o dama,</l>
+<l>abbiane molte che li sien d'attorno;</l>
+</lg><lg type="quartina"><l>in un palazzo dipinto ed adorno</l>
+<l>ragionare con quella che più ama;</l>
+<l>qualunche cosa che desia e brama,</l>
+<l>venga in presente senza far distorno.</l>
+</lg><lg type="terzina"><l>Danzar donzelli, armeggiar cavalieri,</l>
+<l>cercar Firenze per ogni contrada,</l>
+<l>per piazze, per giardini e per verzieri;</l>
+</lg><lg type="terzina"><l>e gente molta per ciascuna strada,</l>
+<l>e tutti quanti il veggian volontieri:</l>
+<l>ed ogni dì di ben in meglio vada.</l>
+</lg>
+</lg></div2></div1>
+
+<div1 type="parte">
+<head>Sonetti dei Mesi</head>
+<div2>
+<head>(Dedica alla brigata)</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Alla brigata nobile e cortese,</l>
+<l>in tutte quelle parti dove sono,</l>
+<l>con allegrezza stando sempre dono,</l>
+<l>cani e uccelli e danari per ispese,</l>
+</lg><lg type="quartina"><l>ronzin portanti e quaglie a volo prese,</l>
+<l>bracchi levar, correr veltri a·bandono:</l>
+<l>in questo regno Nicolò incorono,</l>
+<l>perch'elli è 'l fior della città sanese;</l>
+</lg><lg type="terzina"><l>Tingoccio e Min di Tingo ed Ancaiano,</l>
+<l>Bartolo e Mugàvero e Fainotto,</l>
+<l>che pariano figliuol del·re Priàno,</l>
+</lg><lg type="terzina"><l>prodi e cortesi più che Lancilotto,</l>
+<l>se bisognasse, con le lance in mano</l>
+<l>farian torniamenti a Camellotto.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di gennaio</head>
+<lg type="sonetto"><lg type="quartina">
+<l>I' doto voi del mese di gennaio</l>
+<l>corte con fuochi di salette accese,</l>
+<l>camere e letta d'ogni bello arnese,</l>
+<l>lenzuol di seta e copertoi di vaio,</l>
+</lg><lg type="quartina"><l>treggea, confetti e mescere a razzaio,</l>
+<l>vestiti di doagio e di racese;</l>
+<l>e 'n questo modo stare alle difese,</l>
+<l>muova scirocco, garbino e rovaio;</l>
+</lg><lg type="terzina"><l>uscir di fuor alcuna volta il giorno,</l>
+<l>gittando della neve bella e bianca</l>
+<l>alle donzelle che saran d'attorno;</l>
+</lg><lg type="terzina"><l>e quando la compagna fosse stanca,</l>
+<l>a questa corte facciasi ritorno,</l>
+<l>e sì riposi la brigata franca.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di febbraio</head>
+<lg type="sonetto"><lg type="quartina">
+<l>E di febbraio vi dono bella caccia</l>
+<l>di cerbi, cavriuoli e di cinghiari,</l>
+<l>corte gonnelle con grossi calzari,</l>
+<l>e compagnia che vi diletti e piaccia;</l>
+</lg><lg type="quartina"><l>can da guinzagli e segugi da traccia,</l>
+<l>e le borse fornite di danari,</l>
+<l>ad onta degli scarsi e degli avari,</l>
+<l>o chi di questo vi dà briga e 'mpaccia;</l>
+</lg><lg type="terzina"><l>e la sera tornar co' vostri fanti</l>
+<l>carcati della molta salvaggina,</l>
+<l>avendo gioia ed allegrezza e canti;</l>
+</lg><lg type="terzina"><l>far trar del vino e fumar la cucina,</l>
+<l>e fin al primo sonno star razzanti;</l>
+<l>e poi posar infin' alla mattina.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di marzo</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Di marzo sì vi do una peschiera</l>
+<l>di trote, anguille, lamprede e salmoni,</l>
+<l>di dentici, dalfini e storioni,</l>
+<l>d'ogn'altro pesce in tutta la riviera;</l>
+</lg><lg type="quartina"><l>con pescatori e navicelle a schiera</l>
+<l>e barche, saettìe e galeoni,</l>
+<l>le qual vi portino a tutte stagioni</l>
+<l>a qual porto vi piace alla primiera:</l>
+</lg><lg type="terzina"><l>che sia fornito di molti palazzi,</l>
+<l>d'ogn'altra cosa che vi sie mestiero,</l>
+<l>e gente v'abbia di tutti sollazzi.</l>
+</lg><lg type="terzina"><l>Chiesa non v'abbia mai né monistero:</l>
+<l>lasciate predicar i preti pazzi,</l>
+<l>ché hanno assai bugie e poco vero.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>D'aprile </head>
+<lg type="sonetto"><lg type="quartina">
+<l>D'april vi dono la gentil campagna</l>
+<l>tutta fiorita di bell'erba fresca;</l>
+<l>fontane d'acqua che non vi rincresca,</l>
+<l>donne e donzelle per vostra compagna;</l>
+</lg><lg type="quartina"><l>ambianti palafren, destrier di Spagna,</l>
+<l>e gente costumata alla francesca</l>
+<l>cantar, danzar alla provenzalesca</l>
+<l>con istormenti nuovi d'Alemagna.</l>
+</lg><lg type="terzina"><l>E d'attorno vi sian molti giardini,</l>
+<l>e giacchito vi sia ogni persona;</l>
+<l>ciascun con reverenza adori e 'nchini</l>
+</lg><lg type="terzina"><l>a quel gentil, c'ho dato la corona</l>
+<l>de pietre preziose, le più fini</l>
+<l>c'ha 'l Presto Gianni o·'l re di Babilona.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di maggio</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Di maggio sì vi do molti cavagli,</l>
+<l>e tutti quanti sieno afrenatori,</l>
+<l>portanti tutti, dritti corritori;</l>
+<l>pettorali e testiere di sonagli,</l>
+</lg><lg type="quartina"><l>bandiere e coverte a molti intagli</l>
+<l>e di zendadi di tutti colori;</l>
+<l>le targe a modo degli armeggiatori;</l>
+<l>viuole e rose e fior, ch'ogni uom v'abbagli;</l>
+</lg><lg type="terzina"><l>e rompere e fiaccar bigordi e lance,</l>
+<l>e piover da finestre e da balconi</l>
+<l>in giù ghirlande ed in su melerance;</l>
+</lg><lg type="terzina"><l>e pulzellette e giovani garzoni</l>
+<l>baciarsi nella bocca e nelle guance;</l>
+<l>d'amor e di goder vi si ragioni.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di giugno</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Di giugno dovvi una montagnetta</l>
+<l>coperta di bellissimi arbuscelli,</l>
+<l>con trenta ville e dodici castelli</l>
+<l>che sieno intorno ad una cittadetta,</l>
+</lg><lg type="quartina"><l>ch'abbia nel mezzo una sua fontanetta;</l>
+<l>e faccia mille rami e fiumicelli,</l>
+<l>ferendo per giardini e praticelli</l>
+<l>e rifrescando la minuta erbetta.</l>
+</lg><lg type="terzina"><l>Aranci e cedri, dattili e lumìe</l>
+<l>e tutte l'altre frutte savorose</l>
+<l>impergolate sieno per le vie;</l>
+</lg><lg type="terzina"><l>e le genti vi sien tutte amorose,</l>
+<l>e faccianvisi tante cortesie</l>
+<l>ch'a tutto 'l mondo sieno graziose.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di luglio</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Di luglio in Siena, in sulla Saliciata,</l>
+<l>con le piene inguistare de' trebbiani;</l>
+<l>nelle cantine li ghiacci vaiani,</l>
+<l>e man e sera mangiare in brigata</l>
+</lg><lg type="quartina"><l>di quella gelatina ismisurata</l>
+<l>istarne arrosto e giovani fagiani,</l>
+<l>lessi capponi e capretti sovrani,</l>
+<l>e, cui piacesse, la manza e l'agliata.</l>
+</lg><lg type="terzina"><l>Ed ivi trar buon tempo e buona vita,</l>
+<l>e non uscir di fuor per questo caldo;</l>
+<l>vestir zendadi di bella partita;</l>
+</lg><lg type="terzina"><l>e, quando godi, star pur fermo e saldo,</l>
+<l>e sempre aver la tavola fornita,</l>
+<l>e non voler la moglie per castaldo.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di agosto</head>
+<lg type="sonetto"><lg type="quartina">
+<l>D'agosto sì vi do trenta castella</l>
+<l>in una valle d'alpe montanina,</l>
+<l>che non vi possa vento di marina,</l>
+<l>per istar sani e chiari come stella;</l>
+</lg><lg type="quartina"><l>e palafreni da montare in sella,</l>
+<l>e cavalcar la sera e la mattina;</l>
+<l>e l'una terra all'altra sia vicina,</l>
+<l>ch'un miglio sia la vostra giornatella,</l>
+</lg><lg type="terzina"><l>tornando tuttavia verso casa;</l>
+<l>e per la valle corra una fiumana,</l>
+<l>che vada notte e dì traente e rasa;</l>
+</lg><lg type="terzina"><l>e star nel fresco tutta meriggiana;</l>
+<l>la vostra borsa sempre a bocca pasa</l>
+<l>per la miglior vivanda di Toscana.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di settembre</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Di settembre vi do diletti tanti:</l>
+<l>falconi, astori, smerletti e sparvieri,</l>
+<l>lunghe, gherbegli e geti con carnieri,</l>
+<l>bracchetti con sonagli, pasti e guanti;</l>
+</lg><lg type="quartina"><l>bolze, balestre dritte e ben portanti,</l>
+<l>archi, strali, pallotte e pallottieri;</l>
+<l>sianvi mudati girfalchi ed astieri</l>
+<l>nidaci e di tutt'altri uccel volanti,</l>
+</lg><lg type="terzina"><l>che fosser buoni da snidar e prendere;</l>
+<l>e l'un all'altro tuttavia donando,</l>
+<l>e possasi rubare e non contendere;</l>
+</lg><lg type="terzina"><l>quando con altra gente rincontrando,</l>
+<l>le vostre borse sempre acconce a spendere,</l>
+<l>e tutti abbiate l'avarizia in bando.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di ottobre</head>
+<lg type="sonetto"><lg type="quartina">
+<l>D'ottobre nel contado ha buono stallo:</l>
+<l>e' pregovi, figliuol, che voi v'andiate;</l>
+<l>traetevi buon tempo ed uccellate</l>
+<l>come vi piace, a piede ed a cavallo;</l>
+</lg><lg type="quartina"><l>la sera per la sala andate a ballo,</l>
+<l>e bevete del mosto e inebriate,</l>
+<l>ché non ci ha miglior vita, in veritate;</l>
+<l>e questo è ver come 'l fiorino è giallo.</l>
+</lg><lg type="terzina"><l>E poscia vi levate la mattina,</l>
+<l>e lavatevi 'l viso con le mani;</l>
+<l>l'arrosto e 'l vino è buona medicina.</l>
+</lg><lg type="terzina"><l>Alle guagnele, starete più sani</l>
+<l>che pesce in lago o 'n fiume od in marina,</l>
+<l>avendo miglior vita che cristiani.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di novembre</head>
+<lg type="sonetto"><lg type="quartina">
+<l>E di novembre a Petriuolo, al bagno,</l>
+<l>con trenta muli carchi di moneta:</l>
+<l>le rughe sien tutte coperte a seta;</l>
+<l>coppe d'argento, bottacci di stagno;</l>
+</lg><lg type="quartina"><l>e dare a tutti stazzonier guadagno;</l>
+<l>torchi e doppier che vengan di Chiareta,</l>
+<l>confetti con cedrata di Gaeta;</l>
+<l>bea ciascuno e conforti 'l compagno.</l>
+</lg><lg type="terzina"><l>E 'l freddo vi sia grande 'l fuoco spesso;</l>
+<l>fagiani, starne, colombi e mortiti,</l>
+<l>levori e cavriuoli arrosto e lesso,</l>
+</lg><lg type="terzina"><l>e sempre avere acconci gli appetiti;</l>
+<l>la notte 'l vento e 'l piover a ciel messo,</l>
+<l>e siate nelle letta ben forniti.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>Di dicembre</head>
+<lg type="sonetto"><lg type="quartina">
+<l>E di dicembre una città in piano:</l>
+<l>sale terrene e grandissimi fuochi,</l>
+<l>tappeti tesi, tavolieri e giuochi,</l>
+<l>torticci accesi e star co' dadi in mano;</l>
+</lg><lg type="quartina"><l>e l'oste inebriato e catelano,</l>
+<l>e porci morti e finissimi cuochi;</l>
+<l>e morselli ciascun bèa e manuchi;</l>
+<l>le botti sien maggior che San Galgano.</l>
+</lg><lg type="terzina"><l>E siate ben vestiti e foderati</l>
+<l>di guarnacche, tabarri e di mantelli</l>
+<l>e di cappucci fini e smisurati;</l>
+</lg><lg type="terzina"><l>e beffe far de' tristi cattivelli,</l>
+<l>de' miseri dolenti sciagurati</l>
+<l>avari: non vogliate usar con elli.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>(Commiato)</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Sonetto mio, a Nicolò di Nisi,</l>
+<l>colui ch'è pien de tut<del>t</del>a gentilezza,</l>
+<l>di' da mia parte con molt'alegrezza</l>
+<l>ch'io son acconcio a tutti suoi servisi;</l>
+</lg><lg type="quartina"><l>e più m'è caro che non val Parisi</l>
+<l>d'avere sua amistade e contezza;</l>
+<l>sed ello avesse imperial ricchezza,</l>
+<l>starieli me' che San Francesco in Sisi.</l>
+</lg><lg type="terzina"><l>Raccomendami a lui tutta fiata</l>
+<l>ed a la sua compagna ed Ancaiano,</l>
+<l>ché senza lui non è lieta brigata.</l>
+</lg><lg type="terzina"><l>Folgòre vostro da San Giminiano</l>
+<l>vi manda, dice e fa quest'ambasciata:</l>
+<l>che voi n'andaste con suo cuor in mano.</l>
+</lg>
+</lg></div2></div1>
+
+<div1 type="poesia">
+<head>Altri sonetti</head>
+<div2><head>1</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Più lichisati siete ch'ermellini,</l>
+<l>conti pisan, cavalieri e donzelli,</l>
+<l>e per istudio de' vostri cappelli</l>
+<l>credete vantaggiare i fiorentini;</l>
+</lg><lg type="quartina"><l>e franchi fate stare i ghibellini</l>
+<l>in ogni parte, o cittadi o castelli,</l>
+<l>veggendovi sì osi e sì isnelli:</l>
+<l>sotto l'arme, parete paladini.</l>
+</lg><lg type="terzina"><l>Valenti sempre come lepre in caccia</l>
+<l>a riscontrare in mare i genovesi,</l>
+<l>e co' lucchesi non avete faccia;</l>
+</lg><lg type="terzina"><l>e come i can dell'ossa son cortesi,</l>
+<l>se Folgore abbia cosa che gli piaccia,</l>
+<l>siate voi contro a tutti li foresi.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>2</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Eo non ti lodo, Dio, e non ti adoro,</l>
+<l>e non ti prego, e non ti rengrazio,</l>
+<l>e non ti servo: ch'eo ne son più sazio</l>
+<l>che l'anime di stare in purgatoro;</l>
+</lg><lg type="quartina"><l>perché tu hai messi i guelfi a tal martoro</l>
+<l>ch'i ghibellini ne fan beffe e strazio;</l>
+<l>e se Uguccion ti comandasse il dazio,</l>
+<l>tu il pagaresti senza perentoro.</l>
+</lg><lg type="terzina"><l>Ed hanti certo sì ben conosciuto,</l>
+<l>tolto t'han San Martino ed Altopasso</l>
+<l>e San Michele e 'l tesor ch'hai perduto;</l>
+</lg><lg type="terzina"><l>ed hai quel popol marcio così grasso,</l>
+<l>che per soperbia cherranti 'l tributo:</l>
+<l>e tu hai fatto 'l cor che par d'un sasso.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>3</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Così faceste voi o guerra o pace,</l>
+<l>guelfi, sì come siete in devisione,</l>
+<l>ché in voi non regna ponto di ragione,</l>
+<l>lo mal pur cresce e 'l ben s'ammorta e tace.</l>
+</lg><lg type="quartina"><l>E l'uno contra l'altro isguarda e spiace</l>
+<l>lo suo essere e stato e condizione;</l>
+<l>fra voi regna il pugliese e 'l Ganellone,</l>
+<l>e ciascun soffia nel fuoco penace.</l>
+</lg><lg type="terzina"><l>Non vi ricorda di Montecatini,</l>
+<l>come le mogli e le madri dolenti</l>
+<l>fan vedovaggio per gli ghibellini?</l>
+</lg><lg type="terzina"><l>E babbi, frati, figliuoli e parenti,</l>
+<l>e chi amasse bene i suoi vicini,</l>
+<l>combatterebbe ancora a stretti denti.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>4</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Guelfi, per fare scudo delle reni,</l>
+<l>avete fatti i conigli leoni,</l>
+<l>e per ferir sì forte di speroni,</l>
+<l>tenendo vòlti verso casa i freni.</l>
+</lg><lg type="quartina"><l>E tal perisce in malvagi terreni</l>
+<l>che vincerebbe a dar con gli spontoni;</l>
+<l>fatto avete le pùpule falconi,</l>
+<l>sì par che 'l vento ve ne porti e meni.</l>
+</lg><lg type="terzina"><l>Però vi do conseglio che facciate</l>
+<l>di quelle del pregiato re Roberto,</l>
+<l>e rendetevi in colpa e perdonate.</l>
+</lg><lg type="terzina"><l>Con Pisa ha fatto pace, quest'è certo;</l>
+<l>non cura delle carni malfatate</l>
+<l>che son remase a' lupi in quel deserto.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>5</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Cortesia cortesia cortesia chiamo</l>
+<l>e da nessuna parte mi risponde,</l>
+<l>e chi la dèe mostrar, sì la nasconde,</l>
+<l>e perciò a cui bisogna vive gramo.</l>
+</lg><lg type="quartina"><l>Avarizia le genti ha prese all'amo,</l>
+<l>ed ogni grazia distrugge e confonde;</l>
+<l>però se eo mi doglio, eo so ben onde:</l>
+<l>di voi, possenti, a Dio me ne richiamo.</l>
+</lg><lg type="terzina"><l>Ché la mia madre cortesia avete</l>
+<l>messa sì sotto il piè che non si leva;</l>
+<l>l'aver ci sta, voi non ci rimanete!</l>
+</lg><lg type="terzina"><l>Tutti siem nati di Adamo e di Eva;</l>
+<l>potendo, non donate e non spendete:</l>
+<l>mal ha natura chi tai figli alleva.</l>
+</lg>
+</lg></div2></div1>
+
+<div1 type="poesia">
+<head>Sonetti dubbi</head>
+<div2>
+<head>1</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Amico caro, non fiorisce ogni erba,</l>
+<l>né ogni fior che par, frutto non porta;</l>
+<l>e non è vertudiosa, ogni verba,</l>
+<l>né ha vertù ogni pietra ch'è orta;</l>
+</lg><lg type="quartina"><l>e tal cosa è matura e pare acerba,</l>
+<l>e tal se par doler che se conforta;</l>
+<l>ogni cera che par, non è soperba,</l>
+<l>cosa è che getta fiamma e che par morta.</l>
+</lg><lg type="terzina"><l>Però non se convien ad uomo saggio</l>
+<l>volere adesso far d'ogn'erba fasso,</l>
+<l>né d'ogni pietra caricarsi 'l dosso,</l>
+</lg><lg type="terzina"><l>né voler trar d'ogni parola saggio,</l>
+<l>né con tutta la gente andare a passo:</l>
+<l>senza ragione a dir ciò non son mosso.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>2</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Quando la voglia segnoreggia tanto,</l>
+<l>che la ragion non ha poter né loco,</l>
+<l>ispesse volte ride l'uom di pianto</l>
+<l>e di grave doglienza mostra gioco;</l>
+</lg><lg type="quartina"><l>e ben seria di buon savere affranto</l>
+<l>chi fredda neve giudicasse fòco;</l>
+<l>simil son que', che gioi' mostrano e canto</l>
+<l>di quel, onde doler devriano un poco.</l>
+</lg><lg type="terzina"><l>Ma ben si può coralmente dolere</l>
+<l>chi sommette ragione a voluntade</l>
+<l>e segue senza freno suo volere;</l>
+</lg><lg type="terzina"><l>che non è già sì ricca podestade</l>
+<l>com'se medesmo a dritto mantenere,</l>
+<l>seguire pregio, fùgger vanitade.</l>
+</lg>
+</lg></div2>
+
+<div2 type="poesia">
+<head>3</head>
+<lg type="sonetto"><lg type="quartina">
+<l>Fior di virtù sì è gentil coraggio,</l>
+<l>e frutto di virtù sì è onore,</l>
+<l>e vaso di virtù sì è valore</l>
+<l>e nome di virtù è uomo saggio;</l>
+</lg><lg type="quartina"><l>e specchio di virtù non vede oltraggio</l>
+<l>e viso di virtù, chiaro colore,</l>
+<l>ed amor di virtù, buon servitore,</l>
+<l>e dono di virtù, dolce lignaggio.</l>
+</lg><lg type="terzina"><l>E letto di virtù è conoscenza,</l>
+<l>e seggio di virtù, amor leale,</l>
+<l>e poder di virtù è sofferenza;</l>
+</lg><lg type="terzina"><l>e opera di virtù, esser leale,</l>
+<l>e braccio di virtù, bella accoglienza:</l>
+<l>tutta virtù è render ben per male.</l>
+</lg>
+</lg></div2></div1>
+</body>
+</text>
+</TEI.2>

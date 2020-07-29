@@ -1,0 +1,4755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+ <teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Primi poemetti</title>
+      <author>Giovanni Pascoli</author>
+    </titleStmt>
+    <extent>189 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000610</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Poesie</title>
+        <title type="part">Myricae ; Primi poemetti</title>
+        <author>Pascoli, Giovanni</author>
+        <editor id="ed">Vicinelli, Augusto</editor>
+        <publisher>A. Mondadori</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date>1997</date>
+        <note>Con un saggio di Gianfranco Contini</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>900</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language><language id="eng">Inglese</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.912 - Poesia italiana della prima meta del Novecento.</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-02-19T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marta Zanazzi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2003-03-11T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="epigrafe" n="Epigrafe"><p rend="sc">PAULO MAIORA</p>
+<p><hi rend="sc">A MARIA PASCOLI</hi></p>
+   </div1>
+<div1 type="prefazione">
+<head rend="italic">PREFAZIONE</head>
+<p><hi rend="sc">MARIA</hi>, <emph>dolce sorella: c'è stato
+      tempo che noi non eravamo qui? che io non vedevo, al levarmi, la
+      Pania e il Monte Forato? che tu non udivi, la notte, il fruscio
+      incessante del Rio dell'Orso? Il campaniletto di San
+      Niccolò, bigio e scalcinato, che mi apparisce tra i
+      ciliegi rosseggiane de' loro mazzetti di bacche, e i peri e i
+      meli; quel campaniletto, c'è stato un tempo in cui non lo
+      sentivamo annunciare la festa del domani? </emph>Din don... Din
+     din don Din din don...<emph> Non fu quel prete smunto e cereo,
+      che viene su per la viottola col breviario in mano, non fu esso
+      il rettore che ci battezzò? non era </emph> Mère
+     <emph>il buon contadino che ci rallegrava fanciulli col suo
+      parlare a scatti, coi suoi motti e proverbi curiosi? "Il
+      cane fa ir la coda, perché non ha cappello da
+      cavarsi": ecco una sua osservazione sottile a proposito
+      del nostro Gulì. E quel fringuello che canta così
+      da vicino il suo francesco mio e il suo barbazipìo, non
+      è stato sempre così vicino? Non li abbiamo sentiti
+      sempre quei più minuti e più confusi e più
+      teneri chiacchiericci dei cardellini? Quelle verlette (sono
+      venute da poco a portare il caldo), quelle canipaiole (vennero
+      quando c'era da seminar la canapa; vennero a dirlo ai
+      contadini), che sembrano ninnare i loro nidiaci con una fila di
+      note sempre uguali; tonde, in gorgia, le prime, limpide e veloci
+      e tristi come un lamento di piccolo, le altre; non le abbiamo
+      sempre avute nella nostra campagna? E non abbiamo sempre udito
+      cantar gli sgriccioli, che hanno tanta voce e sono così
+      piccini? gli sgriccioli che... Parlano romagnolo? Dicono </emph>
+     magnè, magnè, magnè!... <emph>E quei balestrucci che strisciano intorno per l'aria coi loro scoppiettìi rapidi e sonori, non li abbiamo sempre avuti nella nostra casa? C'erano anzi, negli anni passati, anche le rondini, quelle che hanno il pettino rugginoso, non bianco, e la lunga coda biforcuta, e il canto più soave e più parlato; ma ebbero che dire con queste loro rissose sorelle del pettino bianco; e se ne sono andate. Ce n'è qualche nido sotto il tetto della chiesa, in un luogo molto ombroso e solitario. Sentono cantare i vespri e le litanie da una parte; dall'altra frusciare il Rio dell'Orso. Vivono in gran ritiro, come pensose ancora, nel loro appartato sfaccendare, d'una sventura domestica e comune, toccata là, nelle isole lontane. O rondinelle dal petto rosso, o rondinelle dal petto bianco, se poteste andar d'accordo! Le une e le altre io vorrei torno torno sotto le mie grondaie, e vorrei avere tutto il dì, mentre sto curvo sui libri, negli occhi intenti ad altro, la vertigine d'ombra del vostro volo! Mi fate tanto buona compagnia già voi, bianche. Io non so che cosa succede stamane. Ho sorpreso una viva conversazione familiare dentro un nido. C'erano pigolìi e strilli. Qualcuno alzava la voce. E ne siete uscite in tre o quattro. Che si è deliberato nella capannetta sospesa, che forse è la residenza del capo-tribù? forse l'impianto di nuove case? Fate pure. E buona caccia! Le mosche abbondano quest'anno, come sempre. A proposito: si chiede a che servono le mosche. Chiaro, che a nutrir le rondini. E le rondini? Chiaro, che a insegnare agli uomini (perciò si mettono sopra le loro finestre) tante cose: l'amore della famiglia e del nidietto. La prima capanna che uomo costruì, di terra seccata al sole, alla sua donna, gli insegnò una coppia di rondini a costruirla. Ciò fu al tempo dei nomadi. Le rondini viaggiatrici insegnarono all'uomo di fermarsi. E gli dettero il modellino della casa. Solo, l'uomo lo capovolse.</emph></p>
+<p><emph>Ma questa voce che è? un rotolìo che mai non finisce, come d'un treno che non arriva mai. È il Fiume, cioè il Serchio. Di', Maria, dolce sorella: c'è stato tempo che noi non s'udiva quella voce? Oh! sì: belle Panie aguzze e taglienti, bel fiume sonoro, cari balestrucci affaccendati, care vedette, care canipaiole, cari reattini, caro campanile; sì, c'è stato quel tempo che noi non si viveva così da presso. E se sapeste, che dolore allora, che pianto era il nostro, che solitudine rumorosa, che angoscia segreta e continua! Ma via, uomo, non ci pensare: mi dite. Ma no, pensiamoci anzi. Sappiate che la dolcezza lunga delle vostre voci nasce da non so quale risonanza che esse hanno nell'intima cavità del dolore passato. Sappiate che non vedrei ora così bello, se già non avessi veduto così nero. Sappiate che non godrei tanto di così tenue (per altri!) materia di gioia, se il martòro non fosse stato così duro e così durevole e non fosse venuto da tutte le possibili fonti di dolore, dalla natura e dalla società, e non ne avesse ferito tutte le possibili sedi, l'anima e il corpo, l'intelligenza e il sentimento. Non è vero. Maria? E benedetto dunque il dolore! Perché in ciò riconoscere un atroce sgarbo della matrigna Natura, che il poco bene che ci dà, ci dia solo a patto di male? Io dico parola più giusta. Io dico: O madre Natura, siano grazie a te che anche dal male ricavi per noi il bene. Noi, mansueta Maria, abbiamo a lungo camminato per l'erta viottola del dolore, e ci siamo anche stancati, o Maria, molto; ma la passeggiata ci ha dato un giovanile appetito di gioia. Sì, che anche una crosta ammuffita e una scodella di legumi sono buon cibo alla nostra fame.</emph></p>
+<p><emph>Ricordiamo, o Maria: ricordiamo! Il ricordo è del fatto come una pittura: pittura bella, se impressa bene in anima buona, anche se di cose non belle. Il ricordo è poesia, e la poesia non è se non ricordo. Quindi noi di poesia ne abbiamo a dovizia. Potrò significarla altrui? Aspettando i "Canti di Castelvecchio" e i "Canti di San Mauro", il presente e il passato, la consolazione e il rimpianto, aspettando questi canti che echeggiano già così soave nelle nostre due anime sole; leggi, o Maria, anzi rileggi questi poemetti. E leggeteli voi, anime candide, cui li affido. Leggeteli candidamente. Perché pare naturale in chi legge una continua preoccupazione, come se egli pensasse o sapesse che chi scrive si rivolge a lui con aria di baldanza e quasi di sfida, dicendogli: Vedi come sono bravo! Onde il lettore fa ogni sforzo per resistere e non lasciarsi persuadere o commuovere da colui che egli suppone sia per menar vanto di tale successo. Oh! no, candide anime! io non voglio farmi onore; voglio, cioè vorrei, trasfondere in voi, nel modo rapido che si conviene alla poesia, qualche sentimento e pensiero mio non cattivo. Vorrei che voi osservaste con me, che a vivere discretamente, in questo mondo, non è necessario che un po' di discrezione... Vorrei che pensaste con me che il mistero, nella vita, è grande, e che il meglio che ci sia da fare, è quello di stare stretti più che si possa agli altri, cui il medesimo mistero affanna e spaura. E vorrei invitarvi alla campagna.</emph></p>
+<p><emph>Appunto oggi è arrivata gente di fuori, di lontano. I rondoni. Strillano in gruppi di quattro o cinque: in corse disperate, come pazzi. Fanno il nido nei buchi lasciati dalle travi. Ecco che io ho intorno casa anche i rondoni, popolo bellicoso e straniero, vestito di nero opaco. Ahimè! con le rondini non andranno d'accordo! saranno risse e guerre! Ma no. Io vi racconto, per finire, un fatto di cui sono stato testimonio or ora. Un rondone (è forse una femmina: certe bontà si suppongono meglio in una che fu o è per essere madre), un rendone viene e riviene, col suo volo di saetta, a uno de' miei nidini di balestruccio. Vuol forse impadronirsene? cacciarne la famigliola che c'è già? No: egli porta ogni volta qualche cosa da mangiare; sta arrampicato un poco alla porticella o finestrella del nido, ed è subito sbarazzato della sua piccola preda. O caro buon rondone: tu non hai forse da fare oggi; tu non hai forse ancora compagno o compagna; e, tanto per non stare (ero per dire, con le mani in mano: ma non si tratta d'uomini, qui) per non stare in ozio, dai un po' d'aiuto a una rondinella, a una d'altra nazione e razza, che ha forse troppi figliuoli e troppo da fare e poco da mangiare. Carità... internazionale! O caso più pietoso ancora, si tratta d'orfanelli? e un altro povero li nutre e tira su alla meglio?</emph></p>
+<p><emph>Uomini, dirò come in una favola per i bimbi: uomini, imitate quel rondone. Uomini, insomma contentatevi del poco ("assai" vuol dire sì abbastanza e sì molto: filosofia della lingua!), e amatevi tra voi nell'ambito della famiglia, della nazione e dell'umanità.</emph></p>
+<p><emph>Ma io non parlo più a te, dolce Maria. Eccomi a te di nuovo... Ma c'è da fare il pane. Oggi è sabato. Lasciamo la penna, e andiamo. Andiamo, buona sorella, a fabbricarci il nostro pane quotidiano, o, a dir meglio, settimanale, che ci sembra poi così buono; né solo perché fatto a</emph> crocette, <emph>come è usanza della nostra Romagna (qua li chiamano</emph> colombini,<emph> come quelli di Pasqua), ma perché intriso, rimenato e foggiato dalle nostre proprie mani. Andiamo dunque a fare opera... indovina, di che?... di emancipazione figliuola mia!</emph></p>
+<closer>
+<dateline>Castelvecchio di Barga, 5 di giugno 1897.</dateline>
+<signed><hi rend="sc">GIOVANNI</hi></signed>
+</closer>
+</div1>
+  </front>
+<body>
+<div1 type="sezione">
+<head rend="italic">LA SEMENTA</head>
+<div2 type="poesia">
+<head>L'ALBA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Allor che Rosa dalle bianche braccia</l>
+<l>aprì le imposte, piccola e lontana</l>
+<l>dal cielo la garrì la cappellaccia.</l></lg>
+<lg type="terzina">
+<l>Dalla Pieve a' Cipressi la campana</l>
+<l>sonava l'alba: in alto, sul Mongiglio</l>
+<l>erano bianchi bioccoli di lana.</l></lg>
+<lg type="terzina">
+<l>Raspava una gallina sopra il ciglio</l>
+<l>d'un fosso. Po s'alzò, scosse la brina,</l>
+<l>scodinzolando, con uno sbadiglio.</l></lg>
+<lg type="terzina">
+<l>Ed al frizzar dell'aria mattutina,</l>
+<l>nel comun letto si svegliò Viola,</l>
+<l>all'improvviso, e mormorò: "Rosina!</l></lg>
+<lg type="terzina">
+<l>Rosina!". E già taceva la chiesuola</l>
+<l>lasciando udire un canto di fringuello,</l>
+<l>e, per i campi ombrati di viola,</l></lg>
+<lg>
+<l>lo squillar de' pennati sul marrello.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>E Rosa in tanto, al davanzale, i semi</l>
+<l>coglieva d'una spiga d'amorino,</l>
+<l>e mondava dal secco i crisantemi.</l></lg>
+<lg type="terzina">
+<l>Si sfumò d'oro un bioccolo argentino:</l>
+<l>oh! una mandra, tutta oro, tranquilla</l>
+<l>pasceva in alto in mezzo al cilestrino.</l></lg>
+<lg type="terzina">
+<l>Corsero come guizzi di pupilla;</l>
+<l>tutto via via razzava: un fil di paglia</l>
+<l>nel concio nero, un ciottolo, una stilla.</l></lg>
+<lg type="terzina">
+<l>Ma il sole entrava come in una maglia</l>
+<l>sottil di nubi d'un color d'opale,</l>
+<l>e traspariva dalla nuvolaglia.</l></lg>
+<lg type="terzina">
+<l>Rosa si ravviava al davanzale:</l>
+<l>or luce, or ombra si sentìa sul viso;</l>
+<l>ché il sol montando per il cielo a scale</l></lg>
+<lg>
+<l>appariva e spariva all'improvviso.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Appariva e spariva; e venìa meno</l>
+<l>la terra all'occhio, e poi, come in un fiato,</l>
+<l>tutto balzava su verso il sereno.</l></lg>
+<lg type="terzina">
+<l>A monte, a mare, ella guardò: guardato</l>
+<l>ch'ebbe, ella disse (udiva sui marrelli</l>
+<l>a quando a quando battere il pennato):</l></lg>
+<lg>
+<l>"Aria a scalelli, acqua a pozzatelli".</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>NEI CAMPI</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Il capoccio avea detto: "Odimi, moglie.</l>
+<l>Senti le rare tremule tirate</l>
+<l>che fanno i grilli? Cadono le foglie;</l></lg>
+<lg type="terzina">
+<l>e tristi i grilli piangono l'estate.</l>
+<l>L'altra notte non chiusi occhio, tanto era</l>
+<l>quel gridìo! - Seminate! Seminate! -</l></lg>
+<lg type="terzina">
+<l>credei sentire. Poi, sentii ier sera</l>
+<l>passar su casa un lungo rombo d'ale:</l>
+<l>l'anatre vanno per la notte nera.</l></lg>
+<lg type="terzina">
+<l>C'è sopra il verno. Il primo temporale</l>
+<l>cova nell'aria. Sai che, per il grano,</l>
+<l>presto è talora, tardi è sempre male.</l></lg>
+<lg type="terzina">
+<l>Domani voglio il mio marrello in mano;</l>
+<l>ché chi con l'acqua semina, raccoglie</l>
+<l>poi col paniere; e cuoce fare in vano</l></lg>
+<lg>
+<l>più che non fare. Incalciniamo, o moglie".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>E per due giorni consegnava il grano</l>
+<l>alle soffici porche. Seminare</l>
+<l>volle la costa, seminare il piano.</l></lg>
+<lg type="terzina">
+<l>E per due giorni non uscì da mare</l>
+<l>pure una nube; e il garrulo vicino,</l>
+<l>"Il tempo è in filo," gli dicea, "compare!"</l></lg>
+<lg type="terzina">
+<l>Ma egli arava tutto il giorno, chino</l>
+<l>sopra le porche. Il terzo dì, cantava</l>
+<l>al buio il gallo, prima di mattino.</l></lg>
+<lg type="terzina">
+<l>Ed egli al buio sorse, ed aggiogava</l>
+<l>le brune vacche (uscirono mugliando</l>
+<l>e rugumando la lor verde bava),</l></lg>
+<lg type="terzina">
+<l>e seminava. Dore al giogo, Nando</l>
+<l>era alla coda: Nando, il suo maggiore,</l>
+<l>che ammoniva le bestie a quando a quando,</l></lg>
+<lg>
+<l>tarde, e la forza pargola di Dore.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Forza di Dore, le divincolanti</l>
+<l>vacche reggevi; ma tuo padre il grano</l>
+<l>pulverulento si gettava avanti.</l></lg>
+<lg type="terzina">
+<l>La sementa spargea con savia mano;</l>
+<l>altri via via copriva la sementa.</l>
+<l>L'aratro andava, nell'ombrìa, pian piano:</l></lg>
+<lg>
+<l>qualche stella vedea l'opera lenta.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>PER CASA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Vedea nell'ombra qualche muta stella</l>
+<l>gli uomini arare. Nella mattinata</l>
+<l>ci fu lo spruzzo d'una scosserella.</l></lg>
+<lg type="terzina">
+<l>La casa aveva aperto ogni impannata.</l>
+<l>Passò lontano, ripassò vicino</l>
+<l>lo stridulo fruscìo della granata.</l></lg>
+<lg type="terzina">
+<l>Fumò nell'aria torpida il camino.</l>
+<l>Poi le stoviglie parvero fra loro</l>
+<l>rissare nel silenzio mattutino.</l></lg>
+<lg type="terzina">
+<l>Poi la fanciulla dai capelli d'oro</l>
+<l>tessea cantando. Andò la spola a volo,</l>
+<l>corsero i licci e il pettine sonoro.</l></lg>
+<lg type="terzina">
+<l>Cantò: "Maria cercava il suo figliuolo.</l>
+<l>Maddalena le disse: Ave Maria:</l>
+<l>sui neri monti io l'ho veduto: o duolo!</l></lg>
+<lg>
+<l>porta una croce e sanguina per via".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Tra il colpeggiar del pettine sonoro</l>
+<l>ed il suo canto, ella sentì, "Rosina!"</l>
+<l>la verginella dai capelli d'oro.</l></lg>
+<lg type="terzina">
+<l>Sorse dalla panchetta ed in cucina</l>
+<l>venne e trovò la cara madre pia</l>
+<l>"Figlia," le disse, "staccia la farina.</l></lg>
+<lg type="terzina">
+<l>Viola è fuori con la mucca, via</l>
+<l>per Ginestrelle. Babbo oggi non viene</l>
+<l>se non al tocco dell'Avemaria.</l></lg>
+<lg type="terzina">
+<l>Sai, per il grano, che spicciarsi è bene:</l>
+<l>presto è talora, tardi è sempre male!</l>
+<l>E già piange le sue notti serene</l></lg>
+<lg type="terzina">
+<l>il grillo stanco, e il primo temporale</l>
+<l>cova nell'aria. Non lo senti a sera</l>
+<l>passar su casa un lungo rombo d'ale?</l></lg>
+<lg>
+<l>L'anatre vanno per la notte nera".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E seguitava: "Io voglio accomodare,</l>
+<l>se mi riesce, questi due radicchi,</l>
+<l>ch'ho già intoccati, con altr'erbe amare.</l></lg>
+<lg type="terzina">
+<l>E tu, mentr'io soffriggo uno o due spicchi</l>
+<l>d'aglio trito, costì, su la brunice,</l>
+<l>fa la polenta, buona anco pei ricchi,</l></lg>
+<lg>
+<l>quando s'ha un bocconcino che ci dice".</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>IL DESINARE</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Ubbidì Rosa al subito comando.</l>
+<l>Sotto il paiolo aggiunse legna, il sale</l>
+<l>gettò nell'acqua che fremé ronzando.</l></lg>
+<lg type="terzina">
+<l>Stacciò: lo staccio, come avesse l'ale,</l>
+<l>frullò fra le sue mani; e la farina</l>
+<l>gialla com'oro nevicava uguale.</l></lg>
+<lg type="terzina">
+<l>Ne sparse un po' nell'acqua, ove una fina</l>
+<l>tela si stese. Il bollor ruppe fioco.</l>
+<l>Ella ne sparse un'altra brancatina.</l></lg>
+<lg type="terzina">
+<l>E poi spentala tutta a poco a poco,</l>
+<l>mestò. Senza bisogno di garzone,</l>
+<l>inginocchiata nel chiaror del fuoco,</l></lg>
+<lg type="terzina">
+<l>mestò, rumò, poi schiaffeggiò il pastone,</l>
+<l>fin che fu cotto; e lo staccò bel bello,</l>
+<l>l'ammucchiò nel paiolo, col cannone</l></lg>
+<lg>
+<l>di pioppo; e lo sbacchiò sopra il tarvello.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Ora la madre nella teglia un muto</l>
+<l>rivolo d'olio infuse, e di vivace</l>
+<l>aglio uno spicchio vi tritò minuto.</l></lg>
+<lg type="terzina">
+<l>Pose la teglia su l'ardente brace,</l>
+<l>col facile olio; e, solo intenta ad esso,</l>
+<l>un poco d'ora l'esplorò sagace.</l></lg>
+<lg type="terzina">
+<l>L'olio cantò con murmure sommesso;</l>
+<l>un acre odore vaporò per tutto.</l>
+<l>Fumavano le calde erbe da presso,</l></lg>
+<lg type="terzina">
+<l>nel tondo ch'ella inebbriò del flutto</l>
+<l>stridulo, aulente; e poi nel canovaccio</l>
+<l>nitido e grosso avviluppava il tutto.</l></lg>
+<lg type="terzina">
+<l>E Rosa intanto sospendea lo staccio,</l>
+<l>ponea le fette sopra un bianco lino,</l>
+<l>stringea le còcche, e v'infilava il braccio.</l></lg>
+<lg>
+<l>Tornò Viola, e furono in cammino.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Rosa e Viola furono in cammino.</l>
+<l>Ma la pia madre altro pensò; discese;</l>
+<l>spillò la botte d'un segreto vino.</l></lg>
+<lg type="terzina">
+<l>E poi, tornata, con le figlie prese</l>
+<l>pei greppi; lesta, poi ch'una campana</l>
+<l>si sentiva sonare dal paese:</l></lg>
+<lg>
+<l>non più che un'ombra pallida e lontana.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>L'ANGELUS</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Sì: sonava lontana una campana,</l>
+<l>ombra di romba; sì che un mal vestito</l>
+<l>che beveva, si alzò dalla fontana,</l></lg>
+<lg type="terzina">
+<l>e più non bevve, e scongiurò, di rito,</l>
+<l>l'impaziente spirito. Via via</l>
+<l>si sentì la campana di San Vito,</l></lg>
+<lg type="terzina">
+<l>si sentì la campana di Badia</l>
+<l>e gli altri borghi, di qua di là, pronti</l>
+<l>cantando si raggiunsero per via.</l></lg>
+<lg type="terzina">
+<l>C'era di muti spiriti nei fonti</l>
+<l>un palpitare al tremolìo sonoro</l>
+<l>ch'empieva l'aria e percotea nei monti.</l></lg>
+<lg type="terzina">
+<l>La donna andava con le figlie; e loro</l>
+<l>squillò sul capo, subito e soave,</l>
+<l>dalla lor Pieve un gran tumulto d'oro.</l></lg>
+<lg>
+<l>E tu nascesti Dio da un piccolo Ave...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>- Tu che nascesti Dio dal piccolo Ave,</l>
+<l>dalla sorrisa paroletta alata</l>
+<l>(disse la voce tremolando grave):</l></lg>
+<lg type="terzina">
+<l>tu che nell'aia bianca e soleggiata</l>
+<l>eri e non eri, seme che vi avesse</l>
+<l>sperso il villano dalla corba alzata;</l></lg>
+<lg type="terzina">
+<l>ma poi l'uomo ti vide e ti soppresse,</l>
+<l>t'uccise l'uomo, o piccoletto grano;</l>
+<l>tu facesti la spiga e poi la mèsse</l></lg>
+<lg type="terzina">
+<l>e poi la vita: fa' che non in vano</l>
+<l>nei duri solchi quella gente in riga</l>
+<l>semini il pane suo quotidiano.</l></lg>
+<lg type="terzina">
+<l>O Dio, neve raffrena, pioggia irriga,</l>
+<l>sole riscalda quei futuri steli;</l>
+<l>fa' che granisca la futura spiga,</l></lg>
+<lg>
+<l>o tu cui l'uomo seminò nei cieli! -</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Così diceva tremolando grave</l>
+<l>la voce d'oro su l'aerea Pieve;</l>
+<l>e gli aratori l'Angelus e l'Ave</l></lg>
+<lg type="terzina">
+<l>dissero; e in mezzo alla preghiera breve</l>
+<l>la dolce madre a lui venìa; non sola:</l>
+<l>l'erano accanto con andar più lieve</l></lg>
+<lg>
+<l>bionda la Rosa e bruna la Viola.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>IL CACCIATORE</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Po le seguiva, il fido cane. Or essi</l>
+<l>siedono su la porca assai contenti.</l>
+<l>La Pieve sorridea sotto i cipressi.</l></lg>
+<lg type="terzina">
+<l>Po ringhiò, fece biancheggiare i denti:</l>
+<l>passava un uomo, un cacciator; ristette.</l>
+<l>"Giovine, giunto qui tra le mie genti!</l></lg>
+<lg type="terzina">
+<l>ciò che avanza per sei, basta per sette"</l>
+<l>disse il capoccio; e poi con lieta cera:</l>
+<l>"Male per voi, che bene per noi mette!</l></lg>
+<lg type="terzina">
+<l>Noi ci vedemmo, o giovine, alla fiera</l>
+<l>di Castiglione, all'osteria di Betto.</l>
+<l>Tuo padre, Andrea buon'anima, non c'era</l></lg>
+<lg type="terzina">
+<l>l'uomo più bravo e tuttavia più schietto;</l>
+<l>e dava tempo al tempo: ecco e tu ari</l>
+<l>un campetto con siepe e con fossetto...</l></lg>
+<lg>
+<l>Bevi il mio vino e siedi tra' miei cari!"</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Ed ei s'assise, il giovane, tra loro,</l>
+<l>e bevve il rosso vino. Era di faccia</l>
+<l>alla fanciulla da' capelli d'oro.</l></lg>
+<lg type="terzina">
+<l>Ma la fanciulla dalle bianche braccia</l>
+<l>non lo guardava. Ed il capoccio allora</l>
+<l>gli domandò della sudata caccia.</l></lg>
+<lg type="terzina">
+<l>E lui: "La prima non ho fatto ancora;</l>
+<l>e sì, che non so dir con quanta pena</l>
+<l>io tutta notte l'aspettai, l'aurora!</l></lg>
+<lg type="terzina">
+<l>Che ieri io rincasava a notte piena,</l>
+<l>pensando ad altro, a non so che: zirlare</l>
+<l>io sentiva nell'alta ombra serena.</l></lg>
+<lg type="terzina">
+<l>Erano i tordi, che già vanno al mare,</l>
+<l>in alto, in alto, in alto. Io sentìa quelle</l>
+<l>voci dell'ombra, nel silenzio, chiare;</l></lg>
+<lg>
+<l>e mi pareva un canticchiar di stelle.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Ma i tordi ancor non calano, e non sento</l>
+<l>se non il fischio delle ballerine</l>
+<l>seguire il solco dell'aratro lento;</l></lg>
+<lg type="terzina">
+<l>e lo scoppiettìo trito senza fine</l>
+<l>del pettirosso mattinier... Comincia</l>
+<l>il passo. Sono piene le saggine</l></lg>
+<lg>
+<l>e le olivete. Sì; ma c'è la cincia!"</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>LA CINCIA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Sorrise, e disse che una volta c'era</l>
+<l>un re piccino; e s'egli era piccino,</l>
+<l>la sua reggia era grande e nera nera.</l></lg>
+<lg type="terzina">
+<l>E un aio aveva questo reattino</l>
+<l>nero, e l'aio era lì sempre a gracchiare,</l>
+<l>e più, quando vedea torbo il mattino.</l></lg>
+<lg type="terzina">
+<l>Il re veniva alle finestre a mare,</l>
+<l>il re veniva alle finestre a monte:</l>
+<l>"Avessi l'ale! Potessi volare!"</l></lg>
+<lg type="terzina">
+<l>Nitrir sentiva alla sua voce pronte</l>
+<l>le sue pulledre sparse alla pastura</l>
+<l>nel grande prato ch'era dopo il ponte.</l></lg>
+<lg type="terzina">
+<l>E quel nitrito, per le antiche mura,</l>
+<l>per gl'infiniti muti colonnati,</l>
+<l>destava i cani; e nella reggia oscura</l></lg>
+<lg>
+<l>rimbombavano in tanto alti latrati.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Or una fata l'ode. Ecco, sia fatto!</l>
+<l>La gran reggia doventa una gran macchia</l>
+<l>a colonne di pino e d'albogatto.</l></lg>
+<lg type="terzina">
+<l>Nera tra i lecci vola una cornacchia.</l>
+<l>È l'aio. Vola su brentoli e mortelle,</l>
+<l>libero, il recacchino, il redimacchia.</l></lg>
+<lg type="terzina">
+<l>E il curvo collo svincolano snelle</l>
+<l>quelle pulledre scalpitando, ed ecco</l>
+<l>ch'elle frullano azzurre cinciarelle.</l></lg>
+<lg type="terzina">
+<l>Tengono l'osso ancora (od uno stecco?)</l>
+<l>le cinciallegre, piccoli mastini,</l>
+<l>sotto le zampe, e picchiano col becco.</l></lg>
+<lg type="terzina">
+<l>Dunque, dagli albigatti esse e da' pini</l>
+<l>fanno la guardia, e il re ne' suoi sambuchi,</l>
+<l>tra molta signoria di fiorrancini,</l></lg>
+<lg>
+<l>regna, e si svaga con la caccia ai bruchi.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Così, vedete, il cacciator che gira,</l>
+<l>vede calare un branco. Egli bel bello</l>
+<l>s'appressa, egli già mira, egli già tira...</l></lg>
+<lg type="terzina">
+<l>suona un nitrito tremulo d'uccello,</l>
+<l>come starnuto, suona un <emph>bau bau</emph> chiaro,</l>
+<l>come doppio squillar di campanello;</l></lg>
+<lg>
+<l>e il branco fugge prima dello sparo.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>L'AVEMARIA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>E poi sazi sorgevano: le zolle</l>
+<l>sbriciò l'aratro, della terra nera,</l>
+<l>dietro le vacche non ancor satolle.</l></lg>
+<lg type="terzina">
+<l>Rosa, con gli altri e con Viola, a schiera,</l>
+<l>ricopriva le porche col marrello.</l>
+<l>Babbo voleva aver finito a sera.</l></lg>
+<lg type="terzina">
+<l>Il dì passò tra sole e solicello:</l>
+<l>il sole s'insaccò, né tornò fuori,</l>
+<l>e Montebello si pose il cappello.</l></lg>
+<lg type="terzina">
+<l>Stridule, qua e là, di più colori,</l>
+<l>correan le foglie: non s'udia per gli ampi</l>
+<l>filari che il vocìo degli aratori.</l></lg>
+<lg type="terzina">
+<l>Palpitavano, a tratti, larghi lampi;</l>
+<l>serrava il cardo le argentine spade;</l>
+<l>ma tutta la sementa era nei campi.</l></lg>
+<lg>
+<l>Venne la sera ed abbuiò le strade.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>E le vacche tornavano alle stalle;</l>
+<l>e la gente, ciarlando per la via,</l>
+<l>saliva co' marrelli su le spalle.</l></lg>
+<lg type="terzina">
+<l>Sonò, di qua di là, l'Avemaria:</l>
+<l>si sentì la campana di San Vito,</l>
+<l>si sentì la campana di Badia.</l></lg>
+<lg type="terzina">
+<l>Era nel cielo un pallido tinnito:</l>
+<l><emph>Dondola dondola dondola!</emph> - <emph>A nanna</emph></l>
+<l><emph>a nanna a nanna!</emph> - Il giorno era finito.</l></lg>
+<lg type="terzina">
+<l>Ora il fuoco accendeva ogni capanna,</l>
+<l>e i bimbi sazi ricevea la cuna,</l>
+<l>col sussurrare della ninnananna.</l></lg>
+<lg type="terzina">
+<l>E le campane, <emph>A nanna a nanna!</emph> l'una;</l>
+<l>l'altra, <emph>Dondola dondola!</emph> tra il volo</l>
+<l>de' pipistrelli per la costa bruna.</l></lg>
+<lg>
+<l>A nanna, il bimbo! e dondoli, il paiuolo!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>La madre era su l'uscio, poi che intese</l>
+<l>un parlottare ed uno scalpicciare</l>
+<l>tra la confusa romba delle chiese.</l></lg>
+<lg type="terzina">
+<l>Ed un lampo alitò sul casolare,</l>
+<l>e bianche bianche illuminò le strade;</l>
+<l>e il capoccio ella udì dal limitare,</l></lg>
+<lg>
+<l>che diceva: "La festa il dì che cade!"</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>LA NOTTE</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Nella notte scrosciò, venne dirotta</l>
+<l>la pioggia, a striscie stridule infinite;</l>
+<l>e il tuono rotolò da grotta a grotta.</l></lg>
+<lg type="terzina">
+<l>Egli, il capoccio, avvolto nel suo mite</l>
+<l>tacito sonno, non udiva. Udiva</l>
+<l>nascere l'erba. Vide le pipite</l></lg>
+<lg type="terzina">
+<l>verdi. Il grano sfronzò, quindi accestiva.</l>
+<l>Nevicava, in suo sogno, a fiocco a fiocco:</l>
+<l>candido il monte, candida la riva.</l></lg>
+<lg type="terzina">
+<l>No: quel bianco era fiori d'albicocco</l>
+<l>e di susino, e l'ape uscìa dal bugno</l>
+<l>ronzando, e il grano già facea lo stocco:</l></lg>
+<lg type="terzina">
+<l>Anzi graniva; ch'era già di giugno.</l>
+<l>La cicala friniva su gli ornelli.</l>
+<l>Egli l'udiva, con la falce in pugno.</l></lg>
+<lg>
+<l>L'acqua veniva stridula a ruscelli.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>L'acqua veniva, stridula, a ruscelli.</l>
+<l>Rosa dormiva e non udiva: udiva</l>
+<l>cantare al bosco zigoli e fringuelli.</l></lg>
+<lg type="terzina">
+<l>Era nel bosco, nella reggia estiva</l>
+<l>del redimacchia. Intorno udìa beccare.</l>
+<l>gemme di pioppo e mignoli d'uliva.</l></lg>
+<lg type="terzina">
+<l>E la macchia pareva un alveare,</l>
+<l>piena di frulli e di ronzìi. Ma ella</l>
+<l>sentiva anche un frugare, uno sfrascare,</l></lg>
+<lg type="terzina">
+<l>un camminare. Chi sarà? Ma in quella</l>
+<l>che riguardava tra un cespuglio raro,</l>
+<l>improvvisa cantò la cinciarella.</l></lg>
+<lg type="terzina">
+<l>E sonò d'ogni parte il <emph>bau bau</emph> chiaro,</l>
+<l>come un tintinno, delle cincie; ed ecco</l>
+<l>pronto all'orecchio risonar lo sparo.</l></lg>
+<lg>
+<l>Ma era un tuono, che rimbombò secco.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E tra il tumulto carezzò Viola</l>
+<l>che s'era desta e che piangea. Pian piano</l>
+<l>l'addormentava. E Rosa rifù sola.</l></lg>
+<lg type="terzina">
+<l>Pensava... i licci della tela, il grano</l>
+<l>della sementa, il cacciatore... e Rosa</l>
+<l>lo ricercava. Dove mai? Lontano.</l></lg>
+<lg>
+<l>In una reggia. E risognò... Che cosa?</l></lg>
+</div3>
+</div2>
+</div1>
+<div1 type="sezione">
+<head rend="italic">IL BORDONE - L'AQUILONE</head>
+<div2 type="poesia">
+<head rend="italic">IL BORDONE</head>
+<lg type="poemetto">
+<lg type="terzina">
+<l>Si tagliò da una siepe - era un mattino</l>
+<l>triste ma dolce - il suo bordone, e, volta</l>
+<l>la fronte, mosse per il suo cammino.</l></lg>
+<lg type="terzina">
+<l>Sì: mosse. E quella era la siepe folta</l>
+<l>d'un camposanto, ed era il camposanto,</l>
+<l>quello, dove sua madre era sepolta.</l></lg>
+<lg type="terzina">
+<l>D'allora ha errato. Seco avea soltanto</l>
+<l>il suo bordone. E qua tese la mano,</l>
+<l>e qua la porse. E ha gioito e pianto.</l></lg>
+<lg type="terzina">
+<l>E vide il fiume, il mare, il monte, il</l>
+<l>tutto: e a tutto era più presso il cuore</l>
+<l>di quanto il piede n'era più lontano.</l></lg>
+<lg type="terzina">
+<l>Disperò sui tramonti, e su le aurore</l>
+<l>sperò; sì che la via sempre riprese.</l>
+<l>Vuoto era il frutto, ma soave il fiore.</l></lg>
+<lg type="terzina">
+<l>Sopra la soglia d'infinite chiese</l>
+<l>pregò. Vide infiniti uomini: alcuno,</l>
+<l><emph>Raca!</emph> gli disse, ed altri, <emph>Ave</emph> gli rese:</l></lg>
+<lg type="terzina">
+<l>scòrsero i più, come su lago bruno</l>
+<l>ombra di nube nera presso nera</l>
+<l>ombra di nube. E fu tutto e nessuno.</l></lg>
+<lg type="terzina">
+<l>Sì ch'ora è stanco. Ed è, ora, una sera</l>
+<l>triste ma dolce. E sta, come una volta,</l>
+<l>presso una siepe. E questa è ancor com'era.</l></lg>
+<lg type="terzina">
+<l>Ché fermo è là, presso la siepe folta</l>
+<l>d'un camposanto; e questo camposanto</l>
+<l>è quello dove è sua madre sepolta.</l></lg>
+<lg type="terzina">
+<l>Egli è quel ch'era, ma il suo corpo è franto</l>
+<l>dall'error lungo; e nel suo cuore è vano</l>
+<l>ciò che gioì, ma piange ciò che ha pianto.</l></lg>
+<lg type="terzina">
+<l>E sta, vecchio e canuto, con la mano</l>
+<l>sul bordone d'allora. Ed ecco, vede</l>
+<l>che da quel giorno radicò pian piano,</l></lg>
+<lg type="terzina">
+<l>il suo bordone, e che visse, e che diede</l>
+<l>già fiori e foglie: sotto le sue dita</l>
+<l>germinò, radicò sotto il suo piede.</l></lg>
+<lg type="terzina">
+<l>E gli resta una foglia inaridita</l>
+<l>che trema. E il vento soffia. E il pellegrino,</l>
+<l>curvo sopra la immobile sua vita,</l></lg>
+<lg>
+<l>par che muova ora, per il suo cammino.</l></lg></lg>
+</div2>
+<div2 type="poesia">
+<head rend="italic">IL VISCHIO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Non li ricordi più, dunque, i mattini</l>
+<l>meravigliosi? Nuvole a' nostri occhi,</l>
+<l>rosee di peschi, bianche di susini,</l></lg>
+<lg type="terzina">
+<l>parvero: un'aria pendula di fiocchi,</l>
+<l>o bianchi o rosa, o l'uno e l'altro: meli,</l>
+<l>floridi peri, gracili albicocchi.</l></lg>
+<lg type="terzina">
+<l>Tale quell'orto ci apparì tra i veli</l>
+<l>del nostro pianto, e tenne in sé riflessa</l>
+<l>per giorni un'improvvisa alba dei cieli.</l></lg>
+<lg type="terzina">
+<l>Era, sai, la speranza e la promessa,</l>
+<l>quella; ma l'ape da' suoi bugni uscita</l>
+<l>pasceva già l'illusione; ond'essa</l></lg>
+<lg type="terzina">
+<l>fa, come io faccio, il miele di sua vita.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Una nube, una pioggia... a poco a poco</l>
+<l>tornò l'inverno; e noi sentimmo, chiusi</l>
+<l>per lunghi giorni, brontolare il fuoco.</l></lg>
+<lg type="terzina">
+<l>Sparvero i bianchi e rossi alberi, infusi</l>
+<l>dentro il nebbione; e per il cielo smorto</l>
+<l>era un assiduo sibilo di fusi;</l></lg>
+<lg type="terzina">
+<l>e piovve e piovve. Il sole (onde mai sorto?)</l>
+<l>brillò di nuovo al suon delle campane:</l>
+<l>tutto era verde, verde era quell'orto.</l></lg>
+<lg type="terzina">
+<l>Dove le branche pari a filigrane?</l>
+<l>Tutti i petali a terra. E su l'aurora</l>
+<l>noi calpestammo le memorie vane</l></lg>
+<lg>
+<l>ognuna con la sua lagrima ancora.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Ricordi? Io dissi: "O anima sorella,</l>
+<l>vivono! E tu saprai che per la vita</l>
+<l>si getta qualche cosa anche più bella</l></lg>
+<lg type="terzina">
+<l>della vita: la sua lieve fiorita</l>
+<l>d'ali. La pianta che a' suoi rami vede</l>
+<l>i mille pomi sizienti, addita</l></lg>
+<lg type="terzina">
+<l>per terra i fiori che all'oblio già diede...</l>
+<l>Non però questa (io m'interruppi), questa</l>
+<l>che non ha frutti ai rami e fiori al piede".</l></lg>
+<lg type="terzina">
+<l>Stava senza timore e senza festa,</l>
+<l>e senza inverni e senza primavere,</l>
+<l>quella; cui non avrebbe la tempesta</l></lg>
+<lg>
+<l>tolto che foglie, nate per cadere.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>Albero ignoto! (io dissi: non ricordi?)</l>
+<l>albero strano, che nel tuo fogliame</l>
+<l>mostri due verdi e un gialleggiar discordi;</l></lg>
+<lg type="terzina">
+<l>albero tristo, ch'hai diverse rame,</l>
+<l>foglie diverse, ottuse queste, acute</l>
+<l>quelle, e non so che rei glomi e che trame;</l></lg>
+<lg type="terzina">
+<l>albero infermo della tua salute,</l>
+<l>albero che non hai gemme fiorite,</l>
+<l>albero che non vedi ali cadute;</l></lg>
+<lg type="terzina">
+<l>albero morto, che non curi il mite</l>
+<l>soffio che reca il polline, né il fischio</l>
+<l>del nembo che flagella aspro la vite...</l></lg>
+<lg>
+<l>ah! sono in te le radiche del vischio!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>Qual vento d'odio ti portò, qual forza</l>
+<l>cieca o nemica t'inserì quel molle</l>
+<l>piccolo seme nella dura scorza?</l></lg>
+<lg type="terzina">
+<l>Tu non sapevi o non credevi: ei volle:</l>
+<l>ti solcò tutto con sue verdi vene,</l>
+<l>fimo si fece delle tue midolle!</l></lg>
+<lg type="terzina">
+<l>E tu languivi; e la bellezza e il bene</l>
+<l>t'uscìa di mente, né pulsar più fuori</l>
+<l>gemme sentivi di tra il tuo lichene.</l></lg>
+<lg type="terzina">
+<l>E crebbe e vinse; e tutti i tuoi colori,</l>
+<l>tutte le tue soavità, col suco</l>
+<l>de' tuoi pomi e il profumo de' tuoi fiori,</l></lg>
+<lg>
+<l>sono una perla pallida di muco.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg type="terzina">
+<l>Due anime in te sono, albero. Senti</l>
+<l>più la lor pugna, quando mai t'affisi</l>
+<l>nell'ozioso mormorio dei venti?</l></lg>
+<lg type="terzina">
+<l>Quella che aveva lagrime e sorrisi,</l>
+<l>che ti ridea col labbro de' bocciuoli,</l>
+<l>che ti piangea dai palmiti recisi,</l></lg>
+<lg type="terzina">
+<l>e che d'amore abbrividiva ai voli</l>
+<l>d'api villose, già sé stessa ignora.</l>
+<l>Tu vivi l'altra, e sempre più t'involi</l></lg>
+<lg type="terzina">
+<l>da te, fuggendo immobilmente; ed ora</l>
+<l>l'ombra straniera è già di te più forte,</l>
+<l>più te. Sei tu, checché gemmasti allora,</l></lg>
+<lg>
+<l>ch'ora distilli il glutine di morte.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">IL TORELLO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Su la riva del Serchio, a Selvapiana,</l>
+<l>di qua del Ponte a cui si ferma a bere</l>
+<l>il barrocciaio della Garfagnana,</l></lg>
+<lg type="terzina">
+<l>da Castelvecchio menano, le sere</l>
+<l>del dì di festa, il lor piccolo armento</l>
+<l>molte ragazze dalle treccie nere.</l></lg>
+<lg type="terzina">
+<l>Siedono là sul margine, col mento</l>
+<l>sopra una mano, riguardando i pioppi</l>
+<l>bianchi del fiume; e parlano. Ma il vento</l></lg>
+<lg type="terzina">
+<l>porta brusìo di voci, eco di scoppi</l>
+<l>di mortaretti, eco di passi presta</l>
+<l>ed un confuso tremito di doppi.</l></lg>
+<lg type="terzina">
+<l>Dolce ascoltare allora, con la testa</l>
+<l>voltata altrove, quelle due parole...</l>
+<l>coperte un po' dalle campane a festa!</l></lg>
+<lg type="terzina">
+<l>altrove... al Serchio che risplende, al sole</l>
+<l>che prende il monte... o Nelly, anco ai vivagni</l>
+<l>del tuo pannello, anco alle mucche sole</l></lg>
+<lg>
+<l>che brucano il palèo sotto i castagni.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>To'... quel vitello - al cui grande occhio appari</l>
+<l>immensa, con un lento albero in mano,</l>
+<l>quando con una vetta tu lo pari -</l></lg>
+<lg type="terzina">
+<l>guarda stupito, nuovo, al monte, al piano:</l>
+<l>tutto una selva, il monte; la costiera</l>
+<l>sembra un velluto tenero di grano.</l></lg>
+<lg type="terzina">
+<l>Egli che non sapea la primavera,</l>
+<l>la dura coda svincola, saluta</l>
+<l>il mondo bello. Prima, esso non c'era:</l></lg>
+<lg type="terzina">
+<l>ci si ritrova: fiuta l'aria, fiuta</l>
+<l>la terra: all'aria sobbalzando avventa</l>
+<l>le brevi corna della fronte bruta;</l></lg>
+<lg type="terzina">
+<l>e con le zampe irrequiete tenta</l>
+<l>la terra. Il cielo è tutto pieno d'oro,</l>
+<l>Nelly, ed il suolo è tutto pien di menta.</l></lg>
+<lg type="terzina">
+<l>Vuole empir della sua gioia il sonoro</l>
+<l>spazio, il vitello, e trae dalle profonde</l>
+<l>fauci un muglio arrotato, agro, di toro.</l></lg>
+<lg>
+<l>Una giovenca lontana risponde.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Dunque, Nelly, rimeni oggi un torello:</l>
+<l>savio, però, che sempre ha te di fronte</l>
+<l>con nella mano il grande albero snello.</l></lg>
+<lg type="terzina">
+<l>Arrivi a Castelvecchio, alla sua fonte</l>
+<l>nuova, perenne, a cui vengono in fila</l>
+<l>le gravi mucche nel calar dal monte.</l></lg>
+<lg type="terzina">
+<l>Queste, da un canto, alla marmorea pila</l>
+<l>succhiano l'acqua; e quando alzano il collo,</l>
+<l>l'acqua dalle narici nere fila.</l></lg>
+<lg type="terzina">
+<l>Dall'altro, suona, empiendosi al rampollo</l>
+<l>vivo, la secchia: una fanciulla aspetta</l>
+<l>con sui riccioli bruni il suo corollo.</l></lg>
+<lg type="terzina">
+<l>A questa fonte, o Nelly, ora s'affretta</l>
+<l>il tuo torello, a bere: dalla piena</l>
+<l>conca l'acqua discende alla cunetta,</l></lg>
+<lg type="terzina">
+<l>così ch'ell'ha come un pulsar di vena.</l>
+<l>Egli guarda coi grossi occhi, né beve;</l>
+<l>ché dentro l'acqua che si muove appena,</l></lg>
+<lg>
+<l>vede un coltello azzurro ondeggiar lieve...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>Mugola e fugge. E poi mugolando erra</l>
+<l>due dì, da selva a selva, nel suo colle,</l>
+<l>strappando qualche fil d'erba alla terra.</l></lg>
+<lg type="terzina">
+<l>Cerca dolente le segrete polle</l>
+<l>verdi di capelvenere; vi mira</l>
+<l>dentro: il coltello taglia l'ombra molle.</l></lg>
+<lg type="terzina">
+<l>Aspetta al pozzo, quando alcuna tira</l>
+<l>la secchia: l'acqua vi trabocca e sbalza:</l>
+<l>dentro, il coltello gira gira gira.</l></lg>
+<lg type="terzina">
+<l>Allora, al botro: dall'aerea balza,</l>
+<l>scende: il coltello posa su la ghiaia;</l>
+<l>ma la corrente un po' l'urta, e lo scalza</l></lg>
+<lg type="terzina">
+<l>forse, e lo porta. Aspetta egli: si sdraia</l>
+<l>sui lisci giunchi, e coi grandi occhi spia,</l>
+<l>fissando l'acqua di tra la giuncaia,</l></lg>
+<lg type="terzina">
+<l>se mai quell'ombra della morte via</l>
+<l>portino l'onde. Sopra la sua testa</l>
+<l>il tempo corre per la muta via.</l></lg>
+<lg>
+<l>Aspetta: e l'acqua passa e l'ombra resta.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>Il terzo giorno... "<emph>Ecché tu piangi, sciocca?</emph></l>
+<l><emph>Sa 'ssai! En bestie, 'un ci han lunari: scólta:</emph></l>
+<l><emph>'un si sa gnanco noi quel che ci tocca!</emph>"</l></lg>
+<lg type="terzina">
+<l>dice tuo padre, o Nelly. Tu sei volta</l>
+<l>alla Via Nova, guardi nella valle,</l>
+<l>per vederlo passare anche una volta.</l></lg>
+<lg type="terzina">
+<l>Passa: un uomo alla testa, uno alle spalle:</l>
+<l>è impastoiato, ad or ad or trempella...</l>
+<l>Passa... Oh! poggi solivi! ombrose stalle!</l></lg>
+<lg>
+<l>E quanto fieno! quanta lupinella!</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">IL SOLDATO DI SAN PIERO IN CAMPO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Era poc'anzi nella valle il ronzo</l>
+<l>dell'altre sere. Ogni campana prese</l>
+<l>poi sonno in una lunga ansia di bronzo.</l></lg>
+<lg type="terzina">
+<l>Si dicevano <emph>Ave! Ave!</emph> le chiese,</l>
+<l>e i vecchi preti, che ristanno un poco</l>
+<l>con le mani alla fune anco sospese.</l></lg>
+<lg type="terzina">
+<l><emph>Ave!</emph> tra uno scampanìo più fioco</l>
+<l>dai monti, che, lassù, pare una voce</l>
+<l>che dian quei cirri e cumuli di fuoco...</l></lg>
+<lg type="terzina">
+<l><emph>Ave!</emph> tra uno scoppiettìo veloce</l>
+<l>di balestrucci, che nel cielo intorno</l>
+<l>gettan ombre di pii segni di croce...</l></lg>
+<lg type="terzina">
+<l>segni di croce, sul morir del giorno,</l>
+<l>nel campo, nella via, nel casolare</l>
+<l>dove sospira i passi del ritorno</l></lg>
+<lg type="terzina">
+<l>il nonno, solo... E già venian più rare</l>
+<l>le squille delle Avemarie lontane;</l>
+<l>e s'alzò dalla valle, di tra un mare</l></lg>
+<lg>
+<l>di foglie, un suono a morto, a tre campane.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Oh! <emph>Piangi... Pensa... Dormi... Piangi... Pensa... </emph></l>
+<l><emph>Dormi</emph>... echeggiava in ogni cuor San Piero</l>
+<l>nell'ora dolce in cui fuma la mensa:</l></lg>
+<lg type="terzina">
+<l>nell'ora in cui risuona ogni sentiero</l>
+<l>di piedi scalzi, e anche di novelle</l>
+<l>e di ragioni dette con mistero:</l></lg>
+<lg type="terzina">
+<l>San Piero in Campo sperso là tra quelle</l>
+<l>file di pioppi, garrulo, ai tramonti,</l>
+<l>di rane gravi e allegre raganelle.</l></lg>
+<lg type="terzina">
+<l>Echeggiava tra i monti. Erano i monti</l>
+<l>tutti celesti; tutto era imbevuto</l>
+<l>di cielo: erba di poggi, acqua di fonti,</l></lg>
+<lg type="terzina">
+<l>fronda di selve, e col suo blocco acuto</l>
+<l>la liscia Pania, e con le sue foreste</l>
+<l>il monte Gragno molle di velluto.</l></lg>
+<lg type="terzina">
+<l>Sfiorava il sole tuttavia le creste,</l>
+<l>toccando qua e là nuvole vane</l>
+<l>e di laggiù, tra tutto quel celeste,</l></lg>
+<lg>
+<l>veniva il suono delle tre campane.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E <emph>Dormi... Piangi!</emph>... Chi piange, lo sanno</l>
+<l>tutti: sua madre. Come era contenta!</l>
+<l>Egli le ritornava ora, nell'anno,</l></lg>
+<lg type="terzina">
+<l>tra pochi mesi. Ognuno lo rammenta,</l>
+<l>buono! bello! ma il dito alza alla bocca,</l>
+<l>come sua madre sia per lì, che senta.</l></lg>
+<lg type="terzina">
+<l>Quel dolore ha una lunga ombra che tocca</l>
+<l>tutte le case. Col cucchiaio in mano</l>
+<l>resta, come la veda, una che imbocca</l></lg>
+<lg type="terzina">
+<l>il suo piccino, al fuoco. - Era a Milano,</l>
+<l>credo, a Modena... - Dove la via sale,</l>
+<l>due calessini vanno su pian piano,</l></lg>
+<lg type="terzina">
+<l>al passo: intorno suona il disuguale</l>
+<l>tonfo degli otto zoccoli, ed, appena,</l>
+<l>il cigolìo leggiero delle sale.</l></lg>
+<lg type="terzina">
+<l>Dolce il ritorno! Dolce essere a cena</l>
+<l>spartendo ai bimbi irrequieti il pane...</l>
+<l>Vanno; e nell'aria concava e serena</l></lg>
+<lg>
+<l>rimbomba il suono delle tre campane.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>E <emph>Pensa... Dormi</emph>... È limpida la sera:</l>
+<l>si vede sempre, e non s'accende il lume.</l>
+<l>C'è nelle selve fumo qua, che annera,</l></lg>
+<lg type="terzina">
+<l>là, che biancheggia: bruciano il pattume:</l>
+<l>presto si coglie. E l'uva ingrossa, e invaia</l>
+<l>i chicchi già. La canapa è nel fiume.</l></lg>
+<lg type="terzina">
+<l>È già stesa a capretta su la ghiaia,</l>
+<l>via via: dura ha la tiglia, alta la canna.</l>
+<l>Ecco che già si mazzola in qualche aia.</l></lg>
+<lg type="terzina">
+<l>Vengono all'aia, avanti la capanna,</l>
+<l>i giovinotti, e ognuno si promette</l>
+<l>con la ragazza che gli tien la manna.</l></lg>
+<lg type="terzina">
+<l>Il sessantino ha messo i crini, mette</l>
+<l>la rappa. Già si sguscia. Nelle stalle</l>
+<l>le manse vacche mangiano le vette.</l></lg>
+<lg type="terzina">
+<l>È uno splendore di pannocchie gialle</l>
+<l>per tutto, alle finestre, nelle altane.</l>
+<l>La sera è dolce: solo nella valle</l></lg>
+<lg>
+<l>suonano a morto quelle tre campane.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>E <emph>Piangi... Pensa... Dormi</emph>... Egli, sotterra</l>
+<l>dorme! ed in terra appena benedetta!</l>
+<l>dorme sotterra, e non nella sua terra!</l></lg>
+<lg type="terzina">
+<l>Fuori è restato un po' di lui, che aspetta;</l>
+<l>chiama i rettori del suo vicinato;</l>
+<l>chiede la messa della sua chiesetta;</l></lg>
+<lg type="terzina">
+<l>vuol l'acquasanta ch'ebbe appena nato,</l>
+<l>che le sue fasce già bagnò, che bagni</l>
+<l>or la sua cassa; vuol esser portato</l></lg>
+<lg type="terzina">
+<l>al camposanto suo, tra i suoi castagni,</l>
+<l>sotto il suo panno dalla frangia nera,</l>
+<l>sopra le spalle de' suoi pii compagni,</l></lg>
+<lg type="terzina">
+<l>tra il calpestìo de' suoi compagni a schiera,</l>
+<l>tra il muto calpestìo che, dove passa,</l>
+<l>lascia nel timo un morto odor di cera;</l></lg>
+<lg type="terzina">
+<l>e il cataletto or s'alza, ora s'abbassa:</l>
+<l>si va pian piano ma per vie non piane:</l>
+<l>e dolcemente il capo nella cassa</l></lg>
+<lg>
+<l>si culla al suono delle sue campane.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg type="terzina">
+<l>E dice <emph>Mamma... Mamma... Mamma</emph>... Vuole</l>
+<l>sua madre. Ahimè! che voglia, quella voglia</l>
+<l>di mamma! quel dolore, quanto duole!</l></lg>
+<lg type="terzina">
+<l>Ora, più nulla. Stride qualche foglia;</l>
+<l>si chiamano e rispondono tranquilli</l>
+<l>due chiù; va la Corsonna che gorgoglia.</l></lg>
+<lg type="terzina">
+<l>Tu su la bruna valle alta sfavilli,</l>
+<l>Barga, coi cento lumi tuoi. Rimane</l>
+<l>l'orma del pianto tra un gridìo di grilli</l></lg>
+<lg>
+<l>e un interrotto gracidar di rane.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">L'ALBERGO</head>
+<lg type="poemetto">
+<lg type="terzina">
+<l>Qual ne corse parola oggi per l'aria,</l>
+<l>alata? Soli, a due, quindi a branchetti,</l>
+<l>a stormi, nella macchia solitaria</l></lg>
+<lg type="terzina">
+<l>giungono muti i passeri, dai tetti</l>
+<l>neri tra i salci, dalla chiesa nera</l>
+<l>tra i pampani, dai borghi al monte stretti</l></lg>
+<lg type="terzina">
+<l>per non cadere. È limpida la sera:</l>
+<l>segnano i boschi un bruno orlo sottile</l>
+<l>su le montagne, una sottil criniera.</l></lg>
+<lg type="terzina">
+<l>Non garrirà di passeri il cortile,</l>
+<l>e salutando con le squille sole</l>
+<l>vaporerà nell'ombra il campanile!</l></lg>
+<lg type="terzina">
+<l>Non i loquaci spettator che suole,</l>
+<l>avrà sui merli il volo de' rondoni</l>
+<l>(uno svolìo di moscerini al sole</l></lg>
+<lg type="terzina">
+<l>par di lontano sopra i torrioni</l>
+<l>del castellaccio); e assorderà le mura</l>
+<l>mute il lor grido, e i muti erbosi sproni!</l></lg>
+<lg type="terzina">
+<l>Giungono sempre nella macchia oscura;</l>
+<l>frullano, entrano, affondano in un pino:</l>
+<l>nel pino solo in mezzo alla radura.</l></lg>
+<lg type="terzina">
+<l>Pende un silenzio tremulo, opalino,</l>
+<l>su la radura: dondolano appena</l>
+<l>le cavallette il lor campanellino.</l></lg>
+<lg type="terzina">
+<l>Ed ecco nella queta aria serena</l>
+<l>scoppia un tumulto - l'albero ne oscilla -</l>
+<l>subito come un rotolar di piena.</l></lg>
+<lg type="terzina">
+<l>È il pino, il pino che cinguetta, strilla,</l>
+<l>pigola; ogni ago tremola e saltella.</l>
+<l>Le imposte, per udire, apre una villa.</l></lg>
+<lg type="terzina">
+<l>Nella radura quella nera ombrella</l>
+<l>aerea tumultua... St!... Solo</l>
+<l>ora s'ode un ronzìo di cantarella.</l></lg>
+<lg type="terzina">
+<l>Che è? Crocchiava un ghiro sul nocciuolo?</l>
+<l>Secca una pina crepitò? Lontano</l>
+<l>cantava l'invisibile assiuolo?</l></lg>
+<lg type="terzina">
+<l>Silenzio. Solo il ronzìo grave e piano</l>
+<l>s'ode in disparte, e qualche cavalletta</l>
+<l>che scuote il suo campanellino invano.</l></lg>
+<lg type="terzina">
+<l>Ma di nuovo quel pino, ecco, cinguetta,</l>
+<l>pigola, strilla; e tutta la boscaglia</l>
+<l>ne suona intorno, mentre l'ombre getta</l></lg>
+<lg type="terzina">
+<l>più grandi. Azzurra in cielo si ritaglia</l>
+<l>ogni cresta dei monti; una vetrata</l>
+<l>a mezzo il poggio razza ed abbarbaglia.</l></lg>
+<lg type="terzina">
+<l>Dura il frastuono, e par d'una cascata:</l>
+<l>pare sopra il fogliame ampio e sonoro</l>
+<l>lo scroscio d'una luminosa acquata.</l></lg>
+<lg>
+<l>Sfuma gli alberi neri un vapor d'oro.</l></lg></lg>
+</div2>
+<div2 type="poesia">
+<head rend="italic">LA CALANDRA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Galleggia in alto un cinguettìo canoro.</l>
+<l>È la calandra, immobile nel sole</l>
+<l>meridiano, come un punto d'oro.</l></lg>
+<lg type="terzina">
+<l>E le sue voci pullulano sole</l>
+<l>dal cielo azzurro, quando è per tacere</l>
+<l>la romanella delle risaiole;</l></lg>
+<lg type="terzina">
+<l>e non più tintinnìo di sonagliere</l>
+<l>s'ode passare per le vie lontane;</l>
+<l>ché già desina all'ombra il carrettiere.</l></lg>
+<lg type="terzina">
+<l>Né più cicale, né più rauche rane,</l>
+<l>non un fil d'aria, non un frullo d'ale:</l>
+<l>unica, in tutto il cielo, essa rimane.</l></lg>
+<lg type="terzina">
+<l>Rimane e canta; ed il suo canto è quale</l>
+<l>di tutto un bosco, di tutto un mattino;</l>
+<l>vario così com'iride d'opale.</l></lg>
+<lg type="terzina">
+<l>Canta; e tu n'odi il lungo mattutino</l>
+<l>grido del merlo; e tu senti un odore</l>
+<l>acuto di ginepro e di sapino,</l></lg>
+<lg type="terzina">
+<l>senti un odore d'ombra e d'umidore,</l>
+<l>di foglie, di corteccia e di rugiada;</l>
+<l>un fragrar di corbezzole e di more.</l></lg>
+<lg type="terzina">
+<l>Vai per un bosco e senti, ove tu vada,</l>
+<l>quei fischi uscir più liquidi e più ricchi;</l>
+<l>poi, come colpi da remota strada</l></lg>
+<lg>
+<l>di spaccapietre, il martellar de' picchi.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Ma no: <emph>dib dib</emph>: è il passero. Ricopre</l>
+<l>la nebbia i campi, dove è dall'aurora</l>
+<l>de' bovi il muglio e il viavai dell'opre.</l></lg>
+<lg type="terzina">
+<l>Fuma la terra, fuma il cielo; ancora</l>
+<l>fuma il camino e, tra le tamerici,</l>
+<l>fuma il letame e grave oggi vapora.</l></lg>
+<lg type="terzina">
+<l>Vaniscono laggiù le zappatrici;</l>
+<l>di qua l'aratro emerge per incanto,</l>
+<l>tra un pigolìo di passeri mendici.</l></lg>
+<lg type="terzina">
+<l>Ma donde viene chiaro e dolce il canto</l>
+<l>or della quaglia? È in fior lo spigo; tondo</l>
+<l>s'apre nei campi il fior dell'elianto.</l></lg>
+<lg type="terzina">
+<l>È sera forse? e dentro il ciel profondo</l>
+<l>il crepuscolo indugia? e nel sereno</l>
+<l>canta la quaglia di tra il grano biondo?</l></lg>
+<lg type="terzina">
+<l>E pieno il prato è già di trilli, e pieno</l>
+<l>il grano è già di lucciole, e su l'aie</l>
+<l>bianche s'esala il buon odor del fieno.</l></lg>
+<lg type="terzina">
+<l>E no, ch'è l'alba: è sotto le grondaie</l>
+<l>tutto un ciarlare. Sono intorno al nido</l>
+<l>le rondinelle garrule massaie.</l></lg>
+<lg type="terzina">
+<l>La casa dorme. Niuno ancor nel fido</l>
+<l>bricco il caffè, nemico al sonno, infuse.</l>
+<l>Vola e rivola il mattutino strido</l></lg>
+<lg>
+<l>lungo le verdi persiane chiuse.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Un torvo strillo di poiana... muta</l>
+<l>solitudine... roccie irte, malvage...</l>
+<l>qualche cesto d'assenzio e di cicuta...</l></lg>
+<lg type="terzina">
+<l>Il cielo sfuma in un rossor di brage.</l>
+<l>Solo un torrente urlare odo: russare</l>
+<l>d'un ebbro in mezzo una sua muta strage.</l></lg>
+<lg type="terzina">
+<l>E la poiana strilla. Ecco mi appare</l>
+<l>una rovina, una deserta chiesa,</l>
+<l>da cui te, solitario, odo cantare.</l></lg>
+<lg type="terzina">
+<l>Canti come una dolce anima presa</l>
+<l>da' suoi ricordi, tu, dalla rovina</l>
+<l>dove è già la pietosa edera ascesa,</l></lg>
+<lg type="terzina">
+<l>passero azzurro! O donde mai, vicina</l>
+<l>cincia, m'inviti in vano a te? Da un orto</l>
+<l>rosso, cui cinge il bosso e l'albaspina.</l></lg>
+<lg type="terzina">
+<l>Pendono rosse tra il fogliame smorto</l>
+<l>le dolci mele, e ingiallano le pere.</l>
+<l>Nel mezzo un fico, nudo già, contorto.</l></lg>
+<lg type="terzina">
+<l>E vi cantano cincie e capinere...</l>
+<l>Ma no, sei tu che, immobile nel sole,</l>
+<l>canti, o calandra, sopra le brughiere.</l></lg>
+<lg type="terzina">
+<l>E le tue voci pullulano sole</l>
+<l>dal cielo azzurro, con virtù segreta,</l>
+<l>come veggenti limpide parole,</l></lg>
+<lg>
+<l>o grande su le brevi ali poeta!</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">CONTE UGOLINO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Ero all'Ardenza, sopra la rotonda</l>
+<l>dei bagni, e so che lunga ora guardai</l>
+<l>un correre, nell'acqua, onda su onda,</l></lg>
+<lg type="terzina">
+<l>di lampi d'oro. E alcuno parlò: "Sai?"</l>
+<l>(era il Mare, in un suo grave anelare)</l>
+<l>"io vado sempre e non avanzo mai".</l></lg>
+<lg type="terzina">
+<l>E io: "Vecchione," (ma l'eterno Mare</l>
+<l>succhiò lo scoglio e scivolò via, forse</l>
+<l>piangendo) "e l'uomo avanza, sì; ti pare?"</l></lg>
+<lg type="terzina">
+<l>E l'occhio, vago qua e là mi corse</l>
+<l>alla Meloria... Di che mai ragiona,</l>
+<l>le notti, il tardo guidator dell'Orse</l></lg>
+<lg type="terzina">
+<l>oziando su l'acqua che risuona</l>
+<l>lugubre e frangesi alla rea scogliera?...</l>
+<l>E vidi te, cerulea Gorgona;</l></lg>
+<lg type="terzina">
+<l>e più lontana, come tra leggiera</l>
+<l>nebbia, accennante verso te, rividi</l>
+<l>l'altra. Io vedeva la Capraia, ch'era</l></lg>
+<lg type="terzina">
+<l>come una nube, e lineavo i lidi</l>
+<l>della Maremma, e imaginai sonante</l>
+<l>un castello di soli aerei stridi,</l></lg>
+<lg>
+<l>in un deserto; e poi te vidi, o Dante.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Sedeva sopra un masso di granito</l>
+<l>ciclopico. Pensava. Il suo pensiero</l>
+<l>come il mare infinito era infinito.</l></lg>
+<lg type="terzina">
+<l>Lontani, i falchi sopra il capo austero</l>
+<l>roteavano. Stava la Gorgona,</l>
+<l>come nave che aspetti il suo nocchiero.</l></lg>
+<lg type="terzina">
+<l>E la Capraia uscìa d'una corona</l>
+<l>di nebbia, appena. Or Egli dritto stante,</l>
+<l>imperiale sopra la persona,</l></lg>
+<lg type="terzina">
+<l>tese le mani al pelago sonante,</l>
+<l>sì che un'ondata che suggea le rosse</l>
+<l>pomici, all'ombra dileguò di Dante.</l></lg>
+<lg type="terzina">
+<l>Ed ecco, dove il cenno suo percosse,</l>
+<l>la Gorgona crollò, vacillò; poi</l>
+<l>salpava l'eternale àncora, e mosse.</l></lg>
+<lg type="terzina">
+<l>E la Capraia scricchiolò da' suoi</l>
+<l>scogli divelta, e tra un sottil vapore</l>
+<l>veniva. O due rupestri isole, voi</l></lg>
+<lg type="terzina">
+<l>solcavate le bianche acque sonore,</l>
+<l>la prua volgendo dove non indarno</l>
+<l>voleva il dito del trionfatore:</l></lg>
+<lg>
+<l>alla foce invisibile dell'Arno.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Avanzarono come ombra che cresca</l>
+<l>all'improvviso... quando udii, vicino:</l>
+<l>"Conte Ugolino della Gherardesca..."</l></lg>
+<lg type="terzina">
+<l>Chi parlava di te, Conte Ugolino?</l>
+<l>Uno, fiso nel mare. Oh! tutto in giro,</l>
+<l>sotto il turchino ciel, mare turchino,</l></lg>
+<lg type="terzina">
+<l>su cui tremola appena al tuo sospiro</l>
+<l>un velo vago, tenue! O Capraia,</l>
+<l>o Gorgona color dello zaffiro,</l></lg>
+<lg type="terzina">
+<l>ferme io vi scòrsi, come plaustri in aia</l>
+<l>cerula, immensa. E a' miei piedi l'onda</l>
+<l>battea lo scoglio e risorbìa la ghiaia.</l></lg>
+<lg type="terzina">
+<l>E nella calma lucida e profonda,</l>
+<l>nudo sul trampolino, con le braccia</l>
+<l>arrotondate su la testa bionda,</l></lg>
+<lg type="terzina">
+<l>era un fanciullo. "Quello" io chiesi "in faccia</l>
+<l>a noi?" "Sì, quello." "Quel fanciullo? il Conte</l>
+<l>che rode il teschio nell'eterna ghiaccia?"</l></lg>
+<lg type="terzina">
+<l>"Foglie d'un ramo, gocciole d'un fonte!"</l>
+<l>Egli guardava un tuffolo pescare</l>
+<l>stridulo; scosse i ricci della fronte,</l></lg>
+<lg>
+<l>e con un grido si tuffò nel mare.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">DIGITALE PURPUREA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Siedono. L'una guarda l'altra. L'una</l>
+<l>esile e bionda, semplice di vesti</l>
+<l>e di sguardi; ma l'altra, esile e bruna,</l></lg>
+<lg type="terzina">
+<l>l'altra... I due occhi semplici e modesti</l>
+<l>fissano gli altri due ch'ardono. "E mai</l>
+<l>non ci tornasti?" "Mai!" "Non le vedesti</l></lg>
+<lg type="terzina">
+<l>più?" "Non più, cara." "Io sì: ci ritornai;</l>
+<l>e le rividi le mie bianche suore,</l>
+<l>e li rivissi i dolci anni che sai;</l></lg>
+<lg type="terzina">
+<l>quei piccoli anni così dolci al cuore..."</l>
+<l>L'altra sorrise. "E di': non lo ricordi</l>
+<l>quell'orto chiuso? i rovi con le more?</l></lg>
+<lg type="terzina">
+<l>i ginepri tra cui zirlano i tordi?</l>
+<l>i bussi amari? quel segreto canto</l>
+<l>misterioso, con quel fiore, <emph>fior di</emph>...?"</l></lg>
+<lg type="terzina">
+<l>"<emph>morte</emph>: sì, cara". "Ed era vero? Tanto</l>
+<l>io ci credeva che non mai, Rachele,</l>
+<l>sarei passata al triste fiore accanto.</l></lg>
+<lg type="terzina">
+<l>Ché si diceva: il fiore ha come un miele</l>
+<l>che inebria l'aria; un suo vapor che bagna</l>
+<l>l'anima d'un oblìo dolce e crudele.</l></lg>
+<lg type="terzina">
+<l>Oh! quel convento in mezzo alla montagna</l>
+<l>cerulea!" Maria parla: una mano</l>
+<l>posa su quella della sua compagna;</l></lg>
+<lg>
+<l>e l'una e l'altra guardano lontano.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Vedono. Sorge nell'azzurro intenso</l>
+<l>del ciel di maggio il loro monastero,</l>
+<l>pieno di litanie, pieno d'incenso.</l></lg>
+<lg type="terzina">
+<l>Vedono; e si profuma il lor pensiero</l>
+<l>d'odor di rose e di viole a ciocche,</l>
+<l>di sentor d'innocenza e di mistero.</l></lg>
+<lg type="terzina">
+<l>E negli orecchi ronzano, alle bocche</l>
+<l>salgono melodie, dimenticate,</l>
+<l>là, da tastiere appena appena tocche...</l></lg>
+<lg type="terzina">
+<l>Oh! quale vi sorrise oggi, alle grate,</l>
+<l>ospite caro? onde più rosse e liete</l>
+<l>tornaste alle sonanti camerate</l></lg>
+<lg type="terzina">
+<l>oggi: ed oggi, più alto, Ave, ripete,</l>
+<l><emph>Ave Maria</emph>, la vostra voce in coro;</l>
+<l>e poi d'un tratto (perché mai?) piangete...</l></lg>
+<lg type="terzina">
+<l>Piangono, un poco, nel tramonto d'oro,</l>
+<l>senza perché. Quante fanciulle sono</l>
+<l>nell'orto, bianco qua e là di loro!</l></lg>
+<lg type="terzina">
+<l>Bianco e ciarliero. Ad or ad or, col suono</l>
+<l>di vele al vento, vengono. Rimane</l>
+<l>qualcuna, e legge in un suo libro buono.</l></lg>
+<lg type="terzina">
+<l>In disparte da loro agili e sane,</l>
+<l>una spiga di fiori, anzi di dita</l>
+<l>spruzzolate di sangue, dita umane,</l></lg>
+<lg>
+<l>l'alito ignoto spande di sua vita.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>"Maria!" "Rachele!" Un poco più le mani</l>
+<l>si premono. In quell'ora hanno veduto</l>
+<l>la fanciullezza, i cari anni lontani.</l></lg>
+<lg type="terzina">
+<l>Memorie (l'una sa dell'altra al muto</l>
+<l>premere) dolci, come è tristo e pio</l>
+<l>il lontanar d'un ultimo saluto!</l></lg>
+<lg type="terzina">
+<l>"Maria!" "Rachele!" Questa piange, "Addio!"</l>
+<l>dice tra sé, poi volta la parola</l>
+<l>grave a Maria, ma i neri occhi no: "Io,"</l></lg>
+<lg type="terzina">
+<l>mormora, "sì: sentii quel fiore. Sola</l>
+<l>ero con le cetonie verdi. Il vento</l>
+<l>portava odor di rose e di viole a</l></lg>
+<lg type="terzina">
+<l>ciocche. Nel cuore, il languido fermento</l>
+<l>d'un sogno che notturno arse e che s'era</l>
+<l>all'alba, nell'ignara anima, spento.</l></lg>
+<lg type="terzina">
+<l>Maria, ricordo quella grave sera.</l>
+<l>L'aria soffiava luce di baleni</l>
+<l>silenziosi. M'inoltrai leggiera,</l></lg>
+<lg type="terzina">
+<l>cauta, su per i molli terrapieni</l>
+<l>erbosi. I piedi mi tenea la folta</l>
+<l>erba. Sorridi? E dirmi sentia: Vieni!</l></lg>
+<lg type="terzina">
+<l>Vieni! E fu molta la dolcezza! molta!</l>
+<l>tanta, che, vedi... (l'altra lo stupore</l>
+<l>alza degli occhi, e vede ora, ed ascolta</l></lg>
+<lg>
+<l>con un suo lungo brivido...) si muore!"</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">SUOR VIRGINIA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l><emph>Tum tum... tum tum</emph>... - Ell'era stata in chiesa</l>
+<l>a pregar sola, a dir la sua corona</l>
+<l>sotto la sola lampadina accesa.</l></lg>
+<lg type="terzina">
+<l>Avea chiesto perdono a chi perdona</l>
+<l>tutto, di nulla; simile ad ancella</l>
+<l>ch'ha gli occhi in mano della sua padrona;</l></lg>
+<lg type="terzina">
+<l>a una che su l'uscio di sorella</l>
+<l>ricca, socchiuso, prega piano, a volo;</l>
+<l>ch'altri non oda. Era tornata in cella.</l></lg>
+<lg type="terzina">
+<l>E ora avanti il Cristo morto solo,</l>
+<l>avanti l'agonia di Santa Rita,</l>
+<l>si toglieva il suo velo, il suo soggólo.</l></lg>
+<lg type="terzina">
+<l>Il cingolo a tre nodi dalla vita</l>
+<l>poi si scioglieva; un giallo teschio d'osso</l>
+<l>girò tre volte nelle ceree dita.</l></lg>
+<lg type="terzina">
+<l><emph>Tum tum</emph>... - Chi picchia? Si rimise in dosso</l>
+<l>lo scapolare. Forse alla parete</l>
+<l>dell'altra stanza. L'uscio non s'è mosso.</l></lg>
+<lg type="terzina">
+<l>Forse qualche educanda. Una ch'ha sete,</l>
+<l>ch'ha male... Aprì soavemente l'uscio.</l>
+<l>Entrò. Niente. I capelli nella rete,</l></lg>
+<lg>
+<l>le braccia in croce, gli occhi nel lor guscio...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>dormivano, composte, accomodate,</l>
+<l>le due bambine. Aperta la finestra</l>
+<l>era a una gran serenità d'estate.</l></lg>
+<lg type="terzina">
+<l>L'avea lasciata aperta la maestra</l>
+<l>per via del caldo. Un alito di vento</l>
+<l>recava odor d'acacia e di ginestra.</l></lg>
+<lg type="terzina">
+<l>Ma che frufrù nell'orto del convento!</l>
+<l>Passava, ora d'un gufo, ora d'un gatto,</l>
+<l>un sordo sgnaulìo subito spento.</l></lg>
+<lg type="terzina">
+<l>Un grillo ora trillava, ora d'un tratto</l>
+<l>taceva: come? Come se lì presso</l>
+<l>fosse venuto chi sa chi, d'appiatto.</l></lg>
+<lg type="terzina">
+<l>Un fischiettare, un camminar represso,</l>
+<l>un raspare, un frugare, uno sfrascare</l>
+<l>improvviso su su per il cipresso...</l></lg>
+<lg type="terzina">
+<l>Brillavan qua e là lucciole rare,</l>
+<l>come spiando. Un ululo ogni tanto</l>
+<l>veniva da un lontano casolare.</l></lg>
+<lg type="terzina">
+<l>L'urlo d'un cane alla catena, e il canto</l>
+<l>più lontano d'un rauco vagabondo,</l>
+<l>nell'alta notte, era la gioia e il pianto</l></lg>
+<lg>
+<l>che al monastero pervenìa, dal mondo.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Dormivano. Sì: anche la sorella</l>
+<l>piccina. Era composta, era coperta.</l>
+<l>Suor Virginia tornò nella sua cella.</l></lg>
+<lg type="terzina">
+<l>Tornò lasciando la finestra aperta</l>
+<l>a quel lontano canto, a quel lontano</l>
+<l><emph>bau bau</emph> di cane ch'era sempre all'erta;</l></lg>
+<lg type="terzina">
+<l>aperta a quello scalpicciar pian piano</l>
+<l>d'uomini o foglie, a quel trillar d'un grillo,</l>
+<l>che poi taceva sotto un piede umano...</l></lg>
+<lg type="terzina">
+<l>Dormivano. Il lor cuore era tranquillo</l>
+<l>La suora si svestì, così leggiera,</l>
+<l>ch'udì per terra il picchio d'uno spillo.</l></lg>
+<lg type="terzina">
+<l>S'addormentava. - <emph>Tum tum tum</emph>... - Che era?</l>
+<l>E Suor Virginia si levò seduta</l>
+<l>sul letto, mormorando una preghiera.</l></lg>
+<lg type="terzina">
+<l>Ella ascoltò: la piccola battuta</l>
+<l>venìa di là. Si mise anche una volta</l>
+<l>lo scapolare. Entrò. Riguardò muta.</l></lg>
+<lg type="terzina">
+<l>No. L'una e l'altra si tenea raccolta</l>
+<l>al dolce sonno. Non avean bisogno</l>
+<l>di lei. La bimba s'era, sì, rivolta</l></lg>
+<lg>
+<l>sul cuore; all'altra; a ragionarci in sogno.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>Tornò, comprese. Avea bussato il Santo.</l>
+<l>Era venuto il tempo di lasciare</l>
+<l>il suo cantuccio in questa Val di pianto.</l></lg>
+<lg type="terzina">
+<l>A quel Santo ogni sera essa all'altare</l>
+<l>dicea tre <foreign lang="lat" rend="italic">pater</foreign>. Egli non ignora</l>
+<l>nell'ampia terra il nostro limitare.</l></lg>
+<lg type="terzina">
+<l>Poi ch'egli va, pascendo il gregge ancora,</l>
+<l>come allora: e devìa dalla sua strada</l>
+<l>per dire a questo o quello ospite: "È l'ora".</l></lg>
+<lg type="terzina">
+<l>Egli è notturno come la rugiada.</l>
+<l>E viene, e bussa fin che il sonnolento</l>
+<l>pellegrino non s'alza e non gli bada.</l></lg>
+<lg type="terzina">
+<l>Egli era, dunque, entrato nel convento</l>
+<l>per rivelarle l'ora del trapasso.</l>
+<l>Picchiò. Poi stava ad aspettare attento.</l></lg>
+<lg type="terzina">
+<l>Ella sentito non ne aveva il passo,</l>
+<l>perché va scalzo. Sulla soglia trita</l>
+<l>certo aspettava col cappuccio basso.</l></lg>
+<lg type="terzina">
+<l>Suor Virginia il fardello della vita</l>
+<l>doveva fare: il cielo era già rosso:</l>
+<l>il suo fardello. Tra le ceree dita</l></lg>
+<lg>
+<l>prese il rosario col suo teschio d'osso.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>E vennero le morte undicimila</l>
+<l>vergini, con le lampade fornite</l>
+<l>d'olio odoroso; camminando in fila;</l></lg>
+<lg type="terzina">
+<l>di bianco lino, come lei, vestite;</l>
+<l>nelle pallide conche d'alabastro</l>
+<l>portando accese le lor dolci vite;</l></lg>
+<lg type="terzina">
+<l>passando, sì che in breve erano un nastro</l>
+<l>bianco, ondeggiante, a un alito, pian piano,</l>
+<l>nel cielo azzurro tra la terra e un astro;</l></lg>
+<lg type="terzina">
+<l>passando, come gli Ave a grano a grano</l>
+<l>d'una corona. E le dicean parole</l>
+<l>di sotto il giglio che teneano in mano.</l></lg>
+<lg type="terzina">
+<l>Aveva ognuna, su le bianche stole,</l>
+<l>l'orma di sangue della sua tortura.</l>
+<l>Anch'ella, al cuore. Le dicean: "Non duole".</l></lg>
+<lg type="terzina">
+<l>Era, la prima d'esse, Ursula pura,</l>
+<l>lassù, che tuttavia lampade accese</l>
+<l>splendeano in fila per la terra oscura.</l></lg>
+<lg type="terzina">
+<l>Le vergini non tutte erano ascese.</l>
+<l>Quella picchiò tre volte con lo stelo</l>
+<l>del giglio. E in terra Suor Virginia intese</l></lg>
+<lg>
+<l>quei colpettini al grande uscio del cielo.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg type="terzina">
+<l><emph>Tum tum</emph>... - Di là, con tutto quel gran cielo</l>
+<l>alla finestra, oh! trema come foglia</l>
+<l>secca che prilla intorno a un ragnatelo,</l></lg>
+<lg type="terzina">
+<l>la bimba, e bussa, e par ch'ora, sì, voglia</l>
+<l>dirglielo: "Madre, c'è uno laggiù:</l>
+<l>chiuda!" E volge gli aperti occhi alla soglia</l></lg>
+<lg>
+<l>dell'uscio: aspetta. Ella non venne più.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">LA QUERCIA CADUTA</head>
+<lg type="terzina">
+<l>Dov'era l'ombra, or sé la quercia spande</l>
+<l>morta, né più coi turbini tenzona.</l>
+<l>La gente dice: Or vedo: era pur grande!</l></lg>
+<lg type="terzina">
+<l>Pendono qua e là dalla corona</l>
+<l>i nidietti della primavera.</l>
+<l>Dice la gente: Or vedo: era pur buona!</l></lg>
+<lg type="terzina">
+<l>Ognuno loda, ognuno taglia. A sera</l>
+<l>ognuno col suo grave fascio va.</l>
+<l>Nell'aria, un pianto... d'una capinera</l></lg>
+<lg>
+<l>che cerca il nido che non troverà.</l></lg>
+</div2>
+<div2 type="poesia">
+<head rend="italic">L'AQUILONE</head>
+<lg type="terzina">
+<l>C'è qualcosa di nuovo oggi nel sole,</l>
+<l>anzi d'antico: io vivo altrove, e sento</l>
+<l>che sono intorno nate le viole.</l></lg>
+<lg type="terzina">
+<l>Son nate nella selva del convento</l>
+<l>dei cappuccini, tra le morte foglie</l>
+<l>che al ceppo delle quercie agita il vento.</l></lg>
+<lg type="terzina">
+<l>Si respira una dolce aria che scioglie</l>
+<l>le dure zolle, e visita le chiese</l>
+<l>di campagna, ch'erbose hanno le soglie:</l></lg>
+<lg type="terzina">
+<l>un'aria d'altro luogo e d'altro mese</l>
+<l>e d'altra vita: un'aria celestina</l>
+<l>che regga molte bianche ali sospese...</l></lg>
+<lg type="terzina">
+<l>sì, gli aquiloni! È questa una mattina</l>
+<l>che non c'è scuola. Siamo usciti a schiera</l>
+<l>tra le siepi di rovo e d'albaspina.</l></lg>
+<lg type="terzina">
+<l>Le siepi erano brulle, irte; ma c'era</l>
+<l>d'autunno ancora qualche mazzo rosso</l>
+<l>di bacche, e qualche fior di primavera</l></lg>
+<lg type="terzina">
+<l>bianco; e sui rami nudi il pettirosso</l>
+<l>saltava, e la lucertola il capino</l>
+<l>mostrava tra le foglie aspre del fosso.</l></lg>
+<lg type="terzina">
+<l>Or siamo fermi: abbiamo in faccia Urbino</l>
+<l>ventoso: ognuno manda da una balza</l>
+<l>la sua cometa per il ciel turchino.</l></lg>
+<lg type="terzina">
+<l>Ed ecco ondeggia, pencola, urta, sbalza,</l>
+<l>risale, prende il vento; ecco pian piano</l>
+<l>tra un lungo dei fanciulli urlo s'inalza.</l></lg>
+<lg type="terzina">
+<l>S'inalza; e ruba il filo dalla mano,</l>
+<l>come un fiore che fugga su lo stelo</l>
+<l>esile, e vada a rifiorir lontano.</l></lg>
+<lg type="terzina">
+<l>S'inalza; e i piedi trepidi e l'anelo</l>
+<l>petto del bimbo e l'avida pupilla</l>
+<l>e il viso e il cuore, porta tutto in cielo.</l></lg>
+<lg type="terzina">
+<l>Più su, più su: già come un punto brilla</l>
+<l>lassù lassù... Ma ecco una ventata</l>
+<l>di sbieco, ecco uno strillo alto... - Chi strilla?</l></lg>
+<lg type="terzina">
+<l>Sono le voci della camerata</l>
+<l>mia: le conosco tutte all'improvviso,</l>
+<l>una dolce, una acuta, una velata...</l></lg>
+<lg type="terzina">
+<l>A uno a uno tutti vi ravviso,</l>
+<l>o miei compagni! e te, sì, che abbandoni</l>
+<l>su l'omero il pallor muto del viso.</l></lg>
+<lg type="terzina">
+<l>Sì: dissi sopra te l'orazioni,</l>
+<l>e piansi: eppur, felice te che al vento</l>
+<l>non vedesti cader che gli aquiloni!</l></lg>
+<lg type="terzina">
+<l>Tu eri tutto bianco, io mi rammento.</l>
+<l>solo avevi del rosso nei ginocchi,</l>
+<l>per quel nostro pregar sul pavimento.</l></lg>
+<lg type="terzina">
+<l>Oh! te felice che chiudesti gli occhi</l>
+<l>persuaso, stringendoti sul cuore</l>
+<l>il più caro dei tuoi cari balocchi!</l></lg>
+<lg type="terzina">
+<l>Oh! dolcemente, so ben io, si muore</l>
+<l>la sua stringendo fanciullezza al petto,</l>
+<l>come i candidi suoi pètali un fiore</l></lg>
+<lg type="terzina">
+<l>ancora in boccia! O morto giovinetto,</l>
+<l>anch'io presto verrò sotto le zolle</l>
+<l>là dove dormi placido e soletto...</l></lg>
+<lg type="terzina">
+<l>Meglio venirci ansante, roseo, molle</l>
+<l>di sudor, come dopo una gioconda</l>
+<l>corsa di gara per salire un colle!</l></lg>
+<lg type="terzina">
+<l>Meglio venirci con la testa bionda,</l>
+<l>che poi che fredda giacque sul guanciale,</l>
+<l>ti pettinò co' bei capelli a onda</l></lg>
+<lg>
+<l>tua madre... adagio, per non farti male.</l></lg>
+</div2>
+</div1>
+<div1 type="sezione">
+<head rend="italic">IL VECCHIO CASTAGNO - L'ACCESTIRE</head>
+<div2 type="poesia">
+<head rend="italic">IL VECCHIO CASTAGNO</head>
+<div3 type="canto">
+<lg type="terzina">
+<l>E Viola tornò per coglitora,</l>
+<l>dopo sementa, dal suo zio d'Albiano.</l>
+<l>Ed ecco, i cardi non cadeano ancora.</l></lg>
+<lg type="terzina">
+<l>E dava nel frattempo ella una mano</l>
+<l>all'altre donne, e lungo il Rio con esse</l>
+<l>facea brocche di càrpino e d'ontano.</l></lg>
+<lg type="terzina">
+<l>Ora sfogliava le seconde mèsse,</l>
+<l>dei gelsi, ora segava erba e trifoglio,</l>
+<l>che la brinata non gliele cocesse.</l></lg>
+<lg type="terzina">
+<l>Perché la bestia dice all'uomo: "Io voglio</l>
+<l>l'ultime frasche, s'altri ebbe le prime.</l>
+<l>A me l'avanzo, s'è di te il rigoglio!</l></lg>
+<lg type="terzina">
+<l>Le pigne tu, le pampane io: le cime</l>
+<l>io, tu le rappe. Io do, se tu mi desti.</l>
+<l>Fin che c'è verde, non mi dar guaime.</l></lg>
+<lg type="terzina">
+<l>Padrone, c'è del verde, che tu pesti.</l>
+<l>Menami alle covette della strada,</l>
+<l>menami un poco nella selva ai cesti:</l></lg>
+<lg type="terzina">
+<l>ai cesti ch'ora a tutto ciò che cada,</l>
+<l>aprono i lor fioretti color carne;</l>
+<l>e cade brina, che attendean rugiada".</l></lg>
+<lg type="terzina">
+<l>Ed ella andava qualche volta a farne</l>
+<l>per loro, e qualche volta, ch'era bello,</l>
+<l>menava là le vaccherelle scarne.</l></lg>
+<lg type="terzina">
+<l>E con loro godeva il solicello</l>
+<l>di fin d'ottobre, tra i castagni, sotto</l>
+<l>il re di tutti, un vecchio mondinello.</l></lg>
+<lg type="terzina">
+<l>Sotto il re dei castagni, sur un grotto</l>
+<l>pieno di musco, si sedea Viola,</l>
+<l>col gomitolo, i ferri e un calzerotto.</l></lg>
+<lg type="terzina">
+<l>E gettava alle bestie una parola,</l>
+<l>anco un toffo di terra, anco due ghiare</l>
+<l>con le sue mosse di canipaiola.</l></lg>
+<lg type="terzina">
+<l>Ora un giorno che stava a lavorare</l>
+<l>sotto il castagno, e che sotto i suoi sguardi</l>
+<l>pendean le vacche dalle stipe amare,</l></lg>
+<lg type="terzina">
+<l>dei tonfi udì, come se quei bastardi</l>
+<l>fosser lì con sassetti e con pinelle,</l>
+<l>chiotti, per darle briga... Erano i cardi.</l></lg>
+<lg type="terzina">
+<l>Cadeano giù con le castagne belle</l>
+<l>e nere in bocca, che sul musco arsito</l>
+<l>ruzzolavano fuori della pelle.</l></lg>
+<lg type="terzina">
+<l>Udiva; e il gran castagno ecco sul dito</l>
+<l>le picchiò con un cardo, anzi un pallone,</l>
+<l>piccolo, giallo, chiuso. Era un invito:</l></lg>
+<lg type="terzina">
+<l>l'albero volea dir la sua ragione.</l>
+<l>Alzò Viola, come se capisse,</l>
+<l>gli occhi, poi li voltò: vide un piccone;</l></lg>
+<lg type="due versi">
+<l>vide un'accétta. E il vecchio re le disse:</l>
+<l>le disse il re:</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>... Viola!... Violetta!...</l>
+<l>Non la vedi costì? C'è da stamani.</l>
+<l>Ce l'ha lasciata il caro zio. L'accétta!</l></lg>
+<lg type="terzina">
+<l>La piglia su, domani, oggi, a due mani,</l>
+<l>e picchia giù. Dove ella picchia, guai</l>
+<l>a quei frassini! tristi quelli ontani!</l></lg>
+<lg type="terzina">
+<l>e quei castagni! Non credevi mai,</l>
+<l>Violetta? Lo credo! Ero il più grande!</l>
+<l>Sono il più vecchio. Ella è per me: vedrai.</l></lg>
+<lg type="terzina">
+<l>Si sa: la quercia deve dar le ghiande,</l>
+<l>e il fico i fichi, ed il castagno i cardi.</l>
+<l>Vivande, noi; solo il rosaio, ghirlande!</l></lg>
+<lg type="terzina">
+<l>E i cardi son più pochi, ora, e se guardi,</l>
+<l>non son più pieni, ch'io non ho più forza.</l>
+<l>Io ho la lupa. Ho messo poco e tardi.</l></lg>
+<lg>
+<l>Il vecchio re sente impassir la scorza!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>E mi ricordo ch'ero il più piccino</l>
+<l>del branco, quando venni qua; di tutto</l>
+<l>quello d'allora. Io, sai, nacqui a bacino,</l></lg>
+<lg type="terzina">
+<l>di là del Rio. Di là crescevo sdutto,</l>
+<l>lungo, con molta frasca e molte polle.</l>
+<l>All'ombra, mèssa tanta e poco frutto!</l></lg>
+<lg type="terzina">
+<l>Qui, posto al sole, in cima in cima al colle,</l>
+<l>mi dava noia, i primi anni, l'asprura.</l>
+<l>Bramavo quel bel fresco, quel bel molle.</l></lg>
+<lg type="terzina">
+<l>Ma poi con gli anni feci tiglia dura,</l>
+<l>e il sole amai, che vaporava il fiato</l>
+<l>nella florida mia capellatura.</l></lg>
+<lg type="terzina">
+<l>A un fin di verno, un uomo col pennato</l>
+<l>mi cuccò tutto per filo e per segno!</l>
+<l>E io restai pulito e dicapato,</l></lg>
+<lg>
+<l>con due mazzette tra la buccia e il legno.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Vedi i due rami dalle mille vette,</l>
+<l>anzi il doppio grande albero che porto</l>
+<l>sul tronco? Sono quelle due mazzette.</l></lg>
+<lg type="terzina">
+<l>Ché venne aprile, e io sentiva, assòrto,</l>
+<l>dalle mie fibre risalire il succhio</l>
+<l>cercando in alto ciò che m'era morto:</l></lg>
+<lg type="terzina">
+<l>ciò che non era, là di, che un mucchio</l>
+<l>di verghe dalla lunga acqua percosse,</l>
+<l>cui s'attorceva l'ellera e il vilucchio.</l></lg>
+<lg type="terzina">
+<l>Ma io sognava tuttavia che fosse</l>
+<l>sopra il mio fusto, e che mettesse i fiocchi</l>
+<l>verdicci dalle sue vermelle rosse.</l></lg>
+<lg type="terzina">
+<l>Io mi spingeva tutto verso gli occhi</l>
+<l>che non avevo; io mi gettava verso</l>
+<l>il mio passato. C'era quei due brocchi.</l></lg>
+<lg>
+<l>Li empii di me: ma mi sentii diverso.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>Più dolce, o bimba, mi sentii: più manso.</l>
+<l>Con gli anni feci le castagne. Alcuna</l>
+<l>ce n'è nei cardi. Cerca. A te le canso.</l></lg>
+<lg type="terzina">
+<l>Le canso a te, mia pastorella bruna</l>
+<l>che vieni qui per cogliere, e due volte</l>
+<l>in cielo fare qui vedrai la luna.</l></lg>
+<lg type="terzina">
+<l>Son mondinelle; tu le sai, n'hai colte.</l>
+<l>Mòndano bene. Esce da sé pulita</l>
+<l>la carne, il buono, dalle vesti sciolte.</l></lg>
+<lg type="terzina">
+<l>Tu le mondi per gli altri con le dita</l>
+<l>svelte, seduta al fuoco, sul pannello.</l>
+<l>Gli uomini stanno muti alla partita.</l></lg>
+<lg type="terzina">
+<l>Quei giorni di novembre, che fa bello,</l>
+<l>che si colma la botte del buon vino,</l>
+<l>che, con indosso mezzo il suo mantello,</l></lg>
+<lg>
+<l>mezzo tra freddo e caldo è San Martino!...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>Da quanti inverni vivo qui sublime!</l>
+<l>E vidi tante creature bionde</l>
+<l>venir su l'alba a cogliere le prime,</l></lg>
+<lg type="terzina">
+<l>che poi con gli anni, esciti non so donde,</l>
+<l>io li vedeva curvi bianchi tristi</l>
+<l>ruspare lì, nei mucchi delle fronde,</l></lg>
+<lg type="terzina">
+<l>l'ultime. All'ultimo, io non li ho rivisti.</l>
+<l>Non ne so nulla. So che i coglitori</l>
+<l>vengono e vanno, come tu venisti</l></lg>
+<lg type="terzina">
+<l>e... Ma quello che sempre, ai dì peggiori,</l>
+<l>anche ho veduto, sia che nella bruma</l>
+<l>la pioggia scrosci e che la neve sfiori,</l></lg>
+<lg type="terzina">
+<l>è il fiato che nell'aria fredda fuma</l>
+<l>dalla lor casa, il caldo alito, quando</l>
+<l>il vecchio tramontano anche lui ruma</l></lg>
+<lg>
+<l>qua ne' frondai gridando e farfugliando...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg type="terzina">
+<l>O fiamma allegra, che scricchioli e schiocchi,</l>
+<l>scaldando i mesti vecchi, i bimbi savi,</l>
+<l>da noi li avesti cioccatelle e ciocchi!</l></lg>
+<lg type="terzina">
+<l>O casa buona, messa su dagli avi,</l>
+<l>che pari il freddo, e brilli nella notte,</l>
+<l>da noi li avesti travicelli e travi!</l></lg>
+<lg type="terzina">
+<l>O mamma, che il laveggio ora o le cotte</l>
+<l>metti all'uncino o sopra i capitoni,</l>
+<l>da noi li avesti i necci e le ballotte!</l></lg>
+<lg type="terzina">
+<l>O babbo, che nel mezzo al desco poni</l>
+<l>il vinetto che sente un po' di rame,</l>
+<l>da noi li avesti i pali ed i forconi!</l></lg>
+<lg type="terzina">
+<l>E tu che mugli, mugli tu per fame</l>
+<l>o per freddo, vacchina dello stento?</l>
+<l>E da noi abbi i vincigli e lo strame...</l></lg>
+<lg>
+<l>mentre noi qui rabbrividiamo al vento.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VII</head>
+<lg type="terzina">
+<l>Io ne godeva. Io amo chi mi coglie.</l>
+<l>Ora, capanna casa fuoco vigna,</l>
+<l>non do più frutto né legna né foglie.</l></lg>
+<lg type="terzina">
+<l>Ora l'accétta scoprirà maligna</l>
+<l>i miei segreti. Ho dentro me dei bruchi</l>
+<l>d'oro, che fanno, come uva, la pigna.</l></lg>
+<lg type="terzina">
+<l>Aveva dentro, qua e là, nei buchi,</l>
+<l>altri alati che nero di tra il musco</l>
+<l>sporgeano il capo allo svolar dei fuchi.</l></lg>
+<lg type="terzina">
+<l>Oh! da quanti anni sento nel mio rusco</l>
+<l>sempre ronzare, e sempre nella state</l>
+<l>cantarellare odo tra lusco e brusco!</l></lg>
+<lg type="terzina">
+<l>Oh! scoprirà l'accétta, abbandonate</l>
+<l>sopra lane di pioppi e ragnatele,</l>
+<l>ovine àcquide, avanzi di covate</l></lg>
+<lg>
+<l>di cinciallegre, e un gran favo di miele.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VIII</head>
+<lg type="terzina">
+<l>Quanto a me... Quanto a me, mi schiapperanno</l>
+<l>per il metato. Prima lì nel mezzo</l>
+<l>due ciocchi soli col pulacchio d'anno;</l></lg>
+<lg type="terzina">
+<l>poi tutto v'entrerò pezzo per pezzo.</l>
+<l>Le castagne seccate col castagno</l>
+<l>vengono bianche e sono di più prezzo.</l></lg>
+<lg type="terzina">
+<l>Ecco, il nostro fruttato io l'accompagno</l>
+<l>anche in morte, morendo a poco a poco,</l>
+<l>e di me l'uomo ha l'ultimo guadagno.</l></lg>
+<lg type="terzina">
+<l>Mi sfarò piano, non sprizzerò fuoco</l>
+<l>non farò vampa; adagio, come deve</l>
+<l>un buon castagno vecchio che sa il giuoco.</l></lg>
+<lg type="terzina">
+<l>Poi nel dì che si canta che si beve</l>
+<l>che si picchia su l'aia del metato,</l>
+<l>non sarò più. Sarò cenere, lieve</l></lg>
+<lg>
+<l>cenere, buona per il tuo bucato.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IX</head>
+<lg type="terzina">
+<l>E il ceneraccio, al prato!... Odimi. Il fusto</l>
+<l>è marcio, e non può darsi che ributti.</l>
+<l>Gli dia l'accétta e l'accettino. È giusto.</l></lg>
+<lg type="terzina">
+<l>Ma vedrai, nella ceppa, che tra tutti</l>
+<l>lo zio ralleverà qualche novello</l>
+<l>che viva e cresca, che riscoppi e frutti.</l></lg>
+<lg type="terzina">
+<l>Fa che salvi codesto, così snello,</l>
+<l>che se tu venga quando avrai marito,</l>
+<l>tu dica: È come il padre; anzi più bello!</l></lg>
+<lg type="terzina">
+<l>Codesto, sì, costì, presso il tuo dito,</l>
+<l>dove ho picchiato il cardo... Oh! tuo zio!... Digli:</l>
+<l>Questo novello come cresce ardito!</l></lg>
+<lg type="terzina">
+<l>che speriamo, io e tu, che mi somigli!</l>
+<l>che dia su me, non dia su lui, l'accétta!</l>
+<l>Ti farà le mondine pe' tuoi figli.</l></lg>
+<lg>
+<l>Diglielo!... su... Viola! Violetta!</l></lg>
+</div3>
+</div2>
+</div1>
+<div1 type="sezione">
+<head rend="italic">L'ACCESTIRE</head>
+<div2 type="poesia">
+<head>L'ALLORO</head>
+<div3 type="canto">
+<head rend="sc">I</head><lg type="terzina">
+<l>"Ecco l'orbaco:" disse Dore, entrando</l>
+<l>con un ramo d'alloro umido in mano:</l>
+<l>"prendete: io devo ritornar da Nando".</l></lg>
+<lg type="terzina">
+<l>"A che fare?" la madre gridò. "Piano</l>
+<l>con le mie scarpe! So che il babbo è stanco:</l>
+<l>ci vuole mezzo per calzarli il grano:</l></lg>
+<lg type="terzina">
+<l>andranno scalzi! due siete ed un branco</l>
+<l>parete!" L'uscio era socchiuso. Fuori</l>
+<l>era per tutto un gran barbaglio bianco.</l></lg>
+<lg type="terzina">
+<l>La neve nascondea tutti i colori.</l>
+<l>Su, v'appariva qualche fila nera</l>
+<l>delle grandi orme degli agricoltori:</l></lg>
+<lg type="terzina">
+<l>dove scendeva per veder se c'era</l>
+<l>la terra più, dal tetto e dalla scala,</l>
+<l>il passero: egli che avea messo a sera</l></lg>
+<lg>
+<l>tranquillamente il capo sotto l'ala.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>"L'orbaco..." ripeté Dore, voltando</l>
+<l>all'uscio aperto il suo nasetto rosso:</l>
+<l>"devo aiutarlo: l'ho promesso, a Nando".</l></lg>
+<lg type="terzina">
+<l>"A che fare? io lo so, mamma, e lo posso</l>
+<l>dir io" fece Rosina: "hanno gli archetti</l>
+<l>per pigliar qualche cincia e pettirosso!</l></lg>
+<lg type="terzina">
+<l>Povere cincie! poveri uccelletti!</l>
+<l>non hanno ove posare le zampine</l>
+<l>nude! coperti i campi, alberi, tetti!</l></lg>
+<lg type="terzina">
+<l>Non hanno che beccar, queste mattine:</l>
+<l>né un pippolo né un becio: ecco, e costoro</l>
+<l>tendono... Oh! babbo è troppo buono, infine!"</l></lg>
+<lg type="terzina">
+<l>Parlava, ed attendeva al suo lavoro,</l>
+<l>stacciando su la conca alta la lieve</l>
+<l>cenere. E Dore le porgea l'alloro</l></lg>
+<lg>
+<l>di su l'uscio, tra un gran bianco di neve.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>"L'orbaco...". "Dà". Lei prese il ramoscello,</l>
+<l>e lui sparì. Ma non pensava a loro</l>
+<l>più Rosa bionda. Era il suo giorno, quello.</l></lg>
+<lg type="terzina">
+<l>Poco era il giorno e molto era il lavoro:</l>
+<l>la falce è grande, ma più grande il prato.</l>
+<l>E su la conca ella sfogliò l'alloro,</l></lg>
+<lg>
+<l>perché sapesse odore il suo bucato.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>IL BUCATO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Viola entrò col secchio su la testa,</l>
+<l>e su gli arguti zoccoli ristette</l>
+<l>presso la conca, e disse: "Ora sei lesta?"</l></lg>
+<lg type="terzina">
+<l>"Mamma!" Rosa chiamò "non ci si mette</l>
+<l>due gusci d'ova?" Rientrava lenta</l>
+<l>la madre con un suo fascio di vette.</l></lg>
+<lg type="terzina">
+<l>"Eccoli" disse. "Quella legna stenta</l>
+<l>a prender fuoco, e questa era pel forno;</l>
+<l>ma la riposi dopo la sementa:</l></lg>
+<lg type="terzina">
+<l>è asciutta bene. Il babbo cerca, intorno</l>
+<l>casa, quel ciocco (dov'è mai?) del pero</l>
+<l>dal vischio. Oggi ce n'è per tutto il giorno.</l></lg>
+<lg type="terzina">
+<l>E i ragazzi, io mi struggo, io mi dispero,</l>
+<l>rincaseranno fradici, se pure...</l>
+<l>Ma sento (se Dio vuole, ecco un pensiero</l></lg>
+<lg>
+<l>di meno) il babbo lavorar di scure".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>"Sei lesta, ora?" "Un minuto anche, Viola".</l>
+<l>Rosa corse al telaio, ed il cannello</l>
+<l>vuoto cavò dalla sua liscia spola.</l></lg>
+<lg type="terzina">
+<l>E Viola dicea: "Mamma, il vitello,</l>
+<l>lo venderà? Vedeste come viene!</l>
+<l>e, mamma, è così manso, è così bello!</l></lg>
+<lg type="terzina">
+<l>Tra la sua madre e me, vuole più bene,</l>
+<l>credete, a me". Rispose ella: "E le tasse?</l>
+<l>Figlia, chi disse pane, disse pene.</l></lg>
+<lg type="terzina">
+<l>Il babbo ha detto: l'acque sono basse..."</l>
+<l>E Viola pensava, e la Turella</l>
+<l>mugliava di laggiù, come ascoltasse.</l></lg>
+<lg type="terzina">
+<l>Rosa intanto ponea la catinella</l>
+<l>sotto il bocciolo, e poi levata in piedi,</l>
+<l>vedendo gli occhi della sua sorella,</l></lg>
+<lg>
+<l>esclamò: "Meglio non averli, i redi!"</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>"Ora?" "Sì: versa a modo: ecco!" Con molle</l>
+<l>gorgoglio su la cenere quell'onda</l>
+<l>fredda scorreva tra cerulee bolle;</l></lg>
+<lg type="terzina">
+<l>e poi spariva; e giù per la profonda</l>
+<l>conca invadeva i panni... che parenti</l>
+<l>erano anch'essi, e su la stessa sponda</l></lg>
+<lg>
+<l>vedevi insieme poi ruzzare ai venti.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>LA BOLLITURA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Già: sciorinati su la stessa siepe</l>
+<l>sono come una greggia che soletta</l>
+<l>beva ad un pozzo e mangi ad un presèpe.</l></lg>
+<lg type="terzina">
+<l>Ma non lontana è l'umile casetta</l>
+<l>con gli occhi aperti delle sue finestre,</l>
+<l>che veglia il dì, che a sera poi li aspetta.</l></lg>
+<lg type="terzina">
+<l>Essi appartati dalle vie maestre,</l>
+<l>piccoli e grandi stanno insieme al sole,</l>
+<l>empiendo di fruscìo l'angolo alpestre.</l></lg>
+<lg type="terzina">
+<l>Stridono appena, là con loro, sole</l>
+<l>le foglie secche, e v'è col bianco odore</l>
+<l>della tela l'odor delle viole.</l></lg>
+<lg type="terzina">
+<l>Ma s'imbevono d'acqua, ora, per ore,</l>
+<l>tiepida prima, e quindi a poco a poco</l>
+<l>più calda, e quindi tolta via col fiore</l></lg>
+<lg>
+<l>nel paiolo che brontola sul fuoco.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Li coglierete quando il sole sfiora</l>
+<l>i monti aguzzi, voi, Rosa e Viola,</l>
+<l>e vostra madre. È dolce assai quell'ora.</l></lg>
+<lg type="terzina">
+<l>Mamma coglie, con qualche sua parola,</l>
+<l>i suoi mazzetti, e voi sul greppo liete</l>
+<l>stirate le schioccanti ampie lenzuola.</l></lg>
+<lg type="terzina">
+<l>Ripasserete il tutto e riporrete,</l>
+<l>troppo per l'ago e poco pel bisogno,</l>
+<l>dentro il comune canteral d'abete;</l></lg>
+<lg type="terzina">
+<l>dove poi dorme, e sempre vede in sogno</l>
+<l>la soave domenica, piegato</l>
+<l>in odore di spigo e di cotogno.</l></lg>
+<lg type="terzina">
+<l>Ma or di ranno imbevesi il bucato;</l>
+<l>e il ranno dal paiòl nero, quand'alza</l>
+<l>la schiuma, su la conca alta versato,</l></lg>
+<lg>
+<l>sgorga dal fondo e scivola e rimbalza.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E la cucina tutto il dì fu piena</l>
+<l>del casalingo e tacito lavoro,</l>
+<l>e il paiolo pendé dalla catena.</l></lg>
+<lg type="terzina">
+<l>E c'era odor di cenere e d'alloro,</l>
+<l>e il fuoco ardeva. Giù la tramontana</l>
+<l>scendea mugliando; ed un <emph>tin tin</emph> sonoro</l></lg>
+<lg>
+<l>s'udiva intanto come di fontana.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>LA CANZONE DEL BUCATO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Quel tintinno diceva: - Era l'estate:</l>
+<l>le cicale cantavano sui meli:</l>
+<l>bianca famiglia, voi dove eravate?</l></lg>
+<lg type="terzina">
+<l>Certo nei campi: lunghi e verdi steli</l>
+<l>col fiore in cima: ondoleggiando allora</l>
+<l>non pensavate a diventar dei teli.</l></lg>
+<lg type="terzina">
+<l>Venne l'autunno: usciste d'una gora</l>
+<l>umidi e bianchi: bianchi sì, ma canne</l>
+<l>dal fiume usciste a riveder l'aurora.</l></lg>
+<lg type="terzina">
+<l>E poi sembraste piccole capanne</l>
+<l>là sul greto tra i ciottoli e le ghiaie,</l>
+<l>ritte sui piedi delle quattro manne.</l></lg>
+<lg type="terzina">
+<l>Sonava presso voi nelle pescaie</l>
+<l>il cadenzato canto delle rane,</l>
+<l>pari a quello che poi venne dall'aie,</l></lg>
+<lg>
+<l>chiaro gracchiar di gramole lontane.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Venne l'inverno; e vennero al camino</l>
+<l>l'esili nonne, con una gran ciocca</l>
+<l>bianca, e ciascuna con un suo piccino;</l></lg>
+<lg type="terzina">
+<l>un piccino che ronza e che non tocca</l>
+<l>mai terra, eppure, non va mai lontano,</l>
+<l>frullando giù col filo nella cócca.</l></lg>
+<lg type="terzina">
+<l>Con queste rócche venne poi pian piano</l>
+<l>lo stridulo arcolaio; e le sorelle</l>
+<l>dietro si corsero corsero invano.</l></lg>
+<lg type="terzina">
+<l>E il telaio sonò tra le procelle:</l>
+<l>rumoreggiava tutta la contrada</l>
+<l>di battenti, di calcole e girelle.</l></lg>
+<lg type="terzina">
+<l>Dopo tanto rumore; alla rugiada,</l>
+<l>sul verde prato, in una rosea sera,</l>
+<l>diritta e lunga, simile a una strada,</l></lg>
+<lg>
+<l>c'era la tela; ed era primavera.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Sopra le margherite e sopra il timo</l>
+<l>stava la tela, e si vedea lì presso</l>
+<l>un canapaio nero ancor di fimo.</l></lg>
+<lg type="terzina">
+<l>E la luna pendea sopra il cipresso</l>
+<l>e tu guardavi quella strada, o Rosa,</l>
+<l>lunga, e quel campo, dove a quel riflesso</l></lg>
+<lg>
+<l>il tuo corredo già nascea, di sposa. -</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>LA VEGLIA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Canticchiò la fontana tutto il giorno</l>
+<l>tra sé e sé, gemendo dal bocciuolo,</l>
+<l>salutando ciascuno al suo ritorno.</l></lg>
+<lg type="terzina">
+<l>Con l'arruffato brivido del volo</l>
+<l>vennero i figli, mentre soli i ciocchi</l>
+<l>ardean russando a quel ciangottar solo.</l></lg>
+<lg type="terzina">
+<l>Venne il babbo; e, le mani sui ginocchi,</l>
+<l>sedea pensando, mentre dal cantone</l>
+<l>le monachine rincorrea con gli occhi.</l></lg>
+<lg type="terzina">
+<l>Il piede avea sopra un capitone</l>
+<l>del focolare, dove ardean russando</l>
+<l>i ciocchi; e lo vincea quella canzone.</l></lg>
+<lg type="terzina">
+<l>Dolce obliar la vanga a quando a quando,</l>
+<l>fin ch'è lungi la prima acqua d'aprile...</l>
+<l>Egli ascoltava quel gorgoglio blando,</l></lg>
+<lg>
+<l>le mani all'asta e il piede sul vangile.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Alzava il capo al rientrar sonoro</l>
+<l>di frettolosi zoccoli; ed apriva</l>
+<l>gli occhi, e lasciava a mezzo il suo lavoro.</l></lg>
+<lg type="terzina">
+<l>La vanga rimanea presso un'oliva.</l>
+<l>Ma ecco, a poco a poco e in un momento,</l>
+<l>si trovava le mani su la stiva.</l></lg>
+<lg type="terzina">
+<l>E l'aratro strideva col lamento</l>
+<l>di legna verde, e per il solco duro</l>
+<l>muggìan le vacche a lungo, come il vento</l></lg>
+<lg type="terzina">
+<l>di tramontana. E poi tra lume e scuro</l>
+<l>si ritrovava, uscito alfin di pena,</l>
+<l>nel suo cantuccio placido e sicuro.</l></lg>
+<lg type="terzina">
+<l>Si fece buio, e la lucerna, piena</l>
+<l>d'olio, brillò; più vivo il focolare</l>
+<l>brillò; si cosse e si mangiò la cena;</l></lg>
+<lg>
+<l>e poi le rócche vennero a vegliare.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E venne Rigo. E venne il vino arzillo,</l>
+<l>e bevve ognuno: il vino aspro, raccolto</l>
+<l>quando nei campi già piangeva il grillo.</l></lg>
+<lg type="terzina">
+<l>E allora il babbo ragionò, rivolto</l>
+<l>verso le ròcche. E Rigo ancor, per uso,</l>
+<l>guardava a quelle, tacito, in ascolto</l></lg>
+<lg>
+<l>dell'incessante sibilar d'un fuso.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>GRANO E VINO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>"Oh! il campetto con siepe e con fossetto!</l>
+<l>Nel verno io voglio, ch'io non son cicala,</l>
+<l>il mio grano con me sotto il mio tetto.</l></lg>
+<lg type="terzina">
+<l>Il buon odor di pane che si esala</l>
+<l>da quel brusìo di mille chicchi d'oro,</l>
+<l>quando il mio mucchio muovo con la pala!</l></lg>
+<lg type="terzina">
+<l>Caro il mio grano! Quando il mio tesoro</l>
+<l>mando al mulino, se ne va, sì, questo;</l>
+<l>ma quello nasce sotto il mio lavoro.</l></lg>
+<lg type="terzina">
+<l>Io le mie braccia, Dio ci mette il resto.</l>
+<l>Me ne sa male; ed ecco che ogni staio</l>
+<l>che mando, dice: - Mandami: fo cesto;</l></lg>
+<lg type="terzina">
+<l>mandami: imboccio. - Io mando al buon mugnaio.</l>
+<l>- Mandami: impongo; mandami: rassodo. -</l>
+<l>Poi, quando nulla resta nel solaio,</l></lg>
+<lg>
+<l>l'ultimo dice: - To' la falce: a modo! -</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Lodo la spiga e lodo ancor la pigna.</l>
+<l>Ma la pigna e la spiga hanno gran liti</l>
+<l>tra loro. - Io non vo' grano nella vigna. -</l></lg>
+<lg type="terzina">
+<l>Padrone, su le prode io non vo' viti:</l>
+<l>se lo bei, non lo mangi. - Io non do noia:</l>
+<l>tanto mi tagli, quando mi mariti! -</l></lg>
+<lg type="terzina">
+<l>È infida... - Ogni anno ella convien che muoia. -</l>
+<l>Sempre soffietti... - E ari a capo chino. -</l>
+<l>Io sono la tua vita. - Io la tua gioia. -</l></lg>
+<lg type="terzina">
+<l>Tua carne è il pane. - Ma tuo sangue, il vino. -</l>
+<l>Che odore sa l'odore di pan fresco! -</l>
+<l>E che cantare fa cantar di tino! -</l></lg>
+<lg type="terzina">
+<l>Io son di casa. - Io più, che mai non esco:</l>
+<l>tu mi macini in casa co' tuoi piedi. -</l>
+<l>Tu, con me solo, puoi sederti a desco. -</l></lg>
+<lg>
+<l>Ti levi, senza me, come ti siedi. -</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Tu pigna dura per insù, tu molle</l>
+<l>spiga all'ingiù, vivete dunque in pace!</l>
+<l>Per l'una il piano, sia per l'altra il colle.</l></lg>
+<lg type="terzina">
+<l>Io la madia e la botte amo; e il loquace</l>
+<l>tino ben canta, e bene odora il forno:</l>
+<l>io ridirvi non so quanto mi piace</l></lg>
+<lg>
+<l>il vin d'un anno con il pan d'un giorno!"</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>L'OLIVETA E L'ORTO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>E come li amo que' miei quattro olivi,</l>
+<l>che al potatoio (sono morinelli)</l>
+<l>gridano ogni anno: - Buon per te, se arrivi! -</l></lg>
+<lg type="terzina">
+<l>Nonno di nonno li piantò; ma quelli</l>
+<l>buttano ancor la mignola, mentr'esso</l>
+<l>da un po' non sente cinguettar gli uccelli!</l></lg>
+<lg type="terzina">
+<l>E ne vengono, sì, sopra il cipresso,</l>
+<l>là, verso sera! Ed esso è là; ma sento</l>
+<l>che verso sera è qui con noi, qui presso.</l></lg>
+<lg type="terzina">
+<l>Tra lusco e brusco, egli entra lento lento,</l>
+<l>venendo bianco dalla vita eterna,</l>
+<l>e versa l'olio con un viso attento.</l></lg>
+<lg type="terzina">
+<l>È lui, che il nostro lume anco governa</l>
+<l>con que' suoi vecchi olivi: e quando l'Ave-</l>
+<l>maria rintocca, e splende la lucerna,</l></lg>
+<lg>
+<l>- Filate, o donne, - mormora - da brave! -</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>E come l'amo il mio cantuccio d'orto,</l>
+<l>col suo radicchio che convien ch'io tagli</l>
+<l>via via; che appena morto, ecco è risorto:</l></lg>
+<lg type="terzina">
+<l>o primavera! con quel verde d'agli,</l>
+<l>coi papaveri rossi, la cui testa</l>
+<l>suona coi chicchi, simile a sonagli;</l></lg>
+<lg type="terzina">
+<l>con le cipolle di cui fo la resta</l>
+<l>per San Giovanni; con lo spigo buono,</l>
+<l>che sa di bianco e rende odor di festa;</l></lg>
+<lg type="terzina">
+<l>coi riccioluti càvoli, che sono</l>
+<l>neri, ma buoni; e quelle mie viole</l>
+<l>gialle, ch'hanno un odore... come il suono</l></lg>
+<lg type="terzina">
+<l>dei vespri, dopo mezzogiorno, al sole</l>
+<l>nuovo d'aprile; ed alto, co' suoi capi</l>
+<l>rotondi, d'oro, il grande girasole</l></lg>
+<lg>
+<l>ch'è sempre pieno del ronzìo dell'api!</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E amo tutto: i vetrici ed i salci,</l>
+<l>che ripulisco ogni anno d'ogni vetta</l>
+<l>per farne i torchi da legare i tralci;</l></lg>
+<lg type="terzina">
+<l>quella fila di gattici soletta,</l>
+<l>alta e lunga, su cui cantano i chiù;</l>
+<l>il canneto che stride e che scoppietta:</l></lg>
+<lg>
+<l>ma non sapete quello ch'amo più</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>LA SIEPE</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Siepe del mio campetto, utile e pia,</l>
+<l>che al campo sei come l'anello al dito,</l>
+<l>che dice mia la donna che fu mia</l></lg>
+<lg type="terzina">
+<l>(ch'io pur ti sono florido marito,</l>
+<l>o bruna terra ubbidiente, che ami</l>
+<l>chi ti piagò col vomero brunito...);</l></lg>
+<lg type="terzina">
+<l>siepe che il passo chiudi co' tuoi rami</l>
+<l>irsuti al ladro dormi-'l-dì; ma dài</l>
+<l>ricetto ai nidi e pascolo a gli sciami;</l></lg>
+<lg type="terzina">
+<l>siepe che rinforzai, che ripiantai,</l>
+<l>quando crebbe famiglia, a mano a mano,</l>
+<l>più lieto sempre e non più ricco mai;</l></lg>
+<lg type="terzina">
+<l>d'albaspina, marruche e melograno,</l>
+<l>tra cui la madreselva odorerà</l>
+<l>io per te vivo libero e sovrano,</l></lg>
+<lg>
+<l>verde muraglia della mia città.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Oh! tu sei buona! Ha sete il passeggero;</l>
+<l>e tu cedi i tuoi chicchi alla sua sete,</l>
+<l>ma salvi il frutto pendulo del pero.</l></lg>
+<lg type="terzina">
+<l>Nulla fornisci alle anfore segrete</l>
+<l>della massaia: ma per te, felice</l>
+<l>ella i ciliegi popolosi miete.</l></lg>
+<lg type="terzina">
+<l>Nulla tu rendi; ma la vite dice;</l>
+<l>quando la poto all'orlo della strada,</l>
+<l>che si sente il cucùlo alla pendice,</l></lg>
+<lg type="terzina">
+<l>dice: - Il padre tu sei che, se t'aggrada,</l>
+<l>sì mi correggi e guidi per il pioppo;</l>
+<l>ma la siepe è la madre che mi bada. -</l></lg>
+<lg type="terzina">
+<l>- Per lei vino ho nel tino, olio nel coppo -</l>
+<l>rispondo. I galli plaudono dall'aia;</l>
+<l>e lieto il cane, che non è di troppo,</l></lg>
+<lg>
+<l>ch'è la tua voce, o muta siepe, abbaia.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E tu pur, siepe, immobile al confine,</l>
+<l>tu parli; breve parli tu, ché, fuori,</l>
+<l>dici un divieto acuto come spine;</l></lg>
+<lg type="terzina">
+<l>dentro, un assenso bello come fiori;</l>
+<l>siepe forte ad altrui, siepe a me pia,</l>
+<l>come la fede che donai con gli ori,</l></lg>
+<lg>
+<l>che dice mia la donna che fu mia.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head>ACCESTICE</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Egli parlava; e vennero i pisani:</l>
+<l>presero Dore, adagio su le braccia:</l>
+<l>- Vi si riporterà, gente, domani! -</l></lg>
+<lg type="terzina">
+<l>Nando riprese allora la sua caccia.</l>
+<l>Viola lo seguì con la Turella</l>
+<l>pascendo i timi giù per la Pianaccia.</l></lg>
+<lg type="terzina">
+<l>Ma gli occhi aperti Rosa, la sorella</l>
+<l>bionda, teneva. Ella tra sé romita</l>
+<l>faceva e disfaceva una mannella.</l></lg>
+<lg type="terzina">
+<l>Sembravano un veloce aspo le dita</l>
+<l>silenziose. Rigo s'era fatto</l>
+<l>più presso: "Ed ora, sola è la mia vita!"</l></lg>
+<lg type="terzina">
+<l>S'udiva solo quel parlare. Un gatto</l>
+<l>ronfava. La lucerna ora dimessa</l>
+<l>sfriggeva, ora guizzava alto d'un tratto,</l></lg>
+<lg>
+<l>come in un sogno: ché dormiva anch'essa.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>"... E fate a modo!" Rigo uscì. Non c'era</l>
+<l>per la campagna bianca che lui solo</l>
+<l>e l'ombra sua che lo seguiva nera.</l></lg>
+<lg type="terzina">
+<l>Splendea la luna su quel gran lenzuolo</l>
+<l>candido, come, accanto un letto, il lume</l>
+<l>dimenticato; e scricchiolava il suolo</l></lg>
+<lg type="terzina">
+<l>sotto i suoi passi; e brontolava il fiume</l>
+<l>là là: le giravolte sue lontane</l>
+<l>mostrava appena un vago fior di brume.</l></lg>
+<lg type="terzina">
+<l>Pestava un altro su la neve: un cane;</l>
+<l>Po: gli strisciò le gambe. Ecco che intese</l>
+<l>un arrochito suono di campane.</l></lg>
+<lg type="terzina">
+<l>Mezzanotte. Ogni casa, ogni paese</l>
+<l>dormiva. Egli era nella via maestra:</l>
+<l>guardava in alto, donde già discese:</l></lg>
+<lg>
+<l>c'era un lume, un lumino, alla finestra.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E c'era un'ombra. Egli vedeva. Ed ella</l>
+<l>vedeva. E fece un segno colla mano.</l>
+<l>L'ombra sparì: si spense la fiammella.</l></lg>
+<lg type="terzina">
+<l>E la sua strada seguitò pian piano,</l>
+<l>e ripensava dentro sé: che cosa?</l>
+<l>Ch'era gennaio... ch'accestiva il grano...</l></lg>
+<lg>
+<l>ch'era già tardi... ch'eri bella, o Rosa!</l></lg>
+</div3>
+</div2>
+</div1>
+<div1 type="sezione">
+<head rend="italic">I DUE FANCIULLI - I DUE ORFANI -</head>
+<div2 type="poesia">
+<head rend="italic">I DUE FANCIULLI</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Era il tramonto: ai garruli trastulli</l>
+<l>erano intenti, nella pace d'oro</l>
+<l>dell'ombroso viale, i due fanciulli.</l></lg>
+<lg type="terzina">
+<l>Nel gioco, serio al pari d'un lavoro,</l>
+<l>corsero a un tratto, con stupor de' tigli,</l>
+<l>tra lor parole grandi più di loro.</l></lg>
+<lg type="terzina">
+<l>A sé videro nuovi occhi, cipigli</l>
+<l>non più veduti, e l'uno e l'altro, esangue,</l>
+<l>ne' tenui diti si trovò gli artigli,</l></lg>
+<lg type="terzina">
+<l>e in cuore un'acre bramosia di sangue,</l>
+<l>e lo videro fuori, essi, i fratelli,</l>
+<l>l'uno dell'altro per il volto, il sangue!</l></lg>
+<lg type="terzina">
+<l>Ma tu, pallida (oh! i tuoi cari capelli</l>
+<l>strappati e pésti!), o madre pia, venivi</l>
+<l>su loro, e li staccavi, i lioncelli,</l></lg>
+<lg>
+<l>ed "A letto" intimasti "ora, cattivi!"</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>A letto, il buio li fasciò, gremito</l>
+<l>d'ombre più dense; vaghe ombre, che pare</l>
+<l>che d'ogni angolo al labbro alzino il dito.</l></lg>
+<lg type="terzina">
+<l>Via via fece più grosse onde e più rare</l>
+<l>il lor singhiozzo, per non so che nero</l>
+<l>che nel silenzio si sentia passare.</l></lg>
+<lg type="terzina">
+<l>L'uno si volse, e l'altro ancor, leggero:</l>
+<l>nel buio udì l'un cuore, non lontano</l>
+<l>il calpestìo dell'altro passeggero.</l></lg>
+<lg type="terzina">
+<l>Dopo breve ora, tacita, pian piano,</l>
+<l>venne la madre, ed esplorò col lume</l>
+<l>velato un poco dalla rosea mano.</l></lg>
+<lg type="terzina">
+<l>Guardò sospesa; e buoni oltre il costume</l>
+<l>dormir li vide, l'uno all'altro stretto</l>
+<l>con le sue bianche aluccie senza piume;</l></lg>
+<lg>
+<l>e rincalzò, con un sorriso, il letto.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Uomini, nella truce ora dei lupi,</l>
+<l>pensate all'ombra del destino ignoto</l>
+<l>che ne circonda, e a' silenzi cupi</l></lg>
+<lg type="terzina">
+<l>che regnano oltre il breve suon del moto</l>
+<l>vostro e il fragore della vostra guerra,</l>
+<l>ronzio d'un'ape dentro il bugno vuoto.</l></lg>
+<lg type="terzina">
+<l>Uomini, pace! Nella prona terra</l>
+<l>troppo è il mistero; e solo chi procaccia</l>
+<l>d'aver fratelli in suo timor, non erra.</l></lg>
+<lg type="terzina">
+<l>Pace, fratelli! e fate che le braccia</l>
+<l>ch'ora o poi tenderete ai più vicini,</l>
+<l>non sappiano la lotta e la minaccia.</l></lg>
+<lg type="terzina">
+<l>E buoni veda voi dormir nei lini</l>
+<l>placidi e bianchi, quando non intesa,</l>
+<l>quando non vista, sopra voi si chini</l></lg>
+<lg>
+<l>la Morte con la sua lampada accesa.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">NELLA NEBBIA</head>
+<lg type="poemetto">
+<lg type="terzina">
+<l>E guardai nella valle: era sparito</l>
+<l>tutto! sommerso! Era un gran mare piano,</l>
+<l>grigio, senz'onde, senza lidi, unito.</l></lg>
+<lg type="terzina">
+<l>E c'era appena, qua e là, lo strano</l>
+<l>vocìo di gridi piccoli e selvaggi:</l>
+<l>uccelli spersi per quel mondo vano.</l></lg>
+<lg type="terzina">
+<l>E alto, in cielo, scheletri di faggi,</l>
+<l>come sospesi, e sogni di rovine</l>
+<l>e di silenziosi eremitaggi.</l></lg>
+<lg type="terzina">
+<l>Ed un cane uggiolava senza fine,</l>
+<l>né seppi donde, forse a certe péste</l>
+<l>che sentii, né lontane né vicine;</l></lg>
+<lg type="terzina">
+<l>eco di péste né tarde né preste,</l>
+<l>alterne, eterne. E io laggiù guardai:</l>
+<l>nulla ancora e nessuno, occhi, vedeste.</l></lg>
+<lg type="terzina">
+<l>Chiesero i sogni di rovine: - Mai</l>
+<l>non giungerà? - Gli scheletri di piante</l>
+<l>chiesero: - E tu chi sei, che sempre vai? -</l></lg>
+<lg type="terzina">
+<l>Io, forse, un'ombra vidi, un'ombra errante</l>
+<l>con sopra il capo un largo fascio. Vidi,</l>
+<l>e più non vidi, nello stesso istante.</l></lg>
+<lg type="terzina">
+<l>Sentii soltanto gl'inquieti gridi</l>
+<l>d'uccelli spersi, l'uggiolar del cane,</l>
+<l>e, per il mar senz'onde e senza lidi,</l></lg>
+<lg>
+<l>le péste né vicine né lontane.</l></lg>
+</lg>
+</div2>
+<div2 type="poesia">
+<head rend="italic">LA GRANDE ASPIRAZIONE</head>
+
+<lg type="terzina">
+<l>Un desiderio che non ha parole</l>
+<l>v'urge, tra i ceppi della terra nera</l>
+<l>e la raggiante libertà del sole.</l></lg>
+<lg type="terzina">
+<l>Voi vi torcete come chi dispera,</l>
+<l>alberi schiavi! Dispergendo al cielo</l>
+<l>l'ombra de' rami lenta e prigioniera,</l></lg>
+<lg type="terzina">
+<l>e movendo con vane orme lo stelo</l>
+<l>dentro la terra, sembra che v'accori</l>
+<l>un desiderio senza fine anelo.</l></lg>
+<lg type="terzina">
+<l>- Ali e non rami! piedi e non errori</l>
+<l>ciechi di ignave radiche! - poi dite</l>
+<l>con improvvisa melodia di fiori.</l></lg>
+<lg type="terzina">
+<l>Lontano io vedo voi chiamar con mite</l>
+<l>solco d'odore; vedo voi lontano</l>
+<l>cennar con fiamme piccole, infinite.</l></lg>
+<lg type="terzina">
+<l>E l'uomo, alberi, l'uomo, albero strano</l>
+<l>che, sì, cammina, altro non può, che vuole;</l>
+<l>e schiavi abbiamo, per il sogno vano,</l></lg>
+<lg>
+<l>noi nostri fiori, voi vostre parole.</l></lg>
+
+</div2>
+<div2 type="poesia">
+<head rend="italic">L'IMMORTALITÀ</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Poeta Omar, pupilla solitaria</l>
+<l>che vede e splende, che contempla e crea,</l>
+<l>diceva avanti il mausoleo di Caria:</l></lg>
+<lg type="terzina">
+<l>"Non mescerai la polvere all'idea!</l>
+<l>Misero te, cui nella rupe piace</l>
+<l>scoprir la bianca faretrata dea!</l></lg>
+<lg type="terzina">
+<l>e te che il fosco eroe dalla fornace</l>
+<l>susciti vivo sopra il suo cavallo</l>
+<l>che ringhia! Il tempo che cammina e tace,</l></lg>
+<lg>
+<l>rode il tuo marmo, lima il tuo metallo.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Tra mille, tra duemila anni, tra poco,</l>
+<l>l'eroe sarà nella volante arena,</l>
+<l>sarà la dea ne' grappoli di fuoco!</l></lg>
+<lg type="terzina">
+<l>Misero! Ma quest'opera serena,</l>
+<l>fatta d'anima pura e di parole,</l>
+<l>beltà dal tempo e dalla morte ha lena:</l></lg>
+<lg>
+<l>vive la vita lucida del sole".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>"Dunque morrà!" rispose Abdul, quieta</l>
+<l>pupilla, su cui getta ombre il fulgore</l>
+<l>del cielo immenso: "Il sol morrà, poeta!</l></lg>
+<lg type="terzina">
+<l>Quando? Tu conta i bàttiti al tuo cuore:</l>
+<l>secoli sono i palpiti del sole;</l>
+<l>ma sono, istanti e secoli, a chi muore,</l></lg>
+<lg>
+<l>o poeta, una cosa e due parole!"</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>Disse. E al poeta il breve inno non piacque</l>
+<l>mai più. Godé del cielo egli e del suolo,</l>
+<l>di brevi rose e brevi trilli; e tacque.</l></lg>
+<lg type="terzina">
+<l>Moriva; e disse, mentre un usignolo</l>
+<l>cantava ancora ne' verzieri suoi:</l>
+<l>"Giova ciò solo che non muore, e solo</l></lg>
+<lg>
+<l>per noi non muore, ciò che muor con noi".</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">IL LIBRO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Sopra il leggìo di quercia è nell'altana,</l>
+<l>aperto, il libro. Quella quercia ancora,</l>
+<l>esercitata dalla tramontana,</l></lg>
+<lg type="terzina">
+<l>viveva nella sua selva sonora;</l>
+<l>e quel libro era antico. Eccolo: aperto,</l>
+<l>sembra che ascolti il tarlo che lavora.</l></lg>
+<lg type="terzina">
+<l>E sembra ch'uno (donde mai? non, certo,</l>
+<l>dal tremulo uscio, cui tentenna il vento</l>
+<l>delle montagne e il vento del deserto,</l></lg>
+<lg type="terzina">
+<l>sorti d'un tratto...) sia venuto, e lento</l>
+<l>sfogli - se n'ode il crepitar leggiero -</l>
+<l>le carte. E l'uomo non vedo io: lo sento,</l></lg>
+<lg>
+<l>invisibile, là, come il pensiero...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Un uomo è là, che sfoglia dalla prima</l>
+<l>carta all'estrema, rapido, e pian piano</l>
+<l>va, dall'estrema, a ritrovar la prima.</l></lg>
+<lg type="terzina">
+<l>E poi nell'ira del cercar suo vano</l>
+<l>volta i fragili fogli a venti, a trenta,</l>
+<l>a cento, con l'impaziente mano.</l></lg>
+<lg type="terzina">
+<l>E poi li volge a uno a uno, lenta-</l>
+<l>mente, esitando; ma via via più forte,</l>
+<l>più presto, i fogli contro i fogli avventa.</l></lg>
+<lg type="terzina">
+<l>Sosta... Trovò? Non gemono le porte</l>
+<l>più, tutto oscilla in un silenzio austero.</l>
+<l>Legge?... Un istante; e volta le contorte</l></lg>
+<lg>
+<l>pagine, e torna ad inseguire il vero.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E sfoglia ancora; al vespro, che da nere</l>
+<l>nubi rosseggia; tra un errar di tuoni,</l>
+<l>tra un aliare come di chimere.</l></lg>
+<lg type="terzina">
+<l>E sfoglia ancora, mentre i padiglioni</l>
+<l>tumidi al vento l'ombra tende, e viene</l>
+<l>con le deserte costellazioni</l></lg>
+<lg type="terzina">
+<l>la sacra notte. Ancora e sempre: bene</l>
+<l>io n'odo il crepito arido tra canti</l>
+<l>lunghi nel cielo come di sirene.</l></lg>
+<lg type="terzina">
+<l>Sempre. Io lo sento, tra le voci erranti,</l>
+<l>invisibile, là, come il pensiero,</l>
+<l>che sfoglia, avanti indietro, indietro avanti,</l></lg>
+<lg>
+<l>sotto le stelle, il libro del mistero.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">LA FELICITÀ</head>
+<lg type="poemetto">
+<lg type="terzina">
+<l>"Quella, tu dici, che inseguii, non era</l>
+<l>lei...?" "No: era una vana ombra in sembiante</l>
+<l>di quella che ciascuno ama e che spera</l></lg>
+<lg type="terzina">
+<l>e che perde. Virtù di negromante!"</l>
+<l>"Ella è qui, nel castello arduo ch'entrai?"</l>
+<l>"Forse la tocchi, o cavaliere errante!"</l></lg>
+<lg type="terzina">
+<l>"Forse... E non la vedrò?" "Non la vedrai".</l>
+<l>"Oh!" "Tale è l'arte dell'oscuro Atlante:</l>
+<l>non è, la vedi: è, non la vedi". "E, mai...?"</l></lg>
+<lg type="terzina">
+<l>"Ma sì: se leggi in questo libro tante</l>
+<l>rapide righe". "E dicono...?" "S'ignora:</l>
+<l>chi lesse, tacque, o cavaliere errante!"</l></lg>
+<lg type="terzina">
+<l>"Se leggo..." "Sai: l'incanto è rotto". "Allora?"</l>
+<l>"La vedrai". "Su l'istante?" "In quell'istante!"</l>
+<l>"E il castello?" "Nell'ombra esso vapora".</l></lg>
+<lg>
+<l>"Ed è?..." "La Vita, o cavaliere errante!"</l></lg>
+</lg>
+</div2>
+<div2 type="poesia">
+<head rend="italic">IL CIECO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Chi l'udì prima piangere? Fu l'alba.</l>
+<l>Egli piangeva; e, per udirlo, ascese</l>
+<l>qualche ramarro per una vitalba.</l></lg>
+<lg type="terzina">
+<l>E stettero, per breve ora, sospese</l>
+<l>su quel capo due grandi aquile fosche.</l>
+<l>Presso era un cane, con le zampe tese</l></lg>
+<lg>
+<l>all'aria, morto: tra un ronzìo di mosche.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>"Donde venni non so; né dove io vada</l>
+<l>saper m'è dato. Il filo del pensiero</l>
+<l>che mi reggeva, per la cieca strada,</l></lg>
+<lg type="terzina">
+<l>da voci a voci, dal dì nero al nero</l>
+<l>tacer notturno (m'addormii; sognai:</l>
+<l>vedevo in sogno che vedevo il vero:</l></lg>
+<lg>
+<l>desto, più non lo so, né saprò mai...);</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>nel chiaro sonno, in mezzo a un rombo d'api,</l>
+<l>si ruppe il tenue filo. E poi che gli occhi</l>
+<l>apersi, cerco i due penduli capi</l></lg>
+<lg type="terzina">
+<l>in vano. Mi levai sopra i ginocchi,</l>
+<l>mi levai su' due piedi. E l'aria in vano</l>
+<l>nera palpo, e la terra anche, s'io tocchi</l></lg>
+<lg>
+<l>pure il guinzaglio, cui lasciò la mano</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>addormentata. Oh! non credo io che dorma</l>
+<l>la mia guida, e con lieve squittir segua</l>
+<l>nel chiaro sonno il lieve odor d'un'orma!</l></lg>
+<lg type="terzina">
+<l>Egli è fuggito; è vano che l'insegua</l>
+<l>per l'ombra il suono delle mie parole!</l>
+<l>Oh! la lunga ombra che non mai dilegua</l></lg>
+<lg>
+<l>per la sempre aspettata alba d'un sole,</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>che di là brilla! Vano il grido, vano</l>
+<l>il pianto. Io sono il solo dei viventi,</l>
+<l>lontano a tutti ed anche a me lontano.</l></lg>
+<lg type="terzina">
+<l>Io so che in alto scivolano i venti,</l>
+<l>e vanno e vanno senza trovar l'eco,</l>
+<l>a cui frangere alfine i miei lamenti;</l></lg>
+<lg>
+<l>a cui portare il murmure del cieco...</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg type="terzina">
+<l>Ma forse uno m'ascolta; uno mi vede,</l>
+<l>invisibile. Sé dentro sé cela.</l>
+<l>Sogghigni? piangi? m'ami? odii? Siede</l></lg>
+<lg type="terzina">
+<l>in faccia a me. Chi che tu sia, rivela</l>
+<l>chi sei: dimmi se il cuor ti si compiace</l>
+<l>o si compiange della mia querela!</l></lg>
+<lg>
+<l>Egli mi guarda immobilmente, e tace.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VII</head>
+<lg type="terzina">
+<l>O forse una mi vede, una m'ascolta,</l>
+<l>invisibile. È grande, orrida: il vento</l>
+<l>le va fremendo tra la chioma folta.</l></lg>
+<lg type="terzina">
+<l>Siede e mi guarda. O tu che ignoro e sento,</l>
+<l>dimmi se guerra hai tu negli occhi o pace!</l>
+<l>dimmi ove sono! Ed essa è là, col mento</l></lg>
+<lg>
+<l>sopra la palma, che mi guarda, e tace.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VIII</head>
+<lg type="terzina">
+<l>Chi che tu sia, che non vedo io, che vedi</l>
+<l>me, parla dunque: dove sono? Io voglio</l>
+<l>cansar l'abisso che mi sento ai piedi...</l></lg>
+<lg type="terzina">
+<l>di fronte? a tergo? Parlami. Il gorgoglio</l>
+<l>n'odo incessante; e d'ogni intorno pare</l>
+<l>che venga; ed io qui sto, come uno scoglio,</l></lg>
+<lg>
+<l>tra un nero immenso fluttuar di mare".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IX</head>
+<lg type="terzina">
+<l>Così piangeva: e l'aurea sera nelle</l>
+<l>rughe gli ardea del viso; e la rugiada</l>
+<l>sopra il suo capo piovvero le stelle.</l></lg>
+<lg type="terzina">
+<l>Ed egli stava, irresoluto, a bada</l>
+<l>del nullo abisso, e gli occhi intorno, pieni</l>
+<l>d'oblìo, volgeva; fin ch' - io so la strada -</l></lg>
+<lg>
+<l>una, la Morte, gli sussurrò - vieni! -</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">L'EREMITA</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Pregava all'alba il pallido eremita:</l>
+<l>"Dio, non negare il sale alla mia mensa,</l>
+<l>non negare il dolore alla mia vita.</l></lg>
+<lg type="terzina">
+<l>Ma del dolore che quaggiù dispensa</l>
+<l>la tua celeste provvidenza buona,</l>
+<l>a me risparmia il reo dolor che pensa.</l></lg>
+<lg type="terzina">
+<l>O, s'è destino, per di più mi dona,</l>
+<l>con quel che pensa, anche il dolor che grida:</l>
+<l>l'afa che opprime, il nuvolo che tuona;</l></lg>
+<lg>
+<l>pensier che strugga e folgore che uccida!"</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>E ripregava a mezzodì: "Rimane,</l>
+<l>Dio, che tu lasci che il nemico muto</l>
+<l>pur mandi a me le nudità sue vane.</l></lg>
+<lg type="terzina">
+<l>Quando al vespro del mio dì combattuto</l>
+<l>dilegueranno, io penserò che, vere,</l>
+<l>le avrei non meno dileguar veduto.</l></lg>
+<lg type="terzina">
+<l>Nel cuore sono due vanità nere</l>
+<l>l'ombra del sogno e l'ombra della cosa;</l>
+<l>ma questa è il buio a chi desìa vedere,</l></lg>
+<lg>
+<l>e quella il rezzo a chi stanco riposa".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>A sera, disse: "Il servo, umile e grato,</l>
+<l>ti benedice! Tu mi desti, o Dio,</l>
+<l>l'aver provato e non aver peccato.</l></lg>
+<lg type="terzina">
+<l>L'anima mia tu percotesti e il mio</l>
+<l>corpo di tanto e tal dolor ch'è d'ogni</l>
+<l>dolcezza assai più dolce ora l'oblìo.</l></lg>
+<lg type="terzina">
+<l>Infelice cui l'occhio apresi ai sogni,</l>
+<l>apresi nella grande ombra che tace,</l>
+<l>sia che già tema, sia che sempre agogni!</l></lg>
+<lg>
+<l>Piansi, non piango: io dormirò: sia pace!"</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>E velò gli occhi il pallido eremita.</l>
+<l>Ed ecco gli fluìa per i precordi</l>
+<l>il dolce sonno della stanca vita;</l></lg>
+<lg type="terzina">
+<l>quando riscosso (egli scendeva a fior di</l>
+<l>grandi acque mute su labile nave)</l>
+<l>gridò: "Signore, fa ch'io mi ricordi!</l></lg>
+<lg type="terzina">
+<l>Dio, fa che sogni! Nulla è più soave,</l>
+<l>Dio, che la fine del dolor; ma molto</l>
+<l>duole obliarlo; ché gettare è grave</l></lg>
+<lg>
+<l>il fior che solo odora quando è colto".</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">L'ASINO</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>L'asino... Parmi adesso: era una sera</l>
+<l>d'ottobre, nella strada di Sogliano.</l>
+<l>Cigolava per l'erta la corriera.</l></lg>
+<lg type="terzina">
+<l>E io guardavo dietro me, nel piano,</l>
+<l>dove San Mauro mio già non appare</l>
+<l>- oh! mio nido di lodola tra il grano! -</l></lg>
+<lg type="terzina">
+<l>dove tra il verde luccica, e tra chiare</l>
+<l>brecce di ville borghi città, drago</l>
+<l>addormentato dal cantar del mare,</l></lg>
+<lg type="terzina">
+<l>la Marecchia argentina. E quando pago</l>
+<l>fui della vista, mi rivolsi e, nero</l>
+<l>come uno scoglio per un roseo lago,</l></lg>
+<lg type="terzina">
+<l>nero sopra un trascolorar leggiero</l>
+<l>di tutto il cielo, come un'ombra netta,</l>
+<l>nero e fermo lassù come un mistero,</l></lg>
+<lg>
+<l>l'asino vidi con la sua carretta.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Non altro? No. Da non so qual pendice</l>
+<l>veniva un canto di vendemmiatore,</l>
+<l>veniva un canto di vendemmiatrice:</l></lg>
+<lg type="terzina">
+<l>veniva or sì, or no, tra lo stridore</l>
+<l>delle ruote. Sentii queste parole:</l>
+<l>- E m'hanno detto ch'è morto l'amore... -</l></lg>
+<lg type="terzina">
+<l>Io, sole queste; ma non queste sole</l>
+<l>l'asino che lassù stava, annerando</l>
+<l>dentro il morire fulgido del sole.</l></lg>
+<lg type="terzina">
+<l>Pur non vibrava, vidi, a quando a quando</l>
+<l>l'orecchie della lunga ombra per quello</l>
+<l>stornellamento così lungo e blando;</l></lg>
+<lg type="terzina">
+<l>sì le volgeva appena a un ritornello</l>
+<l>or chiaro come d'anelante piva,</l>
+<l>or aspro come d'avido succhiello...</l></lg>
+<lg>
+<l>Su la carretta il carrettier dormiva.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Russava nella strada solitaria</l>
+<l><emph>Schiuma</emph>, lo scalzo e rauco pesciaiolo,</l>
+<l>tuo figlio, o di marruche irta Bellaria.</l></lg>
+<lg type="terzina">
+<l>Lo prese e vinse il vino di Bagnolo</l>
+<l>nel suo ritorno; e l'altro, a poco a poco</l>
+<l>per non più fare la sua via da solo</l></lg>
+<lg type="terzina">
+<l>(senza il bastone!), si fermò tra il fuoco</l>
+<l>del vespro. Dietro, delle ondanti gote</l>
+<l>egli ascoltava il buffar grande e roco.</l></lg>
+<lg type="terzina">
+<l>L'uno dormiva su le ceste vuote,</l>
+<l>vidi passando: e l'asino, <emph>St! dorme!</emph></l>
+<l>parve accennare alle sonore ruote.</l></lg>
+<lg type="terzina">
+<l>L'un su le ceste, e su le sue quattro orme</l>
+<l>l'altro, non meno immobile del primo.</l>
+<l>Soltanto l'ombra sua, lunga e deforme,</l></lg>
+<lg>
+<l>pasceva al greppo un vago odor di timo.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>E l'uomo, con la cara anima invasa</l>
+<l>d'oblìo, dormiva nella via maestra;</l>
+<l>ma già la moglie l'attendeva in casa.</l></lg>
+<lg type="terzina">
+<l>Fosse andato pur là dove è maestra</l>
+<l>gente in far teglie, sotto cui bel bello</l>
+<l>scoppietti il pungitopo e la ginestra;</l></lg>
+<lg type="terzina">
+<l>a Montetiffi; o dove, a Montebello,</l>
+<l>passero solitario, ancor per uso</l>
+<l>torni nel solitario tuo castello;</l></lg>
+<lg type="terzina">
+<l>già l'attendeva; e la capanna al Luso</l>
+<l>più non udiva dell'industre moglie</l>
+<l>il fremebondo vortice del fuso;</l></lg>
+<lg type="terzina">
+<l>ch'ella destava il fuoco già, con foglie</l>
+<l>secche, e stacciava, e poi metteva il piede</l>
+<l>fuori, e le donne assise su le soglie</l></lg>
+<lg>
+<l>interrogava ad or ad or: <emph>Si vede?</emph></l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>Ma l'uomo era lassù, lungi dal mare,</l>
+<l>sul monte azzurro; e nol sapea: pian piano</l>
+<l>credea seguire il suo tranquillo andare.</l></lg>
+<lg type="terzina">
+<l>Anzi, calava d'un buon passo al piano:</l>
+<l>già balzellando si sentì di sotto</l>
+<l>le tue selci sonanti, o Savignano.</l></lg>
+<lg type="terzina">
+<l>Anzi, a San Mauro s'era già condotto;</l>
+<l>e sentiva sonar l'Avemaria,</l>
+<l>grave e soave, tra il fragor del trotto.</l></lg>
+<lg type="terzina">
+<l>Anzi, alla Torre: e nella nera ombrìa</l>
+<l>del parco udiva un ultimo fringuello,</l>
+<l>mentre al galoppo egli svoltò la via.</l></lg>
+<lg type="terzina">
+<l>Anzi, era giunto: urlava: <emph>Arri! mio bello</emph>.</l>
+<l>L'aria marina gli pungea la fronte,</l>
+<l>e la rena legava: <emph>Arri!</emph>... Ma quello</l></lg>
+<lg>
+<l>era là, fermo, su l'azzurro monte.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg type="terzina">
+<l>- <emph>Schiuma</emph>, la rena lega! Uomo, la rena</l>
+<l>lega le ruote! Il po' di via che resta,</l>
+<l>si farà certo con un po' di pena;</l></lg>
+<lg type="terzina">
+<l>ma è l'ultimo! l'ultimo! ma questa</l>
+<l>è la mèta, è il riposo! Odi: col canto</l>
+<l>delle mille onde il mare ti fa festa.</l></lg>
+<lg type="terzina">
+<l>Avanti! Si va piano, ora; ma quanto</l>
+<l>s'è corso prima! O <emph>Schiuma</emph>, ecco Bellaria!</l>
+<l>Avanti! ecco la gioia, uomo! - Frattanto</l></lg>
+<lg type="terzina">
+<l>l'asino è fermo, e l'uomo sogna. Svaria</l>
+<l>quel gruppo nero sul purpureo cielo.</l>
+<l>I pipistrelli sbalzano per l'aria.</l></lg>
+<lg type="terzina">
+<l>Viene un suon di campane dietro un velo</l>
+<l>di lontananza; e tutto si scolora.</l>
+<l>Laggiù chiede una donna al mare anelo,</l></lg>
+<lg>
+<l>all'ombra muta: <emph>Non si vede ancora?</emph></l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">IL TRANSITO</head>
+<lg type="terzina">
+<l>Il cigno canta. In mezzo delle lame</l>
+<l>rombano le sue voci lunghe e chiare,</l>
+<l>come percossi cembali di rame.</l></lg>
+<lg type="terzina">
+<l>È l'infinita tenebra polare.</l>
+<l>Grandi montagne d'un eterno gelo</l>
+<l>póntano sopra il lastrico del mare.</l></lg>
+<lg type="terzina">
+<l>Il cigno canta; e lentamente il cielo</l>
+<l>sfuma nel buio, e si colora in giallo;</l>
+<l>spunta una luce verde a stelo a stelo.</l></lg>
+<lg type="terzina">
+<l>Come arpe qua e là tocche, il metallo</l>
+<l>di quella voce tìntina; già sfiora</l>
+<l>la verde luce i picchi di cristallo.</l></lg>
+<lg type="terzina">
+<l>E nella notte, che ne trascolora,</l>
+<l>un immenso iridato arco sfavilla,</l>
+<l>e i portici profondi apre l'aurora.</l></lg>
+<lg type="terzina">
+<l>L'arco verde e vermiglio arde, zampilla,</l>
+<l>a frecce, a fasci; e poi palpita, frana</l>
+<l>tacitamente, e riascende e brilla.</l></lg>
+<lg type="terzina">
+<l>Col suono d'un rintocco di campana</l>
+<l>che squilli ultimo, il cigno agita l'ale:</l>
+<l>l'ale grandi grandi apre, e s'allontana</l></lg>
+<lg>
+<l>candido, nella luce boreale.</l></lg>
+
+</div2>
+<div2 type="poesia">
+<head rend="italic">IL FOCOLARE</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>È notte. Un lampo ad or ad or s'effonde,</l>
+<l>e rileva in un gran soffio di neve</l>
+<l>gente che va né dove sa né donde.</l></lg>
+<lg type="terzina">
+<l>Vanno. Via via l'immensa ombra li beve.</l>
+<l>E quale è solo e quale tien per mano</l>
+<l>un altro sé dal calpestìo più breve.</l></lg>
+<lg type="terzina">
+<l>E chi gira per terra l'occhio vano,</l>
+<l>e chi lo volge al dubbio d'una voce,</l>
+<l>e chi l'innalza verso il ciel lontano,</l></lg>
+<lg>
+<l>e chi piange, e chi va muto e feroce.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Piangono i più. Passano loro grida</l>
+<l>inascoltate: niuno sa ch'è pieno,</l>
+<l>intorno a lui, d'altro dolor che grida.</l></lg>
+<lg type="terzina">
+<l>Ma vede ognuno, al guizzo d'un baleno,</l>
+<l>una capanna sola nel deserto;</l>
+<l>e dice ognuno nel suo cuore - Almeno</l></lg>
+<lg type="terzina">
+<l>riposerò! - Dal vagolare incerto</l>
+<l>volgono a quella sotto l'aer bruno.</l>
+<l>Eccoli tutti avanti l'uscio aperto</l></lg>
+<lg>
+<l>della capanna, ove non è nessuno.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>Sono ignoti tra loro, essi, venuti</l>
+<l>dai quattro venti al tacito abituro:</l>
+<l>a uno a uno penetrano muti.</l></lg>
+<lg type="terzina">
+<l>- Qui non fa così freddo e così scuro! -</l>
+<l>dicono tra un sospiro ed un singulto;</l>
+<l>e si assidono mesti intorno al muro.</l></lg>
+<lg type="terzina">
+<l>E dietro il muro palpita il tumulto</l>
+<l>di tutto il cielo, sempre più sonoro:</l>
+<l>gemono al buio, l'uno all'altro occulto;</l></lg>
+<lg>
+<l>tremano... Un focolare è in mezzo a loro.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>Un lampo svela ad or ad or la gente</l>
+<l>mesta, seduta, con le braccia in croce,</l>
+<l>al focolare in cui non è niente.</l></lg>
+<lg type="terzina">
+<l>Tremano: in tanto il bàttito veloce</l>
+<l>sente l'un cuor dell'altro. Ognuno al fianco</l>
+<l>trova un orecchio, trova anche una voce;</l></lg>
+<lg type="terzina">
+<l>e il roseo bimbo è presso il vecchio bianco,</l>
+<l>e la pia donna all'uomo: allo straniero</l>
+<l>omero ognuno affida il capo stanco,</l></lg>
+<lg>
+<l>povero capo stanco di mistero.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>Ed ecco parla il buon novellatore,</l>
+<l>e la sua fola pendula scintilla,</l>
+<l>come un'accesa lampada, lunghe ore</l></lg>
+<lg type="terzina">
+<l>sopra i lor capi. Ed ecco ogni pupilla</l>
+<l>scopre nel vano focolare il fioco</l>
+<l>fioco riverberìo d'una favilla.</l></lg>
+<lg type="terzina">
+<l>Intorno al vano focolare a poco</l>
+<l>a poco niuno trema più né geme</l>
+<l>più: sono al caldo; e non li scalda il fuoco,</l></lg>
+<lg>
+<l>ma quel loro soave essere insieme.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VI</head>
+<lg type="terzina">
+<l>Sporgono alcuni, con in cuor la calma,</l>
+<l>le mani al fuoco: in gesto di preghiera</l>
+<l>sembrano tese l'una e l'altra palma.</l></lg>
+<lg type="terzina">
+<l>I giovinetti con letizia intiera</l>
+<l>siedon del vano focolare al canto,</l>
+<l>a quella fiamma tiepida e non vera.</l></lg>
+<lg type="terzina">
+<l>Le madri, delle mani una soltanto</l>
+<l>tendono; l'altra è lì, sopra una testa</l>
+<l>bionda. C'è dolce ancora un po' di pianto,</l></lg>
+<lg>
+<l>nella capanna ch'urta la tempesta.</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">VII</head>
+<lg type="terzina">
+<l>Oh! dolce è l'ombra del comun destino,</l>
+<l>al focolare spento. Esce dal tetto</l>
+<l>alcuno e va per suo strano cammino;</l></lg>
+<lg type="terzina">
+<l>e la tempesta rompe aspro col petto</l>
+<l>maledicendo; e qualche sua parola</l>
+<l>giunge a quel mondo placido e soletto,</l></lg>
+<lg type="terzina">
+<l>che veglia insieme; e il nero tempo vola</l>
+<l>su le loro soavi anime assorte</l>
+<l>nel lungo sogno d'una lenta fola;</l></lg>
+<lg>
+<l>mentre all'intorno mormora la morte.</l></lg>
+</div3>
+</div2>
+<div2 type="poesia">
+<head rend="italic">I DUE ORFANI</head>
+<div3 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>"Fratello, ti do noia ora, se parlo?"</l>
+<l>"Parla: non posso prender sonno". "Io sento</l>
+<l>rodere, appena..." "Sarà forse un tarlo..."</l></lg>
+<lg type="terzina">
+<l>"Fratello, l'hai sentito ora un lamento</l>
+<l>lungo, nel buio?" "Sarà forse un cane..."</l>
+<l>"C'è gente all'uscio..." "Sarà forse il vento..."</l></lg>
+<lg type="terzina">
+<l>"Odo due voci piane piane piane..."</l>
+<l>"Forse è la pioggia che vien giù bel bello".</l>
+<l>"Senti quei tocchi?" "Sono le campane".</l></lg>
+<lg type="terzina">
+<l>"Suonano a morto? suonano a martello?"</l>
+<l>"Forse..." "Ho paura..." "Anch'io". "Credo che tuoni:</l>
+<l>come faremo?" "Non lo so, fratello:</l></lg>
+<lg>
+<l>stammi vicino: stiamo in pace: buoni".</l></lg>
+</div3>
+<div3 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>"Io parlo ancora, se tu sei contento.</l>
+<l>Ricordi, quando per la serratura</l>
+<l>veniva lume?" "Ed ora il lume è spento".</l></lg>
+<lg type="terzina">
+<l>"Anche a que' tempi noi s'aveva paura:</l>
+<l>sì, ma non tanta". "Or nulla ci conforta,</l>
+<l>e siamo soli nella notte oscura".</l></lg>
+<lg type="terzina">
+<l>"Essa era là, di là di quella porta;</l>
+<l>e se n'udiva un mormorìo fugace,</l>
+<l>di quando in quando". "Ed or la mamma è morta".</l></lg>
+<lg type="terzina">
+<l>"Ricordi? Allora non si stava in pace</l>
+<l>tanto, tra noi..." "Noi siamo ora più buoni..."</l>
+<l>"ora che non c'è più chi si compiace</l></lg>
+<lg>
+<l>di noi..." "che non c'è più chi ci perdoni".</l></lg>
+</div3>
+</div2>
+</div1>
+<div1 type="poesia">
+<head rend="italic">LE ARMI</head>
+<div2 type="canto">
+<lg type="terzina">
+<l>"Nando!" al su' omo disse il babbo "Nando!</l>
+<l>Di tuo tu devi aver già l'armi, nuove,</l>
+<l>ben fatte. Dunque va dove ti mando.</l></lg>
+<lg type="terzina">
+<l>Il ponte sai, della Corsonna, dove</l>
+<l>entra nel Serchio. C'è un fruscìo di polle,</l>
+<l>in quel contorno, che fa dir: Qui piove!</l></lg>
+<lg type="terzina">
+<l>fa dire al cieco che vien giù dal colle</l>
+<l>col suo canetto, e, fosse il solleone,</l>
+<l>sente un frastuono, sente un fresco, un molle...</l></lg>
+<lg type="terzina">
+<l>Già gli par che di dosso il can barbone</l>
+<l>sgrolli le grosse gocciole, e la strada</l>
+<l>odori forte sotto l'acquazzone.</l></lg>
+<lg type="terzina">
+<l>Basta: se rumor d'acqua odi, che cada</l>
+<l>senza nuvole in cielo, ecco Aladino</l>
+<l>che farà la tua lancia e la tua spada.</l></lg>
+<lg type="terzina">
+<l>Forse t'aspetta all'ombra d'un gran pino</l>
+<l>bevendo vino. O è forse al lavoro</l>
+<l>col suo gran maglio dentro lo stendino.</l></lg>
+<lg type="terzina">
+<l>Tutto vestito d'ellera e d'alloro</l>
+<l>è lo stendino. Dentro, alla catena,</l>
+<l>è il gran maglio dal capo come toro</l></lg>
+<lg type="terzina">
+<l>Ed ecco il fabbro che l'avvia, lo frena,</l>
+<l>lo sferra, arresta, mentre soffia il vento</l>
+<l>e l'acqua stroscia e il focolar balena.</l></lg>
+<lg type="terzina">
+<l>E il maglio picchia, ora veloce, or lento</l>
+<l>lento, sul rosso ferro, come pare</l>
+<l>all'uomo: un uomo! ma che vale i cento.</l></lg>
+<lg type="terzina">
+<l>E dunque l'armi tu ne avrai, più care,</l>
+<l>figlio, più tue: ruvide e nere in prima,</l>
+<l>ma è il lavoro che le fa lustrare.</l></lg>
+<lg type="terzina">
+<l>Ma fa, il lavoro, come fa la lima:</l>
+<l>pulisce e rode: l'armi e l'uomo... Ebbene?</l>
+<l>Se il calcio è verde, secchi pur la cima!</l></lg>
+<lg type="terzina">
+<l>Fate armi nuove per ognun che viene</l>
+<l>nuovo nel mondo. Ed abbia ognuno in mano</l>
+<l>il suo marrello e il suo po' po' di bene".</l></lg>
+<lg type="terzina">
+<l>Così diceva. E Nando scese al piano</l>
+<l>di Castelvecchio. Nelle porche uguali,</l>
+<l>come un velluto verdicava il grano.</l></lg>
+<lg type="terzina">
+<l>Faceva l'unghia già qualcuno ai pali</l>
+<l>per le sue viti. Sui forconi vecchi</l>
+<l>cantavano, spiando, i pinzampali.</l></lg>
+<lg type="terzina">
+<l>Altri potava. Si sentian gli azzecchi,</l>
+<l>gli schiocchi delle forbici. Sui pioppi</l>
+<l>dava il pennato fitti colpi secchi.</l></lg>
+<lg type="terzina">
+<l>Oh! quanti olivi sul pendìo! Sin troppi.</l>
+<l>Erano un bosco. E ne cadean già nere</l>
+<l>le olive, e l'olio avrebbe empito i coppi.</l></lg>
+<lg type="terzina">
+<l>Castagne, grano, vino, olio... un podere,</l>
+<l>lì, gli garbava. C'era anche la fonte</l>
+<l>a cui menare le sue bestie a bere.</l></lg>
+<lg type="terzina">
+<l>Oh! c'era bello, lì tra piano e monte,</l>
+<l>lì tra il fiume il torrente il torrentello,</l>
+<l>e con la Pania cerula di fronte!</l></lg>
+<lg type="terzina">
+<l>Bello, sì, ma il suo nido era più bello.</l>
+<l>Bevve alla fonte e seguitò la strada,</l>
+<l>e vide il fiume e il ponte lungo e snello.</l></lg>
+<lg type="terzina">
+<l>Non lo passò: svoltò per la contrada</l>
+<l>dell'Arsenale e di Mologno, dove</l>
+<l>si facea la sua lancia e la sua spada.</l></lg>
+<lg type="terzina">
+<l>Era ancora prestino, eran le nove</l>
+<l>forse, e il mattino era di rose e d'oro,</l>
+<l>quando in suo cuore esclamò Nando: Piove!</l></lg>
+<lg type="terzina">
+<l>E non pioveva; ma s'udìa sonoro</l>
+<l>un cader d'acqua. Un casolare basso</l>
+<l>c'era, coperto d'ellera e d'alloro.</l></lg>
+<lg type="terzina">
+<l>Vi scese, udendo ad or ad or fracasso</l>
+<l>di ferro in mezzo al murmure incessante</l>
+<l>dell'acqua, e il maglio rimbombar sul tasso.</l></lg>
+<lg type="terzina">
+<l>Parea soffiare il vento tra le piante</l>
+<l>d'una foresta. Entrò guardando al fioco</l>
+<l>lume. E rosso gli apparve, ecco, un gigante</l></lg>
+<lg>
+<l>tra un improvviso sgretolìo di fuoco.</l></lg>
+</div2>
+<div2 type="canto">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>S'appoggiò su l'incudine col mazzo.</l>
+<l>Sopra la fronte si strusciò due dita.</l>
+<l>Le sgrollò. Disse: "So chi sei, ragazzo.</l></lg>
+<lg type="terzina">
+<l>E so cosa tu vuoi dall'eremita</l>
+<l>fabbro ferraio: l'armi nuove e belle,</l>
+<l>l'armi che dànno anche al tuo re la vita.</l></lg>
+<lg type="terzina">
+<l>Sono sei: tre fratelli e tre sorelle.</l>
+<l>Tienle con te da quando sorge a quando</l>
+<l>cade lo stormo delle Gallinelle".</l></lg>
+<lg type="terzina">
+<l>Disse, e comandò l'acqua. Essa al comando</l>
+<l>rimbombò cupa, e mosse il vento, e il vento</l>
+<l>sul rosso fuoco si gettò fischiando.</l></lg>
+<lg type="terzina">
+<l>Nella spelonca il biondo fabbro, attento,</l>
+<l>movea, tra l'invisibile acqua e il rosso</l>
+<l>fuoco, due braccia che battean per cento.</l></lg>
+<lg type="terzina">
+<l>Ché la Corsonna a lui correa pel fosso</l>
+<l>perennemente, ad un suo cenno presta,</l>
+<l>quando accennava: Ora da me non posso.</l></lg>
+<lg type="terzina">
+<l>Ella, scendendo come la tempesta,</l>
+<l>movea la ruota, essa lo stile, e tu,</l>
+<l>maglio, sul ferro e su l'acciaio la testa</l></lg>
+<lg>
+<l>alzavi e la lasciavi piombar giù.</l></lg>
+</div2>
+<div2 type="canto">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>E prima il fabbro fabbricò la vanga</l>
+<l>dalle due ali, l'arma che le zolle</l>
+<l>tagli e le franga: ed anche te ti franga;</l></lg>
+<lg type="terzina">
+<l>ma poi t'acconcia, per il ben che volle</l>
+<l>a te, che tu volesti a lei, fratello</l>
+<l>lavoratore, un letto molle molle...</l></lg>
+<lg type="terzina">
+<l>Bollì ferro ed acciaio, indi il massello</l>
+<l>fatto bianco afferrò con le tanaglie;</l>
+<l>e lo domò col maglio e col martello.</l></lg>
+<lg type="terzina">
+<l>Nasceva l'arma, tra un raggiar di scaglie</l>
+<l>rosse e turchine. L'acqua, il vento, il fuoco</l>
+<l>faceano l'arma delle tue battaglie.</l></lg>
+<lg type="terzina">
+<l>Saldo faggio lo stile sia. Tra poco</l>
+<l>la vangatura ti comincia. È giunta</l>
+<l>la rondinella ed è fiorito il croco.</l></lg>
+<lg type="terzina">
+<l>A tutto ferro! E il ferro poi ripunta,</l>
+<l>e tira su la bricia che rimane.</l>
+<l>La vanga ha d'oro, come sai, la punta.</l></lg>
+<lg type="terzina">
+<l>Oh! il campo pare un altro, ora. Stamane</l>
+<l>spioviscolava, e riè bello già.</l>
+<l>La zolla già lièvita come il pane,</l></lg>
+<lg>
+<l>al solicello, e screpola e si sfa.</l></lg>
+</div2>
+<div2 type="canto">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E poi fece il piccone, arma che dure</l>
+<l>chiede le braccia, e forte vuole il forte,</l>
+<l>d'acciaio, di qua zappa, di là scure.</l></lg>
+<lg type="terzina">
+<l>Con l'una taglia le radici torte,</l>
+<l>con l'altra scava. Ed esso vien secondo</l>
+<l>dopo la vanga e fruga anche la morte.</l></lg>
+<lg type="terzina">
+<l>Anche più della vanga esso va fondo,</l>
+<l>il buon piccone, e cerca le memorie</l>
+<l>che in fondo al cuore ha seppellite il mondo.</l></lg>
+<lg type="terzina">
+<l>Nasceva l'arma tra un raggiar di scorie</l>
+<l>azzurre azzurre. L'acqua, il fuoco, il vento</l>
+<l>faceano l'arma delle tue vittorie.</l></lg>
+<lg type="terzina">
+<l>Lavoratore, il manico sia lento</l>
+<l>frassino; e forte picchia pur sul vivo</l>
+<l>sasso che gli risuona come argento!</l></lg>
+<lg type="terzina">
+<l>E va! Per quella macchia aspra, a solivo,</l>
+<l>folta di stipe, fa venir filari</l>
+<l>di verde vite o di canuto olivo!</l></lg>
+<lg type="terzina">
+<l>Fa, col piccone, dov'è monte, pari,</l>
+<l>dov'acqua, terra, dove notte, dì,</l>
+<l>fa vie sotterra, un mare di due mari,</l></lg>
+<lg>
+<l>o migratore che il tuo verso è il sì!</l></lg>
+</div2>
+<div2 type="canto">
+<head rend="sc">IV</head><lg type="terzina">
+<l>Poi fece anche la falce, arma che appare</l>
+<l>anche nel cielo, quando l'aria imbruna,</l>
+<l>bianca, poi d'oro, sul monte o sul mare.</l></lg>
+<lg type="terzina">
+<l>Guardando la falciola della luna,</l>
+<l>la volle anch'esso per le sue figliuole</l>
+<l>il primo contadino, una per una.</l></lg>
+<lg type="terzina">
+<l>D'allora in poi son le fanciulle sole</l>
+<l>che con la loro falce e la crinella</l>
+<l>vanno a far l'erba sul cader del sole.</l></lg>
+<lg type="terzina">
+<l>Vanno, appuntata al fianco la gonnella,</l>
+<l>a tagliare una fetta d'erba sulla,</l>
+<l>a fare un quadro d'erba lupinella.</l></lg>
+<lg type="terzina">
+<l>E non si vede, nel campetto, nulla,</l>
+<l>altro che fiori; ma tra i fiori rossi</l>
+<l>è inginocchiata a terra una fanciulla.</l></lg>
+<lg type="terzina">
+<l>Tra i lunghi steli lievemente mossi</l>
+<l>stride la falce. Tra i giunchi e la sala</l>
+<l>già qualche rana gracida nei fossi.</l></lg>
+<lg type="terzina">
+<l>E, quando appar la stella, quando cala</l>
+<l>l'ombra dei monti, ella si leva su,</l>
+<l>cantando, e inzeppa l'erba, onde s'esala</l></lg>
+<lg>
+<l>odor di fresco e verde e gioventù.</l></lg>
+</div2>
+<div2 type="canto">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>Poi, la frullana: quella che lavora</l>
+<l>come quell'altra che disfà le vite:</l>
+<l>lavora all'ombra, prima dell'aurora.</l></lg>
+<lg type="terzina">
+<l>Cade la guazza allora, cade il mite</l>
+<l>sonno dal cielo. Un sibilo si sente</l>
+<l>correre per le praterie fiorite.</l></lg>
+<lg type="terzina">
+<l>Dormite il sonnellino d'oro! È gente</l>
+<l>che falcia; taglia tutto, paleino,</l>
+<l>loglio, trifoglio, veccie, timi, mente.</l></lg>
+<lg type="terzina">
+<l>Tre volte il prato parve un altro, insino</l>
+<l>che fu segato: tutto rosso a gli occhi</l>
+<l>e tutto giallo e tutto gridellino.</l></lg>
+<lg type="terzina">
+<l>Poi mise fuori ciuffi code fiocchi</l>
+<l>spighe rappe, la nebbia esile e vana,</l>
+<l>pendule nappe, tremuli balocchi.</l></lg>
+<lg type="terzina">
+<l>Ora tutto ha falciato la frullana.</l>
+<l>Su la sericcia s'è ammucchiato il fieno,</l>
+<l>ché dai fossi chiamava acqua la rana.</l></lg>
+<lg type="terzina">
+<l>E spesso dalle Panie ora un baleno,</l>
+<l>come una bocca aperta, alita, e fa</l>
+<l>vedere i mucchi: ed ogni volta un treno,</l></lg>
+<lg>
+<l>lontano, un po' rotola sordo, e sta.</l></lg>
+</div2>
+<div2 type="canto">
+<head rend="sc">VI</head>
+<lg type="terzina">
+<l>E poi fece il pennato, arma ch'ha il becco</l>
+<l>aguzzo e curvo il petto e il taglio fino</l>
+<l>e grave il colpo, per il verde e il secco.</l></lg>
+<lg type="terzina">
+<l>Fuor che di festa, portalo all'uncino</l>
+<l>sempre, quando esci; ch'egli t'asseconda</l>
+<l>in ogni tua faccenda, o contadino.</l></lg>
+<lg type="terzina">
+<l>Egli pota, egli innesta, egli rimonda;</l>
+<l>per le tue viti taglia i torchi al salcio,</l>
+<l>per i tuoi bachi al gelso fa la fronda.</l></lg>
+<lg type="terzina">
+<l>Fa sui castagni i bei rami di calcio</l>
+<l>pel verno. Nell'asprure dell'estate,</l>
+<l>la falce sciopra, ed esso dice: Io falcio!</l></lg>
+<lg type="terzina">
+<l>E falcia pioppi, gelsi, olmi. Mangiate,</l>
+<l>o vaccherelle! E quando invìa la pioggia,</l>
+<l>appezza legna per le tue fiammate.</l></lg>
+<lg type="terzina">
+<l>E fa con te valletti e ceste, o foggia</l>
+<l>un giogo, o squadra un erpice d'avorno,</l>
+<l>od una scala, sotto la tua loggia.</l></lg>
+<lg type="terzina">
+<l>O crea da un olmo che vedesti un giorno</l>
+<l>aver nel tronco una sua gran virtù,</l>
+<l>l'aratro che, quando lavora, ha intorno,</l></lg>
+<lg>
+<l>piccoli e grandi, tutta la tribù.</l></lg>
+</div2>
+<div2 type="canto">
+<head rend="sc">VII</head><lg type="terzina">
+<l>E poi fece il marrello, arma che scopre</l>
+<l>e che ricopre, zappa e, in un, badile,</l>
+<l>buona quant'altra, ma men grave all'opre.</l></lg>
+<lg type="terzina">
+<l>Egli comincia nel piovoso aprile:</l>
+<l>ritira il solco sopra il formentone,</l>
+<l>ma un poco prima egli zappò le file.</l></lg>
+<lg type="terzina">
+<l>Lo ronca, lo dirada, gli ripone</l>
+<l>la terra al calcio, perché faccia il costo,</l>
+<l>nel dolce maggio, dopo un acquazzone.</l></lg>
+<lg type="terzina">
+<l>Al sessantino pensa poi d'agosto;</l>
+<l>e lo smuove e lo svelge e lo rincalza:</l>
+<l>e poi riposa, quando bolle il mosto.</l></lg>
+<lg type="terzina">
+<l>Poi quando il sole pallido s'inalza</l>
+<l>sopra la nebbia, e ingiallano le spoglie</l>
+<l>del sessantino, e rossa appar la balza,</l></lg>
+<lg type="terzina">
+<l>e grigio il piano, e cadono le foglie,</l>
+<l>e viene il freddo, e cupo il vento geme;</l>
+<l>ecco, il solco novello esso ricoglie.</l></lg>
+<lg type="terzina">
+<l>Suonano a onde le campane treme-</l>
+<l>bonde sopra i villaggi e le città...</l>
+<l>ed il marrello seppellisce il seme,</l></lg>
+<lg>
+<l>che nasce e poi... si riseminerà.</l></lg>
+<lg type="terzina">
+<l>E cessò il vento e il fragor d'acqua e il lampo</l>
+<l>del fuoco. Disse ch'era morto il giorno</l>
+<l>una campana di San Piero in Campo.</l></lg>
+<lg type="terzina">
+<l>Nando uscì co' suoi ferri. E gli era intorno</l>
+<l>quella campana che soave e piana</l>
+<l>gli diceva che tardi era il ritorno!</l></lg>
+<lg type="terzina">
+<l>Via via soave e piana altra campana</l>
+<l>gli ripeteva ch'era ancora in basso!</l>
+<l>Poi solo udì, nella sua via lontana,</l></lg>
+<lg>
+<l>squillargli l'armi sulle spalle al passo.</l></lg>
+</div2>
+</div1>
+<div1 type="poesia">
+<head rend="italic">ITALY</head>
+<epigraph><p rend="italic">Sacro all'Italia raminga</p></epigraph>
+<div2 type="canto">
+<head rend="sc">CANTO PRIMO</head>
+<div3 type="parte">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>A Caprona, una sera di febbraio,</l>
+<l>gente veniva, ed era già per l'erta,</l>
+<l>veniva su da Cincinnati, <foreign lang="eng" rend="italic">Ohio</foreign>.</l></lg>
+<lg type="terzina">
+<l>La strada, con quel tempo, era deserta.</l>
+<l>Pioveva, prima adagio, ora a dirotto,</l>
+<l>tamburellando su l'ombrella aperta.</l></lg>
+<lg type="terzina">
+<l>La Ghita e Beppe di Taddeo lì sotto</l>
+<l>erano, sotto la cerata ombrella</l>
+<l>del padre: una ragazza, un giovinotto.</l></lg>
+<lg type="terzina">
+<l>E c'era anche una bimba malatella,</l>
+<l>in collo a Beppe, e di su la sua spalla</l>
+<l>mesceva giù le bionde lunghe anella.</l></lg>
+<lg type="terzina">
+<l>Figlia d'un altro figlio, era una talla</l>
+<l>del ceppo vecchio nata là: Maria:</l>
+<l>d'ott'anni: aveva il peso d'una galla.</l></lg>
+<lg type="terzina">
+<l>Ai ritornanti per la lunga via,</l>
+<l>già vicini all'antico focolare,</l>
+<l>la lor chiesa sonò l'Avemaria.</l></lg>
+<lg type="terzina">
+<l>Erano stanchi! avean passato il mare!</l>
+<l>Appena appena tra la pioggia e il vento</l>
+<l>l'udiron essi or sì or no sonare.</l></lg>
+<lg type="terzina">
+<l>Maria cullata dall'andar su lento</l>
+<l>sembrava quasi abbandonarsi al sonno,</l>
+<l>sotto l'ombrella. Fradicio e contento</l></lg>
+<lg>
+<l>veniva piano dietro tutti il nonno.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">II</head>
+<lg type="terzina">
+<l>Salivano, ora tutti dietro il nonno,</l>
+<l>la scala rotta. Il vecchio Lupo in basso</l>
+<l>non abbaiò; scodinzolò tra il sonno.</l></lg>
+<lg type="terzina">
+<l>E tentennò sotto il lor piede il sasso</l>
+<l>davanti l'uscio. C'era sempre stato</l>
+<l>presso la soglia, per aiuto al passo.</l></lg>
+<lg type="terzina">
+<l>E l'uscio, come sempre, era accallato.</l>
+<l>Lì dentro, buio come a chiuder gli occhi.</l>
+<l>Ed era buia la cucina allato.</l></lg>
+<lg type="terzina">
+<l>La mamma? Forse scesa per due ciocchi...</l>
+<l>forse in capanna a mòlgere... No, era</l>
+<l>al focolare sopra i due ginocchi.</l></lg>
+<lg type="terzina">
+<l>Avea pulito greppia e rastrelliera;</l>
+<l>ora, accendeva... Udì sonare fioco:</l>
+<l>era in ginocchio, disse la preghiera.</l></lg>
+<lg type="terzina">
+<l>Appariva nel buio a poco a poco.</l>
+<l>"Mamma, perché non v'accendete il lume?</l>
+<l>Mamma, perché non v'accendete il fuoco?"</l></lg>
+<lg type="terzina">
+<l>"Gesù! che ho fatto tardi col rosume..."</l>
+<l>E negli stecchi ella soffiò, mezzo arsi;</l>
+<l>e le sue rughe apparvero al barlume.</l></lg>
+<lg type="terzina">
+<l>E raccattava, senza ancor voltarsi,</l>
+<l>tutta sgomenta, avanti a sé, la mamma,</l>
+<l>brocche, fuscelli, canapugli, sparsi</l></lg>
+<lg>
+<l>sul focolare. E si levò la fiamma.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">III</head>
+<lg type="terzina">
+<l>E i figli la rividero alla fiamma</l>
+<l>del focolare, curva, sfatta, smunta.</l>
+<l>"Ma siete trista! siete trista, o mamma!"</l></lg>
+<lg type="terzina">
+<l>Ed accostando agli occhi, essa, la punta</l>
+<l>del pannelletto, con un fil di voce:</l>
+<l>"E il Cecco è fiero? E come va l'Assunta?"</l></lg>
+<lg type="terzina">
+<l>"Ma voi! Ma voi!" "Là là, con la mia croce".</l>
+<l>I muri grezzi apparvero col banco</l>
+<l>vecchio e la vecchia tavola di noce.</l></lg>
+<lg type="terzina">
+<l>Di nuovo, un moro, con non altro bianco</l>
+<l>che gli occhi e i denti, era incollato al muro,</l>
+<l>la lenza a spalla ed una mano al fianco:</l></lg>
+<lg type="terzina">
+<l>roba di là. Tutto era vecchio, scuro.</l>
+<l>S'udiva il soffio delle vacche, e il sito</l>
+<l>della capanna empiva l'abituro.</l></lg>
+<lg type="terzina">
+<l>Beppe sedé col capo indolenzito</l>
+<l>tra le due mani. La bambina bionda</l>
+<l>ora ammiccava qua e là col dito.</l></lg>
+<lg type="terzina">
+<l>Parlava, e la sua nonna, tremebonda,</l>
+<l>stava a sentire e poi dicea: "Non pare</l>
+<l>un luì quando canta tra la fionda?"</l></lg>
+<lg type="terzina">
+<l>Parlava la sua lingua d'oltremare:</l>
+<l>"... <foreign lang="eng" rend="italic">a chicken-house</foreign>" "un piccolo luì..."</l>
+<l>"... <foreign lang="eng" rend="italic">for mice and rats</foreign>" "che goda a cinguettare,</l></lg>
+<lg>
+<l>zi zi" "<foreign lang="eng" rend="italic">Bad country, Ioe, your Italy!</foreign>"</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l><foreign lang="eng"><hi rend="sc">ITALY</hi></foreign>, penso, se la prese a male.</l>
+<l>Maria, la notte (era la Candelora),</l>
+<l>sentì dei tonfi come per le scale...</l></lg>
+<lg type="terzina">
+<l>tre quattro carri rotolarono... Ora</l>
+<l>vedea, la bimba, ciò che n'era scorso!</l>
+<l><foreign lang="eng" rend="italic">the snow!</foreign> la neve, a cui splendea l'aurora.</l></lg>
+<lg type="terzina">
+<l>Un gran lenzuolo ricopriva il torso</l>
+<l>dell'Omo-morto. Nel silenzio intorno</l>
+<l>parea che singhiozzasse il Rio dell'Orso.</l></lg>
+<lg type="terzina">
+<l>Parea che un carro, allo sbianchir del giorno,</l>
+<l>ridiscendesse l'erta con un lazzo</l>
+<l>cigolìo. Non un carro, era uno storno,</l></lg>
+<lg type="terzina">
+<l>uno stornello in cima del Palazzo</l>
+<l>abbandonato, che credea che fosse</l>
+<l>marzo, e strideva: marzo, un sole e un guazzo!</l></lg>
+<lg type="terzina">
+<l>Maria guardava. Due rosette rosse</l>
+<l>aveva, aveva lagrime lontane</l>
+<l>negli occhi, un colpo ad or ad or di tosse.</l></lg>
+<lg type="terzina">
+<l>La nonna intanto ripetea: "Stamane</l>
+<l>fa freddo!" Un bianco borracciol consunto</l>
+<l>mettea sul desco ed affettava il pane.</l></lg>
+<lg type="terzina">
+<l>Pane di casa e latte appena munto.</l>
+<l>Dicea: "Bambina, state al fuoco: nieva!</l>
+<l>nieva!" E qui Beppe soggiungea compunto:</l></lg>
+<lg>
+<l>"<foreign lang="eng" rend="italic">Poor Molly!</foreign> qui non trovi il pai con fleva!"</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>Oh! no: non c'era lì né <foreign lang="eng" rend="italic">pie</foreign> né <foreign lang="eng" rend="italic">flavour</foreign></l>
+<l>né tutto il resto. Ruppe in un gran pianto:</l>
+<l>"<foreign lang="eng" rend="italic">Ioe, what means nieva? Never? Never? Never?</foreign>"</l></lg>
+<lg type="terzina">
+<l>Oh! no: starebbe in <foreign lang="eng" rend="italic">Italy</foreign> sin tanto</l>
+<l>ch'ella guarisse: <foreign lang="eng" rend="italic">one month or two, poor Molly!</foreign></l>
+<l>E <foreign lang="eng" rend="italic">Ioe</foreign> godrebbe questo po' di scianto!</l></lg>
+<lg type="terzina">
+<l>Mugliava il vento che scendea dai colli</l>
+<l>bianchi di neve. Ella mangiò, poi muta</l>
+<l>fissò la fiamma con gli occhioni molli.</l></lg>
+<lg type="terzina">
+<l>Venne, sapendo della lor venuta,</l>
+<l>gente, e qualcosa rispondeva a tutti</l>
+<l><foreign lang="eng" rend="italic">Ioe</foreign>, grave: "<foreign lang="eng" rend="italic">Oh yes</foreign>, è fiero... vi saluta...</l></lg>
+<lg type="terzina">
+<l>molti bisini, <foreign lang="eng" rend="italic">oh yes</foreign>... No, tiene un frutti-</l>
+<l>stendo... <foreign lang="eng" rend="italic">Oh yes</foreign>, vende checche, candi, scrima...</l>
+<l>Conta moneta: può campar coi frutti...</l></lg>
+<lg type="terzina">
+<l>Il baschetto non rende come prima...</l>
+<l><foreign lang="eng" rend="italic">Yes</foreign>, un salone, che ci ha tanti bordi...</l>
+<l><foreign lang="eng" rend="italic">Yes</foreign>, l'ho rivisto nel pigliar la stima..."</l></lg>
+<lg type="terzina">
+<l>Il tramontano discendea con sordi</l>
+<l>brontoli. Ognuno si godeva i cari</l>
+<l>ricordi, cari ma perché ricordi:</l></lg>
+<lg type="terzina">
+<l>quando sbarcati dagli ignoti mari</l>
+<l>scorrean le terre ignote con un grido</l>
+<l>straniero in bocca, a guadagnar danari</l></lg>
+<lg>
+<l>per farsi un campo, per rifarsi un nido...</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">VI</head>
+<lg type="terzina">
+<l>Un campettino da vangare, un nido</l>
+<l>da riposare: riposare, e ancora</l>
+<l>gettare in sogno quel lontano grido:</l>
+<l><foreign lang="eng" rend="italic">Will you buy</foreign>... per Chicago e Baltimora,</l>
+<l><foreign lang="eng" rend="italic">buy images</foreign>... per Troy, Memphis, Atlanta,</l>
+<l>con una voce che te stesso accora:</l></lg>
+<lg type="terzina">
+<l><foreign lang="eng" rend="italic">cheap!</foreign>... nella notte, solo in mezzo a tanta</l>
+<l>gente; <foreign lang="eng" rend="italic">cheap! cheap! </foreign> tra un urlerìo che opprime;</l>
+<l><foreign lang="eng" rend="italic">cheap!</foreign>... Finalmente un altro odi, che canta...</l></lg>
+<lg type="terzina">
+<l>Tu non sai come, intorno a te le cime</l>
+<l>sono dell'Alpi, in cui si arrossa il cielo:</l>
+<l>chi canta, è il gallo sopra il tuo concime.</l></lg>
+<lg type="terzina">
+<l>"La mi' Mèrica! Quando entra quel gelo,</l>
+<l>ch'uno ritrova quella stufa roggia</l>
+<l>per il gran <foreign lang="eng" rend="italic">coke</foreign>, e si rià, <foreign lang="eng" rend="italic">poor fellow!</foreign></l></lg>
+<lg type="terzina">
+<l>O va per via, battuto dalla pioggia.</l>
+<l>Trova un <foreign lang="eng" rend="italic">farm. You want buy</foreign>? Mostra il baschetto.</l>
+<l>Un uomo compra tutto. Anche, l'alloggia!"</l></lg>
+<lg type="terzina">
+<l>Diceva alcuno; ed assentiano al detto</l>
+<l>gli altri seduti entro la casa nera,</l>
+<l>più nera sotto il bianco orlo del tetto.</l></lg>
+<lg type="terzina">
+<l>Uno guardò la piccola straniera,</l>
+<l>prima non vista, muta, che tossì.</l>
+<l>"<foreign lang="eng" rend="italic">You like this country</foreign>..." Ella negò severa:</l></lg>
+<lg>
+<l>"<foreign lang="eng" rend="italic">Oh no! Bad Italy! Bad Italy!</foreign>"</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">VII</head><lg type="terzina">
+<l><foreign lang="eng"><hi rend="sc">ITALY</hi></foreign> allora s'adirò davvero!</l>
+<l>Piovve; e la pioggia cancellò dal tetto</l>
+<l>quel po' di bianco, e fece tutto nero.</l></lg>
+<lg type="terzina">
+<l>Il cielo, parve che si fosse stretto,</l>
+<l>e rovesciava acquate sopra acquate!</l>
+<l>O ferraietto, corto e maledetto!</l></lg>
+<lg type="terzina">
+<l>Ghita diceva: "Mamma, a che filate?</l>
+<l>Nessuna fila in Mèrica. Son usi</l>
+<l>d'una volta, del tempo delle fate.</l></lg>
+<lg type="terzina">
+<l><foreign lang="eng" rend="italic">Oh yes!</foreign> filare! Assai mi ci confusi</l>
+<l>da bimba. Or c'è la macchina che scocca</l>
+<l>d'un frullo solo centomila fusi.</l></lg>
+<lg type="terzina">
+<l><foreign lang="eng" rend="italic">Oh yes!</foreign> Ben altro che la vostra rócca!</l>
+<l>E fila unito. E duole poi la vita</l>
+<l>e ci si sente prosciugar la bocca!"</l></lg>
+<lg type="terzina">
+<l>La mamma allora con le magre dita</l>
+<l>le sue gugliate traea giù più rare,</l>
+<l>perché ciascuna fosse bella unita.</l></lg>
+<lg type="terzina">
+<l>Vedea le fate, le vedea scoccare</l>
+<l>fusi a migliaia, e s'indugiava a lungo</l>
+<l>nel suo cantuccio presso il focolare.</l></lg>
+<lg type="terzina">
+<l>Diceva: "Andate a letto, io vi raggiungo".</l>
+<l>Vedea le mille fate nelle grotte</l>
+<l>illuminate. A lei faceva il fungo</l></lg>
+<lg>
+<l>la lucernina nell'oscura notte.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">VIII</head>
+<lg type="terzina">
+<l>Pioveva sempre. Forse uscian, la notte,</l>
+<l>le stelle, un poco, ad ascoltar per tutto</l>
+<l>gemer le doccie e ciangottar le grotte.</l></lg>
+<lg type="terzina">
+<l>Un poco, appena. Dopo, era più brutto:</l>
+<l>piovea più forte dopo la quiete.</l>
+<l>O ferraiuzzo, piccolino e putto!</l></lg>
+<lg type="terzina">
+<l>Ghita diceva: "Madre, a che tessete?</l>
+<l>Là può comprare, a pochi <foreign lang="eng" rend="italic">cents</foreign>, chi vuole,</l>
+<l>cambrì, percalli, lustri come sete.</l></lg>
+<lg type="terzina">
+<l>E poi la vita dite che vi duole!</l>
+<l>C'è dei telari in Mèrica, in cui vanno</l>
+<l>ogni minuto centomila spole.</l></lg>
+<lg type="terzina">
+<l>E ce n'ha mille ogni città, che fanno</l>
+<l>ciascuno tanta tela in uno scatto,</l>
+<l>quanta voi non ne fate in capo all'anno".</l></lg>
+<lg type="terzina">
+<l>Dicea la mamma: "Il braccio ch'io ricatto</l>
+<l>bel bello, vuole diventar rotello.</l>
+<l>O figlia, più non è da fare, il fatto".</l></lg>
+<lg type="terzina">
+<l>E tendeva col subbio e col subbiello</l>
+<l>altre fila. La bimba, lì, da un canto,</l>
+<l>mettea nello spoletto altro cannello.</l></lg>
+<lg type="terzina">
+<l>Stava lì buona come ad un incanto,</l>
+<l>in quel celliere della vòlta bassa,</l>
+<l><foreign lang="eng" rend="italic">Molly</foreign>, e tossiva un poco, ma soltanto</l></lg>
+<lg>
+<l>tra il rumore dei licci e della cassa.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">IX</head>
+<lg type="terzina">
+<l>Tra il rumore dei licci e della cassa</l>
+<l>tossiva, che la nonna non sentisse.</l>
+<l>La nonna spesso le dicea: "Ti passa?"</l></lg>
+<lg type="terzina">
+<l>"<foreign lang="eng" rend="italic">Yes</foreign>", rispondeva. Un giorno poi le disse:</l>
+<l>"Non venir qui!" Ma ella ci veniva,</l>
+<l>e stava lì con le pupille fisse.</l></lg>
+<lg type="terzina">
+<l>Godeva di guardare la giuliva</l>
+<l>danza dei licci, e di tenere in mano</l>
+<l>la navicella lucida d'oliva.</l></lg>
+<lg type="terzina">
+<l>Stava lì buona a' piedi d'un soppiano;</l>
+<l>girava l'aspo, riempìa cannelli,</l>
+<l>e poi tossiva dentro sé pian piano.</l></lg>
+<lg type="terzina">
+<l>Un giorno che veniva acqua a ruscelli,</l>
+<l>fissò la nonna e chiese: "<foreign lang="eng" rend="italic">Die?</foreign>" La nonna</l>
+<l>le carezzava i morbidi capelli.</l></lg>
+<lg type="terzina">
+<l>La bimba allora piano per la gonna</l>
+<l>le salì, le si stese sui ginocchi:</l>
+<l>"<foreign lang="eng" rend="italic">Die?</foreign>" "E che t'ho a dir io povera donna?"</l></lg>
+<lg type="terzina">
+<l>La bimba allora chiuse un poco gli occhi:</l>
+<l>"<foreign lang="eng" rend="italic">Die! Die!</foreign>" La nonna sussurrò: "Dormire?"</l>
+<l>"<emph>No! No!</emph>" La bimba chiuse anche più gli occhi,</l></lg>
+<lg type="terzina">
+<l>s'abbandonò per più che non dormire,</l>
+<l>piegò le mani sopra il petto: "<foreign lang="eng" rend="italic">Die! </foreign></l>
+<l><foreign lang="eng" rend="italic">Die! Die!</foreign>" La nonna balbettò: "Morire!"</l></lg>
+<lg>
+<l>"<foreign lang="eng" rend="italic">Oh yes! Molly</foreign> morire <foreign lang="eng" rend="italic">in Italy!</foreign>"</l></lg>
+</div3>
+</div2>
+<div2 type="canto">
+<head rend="sc">CANTO SECONDO</head>
+<div3 type="parte">
+<lg type="terzina">
+<l><foreign lang="eng"><hi rend="sc">ITALY</hi></foreign> allora n'ebbe tanta pena.</l>
+<l>Povera <foreign lang="eng" rend="italic">Molly</foreign>! E venne un vento buono</l>
+<l>che spazzò l'aria che tornò serena.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">I</head>
+<lg type="terzina">
+<l>Vieni, <foreign lang="eng" rend="italic">poor Molly</foreign>! Vieni! Dove sono</l>
+<l>le nubi? In cielo non c'è più che poca</l>
+<l>nebbia, una pace, un senso di perdono,</l></lg>
+<lg type="terzina">
+<l>di quando il bimbo perdonato ha roca</l>
+<l>ancor la voce; all'angolo degli occhi</l>
+<l>c'era una stilla, e cade, mentre gioca.</l></lg>
+<lg type="terzina">
+<l>Vieni, <foreign lang="eng" rend="italic">poor Molly</foreign>! Porta i tuoi balocchi.</l>
+<l>Dove sono le nubi nere nere?</l>
+<l>qualche lagrima sgocciola dai fiocchi</l></lg>
+<lg>
+<l>delle avellane, e brilla nel cadere.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">II</head><lg type="terzina">
+<l>Porta <foreign lang="eng" rend="italic">the doll</foreign>, la bambola, che viene,</l>
+<l>povera <foreign lang="eng" rend="italic">Doll</foreign>, anch'essa dal paese</l>
+<l>lontano, ed essa ti capisce bene.</l></lg>
+<lg type="terzina">
+<l>E quando tu le parli per inglese,</l>
+<l>presso le guance pallide ti pone</l>
+<l>le sue color di rosa d'ogni mese.</l></lg>
+<lg type="terzina">
+<l>Dal suo lettino lucido, d'ottone,</l>
+<l>levala su, che l'uggia non la vinca.</l>
+<l>Non dorme, vedi. Vedi, dal cantone</l></lg>
+<lg>
+<l>sgrana que' suoi due fiori di pervinca.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">III</head><lg type="terzina">
+<l><foreign lang="eng" rend="italic">O Moll</foreign> e <foreign lang="eng" rend="italic">Doll</foreign>, venite! Ora comincia</l>
+<l>il tempo bello. Udite un campanello</l>
+<l>che in mezzo al cielo dondola? È la cincia.</l></lg>
+<lg type="terzina">
+<l><foreign lang="eng" rend="italic">O Mol</foreign>l e <foreign lang="eng" rend="italic">Doll</foreign>, comincia il tempo bello.</l>
+<l>Udite lo squillar d'una fanfara</l>
+<l>che corre il cielo rapida? È il fringuello.</l></lg>
+<lg type="terzina">
+<l>Fringuello e cincia ognuno già prepara</l>
+<l>per il suo nido il mustio e il ragnatelo;</l>
+<l>e d'ora in ora primavera a gara</l></lg>
+<lg>
+<l>cantano, uno sul pero, uno sul melo.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">IV</head>
+<lg type="terzina">
+<l>Altre due voci ora dal monte al piano</l>
+<l>s'incontrano: uno scampanare a festa,</l>
+<l>con un altro più piano e più lontano.</l></lg>
+<lg type="terzina">
+<l>L'una tripudia, e i mille echi ridesta</l>
+<l>del monte, bianco ancora un po' di neve.</l>
+<l>Di tanto in tanto ecco la voce mesta;</l></lg>
+<lg type="terzina">
+<l>ecco un rintocco, appena appena un breve</l>
+<l>colpo, che pare così lungo al cuore!</l>
+<l>No, non vorrebbe, o gente, no; ma deve.</l></lg>
+<lg>
+<l>C'è là chi sposa, ma c'è qua chi muore.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">V</head>
+<lg type="terzina">
+<l>Buoni villaggi che vivete intorno</l>
+<l>al verde fiume, e di comune intesa</l>
+<l>vi dite tutto ciò che fate il giorno!</l></lg>
+<lg type="terzina">
+<l>Si levano. Ora vanno tutti in chiesa,</l>
+<l>ora son tutti a desinare, ed ora</l>
+<l>c'è in ogni casa la lucerna accesa.</l></lg>
+<lg type="terzina">
+<l>Poi quando immersi ad aspettar l'aurora</l>
+<l>sembrano tutti, ecco più su più giù,</l>
+<l>più qua più là, le loro voci ancora.</l></lg>
+<lg>
+<l>Pensano a quelli che non sono più...</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">VI</head><lg type="terzina">
+<l>Lèvati, <foreign lang="eng" rend="italic">Molly</foreign>. Gente ode parlare</l>
+<l>la tua parlata. Sono qui. Cammina,</l>
+<l>se vuoi vederle. Hanno passato il mare.</l></lg>
+<lg type="terzina">
+<l>Fanno un brusìo nell'ora mattutina!</l>
+<l>Ma il vecchio Lupo dorme e non abbaia.</l>
+<l>È buona gente e fu già sua vicina.</l></lg>
+<lg type="terzina">
+<l>Vengono e vanno, su e giù dall'aia</l>
+<l>alla lor casa che da un pezzo è vuota.</l>
+<l>Oh! la lor casa, sotto la grondaia,</l></lg>
+<lg>
+<l>non gli par brutta, ben che sia di mota!</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">VII</head>
+<lg type="terzina">
+<l><foreign lang="eng" rend="italic">Sweet... Sweet</foreign>... Ho inteso quel lor dolce grido</l>
+<l>dalle tue labbra... <foreign lang="eng" rend="italic">Sweet</foreign>, uscendo fuori,</l>
+<l>e <foreign lang="eng" rend="italic">sweet sweet sweet</foreign>, nel ritornare al nido.</l></lg>
+<lg type="terzina">
+<l>Palpiti a volo limpidi e sonori,</l>
+<l>gorgheggi a fermo teneri e soavi,</l>
+<l>battere d'ali e battere di cuori!</l></lg>
+<lg type="terzina">
+<l>In questa casa che tu <foreign lang="eng" rend="italic">bad</foreign> chiamavi,</l>
+<l><foreign lang="eng" rend="italic">black</foreign>, nera, sì, dal tempo e dal lavoro,</l>
+<l>son le lor case, là sotto le travi,</l></lg>
+<lg>
+<l>di mota sì, ma così <foreign lang="eng" rend="italic">sweet</foreign> per loro!</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">VIII</head><lg type="terzina">
+<l>O rondinella nata in oltremare!</l>
+<l>Quando vanno le rondini, e qui resta</l>
+<l>il nido solo, oh! che dolente andare!</l></lg>
+<lg type="terzina">
+<l>Non c'è più cibo qui per loro, e mesta</l>
+<l>la terra e freddo è il cielo, tra l'affanno</l>
+<l>dei venti e lo scrosciar della tempesta.</l></lg>
+<lg type="terzina">
+<l>Non c'è più cibo. Vanno. Torneranno?</l>
+<l>Lasciano la lor casa senza porta.</l>
+<l>Tornano tutte al rifiorir dell'anno!</l></lg>
+<lg>
+<l>Quella che no, di' che non può; ch'è morta.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">IX</head>
+<lg type="due versi">
+<l>Quando tu sei venuta, o rondinella,</l>
+<l>t'hanno pur salutata le campane;</l></lg>
+<lg type="due versi">
+<l>ti venne incontro il nonno con l'ombrella,</l>
+<l>ti s'è strusciato alle gambine il cane.</l></lg>
+<lg type="due versi">
+<l>Pioveva; ma tu, bimba, eri coperta;</l>
+<l>trovasti in casa il latte caldo e il pane.</l></lg>
+<lg type="due versi">
+<l>Il tuo nonno ansimava su per l'erta,</l>
+<l>la tua nonna pregava al focolare.</l></lg>
+<lg type="due versi">
+<l>Brutta la casa, sì, ma era aperta,</l>
+<l>o mia figliuola nata in oltremare!</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">X</head>
+<lg type="terzina">
+<l>Ha la pena da parte, oggi, e la vita</l>
+<l>gli sente, e il capo, alla tua nonna, e il cuore;</l>
+<l>e siede al focolare infreddolita.</l></lg>
+<lg type="terzina">
+<l>Ieri si colse malva ed erbe more.</l>
+<l>Oggi sta peggio. Ha due rosette rosse,</l>
+<l>che non le ha fatte il fuoco che rimuore.</l></lg>
+<lg type="terzina">
+<l><foreign lang="eng" rend="italic">Molly</foreign>, tu vieni e guardi. Ecco, ha la tosse</l>
+<l>che avevi tu. Tosse ogni tanto un po'.</l>
+<l>Sta lì nel canto come non ci fosse.</l></lg>
+<lg type="terzina">
+<l>E non tesse e non fila. Oggi non può.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">XI</head>
+<lg type="terzina">
+<l>Ha tessuto e filato, anche ha zappato,</l>
+<l>anche ha vangato, anche ha portato, oh! tanto</l>
+<l>che adesso stenta a riavere il fiato!</l></lg>
+<lg type="terzina">
+<l>O dolce <foreign lang="eng" rend="italic">Molly</foreign>, tu le porti accanto</l>
+<l><foreign lang="eng" rend="italic">Doll</foreign> nel lettino lucido, e tu resti</l>
+<l>con loro... Tanto faticato e pianto!</l></lg>
+<lg type="terzina">
+<l>pianto in vedere i figli o senza vesti</l>
+<l>o senza scarpe o senza pane! pianto</l>
+<l>poi di nascosto, per non far più mesti</l></lg>
+<lg>
+<l>i figli che... diceano addio, col canto.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">XII</head>
+<lg type="terzina">
+<l>Addio, dunque! Ed anch'essa <foreign lang="eng" rend="italic">Italy</foreign>, vede,</l>
+<l><foreign lang="eng" rend="italic">Italy</foreign> piange. Hanno un po' più fardello</l>
+<l>che le rondini, e meno hanno di fede.</l></lg>
+<lg type="terzina">
+<l>Si muove con un muglio alto il vascello.</l>
+<l>Essi, in disparte, con lo sguardo vano,</l>
+<l>mangiano qua e là pane e coltello.</l></lg>
+<lg type="terzina">
+<l>E alcun li tende, il pane da una mano,</l>
+<l>l'altro dall'altra, torbido ed anelo,</l>
+<l>al patrio lido, sempre più lontano</l></lg>
+<lg>
+<l>e più celeste, fin che si fa cielo.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">XIII</head>
+<lg type="terzina">
+<l>Cielo, e non altro, cielo alto e profondo,</l>
+<l>cielo deserto. O patria delle stelle!</l>
+<l>O sola patria agli orfani del mondo!</l></lg>
+<lg type="terzina">
+<l>Vanno serrando i denti e le mascelle,</l>
+<l>serrando dentro il cuore una minaccia</l>
+<l>ribelle, e un pianto forse più ribelle.</l></lg>
+<lg type="terzina">
+<l>Offrono <foreign lang="eng" rend="italic">cheap</foreign> la roba, <foreign lang="eng" rend="italic">cheap</foreign> le braccia,</l>
+<l>indifferenti al tacito diniego;</l>
+<l>e <foreign lang="eng" rend="italic">cheap</foreign> la vita, e tutto <foreign lang="eng" rend="italic">cheap</foreign>; e in faccia</l></lg>
+<lg>
+<l>no, dietro mormorare odono: <hi rend="sc">DEGO</hi>!</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">XIV</head><lg type="terzina">
+<l>Ma senti, <foreign lang="eng" rend="italic">Molly</foreign>? Dopo pioggie e brume</l>
+<l>e nevi e ghiacci, con la sua gran voce</l>
+<l>canta passando a' piè dei monti il fiume.</l></lg>
+<lg type="terzina">
+<l>Passa sotto la gran Pania alla Croce</l>
+<l>cantando, ed una lunga nube appare,</l>
+<l>bianca di sole, al suo passar veloce.</l></lg>
+<lg type="terzina">
+<l>Passa cantando: Al mare! Al mare! Al mare!</l>
+<l>e l'Alpe azzurra ne rimbomba in cerchio,</l>
+<l>e il cielo azzurro vede là fumare</l></lg>
+<lg>
+<l>l'alito che si lascia addietro il Serchio.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">XV</head>
+<lg type="terzina">
+<l>O fiumi, o delle rupi e dei ghiacciai</l>
+<l>figli rubesti, che precipitate</l>
+<l>a pazza corsa senza posar mai,</l></lg>
+<lg type="terzina">
+<l>con l'eterno fragor delle cascate,</l>
+<l>ruzzando come giovani giganti,</l>
+<l>senza perché, per atterrir le fate</l></lg>
+<lg type="terzina">
+<l>delle montagne; e trascinate infranti</l>
+<l>boschi e tuguri, urtate le città,</l>
+<l>struggete i campi, sempre avanti, avanti,</l></lg>
+<lg>
+<l>avanti, pieni di serenità...</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">XVI</head><lg type="terzina">
+<l>Acqua perenne, ottima e pessima, ora</l>
+<l>morte ora vita, acqua, diventa luce!</l>
+<l>acqua, diventa fiamma! acqua, lavora!</l></lg>
+<lg type="terzina">
+<l>Lavora dove l'uomo ti conduce;</l>
+<l>e veemente come l'uragano,</l>
+<l>vigile come femmina che cuce,</l></lg>
+<lg type="terzina">
+<l>trasforma il ferro, il lino, il legno, il grano;</l>
+<l>manda i pesanti traini come spole</l>
+<l>labili; rendi l'operare umano</l></lg>
+<lg>
+<l>facile e grande come quel del Sole!</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">XVII</head><lg type="terzina">
+<l>La madre li vuol tutti alla sua mensa</l>
+<l>i figli suoi. Qual madre è mai, che gli uni</l>
+<l>sazia, ed a gli altri, a tanti, ai più, non pensa?</l></lg>
+<lg type="terzina">
+<l>Siedono a lungo qua e là digiuni;</l>
+<l>tacciono, tralasciati nel banchetto</l>
+<l>patrio, come bastardi, ombre, nessuni:</l></lg>
+<lg type="terzina">
+<l>guardano intorno, e quindi sé nel petto,</l>
+<l>sentono su la lingua arida il sale</l>
+<l>delle lagrime; infine, a capo eretto,</l></lg>
+<lg>
+<l>escono, poi fuggono, poi: - Sii male... -</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">XVIII</head>
+<lg type="terzina">
+<l>Non maledite! Vostra madre piange</l>
+<l>su voi, che ai salci sospendete i gravi</l>
+<l>picconi, in riva all'Obi, al Congo, al Gange.</l></lg>
+<lg type="terzina">
+<l>Ma d'ogni terra, ove è sudor di schiavi,</l>
+<l>di sottoterra ove è stridor di denti,</l>
+<l>dal ponte ingombro delle nere navi,</l></lg>
+<lg type="terzina">
+<l>vi chiamerà l'antica madre, o genti,</l>
+<l>in una sfolgorante alba che viene,</l>
+<l>con un suo grande ululo ai quattro venti</l></lg>
+<lg>
+<l>fatto balzare dalle sue sirene.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">XIX</head>
+<lg type="terzina">
+<l>Non piangere, <foreign lang="eng" rend="italic">poor Molly</foreign>! Esci, fa piano,</l>
+<l>lascia la nonna lì sotto il lenzuolo</l>
+<l>di tela grossa ch'ella fece a mano.</l></lg>
+<lg type="terzina">
+<l>T'amava, oh! sì! Tu ne imparavi a volo</l>
+<l>qualche parola bella che balbetti:</l>
+<l>essa da te solo quel <foreign lang="eng" rend="italic">die, die</foreign> solo!</l></lg>
+<lg type="terzina">
+<l>Lascia lì <foreign lang="eng" rend="italic">Doll</foreign>, lasciali accosto i letti,</l>
+<l>piccolo e grande. <foreign lang="eng" rend="italic">Doll</foreign> è savia, e tace,</l>
+<l>né dorme: ha gli occhi aperti e par che aspetti</l></lg>
+<lg type="terzina">
+<l>che li apra l'altra, ch'ora dorme in pace.</l></lg>
+</div3>
+<div3 type="parte">
+<head rend="sc">XX</head>
+<lg type="due versi">
+<l>Prima d'andare, vieni al camposanto,</l>
+<l>s'hai da ridire come qua si tiene.</l></lg>
+<lg type="due versi">
+<l>Stridono i bombi intorno ai fior d'acanto,</l>
+<l>ronzano l'api intorno le verbene.</l></lg>
+<lg type="due versi">
+<l>E qui tra tanto sussurrìo riposa</l>
+<l>la nonna cara che ti volle bene.</l></lg>
+<lg type="due versi">
+<l><foreign lang="eng" rend="italic">O Molly</foreign>! O <foreign lang="eng" rend="italic">Molly</foreign>! prendi su qualcosa,</l>
+<l>prima d'andare, e portalo con te.</l></lg>
+<lg type="due versi">
+<l>Non un geranio né un bocciuol di rosa,</l>
+<l>prendi sol un <hi rend="sc">NON-TI-SCORDAR-DI-ME</hi>!</l></lg>
+<lg type="terzina">
+<l>"<foreign lang="eng" rend="italic">Ioe</foreign>, bona cianza!..." "Ghita, state bene!...</l>
+<l>"<foreign lang="eng" rend="italic">Good bye</foreign>". "L'avete presa la ticchetta?"</l>
+<l>"<foreign lang="eng" rend="italic">Oh yes</foreign>". "Che barco?" "<emph>Il Prinzessin Irene</emph>".</l></lg>
+<lg type="terzina">
+<l>L'un dopo l'altro dava a <foreign lang="eng" rend="italic">Ioe</foreign> la stretta</l>
+<l>lunga di mano. "Salutate il tale".</l>
+<l>"<foreign lang="eng" rend="italic">Yes</foreign>, servirò". "Come partite in fretta!"</l></lg>
+<lg type="terzina">
+<l>Scendean le donne in zoccoli le scale</l>
+<l>per veder Ghita. Sopra il suo cappello</l>
+<l>c'era una fifa con aperte l'ale.</l></lg>
+<lg type="terzina">
+<l>"Se vedete il mi' babbo... il mi' fratello...</l>
+<l>il mi' cognato..." "<foreign lang="eng" rend="italic">Oh yes</foreign>". "Un bel passaggio</l>
+<l>vi tocca, o Ghita. Il tempo è fermo al bello".</l></lg>
+<lg type="terzina">
+<l>"<foreign lang="eng" rend="italic">Oh yes</foreign>". Facea pur bello! Ogni villaggio</l>
+<l>ridea nel sole sopra le colline.</l>
+<l>Sfiorian le rose da' rosai di maggio.</l></lg>
+<lg type="terzina">
+<l><foreign lang="eng" rend="italic">Sweet sweet</foreign>... era un sussurro senza fine</l>
+<l>nel cielo azzurro. Rosea, bionda, e mesta,</l>
+<l><foreign lang="eng" rend="italic">Molly</foreign> era in mezzo ai bimbi e alle bambine.</l></lg>
+<lg type="terzina">
+<l>Il nonno, solo, in là volgea la testa</l>
+<l>bianca. Sonava intorno mezzodì.</l>
+<l>Chiedeano i bimbi con vocìo di festa:</l></lg>
+<lg>
+<l>"Tornerai, <foreign lang="eng" rend="italic">Molly</foreign>?" Rispondeva: - Sì! -</l></lg>
+</div3>
+</div2>
+</div1>
+<trailer><hi rend="sc">FALX EST DE CAELO</hi></trailer>
+  </body>
+<back>
+<div1 type="note">
+<head rend="italic">NOTE</head>
+<div2 type="sezione">
+<p><title>Primi Poemetti</title> chiamo questi, anche se fatti dopo, anche se fatti or ora, perché più consoni all'ispirazione a cui obbedii da principio nel volumetto stampato in Firenze nel 1897. Alcuni di quelli che sono nel volume di Palermo 1900 e non sono qui e compariranno nel prossimo volume <hi rend="sc">III</hi> delle <title>Poesie</title>, pur più vecchi di fattura, sono d'ispirazione più recente.</p>
+<p>Nomi cari alle muse e cari al mio cuore erano iscritti sopra questi poemetti; e non voglio che il lettore o ignori o dimentichi il pregio, o solo o molto maggiore, che a me parve derivasse da quei nomi a quei versi.</p>
+<p>Erano, e siano ancora, i nomi di M. Enrico Bossi, di Luigi Rasi, di Ermenegildo Pistelli, di Angiolo Orvieto, di Giovanni Marradi, di Cesare Biondi, di Giuseppe Martinozzi (o alto cuore ferito!), nomi illustri, erano, e siano sempre, i nomi più modesti e non meno cari di Luigi Bonati e di Alfredo Caselli che mi sorressero nel cammino, ormai lungo. E i "miei compagni del collegio di Urbino", a cui era e voglio sia sacro il prediletto di questi canti, <hi rend="sc">L'AQUILONE</hi>, mi ricordino come io li ricordo, nelle vicende della vita, sempre quelli sempre quello.</p>
+<closer>
+<dateline rend="italic">Pisa, ottobre del1904.</dateline>
+<signed><hi rend="sc">GIOVANNI PASCOLI</hi></signed>
+</closer>
+</div2>
+<div2 type="sezione">
+<p>Pag. 309 - ITALY</p>
+<p>Il lettore non ha certo bisogno dei miei lumi per leggere e interpretare il povero inglese de' miei personaggi. Gioverà tuttavia ricordare la pronunzia netta in <emph>a</emph> o <emph>aa</emph> che hanno, nella bocca dei nostri reduci di <emph>Mèrica</emph>, le parole come <foreign lang="eng" rend="italic">flavour</foreign> (pr. fléva), <foreign lang="eng" rend="italic">neve</foreign>r (pr. néva), <foreign lang="eng" rend="italic">steamer</foreign> (pr. stima) e simili. Il grido dei figurinai, <foreign lang="eng" rend="italic">Buy images</foreign> (= comprate figure); suona, in bocca loro, bai imigìs. E <foreign lang="eng" rend="italic">chep</foreign> (pr. cip) vale : a buon mercato. Molte parole inglesi sono da loro accomodate a italiane: bisini (per <foreign lang="eng" rend="italic">business</foreign>) = affari; fruttistendo (per <foreign lang="eng" rend="italic">fruitstand</foreign>) = bottega di fruttaiolo; checche (per <foreign lang="eng" rend="italic">cakes</foreign>) = paste, pasticci; cand (da <foreign lang="eng" rend="italic">candy</foreign>) = canditi; scrima (per <foreign lang="eng" rend="italic">ice cream</foreign>) = gelato di crema; baschetto (per <foreign lang="eng" rend="italic">basquet</foreign>) = paniere per metterci le figure; salone (per <foreign lang="eng" rend="italic">saloon</foreign>) = trattoria, bettola: bordi (da <foreign lang="eng" rend="italic">board</foreign>) = pensioni, abbonati; stima (per <foreign lang="eng" rend="italic">steamer</foreign>) = piroscafo; ticchetta (per <foreign lang="eng" rend="italic">ticket</foreign>) = biglietto; cianza (per <foreign lang="eng" rend="italic">chance</foreign>) = sorte, occasione. Barco dicono per bastimento.</p>
+<p><foreign lang="eng" rend="italic">Molly</foreign> è vezzeggiativo casereccio per <foreign lang="eng" rend="italic">Mary</foreign> o Maria; <foreign lang="eng" rend="italic">doll</foreign> significa bambola, ed è anche vezzeggiativo di <foreign lang="eng" rend="italic">Dorothy</foreign>.</p>
+<p><foreign lang="eng" rend="italic">Sweet</foreign> (pr. suìt) vale dolce, ed è, per dir cosi, consacrato a <foreign lang="eng" rend="italic">home</foreign>. Casa mia! Casa mia!</p>
+<p>Brutta parola, dopo queste così dolci, è <emph>dego</emph>, così pronunziata. Deriva, mi pare, da <foreign lang="eng" rend="italic">dagger</foreign> = pugnale.</p>
+<p>Quanto alle rime con <foreign lang="eng" rend="italic">Italy</foreign>, mi difenda, se accade, Shelley che rima, per esempio, <foreign lang="eng" rend="italic">she</foreign> con <foreign lang="eng" rend="italic">poesy</foreign> e <foreign lang="eng" rend="italic">die</foreign> con <foreign lang="eng" rend="italic">purity</foreign> (<foreign lang="eng" rend="italic">The Witch of Atlas</foreign>! 26,36).</p>
+</div2>
+</div1>
+</back>
+</text>
+</TEI.2>

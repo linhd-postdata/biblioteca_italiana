@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Tirsi</title>
+      <author>Baldassarre Castiglione</author>
+    </titleStmt>
+    <extent>29 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000347</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>La poesia pastorale nel Rinascimento</title>
+        <editor id="ed">Carrai, Stefano</editor>
+        <publisher>Antenore</publisher>
+        <pubPlace>Padova</pubPlace>
+        <date>1998</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.309 - POESIA ITALIANA. 1492-1542. Storia, descrizione, studi critici</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Pavia</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-10-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-10-20T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div1 type="parte">
+<head>EGLOGA TIRSI INTITULATA</head>
+<stage><hi rend="sc">IOLA, TIRSI, DAMETA</hi> Interlocutori</stage>
+<sp><speaker><hi rend="sc">Iola</hi></speaker>
+<lg type="ottava">
+<head>1</head>
+<l>Quando fia mai che questa roca cetra</l>
+<l>Meco del mio dolor non si lamenti?</l>
+<l>Non è più in questi monti arbor o pietra</l>
+<l>Che non intenda le mie pene e i stenti;</l>
+<l>Né pur anchor mercé da te se impetra,</l>
+<l>Nympha crudel, di sì long<del>h</del>i tormenti:</l>
+<l>Anci, se odi i miei mali acerbi e duri,</l>
+<l>Di non odir t'infingi o non ti curi.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>2</head>
+<l>Spesso per la pietà del mio dolore</l>
+<l>Scordan le matri dar latte agli agnelli,</l>
+<l>E veggiendo languire el suo pastore</l>
+<l>Non seguiton l'armento i miei vitelli;</l>
+<l>Escon talhor di quel boschetto fuore</l>
+<l>A pianger meco i simplicetti augelli,</l>
+<l>Talhor nascosti in sue fronzute stanze</l>
+<l>Par che cantin le mie dolci speranze.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>3</head>
+<l>Tu sola più che questa quercia annosa</l>
+<l>Sei dura, e più che il mare e i scoglii sorda;</l>
+<l>Più che un serpente sei aspra e sdegnosa</l>
+<l>E più che una orsa assai del sangue ingorda.</l>
+<l>Ché non è fiera in queste selve ascosa,</l>
+<l>Che, come tu el mio cor, gli armenti morda;</l>
+<l>E sol constante sei ne la mia doglia,</l>
+<l>Nel resto mobil più che al vento foglia.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>4</head>
+<l>Ben mi racorda quando longo el rio</l>
+<l>Ti vidi prima andar cogliendo i fiori,</l>
+<l>Che mi dicesti: «O caro Iola mio,</l>
+<l>Tu sei più bello tra tutti i pastori,</l>
+<l>E sol come tu fai cantar disio,</l>
+<l>Che i sassi col cantar par che inamori».</l>
+<l>Poi mi ponesti una girlanda in testa,</l>
+<l>Che di ligustri e rose era contesta.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>5</head>
+<l>Hoimè, alhor mi traesti el cor del petto</l>
+<l>E teco nel portasti, e teco hor l'hai;</l>
+<l>Ma poi che sì mi neg<del>h</del>i el dolce aspetto,</l>
+<l>Che debbo far, se non sempre trar guai?</l>
+<l>D'ombrose selve più non ho diletto,</l>
+<l>Di vivi fonti, o prati, né harò mai;</l>
+<l>Non so più manigiar la marra o 'l rastro,</l>
+<l>Né parmi de l'armento esser più mastro.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>6</head>
+<l>Fatto hanno gli occhi miei homai un fonte</l>
+<l>Col pianto, ove si può spegner la sete.</l>
+<l>Venite, o fiere, giù da questo monte</l>
+<l>A ber senza timor di laccio o rete;</l>
+<l>E benché un fiume mi caggia dal fronte,</l>
+<l>Pastori, voi dal petto foco harete:</l>
+<l>Ché del mio cor non è pur una dramma,</l>
+<l>Che homai non sia conversa in foco e fiamma.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>7</head>
+<l>E tu, nympha crudel, sol cagion sei</l>
+<l>Di transformarmi in sì strana figura:</l>
+<l>Che così bella fuor t'han fatta i dèi</l>
+<l>E dentro poi crudele, acerba e dura.</l>
+<l>Ma perché me ingannasser gli occhi miei</l>
+<l>Contra ragion ti fe' tal la natura.</l>
+<l>Le fiere aspetto han paventoso e strano,</l>
+<l>E tu l'animo fiero e il volto humano.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>8</head>
+<l>Humano è il volto tuo? anci divino,</l>
+<l>Ché dentro vi son pur due chiare stelle.</l>
+<l>Le fresche rose còlte nel giardino</l>
+<l>D'amor, fanno le guancie tenerelle,</l>
+<l>La bocca sparge odor di gelsomino,</l>
+<l>Duoi fior' vermiglii son le labra belle,</l>
+<l>La gola e 'l mento e il delicato petto</l>
+<l>Son di candida neve e latte stretto.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>9</head>
+<l>Queste catene mie, questi legami</l>
+<l>Discioglier dal mio cor mai non potrei,</l>
+<l>Questi mei cari, dolci, inescati hami</l>
+<l>Smorsar non posso, né poter vorei.</l>
+<l>E benché mille volte morte chiami,</l>
+<l>Per te soavi son gli affanni miei.</l>
+<l>Così el ciel vòle, e tu, che sei mia scorta:</l>
+<l>Che ogniuno el suo destin seco si porta.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>10</head>
+<l>Le fiere ai boschi pur tornan la sera,</l>
+<l>Dove di sua fatica hanno riposo;</l>
+<l>Si riveston di foglie a primavera</l>
+<l>I boschi, ignudi nel tempo nivoso.</l>
+<l>L'autumno l'uva fa matura e nera</l>
+<l>E ogni arbor da novelli frutti ascoso;</l>
+<l>El mio duol mai non muta le sue tempre</l>
+<l>E sono le mie pene acerbe sempre.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>11</head>
+<l>Ma i giorni obscuri diverrian sereni,</l>
+<l>Se pietà ti pungesse il core un poco.</l>
+<l>Alhor sariano i boschi e i fonti ameni,</l>
+<l>Se meco fusti, o nympha, in questo loco.</l>
+<l>Andrian di dolce latte i fiumi pieni,</l>
+<l>Se amor per me il tuo cor ponesse in foco;</l>
+<l>E sì sonori i miei versi sariano,</l>
+<l>Che invidia Orpheo e Lino anchor n'haríano.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>12</head>
+<l>Corremi adunque in braccio, o Galatea,</l>
+<l>Né ti sdegnar d'i boschi, o d'esser mia.</l>
+<l>Vener nei boschi accompagnar solea</l>
+<l>El suo amante, e lì spesso si adormia.</l>
+<l>La luna, che è su in ciel sì bella dea,</l>
+<l>Un pastorello per amor seguia;</l>
+<l>E venne a lui nel bosco a una fontana,</l>
+<l>Perché donolli un vel di bianca lana.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>13</head>
+<l>Di bianca lana i miei greggi coperti</l>
+<l>Sono, come tu stessa veder puoi;</l>
+<l>E benché magior dono assai tu merti</l>
+<l>Che non agnelli, capre, vacche o boi,</l>
+<l>L'armento e il gregge mio, per compiacerti,</l>
+<l>E 'l cane e l'asinel tutti son tuoi,</l>
+<l>E quanti frutti sono in queste selve,</l>
+<l>E quanti augelli insieme e quante belve.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>14</head>
+<l>Un canestro di pomi t'ho già còlto,</l>
+<l>Uno altro poi di prune e sorbe insieme;</l>
+<l>E pur hor di palumbi un nido ho tolto,</l>
+<l>Che anchor la matre in cima a l'olmo geme;</l>
+<l>Un capreol ti serbo, che disciolto</l>
+<l>Tra gli agnelli sen va, né del can teme;</l>
+<l>Due tazze poi d'oliva, al torno fatte</l>
+<l>Da quel bon mastro, harai piene di latte.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>15</head>
+<l>Ecco le nymphe qui, che una corona</l>
+<l>Ti tessono di rose e d'altri fiori;</l>
+<l>Odi la selva e il monte che risuona</l>
+<l>Di fistole e sampogne di pastori.</l>
+<l>Di fior' la terra lieta se incorona</l>
+<l>E sparger se aparechia dolci odori.</l>
+<l>Deh vieni homai, che null'altro ci resta,</l>
+<l>Se non goder l'età fiorita in festa.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>16</head>
+<l>Si spogliano i serpenti la vechiezza</l>
+<l>E rinovan la scorza insieme e gli anni;</l>
+<l>Ma fugge e non ritorna la bellezza</l>
+<l>In noi per arte alcuna, o novi panni.</l>
+<l>Mentre adunque sei tal che ogniun t'aprezza,</l>
+<l>Deh vieni a ristorar tanti miei danni,</l>
+<l>Ché col tempo, ma in van, ti pentirai,</l>
+<l>Se la bramata gratia a me non dai.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>17</head>
+<l>Hoimè, ch'io vedo pur mover le frondi</l>
+<l>E sento caminar per questa selva.</l>
+<l>Se sei la bella nympha, homai rispondi,</l>
+<l>Ch'io son l'amante tuo, non fiera belva.</l>
+<l>Lasso, perché mi fuggi e ti nascondi</l>
+<l>Come timida cerva se rinselva?</l>
+<l>Misero me, che fia? se ben discerno,</l>
+<l>Questo a l'habito par pastore externo.</l>
+</lg></sp>
+<sp><speaker><hi rend="sc">TIRSI</hi></speaker>
+<lg type="ottava">
+<head>18</head>
+<l>Dio ti salvi, pastor nobile e raro,</l>
+<l>Che qui d'i tuoi martir' chiami mercede;</l>
+<l>El tuo soave suon m'era sì caro,</l>
+<l>Che per bon spatio non ho mosso el piede;</l>
+<l>E il mio camin, che sì m'è parso amaro,</l>
+<l>Nel tuo vago cantar dolce mi riede;</l>
+<l>E questo corpo stanco homai si oblia</l>
+<l>La noia e il mal de la passata via.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>19</head>
+<l>E se tali son quei che a queste fonti</l>
+<l>Fanno agli armenti suoi la sete doma,</l>
+<l>Non ha Parnaso i più honorati monti,</l>
+<l>Né le sue selve più lodata chioma.</l>
+<l>Hora sì par che 'l sacro colle i' monti,</l>
+<l>Ove è la dea la qual tanto si noma:</l>
+<l>Di che el dio Pan assai ringratio e lodo,</l>
+<l>Ché d'esser giunto qui troppo mi godo.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>20</head>
+<l>La fama di lontan così m'accese,</l>
+<l>Che el patrio albergo voluntier lassai</l>
+<l>E la nympha crudel che già mi prese,</l>
+<l>Per cui la fiamma del mio cor cantai.</l>
+<l>Anch'io fui tra i pastor' del mio paese</l>
+<l>Di qualche grido et honorato assai.</l>
+<l>E se v'andasti mai, sapresti come</l>
+<l>Ne le sampogne lor suona el mio nome.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>21</head>
+<l>Tu dèi pur di Menalca havere inteso,</l>
+<l>Che fra tutti i pastori è sì nomato.</l>
+<l>Cantai cum lui e a me l'honor fu reso,</l>
+<l>Sì che per tutto Tirsi era gridato:</l>
+<l>Onde ei di doglia e di furore acceso</l>
+<l>Roppe la cetra, e fu di ciò biasmato;</l>
+<l>Che era sì ben contesta e di tal legno,</l>
+<l>Che già sonarla Pan non hebbe a sdegno.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>22</head>
+<l>Ma teco ragionar mi par vergogna</l>
+<l>De le fistule roche di quel lido,</l>
+<l>Perché intendo che sol qui la sampogna</l>
+<l>Tiene el suo vero et honorato nido.</l>
+<l>E tu ben mostro m'hai senza menzogna</l>
+<l>L'effetto assai magior che non è il grido:</l>
+<l>Ché di quanti pastori ho visto, estimo</l>
+<l>Certo te sol tra i più lodati el primo.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>23</head>
+<l>Ma dimi, Iola, homai, dimi s'io sono</l>
+<l>Lontan da lei che d'honorar disio:</l>
+<l>Questo ti chiedo per cortese dono</l>
+<l>E per pietà del mio camin sì rio,</l>
+<l>Né te incresca lassare un poco el suono,</l>
+<l>Finché contento fai el voler mio,</l>
+<l>E siami scorta a ritruovar costei,</l>
+<l>Se dentro, come fuor, gentil tu sei.</l></lg>
+</sp>
+<sp>
+<lg type="ottava">
+<head>24</head>
+<l>Così l'armento tuo securo stia</l>
+<l>Sempre dagli orsi e lupi et altre belve,</l>
+<l>E gli agni tuoi per la più dritta via</l>
+<l>Seguin le matri, e alcun mai non se 'nselve.</l>
+<l>Così la cetra tua tanta harmonia</l>
+<l>Mandi qui intorno ai monti e in queste selve,</l>
+<l>Che Galatea ognihor te sia presente</l>
+<l>E ne le braccia tue corra sovente.</l>
+</lg></sp>
+<sp><speaker><hi rend="sc">IOLA</hi></speaker>
+<lg type="ottava">
+<head>25</head><l>Poiché ti degni di lodarme tanto,</l>
+<l>Qual' gratie, o Tirsi, mai ti potrò rendere?</l>
+<l>Qui son pastori assai, che col lor canto</l>
+<l>I sassi fan de la pietate accendere.</l>
+<l>Io di cantar tra lor già non mi vanto,</l>
+<l>Ché i versi miei non pòn tanto alto ascendere.</l>
+<l>Ben più lieta fu già questa mia lira,</l>
+<l>La quale hor meco sol piange e sospira.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>26</head>
+<l>Ma se la nostra dea veder vorai,</l>
+<l>Altro fia che in ciò adempia el tuo disio.</l>
+<l>Molti pastor' qui apresso truoverai</l>
+<l>Che inanti a lei ti menaran, perch'io</l>
+<l>Di questo intorno non mi parto mai,</l>
+<l>L'error d'altrui piangendo e il destin mio.</l>
+<l>E qui d'amore ho compagnia, e sol sento</l>
+<l>Muggi, balati, augei, rivi, echo e vento.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>27</head>
+<l>Intanto se posar qui meco un poco</l>
+<l>Ti par, Tirsi mio caro, a me fia grato,</l>
+<l>E scorderai iacendo a poco a poco</l>
+<l>La lunga noia del camin passato.</l>
+<l>Qui murmura un bel fonte, ameno è il loco,</l>
+<l>E soffia el ventolino un fresco fiato.</l>
+<l>Castagne e noci harai, latte e bon vino,</l>
+<l>E credo anchor qui havere un marzollino.</l>
+</lg></sp>
+<sp><speaker><hi rend="sc">TIRSI</hi></speaker>
+<lg type="ottava">
+<head>28</head>
+<l>Io mi ti colcarò, pastore, a canto,</l>
+<l>Purché cantare un poco non te incresca,</l>
+<l>Però che il tuo soave e dolce canto</l>
+<l>Me più che il vento e il fonte assai rinfresca.</l>
+<l>E questa nympha tua che chiami tanto,</l>
+<l>Maraviglia ho che a udirti fuor non esca,</l>
+<l>Anci come da te mai si disiunga,</l>
+<l>Se sa che amor sì forte el cor ti punga.</l>
+</lg></sp>
+<sp><speaker><hi rend="sc">IOLA</hi></speaker>
+<lg type="ottava">
+<head>29</head>
+<l>A pochi i versi miei udir mai lasso,</l>
+<l>Ma el tutto sa colei che m'ha in catene:</l>
+<l>Che in ogni scorza <corr resp="ed">e</corr> tronco a passo a passo</l>
+<l>Scritto ho la sua bellezza e le mie pene.</l>
+<l>Diroti una canzon scritta in quel sasso,</l>
+<l>Ch'ella talhor nascosta a leger viene;</l>
+<l>Et io per ben mirare el suo bel volto</l>
+<l part="I">Mostro non la veder.</l></lg></sp> 
+<sp><speaker><hi rend="sc">TIRSI</hi></speaker>
+<lg>
+<l part="F"> Di', ch'io t'ascolto.</l>
+</lg></sp>
+<sp><speaker>IOLA</speaker>
+<lg type="canzonetta">
+<head>29 bis. <hi rend="italic">Canzonetta</hi></head>
+<l>Queste lachrime mie, questi sospiri</l>
+<l>Son dolce cibo de la mia nimica,</l>
+<l>Onde ella si nutrica,</l>
+<l>E di ciò solo appaga i suoi desiri.</l>
+<l>Però, se giunta al fin mia vita vede,</l>
+<l>Qualche dolce soccorso porge al core,</l>
+<l>Che da propinqua morte lo diffende;</l>
+<l>E tosto che ei repiglia el suo vigore,</l>
+<l>Di lachrime e sospir' tributo chiede</l>
+<l>La ingorda fame che tal cibo attende.</l>
+<l>Ond'io, poiché el mio ben tanto m'offende,</l>
+<l>Fugo rimedio che el dolor contempre,</l>
+<l>Temendo non pur sempre</l>
+<l>Sì proximi al piacer siano i martìri.</l>
+</lg></sp>
+<sp><speaker>TIRSI</speaker>
+<lg type="ottava">
+<head>30</head>
+<l>Troppo breve m'è parso el dolce canto,</l>
+<l>Ch'io n'aspettava anchor e stava attento.</l></lg>
+</sp>
+<sp><speaker>IOLA</speaker>
+<lg>
+<l>Le amare pene mie son long<del>h</del>e, e il pianto.</l></lg>
+</sp>
+<sp><speaker>DAMETA</speaker>
+<lg><l>Portòmi, Iola, la tua voce il vento;</l>
+<l>Io per udirti mi nascosi intanto,</l>
+<l>Tal che ben tutto ho inteso el pio lamento.</l>
+<l>E perché el tuo disio, pastore, intesi,</l>
+<l>Vèr voi per satisfarti el camin presi.</l></lg>
+</sp>
+<sp><speaker>IOLA</speaker>
+<lg type="ottava">
+<head>31</head>
+<l>Tirsi, non ha pastor questo paese</l>
+<l>Che meglio dar ti possa ciò che brami;</l>
+<l>Questo è caro a ciascun, perché è cortese</l>
+<l>E ben governa armenti, greggi e sami.</l>
+<l>E tu, Dameta mio, che degne imprese</l>
+<l>Fai sempre, e tai pastori honori et ami,</l>
+<l>A Tirsi ben serai fido compagno,</l>
+<l>Che sai come servire è gran guadagno.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>32</head>
+<l>Io me n'andrò per queste selve intorno</l>
+<l>Finché in ciel sian le stelle e il giorno spento;</l>
+<l>A la capanna poi farò ritorno</l>
+<l>E colcaromi apresso del mio armento.</l>
+<l>Spero più lieta notte haver che giorno</l>
+<l>E da Galatea in parte esser contento:</l>
+<l>Che spesso a consolarme in sogno viene,</l>
+<l>Acioché un sogno sia el mio summo bene.</l>
+</lg></sp>
+<sp><speaker>DAMETA</speaker>
+<lg type="ottava">
+<head>33</head>
+<l>Poiché col tuo martir solo e pensoso</l>
+<l>Vòi pur, Iola mio, restar piangendo</l>
+<l>Fra queste quercie e questi faggi ascoso,</l>
+<l>A più sorda di lor mercé chiedendo,</l>
+<l>Io me n'andrò del tuo languir doglioso,</l>
+<l>E contentar questo pastore intendo.</l>
+<l>Andiamo, o Tirsi, e pel camin potrai</l>
+<l>Forse truovar quel che cercando vai.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>34</head>
+<l>Ché spesso intorno al vago e bel Metauro</l>
+<l>Va questa dea cum le sue nymphe errando,</l>
+<l>Legiadre sì, che dal mare indo al mauro</l>
+<l>Non è chi possa lor gir paregiando;</l>
+<l>Non ornate di gemme o d'ostro o d'auro,</l>
+<l>Ché tai pompe da lor son poste in bando:</l>
+<l>Candide tutte, e sol per ornamento</l>
+<l>Portan girlande e dan le treccie al vento.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>35</head>
+<l>Qual si vede di lor pigliar la via</l>
+<l>Al bosco, ove truovar  la fiera crede,</l>
+<l>Qual cum l'arco a ferir ratta se invia,</l>
+<l>Qual fra l'herbette e i fior' cantando sede.</l>
+<l>Una tra tutte lor vi è dolce e pia,</l>
+<l>Che a canto de la dea sempre si vede:</l>
+<l>Questa non porta mai seco arme in cacia,</l>
+<l>Sol col dolce parlar le fiere allacia.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>36</head>
+<l>Quinci talhor vedrai molte di loro</l>
+<l>Fare una lieta et amorosa danza,</l>
+<l>E molte quindi che del sacro alloro</l>
+<l>Cum la sampogna in man stanno in speranza.</l>
+<l>Fra così dolce e glorioso choro</l>
+<l>Stassi la dea che tutte l'altre avanza.</l>
+<l>Florido fa el terren, là ove ella el tocchi,</l>
+<l>E tien sereno el ciel sol coi belli occhi.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>37</head>
+<l>Par che la terra e il fiume e il bosco rida,</l>
+<l>Ove el suo santo piede el passo piglia,</l>
+<l>E l'aria intorno el suo bel nome grida,</l>
+<l>Ove ella volge le honorate ciglia.</l>
+<l>A questa ogniuno i suoi pensieri affida</l>
+<l>E sempre ha ben chi seco si consiglia:</l>
+<l>Tanto è prudente et ha in sé tanto amore,</l>
+<l>Portando sempre in fronte el sacro honore.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>38</head>
+<l>Le lode di costei son tanto chiare,</l>
+<l>Che lor uopo non è di roca tromba,</l>
+<l>Né bastante son io la fama alzare</l>
+<l>Di questa pura e candida colomba.</l>
+<l>Così son l'opre sue divine e rare,</l>
+<l>Che i boschi el sanno e l'aria ne rimbomba.</l>
+<l>Né sol coi modi suoi gli homini paca,</l>
+<l>Ché anchor le fiere horrende amica e placa.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>39</head>
+<l>A questa nostra dea tutti i pastori,</l>
+<l>Che gran tempo habitâr queste contrade,</l>
+<l>Vengon cantando i loro accesi amori</l>
+<l>E la dolce perduta libertade;</l>
+<l>E fan cozzar montoni e giostrar tori,</l>
+<l>Spargendo ove ella va di fior' le strade;</l>
+<l>E si vede ancho a questa vita vera</l>
+<l>Tra noi di externi una honorata schiera.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>40</head>
+<l>Dal sino d'Hadria qua venne un pastore</l>
+<l>Fra tutti gli altri assai famoso e degno,</l>
+<l>Qual sentendo di questa el gran valore</l>
+<l>Solo a cantar di lei pose el suo inzegno;</l>
+<l>Et ha del suo splendor sì vago el core,</l>
+<l>Che non curò lassare il patrio regno,</l>
+<l>Ma venne ad habitar questo paese</l>
+<l>E cantò dolcemente: <emph>Alma cortese</emph>.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>41</head>
+<l>Venne dal Mintio quel che al secol nostro</l>
+<l>Via più cresce l'honor, cresce la fama:</l>
+<l>Questo è sì noto nel paese vostro,</l>
+<l>Che ogni pastor di là l'honora et ama;</l>
+<l>So c'hai veduto del suo sacro inchiostro</l>
+<l>Là ove si duol d'amore e mercé chiama.</l>
+<l><emph>Dolce e amaro destin, che mi sospinse</emph>,</l>
+<l>Cantò l'altr'hieri, e tutti gli altri vinse.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>42</head>
+<l>Èvi il pastore antico, e ogniun l'honora</l>
+<l>Ché del sacrato allor porta corona;</l>
+<l>Questo ha la cheli sua dolce e sonora,</l>
+<l>La cheli stessa cum che Phebo suona,</l>
+<l>E l'have in modo tal che al collo ognihora</l>
+<l>La tien, sì che di lui ben si ragiona.</l>
+<l>Questo agli altri pastor' dona consiglio,</l>
+<l>Ché già provò d'amor el fiero artiglio.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>43</head>
+<l>Venne d'Hetruria un altro in questi monti</l>
+<l>Saggio e docto pastore in ciascuna arte;</l>
+<l>Non son piaggie qui atorno o rive o fonti,</l>
+<l>Che non intendan le sue lode sparte.</l>
+<l>Ma temo assai che prima el sol tramonti,</l>
+<l>Ch'io possa dir di lui pur una parte.</l>
+<l>Questo cantò con amorosa voce:</l>
+<l><emph>Se fosse el passo mio così veloce</emph>.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>44</head>
+<l>Stassi tra questi anchor un giovinetto</l>
+<l>Pastor, che a dir di lui pietate prendo:</l>
+<l>Così fu grave il duol, grave il dispetto</l>
+<l>Che già gli fece amor, si come intendo,</l>
+<l>Ch'egli ne porta anchor piagato el petto;</l>
+<l>E mille fiate al dì si duol dicendo:</l>
+<l><emph>Io son forzato, Amore, a dire hor cose</emph></l>
+<l><emph>A te di poco honore, a me noiose</emph>.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>45</head>
+<l>Questi degni pastori et altri apresso,</l>
+<l>De' quai si vede una gran schiera folta,</l>
+<l>Vanno ogni dì, sí come è a lor concesso,</l>
+<l>Inanti a lei cum riverentia molta.</l>
+<l>Un vi è tra loro il qual cantando spesso</l>
+<l>La nostra dea cum le sue nymphe ascolta:</l>
+<l>Detto è il secundo, ma tra tutti è il primo</l>
+<l>Cum la sua voce, e so che 'l vero estimo.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>46</head>
+<l>Fra questa lieta et honorata gente</l>
+<l>Vive la dea che tu cercando vai,</l>
+<l>E, se non ch'ella el veta e nol consente,</l>
+<l>Li honor' divini harìa dal mondo homai.</l>
+<l>Pur noi a questa ricorriam sovente,</l>
+<l>E, se qui entrar tu vòi, veder potrai</l>
+<l>Pieno un tempio di voti e d'ornamenti</l>
+<l>Dicati a lei per risanar li armenti.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>47</head>
+<l>E percioché si suole in simil giorno</l>
+<l>In questi boschi a lei render gli honori,</l>
+<l>Tosto vedrai venir d'ogni contorno</l>
+<l>Col sacrificio in man molti pastori,</l>
+<l>Che le sue lode canteran qui intorno</l>
+<l>Empiendo il bosco di soavi odori:</l>
+<l>Però a me par che qui faciam dimora</l>
+<l>Per poterli veder, ché giunta è l'hora.</l>
+</lg></sp>
+<sp><speaker>TIRSI</speaker>
+<lg type="ottava">
+<head>48</head>
+<l>El nome di costei, Dameta, è tale</l>
+<l>Che ogniun l'honora, et io lontan lo intesi,</l>
+<l>E il viver lieto e l'obliar del male</l>
+<l>Ch'altrui sostenne già in altri paesi,</l>
+<l>E questo dolce albergo, e quanto e quale</l>
+<l>Sia el valor d'i pastor' saggi e cortesi;</l>
+<l>Ond'io volli venir qui col mio gregge</l>
+<l>Per viver sotto questa santa legge.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>49</head>
+<l>E già le care tue dolci parole</l>
+<l>M'hanno cotanto intenerito el core,</l>
+<l>Che prima che nel mar s'atuffi el sole</l>
+<l>Disposto ho di vederla e farle honore.</l>
+<l>E ben del mio tardare assai mi duole,</l>
+<l>Perché degli anni mei perso ho il migliore.</l></lg>
+</sp>
+<sp><speaker>DAMETA</speaker>
+<lg>
+<l>Non ti doler, ché anchor potrai contento</l>
+<l>Pascer molt'anni el tuo felice armento.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>50</head>
+<l>Tu puoi cum noi sperar la pace eterna</l>
+<l>E de' lupi sprezzar le insidie tante,</l>
+<l>Mercé d'un bon pastore, el qual governa</l>
+<l>I campi lieti e le contrade sante.</l></lg>
+</sp>
+<sp><speaker>TIRSI</speaker>
+<lg><l>Di questo ho udito dire in parte externa</l>
+<l>Cose di che convien la fama cante.</l></lg>
+</sp>
+<sp><speaker>DAMETA</speaker>
+<lg><l>So ben che il nome suo molto si spande,</l>
+<l>Ma il vero è de la fama assai più grande.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>51</head>
+<l>Dirti el tutto di lui mai non potrei:</l>
+<l>È docto e saggio, e qui tra noi è un sole,</l>
+<l>Clemente ove si puote, e iusto ai rei,</l>
+<l>Splendido, e il nostro ben procura e vòle.</l>
+<l>Mille e mille opre sue narrar saprei,</l>
+<l>Ma tempo è di dar fine ale parole,</l>
+<l>Percioché di lontan, s'io non m'inganno,</l>
+<l>Scorgo i pastor' che al sacrificio vanno.</l>
+</lg></sp>
+<sp><speaker>CORO DE PASTORI</speaker>
+<lg type="ottava">
+<head>52</head>
+<l>Poiché discesa da' celesti chori</l>
+<l>Sei nel mundo tra noi, alma beata,</l>
+<l>Odi i devoti prieg<del>h</del>i de' pastori,</l>
+<l>Né ti sdegnar da noi esser lodata;</l>
+<l>E questo picciol dono e i nostri cori</l>
+<l>Insieme accepta cum la mente grata;</l>
+<l>E se cum fé serviam tue sante leggi,</l>
+<l>Fa' sian chiari tra gli altri i nostri greggi.</l>
+</lg></sp>
+<sp><speaker>TIRSI</speaker>
+<lg type="ottava">
+<head>53</head>
+<l>Tanta dolcezza è nel mio cor discesa,</l>
+<l>Dameta, odendo la harmonia di questi,</l>
+<l>Ch'io sento da un desir l'anima presa</l>
+<l>Che mi ralegra il core e i spirti mesti;</l>
+<l>E parmi che a me stesso i' faccia offesa,</l>
+<l>Che de ire ad honorarli homai più resti.</l></lg>
+</sp>
+<sp><speaker>DAMETA</speaker>
+<lg><l>Ben li fia tempo, o Tirsi, aspetta alquanto</l>
+<l>Che altro ci resta anchor miglior che 'l canto.</l>
+</lg></sp>
+<sp>
+<lg type="ottava">
+<head>54</head>
+<l>Magior cosa vedrai, magior miracolo</l>
+<l>Di genti horrende in viso e spaventevoli,</l>
+<l>Che sogliono qui intorno al santo oracolo</l>
+<l>Far lieti balli e giochi sollacievoli.</l>
+<l>Né dèi, né fauni son, ma per miracolo</l>
+<l>D'arbor' son nati e son tra lor piacevoli;</l>
+<l>E già parmi d'udir che escan del bosco,</l>
+<l>Perché a l'usato suon ben li conosco. </l>
+</lg></sp>
+<sp><speaker>DAMETA</speaker>
+<lg type="ottava">
+<head><hi rend="italic">Moresca</hi></head>
+<head>55</head>
+<l>Andiamo, o Tirsi, homai, che mi par l'hora</l>
+<l>Che essa qui a una fontana venir suole,</l>
+<l>E a l'ombra cum le sue nymphe dimora,</l>
+<l>Dove passar non può raggio di sole.</l>
+<l>Cantando a mano a man ballan talhora</l>
+<l>Le nymphe coi pastori, e talhor sole.</l>
+<l>Quivi ad agio vederla ben potrai;</l>
+<l>A cena e albergo poi meco verrai.</l></lg>
+</sp>
+</div1>
+</body>
+</text>
+</TEI.2>

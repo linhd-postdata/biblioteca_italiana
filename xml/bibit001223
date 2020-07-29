@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Strambotti a la villanesca</title>
+      <author>Pietro Aretino</author>
+    </titleStmt>
+    <extent>75 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001223</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Edizione nazionale delle opere di Pietro Aretino</title>
+        <title type="part">Poesie varie</title>
+        <author>Aretino, Pietro</author>
+        <editor id="ed">Aquilecchia, Giovanni</editor>
+        <editor id="ed2">Romano, Angelo</editor>
+        <publisher>Salerno editrice</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>stampa 1992-</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita"/><language id="lat">Latino</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.3 - POESIA ITALIANA, 1492-1542</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-07-31T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Alessia Scacchi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-08-31T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+
+<front>
+<head>Strambotti a la villanesca freniticati da la quartana
+de l’Aretino con le stanze de la Serena appresso in
+comparazione de gli stili <num>MDXXXXIIII</num>
+</head>
+</front>
+
+<body>
+
+<div1 type="dedica">
+
+<salute>Al facetissimo Trippa patrizio cantianense staffieri e
+ogni cosa del senza menda Duca d’Urbino.</salute>
+
+<p>Io mi credo, fratellin caro, che tu abbia inteso nel modo che
+otto mesi a la fila m’ha concio quella quartana ladra
+che, per vedermi continuamente innanzi di quante sorti
+vivande si imaginò mai la gola, mi fa essere qualche
+ cosa peggio che non è ser Tantalo: imperò ch’egli
+alzarebbe il fianco da maladetto senno, caso che potesse
+dar di becco nel manicare che per istigazion del
+iavolo gli aranca, gli scarpina e gli tralipa da la
+bocca come, nel tentarla il Demonio, tralipò,
+scarpinò e arancò la riformata consorte di don
+Atanasio. Or per intrare nel mio preposito: dico
+che la mattana, che per via e de la sua fastidiosa
+dapocaggine, e per mezo di così bestiale infirmità,
+ tiemmi asassinata la fantasia, mi strasginò l’altra
+notte il pensamento ne la ricordanza di certe canzonesse
+contadine, biscantate in Verona nel chiostro di San Matio
+Boldieri da la tua boce ismusicante senz’altra
+trampellazion di cetera né di liuto; e perché ne lo
+isguainar tu così fatti strambotti, mettesti in su la
+teccarella del galluzzar non pur Marcantonio con gli
+altri tuoi sozii, ma gli arienti de la credenza, le
+tovaglia de la tavola, gli strumenti di cuccina, l’acqua
+del pozzo e la insalata de l’orto, non mi son potuto
+tenere di non fare, a l’odore de le prefate tue ciancie,
+queste baie che vienata, savìa, mo’, adesso e ora intitolo.
+E Dio volesse che il <emph>Beato d’Aquino</emph> e il <emph>Dialogo de le
+carte</emph> fusse scappato fuora sotto l’ombra de la tua
+piacevolezza: ché oltra il non pentirmi, ne arei al manco
+ritratto il commodo di quello spogliarmi, di quel vestirmi,
+di quel nettarmi e di quel servirmi con che la tua bontade
+amorevole ebbe cura de la mia persona tutto il tempo ch’io
+stetti appresso a la eccellenza del nostro comun padrone.
+Ma per che sin di qui odo riderti de le bufolarie ch’io
+mando, mi scuso con giurarti de averle sputate in sogno:
+onde voglio che il premio di ciò sia il dignarti in mio
+scambio di riverire il Duca inginochioni; di poi in vece
+di me basciare la mano al Signor Ranieri fedel rifugio
+de gli uomini da bene. Salutami non solo i gran maestri di
+cotesta realissima corte, ma sino a i famigli che la
+servano, non te scordando lo strenuo Barbuglia dicendogli
+che presto vedrà drizzata al suo nome la <emph>Nencia</emph> non manco
+galluta e non men treccola de la <emph>Viola</emph>: e ciò faccio perché
+si giudichi di che maniera sieno i merti di Guidobaldo, poi
+che io, che sono io, rivolto l’opre a gli staffieri di sua
+ottima Signoria. E la disbratto con lo esortarti a vivere
+allegro, a isguazare ben bene, a far dei trippini e a
+mantenerti savio, volsi dir sano.</p>
+
+<dateline>Di Venezia, a li <date><gap/><add resp="ed">[...]</add></date> di aprile <date><num>MDXLIIII</num></date>.
+</dateline>
+
+<signed>Pietro Aretino tuo tutto</signed>
+
+
+</div1><div1 type="poesia">
+
+<head>1</head>
+<lg type="strambotto">
+
+<l>Viola mia, cara la mia Viola,</l>
+<l>che a vagheggiarti tutto mi confetto,</l>
+<l>se ’l Diavol vòl che ti trovi un dì sola,</l>
+<l>vo’ farmi tuo per via d’uno iscambietto;</l>
+<l>di poi girò a ’mparare a la scola</l>
+<l>a scomporre in tua laude un sonetto:</l>
+<l>che, ciò facendo, la sua melodia</l>
+<l>sarà tra te e me come una spia.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>2</head>
+
+<lg type="strambotto">
+<l>Ne lo anunziarci il domine le feste</l>
+<l>fa un gran male a ritenersi in gola,</l>
+<l>come ha detto «oggi quelle, e doman queste»,</l>
+<l>e non spacificar Santa Viola;</l>
+<l>le non mi paion cose troppo oneste,</l>
+<l>e se ’l trovo vo’ dirgli una parola:</l>
+<l>ché in quanto a me istimo santitae</l>
+<l>il mangiar me con la sua crudeltae.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>3</head>
+
+<lg type="strambotto">
+<l>Viola, io vengo in chiesa aposta fatta,</l>
+<l>perché si sappia che ti porto amore;</l>
+<l>e nel tener la capocchia in giù guatta,</l>
+<l>ti riconosco in tra l’altre a l’odore:</l>
+<l>perché il tuo fiato, che sa d’ambra gatta,</l>
+<l>subito sbuca a strapanarmi il core;</l>
+<l>ma l’incenso di lui, che m’inbriaca,</l>
+<l>un basciuzzo vorria per otriaca.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>4</head>
+
+<lg type="strambotto">
+<l>Viola, io mi sognava ch’io dormiva</l>
+<l>istanotte dormendo intu ’l mio letto,</l>
+<l>e russando ben forte mi pariva</l>
+<l>che tu pigliasse a scoprirmi diletto.</l>
+<l>Viola, levarmi su i’ non potiva,</l>
+<l>ché il sonno infingardaccio, per dispetto,</l>
+<l>mi stiracchiava a sé con un tal modo,</l>
+<l>che aprivo gli occhi e pur dormivo sodo.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>5</head>
+
+<lg type="strambotto">
+<l>Viola savia, s’io ti veggo scalza</l>
+<l>con quelle tue bracciozze ignude nate,</l>
+<l>ho aschio al rio che da cattivo s’alza</l>
+<l>sino a le tue ginocchia inzuccarate:</l>
+<l>alora il cor, che nel petto mi sbalza,</l>
+<l>e le sibille ne impiscia e le fate.</l>
+<l>Ma viemmi, ciò mirando onde mi amalo,</l>
+<l>l’intentazione: <emph>e·llibra nos amalo</emph>.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>6</head>
+
+<lg type="strambotto">
+<l>Se fusse mosca come ch’io vorria,</l>
+<l>io ti farei Viola disperare:</l>
+<l>la prima cosa, a gli occhi ti verria</l>
+<l>in atto di volertigli cavare;</l>
+<l>come che una capra rideria</l>
+<l>con la mano vedendoti a rostare:</l>
+<l>e credendo amazzarmi in doi menate,</l>
+<l>ti pestarien le sproprie mostacciate.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>7</head>
+
+<lg type="strambotto">
+<l>Vorrei, Viola, quando fai la bionda,</l>
+<l>essere il Sol, che apparito bel bello</l>
+<l>con gran manefattura ti circonda</l>
+<l>le treccie sparse intorno del capello;</l>
+<l>o quella cosa longa, aguzza e tonda</l>
+<l>che fa doi parti d’ogni tuo capello;</l>
+<l>o il pettine che i crini ti distriga,</l>
+<l>la spogna al men, che di sguazzargli ha briga.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>8</head>
+
+<lg type="strambotto">
+<l>Nel gir, Viola, a la festa solenne</l>
+<l>benché entri in filza in un branco di donne,</l>
+<l>del <emph>verbon caro</emph> somegli <emph>l’ammenne</emph>,</l>
+<l>e del <emph>troibo</emph> il <emph>chrisaleionne</emph>;</l>
+<l>l’altre paion gazzole con due penne</l>
+<l>e l’<emph>a be ce</emph> che non ha il ca’ né ’l conne:</l>
+<l>paion senza colombe colombaie,</l>
+<l>e senza l’acciaiuol pietre focaie.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>9</head>
+
+<lg type="strambotto">
+<l>Quando, Viola, ti alzi la gonella</l>
+<l>e in giù rovesci tutto lo scoffone</l>
+<l>e pala fai della gambotta bella,</l>
+<l>in succhio vammi la melza e ’l polmone;</l>
+<l>e bramo d’esser quella pulcia, quella</l>
+<l>che ti manuca senza descrezione:</l>
+<l>perché, se fussi pulcia come lei,</l>
+<l>u’ più ti rode, più ti grattarei.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>10</head>
+
+<lg type="strambotto">
+<l>Viola, i mastri da le bagatelle</l>
+<l>per un mese a la più esser vorria:</l>
+<l>che se ’l tuo amor non fusse pelle pelle</l>
+<l>contra la sfegatata fede mia,</l>
+<l>come lor, ch’u’ non è covel covelle</l>
+<l>fan comparir sino a la beffania,</l>
+<l>cinque o sei volte al trammito d’un’ora</l>
+<l>faremmo a che l’è drento a che l’è fora.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>11</head>
+
+<lg type="strambotto">
+<l>Dimandami, Viola, qualche cosa,</l>
+<l>e del ben che ti voglio abbi a schiarirti:</l>
+<l>se vuoi che ti sbasciucchi a la franciosa,</l>
+<l>pensela tu se son per ubbedirti;</l>
+<l>se con la mia persona rugginosa</l>
+<l>ti venisse apetito di coprirti,</l>
+<l>or che so scioperato e mo’ che posso</l>
+<l>te farò ischiavina del mio dosso.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>12</head>
+
+<lg type="strambotto">
+<l>Viola, io non son sindico qui fori,</l>
+<l>che, se fussi, a la croce benedetta,</l>
+<l>ti affogarei in cento mila onori</l>
+<l>e ognun vorrei ti fesse de berretta:</l>
+<l>ma istrabilio de tutti i cacalori</l>
+<l>che non corrono qui per istafetta</l>
+<l>cantando il <emph>credo</emph> e la <emph>magnificatte</emph></l>
+<l>dinanzi a te che sei di sangue e latte.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>13</head>
+
+<lg type="strambotto">
+<l>Io vorrei esser, Viola, quel vento</l>
+<l>che ti rinfresca al tempo de la state,</l>
+<l>quando in camiscia, col petto in sul mento,</l>
+<l>per casa dai parecchi spasseggiate;</l>
+<l>se fusse lui, come un ricco contento</l>
+<l>pian piano ti darei doi sculacciate;</l>
+<l>poi ti porrei toccandoti il cioncietto</l>
+<l>con mille cacabaldole intu ’l letto.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>14</head>
+
+<lg type="strambotto">
+<l>Viola, s’un dì scontro quel pretaccio</l>
+<l>dal quale ti confessi sempre mai,</l>
+<l>saperò per che conto il porconaccio</l>
+<l>non ti sgrida del mal che tu mi fai;</l>
+<l>e dandogli de i pugni nel mostaccio</l>
+<l>parrammi di por giù tutti i miei guai;</l>
+<l>tal che, tornando alla comunione,</l>
+<l>vorrà c’abbi di me scompassione.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>15</head>
+
+<lg type="strambotto">
+<l>Viola, ben ch’io abiti alla villa,</l>
+<l>sono per anticaglia cittadino;</l>
+<l>e perciò, tosto che il cervel mi grilla,</l>
+<l>la impatto a l’Ancroia paladino.</l>
+<l>Il prete nostro mi chiama lo Strilla,</l>
+<l>nome che lui trovò sul mattutino:</l>
+<l>sì che Bellona fa di me quel conto</l>
+<l>che fassi de la suppa e del panonto.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>16</head>
+
+<lg type="strambotto">
+<l>Viola, io vorria pur che tu pensasse,</l>
+<l>quando non sai che farti de i pensieri,</l>
+<l>a me che smanio; e qual t’amo, m’amasse</l>
+<l>e beessimo insieme a un bicchieri.</l>
+<l>Sariati onore, s’ormai mi trattasse</l>
+<l>come è trattato un lesto dal brachieri:</l>
+<l>ma se no ’l fai, fo voto a sant’Antonio</l>
+<l>di darmi a sacco ad ogni suo demonio.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>17</head>
+
+<lg type="strambotto">
+<l>Viola, s’usi a me qualche pietae,</l>
+<l>e fai ch’io possa in nascosto parlarte,</l>
+<l>verrà, passando tu per la cittae,</l>
+<l>ogni cittadinanza a scontemplarte,</l>
+<l>onde parrai proprio una maestae</l>
+<l>per la baldoria del sentir lodarte.</l>
+<l>Certo ciascuno dirà ne la via:</l>
+<l>la mama è colei d’ogni opra impia.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>18</head>
+
+<lg type="strambotto">
+<l>Se Dio ti guardi quegli occhi, Viola,</l>
+<l>che han fatto del mio core un pan biscotto,</l>
+<l>la testa lustra e la scasciata gola,</l>
+<l>quel visotto d’aver, quel ciarlar ghiotto,</l>
+<l>e quella tua dolce aria mariola</l>
+<l>che per un tratto a sé m’ha posto sotto,</l>
+<l>non esser crudel cagna traditora</l>
+<l>a chi per colpa tua va in la mal’ora.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>19</head>
+
+<lg type="strambotto">
+<l>Chi vòle udir, Viola, a tutto pasto</l>
+<l>il <emph>celorum</emph> del cielo ismusicare,</l>
+<l>e fare un rusignuol con l’altro ad asto,</l>
+<l>e un mucchio di calandre isgoleggiare</l>
+<l>senza cercar de la solfa altro trasto,</l>
+<l>ascolti te una volta cantare:</l>
+<l>che gli parranno i mugghi loro istrani</l>
+<l>ragghi et abbai d’asini e de cani.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>20</head>
+
+<lg type="strambotto">
+<l>S’uomo non fussi, ma caveriola,</l>
+<l>nel far de i salti mi desperarei,</l>
+<l>perché ballando tu monna Viola,</l>
+<l>ballon le molle, le secchie e i treppiei;</l>
+<l>tal che a i cervi e a i daini vien gola</l>
+<l>di scambiettar con tutta do’ i tuoi piei:</l>
+<l>pensa se vorrien ciò quelle zambracche</l>
+<l>che dan doi giravolte, e sono stracche.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>21</head>
+
+<lg type="strambotto">
+<l>Io ho perduto, Viola, il mangiare</l>
+<l>per tuo amore, e smarrito il dormire:</l>
+<l>l’oppio non mi farebbe adormentare,</l>
+<l>né il giulebbe un bocone inghiottire;</l>
+<l>bestemio i galli ch’io sento cantare,</l>
+<l>con ogni carne che veggo arostire;</l>
+<l>a la fin fine il disgraziato Strilla</l>
+<l>drento a i suoi stracci si mena la rilla.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>22</head>
+
+<lg type="strambotto">
+<l>Viola, me – che dì e notte pesco</l>
+<l>al tuo onor con l’amo de la rete –</l>
+<l>prova un sol tratto, e se non ti riesco</l>
+<l>dimmi «<emph>abrinunzo</emph>», come dice il prete.</l>
+<l>Co i piedi del viottolo non esco</l>
+<l>s’io cerco ber morendomi di sete:</l>
+<l>ma faresti ben tu da sgherra sbricca</l>
+<l>se mi piantasse con un «vatti apicca».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>23</head>
+
+<lg type="strambotto">
+<l>Nasce, o Viola, du’ sfoderi i passi</l>
+<l>la nepitella, il poleggio e la menta;</l>
+<l>se per disgrazia co i piei tocchi i sassi,</l>
+<l>ogniuno d’essi un carboncel diventa;</l>
+<l>e di fior di ginestra il luogo fassi</l>
+<l>che ’l tu–mi–intendi tuo per seder tenta:</l>
+<l>sai poi, facendo una vescietta falsa,</l>
+<l>di tutte l’erbe ch’entrono in la salsa.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>24</head>
+
+<lg type="strambotto">
+<l>S’oggi o domani arriva il depentore</l>
+<l>c’ha san Biagio da fare a i miei parenti,</l>
+<l>vo’ che mi ratria in su la carta il core</l>
+<l>con questi occhi di sopra piangolenti,</l>
+<l>la frizza in mezzo che ’l passi for fore,</l>
+<l>e il fuoco sotto a lui di sciaramenti,</l>
+<l>col pataffio che dica a lettre grosse:</l>
+<l>«Così Scupido e Viola non fosse».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>25</head>
+
+<lg type="strambotto">
+<l>Viola, se tu vuoi covelle, dillo,</l>
+<l>perc’ho la volontae tarantolata,</l>
+<l>e in servirti struggomi e destillo,</l>
+<l>e d’uno uomo, son fatto carbonata,</l>
+<l>anzi un giovengo quando egli ha l’asillo;</l>
+<l>e paio proprio un’anima dannata,</l>
+<l>e farò le pazzie finché non dici:</l>
+<l>– reccami, Strilla, un mazzo di radici –.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>26</head>
+
+<lg type="strambotto">
+<l>Se con le belle deta di profilo</l>
+<l>tiri, Viola, giù de la conocchia</l>
+<l>de la bambagia o del lino il filo,</l>
+<l>ogni busuchio nel ventre mi crocchia,</l>
+<l>onde in quel tratto in modo mi disfilo</l>
+<l>che il tirar delle calze mi adocchia:</l>
+<l>ma se per conto di tal macatella</l>
+<l>io mi morissi, la saria ben bella.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>27</head>
+
+<lg type="strambotto">
+<l>Mentre, Viola, mi fai la cilecca</l>
+<l>del viso tuo di un bel rosado adorno,</l>
+<l>una fetta mi par di carnesecca</l>
+<l>e un bossolo da spezie fatto al torno;</l>
+<l>simiglia ancora del fuoco una stecca,</l>
+<l>e quando è ben ben caldo, il ciel del forno:</l>
+<l>se ’l tocca il sole nel tratto dirietro,</l>
+<l>lucica più che un orinal di vetro.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>28</head>
+
+<lg type="strambotto">
+<l>Se la tua faccia, Viola, si specchia,</l>
+<l>la bambola lustrante ha quel piacere</l>
+<l>che del suo mèle il culo de la pecchia,</l>
+<l>e ’l porco de le ghiande e de le pere,</l>
+<l>e del mangiare i fichi la forfecchia,</l>
+<l>e chi esce del buio di vedere;</l>
+<l>in tanto dici a me: «non ce ne becchi,</l>
+<l>ma stai come una bestia a denti secchi».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>29</head>
+
+<lg type="strambotto">
+<l>Quando, Viola, doppo al finestrino</l>
+<l>tutta ti apiatti e tutta ti ricropi,</l>
+<l>il mio cor sventurato pelegrino</l>
+<l>con le tue ghirminelle frusti e scopi:</l>
+<l>e perché ancor la gatta di Masino</l>
+<l>gli occhi chiudea per non pigliare i topi,</l>
+<l>par ch’io sia, me schifando a la spiegata,</l>
+<l>il traditor da la carne insalata.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>30</head>
+
+<lg type="strambotto">
+<l>Ben mi terresti, Viola, un menchione</l>
+<l>se ti lasciassi por l’amore adosso</l>
+<l>da quello patarin di Menecone</l>
+<l>che ti fura con gli occhi di Minosso:</l>
+<l>e bench’io non sia uom de far quistione,</l>
+<l>perch’ognun vole la carne senza osso,</l>
+<l>parrò, se più fa teco la civetta,</l>
+<l>il can che salta sopra la bacchetta.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>31</head>
+
+<lg type="strambotto">
+<l>Drizzami un po’, Viola, l’occhiolino</l>
+<l>e dammi il sì col cenno de lo sguardo,</l>
+<l>ch’esser ti voglio l’asin dal molino,</l>
+<l>e il coltello con che batti il lardo;</l>
+<l>te incegliarò, se piaceratti, il lino,</l>
+<l>che a dirti il ver non so miga infingardo:</l>
+<l>perch’al dì d’oggi chi non è dassai</l>
+<l>perde l’amico e i danar non ha mai.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>32</head>
+
+<lg type="strambotto">
+<l>Se mogliema, Viola, esser non vuoi,</l>
+<l>èssimi druda, che non me ne curo:</l>
+<l>perché a tal forgia anco farem tra noi</l>
+<l>il ninne–nanne al buio e a lo scuro;</l>
+<l>quando che no, attendi a i fatti tuoi,</l>
+<l>che so bestial quando il cervello induro,</l>
+<l>e più mi prega altrui, più mi rinculo:</l>
+<l>e chi non mi vòl ben, gràtasi il culo.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>33</head>
+
+<lg type="strambotto">
+<l>Perdonami Viola, che la stizza</l>
+<l>mi tra’ di bocca sì laide parole;</l>
+<l>e in quel che la rabbia mi si rizza,</l>
+<l>cavaria da le barbe il giralsole;</l>
+<l>e so peggio che un cane ch’altri atizza,</l>
+<l>che ciò che se gli fa, patir non vole:</l>
+<l>ma so miglior, come in gangari torno,</l>
+<l>che il pan che allora allor scappa del forno.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>34</head>
+
+<lg type="strambotto">
+<l>Viola, ho inteso dir che la ventura</l>
+<l>ha dinanzi una bietta di capegli,</l>
+<l>che chi la grappa non ha più paura</l>
+<l>di pigliar con la ragna de i frenguegli:</l>
+<l>se me rifiuti per mala sciagura,</l>
+<l>ancora che ci sien de gli altri uccegli,</l>
+<l>lo Strilla appar tra lor come il falcone</l>
+<l>tra il gufo, il barbagianni e l’ocarone.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>35</head>
+
+<lg type="strambotto">
+<l>Viola, non parliam de l’esser bello,</l>
+<l>da che ne l’altre cose io non ho pare:</l>
+<l>se mi vedessi legare un fastello</l>
+<l>e ’n l’aia il coreggiato ismaneggiare,</l>
+<l>non pur diresti che vaglio un castello</l>
+<l>in zappare, in arare, in seminare,</l>
+<l>ma ch’io mertasse il doventar massaio,</l>
+<l>il conseglier de la villa, il campaio.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>36</head>
+
+<lg type="strambotto">
+<l>Vedimi un tratto, Viola, in la festa</l>
+<l>col giubbarello di panno isbiadato,</l>
+<l>e se non paio un gallo con la cresta,</l>
+<l>un gatto in frega, un toro isnamorato,</l>
+<l>di raviggiuoli pien piena una cesta,</l>
+<l>un bel desco da nozze apparecchiato,</l>
+<l>cosa ch’io abbia detto non mi vaglia:</l>
+<l>ma non è burla, che passo battaglia.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>37</head>
+
+<lg type="strambotto">
+<l>Se tu mi pigli, Viola, per moglie,</l>
+<l>volsi dir se mi togli per marito,</l>
+<l>porrai cavarti tutte quelle voglie</l>
+<l>ch’usano d’impregnarti l’appetito:</l>
+<l>ciò·cche fa l’asin de le cannafoglie,</l>
+<l>farai tu per in fin del pan bollito.</l>
+<l>Tra l’altre cose d’Anna e Scaifasse,</l>
+<l>zitto starò se ben mi scorticasse.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>38</head>
+
+<lg type="strambotto">
+<l>Viola, se mi dà tua Signoria</l>
+<l>una squalunche speranzuccia bona,</l>
+<l>mi venga in questo ponto la moria</l>
+<l>se cotal grazia non pianto in canzona.</l>
+<l>A letto andrò ’nanzi l’ave–maria</l>
+<l>levandomene poi sonata nona,</l>
+<l>per l’allegrezza di sì fatta cosa:</l>
+<l>a ogni modo io ho del kascio a iosa.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>39</head>
+
+<lg type="strambotto">
+<l>Se vuoi parer, Viola, una badessa,</l>
+<l>’tàccati a me, che me ne mor di voglia,</l>
+<l>et incàccane il Papa e la papessa</l>
+<l>con chinche poi si marita e s’amoglia.</l>
+<l>E perché la tua botte ismanomessa</l>
+<l>vezzi, muine e caccarie germoglia,</l>
+<l>se non ha caccarie, muine e vezzi,</l>
+<l>rompi la mia canella in cento pezzi.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>40</head>
+
+<lg type="strambotto">
+<l>Penso, Viola, quando mi farai</l>
+<l>un qualche forasiepe e bel cittino,</l>
+<l>e per comare la Zanfarda arai</l>
+<l>e per compare il poieta Stradino,</l>
+<l>far le pazzie alotta mi vedrai,</l>
+<l>tenendo in berta ogni nostro vicino.</l>
+<l>Ti aiutarò tutto il dì a ninnarlo,</l>
+<l>e ne lo empir de le fasce a nettarlo.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>41</head>
+
+<lg type="strambotto">
+<l>Tosto, Viola, ch’io vegga sattollo</l>
+<l>di pocciare, il fraschetta che voria,</l>
+<l>piano pianino torrommelo in collo</l>
+<l>beendomel co i basci tutta via;</l>
+<l>per mano poi, crescendo, menarollo</l>
+<l>insegnandogli io sol l’<emph>Ave Maria</emph>:</l>
+<l>e quando pensarò che tu l’hai fatto,</l>
+<l>saltarogli dintorno come un matto.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>42</head>
+
+<lg type="strambotto">
+<l>Viola, se zurlando pur salticchia</l>
+<l>la pregna miccia mia per la magese,</l>
+<l>e se nel bastonarla si ranicchia,</l>
+<l>chioccami di non fargli più le spese;</l>
+<l>sì che sta in te, mentre il cervel mi picchia,</l>
+<l>il voler teco venire a le prese,</l>
+<l>scontentandomi un tratto come suoli:</l>
+<l>altrimenti farem fave e fasgiuoli.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>43</head>
+
+<lg type="strambotto">
+<l>Viola gaia a modo d’una vegghia</l>
+<l>ne la qual trescon millanta persone,</l>
+<l>Viola badial come una tegghia</l>
+<l>che col migliaccio in tavola si pone,</l>
+<l>Viola più vistosa che la stregghia</l>
+<l>che del cavallo rifrusta il greppone:</l>
+<l>per che sei tanto bianca e così ghiotta,</l>
+<l>voglia ho di te come d’una ricotta.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>44</head>
+
+<lg type="strambotto">
+<l>Odo, Viola, che ti è suto messo</l>
+<l>nel capo che di te ho sbaiafato:</l>
+<l>s’egli è ver, ch’io sia fatto arosto e lesso,</l>
+<l>e come san Bartolmeo scorticato;</l>
+<l>c’omo so vivo, e non bambin di gesso,</l>
+<l>ma come il cento–paia iscozzonato:</l>
+<l>e se mai mai di te volsi la baia,</l>
+<l>che venire mi possa l’anguinaia.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>45</head>
+
+<lg type="strambotto">
+<l>Viola, or che so mezo disperato,</l>
+<l>Scupido cercarò fino in bordello:</l>
+<l>e se uvelle io trovo l’<add resp="ed">&lt;i&gt;</add>mpiccato,</l>
+<l>il pelarò co’ si pela uno ucello;</l>
+<l>e ne lo straccio che il tiene acecato</l>
+<l>vo’ ingolupparlo come un fegatello:</l>
+<l>e toltogli il balestro e l’altre trame,</l>
+<l>al vostro onor mostrarogli il forame.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>46</head>
+
+<lg type="strambotto">
+<l>Se questo tuo, Viola, sere Amore</l>
+<l>tien sempre gli occhi chiusi in lo sportello,</l>
+<l>perché m’ha fatto più buchi nel core</l>
+<l>che nel fondo non sono d’un crivello?</l>
+<l>S’ei ch’è ’gnudo, di freddo il verno more,</l>
+<l>con qual mala ventura Solfanello–</l>
+<l>–il–grullo va fino a le gatte ardendo?</l>
+<l>Al sante de vagniel, che non la intendo.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>47</head>
+
+<lg type="strambotto">
+<l>Viola, io voglio buscare un polzone,</l>
+<l>da poi che la balestra io tengo im·ponto,</l>
+<l>et andarmene via guatton guattone</l>
+<l>ne lo scappar de l’ala a ponto a ponto;</l>
+<l>e se fra i nibbi vedessi il ghiottone,</l>
+<l>fra i corbi o fra le grughe, io faccio conto,</l>
+<l>còlto la mira, iscroccarogli a la testa</l>
+<l>dicendo: «ladroncel, bèccati questa».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>48</head>
+
+<lg type="strambotto">
+<l>Per dirtelo, Viola, in tre parole,</l>
+<l>se io potessi te l’accocarei;</l>
+<l>dica mo’ il vicinato ciò·cche vole,</l>
+<l>e faccia i fatti suoi, ch’io farò i miei.</l>
+<l>Se l’asino ragghiando corrir sòle</l>
+<l>dietro a la miccia ritto su ’n do’ piei</l>
+<l>e rompe la cavezza intu la stalla,</l>
+<l>ch’io no ’l facesse, cancaro a la falla.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>49</head>
+
+<lg type="strambotto">
+<l>Se quando la scalmana ch’ognun coce</l>
+<l>fa gridare a corromo la cicala,</l>
+<l>sotto al fresco meriggio del mio noce</l>
+<l>ti adormentasse, Viola, con gala,</l>
+<l>tutti gli uccegli di squillante boce</l>
+<l>ti cantarieno intorno una fandala,</l>
+<l>né mosca arìa di toccarti ardimento:</l>
+<l>lo Strilla intanto ti farebbe vento.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>50</head>
+
+<lg type="strambotto">
+<l>Io ti prego, Viola, per quel latte</l>
+<l>con il qual fai così brave gioncate,</l>
+<l>per le tue lasagnette sì ben fatte</l>
+<l>che mettono in petito le brigate,</l>
+<l>e per le fave c’hai da cocer tratte</l>
+<l>con doi offette di porco insalate:</l>
+<l>ti sprego dico con tutto il ventricchio,</l>
+<l>che un tratto mi apra l’uscio quando il picchio.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>51</head>
+
+<lg type="strambotto">
+<l>Viola, alor che vai a letto sola</l>
+<l>quando la neve a la sfilata mette,</l>
+<l>fai da cruda a non dirmi una parola,</l>
+<l>ché verria come vengon le saette</l>
+<l>a scaldare il tuo asgio in le lenzola</l>
+<l>cavandoti le calze e le scarpette:</l>
+<l>e se poi ti cascasse in l’albagia</l>
+<l>che venesse a ciloffo, io ci verria.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>52</head>
+
+<lg type="strambotto">
+<l>Sconfesso ch’una cosa bella bella</l>
+<l>è la coda de l’asino la state,</l>
+<l>percioché amacca, cincischia e sflagella</l>
+<l>vespe, mosche e tafani in duo menate;</l>
+<l>ma doppo liei, sol la Viola è quella</l>
+<l>a la qual dovrien far le scampanate,</l>
+<l>oltra ogni chierco e la pasqua beffana,</l>
+<l>santa Nafissa e santa Verdiana.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>53</head>
+
+<lg type="strambotto">
+<l>Mi garba meno – se poto o se mieto,</l>
+<l>e quando che fo l’aia e quando batto,</l>
+<l>o se pianto la vigna o l’oliveto,</l>
+<l>o s’aro con duo buoi, un pazzo un matto –</l>
+<l>l’alzar de la gambetta e trare un peto,</l>
+<l>poi miagolar come immiagola il gatto,</l>
+<l>che non fa il tintalvento e il tintalora</l>
+<l>che da i tuoi begli occhietti aranca fora.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>54</head>
+
+<lg type="strambotto">
+<l>Viola, alor che tu rompi de l’ova</l>
+<l>per cocerle ne l’olio istemperate,</l>
+<l>e quando intridi la farina nova</l>
+<l>per far di bone fritelle melate,</l>
+<l>il risguardar tal ciancia più mi giova</l>
+<l>che s’io toccasse dieci bastonate:</l>
+<l>ma più mi giovaria, del risguardarle,</l>
+<l>l’esser chiamato con teco a mangiarle.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>55</head>
+
+<lg type="strambotto">
+<l>Se ti scorgi, Viola, d’esser dura</l>
+<l>e sdifettosa di caparbiaria,</l>
+<l>isbraca a me tutta la tua natura,</l>
+<l>e io a te disbracarò la mia;</l>
+<l>se mo’ no ’l fai, ch’è la mietitura,</l>
+<l>volendolo poi far per cacaria,</l>
+<l>io ti dirò con la bocca a la bava:</l>
+<l>– passato è il tempo che Berta filava».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>56</head>
+
+<lg type="strambotto">
+<l>Viola santa, stu non cacci mano</l>
+<l>a farmi un sol piaceruzzo tignoso,</l>
+<l>ischietino vedraimi e sluterano,</l>
+<l>perbenché ognun di lor sia schizzinoso;</l>
+<l>se a Roma frate, e pretaccio a Melano</l>
+<l>non mi fo, che mi speli il mal francioso:</l>
+<l>ma inanzi ch’io diventi malandrino,</l>
+<l>lasciami un tratto ispazzarti il camino.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>57</head>
+
+<lg type="strambotto">
+<l>Io sbenedisco, Viola, a man gionte</l>
+<l>prima la mate tua che ti piscioe,</l>
+<l>el prete poi che in l’acqua de la fonte</l>
+<l>du’ cristiana ti fé non ti affogoe;</l>
+<l>certo darei duo’ basciozzi in la fronte</l>
+<l>a donna Checca che ti dislatoe:</l>
+<l>pensa mo’ tu, e col capo e co i piei,</l>
+<l>se io potessi, ciò che a te farei.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>58</head>
+
+<lg type="strambotto">
+<l>Se io mi fussi una bella insalata,</l>
+<l>forse, Viola, che ti garbaria;</l>
+<l>se diventassi una capra alatata,</l>
+<l>a mogner me te ne verresti via;</l>
+<l>ma essendo io una arpia sfagumata,</l>
+<l>tu non mi ricorresti de la via.</l>
+<l>Pacienza, sta bene, io non mi curo:</l>
+<l>perch’è materia a dar del capo al muro.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>59</head>
+
+<lg type="strambotto">
+<l>Quando, Viola, treschi pe la vigna</l>
+<l>col grembiul pien di graspoli d’agresto,</l>
+<l>il sol ti sguarda e con teco soghigna:</l>
+<l>e par che voglia sproferirti il cesto.</l>
+<l>E per che tutto quel che tocchi aligna,</l>
+<l>ogni viottol da i tuoi piei calpesto,</l>
+<l>proprio col viso de la primavera,</l>
+<l>fa il lalirom e fa la lirumfera.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>60</head>
+
+<lg type="strambotto">
+<l>Non soffia tanto la biscia in la macchia</l>
+<l>quando con l’afa del caldo se cruccia,</l>
+<l>né su gli arbori il corbo così gracchia,</l>
+<l>né si sbatte in tal modo una bertuccia,</l>
+<l>né in simil forgia stride la cornacchia</l>
+<l>come fo io se dal mio sguardo muccia</l>
+<l>la mia Viola, a me fiera nemica:</l>
+<l>la qual conosco come il cul l’ortica.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>61</head>
+
+<lg type="strambotto">
+<l>Viola, le tue gote fresche e rosse</l>
+<l>non han miga besogno de sbelletto:</l>
+<l>credei l’altrier che il lampanaio fosse</l>
+<l>lo spalancato tuo galante aspetto;</l>
+<l>e tanto il cor nel guardarlo mi cosse,</l>
+<l>che so da ’lora in qua stato nel letto:</l>
+<l>e se con meco non fai parentado,</l>
+<l>a bussare il <emph><foreign lang="lat">porta inferi</foreign></emph> men vado.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>62</head>
+
+<lg type="strambotto">
+<l>Che mi manca, Viola, ch’io non sia</l>
+<l>uno ischiatton da farci su disegno:</l>
+<l>paion gli imbratti d’una iscancaria</l>
+<l>le cotante virtue c’ho ne l’ingegno;</l>
+<l>è bona bona natura la mia,</l>
+<l>e quel che importa più, ho un grande ordegno,</l>
+<l>il qual tu puoi una volta provare:</l>
+<l>ultimandola poi come ti pare.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>63</head>
+
+<lg type="strambotto">
+<l>Tu potresti, Viola, in tòr marito</l>
+<l>dare, come si ciarla, in un vintuno:</l>
+<l>perché chi è islombato e sbasito,</l>
+<l>chi forte in uggio di tutt’il comuno,</l>
+<l>altri di masseria sì mal fornito</l>
+<l>che non se ne pò trar frutto veruno;</l>
+<l>ma perché io, figliozza, so io,</l>
+<l>atàccati di grazia al caso mio.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>64</head>
+
+<lg type="strambotto">
+<l>Viola, credi pur che mentre indusgi</l>
+<l>a pigliar me per tuo caro sconsorte,</l>
+<l>che de i pignatti le schiume grattusgi</l>
+<l>e vuoi far sapa de l’aceto forte,</l>
+<l>a naso i grilli tuoi, come i segusgi,</l>
+<l>doverien cercar me: che con la morte</l>
+<l>sono per fare a i capegli di bello,</l>
+<l>se presto presto non ti dò l’anello.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>65</head>
+
+<lg type="strambotto">
+<l>Dimandami, Viola, qualche cosa,</l>
+<l>e del ben che ti voglio abbi a schiarirti:</l>
+<l>se vuoi che ti sbasciucchi a la franciosa,</l>
+<l>pensola tu se son per ubbedirti;</l>
+<l>se con la mia persona rugginosa</l>
+<l>ti venisse apetito di coprirti,</l>
+<l>or che so scioperato e mo’ che posso</l>
+<l>ti farò ischiavina del mio dosso.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>66</head>
+
+<lg type="strambotto">
+<l>Viola, io non son sindico qua fuori,</l>
+<l>che, se fussi, a la croce benedetta,</l>
+<l>ti affogarei in cento mila onori</l>
+<l>e ognun vorrei ti fesse di berretta:</l>
+<l>ma strabbilio di tutti i cacalori</l>
+<l>che non corrono qui per istaffetta</l>
+<l>cantando il credo e la smagnificatte</l>
+<l>dinanzi a te che sei di sangue e latte.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>67</head>
+
+<lg type="strambotto">
+<l>Monna Onesta da Campi sbenedico,</l>
+<l>che fea de la ciriegia duo bocconi</l>
+<l>et uno solo sol di quello amico</l>
+<l>che fin pisciando vole i testimoni;</l>
+<l>so mi afferri, se ben no ’l specifico,</l>
+<l>Viola, che se d’esser ti sponi</l>
+<l>come fu liei, ch’è fatica dapoca,</l>
+<l>io porrò dir: «gli è fatto il becco a l’oca».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>68</head>
+
+<lg type="strambotto">
+<l>Viola, la galina, ch’è galina,</l>
+<l>non si scontorce col gallo, ch’è gallo,</l>
+<l>ma covone crocchiando in giù si china</l>
+<l>perché gli salga di sopra a cavallo;</l>
+<l>et il becco, ch’è becco, si arampina</l>
+<l>su la capra, ch’è capra, e mena il ballo:</l>
+<l>io omo, che omo so, montar non posso,</l>
+<l>donna, a te, che sei donna, un tratto adosso.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>69</head>
+
+<lg type="strambotto">
+<l>Nel veder io su la mosca il moscone,</l>
+<l>con la cagnola ataccato il cagnuolo,</l>
+<l>sopra la calabrona il calabrone,</l>
+<l>suso la raniuola il ranaiuolo,</l>
+<l>in groppa a la formica il formicone,</l>
+<l>in su la rosignola il rosegnuolo,</l>
+<l>e doppo loro il grillo in su la grilla,</l>
+<l>dico, Viola, «a la tua barba, Strilla».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>70</head>
+
+<lg type="strambotto">
+<l>Viola, io pongo mente al vino e a l’acqua</l>
+<l>che mescolati diventan tutt’uno;</l>
+<l>covel covel covel non si scialacqua</l>
+<l>de la festa ch’è fatta pe ’l comuno;</l>
+<l>l’anguistarda e ’l boccale si risciacqua</l>
+<l>per far per fare: al sangue di san Pruno,</l>
+<l>che ciò che voglia dir me s’è scordato;</l>
+<l>in fine Amor<del type="ridondanza metrica" rend="subpunction">e</del> m’ha del cervel cavato.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>71</head>
+
+<lg type="strambotto">
+<l>S’io non avesse, Viola, paura</l>
+<l>e ti morisse in capo a questo mese,</l>
+<l>entrarei certo in la tua sepoltura</l>
+<l>se ben avesse duo miglia di scese;</l>
+<l>e diventato in sua manifattura</l>
+<l>un verminaccio in sì buio paese,</l>
+<l>me ti manucarebbe a fette a fette:</l>
+<l>e tal modo faria le mie vendette.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>72</head>
+
+<lg type="strambotto">
+<l>Mi è suto detto che ’l dì de l’olivo</l>
+<l>vole il prete in persona predicare;</l>
+<l>se ben non so se mi sia morto o vivo,</l>
+<l>ti sconseglio, Viola, a non ci andare,</l>
+<l>perch’<add resp="ed">&lt;e&gt;</add>gli è più d’un serpente cattivo</l>
+<l>contra di queste tue lasciami–stare:</l>
+<l>tal che, co gridi da birro e da sgherro,</l>
+<l>in bocca ti porrà di Luciferro.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>73</head>
+
+<lg type="strambotto">
+<l>Viola, ognun dà per Pasqua la mancia,</l>
+<l>e tutti l’hano da questo e da quello;</l>
+<l>e per riporci drento ogni lor ciancia,</l>
+<l>ciaschedun compra di nuovo il borscello.</l>
+<l>Se alotta ulezo la tua melarancia,</l>
+<l>darotti un drizza–crin d’osso bel bello:</l>
+<l>io non ti sproferisco anco il cotale,</l>
+<l>che non vorria che l’avesse per male.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>74</head>
+
+<lg type="strambotto">
+<l>Viola, se altri a ballare, il Carnasciale,</l>
+<l>ti sconvitasse nel dì de san Bino,</l>
+<l>fagli di ceffo e fingi di star male,</l>
+<l>né ti tòr da seder pure un micino;</l>
+<l>perch’io che arò il mio domenecale,</l>
+<l>vo’ stare a sommo d’ogni contadino:</l>
+<l>e per parere un bravo scatenato,</l>
+<l>credo venir, se non mi pento, armato.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>75</head>
+
+<lg type="strambotto">
+<l>Se tu amasse me Strilla, Viola,</l>
+<l>sì come te Viola, ama lo Strilla,</l>
+<l>come un cittino ne la cariola</l>
+<l>scorrendo andrei per tutta la villa;</l>
+<l>e chi volesse dirmi una parola,</l>
+<l>diria: «fràtelmo, apri la bocca e dilla»;</l>
+<l>ma il fatto poi de la sconchiusione</l>
+<l>ci sarebbe la pace di marcone.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>76</head>
+
+<lg type="strambotto">
+<l>Se io non ispiritasse di morire,</l>
+<l>forse, Viola, che mi amazzaria;</l>
+<l>se a capo in giù non credesse venire,</l>
+<l>crede lo Strilla che se impiccaria;</l>
+<l>se fusse certo di non mi arostire,</l>
+<l>come un matto in sul fuoco mi traria;</l>
+<l>perché rabbia ho da ver, non da moteggio:</l>
+<l>tal, che farei il diavolo e peggio.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>77</head>
+
+<lg type="strambotto">
+<l>Viola, s’io come che un bel messere</l>
+<l>rimiro te senza un deto toccarte,</l>
+<l>arsomiglio chi arnega di vedere,</l>
+<l>scusso di soldi, armesticar le carte;</l>
+<l>paio un che mangia e poi non ha che bere,</l>
+<l>ma per cavarsi la sete si sparte</l>
+<l>e canta rugumando in ver la fonte:</l>
+<l>«O peccorar, quando andarasti al monte ...».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>78</head>
+
+<lg type="strambotto">
+<l>Viola, se al tempo d’Ogni–santi</l>
+<l>ti vendessi al mercato come un’oca</l>
+<l>non pelata dirieto né davanti,</l>
+<l>ma viva e bella come una pinzoca,</l>
+<l>nel comprarti un carlino di contanti</l>
+<l>mi pareria spesa poca poca:</l>
+<l>stimaria ben men fatica intu ’l letto</l>
+<l>lo insegnarti a beccare il confetto.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>79</head>
+
+<lg type="strambotto">
+<l>Viola, il bracco del mio vavo Betto,</l>
+<l>per istar tutto il die a svagheggiare</l>
+<l>un porcello ataccato sotto al tetto,</l>
+<l>o che acecò o che s’ebbe a cecare;</l>
+<l>ma io, che sguardo sempre il tuo sconspetto,</l>
+<l>mi sento fuor del capo strabuzzare</l>
+<l>tutti a tre gli occhi, e n’ho poco dolore:</l>
+<l>perché, cieco, parrò lo dio d’Amore.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>80</head>
+
+<lg type="strambotto">
+<l>Viola, benché sì bella mi paia,</l>
+<l>et io a te scomparisca sì brutto,</l>
+<l>tu dei saper che verrà la vecchiaia,</l>
+<l>la qual di ciò che c’è sol par destrutto:</l>
+<l>tal che il tuo viso parrà il trenta–paia;</l>
+<l>et io, che abruscio per te tutto tutto,</l>
+<l>gettando via le cetere e i liuti</l>
+<l>mi ridarò de i tuoi capei canuti.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>81</head>
+
+<lg type="strambotto">
+<l>Viola, quando i ladri occhi sguaini,</l>
+<l>e ne le vigne e ne i campi e ne gli orti</l>
+<l>e le viti e le biade e i susini</l>
+<l>con lo sguardo melato disconforti,</l>
+<l>tu fai nascere i fonghi fra gli spini</l>
+<l>le arsuscitare i porri mezi morti;</l>
+<l>fai cavar fuor le corna a le lumache,</l>
+<l>e a me calar fino in su i piei le brache.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>82</head>
+
+<lg type="strambotto">
+<l>So, Viola, un colombo senza fele:</l>
+<l>e credo esser cavato de i fiadoni,</l>
+<l>che fan le pecchia, di cera e di mèle,</l>
+<l>o pur de la semenza de i popponi;</l>
+<l>so migliore che il sugo de le mele</l>
+<l>e che la pasta da far macaroni:</l>
+<l>e non sol tu, ch’io amo a più non posso,</l>
+<l>ma pòmmi ognun tagliar le legne adosso.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>83</head>
+
+<lg type="strambotto">
+<l>Dammi la posta, dammela un sol tratto:</l>
+<l>io non mi curo, di dì o di notte,</l>
+<l>verrò pe ’l tetto leggier come un gatto,</l>
+<l>mi asconderò se bisognerà in la botte:</l>
+<l>e s’altri mi ci coglie farò il matto,</l>
+<l>e così resteran le ciurme chiotte,</l>
+<l>andando via biscantando, Viola,</l>
+<l>«La vedovella quando dorme sola ...».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>84</head>
+
+<lg type="strambotto">
+<l>Viola di stopaci e di sbalasci,</l>
+<l>per il ben che ti voglio e t’ho voluto,</l>
+<l>come una bestia spasimar mi lasci</l>
+<l>e mi calpesti a modo del tuo sputo;</l>
+<l>tu getti me tra gli altri scatafasci</l>
+<l>e ti credi ch’io sia un pan perduto:</l>
+<l>so om che ho la corada, e non il core,</l>
+<l>ché a te lo diè quel bastardel d’Amore.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>85</head>
+
+<lg type="strambotto">
+<l>Viola, al tempo che ’l tuo Strilla pesca,</l>
+<l>stu fusse tenga egli ti pigliaria</l>
+<l>e in una conca piena d’acqua fresca</l>
+<l>come una gentilezza ti terria;</l>
+<l>a tutte l’ore dandoti de l’esca</l>
+<l>con teco in giù e in su si sguazzaria:</l>
+<l>in capo al fin, perché t’ha nel cor fitta,</l>
+<l>ti mangiarebbe o nel tegame o fritta.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>86</head>
+
+<lg type="strambotto">
+<l>Viola mia, io non t’ho visto uguanno</l>
+<l>tanto belloccia quanto ti veggo oggi:</l>
+<l>tale isvaghezza l’erbe e i fior non hanno</l>
+<l>che sono ne le pratora e ne i poggi;</l>
+<l>ma ogni cosa è per il mio malanno</l>
+<l>e per ch’io moia isvezzeggiando e sfoggi:</l>
+<l>e paio, nel mirarte a la reale,</l>
+<l>un che mangia una cosa che fa male.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>87</head>
+
+<lg type="strambotto">
+<l>Dìesi, Viola, aver caro l’om vivo</l>
+<l>come il porco cinghial quando ch’è morto;</l>
+<l>smentre trabatto i piè, viso giolivo,</l>
+<l>posso sei volte el dì vangarti l’orto,</l>
+<l>darti il zufolo in man, sonarti il pivo;</l>
+<l>ma stu me mandi al baldalone a torto,</l>
+<l>non porrò farte né dirte covelle:</l>
+<l>sì che, smantiemmi in fra le tue mascelle.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>88</head>
+
+<lg type="strambotto">
+<l>Viola, se il mostaccio altrui ti sguarda,</l>
+<l>mi bacara di dargli altro che frutte;</l>
+<l>e se mi salta al naso la mostarda,</l>
+<l>che io sdivento Morgante e Margutte,</l>
+<l>poi per dispetto smiro ogni scanfarda</l>
+<l>per meschia far con qualche fàllo–a–tutte:</l>
+<l>che se ben mi asaltasser tai furfanti,</l>
+<l>che diavolo saria (disse don Santi).</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>89</head>
+
+<lg type="strambotto">
+<l>Poi c’hai, Viola, l’altrui mal per fole,</l>
+<l>né ti movi a spietà de i fatti mei,</l>
+<l>chiamarò morte: e se la non mi vole,</l>
+<l>quando la vorrà me, non vorrò liei;</l>
+<l>farmi romito e rugumar parole</l>
+<l>non posso, e si potessi non vorrei:</l>
+<l>peroché stando in solitaria vita</l>
+<l>parria proprio una pecora smarita.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>90</head>
+
+<lg type="strambotto">
+<l>Viola, dolce più che la mela appia</l>
+<l>e maladetta come il cavadente,</l>
+<l>non combattei mai a’ miei dì ch’io sappia:</l>
+<l>e m’è scappato, se ’l feci, di mente;</l>
+<l>ma un nodo faria non che una cappia</l>
+<l>del basavisco scodrillo serpente:</l>
+<l>perché so sì crudele e sì feroce,</l>
+<l>che non mi fo colcandomi la croce.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>91</head>
+
+<lg type="strambotto">
+<l>Viola, oltre il mangiarmi con gli atti,</l>
+<l>di che ’l tuo core asinamente gode,</l>
+<l>sì mal ne l’altre facende mi tratti,</l>
+<l>che mi sponti a grattar du’ non mi rode.</l>
+<l>Lo stare fra noi sì come cani e gatti</l>
+<l>a ognun fa uno arabbiato prode:</l>
+<l>ratacchiamola sdunche o distronchialla</l>
+<l>dando la colpa al chi–non–fa–non–falla.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>92</head>
+
+<lg type="strambotto">
+<l>Io so’ svitato, Viola, in le nozze</l>
+<l>che fa domane Andreuol d’Andreuccio,</l>
+<l>e ci sarà in fra l’altre cittozze</l>
+<l>la bagatella di maestro Muccio;</l>
+<l>ma certo non ci andrebbon le camozze</l>
+<l>in su quel monte c’ha cera di luccio:</l>
+<l>perciò stattene pur qui oltre o in casa,</l>
+<l>che il cor da te non si scosta doi pasa.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>93</head>
+<lg type="strambotto">
+<l>Viola, quando ti grilli il cervello</l>
+<l>d’andarvi pur, verrò teco a la staffa:</l>
+<l>per ratto gir, prestarotti il poltrello;</l>
+<l>ma vorrei ch’egli fusse una sgiraffa:</l>
+<l>ché saria più orrevole e più bello</l>
+<l>il far ella trottando <emph>buffe</emph> e <emph>baffa</emph></l>
+<l>cavando i piei e ficcando intu ’l loto</l>
+<l>con la tempesta di don Taramoto.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>94</head>
+
+<lg type="strambotto">
+<l>Viola Violina Violella,</l>
+<l>non istar più teco istessa a sghignare,</l>
+<l>ma poni il pescio dentro la padella</l>
+<l>e lascial quivi a suo modo isguazzare;</l>
+<l>ch’è gran piacer quando in l’olio saltella</l>
+<l>e passa poi se ’l comenci a mangiare:</l>
+<l>perché come che altrui l’ha divorato,</l>
+<l>rimansi là come un porco sparato.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>95</head>
+
+<lg type="strambotto">
+<l>Viola, al corpo al cor di san Fraschincio,</l>
+<l>che m’hanno stucco tante bille bille;</l>
+<l>e sappi pur che quando ci comincio,</l>
+<l>che di man non mi smucciono l’anguille;</l>
+<l>se non che arosso a smentovare il pincio,</l>
+<l>una parola ti diria fra mille;</l>
+<l>ma vo’ sboccarla or, che non c’è chi vegli:</l>
+<l>le porte apro con esso e gli sportegli.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>96</head>
+
+<lg type="strambotto">
+<l>Se non ci fusse spericolo al soldo,</l>
+<l>girebbi a farmi un bravo cristianello:</l>
+<l>e toccata la paga e il caposoldo,</l>
+<l>faria d’ogni tattera fardello;</l>
+<l>ma quel tagliare a pezzi manigoldo</l>
+<l>non fa per me, Viola bocchin bello,</l>
+<l>e più ci penso, manco mi entra in capo:</l>
+<l>per ch’io lo Strilla so, e non un rapo.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>97</head>
+
+<lg type="strambotto">
+<l>Crepo di andar, perch’è migliore incetta,</l>
+<l>al giubbaleo del perdon di Sgalizia;</l>
+<l>ma questo far con teco la civetta</l>
+<l>non mi lascia del tempo aver dovizia,</l>
+<l>ben che isdulgenza santa e bendetta</l>
+<l>sarà a me, che no ’l faccio a malizia;</l>
+<l>non vo’ dir, la Viola, ch’è peccato,</l>
+<l>ma la voglia ch’i’ ho d’esserci andato.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>98</head>
+
+<lg type="strambotto">
+<l>Viola, per saltar di frasca in palo,</l>
+<l>o come direstù di palo in frasca,</l>
+<l>tutti i tuoi sdetti ariquisiti insalo,</l>
+<l>che par che ’l coricin mio se ne pasca;</l>
+<l>de la tua lengua al disciogliersi calo</l>
+<l>come che i tozzi calano in la tasca,</l>
+<l>e bèccatimi suso il ciarlar bello:</l>
+<l>da cittadin come fui già, favello.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>99</head>
+
+<lg type="strambotto">
+<l>Viola, io non daria i miei amori,</l>
+<l>ciò è quegli che mo’ con teco faccio,</l>
+<l>per una iscredenziera di trasori,</l>
+<l>né per quaranta dì di berlingaccio;</l>
+<l>i’ nel vederti, lo stuol de i dolori</l>
+<l>tutti a le forche ispennachiati caccio:</l>
+<l>et essere mi par in quel nemento</l>
+<l>un corpo che abia svoto l’argomento.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>100</head>
+
+<lg type="strambotto">
+<l>Facciam, Viola, un patto fra noi due,</l>
+<l>e ’l mio cor sarà il tuo, e ’l tuo il mio:</l>
+<l>quando strabocco in la stizza del bue,</l>
+<l>come ranocchia tùffati nel rio;</l>
+<l>se poi tu scappi in l’ira de la grue,</l>
+<l>qual talpa in terra tuffarommi anch’io:</l>
+<l>e così, senza cica di malizia,</l>
+<l>trasdurerà la nostra nimicizia.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>101</head>
+
+<lg type="strambotto">
+<l>Viola, io ti vorria montare in groppa</l>
+<l>quando tu meni la poltruccia a bere,</l>
+<l>e pormi sotto un piumaciuol di stoppa:</l>
+<l>ché, sanza, spirtarebbi di cadere;</l>
+<l>perché quel suo bistrottar di sgaloppa</l>
+<l>di guadardeschi empiriame il sedere:</l>
+<l>e con tai morbi avendomel trafitto,</l>
+<l>bisognaria ch’io manucasse ritto.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>102</head>
+
+<lg type="strambotto">
+<l>Questa ciocca di fiori secchi afatto</l>
+<l>che mi vedi, Viola, in la berretta,</l>
+<l>son quegli che ti caddero in quel tratto</l>
+<l>che facesti a la Ciencia la gambetta;</l>
+<l>io, che gli arcolsi subito e di fatto,</l>
+<l>gli tengo da requiglia benedetta:</l>
+<l>perché gli ho visti con molto sdiletto</l>
+<l>in el santificetro del tuo petto.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>103</head>
+
+<lg type="strambotto">
+<l>Ei s’ha, Viola, una volta a morire:</l>
+<l>o vaccio o presto, chi lo sa te ’l dica;</l>
+<l>ognuno al canto de lo <emph>sdies ire</emph></l>
+<l>girà sotterra come la formica;</l>
+<l>però andiamo un sonnetto a dormire,</l>
+<l>et abraccianci d’amico e d’amica:</l>
+<l>ché, per quanto dal sere nostro s’ode,</l>
+<l>questo mondaccio è sol di chi se ’l gode.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>104</head>
+
+<lg type="strambotto">
+<l>L’altrieri un ciarlatan, Viola mia,</l>
+<l>con boce che il fistolo se ’l porta,</l>
+<l>sfilostrocava con longa ciarlìa</l>
+<l>quella dal «nido fatto, è gazza morta»,</l>
+<l>sferir volendo ch’è matta pazzia</l>
+<l>ad ategnere l’acqua con la sporta:</l>
+<l>e sol colui sale in cima al melo,</l>
+<l>che mor sul buco come il ranatelo.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>105</head>
+
+<lg type="strambotto">
+<l>Ponti, Viola, un po’ la mente al petto,</l>
+<l>e scomencia con teco a strapensare</l>
+<l>al poverino Strilla poveretto</l>
+<l>che non sa che si dir né che si fare,</l>
+<l>e pur con tutto il suo cor netto e schietto</l>
+<l>àmati come il compar la comare:</l>
+<l>e spensato che ci hai ben ben, ben bene,</l>
+<l>smognegli l’onto che scarca le rene.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>106</head>
+
+<lg type="strambotto">
+<l>Io so, Viola, molto mal trattato</l>
+<l>dal dir sempre «non voglio»; madisìe,</l>
+<l>so come una lanterna sconsumato</l>
+<l>e paio quel che incappa in le malie:</l>
+<l>sì, che il tuo impiastro àbimi abassato</l>
+<l>la carne che mi cresce tutto die;</l>
+<l>e se dal confessor n’hai penitenza,</l>
+<l>mettalo a conto a la mia scons<add resp="ed">&lt;c&gt;</add>ienza.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>107</head>
+
+<lg type="strambotto">
+<l>Ogni cosa, Viola, esser porrebbe:</l>
+<l>ma che tu non isbalzi a casa calda,</l>
+<l>un gran gran gran smiracolo parrebbe</l>
+<l>a me che so straforamato in cialda;</l>
+<l>ma stu ci vai, che sarrà, che sarebbe?</l>
+<l>pàrti che merti ciò una magalda</l>
+<l>crudele più che la vespa da l’ago,</l>
+<l>ghiacciata e cupa come acqua di lago?</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>108</head>
+
+<lg type="strambotto">
+<l>In tanta disperaggine cascato</l>
+<l>io Strilla so, che non mi smaraveglio,</l>
+<l>se ci assaggio mai più del pan casciato,</l>
+<l>non vo’ dire di segola o di meglio.</l>
+<l>Ma se, Viola, in van t’ho smentovato,</l>
+<l>che tu me lo perdoni ti sconseglio:</l>
+<l>perché chi ha la smorosa quartana,</l>
+<l>se non arnega, è una bona lana.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>109</head>
+
+<lg type="strambotto">
+<l>L’altrier, Viola, a citae fui menato</l>
+<l>per acordar col Gello la sconcordia:</l>
+<l>concia la trama, io e ’l Lasca iffatato</l>
+<l>gimmo a le donne di misericordia;</l>
+<l>e perché ognun di noi era afamato,</l>
+<l>ci demmo suso di santa concordia;</l>
+<l>e sputata la bava del cervello:</l>
+<l>non che i quattrin, non ci armase il borsciello.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>110</head>
+
+<lg type="strambotto">
+<l>S’io so, Viola, isbrocato inonesto,</l>
+<l>e ti dispiace ch’io facci e ch’io dica,</l>
+<l>ripara tu con l’amutirmi a questo,</l>
+<l>poi che il pòi far con sì poca fatica;</l>
+<l>e per ben ch’io non ti paia un bel cesto,</l>
+<l>non rifiuta alcun seme la formica,</l>
+<l>né veruno la terra acin di grano:</l>
+<l>che il tutto sta ne l’aver buono in mano.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>111</head>
+
+<lg type="strambotto">
+<l>Viola, quando sotto un bel cantare</l>
+<l>ti veggo far con l’altre il ballo tondo</l>
+<l>e insieme tutte quante salticchiare,</l>
+<l>io ne spicco un piacer da l’altro mondo</l>
+<l>e ’n cotal ponto mi par di mangiare</l>
+<l>la matina di Pasqua un uovo mondo:</l>
+<l>or pensolo mo’ tu ciò che faria</l>
+<l>se trescasse con te come vorria.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>112</head>
+
+<lg type="strambotto">
+<l>Se mi moio, Viola, isdisamando,</l>
+<l>fammi disepellire intero intero,</l>
+<l>acciò sieno i miei ossi al tuo comando,</l>
+<l>i quali t’han voluto ben davero;</l>
+<l>e fa che ’l prete vada iscrivacchiando</l>
+<l>lettra che dica in sul mio cimatero:</l>
+<l>«A chinche passa, se ben fusse il frabbo,</l>
+<l>qui ghiace Strilla, figliuol del suo babbo».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>113</head>
+
+<lg type="strambotto">
+<l>Sto in fantasia, caso che sbasisca,</l>
+<l>che il mio spirto t’entri intu la gola</l>
+<l>a ciò che, se ci fusse qualche lisca</l>
+<l>che sciòr non ti lasciasse la parola,</l>
+<l>come che un pozzo te la isermonisca;</l>
+<l>di poi vo’ che sia schiavo a la Viola,</l>
+<l>e cocergli le fave e le cicerchia:</l>
+<l>et a la botte sua metta le cerchia.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>114</head>
+
+<lg type="strambotto">
+<l>Viola, io so cavare il pedicello</l>
+<l>con la ponta de l’ago e de lo spillo,</l>
+<l>e del panico so dar a l’ucello;</l>
+<l>destro pigliar so la farfalla e ’l grillo,</l>
+<l>so stender là col grattar il porcello,</l>
+<l>e so de la castagna il riccio aprillo;</l>
+<l>so tutto dì far cantar la cicala:</l>
+<l>nel cul gli tocco, nel corpo, ne l’ala.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>115</head>
+
+<lg type="strambotto">
+<l>Viola, poi che c’è quello agromante</l>
+<l>che constregne il diavol tentennino</l>
+<l>ne i pignattegli du’ piscian le fante</l>
+<l>che non cacorno mai verun pulcino,</l>
+<l>da lui vo’ gir con la mano ispesante</l>
+<l>d’uno agnello né grande né piccino:</l>
+<l>a ciò ti faccia, col canto isconfuso,</l>
+<l>correre a me come la matta al fuso.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>116</head>
+
+<lg type="strambotto">
+<l>Viola, la tregenda e la versiera,</l>
+<l>e se non basta il marmotta e ’l seicento,</l>
+<l>so per trovare al mercato, a la fiera,</l>
+<l>dandogli in dono il saltambarco e ’l cento;</l>
+<l>forse mi aviarò domandasera</l>
+<l>vèr la noce colà di Sbenevento:</l>
+<l>perché a te le sue streghe e i suoi stregoni</l>
+<l>d’amor faccin venir gli stranguglioni.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>117</head>
+
+<lg type="strambotto">
+<l>Perché, Viola, perché non ti spacci</l>
+<l>aver paura di tante malie</l>
+<l>che farannoti far di quei visacci</l>
+<l>c’hanno le febbri de le malattie?</l>
+<l>S’un branco meno a te di spirittacci</l>
+<l>con le fantasme e lor diavolarie,</l>
+<l>ti metterò in sì fatto scompeglio</l>
+<l>che il pan di grano ti parrà di meglio.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>118</head>
+
+<lg type="strambotto">
+<l>Io mi giambo, Viola, io mi moteggio,</l>
+<l>e con te scherzo e con te mi gavazzo,</l>
+<l>o mia ruta, o mia persa, mio poleggio,</l>
+<l>io tuo tappeto e tuo panno da razzo;</l>
+<l>per non trafar quel che t’ho detto e peggio,</l>
+<l>tutta la stizza nel cervello spazzo:</l>
+<l>e l’ho sì car, mio balocio e mia briscia,</l>
+<l>che il culo non tocca la camiscia.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>119</head>
+
+<lg type="strambotto">
+<l>Viola, eccoti a noi la sprimavera:</l>
+<l>in lo spontar la veggo da i bocciuoli;</l>
+<l>gli àlbori tutti hanno una bona cera</l>
+<l>e non è siepe che non s’inviuoli:</l>
+<l>tal che de rose più d’una paniera</l>
+<l>e più di dieci o dodeci querciuoli</l>
+<l>ho apostato a mio disavantaggio</l>
+<l>per biscantarti il bene–venga–maggio.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>120</head>
+
+<lg type="strambotto">
+<l>Cimici e pulci in la paglia del letto</l>
+<l>tante di state non ha il contadino,</l>
+<l>né lendeni e pidocchi un poveretto</l>
+<l>drento a le calze e ’ntorno al colarino,</l>
+<l>né tanti storci–colli un maladetto</l>
+<l>incanta–nebbia atropico schittino,</l>
+<l>quanti ho per te, Viola, ispara–cori;</l>
+<l>tal ch’ogni or dico: «cancaro a gli amori».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>121</head>
+
+<lg type="strambotto">
+<l>In el cantar tutti tutti gli ucegli,</l>
+<l>rosignuoli, calandre e lucarini</l>
+<l>e calanzuoli e pincioni e fanegli,</l>
+<l>rondini, capineri e cardarini,</l>
+<l>lodole – e ’n fino a quei fastidiosegli</l>
+<l>dispettosi e sgraziati raparini –,</l>
+<l>solo, Viola, per portarti amore</l>
+<l>piagne lo Strilla come un traditore.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>122</head>
+
+<lg type="strambotto">
+<l>Viola, in fine vo’ gire a trovare</l>
+<l>quel misser agromante che t’ho detto:</l>
+<l>che a questo modo mi pare e strapare</l>
+<l>d’aver tutto me stesso in un sacchetto;</l>
+<l>vo’ che mi faccia ronzin diventare</l>
+<l>e te poledra là posta in asetto:</l>
+<l>che tolta via la vergogna da i piei,</l>
+<l>faremo insieme i fatti tuoi e i miei.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>123</head>
+
+<lg type="strambotto">
+<l>Quando veggo, Viola, il passarotto</l>
+<l>che si dimena, saltella e rencricca,</l>
+<l>e poi si caccia la passara sotto</l>
+<l>e nove e dieci volte gliene apicca,</l>
+<l>io che armango né crudo né cotto,</l>
+<l>paio un catino isciapito di micca,</l>
+<l>someglio un vespronaccio co l’arzilla:</l>
+<l>perché a tal giuoco non pò far lo Strilla.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>124</head>
+
+<lg type="strambotto">
+<l>Ci son, Viola, de l’altre schiattone</l>
+<l>c’hanno fra lor de i disamanti in chiocca:</l>
+<l>ecco la Lina sta mal di Giannone,</l>
+<l>ecco la Sandra vòl bene a lo Scrocca,</l>
+<l>la Pasqua tien per suo sdamo il Volpone,</l>
+<l>la Cecca crepa per amor del Fiocca;</l>
+<l>sol tu, che sei falisea pagana,</l>
+<l>vorresti ch’io vivesse una stomana.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>125</head>
+
+<lg type="strambotto">
+<l>Se dir sapesse, Viola, in pro’ faccia,</l>
+<l>come non so cantare a l’isprovisa,</l>
+<l>in mano aver mi parebbe una staccia</l>
+<l>e in bocca un grappol d’uva paradisa,</l>
+<l>in fra le gambe una matassa d’accia;</l>
+<l>scoppiare<add resp="ed">&lt;bbe&gt;</add> uno in gli occhi de la risa,</l>
+<l>perché a me drieto tiraria i tuoi passi</l>
+<l>come a sé inanzi Orfeo tirava i sassi.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>126</head>
+
+<lg type="strambotto">
+<l>Poi che in fino a gli uccei mandano il bando</l>
+<l>come a Svinegia un misser Istuziano</l>
+<l>in doi colpetti del suo pentacchiando</l>
+<l>vivo vivo ognun fa d’impropria mano,</l>
+<l>perch’io ti possa aver a mio comando</l>
+<l>vo’ spender cinque o sei staia di grano</l>
+<l>acciò che mi ratria la tua cotale</l>
+<l>secondo il gusto del mio naturale.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>127</head>
+
+<lg type="strambotto">
+<l>S’io fusse Re (che mo’ Dio me ne guardi),</l>
+<l>o se pur sdiventasse Imperadore,</l>
+<l>ti faria comparare un de i miei sguardi</l>
+<l>(mi farai dir) la metà del tuo core;</l>
+<l>e nel ficcarti questi occhi gagliardi</l>
+<l>drento a i budelli e ’n mezo al paracore,</l>
+<l>andresti, ponta da cotal vespaio,</l>
+<l>in frega come gatta di gennaio.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>128</head>
+
+<lg type="strambotto">
+<l>Viola, mo’ c’ho sì poca facenda,</l>
+<l>dovreste sconvitarmi a disinare;</l>
+<l>verria, se ti piacesse, anco a merenda:</l>
+<l>c’omo so che mi lascio sconsegliare;</l>
+<l>se Iddio ti dia le bone calenda,</l>
+<l>comencia suso il desco aparecchiare</l>
+<l>e dì: «Strilla, vien via, vientene presto,</l>
+<l>poi stà tre anni a delebrar del resto».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>129</head>
+
+<lg type="strambotto">
+<l>«Se non intendo ciòcche gracchi e dichi»,</l>
+<l>mi dicesse Viola con mal grugno,</l>
+<l>rispondaria senza ciancie d’intrichi:</l>
+<l>«A te che sai che marzo non è giugno,</l>
+<l>solo una scorpacciata de i tuoi fichi</l>
+<l>cerco, che un dì tu me metta nel pugno;</l>
+<l>ma per troncarla e chiarirla in un tratto</l>
+<l>lo Strilla tuo ti vorria far quel fatto».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>130</head>
+
+<lg type="strambotto">
+<l>S’acordon le ribeche discordate</l>
+<l>e co i soldati, che aloggia, il comune;</l>
+<l>le campane anco con chi l’ha tirate,</l>
+<l>e con le man che le colgon, le gume;</l>
+<l>il simile le gionte e le derrate,</l>
+<l>e con la fiamba del suo luoco, il fume;</l>
+<l>con i lor gioghi, o mia Viola, i buoi:</l>
+<l>e noi stentiamo acordarci fra noi.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>131</head>
+
+<lg type="strambotto">
+<l>Viola, a questi dì ne la citae,</l>
+<l>quello sculpor che si chiama il Pelucca,</l>
+<l>valente in tutte le cose ch’ei fae,</l>
+<l>mi diede con le nocche in su la nucca,</l>
+<l>con dir: «lo Strilla pur si morirae</l>
+<l>col seme in corpo come mor le zucca»;</l>
+<l>io trassi alotta un sospiro tamanto</l>
+<l>ch’abusciato t’arìa, sendomi a canto.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>132</head>
+
+<lg type="strambotto">
+<l>Viola, ei non s’è pure isbucinato</l>
+<l>che tu ti appicchi per moglie con Gnagni,</l>
+<l>ma il sindigo l’ha spalificato</l>
+<l>co i garretti de i piei e co i calcagni;</l>
+<l>che se ’l credessi, a core invelenato</l>
+<l>i’ svolarebbi in questo ponto a i bagni,</l>
+<l>e là d’un tale spasimo guarria:</l>
+<l>guarito poi, qualcosa saria.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>133</head>
+
+<lg type="strambotto">
+<l>Viola, in quel che m’hai sul pianger messo</l>
+<l>a la dirotta da vero asinone,</l>
+<l>paio in l’acqua bollente un capon lesso,</l>
+<l>e drento del paiuolo un macarone;</l>
+<l>paio una carbonata in un pan fesso,</l>
+<l>se poi mi fai brusciar come un tizzone:</l>
+<l>e tu pari trattandomi in tal modo</l>
+<l>lo struzzol che manuca e caca il chiodo.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>134</head>
+
+<lg type="strambotto">
+<l>Farò meglio, Viola, a starmi queto</l>
+<l>almanco mo’ ch’io sono in bizzaria:</l>
+<l>e per che fassi del vin dolce aceto</l>
+<l>e de i piei del porcel la geladia,</l>
+<l>e cocansi i piselli con l’aneto,</l>
+<l>e s’imbriaca con la malvasgia,</l>
+<l>dir voglio a te, senza far niun motto,</l>
+<l>le mie ragion con la bocca di sotto.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>135</head>
+
+<lg type="strambotto">
+<l>Viola cara, il mio sguardo bestiuolo</l>
+<l>non vede fusto come che il tuo bello;</l>
+<l>chi ’l ceffo ha rincagnato di fasgiuolo,</l>
+<l>chi ’l naso bucarato col succhiello,</l>
+<l>chi ’l capo grosso a usanza d’orciuolo,</l>
+<l>altra la bocca che sona a martello:</l>
+<l>sola tu pari la stella Adriana</l>
+<l>e la Smarfisa e la fata Margana.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>136</head>
+
+<lg type="strambotto">
+<l>Come a l’arcolta del pane e del vino</l>
+<l>ridotto arò di soldi in centenaia,</l>
+<l>darogli tutti a quello Insansavino</l>
+<l>del qual trombeggia fino a la mia aia,</l>
+<l>accioché mi frastagli il tuo bocchino</l>
+<l>col viso bel, che la Viola paia:</l>
+<l>per poi averti scavata e depenta</l>
+<l>al disonor de chi papa sdoventa.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>137</head>
+
+<lg type="strambotto">
+<l>Viola bella più che la fiorancia</l>
+<l>e più resplendiente che un faloe,</l>
+<l>le tue bellezze vennero di Francia;</l>
+<l>come che Giuda che si strangoloe,</l>
+<l>per la crudelità che mi sbilancia,</l>
+<l>colpa sarai che mi disperaroe:</l>
+<l>e s’io, che non so far caviglie storte,</l>
+<l>non dico il ver, che mi venga la morte.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>138</head>
+
+<lg type="strambotto">
+<l>Penso, Viola, isparlare a quel Biasgio</l>
+<l>che il fatto ritrovoe de i patranostri;</l>
+<l>e s’egli non è gito a far suo asgio,</l>
+<l>voglio che quei da l’amico mi mostri,</l>
+<l>i quali compraro poi a bell’asgio;</l>
+<l>intanto pensiam pure a i chiassi nostri,</l>
+<l>che non ti mancaran de l’altre cose:</l>
+<l>da maritate, da smanze e da spose.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>139</head>
+
+<lg type="strambotto">
+<l>Giocai, Viola, un dì fa a la morra</l>
+<l>con quel murlon di Togno Pastronaca;</l>
+<l>vensi, doppo di lui, Canecchio Sorra,</l>
+<l>non lasciando un pistacchio a Toccio Braca;</l>
+<l>spulai, presso costor, Malocchio Borra</l>
+<l>e fei del resto a Lombrico Sconcaca:</l>
+<l>tal che a la mano mi artrovo un tresoro,</l>
+<l>e sono al tuo piacer, visin mio d’oro.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>140</head>
+
+<lg type="strambotto">
+<l>S’al mercato, Viola, de la spina</l>
+<l>ascontro insieme ogni tuo gavinello,</l>
+<l>al Gamba, al Tento, a lo Smacchia, a lo Sbrina</l>
+<l>farò veder che lo Strilla ha cervello;</l>
+<l>se il Ghianda viene a mettersi in dozina</l>
+<l>o qualcun altro tuo donno novello,</l>
+<l>il capo lavarogli senza ranno:</l>
+<l>e chi ne va con la peggior, suo danno.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>141</head>
+
+<lg type="strambotto">
+<l>Fin dove stassi colui da Furlino,</l>
+<l>che stampa ben così, voglio trovare:</l>
+<l>quel, dico, bon compagno Marcolino,</l>
+<l>che tutto dì si sente ismentovare;</l>
+<l>e se dovesse isborsare un fiorino,</l>
+<l>sdelibro ch’egli mi faccia stampare</l>
+<l>con la disgrazia de lo sprivilegio:</l>
+<l>acciò Viola mi tenghi om di fregio.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>142</head>
+
+<lg type="strambotto">
+<l>Esser vorria, in quanto al mio parere,</l>
+<l>quella brancata d’erba nepitella</l>
+<l>con che ti netti, Viola, il sedere</l>
+<l>quando tu becchi de la mercorella:</l>
+<l>darmi bisognarebbe del «missere»</l>
+<l>se per sorte del caso mi fussi ella;</l>
+<l>stu mi mangiasse oltra questo in savore,</l>
+<l>ben dir potresti: «egli m’ha tocco il core».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>143</head>
+
+<lg type="strambotto">
+<l>Sempre s’io mi levo o s’io mi colco</l>
+<l>prego forte misser Domenedio,</l>
+<l>non che mi faccia gir ritto col solco,</l>
+<l>né i piei tuffar giù ne l’acqua del rio,</l>
+<l>né che il tempo da neve artorni dolco,</l>
+<l>né che da i sassi scampi il capo mio:</l>
+<l>ma «sguardami», gli dico a ogni parola,</l>
+<l>«da la stizzetta de la mia Viola».</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>144</head>
+
+<lg type="strambotto">
+<l>Viola, lasciàn gir tante parole:</l>
+<l>se tu vuoi ch’io te ’l faccia, io ti faroe</l>
+<l>quel mazzo di slavanda e di viole</l>
+<l>che possier disse la Beca di Coe;</l>
+<l>ma per uscirti di frasche e di fole,</l>
+<l>per tuo amore il basto portaroe</l>
+<l>e sopra lui le ceste e le barelle:</l>
+<l>chiede pur via se manca più covelle.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>145</head>
+
+<lg type="strambotto">
+<l>Viola, io staria teco a cicalare</l>
+<l>verbi grazia de gli anni mille cento:</l>
+<l>ma io mi sento di fame arabbiare,</l>
+<l>e pe ’l sonno apro gli occhi a malo stento,</l>
+<l>e la busica mi è forza scarcare</l>
+<l>e far dirieto un ciantelin di vento;</l>
+<l>ma certo, a fe’, che tornarò domane:</l>
+<l>in tanto ispazza la casa e fà il pane.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>146</head>
+
+<lg type="strambotto">
+<l>Io anfano, Viola, e s’io dovesse</l>
+<l>far qui i miei fatti, non mi vo’ partire;</l>
+<l>non me ne partirò se ben credesse</l>
+<l>e pe la fame e pe ’l sonno morire;</l>
+<l>se ’l popol di Straello in torno avesse,</l>
+<l>non saria atto a farmene fuggire:</l>
+<l>e se, mi ti spalanchi o tanto o quanto,</l>
+<l>io ci starò fino al sabato santo.</l>
+</lg>
+
+</div1><div1 type="poesia">
+<head>147</head>
+
+<lg type="strambotto">
+<l>Con il raspar col qual lascia le poccie</l>
+<l>il porcellin, de la sua mate troia,</l>
+<l>con rugnir che dal loto de le troccie</l>
+<l>si stacca il verro che ha le mosche a noia,</l>
+<l>con quel cò cò che borbotton le chioccie</l>
+<l>quando che il nibbio i lor pulcini ingoia,</l>
+<l>mi spartisco da te, rosa Viola,</l>
+<l>che morrai di paura a restar sola.</l>
+</lg>
+<p>Il fine</p>
+</div1>
+
+</body>
+</text>
+</TEI.2>

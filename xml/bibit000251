@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Stanze in lode di Angela Serena</title>
+      <author>Pietro Aretino</author>
+    </titleStmt>
+    <extent>34 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000251</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Edizione nazionale delle opere di Pietro Aretino</title>
+        <title type="part">Poesie varie</title>
+        <author>Aretino, Pietro</author>
+        <editor id="ed">Aquilecchia, Giovanni</editor>
+        <editor id="ed2">Romano, Angelo</editor>
+        <publisher>Salerno editrice</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>stampa 1992-</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>500</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>851.3 - POESIA ITALIANA, 1492-1542</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT-Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-07-17T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Alessia Scacchi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-07-21T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<text>
+
+<front>
+<div1>
+<p>STANZE DI MESS<add resp="ed">E</add>R PIETRO ARETINO IN LODE
+DI MADONNA ANGELA SERENA
+</p>
+
+<div2 type="dedica">
+<head>AL SIGNORE SPERONE <emph rend="sc">reputazione della nobiltà padovana e delizie de la gloria de le muse</emph></head>
+<p>Al signore Sperone reputazione della nobiltà padovana
+e delizie de la gloria de le Muse. Per sapere non pur io,
+ma qualunque si sia, che voi sète mente de l'animo di
+messer Pietro e che egli è spirito de lo affetto
+del vostro core, èmmi paruto de indirizzarvi le <emph>Stanze de
+la Serena</emph>, poste dietro a quelle <emph>de la Viola</emph>: imperoché è
+impossibile a credere che d'un medesimo ingegno escano ora
+per ora cotante stranezze di materie. Gran pratica de
+l'azzioni del mondo, e gran natura in conoscere i moti de
+gli animi d'ogni sorte di gente, dimostra egli nel <emph>Dialogo
+de le Carte</emph> e in quello <emph>de le Corti</emph>; Tiziano pittore illustre
+non rapresenta sì bene il vero col pennello, come fa esso
+gli andari de le meritrici in <emph>l'Antonia</emph> e in <emph>la Nanna</emph>, e in <emph>la Nanna</emph> e in <emph>la Pippa</emph>; è fatica di aggiugnere a l'eccelenza del <emph>Primo</emph> e del <emph>Secondo volume de le</emph> sue <emph>lettere</emph>; e dicendo
+il Mendozza don Diego, singulare in ciascuno studio di
+scienza, che in le comedie avanza quanti ne composero mai,
+posso anch'io dire che il <emph>Marescalco</emph>, la <emph>Cortegiana</emph>, la
+<emph>Talanta</emph> e l'<emph>Ipocrito</emph> sono divine e ne l'arguzie e ne gli
+amaestramenti: e quando io giurassi che il decoro del decoro
+è nato seco, non me ne ingannarei punto. Ecco il <emph>Capitolo del
+Re</emph>, <emph>del Duca di Fiorenza</emph>, <emph>del Principe di Salerno</emph>, e <emph>de l'Albicante</emph>, eccogli al parangone di quelli così freddi e
+così debeli del Berna e del Mauro: è un peccato che
+l'Aretino, fedele censore de l'opre istesse, abbia stracciato
+tre mila stanze di <emph>Marfisa</emph> e de <emph>le lacrime d'Angelica</emph>. Ma che
+direm noi de la grave et eroica altezza di ciò che ha scritto
+in lode di Francescomaria anima de la milizia, e in gloria di
+Carlo Cesare terrore de i terribili? Tremendo è il suo stile
+in le composizioni satiriche; de la religione, del candore
+e de la simplicitade con che si debbono esprimere le cose di
+Dio, ne fanno testimonianza i <emph>Salmi</emph>, il <emph>Genesi</emph>, l'<emph>Umanità di
+Cristo</emph>, la <emph>Vita di Maria Vergine</emph>, l'istoria di <emph>Santa Caterina</emph>
+e la leggenda di <emph>Tomaso d'Aquino</emph>. Certo che in ogni sua opera
+si vede il disegno di quelle del grandissimo Michelagnolo;
+e se nulla mancava circa la varietà de le prose e de i versi,
+la rozzezza de la lingua villana ce lo suplisce. Sì che
+leggale Vostra Signoria, come per miracolo mesurando dal suo
+profondo l'altitudine di queste de la Serena, ch'io vi dedico
+per nuovo onore del mio diletto compare.</p>
+<p>Di Venezia a li XX di aprile MDXLIIII.</p>
+<salute>Servitore Francesco Marcolini</salute>
+</div2>
+</div1>
+</front>
+
+<body>
+<div1 type="poesia">
+<lg type="stanza">
+<head>1</head>
+<lg type="versi">
+<l>Aure, o aure, che vi raggirate</l>
+<l>per questo disvelato ciel sereno,</l>
+<l>e 'l puro del nostro aere temprate</l>
+<l>con spirar dolce di salute pieno;</l>
+<l>aure, che tra le frondi mormorate</l>
+<l>spargendo i sonni a le fresche ombre in seno,</l>
+<l>non vaneggin più i fiati che traete,</l>
+<l>se altere maraviglie udir volete.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>2</head>
+<lg type="versi">
+<l>Eco, ombra invisibile che vivi</l>
+<l>e deserta e selvaggia, e quel che senti</l>
+<l>con penna occulta dentro al senso scrivi,</l>
+<l>poscia nel proprio suon ridirlo tenti</l>
+<l>acciò nulla sen perda e perché schivi</l>
+<l>noia a chi parla: i nuovi uditi accenti</l>
+<l>non replicar, ma taci e queta ascolta;</l>
+<l>se 'l Ciel ti renda la tua forma tolta.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>3</head>
+<lg type="versi">
+<l>Fere, augelli e pesci, il cantar noto</l>
+<l>che squilla già per le marine sponde,</l>
+<l>non impedite a voi stessi col moto;</l>
+<l>ma in queste rive, in quest'aria, in quest'onde</l>
+<l>quetate insieme il corso, il volo e 'l noto:</l>
+<l>ché stando attenti a le lode profonde,</l>
+<l>la loro incomprensibile armonia</l>
+<l>spirito di ragion dar vi potria.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>4</head>
+<lg type="versi">
+<l>E voi squamosi Dei che Adria guardate,</l>
+<l>Adria di palme più che d'alga piena,</l>
+<l>i balli, i carri e le conche arrestate</l>
+<l>con la pompa che il mare in giro mena;</l>
+<l>e i sacri capi fuor de l'acque alzate</l>
+<l>et a gli onor de la fatal SIRENA</l>
+<l>date udienza sì che i salsi orgogli</l>
+<l>non ardischin ferir liti né scogli.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>5</head>
+<lg type="versi">
+<l>Ne le superbe e fortunate arene</l>
+<l>nel cui cerchio si sta quel Paradiso</l>
+<l>che il LEON sacrosanto alza e sostene</l>
+<l>di pace empiendo ovunque volge il viso,</l>
+<l>il toscano Pastor che il vero tène</l>
+<l>sculto nel fronte, sopra un tronco assiso</l>
+<l>gli occhi al ciel volti, a la sua Dea il pensiero</l>
+<l>così a dir move in suon piano et altero:</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>6</head>
+<lg type="versi">
+<l>– Gloriose, soprane, amiche Stelle</l>
+<l>che infondete in altrui senno e valore,</l>
+<l>o lucerne del ciel viventi e belle</l>
+<l>di colui che vi accese eterno onore!</l>
+<l>gioite ne' vostri ordini: ché quelle</l>
+<l>piovute grazie col divin favore</l>
+<l>ne la SIRENA angelica son tali</l>
+<l>che vi fanno conoscer da i mortali.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>7</head>
+<lg type="versi">
+<l>Se quel d'onore pellegrin desio</l>
+<l>non nascea in voi quando subietto degno</l>
+<l>larghe faceste per lo don di Dio</l>
+<l>del poter vostro il suo più caro pegno,</l>
+<l>onde la universal credenza uscìo</l>
+<l>del valor d'ogni cielo e d'ogni segno,</l>
+<l>giamai non si sarien, lumi cortesi,</l>
+<l>di vostre alme virtù gli effetti intesi.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>8</head>
+<lg type="versi">
+<l>Ecco ella gira i felici occhi, e dove</l>
+<l>gli affige o leva, ivi s'arresta e parte</l>
+<l>quel foco d'or che dolcemente move</l>
+<l>da i vostri aspetti e in l'aria si comparte:</l>
+<l>di tai faville graziose e nove</l>
+<l>ne forma il fato con mirabil arte</l>
+<l>un folgorante e bel diadema a lei,</l>
+<l>acciò cosa ne sembri de gli Dei.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>9</head>
+<lg type="versi">
+<l>Chi scorger vole in sommo seggio eterno</l>
+<l>duo di voi salde in chiara parte sole,</l>
+<l>anzi la coppia che la state e il verno</l>
+<l>non lascia il dì fin che no 'l cresce il Sole,</l>
+<l>e quelle ancor che il lor tesoro interno</l>
+<l>sparsero in lei con influenze sole,</l>
+<l>o d'altre pur gli aventurosi giri,</l>
+<l>fisse et erranti le sue luci miri.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>10</head>
+<lg type="versi">
+<l>Il fronte suo pacifico e sicuro,</l>
+<l>di celeste onestade aureo soggiorno,</l>
+<l>vien da lo spazio risplendente e puro</l>
+<l>che il propio lume a voi scopre d'intorno.</l>
+<l>Il vigor di tal luce che l'oscuro</l>
+<l>sgombra dal ciel, poi il fa di lampi adorno,</l>
+<l>è la vista con cui la SIRENA alma</l>
+<l>ne i nubilosi petti alluma ogni alma.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>11</head>
+<lg type="versi">
+<l>Da i crin di fiamma lucida e sottile,</l>
+<l>che talor dietro vi spargete ardendo,</l>
+<l>prendono qualità più che gentile</l>
+<l>le chiome sue che van l'arte schernendo.</l>
+<l>Da loro il santo Amor trae quel monile</l>
+<l>con cui l'anime caste vien cingendo:</l>
+<l>e perché in sé ha del divin valore,</l>
+<l>mai scioglier non si può se ben si more.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>12</head>
+<lg type="versi">
+<l>Il lieto, il dolce, il vago, il rilucente</l>
+<l>che nel vostro apparir lampeggia in voi,</l>
+<l>è la bell'aria soave e ridente</l>
+<l>del viso suo, terreno Cielo a noi,</l>
+<l>ne lo specchio del qual ponendo mente</l>
+<l>vede ciascun pianeta i pregi suoi:</l>
+<l>come anco in lui scorgon le luci nostre</l>
+<l>e l'eccellenze e le sembianze vostre.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>13</head>
+<lg type="versi">
+<l>Mentre non copre voi benda né velo,</l>
+<l>il buon destin, che d'adornarla ha cura,</l>
+<l>ardendo tutto d'ineffabil zelo</l>
+<l>quella viva allegrezza alma vi fura</l>
+<l>con che fate gioir la Luna e 'l Cielo;</l>
+<l>e 'l bel dolce di lei riso figura:</l>
+<l>in qual ne porge, dove i raggi invia,</l>
+<l>de la vostra superna cortesia.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>14</head>
+<lg type="versi">
+<l>Da le candide ruote luminose,</l>
+<l>che per voler di Dio con le man dotte</l>
+<l>la providenza di Natura pose</l>
+<l>al bel carro stellato de la notte,</l>
+<l>tolgon lo essempio quelle preziose</l>
+<l>e terse perle in duo cerchi ridotte,</l>
+<l>ch'ella in ordine ugual ne la bocca have:</l>
+<l>da cui l'aura vital spira soave.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>15</head>
+<lg type="versi">
+<l>Stelle, vostra mercé l'eccelse sfere</l>
+<l>dette del ciel Sirene hanno concesso</l>
+<l>a lei non solo in belle note altere,</l>
+<l>come titol gradito, il nome istesso,</l>
+<l>ma de le lor perfette armonie vere</l>
+<l>con suprema dolcezza il suono impresso</l>
+<l>ne le sue chiare e nette voci: ond'ella</l>
+<l>quasi in lingua de gli Angioli favella.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>16</head>
+<lg type="versi">
+<l>Non dal bel foco o dal rossore eletto</l>
+<l>di che il fecondo Sole arde e colora</l>
+<l>con naturale e con divino effetto</l>
+<l>le tempre vostre e quelle de l'Aurora,</l>
+<l>nasce l'April che le sue guancie e il petto</l>
+<l>di splendido ostro e nuove rose infiora:</l>
+<l>ma di Venere il lume d'amor pieno</l>
+<l>le orna de i color suoi le gote e il seno.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>17</head>
+<lg type="versi">
+<l>Da i bei giocondi rai di face aurata</l>
+<l>che vi spuntano intorno atti e spediti,</l>
+<l>e corona vi fan sola e pregiata,</l>
+<l>per miracol celeste sono usciti</l>
+<l>de l'una e l'altra sua mano sacrata</l>
+<l>i trasparenti et imperlati diti</l>
+<l>che nel dolce allargarsi in vaghe stelle</l>
+<l>le converton le man leggiadre e belle.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>18</head>
+<lg type="versi">
+<l>Le Maestade che vi scorge errando</l>
+<l>e che fisse vi guarda e con voi siede,</l>
+<l>al cielo et a la terra altera dando</l>
+<l>de lo splendor che chi vi fe' vi diede,</l>
+<l>è la medesma che l'addita quando</l>
+<l>le ferma o move il grave passo il piede:</l>
+<l>signoreggiando poi con grazie tante</l>
+<l>lo impero de l'onor c'ha nel sembiante.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>19</head>
+<lg type="versi">
+<l>Ma son vaghezze di gigli e di fiori,</l>
+<l>bei pittori de i prati e de le rive,</l>
+<l>ombre lodate di mirti e d'allori,</l>
+<l>canti d'augelli e suoni d'acque vive,</l>
+<l>specchi di rio, soavità di odori,</l>
+<l>scherzi di pesci e spirar d'òre estive,</l>
+<l>d'erbette verdeggiar, mover di fronde:</l>
+<l>quel c'ho detto ch'è in lei, per voi s'infonde.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>20</head>
+<lg type="versi">
+<l>Magnanima non già, tenace e avara</l>
+<l>dir si potrebbe a quella largitate</l>
+<l>che la imagine vostra le die' chiara</l>
+<l>per senza essempio far tanta beltate,</l>
+<l>se ogni altra sua ricchezza ascosa e cara</l>
+<l>non versava anco in lei con le man grate:</l>
+<l>benché tal cortesia, che in voi sol regna,</l>
+<l>de la SIRENA e de le Stelle è degna.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>21</head>
+<lg type="versi">
+<l>Ogni vertù che a l'animo dar pote</l>
+<l>arbitrio d'astro o potestà fatale,</l>
+<l>tutte del Ciel le grazie conte, ignote,</l>
+<l>che a chi va costassù si fanno scale,</l>
+<l>ornano lei quasi sua propria dote,</l>
+<l>e onoran voi che la mostrate tale:</l>
+<l>ma così fai così servar conviensi</l>
+<l>la degnità de i vostri gradi immensi.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>22</head>
+<lg type="versi">
+<l>Il saggio stil, che su nel gran collegio</l>
+<l>teneste allor che il possente ordin vostro</l>
+<l>con pronta elezzion le die' quel pregio</l>
+<l>che dar potea nel lampeggiante chiostro,</l>
+<l>tiene con sempiterno privilegio,</l>
+<l>mentre di lei si vanta il secol nostro,</l>
+<l>de i pensier suoi il bel coro prudente</l>
+<l>nel degno ostel de la felice mente.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>23</head>
+<lg type="versi">
+<l>Al diamante, di che va sempre armato</l>
+<l>di sue virtuti il reverito stuolo,</l>
+<l>l'alto desio di lei stassi appoggiato</l>
+<l>quando speme del Ciel non l'alza a volo;</l>
+<l>e del verace onore arso e infiammato,</l>
+<l>con lo smalto del cor libero e solo</l>
+<l>face al biasmo contrasto: e ogni ragione</l>
+<l>li annulla con la ferma intenzione.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>24</head>
+<lg type="versi">
+<l>La purità di quel leggiadro invoglio</l>
+<l>che d'ambrosia e di nettare spargeste</l>
+<l>ove lei senza inganno e senza orgoglio</l>
+<l>da l'Empiree Loggie a noi traeste,</l>
+<l>onde il Mondo dir può «del vil mi spoglio,</l>
+<l>e m'orno del gentil ch'ella si veste»,</l>
+<l>pura, leggiadra et odorata rende</l>
+<l>la pudica beltà che in lei risplende.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>25</head>
+<lg type="versi">
+<l>Non so se il Sol ne le sue gran fatiche</l>
+<l>ne i loro alberghi duo pianeti vede</l>
+<l>che amici sien come in lei sono amiche</l>
+<l>le due aversarie a cui tutto altro cede,</l>
+<l>che insieme stansi ogni or belle e pudiche</l>
+<l>con eterna unione e stabil fede;</l>
+<l>e non fia mai l'una a l'altra ribella:</l>
+<l>perché tal pace è carità di Stella.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>26</head>
+<lg type="versi">
+<l>La potenza che tempra gli elementi</l>
+<l>e che non pur de i cieli i moti regge,</l>
+<l>ma gli eserciti suoi ritien contenti</l>
+<l>sotto beata et immutabil legge,</l>
+<l>fa la concordia che in atti eccellenti</l>
+<l>e con queta umiltade le corregge</l>
+<l>i ministri de l'alma: e dove mira</l>
+<l>non ardisce apparir sdegno né ira.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>27</head>
+<lg type="versi">
+<l>A le fiamme, ove suol sempre avamparse</l>
+<l>vergogna, del suo fronte illustre onore,</l>
+<l>da i fucili de i fati accese e sparse</l>
+<l>nel viso suo, esca d'un tanto ardore,</l>
+<l>con l'ali pronte non osa apressarse</l>
+<l>la temeraria lascivia d'amore:</l>
+<l>ch'oltra che il loro incendio ivi comprende,</l>
+<l>teme l'alma onestà che le defende.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>28</head>
+<lg type="versi">
+<l>Benigni influssi, l'abito perfetto</l>
+<l>che fatto avete col natio costume</l>
+<l>ne i grandi offici vostri, et il diletto</l>
+<l>che prendete spargendo il caro lume,</l>
+<l>sono discesi nel suo casto petto</l>
+<l>quasi in lor tempio, e qual verace Nume</l>
+<l>inchinano al suo core: et è ben degno,</l>
+<l>sendo egli il lor terrestre altero regno.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>29</head>
+<lg type="versi">
+<l>Lo starsi in Ciel de la maggiore Stella</l>
+<l>con cinque o sei de l'altre lampe appresso</l>
+<l>dentro a i bei raggi sfavillante e bella,</l>
+<l>è il senno suo chiarissimo in se stesso</l>
+<l>che grave siede nel bel trono ch'ella</l>
+<l>fra i saggi accorgimenti halli concesso:</l>
+<l>onde l'operar suo move lo stile</l>
+<l>modesto, puro, mansueto e umile.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>30</head>
+<lg type="versi">
+<l>I continui spron de i torti corsi</l>
+<l>che seguir fanvi la prescritta usanza;</l>
+<l>la sofferenza di quei saldi morsi</l>
+<l>che le vostre fermezze non avanza;</l>
+<l>l'osservar sempre de i tempi i trascorsi,</l>
+<l>origin danno a la preseveranza:</l>
+<l>che al fin di lei non pur gloria non nega,</l>
+<l>ma ogni insegna sua le sacra e spiega.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>31</head>
+<lg type="versi">
+<l>Ma s'io vo' rassemplar con le parole</l>
+<l>d'ogni qualità sua la effigie vera,</l>
+<l>e del suo nome, pien di grazie sole,</l>
+<l>statua intagliar da ciascun lato intera,</l>
+<l>sembrarò quel che de le Stelle vole</l>
+<l>ogni drapello, ogni stuolo, ogni schiera</l>
+<l>annoverar: che al fin ne sceglie alcuna</l>
+<l>nel tacito conspetto de la Luna.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>32</head>
+<lg type="versi">
+<l>Sì come il più pregiato e caro senso,</l>
+<l>se bene è in sua vertù tutto converso,</l>
+<l>confonde sé nel numer vostro immenso</l>
+<l>c'ha 'l Teatro del Ciel di luce asperso,</l>
+<l>così nel campo de i suoi onori accenso</l>
+<l>si perde il dir che in celebrarla verso:</l>
+<l>e 'l basso ingegno, a ragionarne ardito,</l>
+<l>vòl prescriver il fine a lo infinito.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>33</head>
+<lg type="versi">
+<l>Ma destisi la man che meglio scrive</l>
+<l>e di lei faccia, qual conviensi, istoria;</l>
+<l>chi forma in marmo le persone vive,</l>
+<l>spenda lo stile in sua lunga memoria;</l>
+<l>ogni lingua che suona in voci dive,</l>
+<l>nuova e sola le dia corona e gloria:</l>
+<l>e quel che più con voi comprende i cieli,</l>
+<l>de i suoi merti i secreti ne riveli.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>34</head>
+<lg type="versi">
+<l>Devresti, o fortunati alti intelletti</l>
+<l>che de i poli ascendete ogni calle erto,</l>
+<l>né solo aprite i lor chiusi ricetti,</l>
+<l>ma il secreto che il fa èvvi scoperto,</l>
+<l>esprimer con bellissimi concetti</l>
+<l>quanto del proprio onor le ha il velo offerto,</l>
+<l>tal che lassuso ponno dir gli Dei:</l>
+<l>«Non splende in noi quel che non luce in lei».</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>35</head>
+<lg type="versi">
+<l>O Stelle, s'io che a dir di lei son parco</l>
+<l>sol perché a me foste pur troppo avare,</l>
+<l>nel formar del suo nome mi discarco</l>
+<l>del terren che al mio spirto intorno appare,</l>
+<l>qual non trapassaran superno varco</l>
+<l>color che a lei destinaran sacrare</l>
+<l>in bei poemi e la natura e l'arte,</l>
+<l>avendo in tutte voi così gran parte?</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>36</head>
+<lg type="versi">
+<l>penetraran con piume alme e sicure</l>
+<l>ne i luoghi inacessibili e nel coro</l>
+<l>di voi, che scorgeran felici e pure,</l>
+<l>e i segni raggirar nel cerchio loro,</l>
+<l>la casa del cristallo e con gran cure</l>
+<l>la region del vetro e i tetti d'oro</l>
+<l>che son più sommi e più vicini a Dio,</l>
+<l>ardendo nel divin nuovo desio.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>37</head>
+<lg type="versi">
+<l>I purgati, sinceri e santi fuochi</l>
+<l>che ardon del vero Amor, gli Angeli l'alme</l>
+<l>gli infiammaran (grazie donate a pochi</l>
+<l>che riedon poi ne le deposte salme)</l>
+<l>de gli eterni diletti con quei giochi</l>
+<l>che provan le milizie eccelse et alme</l>
+<l>mentre il fervido affetto in Ciel le accende</l>
+<l>del raggio che al fattor dintorno splende.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>38</head>
+<lg type="versi">
+<l>De le fiamme che io dico, Dio compose</l>
+<l>il rubo e il carro di Mosè e d'Elia;</l>
+<l>con tai fuochi le lingue gloriose</l>
+<l>compartì de i suoi dodeci il Messia;</l>
+<l>di queste faci sì miracolose</l>
+<l>abbrucia il Paradiso tutta via:</l>
+<l>e bontà vostra, di cotanto ardore</l>
+<l>la SIRENA del mondo arde ogni core.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>39</head>
+<lg type="versi">
+<l>Stelle, per più gradir quella influenza</l>
+<l>che altamente in bearla si compiacque</l>
+<l>di nova, adorna e splendida eccellenza,</l>
+<l>sopra il nido apparite ov'ella nacque:</l>
+<l>e poi del giorno e del Sole in presenza,</l>
+<l>e di queste tranquille, famose acque,</l>
+<l>publichi in terra la sua nobil sorte,</l>
+<l>come non puote in lei tempo né morte.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>40</head>
+<lg type="versi">
+<l>Tu, Cielo, per più gloria ammanta or ora</l>
+<l>sua beata magion d'uno aureo nembo;</l>
+<l>e perché l'Idol tuo quivi dimora,</l>
+<l>non mai l'ingombri alcun notturno lembo;</l>
+<l>e 'l privilegio de l'arbor che onora</l>
+<l>le chiome a Febo, scrivele nel grembo:</l>
+<l>poi la cagion per cui tuoni e baleni,</l>
+<l>l'aria che le sta sopra rassereni.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>41</head>
+<lg type="versi">
+<l>Sian le nevi e le brine, se pur vuoi</l>
+<l>darle assalto or con quelle et or con queste,</l>
+<l>ligustri colti ne i sacri orti tuoi,</l>
+<l>poscia sparsi da te con le man preste</l>
+<l>in testa e in fronte a gli edifici suoi;</l>
+<l>e le pioggie del verno e le tempeste</l>
+<l>convertinsi in rugiada, e fiocchin sempre</l>
+<l>ne le sue cime con soavi tempre.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>42</head>
+<lg type="versi">
+<l>Fuor del seno di Giove i santi Amori</l>
+<l>volin vezzosi, e poi c'avran dipinto</l>
+<l>l'aere nel Cielo di vaghi splendori</l>
+<l>e 'l sacro albergo de i lor fuochi cinto,</l>
+<l>cantino il nome suo, cantin gli onori:</l>
+<l>e sì vedremo il desir maschio estinto</l>
+<l>in ciascun petto, e ogni anima sovrana</l>
+<l>quest'Angela adorare in carne umana.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>43</head>
+<lg type="versi">
+<l>Mentre ch'ella starassi umile e lieta</l>
+<l>in tanto onore, e con vertù raccolta</l>
+<l>ne le sue leggiadre arti, a quel pianeta</l>
+<l>che la fe' tale a render grazie volta,</l>
+<l>il mar che nel gran letto ogni onda acqueta</l>
+<l>tanto assotigli sua grossezza occolta,</l>
+<l>che i tesori da lui rubati al mondo</l>
+<l>discopra a lei nel periglioso fondo.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>44</head>
+<lg type="versi">
+<l>La sacra conca ove amorosa uscìo</l>
+<l>premendo l'or de l'odorate chiome</l>
+<l>coronata da i lampi del desio</l>
+<l>colei che al terzo ciel dà legge e nome,</l>
+<l>prenda d'este acque il più benigno Dio</l>
+<l>e sopra l'onde la forbisca e còme:</l>
+<l>poi le ne faccia dono, e la serbi ella</l>
+<l>e per reliquia e per sua navicella.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>45</head>
+<lg type="versi">
+<l>Nimfe che pria nasceste o dopo o aypparo</l>
+<l>de la gran Dea, onde a ciascuna lice</l>
+<l>gir sotto e sopra a lo elemento amaro,</l>
+<l>né tempo o loco mai ve lo disdice,</l>
+<l>di ciascun non più visto ramo caro</l>
+<l>di bel corallo, nel color felice</l>
+<l>che dal monil di nicchi ora vi pende,</l>
+<l>ornate il suo bel petto senza mende.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>46</head>
+<lg type="versi">
+<l>Le margarite e l'unioni elette</l>
+<l>che ne la pompa vostra il mare ha speso</l>
+<l>in corone et in cerchi e in ghirlandette,</l>
+<l>porghinsi al capo suo d'or fino acceso;</l>
+<l>aggravin le maggiori e più perfette</l>
+<l>le caste orecchie sue con dolce peso:</l>
+<l>ché s'ornan lei le vostre care perle,</l>
+<l>verrà la Stella sua spesso a vederle.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>47</head>
+<lg type="versi">
+<l>Se di porpora ardente, se di quella</l>
+<l>che pende in nero che vago riluce,</l>
+<l>empiete il vòto a qualche conca bella</l>
+<l>donde il vivo color fuora traluce,</l>
+<l>il suo grembo colmatene acciò ch'ella</l>
+<l>le accresca lo splendor con la sua luce:</l>
+<l>e d'ogni maraviglia strana e nuova</l>
+<l>che ne l'umide stanze si ritrova.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>48</head>
+<lg type="versi">
+<l>Più beati ch'Eurota, amici fiumi,</l>
+<l>sol perché loco in questo mare avete,</l>
+<l>tal che intoppo non è che si presumi</l>
+<l>torcervi il corso ch'eterno movete:</l>
+<l>l'urne che in man per antichi costumi</l>
+<l>piene di voi medesimi tenete,</l>
+<l>offerischinsi a lei: perché si scorga</l>
+<l>di che poco alvo sì gran corpo sorga.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>49</head>
+<lg type="versi">
+<l>Porgetele anco de la copia i corni</l>
+<l>che non pur colmi son d'uve e di spiche,</l>
+<l>ma di fiori e di frutti e d'erbe adorni,</l>
+<l>alme ricchezze a lor contrade amiche;</l>
+<l>il Timavo e la Brenta si disorni</l>
+<l>de l'onor che il suo capo avien che intriche</l>
+<l>di canne e salci o d'altre natie fronde:</l>
+<l>e faccin ombra a le sue treccie bionde.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>50</head>
+<lg type="versi">
+<l>Basci i piei vaghi a l'onorato sasso</l>
+<l>dove si posa il suo marmoreo nido,</l>
+<l>Istro che move col Danubio il passo,</l>
+<l>onde il fio al mar suo paga sì fido;</l>
+<l>Formione e Voran che irriga Anasso,</l>
+<l>Sile e Livenza e qualunche alza il grido</l>
+<l>o che piano sen vien correndo al chino</l>
+<l>da che l'Alpi abbandona e l'Appenino.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>51</head>
+<lg type="versi">
+<l>Minzio e Tisin con gli altri che ancor danno</l>
+<l>largo tributo al Re de i fiumi altero,</l>
+<l>spoglinsi gli ornamenti che gli fanno</l>
+<l>pregiar superbi ove s'han fatto impero:</l>
+<l>e ne l'onde di Eridano, che vanno</l>
+<l>con signorili piei per bel sentero,</l>
+<l>gli spargin lieti, accioché il Po si vesta</l>
+<l>d'abiti peregrin con real festa.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>52</head>
+<lg type="versi">
+<l>Poscia egli stesso le secrete vene</l>
+<l>di se stesso apra, e le superbe corna</l>
+<l>lieto s'indori; e de le ricche arene</l>
+<l>di che Benaco il suo bel fondo adorna,</l>
+<l>incoroni se propio, ché sa bene</l>
+<l>che Alcide a l'arbor sua più non ritorna:</l>
+<l>e si appresenti in così strani manti</l>
+<l>con l'acqui dolci e la SIRENA inanti.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>53</head>
+<lg type="versi">
+<l>Voi che varcate a gli altrui lidi strani,</l>
+<l>et a questi domestici apparite,</l>
+<l>a l'andar al venir con atti umani</l>
+<l>il sito ov'ella stassi riverite.</l>
+<l>Ogni affetto del cor vi apra le mani,</l>
+<l>e levi gli occhi a le sorti gradite:</l>
+<l>non pur vedendo il suo bel viso santo,</l>
+<l>ma udendo un solo accento del suo canto.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>54</head>
+<lg type="versi">
+<l>Ciascun nochier che ritrae quinci in porto</l>
+<l>e che lo sgombra di spalmati legni,</l>
+<l>e chi la calma in queste rive ha scorto,</l>
+<l>e quel che d'Aquilon teme gli sdegni,</l>
+<l>volga a i muri sereni il guardo accorto:</l>
+<l>poi di religion mostrando segni</l>
+<l>aggia inver lor calde preghiere mosse,</l>
+<l>come ivi il tempio di Nettuno fosse».</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>55</head>
+<lg type="versi">
+<l>Traboccava il fervor con gioie estreme</l>
+<l>fuor del seno al Pastor pur al Ciel fiso,</l>
+<l>qual uom vicino a la bramata speme,</l>
+<l>che lo intenso piacer scopre nel viso:</l>
+<l>però che il vero et Amor casto insieme</l>
+<l>l'aveano dal mortal tutto diviso;</l>
+<l>quando sol per invidia ebbe la notte</l>
+<l>al santo cantar suo le voci rotte.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>56</head>
+<lg type="versi">
+<l>Tosto che le gran fasce orride e negre</l>
+<l>de le cose il color fecero oscuro,</l>
+<l>le buone Stelle che ascoltaro allegre</l>
+<l>le lodi sue, vestite d'oro puro,</l>
+<l>da i celesti balcon cacciar le pegre</l>
+<l>a dare a lei e quelle che le furo</l>
+<l>avare e contra: onde tal fallo ardito</l>
+<l>mostra nel ciel la lor vergogna a dito.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>57</head>
+<lg type="versi">
+<l>Al bel tosco tacer gli Dei marini</l>
+<l>consentiro che gli occhi de i mortali</l>
+<l>contemplasser gli aspetti lor divini</l>
+<l>apparsi fuor de gli ondeggianti sali.</l>
+<l>In quel punto il bel Dì ruppe i confini</l>
+<l>e ripiegar fece a la Notte l'ali,</l>
+<l>con mille fiamme d'ogni parte e lampi,</l>
+<l>ne i liquidi solcati amici campi.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>58</head>
+<lg type="versi">
+<l>Parve che i mostruosi pesci erranti</l>
+<l>i profondi silenzii avesser desti,</l>
+<l>tal non so che per l'acque tremolanti</l>
+<l>mosser rotando i lor cenni, i lor gesti;</l>
+<l>nuovi gli augelli formàr voli e canti</l>
+<l>alor che tu, fido Pastor, tacesti:</l>
+<l>e le fere volubili inquiete</l>
+<l>ne fecer segno immote e mansuete.</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>59</head>
+<lg type="versi">
+<l>Eco umil che ascoltando udito avea</l>
+<l>da i soli orrori, che a lei sacri sono,</l>
+<l>lodar la singular mia Donna, e Dea</l>
+<l>e del mare e del ciel per divin dono,</l>
+<l>del bello altrui cantar che si tacea,</l>
+<l>sol ritenendo de le noti il suono</l>
+<l>del cui rimbombo ogni spelunca è piena,</l>
+<l>gradiva sé col replicar «Sirena».</l>
+</lg>
+</lg>
+<lg type="stanza">
+<head>60</head>
+<lg type="versi">
+<l>I semplici, soavi e piani venti</l>
+<l>che aggradan più dove meno arde il Sole,</l>
+<l>sendo acquetati i pelegrini accenti,</l>
+<l>lasciàr l'ombre, le frondi e le viole,</l>
+<l>e portaro a le orecchie de le genti</l>
+<l>il grave suon de le udite parole:</l>
+<l>tal che ogni ingegno in ogni chiara parte</l>
+<l>la intaglia in marmi e la descrive in carte.</l>
+</lg>
+</lg>
+</div1>
+
+<div1 type="poesia">
+<head>1</head>
+<argument><p>LA SIGNORA VERONICA GAMBARA CONTESSA DI COREGIO A LA SIRENA</p></argument>
+
+<lg type="sonetto">
+<lg type="quartina">
+<l><emph>Ben si può dir che a voi largo e cortese</emph></l>
+<l><emph>de i suoi doni sia stato il Ciel avaro,</emph></l>
+<l><emph>poscia che l'Aretino spirito chiaro</emph></l>
+<l><emph>castamente di voi, donna, si accese</emph>.</l>
+</lg><lg type="quartina">
+<l><emph>Da lui verran gli schermi e le difese,</emph></l>
+<l><emph>che usar potrete contra il morso amaro</emph></l>
+<l><emph>de fiero tempo: ei vi sarà riparo</emph></l>
+<l><emph>verso le gravi sue pungenti offese.</emph></l>
+</lg><lg type="terzina">
+<l><emph>Certo giusta cagion di gir altera</emph></l>
+<l><emph>più ch'altra avete, da che sol vi onora</emph></l>
+<l><emph>quello, che tutto il mondo esalta e teme</emph>.</l>
+</lg><lg type="terzina">
+<l><emph>Quanti diranno ragionando ancora</emph>:</l>
+<l><emph>«Sol con Beatrice fia, con Laura insieme</emph>,</l>
+<l><emph>SIRENA eterna ne la terza sfera»</emph>.</l>
+</lg></lg>
+</div1>
+
+<div1 type="poesia">
+<head>2</head>
+<argument><p>SONETTO DI MESSER PIETRO ARETINO A MADONNA ANZELA SERENA</p></argument>
+<lg type="sonetto">
+<lg type="quartina">
+<l>Questa del ciel Sirena ha ne' bei crini</l>
+<l>i raggi che i capei fan biondi al sole;</l>
+<l>ne gli occhi ha il foco del qual arder sòle</l>
+<l>il puro zelo a gli spirti divini;</l>
+</lg><lg type="quartina">
+<l>ha ne le guancie i vivi color fini</l>
+<l>che infiammano le rose e le viole;</l>
+<l>ha l'angelico suon ne le parole</l>
+<l>che parton tra le perle e tra i rubini;</l>
+</lg><lg type="terzina">
+<l>ha nel pio lampeggiar del santo riso</l>
+<l>e nel fisar del guardo quel diletto</l>
+<l>che si prova lassuso in Paradiso;</l>
+</lg><lg type="terzina">
+<l>le tempre ha del desio nel casto petto,</l>
+<l>di Natura i miracoli nel viso</l>
+<l>e ciò ch'è di gentil, ne l'intelletto.</l>
+</lg></lg>
+</div1>
+</body>
+</text>
+</TEI.2>

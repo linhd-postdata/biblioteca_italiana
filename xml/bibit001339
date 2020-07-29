@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Canzoni del Decameron</title>
+      <author>Giovanni Boccaccio</author>
+    </titleStmt>
+    <extent>18 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001339</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le opere</title>
+        <title type="part">Decameron</title>
+        <author>Boccaccio, Giovanni</author>
+        <editor id="ed">Branca, Vittore</editor>
+        <publisher>Mondadori</publisher>
+        <pubPlace>Milano</pubPlace>
+        <date>1976</date>
+        <note>Tutte le opere di Giovanni Boccaccio a cura di Vittore Branca</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <editorialDecl><p>I testi sono stati numerati surretiziamente da 1 a 10.</p></editorialDecl><classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>300</date>
+    </creation>
+    <langUsage><language id="ita"/></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT - Roma</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>CIBIT-Roma</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-09-01T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica con software</item>
+    </change>
+    <change>
+      <date>2003-09-13T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 type="poesia">
+<head>1</head>
+<lg type="ballata">
+<lg>
+<l>Io son sì vaga della mia bellezza,</l>
+<l>che d'altro amor già mai</l>
+<l>non curerò né credo aver vaghezza.</l></lg>
+<lg>
+<l>Io veggio in quella, ognora ch'io mi specchio,</l>
+<l>quel ben che fa contento lo 'ntelletto:</l>
+<l>né accidente nuovo o pensier vecchio</l>
+<l>mi può privar di sì caro diletto.</l>
+<l>Quale altro dunque piacevole obgetto</l>
+<l>potrei veder già mai</l>
+<l>che mi mettesse in cuor nuova vaghezza?</l></lg>
+<lg>
+<l>Non fugge questo ben qualor disio</l>
+<l>di rimirarlo in mia consolazione:</l>
+<l>anzi si fa incontro al piacer mio</l>
+<l>tanto soave a sentir, che sermone</l>
+<l>dir nol poria né prendere intenzione</l>
+<l>d'alcun mortal già mai,</l>
+<l>che non ardesse di cotal vaghezza.</l></lg>
+<lg>
+<l>E io, che ciascuna ora più m'accendo</l>
+<l>quanto più fisi tengo gli occhi in esso,</l>
+<l>tutta mi dono a lui, tutta mi rendo,</l>
+<l>gustando già di ciò ch'el m'ha promesso:</l>
+<l>e maggior gioia spero più dappresso</l>
+<l>sì fatta, che già mai</l>
+<l>simil non si sentì qui da vaghezza.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>2</head>
+<lg type="canzone">
+<lg>
+<l>Qual donna canterà, s'io non canto io,</l>
+<l>che son contenta d'ogni mio disio?</l></lg>
+<lg>
+<l>Vien dunque, Amor, cagion d'ogni mio bene,</l>
+<l>d'ogni speranza e d'ogni lieto effetto;</l>
+<l>cantiamo insieme un poco,</l>
+<l>non de' sospir né delle amare pene</l>
+<l>ch'or più dolce mi fanno il tuo diletto,</l>
+<l>ma sol del chiaro foco,</l>
+<l>nel quale ardendo in festa vivo e 'n gioco,</l>
+<l>te adorando come un mio idio.</l></lg>
+<lg>
+<l>Tu mi ponesti innanzi agli occhi, Amore,</l>
+<l>il primo dì ch'io nel tuo foco entrai,</l>
+<l>un giovinetto tale,</l>
+<l>che di biltà, d'ardir né di valore</l>
+<l>non se ne troverebbe un maggior mai,</l>
+<l>né pure a lui equale:</l>
+<l>di lui m'accesi tanto, che aguale</l>
+<l>lieta ne canto teco, signor mio.</l></lg>
+<lg>
+<l>E quel che 'n questo m'è sommo piacere</l>
+<l>è ch'io gli piaccio quanto egli a me piace,</l>
+<l>Amor, la tua merzede;</l>
+<l>per che in questo mondo il mio volere</l>
+<l>posseggo, e spero nell'altro aver pace</l>
+<l>per quella intera fede</l>
+<l>che io gli porto. Idio, che questo vede,</l>
+<l>del regno suo ancor ne sarà pio.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>3</head>
+<lg type="ballata">
+<lg>
+<l>Niuna sconsolata</l>
+<l>da dolersi ha quant'io,</l>
+<l>ch'invan sospiro, lassa innamorata.</l></lg>
+<lg>
+<l>Colui che move il cielo e ogni stella</l>
+<l>mi fece a suo diletto</l>
+<l>vaga, leggiadra, graziosa e bella,</l>
+<l>per dar qua giù a ogni alto intelletto</l>
+<l>alcun segno di quella</l>
+<l>biltà che sempre a Lui sta nel cospetto;</l>
+<l>e il mortal difetto,</l>
+<l>come mal conosciuta,</l>
+<l>non mi gradisce, anzi m'ha dispregiata.</l></lg>
+<lg>
+<l>Già fu chi m'ebbe cara e volentieri</l>
+<l>giovinetta mi prese</l>
+<l>nelle sue braccia e dentro a' suoi pensieri,</l>
+<l>e de' miei occhi tututto s'accese</l>
+<l>e 'l tempo, che leggieri</l>
+<l>sen vola, tutto in vagheggiarmi spese;</l>
+<l>e io, come cortese,</l>
+<l>di me il feci degno;</l>
+<l>ma or ne son, dolente a me!, privata.</l></lg>
+<lg>
+<l>Femmisi innanzi poi presuntuoso</l>
+<l>un giovinetto fiero,</l>
+<l>sé nobil reputando e valoroso,</l>
+<l>e presa tienmi e con falso pensiero</l>
+<l>divenuto è geloso;</l>
+<l>laond'io, lassa!, quasi mi dispero,</l>
+<l>cognoscendo per vero,</l>
+<l>per ben di molti al mondo</l>
+<l>venuta, da uno essere occupata.</l></lg>
+<lg>
+<l>Io maledico la mia sventura,</l>
+<l>quando, per mutar vesta,</l>
+<l>sì dissi mai; sì bella nella oscura</l>
+<l>mi vidi già e lieta, dove in questa</l>
+<l>io meno vita dura,</l>
+<l>vie men che prima reputata onesta.</l>
+<l>O dolorosa festa,</l>
+<l>morta foss'io avanti</l>
+<l>che io t'avessi in tal caso provata!</l></lg>
+<lg>
+<l>O caro amante, del qual prima fui</l>
+<l>più che altra contenta,</l>
+<l>che or nel ciel se' davanti a Colui</l>
+<l>che ne creò, deh! pietoso diventa</l>
+<l>di me, che per altrui</l>
+<l>te obliar non posso: fa ch'io senta</l>
+<l>che quella fiamma spenta</l>
+<l>non sia che per me t'arse,</l>
+<l>e costà sù m'impetra la tornata.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>4</head>
+<lg type="ballata">
+<lg>
+<l>Lagrimando dimostro</l>
+<l>quanto si dolga con ragione il core</l>
+<l>d'esser tradito sotto fede, Amore.</l></lg>
+<lg>
+<l>Amore, allora che primieramente</l>
+<l>ponesti in lui colei per cui sospiro</l>
+<l>senza sperar salute,</l>
+<l>si piena la mostrasti di virtute,</l>
+<l>che lieve reputava ogni martiro</l>
+<l>che per te nella mente,</l>
+<l>ch'è rimasa dolente,</l>
+<l>fosse venuto; ma il mio errore</l>
+<l>ora conosco, e non senza dolore.</l></lg>
+<lg>
+<l>Fatto m'ha conoscente dello 'nganno</l>
+<l>vedermi abbandonato da colei</l>
+<l>in cui sola sperava;</l>
+<l>ch'allora ch'io più esser mi pensava</l>
+<l>nella sua grazia e servidore a lei,</l>
+<l>senza mirare al danno</l>
+<l>del mio futuro affanno,</l>
+<l>m'accorsi lei aver l'altrui valore</l>
+<l>dentro raccolto e me cacciato fore.</l></lg>
+<lg>
+<l>Com'io conobbi me di fuor cacciato,</l>
+<l>nacque nel core un pianto doloroso</l>
+<l>che ancor vi dimora:</l>
+<l>e spesso maladico il giorno e l'ora</l>
+<l>che pria m'apparve il suo viso amoroso</l>
+<l>d'alta biltate ornato</l>
+<l>e più che mai infiammato!</l>
+<l>La fede mia, la speranza e l'ardore</l>
+<l>va bestemmiando l'anima che more.</l></lg>
+<lg>
+<l>Quanto 'l mio duol senza conforto sia,</l>
+<l>signor, tu 'l puoi sentir, tanto ti chiamo</l>
+<l>con dolorosa voce:</l>
+<l>e dicoti che tanto e sì mi cuoce,</l>
+<l>che per minor martir la morte bramo.</l>
+<l>Venga dunque, e la mia</l>
+<l>vita crudele e ria</l>
+<l>termini col suo colpo, e 'l mio furore,</l>
+<l>ch'ove ch'io vada il sentirò minore.</l></lg>
+<lg>
+<l>Nulla altra via, niuno altro conforto</l>
+<l>mi resta più che morte alla mia doglia.</l>
+<l>Dallami dunque omai,</l>
+<l>pon fine, Amor, con essa alli miei guai,</l>
+<l>e 'l cor di vita sì misera spoglia.</l>
+<l>Deh fallo, poi ch'a torto</l>
+<l>m'è gioia tolta e diporto.</l>
+<l>Fa costei lieta, morend'io, signore,</l>
+<l>come l'hai fatta di nuovo amadore.</l></lg>
+<lg>
+<l>Ballata mia, se alcun non t'appara</l>
+<l>io non men curo, per ciò che nessuno,</l>
+<l>com'io, ti può cantare.</l>
+<l>Una fatica sola ti vo' dare:</l>
+<l>che tu ritruovi Amore, e a lui solo uno</l>
+<l>quanto mi sia discara</l>
+<l>la trista vita amara</l>
+<l>dimostri appien, pregandol che 'n migliore</l>
+<l>porto ne ponga per lo suo onore.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>5</head>
+<lg type="ballata">
+<lg>
+<l>Amor, la vaga luce</l>
+<l>che move da' begli occhi di costei</l>
+<l>servo m'ha fatto di te e di lei.</l></lg>
+<lg>
+<l>Mosse da' suoi begli occhi lo splendore</l>
+<l>che pria la fiamma tua nel cor m'accese,</l>
+<l>per li miei trapassando;</l>
+<l>e quanto fosse grande il tuo valore,</l>
+<l>il bel viso di lei mi fé palese;</l>
+<l>il quale imaginando,</l>
+<l>mi senti' gir legando</l>
+<l>ogni vertù e sottoporla a lei,</l>
+<l>fatta nuova cagion de' sospir miei.</l></lg>
+<lg>
+<l>Così de' tuoi, adunque, divenuto</l>
+<l>son, signor caro, e ubidente aspetto</l>
+<l>dal tuo poter merzede;</l>
+<l>ma non so ben se 'ntero è conosciuto</l>
+<l>l'alto disio che messo m'hai nel petto</l>
+<l>né la mia intera fede</l>
+<l>da costei, che possiede</l>
+<l>sì la mia mente, che io non torrei</l>
+<l>pace fuor che da essa, né vorrei.</l></lg>
+<lg>
+<l>Per ch'io ti priego, dolce signor mio,</l>
+<l>che gliel dimostri e faccile sentire</l>
+<l>alquanto del tuo foco</l>
+<l>in servigio di me, ché vedi ch'io</l>
+<l>già mi consumo amando e nel martire</l>
+<l>mi sfaccio a poco a poco;</l>
+<l>e poi, quando fia loco,</l>
+<l>me raccomanda a lei, come tu dei,</l>
+<l>che teco a farlo volentier verrei.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>6</head>
+<lg type="ballata">
+<lg>
+<l>Amor, s'io posso uscir de' tuoi artigli,</l>
+<l>appena creder posso</l>
+<l>che alcuno altro uncin mai più mi pigli.</l></lg>
+<lg>
+<l>Io entrai giovinetta en la tua guerra,</l>
+<l>quella credendo somma e dolce pace,</l>
+<l>e ciascuna mia arma posi in terra,</l>
+<l>come sicuro chi si fida face:</l>
+<l>tu, disleal tiranno, aspro e rapace,</l>
+<l>tosto mi fosti adosso</l>
+<l>con le tue armi e co' crudel roncigli.</l></lg>
+<lg>
+<l>Poi, circundata delle tue catene,</l>
+<l>a quel che nacque per la morte mia,</l>
+<l>piena d'amare lagrime e di pene</l>
+<l>presa mi desti, e hammi in sua balia;</l>
+<l>e è sì cruda la sua signoria,</l>
+<l>che giammai non l'ha mosso</l>
+<l>sospir né pianto alcun che m'asottigli.</l></lg>
+<lg>
+<l>Li prieghi miei tutti glien porta il vento:</l>
+<l>nullo n'ascolta né ne vuole udire,</l>
+<l>per che ognora cresce il mio tormento,</l>
+<l>onde 'l viver m'è noia né so morire.</l>
+<l>Deh! dolgati, signor, del mio languire,</l>
+<l>fa tu quel ch'io non posso:</l>
+<l>dalmi legato dentro a' tuoi vincigli.</l></lg>
+<lg>
+<l>Se questo far non vuogli, almeno sciogli</l>
+<l>i legami annodati da speranza.</l>
+<l>Deh! io ti priego, signor, che tu vogli;</l>
+<l>ché, se tu 'l fai, ancor porto fidanza</l>
+<l>di tornar bella qual fu mia usanza,</l>
+<l>e, il dolor rimosso,</l>
+<l>di bianchi fiori ornarmi e di vermigli.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>7</head>
+<lg type="ballata">
+<lg>
+<l>Deh lassa la mia vita!</l>
+<l>Sarà giammai ch'io possa ritornar</l>
+<l>donde mi tolse noiosa partita?</l></lg>
+<lg>
+<l>Certo io non so, tanto è 'l disio focoso,</l>
+<l>che io porto nel petto,</l>
+<l>di ritrovarmi ov'io, lassa, già fui.</l>
+<l>O caro bene, o solo mio riposo,</l>
+<l>che 'l mio cuor tien distretto,</l>
+<l>deh dilmi tu, ché 'l domandarne altrui</l>
+<l>non oso, né so cui.</l>
+<l>Deh, signor mio, deh fammelo sperare,</l>
+<l>si ch'io conforti l'anima smarrita.</l></lg>
+<lg>
+<l>Io non so ben ridir qual fu 'l piacere</l>
+<l>che sì m'ha infiammata,</l>
+<l>che io non trovo dì né notte loco.</l>
+<l>Per che l'udire e 'l sentire e 'l vedere</l>
+<l>con forza non usata</l>
+<l>ciascun per sé accese nuovo foco,</l>
+<l>nel qual tutta mi coco;</l>
+<l>né mi può altri che tu confortare</l>
+<l>o ritornar la virtù sbigottita.</l></lg>
+<lg>
+<l>Deh dimmi s'esser dee e quando fia</l>
+<l>ch'io ti trovi giammai</l>
+<l>dov'io basciai quegli occhi che m'han morta;</l>
+<l>dimmel, caro mio bene, anima mia,</l>
+<l>quando tu vi verrai,</l>
+<l>e col dir'Tosto' alquanto mi conforta.</l>
+<l>Sia la dimora corta</l>
+<l>d'ora al venire e poi lunga allo stare,</l>
+<l>ch'io non men curo, sì m'ha Amor ferita.</l></lg>
+<lg>
+<l>Se egli avvien che io mai più ti tenga,</l>
+<l>non so s'io sarò sciocca,</l>
+<l>com'io or fui a lasciarti partire.</l>
+<l>Io ti terrò, e che può sì n'avenga;</l>
+<l>e della dolce bocca</l>
+<l>convien ch'io sodisfaccia al mio disire.</l>
+<l>D'altro non voglio or dire:</l>
+<l>dunque vien tosto, vienmi a abracciare,</l>
+<l>ché 'l pur pensarlo di cantar m'invita.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>8</head>
+<lg type="ballata">
+<lg>
+<l>Tanto è, Amore, il bene</l>
+<l>ch'io per te sento, e l'allegrezza e 'l gioco,</l>
+<l>ch'io son felice ardendo nel tuo foco.</l></lg>
+<lg>
+<l>L'abondante allegrezza ch'è nel core,</l>
+<l>dell'alta gioia e cara</l>
+<l>nella qual m'hai recato,</l>
+<l>non potendo capervi esce di fore,</l>
+<l>e nella faccia chiara</l>
+<l>mostra 'l mio lieto stato;</l>
+<l>ch'essendo innamorato</l>
+<l>in così alto e raguardevol loco,</l>
+<l>lieve mi fa lo star dov'io mi coco.</l></lg>
+<lg>
+<l>Io non so col mio canto dimostrare,</l>
+<l>né disegnar col dito,</l>
+<l>Amore, il ben ch'io sento;</l>
+<l>e s'io sapessi, mel convien celare;</l>
+<l>ché, s'el fosse sentito,</l>
+<l>torneria in tormento:</l>
+<l>ma io son sì contento,</l>
+<l>ch'ogni parlar sarebbe corto e fioco</l>
+<l>pria n'avessi mostrato pure un poco.</l></lg>
+<lg>
+<l>Chi potrebbe estimar che le mie braccia</l>
+<l>aggiugnesser già mai</l>
+<l>là dov'io l'ho tenute,</l>
+<l>e ch'io dovessi giunger la mia faccia</l>
+<l>là dov'io l'accostai</l>
+<l>per grazia e per salute?</l>
+<l>Non mi sarien credute</l>
+<l>le mie fortune; ond'io tutto m'infoco,</l>
+<l>quel nascondendo ond'io m'allegro e gioco.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>9</head>
+<lg type="ballata">
+<lg>
+<l>Io mi son giovinetta, e volentieri</l>
+<l>m'allegro e canto en la stagion novella,</l>
+<l>merzé d'amore e de' dolci pensieri.</l></lg>
+<lg>
+<l>Io vo pe' verdi prati riguardando</l>
+<l>i bianchi fiori e' gialli e i vermigli,</l>
+<l>le rose in su le spini e' bianchi gigli,</l>
+<l>e tutti quanti gli vo somigliando</l>
+<l>al viso di colui che me amando</l>
+<l>ha presa e terrà sempre, come quella</l>
+<l>ch'altro non ha in disio che' suoi piaceri.</l></lg>
+<lg>
+<l>De' quai quand'io ne truovo alcun che sia,</l>
+<l>al mio parer, ben simile di lui,</l>
+<l>il colgo e bascio e parlomi con lui:</l>
+<l>e com'io so, così l'anima mia</l>
+<l>tututta gli apro e ciò che 'l cor disia:</l>
+<l>quindi con altri il metto in ghirlandella</l>
+<l>legato co' miei crin biondi e leggieri.</l></lg>
+<lg>
+<l>E quel piacer che di natura il fiore</l>
+<l>agli occhi porge, quel simil mel dona</l>
+<l>che s'io vedessi la propia persona</l>
+<l>che m'ha accesa del suo dolce amore:</l>
+<l>quel che mi faccia più il suo odore</l>
+<l>esprimer nol potrei con la favella,</l>
+<l>ma i sospir ne son testimon veri.</l></lg>
+<lg>
+<l>Li quai non escon già mai del mio petto,</l>
+<l>come dell'altre donne, aspri né gravi,</l>
+<l>ma se ne vengon fuor caldi e soavi</l>
+<l>e al mio amor sen vanno nel conspetto:</l>
+<l>il qual, come gli sente, a dar diletto</l>
+<l>di sé a me si move e viene in quella</l>
+<l>ch'i' son per dir: «Deh! vien, ch'i' non disperi.»</l>
+<l>Assai fu e dal re e da tutte le donne comendata la</l>
+<l>canzonetta di Neifile; appresso alla quale, per ciò che già</l>
+<l>molta notte andata n'era, comandò il re che ciascuno per</l>
+<l>infino al giorno s'andasse a riposare.</l></lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>10</head>
+<lg type="ballata">
+<lg>
+<l>S'amor venisse senza gelosia,</l>
+<l>io non so donna nata</l>
+<l>lieta com'io sarei e qual vuol sia.</l></lg>
+<lg>
+<l>Se gaia giovanezza</l>
+<l>in bello amante dee donna appagare,</l>
+<l>o pregio di virtute</l>
+<l>o ardire o prodezza,</l>
+<l>senno, costumi o ornato parlare</l>
+<l>o leggiadrie compiute,</l>
+<l>io son colei per certo in cui salute,</l>
+<l>essendo innamorata,</l>
+<l>tutte le veggio en la speranza mia.</l></lg>
+<lg>
+<l>Ma per ciò ch'io m'aveggio</l>
+<l>che altre donne savie son com'io,</l>
+<l>io triemo di paura,</l>
+<l>e pur credo il peggio:</l>
+<l>di quello avviso en l'altre esser disio</l>
+<l>ch'a me l'anima fura.</l>
+<l>E così quel'che m'è somma ventura</l>
+<l>mi fa isconsolata</l>
+<l>sospirar forte e stare in vita ria.</l></lg>
+<lg>
+<l>Se io sentissi fede</l>
+<l>nel mio signor quant'io sento valore</l>
+<l>gelosa non sarei:</l>
+<l>ma tanto se ne vede,</l>
+<l>pur che sia chi inviti l'amadore,</l>
+<l>ch'io gli ho tutti per rei.</l>
+<l>Questo m'acuora, e volentier morrei,</l>
+<l>e di chiunque il guata</l>
+<l>sospetto e temo non nel porti via.</l></lg>
+<lg>
+<l>Per Dio, dunque, ciascuna</l>
+<l>donna pregata sia che non s'attenti</l>
+<l>di farmi in ciò oltraggio;</l>
+<l>ché, se ne fia nessuna</l>
+<l>che con parole o cenni o blandimenti</l>
+<l>in questo in mio dannaggio</l>
+<l>cerchi o procuri, s'io il risapraggio,</l>
+<l>se io non sia svisata,</l>
+<l>piagner farolle amara tal follia.</l></lg>
+</lg>
+</div1>
+</body>
+</text>
+</TEI.2>

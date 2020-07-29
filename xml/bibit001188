@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Guerra di Ferrara. (1482-1484)</title>
+    </titleStmt>
+    <extent>35 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit001188</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Guerre in ottava rima</title>
+        <title type="part">Guerre d'Italia, 1483-1527</title>
+        <editor id="ed">Beer, Marina</editor>
+        <editor id="ed2">Diamanti, Donatella</editor>
+        <editor id="ed3">Ivaldi, Cristina</editor>
+        <publisher>Panini</publisher>
+        <pubPlace>Modena</pubPlace>
+        <date>1989</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>400</date>
+    </creation>
+    <langUsage><language id="codice">Italiano</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>2001-09-05T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Eva Burini</name>
+        <name>CIBIT-Ferrara</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>2001-09-05T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Eva Burini</name>
+        <name>CIBIT-Ferrara</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-05-21T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Valentina Gritti</name>
+        <name>CIBIT-Ferrara</name>
+      </respStmt>
+      <item>Codifica XML - Sono state controllate la trascrizione e le codifiche, correggendone gli errori.</item>
+    </change>
+    <change>
+      <date>2003-06-03T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text><body>
+<head>La guerra de Ferrara</head>
+<lg type="ottava"><l>O come assetato cervo al chiaro fonte</l>
+<l>così ricorro a te summo monarcha</l>
+<l>gratia domando cum humile fronte</l>
+<l>che dia tal vento a mia piccola barcha</l>
+<l>che solchar possa cum le rime prompte</l>
+<l>i dolci metri di <name>Dante</name> e <name>Petrarcha</name></l>
+<l>e ch'io tracti di San <name>Marco</name> la guerra</l>
+<l>facta a <name>Ferrara</name> per acqua e per terra.</l>
+</lg>
+<lg><l>Ben che non è la prima volta questa</l>
+<l>che di <name>Ferrara</name> la cità ornata</l>
+<l>s'è ritrovata a simil giochi e festa</l>
+<l>quatro volte San <name>Marco</name> l'<add>ha</add> assediata</l>
+<l>sì come la cronicha manifesta</l>
+<l>facendoli battaglia iudicata</l>
+<l>questa è la quarta che assediata l'ae</l>
+<l>che sempremai de lor se ne dirae.</l>
+</lg>
+<lg><l>Sempremai guarda il fin l'huom sapiente</l>
+<l>e contemplando ciò molto comprehende</l>
+<l>che 'l iudicio morale apertamente</l>
+<l>mostra ogni simil suo simil attende</l>
+<l>chi non estima è stimato niente</l>
+<l>e colui che è offeso se offende</l>
+<l>e merito per merito s'aspetta</l>
+<l>e vechia ingiuria fa nova vendetta.</l></lg>
+<lg><l>O quanti piglan dell'emprese al mondo</l>
+<l>che molte volte son mal consegliati</l>
+<l>ch'en cagione de mettere al fondo</l>
+<l>et in ruina illor felici stati</l>
+<l>o quanti exempli per l'<name>italia</name> atondo</l>
+<l>havuti non son troppi anni passati</l>
+<l>si che dubito per una citade</l>
+<l>non balli tutta la christianitade.</l></lg>
+<lg><l>L'octantadue la excelsa signoria</l>
+<l>stendendo le ale da ponente al levante</l>
+<l>a <name>Lungharo</name> al <name>Soldano</name> e ala <name>turchia</name></l>
+<l>e nela <name>Lombardia</name> ha terre tante</l>
+<l>nel gran conssiglio deliberato havea</l>
+<l>far guerra contra il principe del diamante</l>
+<l>e facto havean generale imprese</l>
+<l>d'havere <name>Ferrara</name> bella col paese.</l></lg>
+<lg><l>E poi che fusse el <name>Diamante</name> assediato</l>
+<l>et la gran guerra per la longha andasse</l>
+<l>et se dovessen ben perder lo stato</l>
+<l>che mai l'impresa non s'abandonasse</l>
+<l>e prestamente sia decapitato</l>
+<l>chi fra cinque anni di pace parlasse</l>
+<l>non bastando l'havere il gran thesoro</l>
+<l>che metteranno la vita el sangue loro.</l></lg>
+<lg><l>Et se venisse alcuna ambasciaria</l>
+<l>di Re o d'alcuna altra potenza</l>
+<l>a preghare questa excelsa Signoria</l>
+<l>el Duce gli dispogha a patienza</l>
+<l>o papa imperator o qual se sia</l>
+<l>li si gli dia sotto brevità licenza</l>
+<l>né pace o pacti se faza né triegha</l>
+<l>contra il <name>Diamante</name> e la sua gran legha.</l></lg>
+<lg><l>Et prestamente si hebbeno soldato</l>
+<l>el signor <name>Ruberto</name> da <name>San Severino</name></l>
+<l>per capitan general fu chiamato</l>
+<l>al possente <name>Veneto</name> domino</l>
+<l>el triomphante bastone gli fu dato</l>
+<l>sì come a francho e nero paladino</l>
+<l>si come egli è il vero per certo</l>
+<l>gagliardo nel'arme francho experto.</l></lg>
+<lg><l>El qual pigliò l'incarico e l'imprese</l>
+<l>in brieve tempo dare in lor bailia</l>
+<l><name>Ferrara</name> e tutto quanto el ferrarese</l>
+<l>et cum gran gente se mise per via</l>
+<l>di magio cavalcò el primo del mese</l>
+<l>con suoi septe figlioli in compagnia</l>
+<l>el signor conte <name>Antonio</name> da <name>marzano</name></l>
+<l>cum alcun altro francho capitano.</l></lg>
+<lg><l>Et per mezo le valle cavalcoe</l>
+<l>che non possò mai tutto quel dine</l>
+<l>e tanto quel padul attornioe</l>
+<l>che de nemici arivò alle confine</l>
+<l>e sopra dessi un ponte hedificoe</l>
+<l>de legne e magior parte de fassine</l>
+<l>quale era largho amaraviglia</l>
+<l>e per longheza circa septe miglia.</l></lg>
+<lg><l>E in quella nocte el gran ponte passoe</l>
+<l>e per la fanteria che strecto andava</l>
+<l>molti nella palude s'aneghoe</l>
+<l>perchè le squadre ognun solecitava</l>
+<l>e per la furia molti se ne versoe</l>
+<l>sì che dal ponte assai fanti cascavan</l>
+<l>giunto poi a <name>Melara</name> e a <name>Berghentino</name></l>
+<l>e castel novo qual era vicino.</l></lg>
+<lg><l>E le mischine terre sacchegioe</l>
+<l>e lassò stare lor a famme e a duolo</l>
+<l>et longho del gran paese cavalcoe</l>
+<l>a cavallo e a piè il gran stuolo</l>
+<l>e sei grosse bombarde piantoe</l>
+<l>alla gran rocha decta <name>Figharolo</name></l>
+<l>più de tre milia colpi de bombarde</l>
+<l>descaricò alle mure ghagliarde.</l></lg>
+<lg><l>E tanta fu la guerra ismisurata</l>
+<l>che l'una parte e l'altra se sacia</l>
+<l>fu de la rocha gran parte guastata</l>
+<l>che star più alli merli non se potia</l>
+<l>sempre gente fresca dalla <name>Stellata</name></l>
+<l>venia et gli morti portavon via</l>
+<l>fra l'una parte e l'altra fu amazati</l>
+<l>ben più de tre milia soldati.</l></lg>
+<lg><l>Mai <name>Figharolo</name> se volse dar a patti</l>
+<l>benché fusse battaglia tanto scura</l>
+<l>el sir <name>Ruberto</name> cum repari e ghatti</l>
+<l>et scale e ponti in su le mura</l>
+<l>d'alto e da basso ognun facea fatti</l>
+<l>dentro voglion morire ne l'armadura</l>
+<l>e in quarantasei giorni el campo fiero</l>
+<l>la rocha hebben la nocte di san <name>piero</name></l></lg>
+<lg><l>E poi tre degne castelle conquistoe</l>
+<l>li quali son ne mezo del polese</l>
+<l>troppo battaglia niuno aspectoe</l>
+<l>né cum nemici fen troppo difese</l>
+<l><name>Lendenara</name> a pacto se donoe</l>
+<l>e la <name>Badia</name> similmente fese</l>
+<l>e poi <name>Rovigo</name> presen che quelli denro</l>
+<l>detton la terra a loro per tradimento.</l></lg>
+<lg><l>El sir <name>Ruberto</name> a <name>Figarol</name> tornoe</l>
+<l>cum tutto el campo in compagnia</l>
+<l>in su la punta se deliberoe</l>
+<l>de fabricare una forte bastia</l>
+<l>cum l'armata fé passar el <name>poe</name></l>
+<l>gran gente dove dessignato havia</l>
+<l>ma le scorte le qual eron lì messe</l>
+<l>si avisoron el principe <name>Herculesse</name>:</l></lg>
+<lg><l>El qual illustre principe alto e soprano</l>
+<l>armigero et pien di gagliardia</l>
+<l>sì come un drago cum la lanza in mano</l>
+<l>trovò che comenzavan la bastia</l>
+<l>el conte <name>Antonio</name> pigliò da <name>marzano</name></l>
+<l>col suo figliol di bella compagnia</l>
+<l>ben più de mille apezi ne tagliò</l>
+<l>senza quelli che se negoron nel <name>po</name>.</l></lg>
+<lg><l>El sir <name>Ruberto</name> cum le voglie prompte</l>
+<l>disposto era nel'isola passare</l>
+<l>e prestamente un lagrho e magno ponte</l>
+<l>sopra navili fece hedificare</l>
+<l>scontro de l'isola afronte afronte</l>
+<l>che dipocho manchava d'arivare</l>
+<l>d'homin d'arme e forte carichato</l>
+<l>sì come paladin ciascuno armato.</l></lg>
+<lg><l>Essendo il ponte alla riva vicino</l>
+<l>a smontare niuno era parato</l>
+<l>ma el valoroso e gran Duca d'<name>urbino</name></l>
+<l>molti passavolanti havea piantato</l>
+<l>che nol sapea quel da <name>san Severino</name></l>
+<l>et similmente fuocho lavorato</l>
+<l>serpentine e grossissime bombarde</l>
+<l>e senza numero di molte spingarde.</l></lg>
+<lg><l>Essendo el ponte tutto carichato</l>
+<l>apparechiti a smontar tutti quanti</l>
+<l>si fu buttato fuocho lavorato</l>
+<l>et scarichati li passavolanti</l>
+<l>e disubito el ponte fu abrugiato</l>
+<l>e morti homin d'arme e fanti</l>
+<l>et molti e molti sì se aneghoe</l>
+<l>ché armati se gettava dentro el poe.</l></lg>
+<lg><l>In quel giorno a <name>Comachio</name> arivano</l>
+<l>l'armata de <name>Venetia</name> che 'l conquistoe</l>
+<l>ma el principe <name>Herculesse</name> lo soprano</l>
+<l>cum molta furia sì lo requistoe</l>
+<l>cum la sua gente cum la spada in mano</l>
+<l>e ben septecento a pezi ne taglioe</l>
+<l>e poi el decto <name>Comachio </name>abrugiò</l>
+<l>e il podestà pregion se ne menò.</l></lg>
+<lg><l>Torniamo al gran campo de Venetiani</l>
+<l>che erano quarantamile in compagnia</l>
+<l>del <name>polese</name> teneano tutti i piani</l>
+<l>e per l'aere grossa assai ne moria</l>
+<l>fra quelle valle paduli e pantani</l>
+<l>non fu morbo ma pezo che moria</l>
+<l>tredecimilia morti ne restoe</l>
+<l>et tutto el resto del campo amaloe.</l></lg>
+<lg><l>E poi d'agosto morì el Duca d'<name>urbino</name></l>
+<l>lo principe <name>Herculesse</name> se amaloe</l>
+<l>el simile el Conte de <name>san severino</name></l>
+<l>cum alcuni de soi figlioli se infirmoe</l>
+<l>e quel magno <name>Ruberto</name> paladino</l>
+<l>el dicto mese in pace se passoe</l>
+<l>e de ogni gente assai se ne infirmò</l>
+<l>onde assai tempo se campegiò.</l>
+</lg>
+<lg><l>E come quel aere se refreschò</l>
+<l>la Signoria tutta la invernata</l>
+<l>gente infinita sempremai soldò</l>
+<l>e mise nel po una horribil armata</l>
+<l>e tutti quanti i gran passi pigliò</l>
+<l>atorno atorno la cità ornata</l>
+<l>qual eran più de cinquecento vele</l>
+<l>armate tutte di gente crudele.</l></lg>
+<lg><l>E cinque parte si fece de l'armata</l>
+<l>sempremai assai fuste venia</l>
+<l>una parte era contra la <name>Stellata</name></l>
+<l>l'altra fra <name>figarolo</name> e <name>hostia</name></l>
+<l>la terza tenea <name>Argenta</name> assediata</l>
+<l>la quarta attento residentia facea</l>
+<l>e la quinta era al ponte alla vescura</l>
+<l>qual era grande grossa oltra misura.</l></lg>
+<lg><l>Appresso el signor <name>Ruberto</name> nobil conte</l>
+<l>cum tutta quanta la sua gente armata</l>
+<l>col gran campo alogiò afronte afronte</l>
+<l>dove era una bastia hedificata</l>
+<l>onde sopra el po fece un gran ponte</l>
+<l>e fu la decta bastia conquistata</l>
+<l>e cum gran gente intrò dentro dal <name>barco</name></l>
+<l>e drizò lo stendardo de San <name>Marco</name>.</l></lg>
+<lg><l>Essendo infermo el principe de <name>ferara</name></l>
+<l>e assediata la cità giolia</l>
+<l>se ritrovava cum gran doglia amara</l>
+<l>e in gravi affanni e gran malanconia</l>
+<l>dicendo legha cara de ripara</l>
+<l>in voi ho posto la speranza mia</l>
+<l>ma se San <name>Marco</name> me conquistarà</l>
+<l>mal contenta poi tu ne sarà.</l></lg>
+<lg><l>Poi che 'l <name>Diamante</name> gran lamento fese</l>
+<l>al padre sancto al Re e a <name>Milano</name></l>
+<l>e a <name>Firenze</name> non varghò un mese</l>
+<l>che ciaschedun mandò el suo capitano</l>
+<l>da <name>Napoli</name> venne el Duca calabrese</l>
+<l><name>Virgilio orsino</name> col signor <name>Giordano</name></l>
+<l>e quel di <name>Pitiglian</name> se mise in via</l>
+<l>col Duca de <name>calabria</name> in compagnia.</l></lg>
+<lg><l>E misier <name>Bonifacio</name> in sella armato</l>
+<l>venne in aiuto cum la lanza in mano</l>
+<l>el qual era marchese de <name>Monferato</name></l>
+<l>et anchor venne <name>Sforza</name> de <name>milano</name></l>
+<l>e <name>Pietro</name> <name>dal vermo</name> ne l'arme provato</l>
+<l>e misier <name>Zanfrancescho</name> il mantuano</l>
+<l>el signor <name>Costanzo</name> di valore</l>
+<l>e misier <name>Marco</name> da <name>Carpi</name> signore.</l></lg>
+<lg><l>El regal Duca cum franchi baroni</l>
+<l>si provede a tutte le frontiere</l>
+<l>fece ripari e magni bastioni</l>
+<l>operando el suo inzegno et gran sapere</l>
+<l>Gironi Revelini e gran Torrioni</l>
+<l>e mise a tutti i passi molte schiere</l>
+<l>e gran gente nel borgho del <name>Lione</name></l>
+<l>e fece al viver magna provisione</l></lg>
+<lg><l>Del Re <name>Ferante</name> la nobi<add>l</add> Corona</l>
+<l>cum l'alta legha di gran valimento</l>
+<l>deliberorno di dentro in <name>Cremona</name></l>
+<l>in concistorio far il parlamento</l>
+<l>a quel furono tutti i signori in persona</l>
+<l>per dare effecto cum provedimento</l>
+<l>e per dispore l'universo consiglio</l>
+<l>per trar <name>Ferrara</name> d'afanno e periglio.</l></lg>
+<lg><l>E in questo concistoro ornato</l>
+<l>se trovò el gran Cardinale mantuano</l>
+<l>el quale venue a <name>Ferrara</name> per leghato</l>
+<l>el grande ambasciador suo d'altra mano</l>
+<l>el gran Duca de <name>calabria</name> ornato</l>
+<l>el principe <name>Hercules</name> alto e soprano</l>
+<l>col signor <name>Ludovico</name> de <name>Milano</name></l>
+<l>e il famoso Marchese mantuano.</l></lg>
+<lg><l>E quel magno <name>Lorenzo</name> da <name>Fiorenza</name></l>
+<l>col magnifico <name>zoan bentivogli</name> di valore</l>
+<l>si son trovati tutti ala presenza</l>
+<l>et alcuno altro degno ambasciatore</l>
+<l>et è concluso questo e la sentenza</l>
+<l>la nobil legha vuol haver honore</l>
+<l>e son disposti tutti de far guerra</l>
+<l>contra San <name>Marco</name> per mar e per terra</l></lg>
+<lg><l>E sapiate che la gran legha ornata</l>
+<l>sì è possente e di tanto valore</l>
+<l>savia iusta e molto temperata</l>
+<l>et alla Signoria facto hanno honore</l>
+<l>cercando che la pace sia tractata</l>
+<l>in arme se miseno cum furore</l>
+<l>et vedendo che venetiani voglion guera</l>
+<l>la legha la vòl per mare e per terra.</l></lg>
+<lg><l>Ognun parlò nel concilio altamente</l>
+<l>dal canto suo contra la Signoria</l>
+<l>dicendo al presente e tanto possente</l>
+<l>che non istima legha o qual se sia</l>
+<l>se lo stato de <name>italia</name> è perdente</l>
+<l>tutta <name>italia</name> voranno in lor bailia</l>
+<l>e dominare voranno in mare e in terra</l>
+<l>però arditamente faciangli guerra.</l></lg>
+<lg><l>E fu deliberato in concistoro</l>
+<l>tutti a un tratto voler romper guerra</l>
+<l>e chiaschedun mise mano al thesoro</l>
+<l>e fatto grande armata in mare e in terra</l>
+<l>intendendo di voler gli confin loro</l>
+<l>et sia restituita ogni lor terra</l>
+<l>primo dimanda el Duca de <name>milano</name></l>
+<l><name>bergamo</name> <name>crema</name> <name>bressa</name> col bressano.</l></lg>
+<lg><l>Et di <name>Mantua</name> il famoso Marchese</l>
+<l>dimanda all'ardita Signoria</l>
+<l>el lagho di <name>gharda</name> cum tutto el paese</l>
+<l>che già casa <name>gonzagha</name> si ghodea</l>
+<l>quel di <name>Ferrara</name> dimanda el <name>polese</name></l>
+<l>et li confini restituito gli sia</l>
+<l>quel d'ongheria infio ad una penna</l>
+<l>revole el Papa <name>Cervia</name> cum <name>Ravenna</name>.</l></lg>
+<lg><l>Lasciamo stare el conseglio soprano</l>
+<l>hora ritorniamo alla nobil signoria</l>
+<l>et al signor <name>Ruberto</name> capitano</l>
+<l>ch' al puncto ha messo el sir <name>Pieromaria</name></l>
+<l>el quale si ruppe guerra in parmesano</l>
+<l>per le gran parte che dentro gli havia</l>
+<l>se mise tutto el populo a rumore</l>
+<l>pensando del pa<add>e</add>se esser signore.</l></lg>
+<lg><l>Ducati assai gli de' la Signoria</l>
+<l>e fecel di gran gente capitano</l>
+<l>di molte squadre et magna fanteria</l>
+<l>e corse a <name>parma</name> per coste e per piano</l>
+<l>abrusando et facendo scorreria</l>
+<l>et similmente fece nel regiano</l>
+<l>e in più modi la Signoria el tentone</l>
+<l>per mettere in ruina el gran biscione.</l></lg>
+<lg><l>Ma el Duca de <name>barri</name> alto e iocondo</l>
+<l>el qual signor <name>Ludovico</name> è chiamato</l>
+<l>cum gran sforzo assediò <name>san Segondo</name></l>
+<l>el qual fu crudelmente abandonato</l>
+<l>et dirupato da alto e da fondo</l>
+<l>fu per insino a terra spianato</l>
+<l>et discaciato fu <name>Pietro</name> <name>maria</name></l>
+<l>e per sé tutta la sua signoria.</l></lg>
+<lg><l>La Signoria fece tutta sua possanza</l>
+<l>in mare in terra per li rami del <name>po</name></l>
+<l>e fece venire Suizeri e di <name>Franza</name></l>
+<l>el gran Duca de <name>Lorhen</name> soldò</l>
+<l>qual è una ghagliarda e francha lanza</l>
+<l>intorno de <name>Ferrara</name> s'acampò</l>
+<l>el qual Duca armigero experto</l>
+<l>restò in scambio del signor <name>ruberto</name></l></lg>
+<lg><l>El <name>Sanseverino </name>el presacto conte</l>
+<l>più di cento navili fece fare</l>
+<l>e scontrò di <name>Trezzo</name> a fronte a fronte</l>
+<l>cum li carri si li fece portare</l>
+<l>sopra le qual un largho e magno ponte</l>
+<l>sopra de l'adda fece hedificare</l>
+<l>e su lì passò cum la gran compagnia</l>
+<l>la qual gli havea dato la Signoria.</l></lg>
+<lg><l>El primo fu che lo passò in persona</l>
+<l>e ciascun impug<add>n</add>ato havea la lanza</l>
+<l>cridando tutti Duca Bona bona</l>
+<l>tenendo quello per anticha usanza</l>
+<l>che fece alla terra di <name>Tortona</name></l>
+<l>havendo ferma e vera speranza</l>
+<l>che 'l popul se levasse a rumore</l>
+<l>pensa<add>n</add>do di <name>Milan </name>farsi signore.</l></lg>
+<lg><l>E ben quindeci dì tenne lo ponte</l>
+<l>che sempre Duca e Bona se cridava</l>
+<l>sol pensando de far le gente prompte</l>
+<l>e per veder se 'l popul se voltava</l>
+<l>armati cum le visere alla fronte</l>
+<l>le voce le trombette a l'aer risonava</l>
+<l>onde che 'l nobil Duca de <name>milano</name></l>
+<l>el caso gli è paruto molto strano.</l></lg>
+<lg><l>Unde el signor <name>Ludovico</name> s'è adirato</l>
+<l>contra la Signoria fortemente</l>
+<l>e per soi cavalari havea avisato</l>
+<l>tutta la gran legha possente</l>
+<l>onde el Duca de <name>calabria</name> ornato</l>
+<l>de nocte cavalcando cum gran gente</l>
+<l>che forsi vi faresti mareviglia</l>
+<l>che inanti bere fece octanta miglia.</l></lg>
+<lg><l>El sir <name>Ruberto</name> el predecto conte</l>
+<l>venendo in furia el Duca calabrese</l>
+<l>sopra de l'adda guastò el decto ponte</l>
+<l>et isgombrò di <name>Berghamo</name> il paese</l>
+<l>armati con le visere alla fronte</l>
+<l>et si fe' retiro nel veronese</l>
+<l>longo al lagho di <name>gharda</name> alla riviera</l>
+<l>forte se fece nel castel de <name>peschiera</name>.</l></lg>
+<lg><l>Unde ha electo la legha possente</l>
+<l>per principal general capitano</l>
+<l>el duca <name>Alphonso</name> armigero valente</l>
+<l>el triomphante bastone hebbe in mano</l>
+<l>e che ognuno a lui sia obediente</l>
+<l>per valle e coste per montagne e piano</l>
+<l>l'albitrio gli hanno dato e commissione</l>
+<l>fare alto e basso a sua discretione.</l></lg>
+<lg><l>E qual gran Duca armigero e valente</l>
+<l>nemico capital de Venetiani</l>
+<l>soldato ha molto valorosa gente</l>
+<l>cum lo sforzo de soi napolitani</l>
+<l>et ha facto venire di presente</l>
+<l>spagnoli ragonesi e capuani</l>
+<l>gente mortale e homin di valore</l>
+<l>sì come quel che vole haver honore.</l></lg>
+<lg><l>E cavalcò col nobil stendardo</l>
+<l>cum cento cinquanta squadre in compagnia</l>
+<l>e intrò in campo come un leopardo</l>
+<l>cum molti gran signori di gagliardia</l>
+<l>in facti d'arme ciascadun gagliardo</l>
+<l>de grado in grado la gran baronia</l>
+<l>cum mol<add>t</add>i gran signori e capitani</l>
+<l>han rotto guerra contra Venetiani.</l></lg>
+<lg><l>Principalmente el Duca de <name>milano</name></l>
+<l>sforcescho <name>Zangaleazo</name> <name>maria</name></l>
+<l>mandone el gran Marchese mantuano</l>
+<l>capitan de la sua signoria</l>
+<l>et alcunaltro signor e capitano</l>
+<l>cum molta magna e nobil baronia</l>
+<l>essendo cum gran triompho cavalcati</l>
+<l>col Duca de <name>calabria</name> compagnati.</l></lg>
+<lg><l>El signor <name>Ludovico</name> appreciato</l>
+<l>el qual si è capitan di ventura</l>
+<l>ha similmente gran gente soldato</l>
+<l>a caval et a piè oltra misura</l>
+<l>con l'armigero <name>Sforza</name> acompagnato</l>
+<l>qual son dui paladin nel'armadura</l>
+<l>cum molte squadre e valorosa gente</l>
+<l>col campo sono de la legha possente.</l></lg>
+<lg><l>El conte <name>Girolamo</name> di valore</l>
+<l>è nel gran campo dela legha egregia</l>
+<l>el qual per acquistar fama e honore</l>
+<l>tutto lo sforzo ha sieco della chiesia</l>
+<l>sichè il gran campo è uno stupore</l>
+<l>che è contra la Sgnoria de <name>Venesia</name></l>
+<l>appresso a lui el conte <name>Antonio</name> d'<name>urbino</name></l>
+<l>cum le sue squadre el franco paladino.</l></lg>
+<lg><l>Et appresso gli signor Fiorentini</l>
+<l>solicitando la lehga possente</l>
+<l>si mandorono giù li sacchi de fiorini</l>
+<l>che <name>Marzocco</name> non lassa afar niente</l>
+<l>aciò che li capitani paladini</l>
+<l>sian prompti arditi e ciaschedun valente</l>
+<l>e così tutta la legha è refermata</l>
+<l>che sia guerra e battaglia iudicata.</l></lg>
+<lg><l>Or torniamo al Duca calabrese</l>
+<l>el signor <name>Ludovico</name> in compagnia</l>
+<l>e di <name>mantua</name> el famoso Marchese</l>
+<l>el conte <name>Girolamo</name> e gran baronia</l>
+<l>si hanno ben quaranta terre prese</l>
+<l>qual eranno tutte dela Signoria</l>
+<l>e pel gran campo che è oltra misura</l>
+<l>molti portan le chiave per paura.</l></lg>
+<lg><l>E pel paese dela Signoria</l>
+<l>di <name>Berghamo</name> e di tutto el <name>Bressano</name></l>
+<l>si hanno facto grande iscorreria</l>
+<l>per valle coste per monte per piano</l>
+<l>pregioni assai hanno menato via</l>
+<l>paese distructo assai d'ogni mano</l>
+<l>e molte prede via hanno menato</l>
+<l>che caricho se n'è ogni soldato.</l></lg>
+<lg><l>Di quel da <name>Gambaro</name> più terre hanno prese</l>
+<l>dove era facto gran monitione</l>
+<l>di formento di tutto quel paese</l>
+<l>credendo esser sicure le persone</l>
+<l>et in quelle non esser offese</l>
+<l>sono ite a saccho e destructione</l>
+<l>ben cinquanta milia some di grano</l>
+<l>di quel da <name>Martinengho</name> da l'altra mano.</l></lg>
+<lg><l>E quante terre e ville sono prese</l>
+<l>sono ite a saccho e destructione</l>
+<l>et abrusate in mancho d'un mese</l>
+<l>e guaste che è una compassione</l>
+<l>che prima se rideano del ferrarese</l>
+<l>hor gli è tornato in gran cofusione</l>
+<l>e tutti biasteman di <name>Venetia</name> l'imprese</l>
+<l>quando ma roppe guerra in ferrarese.</l></lg>
+<lg><l>Lasciamo star il lor pianto amaro</l>
+<l>come meschina se lamenta e lagna</l>
+<l>a trenta lire la somma del gran charo</l>
+<l>tal triumphava che or del'erba magna</l>
+<l>torniamo al campo che a <name>Montechiaro</name></l>
+<l>ha prese terre assai per la campagna</l>
+<l>et assediato el nobil campo hae</l>
+<l>el degno castello de <name>Lunae</name>.</l></lg>
+<lg><l>E tanto il campo ene a mareviglia</l>
+<l>che mai fu tal a tempo de christiani</l>
+<l>che quanto se poe alzar le ciglia</l>
+<l>padiglioni se vede per tutti quei piani</l>
+<l>che tien per ogni verso cinque miglia</l>
+<l>le squadre de signori e capitani</l>
+<l>che 'l par el campo del Turcho a vedere</l>
+<l>gl<add>i</add> padiglioni trabacche e bandiere.</l></lg>
+<lg><l>El Duca de <name>calabria</name> cavalcoe</l>
+<l>cum tutta quanta la sua compagnia</l>
+<l>la forte terra de <name>Asola</name> assedioe</l>
+<l>la quale el gran campo la impedia</l>
+<l>più volte la victuaglia gli piglioe</l>
+<l>et ogni giorno facea scorreria</l>
+<l>e contra guerra li facea battaglia</l>
+<l>che non possea passare la victuaglia.</l></lg>
+<lg><l>El duca <name>Alphonso</name> armigero valente</l>
+<l>si fece molte bombarde apparechiare</l>
+<l>a torno alla terra prestamente</l>
+<l>e molti grandi e horribili mortari</l>
+<l>e briccole trabacche similmente</l>
+<l>pietre carogne fe' dentro buttare</l>
+<l>iesù misericordia ognun cridava</l>
+<l>per le gran pietre che dentro cascava.</l></lg>
+<lg><l>El Duca li mandò a minazare</l>
+<l>se non li davano <name>Asola</name> in so balia</l>
+<l>che per ogni modo li vuol sachegiare</l>
+<l>e mandò a dire per una ambasciaria</l>
+<l>che de lor gran stratio ne vuol fare</l>
+<l>se nelle mane viene alla sua signoria</l>
+<l>et guastadori fece ire oltra misura</l>
+<l>cum picchoni in man tagliando le mura.</l></lg>
+<lg><l>Essendo molta muranglia spianata</l>
+<l>el Duca mandò gente oltra misura</l>
+<l>et detton battaglia ismesurata</l>
+<l>sagliendo molti sopra delle mura</l>
+<l>gran gente di fuora e dentro fu guastata</l>
+<l>assai ne fugian in drieto per paura</l>
+<l>bombardando sera e matina</l>
+<l>buttando oglio caldo cum calcina.</l></lg>
+<lg><l><name>Asola</name> mandò alla Signoria</l>
+<l>che gli dovesse soccorso mandare</l>
+<l>e che più tenere non se potia</l>
+<l>vedendo a terra le mure cascare</l>
+<l>et grande armata mandoron a <name>Ostia</name></l>
+<l>pensando el campo d'<name>asola</name> levare</l>
+<l>havendo <name>Asola</name> alle mure aspra guerra</l>
+<l>al Duca se rende la magna terra.</l></lg>
+<lg><l>Essendo <name>Asola</name> presa per asseggio</l>
+<l>el sir <name>Ruberto</name> el valoroso conte</l>
+<l>prestamente scontrò di <name>Valeggio</name></l>
+<l>si fece forte disopra un monte</l>
+<l>dubitando de non havere el peggio</l>
+<l>scontrò dela terea afronte afronte</l>
+<l>et forte sbarre intorno al monte fese</l>
+<l>aspectando el Duca calabrese.</l></lg>
+<lg><l>El Duca de <name>calabria</name> el sir perfecto</l>
+<l>el qual si è armigero experto</l>
+<l>diede una volta e pigliò el borgetto</l>
+<l>per afrontare el signor Ruberto</l>
+<l>e di serarlo a qualche passo stretto</l>
+<l>o come che gli riuscì di certo</l>
+<l>ma el sir <name>Ruberto</name> si non l'aspectò</l>
+<l>in verso <name>Verona</name> se ne ritornò.</l></lg>
+<lg><l>Ma el Duca disposto mai possare</l>
+<l>e <name>Sforza</name> <name>Berghamo</name> ha assediato</l>
+<l>el Duca de <name>calabria</name> fe' alogiare</l>
+<l>in sul <name>Bressano</name> el campo ismisurato</l>
+<l>et lì s'intende di voler svernare</l>
+<l>col signor <name>Ludovico</name> acompagnato</l>
+<l>e di <name>mantua</name> el possente Marchese</l>
+<l>el simile se fa nel Veronese</l></lg>
+<lg><l>Perché l'inve<add>r</add>no è grande fuor de misura</l>
+<l>alla campagna non si pò più stare</l>
+<l>et per cavalli non c'è più pastura</l>
+<l>e malamente ni si pò alogiare</l>
+<l>aspectando che torni la verdura</l>
+<l>per poter a suo modo armigiare</l>
+<l>e li capitani cerchan ogni vantazo</l>
+<l>per farsi a primavera gran dalmazo.</l></lg>
+<lg><l>Onde che la dicta Signoria</l>
+<l>ha facto molto grande provisione</l>
+<l>et per lor capitan facto sia</l>
+<l>el famoso bastardo borgognone</l>
+<l>e fan venire di <name>grecia</name> e d'<name>albania</name></l>
+<l>stradiotti assai tutti in arcione</l>
+<l>et fansi forte per ogn<add>i</add> frontiera</l>
+<l>dubitando di questa primaviera</l></lg>
+<lg><l>Et hanno mosso in mare grande armata</l>
+<l>et armano sempre continuamete</l>
+<l>et è grande grossa e smisurata</l>
+<l>e sopra del mare molto possente</l>
+<l>hor si sta in ordine preparata</l>
+<l>perché al presente non si pò far niente</l>
+<l>et tanto forti se fano in mar e in terra</l>
+<l>come se richiede a sì horibil guerra.</l></lg>
+<lg><l>E se non fusse il lagho ismisurato</l>
+<l>el Duca de <name>calabria</name> il paladino</l>
+<l>col signor <name>Ludovico</name> ha desfidato</l>
+<l>el signor <name>Ruberto</name> da <name>san Severino</name></l>
+<l>e non può passare in niun lato</l>
+<l>che l'ha serrà ogni passo e camino</l>
+<l>et fra il lagho e paduli el longho muro</l>
+<l>fa stare el signor <name>Ruberto</name> sicuro.</l></lg>
+<lg><l>Ma el campo è disposto di passare</l>
+<l>e molte grosse terre hanno assediato</l>
+<l>et danno el guasto a chi non se vòl dare</l>
+<l>e han di grosse bombarde piantato</l>
+<l>e non si possian mai arampegiare</l>
+<l>et de far facti el campo smisurato</l>
+<l>sì che dentro alla cità de <name>Verona</name></l>
+<l>ognun si fugge el paese abandona.</l></lg>
+<lg><l>Lasciam el campo della legha galante</l>
+<l>parliamo della grande magna armata</l>
+<l>la qual mise in mare il Re <name>Ferante</name></l>
+<l>horribile et molto smisurata</l>
+<l>che scorso ha le riviere tutte quante</l>
+<l>tenendo il gholfo di <name>Venetia</name> assediata</l>
+<l>pigliando velle assai sopra el mare</l>
+<l>che Venetian non possan navighare.</l></lg>
+<lg><l>E da l'altro canto il Re d'<name>ungaria</name></l>
+<l>perché L'imperio non gli dona il passo</l>
+<l>di venire contro alla Signoria</l>
+<l>de le sue terre fa il gran fracasso</l>
+<l>e per la magna grande scorreria</l>
+<l>spianando terre e forteze a basso</l>
+<l>e prese alcune terre a gran furore</l>
+<l>quale eranno tutte di valore.</l></lg>
+<lg><l>Onde fa tutto il paese tremare</l>
+<l>et ha messo L'imperio a grave serre</l>
+<l>et intende nel <name>Friul</name> passare</l>
+<l>e voler di San <name>Marco</name> le sue terre</l>
+<l>et il principe di <name>Ferrara</name> difensare</l>
+<l>qual giustamente fa tutte le gerre</l>
+<l>in campo ha seco valorosa gente</l>
+<l>e in ogni impresa fu sempre vincente.</l></lg>
+<lg><l>La qual nobil corona de <name>Ungheria</name></l>
+<l>volendo presto nel <name>Friul</name> passare</l>
+<l>li mosse guerra anchor quel di <name>turchia</name></l>
+<l>per voler a San <name>Marco</name> riparare</l>
+<l>e fare che <name>Lungharo</name> non passassi via</l>
+<l>né potesse le sue terre acquistare</l>
+<l>ma <name>Lungharo</name> cum la sua gente francha</l>
+<l>rotto ha li turchi all'acqua biancha.</l></lg>
+<lg><l>Lasciam L'imperio et il Re de l'ungheria</l>
+<l>torniamo al grande Re <name>Ferante</name> ornato</l>
+<l>c'ha facto hor legha cum quel de turchia</l>
+<l>e l'un a l'altro un stagio ha mandato</l>
+<l>el qual renduto gli ha l'artegliaria</l>
+<l>et ciò che 'l ottronte ha acquistato</l>
+<l>e per vinticinque anni colleghati</l>
+<l>per buona pace sono afratellati.</l></lg>
+<lg><l>El tuo misier <name>Baptista</name> cremonese</l>
+<l>et l'ornato doctore di piasenza</l>
+<l>e misier <name>Pietro</name> buono ferrarese</l>
+<l>e gli altri da <name>Bologna</name> e da <name>Fiorenza</name></l>
+<l>se hanno sopra ciò tolto l'imprese</l>
+<l>et concluso tutti una sentenza</l>
+<l>secondo monstra lor la strologia</l>
+<l>di quel che in questo octantaquatro fia.</l></lg>
+<lg><l>Quest'anno per la grande Astrologia</l>
+<l>le influentie che harà alcuna terra</l>
+<l>maximamente nela <name>Lombardia</name></l>
+<l>serà il gran caro anchora aspra guerra</l>
+<l>et il bel paese de la Signoria</l>
+<l>si debbe trovare in grave serra</l>
+<l>et li rustici destructi da ogni mano</l>
+<l>de <name>Vicenza</name> e di <name>Treviso</name> e paduano.</l></lg>
+<lg><l>E di <name>Ferrara</name> l'ornato Marchese</l>
+<l>si debbe raquistar ogni sua terra</l>
+<l>e ritornare alle confin del polese</l>
+<l>requistarlo tutto per forza di guerra</l>
+<l>et stare alla pugna e alle diffese</l>
+<l>e mettere li inimici a gran serra</l>
+<l>la senteza de chi serà nocente</l>
+<l>dechiaranno la legha esser vincente.</l></lg>
+<lg><l>Unde preghiam lo eterno Re de gloria</l>
+<l>che faza questa legha prosperare</l>
+<l>et che gli piacia donargli victoria</l>
+<l>da ogni banda per terra e per mare</l>
+<l>e discreti auditori la degna historia</l>
+<l>rimata per volervi pi<add>a</add>cer dare</l>
+<l>o nobil gentilhomo e citadino</l>
+<l>l'ornata historia sta a un bolognino.</l></lg>
+</body></text>
+</TEI.2>

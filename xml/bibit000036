@@ -1,0 +1,3298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Poesie politiche e romanze</title>
+      <author>Giovanni Berchet</author>
+    </titleStmt>
+    <extent>140 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2003</date>
+      <idno>bibit000036</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Opere</title>
+        <title type="part">v.</title>
+        <author>Berchet, Giovanni</author>
+        <editor id="ed">Bellorini, Egidio</editor>
+        <publisher>G. Laterza e figli</publisher>
+        <pubPlace>Bari</pubPlace>
+        <date>1911</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="fre">Francese</language></langUsage>
+    <textClass>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Digitalizzazione - OCR</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LIZ</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2003-03-19T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Simona Casciano</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2003-03-31T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Elena Pierazzo</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 type="sezione">
+<head>I</head>
+<head>I PROFUGHI DI PARGA</head>
+<div2 type="prefazione">
+<head lang="fre">AVERTISSEMENT DE L´AUTEUR</head>
+<p><foreign lang="fre">La conduite du gouvernement britannique envers les
+parganiotes, qui, s´étant mis sous sa protection, ont été livrés par lui à Ali,
+pacha de Janina, c´est-à-dire à l´ennemi même contre lequel ils avaient invoqué
+le secours des anglais, est trop récente pour qu´il soit nécessaire de la
+retracer aux lecteurs. De tels procédés ne s´oublient pas aisément, surtout à
+une époque où les désastres politiques des peuples sont, d´un bout de l´Europe
+à l´autre, le thème de toutes les conversations, le sujet des plaintes les plus
+amères et le motif des ressentiments les plus généralement répandus et les plus
+tenaces. La magnanimité dont ont fait preuve les victimes de cette trahison
+inouie, les circonstances touchantes de leur fuite et leurs souffrances hors de
+leur pays, ont été l´argument de diverses pièces de poésie en Angleterre et en
+France. J´ai cédé à la tentation de m´exercer sur le même sujet; et j´ai essayé
+de le traiter d´une manière un peu nouvelle, soit pour la forme, soit pour les
+détails, sans cependant y introduire aucune donnée qui exigeât des
+éclaircissements particuliers, ni d´autre notion que celles qui se trouvent
+dans toutes les gazettes du temps qui ont parlé de la catastrophe de Parga.
+Quiconque aura lu ces gazettes reconnaîtra sans peine, dans la petite
+composition suivante, à travers les accessoires d´invention, ce fond d´histoire
+et de vérité, que l´on regarde aujourd´hui comme la base indispensable de toute
+poésie sérieuse et forte, et qui, partout où il existe, ajoute à l´intérêt et
+aux beautés de l´art, ou supplée jusqu´à un certain point à l´insuffisance du
+talent de l´artiste. A ce titre du moins, et en faveur du sentiment qui me les
+a dictés, j´espère quelque indulgence pour les vers suivants.</foreign></p>
+<p><foreign lang="fre">Les particularités historiques, auxquelles je n´ai pu
+faire allusion que d´une manière vague et sommaire, sont en fort petit nombre.
+Elles seront éclaircis dans quelques citations ajoutées, en forme de notes, au
+texte du poème. Il sera facile aux lecteurs qui souhaiteraient des informations
+plus amples, de recourir aux ouvrages mêmes d´où j´ai tiré les renseignements
+auxquels j´ai cru devoir me borner. Que la perfidie du cabinet britannique
+envers les parganiotes ait été, en Angleterre comme partout, un sujet
+d´indignation et de douleur pour les âmes honnêtes, c´est un fait
+incontestable, avéré et que je reconnais avec plaisir. J´espère donc n´avoir
+blessé, en Angleterre non plus qu´ailleurs, aucune personne de caractère et de
+sentiment, de celles dont j´ambitionne et voudrais mériter le suffrage. Rien du
+moins, je le proteste, n´a été plus loin de mes intentions.</foreign></p>
+<p><foreign lang="fre">Les peuples de l´Europe ne sont ni ne peuvent être
+sérieusement ennemis les uns des autres, et moins que jamais aujourd´hui qu´ils
+se trouvent presque tous dans un état de souffrance, où la douleur concourt
+avec la raison et les lumières à développer parmi eux ce sentiment de
+nationalité européenne qui commence à les rapprocher. Le lieu où se passe
+l´action est Corfou, où l´on sait que se réfugièrent quelques uns des
+parganiotes, tandis que la plupart préférèrent, pour s´y retirer, la petite ile
+de Paxos. Pour entrer dans le sujet, il faut supposer que l´un des parganiotes
+fugitifs, assis sur la côte de Corfou, en face de l´Épyre, d´où il contemple
+des yeux du désir sa chère Parga, qu´il aperçoit dans l´éloignement, est saisi
+d´un accès de délire et de désespoir, à l´instant même où un voyageur anglais
+(Henri), auquel il ne fait pas attention, est sur le point d´aborder sur cette
+côte. Le poème commence par un monologue de l´anglais, qui observe avec
+surprise les transports violents du parganiote: celui-ci finit par se
+précipiter, de désespoir, dans la mer; l´anglais accourt et lui sauve la vie. -
+Cela donné, le plan et la marche du poème me paraissent si simples et si
+faciles à saisir, qu´en cherchant à les expliquer d´avance je craindrais de
+faire injure au lecteur; et je désire trop son indulgence pour courir
+volontairement un risque de plus de ne pas l´obtenir.</foreign></p>
+</div2>
+<div2 type="poesia">
+<head>PARTE PRIMA</head>
+<head>LA DISPERAZIONE</head>
+<lg type="romanza">
+<lg>
+<l>- Chi è quel greco che guarda e sospira,</l>
+<l>là seduto nel basso del lido? </l>
+<l>par che fissi rimpetto a Corcira</l>
+<l>qualche terra lontana nel mar. </l>
+<l>Chi è la donna che mette uno strido</l>
+<l>in vederlo una ròcca additar? </l>
+</lg>
+<lg>
+<l>Ecco ei sorge. Per l´erto cammino</l>
+<l>che pensier, che furor l´ha sospinto? </l>
+<l>Ecco stassi che pare un tapino, </l>
+<l>cui non tocchi più cosa mortal. </l>
+<l>Ella corre, il raggiunge, dal cinto</l>
+<l>trepidando gli strappa un pugnal. </l>
+</lg>
+<lg>
+<l>Ahi, che invan la pietosa il contrasta! </l>
+<l>già alla balza perduta ei si affaccia; </l>
+<l>al suo passo il terren più non basta, </l>
+<l>il suo sguardo sui flutti piombò. </l>
+<l>Oh spavento! ei protende le braccia: </l>
+<l>oh sciagura! già il salto spiccò. </l>
+</lg>
+<lg>
+<l>Remiganti, la voga battete; </l>
+<l>affrettate, salvate il furente. </l>
+<l>Ei delira un´orrenda quiete; </l>
+<l>muore e forse non sa di morir. </l>
+<l>O già forse il meschino si pente, </l>
+<l>già rimanda a´ suoi cari un sospir. - </l>
+</lg>
+<lg>
+<l>Disse Arrigo. E de´ remi la lena</l>
+<l>l´ansia ciurma su l´acque distese; </l>
+<l>ma a schernirlo dall´ima carena</l>
+<l>fra i tacenti una voce salì: </l>
+<l>- Che t´importa, o vilissimo inglese, </l>
+<l>se un ramingo di Parga morì? - </l>
+</lg>
+<lg>
+<l>Quella voce è il dispetto de´ forti</l>
+<l>che, traditi, più patria non hanno. </l>
+<l>Que´ voganti alle belle consorti</l>
+<l>corciresi ritornan dal mar. </l>
+<l>Con lor passa a Corcira il britanno, </l>
+<l>poi che i venti al suo legno mancâr. </l>
+</lg>
+<lg>
+<l>Come il reo che dà mente all´accusa</l>
+<l>sentì Arrigo l´ingiuria e si tacque; </l>
+<l>come il reo che non trova la scusa, </l>
+<l>strinse il guardo, la fronte celò; </l>
+<l>e dell´isola avara ov´ei nacque</l>
+<l>sul suo capo l´infamia pesò. </l>
+</lg>
+<lg>
+<l>Ma un nocchiero i compagni rincora</l>
+<l>sorge un altro e lor segna un maroso, </l>
+<l>ecco un altro si affanna alla prora, </l>
+<l>il governo da poppa risté. </l>
+<l>Ecco un plauso: - Su! mira il tuo sposo, </l>
+<l>mira, o donna, perduto non è. - </l>
+</lg>
+<lg>
+<l>Quando Arrigo posarsi al naviglio</l>
+<l>vede il miser, su lui s´abbandona; </l>
+<l>e qual madre alla culla del figlio, </l>
+<l>su le labbra alitando gli vien; </l>
+<l>della vita il tepor gli ridona, </l>
+<l>gli conforta il respiro nel sen. </l>
+</lg>
+<lg>
+<l>I nocchieri a quel corpo grondante</l>
+<l>tutti avvolgono a gara i lor panni; </l>
+<l>tutti a gara d´intorno all´ansante</l>
+<l>gli affatica un´industre pietà. </l>
+<l>Noto a tutti è quell´uom degli affanni, </l>
+<l>ognun d´essi la storia ne sa. </l>
+</lg>
+<lg>
+<l>S´ode un pianto: discesa alla spiaggia</l>
+<l>è la donna che invoca il consorte, </l>
+<l>e alla voga che a lei già viaggia</l>
+<l>più veloce scongiura il vigor. </l>
+<l>Infelice! un´angustia di morte</l>
+<l>le travaglia la speme nel cor. </l>
+</lg>
+<lg>
+<l>A quel prego, sui banchi, giuliva</l>
+<l>del riscatto, la ciurma s´arranca. </l>
+<l>Già vicina biancheggia la riva; </l>
+<l>sotto prora già l´onda sparì; </l>
+<l>già d´un guardo il salvato rinfranca</l>
+<l>la compagna de´ tristi suoi dì. </l>
+</lg>
+<lg>
+<l>L´uom di Parga all´ostello riposa; </l>
+<l>la sua stanca pupilla è sopita. </l>
+<l>Ma a custodia dell´egro la sposa</l>
+<l>quanto è lunga la notte vegliò; </l>
+<l>e a spiarne, tremando, la vita</l>
+<l>su lui spesso ricurva penò. </l>
+</lg>
+<lg>
+<l>Nella veglia angosciosa il britanno</l>
+<l>alla donna soccorre; e le dice: </l>
+<l>- Perché taci e nascondi l´affanno? </l>
+<l>ah! mi svela i segreti del duol; </l>
+<l>narra i guai che al deliro infelice</l>
+<l>fenno esosa la luce del sol. - </l>
+</lg>
+<lg>
+<l>Era il chieder dell´uom che prepara</l>
+<l>un conforto maggior che di pianto; </l>
+<l>e a lei scese su l´anima amara</l>
+<l>come ad Agar la voce del ciel, </l>
+<l>quando gìa pel deserto ed a canto</l>
+<l>le gemea l´assetato Ismael. </l>
+</lg>
+<lg>
+<l> - O cortese, qualunque tu sia, </l>
+<l>no, d´aprirti il mio cor non mi pesa; </l>
+<l>ma ove l´angiol di Parga t´invia</l>
+<l>a veder di sue genti il dolor, </l>
+<l>se tu ascolti parola d´offesa, </l>
+<l>non irarti, ma piangi con lor. - </l>
+</lg>
+<lg>
+<l>Ogni fiel di rampogna futura</l>
+<l>temperò con tai detti l´onesta: </l>
+<l>poi, qual donna che il tempo misura, </l>
+<l>fe´ silenzio e allo sposo tornò; </l>
+<l>la man lieve gli pose alla testa, </l>
+<l>e contenta un suo voto mandò: </l>
+</lg>
+<lg>
+<l>- Dalle membra è svanito l´algore. </l>
+<l>Ah! sien placidi i sonni, e dal ciglio</l>
+<l>si trasfonda la calma nel core; </l>
+<l>né il funestin vaganti pensier, </l>
+<l>che gli parlin di patria, d´esiglio, </l>
+<l>che gli parlin d´oltraggio stranier. - </l>
+</lg>
+<lg>
+<l>Oltre il mezzo è varcata la notte. </l>
+<l>Nel tugurio le tenebre a stento</l>
+<l>da una poca lucerna son rotte</l>
+<l>che già stride vicina a mancar. </l>
+<l>Fuor non s´ode uno spiro di vento, </l>
+<l>non un remo che batta sul mar. </l>
+</lg>
+<lg>
+<l>Tace Arrigo. La greca si asside</l>
+<l>a ridir le sue pene; e sovente</l>
+<l>il sospir la parola precide</l>
+<l>o l´idea nella mente le muor, </l>
+<l>perché al letto dell´uomo languente</l>
+<l>la richiama inquieto l´amor. </l>
+</lg>
+</lg>
+</div2>
+<div2 type="poesia">
+<head>PARTE SECONDA</head>
+<head>IL RACCONTO</head>
+<lg type="romanza">
+<head>I</head>
+<lg>
+<l>Quando Parga e il suo popol fioria</l>
+<l>anch´io spesso nell´alma gustai</l>
+<l>la gentil voluttà d´esser pia. </l>
+<l>Or caduta all´estremo de´ guai, </l>
+<l>mi conforta che almen su me torna</l>
+<l>quella pièta che agli altri donai. </l>
+<l>Oh! se un dì per me lieto raggiorna, </l>
+<l>se un dì mai rivedrò quelle mura</l>
+<l>da cui l´odio di Alì ci distorna, </l>
+<l>se mai vien ch´io risalga secura</l>
+<l>a posar sotto il tiglio romito</l>
+<l>che di Parga incorona l´altura, </l>
+<l>fra i terrori del turbo sparito</l>
+<l>un rifugio fia dolce al cor mio: </l>
+<l>rammentar chi m´ha salvo il marito. </l>
+<l>Ahi! percossa dall´ira di Dio, </l>
+<l>a che parlo speranze di pace, </l>
+<l>se di morte il feroce desio</l>
+<l>forse ancor nel mio sposo non tace? </l>
+</lg>
+<lg>
+<l>Ma i sonni son placidi; </l>
+<l>svanito è l´algor; </l>
+<l>la calma del ciglio</l>
+<l>trasfusa è nel cor. </l>
+<l>Oh Dio! nol funestino</l>
+<l>vaganti pensier</l>
+<l>di patria, d´esiglio, </l>
+<l>d´oltraggio stranier. </l>
+</lg>
+<lg>
+<head>II</head>
+<l>Dalle vette di Suli domata</l>
+<l>l´infedele esecrò le mie genti, </l>
+<l>che una sede ai fuggiaschi avean data. </l>
+<l>Là, su i templi del Dio de´ redenti, </l>
+<l>ecco il rosso stendardo dell´empio </l>
+<l>elevar le sue corna lucenti. </l>
+<l>Quei ehe indisse a Gardichi lo scempio, </l>
+<l>quei che rise in vederlo, ha giurato</l>
+<l>rinnovarne su Parga l´esempio. </l>
+<l>La sua tromba suonò lo spietato; </l>
+<l>noi la nostra, e scendemmo nell´ira</l>
+<l>sul terreno d´Aghià desolato, </l>
+<l>sul terren che le caste rimira</l>
+<l>sue donzelle vendute al servaggio</l>
+<l>e scannati i suoi prodi sospira. </l>
+<l>Gl´infelici eran nostro lignaggio, </l>
+<l>nostri i campi; e a punir noi scendemmo</l>
+<l>chi insultava al comune retaggio. </l>
+<l>E noi donne, noi pur, combattemmo, </l>
+<l>o accorrendo al tuonar de´ moschetti, </l>
+<l>carche l´arme al valor provvedemmo. </l>
+<l>La vittoria allegrò i nostri petti, </l>
+<l>e il guerriero asciugando la fronte</l>
+<l>già cantava i salvati suoi tetti. </l>
+<l>Già le spose recavan dal fonte</l>
+<l>un ristoro ai lor cari, e frattanto</l>
+<l>la vendetta cantavan dell´onte. </l>
+<l>- Ah! cessate la gioia del canto: </l>
+<l>due fratelli il crudel m´ha trafitto; </l>
+<l>l´un sull´altro perironmi accanto. - </l>
+<l>Così in Parga una voce d´afflitto</l>
+<l>rompe i gridi del popol festoso</l>
+<l>che ritorna dal vinto conflitto. </l>
+<l>Ahi! chi piange i fratelli è il mio sposo. </l>
+</lg>
+<lg>
+<l>Fûr l´ultime lagrime</l>
+<l>che il miser versò: </l>
+<l>poi cupo nell´anima</l>
+<l>il duol rinserrò; </l>
+<l>con negri fantasimi</l>
+<l>più sempre il nodrì; </l>
+<l>ahi misero! misero! </l>
+<l>la vita abborrì. </l>
+<l>Ma il sonno più aggrevasi, </l>
+<l>ritorna il tepor; </l>
+<l>trasfusa dal ciglio</l>
+<l>la calma è nel cor. </l>
+<l>Oh Dio! nol ritentino</l>
+<l>vaganti pensier</l>
+<l>di patria, d´esiglio, </l>
+<l>d´oltraggio stranier. </l>
+</lg>
+<lg>
+<head>III</head>
+<l>Come uscito alla strada il ladrone, </l>
+<l>se improvviso lo stringe il periglio, </l>
+<l>riguadagna a gran passo il burrone, </l>
+<l>là si accoscia, e dal vil nascondiglio</l>
+<l>gira il guardo ed agogna il momento</l>
+<l>di spiegar senza rischio l´artiglio; </l>
+<l>tale Alì si sottrasse al cimento. </l>
+<l>Poi rivolto all´infausta pianura, </l>
+<l>l´attristò d´un feral monumento. </l>
+<l>Ma que´ marmi non son sepoltura</l>
+<l>che piangendo ei componga al nipote: </l>
+<l>arra son di sua rabbia futura. </l>
+<l>Sorge un vecchio e predice: - Remote</l>
+<l>ah! non son le vendette del vinto; </l>
+<l>oggi ei fugge, doman vi percote. </l>
+<l>D´armi nuove il suo fianco è recinto, </l>
+<l>e alle vostre la punta fu scema</l>
+<l>in quel dì che l´avete respinto. - </l>
+<l>Consigliera de´ stolti è la téma. </l>
+<l>Stolto il veglio e chi udillo! Fu questa</l>
+<l>delle nostre sciagure l´estrema. </l>
+<l>Noi vedemmo venir la tempesta; </l>
+<l>e dov´è che cercammo salute? </l>
+<l>Nel covil della serpe! Oh funesta</l>
+<l>cecità delle menti canute! </l>
+<l>voh de´ giovani incauta fidanza! </l>
+<l>oh vigilie de´ forti perdute! </l>
+<l>Più di libere genti la stanza</l>
+<l>non è Parga. Un´estrania bandiera</l>
+<l>è il segnal di sua nuova speranza. </l>
+<l>La sua spada è una spada straniera: </l>
+<l>i non vinti suoi figli all´Inglese</l>
+<l>han commesso che Parga non pera. </l>
+<l>De´ tementi egli il gemito intese</l>
+<l>e, signor delle vaste marine, </l>
+<l>come amico la destra ci stese. </l>
+<l>Ecco ei siede sul nostro confine: </l>
+<l>ecco ei giura nel nome di Cristo</l>
+<l>far secure le genti tapine. </l>
+<l>Ahi! qual fé ci è serbata dal tristo, </l>
+<l>a che laccio il mio popol fu còlto, </l>
+<l>sa ´l quest´uomo su cui mi contristo, </l>
+<l>questo forte che il senno ha sconvolto. </l>
+</lg>
+<lg>
+<l>Ma l´ansie cessarono, </l>
+<l>più lene è il sopor; </l>
+<l>la calma trasfondesi</l>
+<l>dal ciglio nel cor. </l>
+<l>Oh Dio! non la turbino</l>
+<l>lugubri pensier, </l>
+<l>crucciose memorie</l>
+<l>d´oltraggio stranier. </l>
+</lg>
+<lg>
+<head>IV</head>
+<l>Squilla in Parga l´annunzio d´un bando: </l>
+<l>posti a prezzo dall´Anglo noi siamo, </l>
+<l>come schiavi acquistati col brando. </l>
+<l>Vano è il pianger, schernito è il richiamo: </l>
+<l>già il vegliardo dell´empia Giannina</l>
+<l>co´ suoi mille avanzarsi veggiamo; </l>
+<l>già già tolta all´inflessa vagina</l>
+<l>sfronda i cedri del nostro terreno</l>
+<l>l´insultante sua sciabla azzurrina. </l>
+<l>Egli viene: dal perfido seno</l>
+<l>scoppia il gaudio dell´ira appagata; </l>
+<l>la bestemmia è sul labro all´osceno. </l>
+<l>Non è il forte che sfidi a giornata; </l>
+<l>è il villano che move securo</l>
+<l>a sgozzare l´agnella comprata. </l>
+<l>Ah! non questo, o britanni, è il futuro</l>
+<l>che insegnavan le vostre promesse; </l>
+<l>questi i patti, o sleali, non fûro. </l>
+<l>Pur, quantunque deluse ed oppresse, </l>
+<l>le mie genti al superbo ottomanno</l>
+<l>non offrîr le cervici sommesse. </l>
+<l>Un sol voto di mezzo all´affanno, </l>
+<l>un sol grido fu il grido di tutti: </l>
+<l>- No, per Dio! non si serva al tiranno. - </l>
+<l>Quindi al crudo paraggio condutti, </l>
+<l>preferimmo l´esiglio. Ma questi</l>
+<l>ch´oggi tu m´hai scampato dai flutti, </l>
+<l>fin d´allora in suo cor più funesti</l>
+<l>fea consigli, e ne´ sogni inquieti</l>
+<l>io, vegghiando, l´udia manifesti</l>
+<l>darmi i segni de´ fieri segreti. </l>
+</lg>
+<lg>
+<l>Ma i sonni prolungansi, </l>
+<l>l´affanno cessò; </l>
+<l>le membra trasudano, </l>
+<l>il cor si calmò. </l>
+<l>Serene le immagini</l>
+<l>ti formi il pensier; </l>
+<l>o sposo, dimentica</l>
+<l>l´oltraggio stranier! </l>
+</lg>
+<lg>
+<head>V</head>
+<l>Eran quelli i dì santi ed amari, </l>
+<l>i dì quando il fedele si atterra</l>
+<l>ripentito agli squallidi altari, </l>
+<l>ove l´inno lugùbre disserra</l>
+<l>le memorie dei lunghi dolori</l>
+<l>con che Cristo redense la terra. </l>
+<l>Là, repressi i profani rancori, </l>
+<l>offerimmo le angosce a quel Dio</l>
+<l>che per noi ne patì di maggiori. </l>
+<l>Poi, gemendo il novissimo addio, </l>
+<l>surse, e l´orme de´ suoi sacerdoti</l>
+<l>taciturna la turba seguio. </l>
+<l>Quei ne trasser là dove, remoti</l>
+<l>dai trambusti del mondo e viventi</l>
+<l>nel più caro pensier de´ nipoti, </l>
+<l>sotto il salcio dai rami piangenti</l>
+<l>dormian gli avi di Parga sepolti, </l>
+<l>dormian l´ossa de´ nostri parenti. </l>
+<l>Qui, scoverte le fosse e travolti</l>
+<l>vi sepolcri, dal campo sacrato</l>
+<l>gli onorandi residui fûr tolti. </l>
+<l>Ah! dovea, su le tombe spronato, </l>
+<l>il cavallo dell´empio quell´ossa</l>
+<l>a´ ludibri segnar del soldato? </l>
+<l>Da pietà, da dispetto commossa</l>
+<l>va la turba, e sul rogo le aduna</l>
+<l>che le involi alla barbara possa. </l>
+<l>Guizza il fuoco: all´estrema fortuna</l>
+<l>de´ suoi morti la vergin, la sposa</l>
+<l>i recisi capegli accomuna. </l>
+<l>Guizza il fuoco: la schiera animosa</l>
+<l>de´ mariti il difende, e appressarse</l>
+<l>la vanguardia dell´empio non osa. </l>
+<l>Guizza il fuoco, divampa; son arse</l>
+<l>le reliquie de´ padri, ed il vento</l>
+<l>già ne fura le ceneri sparse. </l>
+<l>Quando il rogo funereo fu spento, </l>
+<l>noi partimmo: e chi dir ti potria</l>
+<l>la miseria del nostro lamento? </l>
+<l>Là piangeva una madre, e s´udia</l>
+<l>maledir il fecondo suo letto, </l>
+<l>mentre i figli di baci copria. </l>
+<l>Qui toglievasi un´altra dal petto</l>
+<l>il lattante, e fermando il cammino, </l>
+<l>con istrano delirio d´affetto, </l>
+<l>si calava al ruscello vicino, </l>
+<l>vi bagnava per l´ultima volta</l>
+<l>nelle patrie fontane il bambino. </l>
+<l>E chi un ramo, un cespuglio, chi svolta</l>
+<l>dalle patrie campagne traea</l>
+<l>una zolla nel pugno raccolta. </l>
+<l>Noi salpammo: e la queta marea</l>
+<l>si coverse di lunghi ululati, </l>
+<l>sicché il dì del naufragio parea. </l>
+<l>Ecco Parga è deserta. Sbandati</l>
+<l>i suoi figli consuman nel duolo</l>
+<l>i destini a cui furon dannati. </l>
+<l>Io qui venni mendica; e ciò solo</l>
+<l>che rimanmi è quest´uom del mio core, </l>
+<l>e i pensier con che a Parga rivolo. </l>
+<l>Ei non ha che me sola e il furore</l>
+<l>de´ suoi sdegni; e de´ morti fratelli</l>
+<l>questi avanzi di pianto e d´amore. </l>
+<l>Li rinvenne all´aprir degli avelli: </l>
+<l>carità sì severa ne ´l punse</l>
+<l>che, geloso, alla pira non dielli, </l>
+<l>ma compagni alla fuga gli assunse. </l>
+</lg>
+</lg>
+</div2>
+<div2 type="poesia">
+<head>PARTE TERZA</head>
+<head>L´ABBOMINAZIONE</head>
+<lg type="romanza">
+<lg>
+<l>Nunziatrice dell´alba già spira</l>
+<l>una brezza leggiera leggiera</l>
+<l>che agli aranci dell´ampia Corcira</l>
+<l>le fragranze più pure involò. </l>
+<l>Ecco il sol che la bella costiera</l>
+<l>risaluta col primo sorriso, </l>
+<l>e d´un guardo rischiara improvviso</l>
+<l>la capanna ove l´egro posò. </l>
+</lg>
+<lg>
+<l>Egli è il sol che fra bellici eventi</l>
+<l>rallegrava agli elleni il coraggio</l>
+<l>quando in petto alle libere genti</l>
+<l>della patria fremeva l´amor, </l>
+<l>quando al giogo d´estranio servaggio</l>
+<l>niun de´ greci curvava pensiero, </l>
+<l>e alla madre giurava il guerriero</l>
+<l>di morire o tornar vincitor. </l>
+</lg>
+<lg>
+<l>Come foglia in balìa del torrente, </l>
+<l>ahi, la gloria di Grecia è sparita! </l>
+<l>L´aure antiche or quivi trovi e fiorente</l>
+<l>delle donne la bruna beltà; </l>
+<l>ma in le fronti virili scolpita</l>
+<l>qui tu scorgi la mesta paura, </l>
+<l>qui l´impronta con cui la sventura</l>
+<l>le presenta all´umana pietà. </l>
+</lg>
+<lg>
+<l>Sol, che a libere insegne vedrai</l>
+<l>batter forse qui ancor la tua luce; </l>
+<l>sol di Scheria, i tuoi limpidi rai</l>
+<l>sien conforto a un tradito guerrier: </l>
+<l>qui vagando a rifugio, il conduce</l>
+<l>d´una sposa il solerte consiglio; </l>
+<l>e tu qui, fra la morte e l´esiglio, </l>
+<l>fa ch´ei scelga il più mite voler. </l>
+</lg>
+<lg>
+<l>Dal guancial de´ suoi sonni al mattino</l>
+<l>l´uom di Parga levò la pupilla: </l>
+<l>il pallore è sul volto al meschino; </l>
+<l>ma il terror, ma l´angoscia non v´è. </l>
+<l>Un ristoro che il cor gli tranquilla</l>
+<l>son gli olezzi del giorno novello; </l>
+<l>e quel sol gli rifulge più bello</l>
+<l>che perduto in eterno credé. </l>
+</lg>
+<lg>
+<l>Ma perché, se il suo spito è pacato, </l>
+<l>perché almen nol rileva il saluto? </l>
+<l>perché a lei che il sorrege da un lato</l>
+<l>con un bacio ei non tempra il dolor? </l>
+<l>perché immoto su l´uom sconosciuto</l>
+<l>il vigor de´ suoi sguardi s´arresta? </l>
+<l>e che subita fiamma è codesta</l>
+<l>che in la guancia gli vive e gli muor? </l>
+</lg>
+<lg>
+<l>Ben Arrigo la vide: e compreso</l>
+<l>da che affetto il tacente sia roso, </l>
+<l>come l´uom che propizia un offeso, </l>
+<l>questa ingenua parola tentò: </l>
+<l>- O straniero, al tuo cor doloroso</l>
+<l>so ch´orrenda è l´assisa ch´io vesto; </l>
+<l>so ch´io tutti qui gli odii ridesto</l>
+<l>che l´infida mia patria mertò. </l>
+</lg>
+<lg>
+<l>Ma se i pochi, che seggon tiranni</l>
+<l>delle sorti dell´Anglia, fûr vili, </l>
+<l>tutti no, non son vili i britanni</l>
+<l>che ritrosi governa il poter. </l>
+<l>Premian croci ingemmate e monili</l>
+<l>la spergiura amistà di que´ pochi; </l>
+<l>ma l´infamia che ad essi tu invochi</l>
+<l>mille inglesi imprecârla primier. </l>
+</lg>
+<lg>
+<l>Mille giusti, il cui senno prepone</l>
+<l>al favor de´ potenti i lor sdegni; </l>
+<l>mille giusti in le vie d´Albione</l>
+<l>pianser pubblico pianto quel dì</l>
+<l>che aggirato con perfidi ingegni</l>
+<l>narrò un popol fidente ed amico, </l>
+<l>poi venduto al mortal suo nemico</l>
+<l>da quel braccio che scampo gli offrì. </l>
+</lg>
+<lg>
+<l>Oh rossor! ma il sacrilego patto</l>
+<l>nol segnò questa man ch´io ti stendo, </l>
+<l>ma non complice fu del misfatto</l>
+<l>questo petto che geme per te. </l>
+<l>Non tu solo se´ il miser. Tremendo,</l>
+<l>ben più assai che l´averla perduta, </l>
+<l>egli è il dir: - La mia patria è caduta</l>
+<l>in obbrobrio alle genti ed a me. - </l>
+</lg>
+<lg>
+<l>Per l´ingiuria che entrambi ha percosso</l>
+<l>or tu m´odi, o fratel di dolore! </l>
+<l>Io né il suol de´ tuoi padri a te posso</l>
+<l>né la bella ridar libertà; </l>
+<l>ma se in te non prevale il rancore, </l>
+<l>se preghiera fraterna è gradita, </l>
+<l>dal fratello ricevi un´aita</l>
+<l>che men grami i tuoi giorni farà. - </l>
+</lg>
+<lg>
+<l>Così l´alma schiudea quell´afflitto; </l>
+<l>così, largo di doni e di pianto, </l>
+<l>col rimorso egli sconta il delitto, </l>
+<l>il delitto che mai nol macchiò. </l>
+<l>Piange anch´essa la greca, e di tanto</l>
+<l>il penar del pietoso l´accora, </l>
+<l>che le par mal venuta quell´ora</l>
+<l>in cui mesta i suoi casi narrò. </l>
+</lg>
+<lg>
+<l>Ella tace, e col guardo prudente, </l>
+<l>vedi! il guardo ella cerca allo sposo. </l>
+<l>Vedi come n´esplora la mente! </l>
+<l>come in volto il travaglio le appar! </l>
+<l>Chi sa mai se dell´uom generoso</l>
+<l>fien disdetti i soccorsi od accolti? </l>
+<l>Ma una voce prorompe; s´ascolti: </l>
+<l>è il ramingo che sorge a parlar: </l>
+</lg>
+<lg>
+<l>- Tienti i doni e li serba pe´ guai</l>
+<l>che la colpa al tuo popol matura: </l>
+<l>là, nel dì del dolor, troverai</l>
+<l>chi vigliacco ti chiegga pietà. </l>
+<l>Ma v´è un duolo, ma v´è una sciagura</l>
+<l>che fa altero qual uom ne sia còlto: </l>
+<l>e il son io; né chi tutto m´ha tolto</l>
+<l>quest´orgoglio rapirmi potrà. </l>
+</lg>
+<lg>
+<l>Tienti il pianto; nol voglio da un ciglio</l>
+<l>che ribrezzo invincibil m´inspira. </l>
+<l>Tu se´ un giusto: e che importa? sei figlio</l>
+<l>d´una terra esecranda per me. </l>
+<l>Maledetta! Dovunque sospira</l>
+<l>gente ignuda, gente esule o schiava, </l>
+<l>ivi un grido bestemmia la prava</l>
+<l>che il mercato impudente ne fe´. </l>
+</lg>
+<lg>
+<l>Mentre ostenta che il negro si assolva, </l>
+<l>in Europa ella insulta ai fratelli; </l>
+<l>e qual prema, qual popol dissolva</l>
+<l>sta librando con empio saver. </l>
+<l>Sperdi, o cruda, calpesta gli imbelli! </l>
+<l>Fia per poco. La nostra vendetta</l>
+<l>la fa il tempo e quel Dio che l´affretta, </l>
+<l>che in Europa avvalora il pensier. </l>
+</lg>
+<lg>
+<l>Io vivea di memorie; e il mio senno</l>
+<l>da manie, da fantasmi fu vinto. </l>
+<l>Veggo or l´ire che compier si denno, </l>
+<l>e più franco rivivo al dolor. </l>
+<l>Questa donna che piansemi estinto, </l>
+<l>questa cara a cui tu mi rendesti, </l>
+<l>più non tremi: a disegni funesti</l>
+<l>più non fia che m´induca il furor. </l>
+</lg>
+<lg>
+<l>Forse il dì non è lungi in cui tutti</l>
+<l>chiameremci fratelli, allorquando</l>
+<l>sovra i lutti espiati dai lutti</l>
+<l>il perdono e l´oblio scorrerà. </l>
+<l>Ora gli odii son verdi: e nefando</l>
+<l>un spergiuro gli intima al cor mio; </l>
+<l>però, s´anco a te il viver degg´io, </l>
+<l>sappi ch´io non ti rendo amistà. </l>
+</lg>
+<lg>
+<l>Qui starò, nella terra straniera; </l>
+<l>e la destra onorata, su cui</l>
+<l>splende il callo dell´elsa guerriera, </l>
+<l>ai servigi più umili offrirò. </l>
+<l>Rammentando qual sono e qual fui, </l>
+<l>i miei figli, per Dio! fremeranno; </l>
+<l>ma non mai vergognati diranno: </l>
+<l>- Ei dall´anglo il suo frusto accattò. - </l>
+</lg>
+<lg>
+<l>L´uom di Parga giurò; né quel giuro</l>
+<l>mai falsato dal miser fu poi; </l>
+<l>oggi ancor d´uno in altro abituro</l>
+<l>desta amore a chi asilo gli diè: </l>
+<l>scerne il pasco ad armenti non suoi, </l>
+<l>suda al solco d´estranio terreno; </l>
+<l>ma ricorda con volto sereno</l>
+<l>che l´angustia mai vile nol fe´. </l>
+</lg>
+<lg>
+<l>Fosca fosca ogni dì più s´aggreva</l>
+<l>su lo spirto d´Arrigo la noia; </l>
+<l>nessun dolce desir gli rileva</l>
+<l>qualche bella speranza nel sen. </l>
+<l>Non gli ride un sol lampo di gioia, </l>
+<l>teme irata ogni voce ch´ei senta, </l>
+<l>vede un cruccio, uno scherno paventa</l>
+<l>su ogni volto che incontro gli vien. </l>
+</lg>
+<lg>
+<l>La sua patria ei confessa infamata, </l>
+<l>la rinnega, la fugge, l´abborre; </l>
+<l>pur da altrui mal la soffre accusata, </l>
+<l>pur gli duole che amarla non può. </l>
+<l>Infelice! l´Europa ei trascorre; </l>
+<l>ma per tutto lo insegne un lamento, </l>
+<l>ma una terra che il faccia contento, </l>
+<l>infelice! non anco trovò. </l>
+</lg>
+<lg>
+<l>Va ne´ climi vermigli di rose, </l>
+<l>lungo i poggi ove eterno è l´ulivo, </l>
+<l>a traverso pianure che erbose</l>
+<l>di molt´acque rallegra il tesor; </l>
+<l>ma per tutto, nel piano, sul clivo, </l>
+<l>giù ne´ campi, di mezzo a´ villaggi, </l>
+<l>sente l´Anglia colpata d´oltraggi, </l>
+<l>maledetta da un nuovo livor. </l>
+</lg>
+<lg>
+<l>Va in le valli dei tristi roveti</l>
+<l>su pe´ greppi ove salta il camoscio, </l>
+<l>giù per balze ingombrate d´abeti, </l>
+<l>che la frana dai gioghi rapì; </l>
+<l>ma ove tace, ove mugge lo stroscio, </l>
+<l>quando l´alta valanga sprofonda, </l>
+<l>da per tutto v´è un pianto che gronda</l>
+<l>sovra piaghe che l´Anglia ferì. </l>
+</lg>
+<lg>
+<l>Varca fiumi e di spiaggia in ispiaggia</l>
+<l>studia il passo a cercar nuovo calle; </l>
+<l>per città, per castelli viaggia, </l>
+<l>né mai ferma l´errante suo piè: </l>
+<l>ma per tutto, di fronte, alle spalle, </l>
+<l>ode il lagno di genti infinite, </l>
+<l>d´altre genti dall´Anglia tradite, </l>
+<l>d´altre genti che l´Anglia vendé. </l>
+</lg>
+</lg>
+</div2>
+</div1>
+<div1 type="poesia">
+<head>II</head>
+<head>CLARINA</head>
+<lg type="romanza">
+<lg>
+<l>Sotto i pioppi della Dora</l>
+<l>dove l´onda è più romita, </l>
+<l>ogni dì, su l´ultim´ora, </l>
+<l>s´ode un suono di dolor. </l>
+<l>È Clarina, a cui la vita</l>
+<l>rodon l´ansie dell´amor. </l>
+</lg>
+<lg>
+<l>Poveretta! di Gismondo</l>
+<l>piange i stenti, a lui sol pensa. </l>
+<l>Fuggitivo, vagabondo, </l>
+<l>pena il misero i suoi dì, </l>
+<l>mentre assiso a regal mensa</l>
+<l>ride il vil che lo tradì. </l>
+</lg>
+<lg>
+<l>Già mature nel tuo seno, </l>
+<l>bella Italia, fremean l´ire. </l>
+<l>Sol mancava il dì sereno</l>
+<l>della speme, e Dio il creò; </l>
+<l>di tre secoli il desire</l>
+<l>in volere Ei ti cangiò. </l>
+</lg>
+<lg>
+<l>Oh ventura! e allo straniero</l>
+<l>che il piè grava sul tuo collo, </l>
+<l>pose il buio nel pensiero, </l>
+<l>la paura dentro il cor; </l>
+<l>come vittima segnollo</l>
+<l>al tuo vindice rancor. </l>
+</lg>
+<lg>
+<l>Gridò l´onta del servaggio: </l>
+<l>- Siam fratelli; all´arme! all´arme! </l>
+<l>giunta è l´ora in cui l´oltraggio</l>
+<l>denno i barbari scontar; </l>
+<l>suoni Italia in ogni carme</l>
+<l>dal Cenisio infino al mar. </l>
+</lg>
+<lg>
+<l>- Tutti unisca una bandiera! - </l>
+<l>fu il clamore delle squadre, </l>
+<l>d´ogni pio fu la preghiera, </l>
+<l>d´ogni savio fu il voler, </l>
+<l>d´ogni sposa, d´ogni madre</l>
+<l>fu de´ palpiti il primier. </l>
+</lg>
+<lg>
+<l>E Clarina al suo diletto</l>
+<l>cinse il brando, e tricolore</l>
+<l>la coccarda su l´elmetto</l>
+<l>di sua man gli collocò; </l>
+<l>poi, suffusa di rossore, </l>
+<l>con un bacio il congedò. </l>
+</lg>
+<lg>
+<l>Ma indiscreta sul bel volto</l>
+<l>una lagrima pur scese. </l>
+<l>Ei la vide; e al ciel rivolto</l>
+<l>die´ un sospiro e impallidì; </l>
+<l>ma la vergine cortese</l>
+<l>il guerriero inanimì: </l>
+</lg>
+<lg>
+<l>- Fermi sieno i nostri petti; </l>
+<l>questo il giorno è dell´onore: </l>
+<l>senza infamia a´ molli affetti</l>
+<l>ceder oggi non puoi tu. </l>
+<l>Ahi! che giova anco l´amore</l>
+<l>per chi freme in servitù?</l>
+</lg>
+<lg>
+<l>Va´, Gismondo; e qual ch´io sia, </l>
+<l>non por mente alle mie pene. </l>
+<l>Una patria avevi in pria</l>
+<l>che donassi a me il tuo cor: </l>
+<l>rompi a lei le sue catene, </l>
+<l>poi t´inebria dell´amor. </l>
+</lg>
+<lg>
+<l>Va´, combatti; e ne´ perigli</l>
+<l>pensa, o caro, al dì remoto</l>
+<l>quando assiso in mezzo ai figli</l>
+<l>tu festoso potrai dir: </l>
+<l>- Questo brando a lei devoto</l>
+<l>tolse Italia dal servir. - </l>
+</lg>
+<lg>
+<l>Poveretta! e tutto sparve! </l>
+<l>i patiboli, le scuri</l>
+<l>di sua mente or son le larve, </l>
+<l>la fallita libertà, </l>
+<l>l´armi estranie, i re spergiuri</l>
+<l>e d´Alberto la viltà. </l>
+</lg>
+<lg>
+<l>Lui sospinto avea il suo fato</l>
+<l>su la via de´ gloriosi; </l>
+<l>ma una infame il sciagurato</l>
+<l>ne preferse, e in mano ai re</l>
+<l>die´ la patria e i generosi</l>
+<l>che in lui posta avean la fé. </l>
+</lg>
+<lg>
+<l>Esecrato, o Carignano, </l>
+<l>va il tuo nome in ogni gente! </l>
+<l>non v´è clima sì lontano, </l>
+<l>ove il tedio, lo squallor, </l>
+<l>la bestemmia d´un fuggente</l>
+<l>non ti annunzi traditor. </l>
+</lg>
+<lg>
+<l>E qui, in riva della Dora, </l>
+<l>questa vergine infelice</l>
+<l>questo lutto che le sfiora</l>
+<l>gli anni, il senno e la beltà, </l>
+<l>su l´esosa tua cervice</l>
+<l>grida sangue, e sangue avrà. </l>
+</lg>
+<lg>
+<l>Qui Gismondo, il dì fatale, </l>
+<l>scansò l´ira dei tiranni</l>
+<l>di qui mosse, e il tristo vale</l>
+<l>qui Clarina a lui gemè; </l>
+<l>e qui a pianger vien gli affanni</l>
+<l>dell´amante che perdé. </l>
+</lg>
+<lg>
+<l>Più fermezza di consiglio, </l>
+<l>ahi, non ha la dolorosa! </l>
+<l>fra le angustie dell´esiglio</l>
+<l>lunge lunge il suo pensier</l>
+<l>va perduto senza posa</l>
+<l>dietro i passi del guerrier. </l>
+</lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>III</head>
+<head>IL ROMlTO DEL CENISIO</head>
+<lg type="romanza">
+<lg>
+<l>Viandante alla ventura, </l>
+<l>l´ardue nevi del Cenisio</l>
+<l>un estranio superò, </l>
+<l>e dell´itala pianura</l>
+<l>al sorriso interminabile</l>
+<l>dalla balza s´affacciò. </l>
+</lg>
+<lg>
+<l>Gli occhi alacri, i passi arditi</l>
+<l>subitaneo in lui rivelano</l>
+<l>il tripudio del pensier. </l>
+<l>Maravigliano i romiti, </l>
+<l>quei che pavido il sorressero</l>
+<l>su pe´ dubbi nel sentier. </l>
+</lg>
+<lg>
+<l>Ma l´un d´essi, col dispetto</l>
+<l>d´uom crucciato da miserie, </l>
+<l>rompe i gaudi al viator</l>
+<l>esclamando: - Maledetto</l>
+<l>chi s´accosta senza piangere</l>
+<l>alla terra del dolor! - </l>
+</lg>
+<lg>
+<l>Qual chi scosso d´improvviso, </l>
+<l>si risente d´un´ingiuria</l>
+<l>che non sa di meritar; </l>
+<l>tal sul vecchio del Ceniso</l>
+<l>si rivolse quell´estranio</l>
+<l>scuro il guardo a saettar. </l>
+</lg>
+<lg>
+<l>Ma fu un lampo. Del romito</l>
+<l>le pupille venerabili</l>
+<l>una lagrima velò; </l>
+<l>e l´estranio, impietosito, </l>
+<l>ne´ misteri di quell´anima</l>
+<l>sospettando penetrò. </l>
+</lg>
+<lg>
+<l>Ché un dì a lui, nell´aule algenti</l>
+<l>là lontan su l´onda baltica, </l>
+<l>dall´Italia andò un romor, </l>
+<l>d´oppressori e di frementi, </l>
+<l>di speranze e di dissidii</l>
+<l>di tumulti annunziator. </l>
+</lg>
+<lg>
+<l>Ma confuso, ma fugace</l>
+<l>fu quel grido, e ratto a sperderlo</l>
+<l>la parola uscì dei re, </l>
+<l>che narrò composta in pace</l>
+<l>tutta Italia, ai troni immobili</l>
+<l>plauder lieta e giurar fé. </l>
+</lg>
+<lg>
+<l>Ei pensava: - Non è lieta, </l>
+<l>non può stanza esser del giubilo</l>
+<l>dove il pianto è al limitar. - </l>
+<l>Con inchiesta mansueta</l>
+<l>tentò il cor del solitario, </l>
+<l>che rispose al suo pregar. </l>
+</lg>
+<lg>
+<l>- Non è lieta ma pensosa, </l>
+<l>non v´è plauso ma silenzio, </l>
+<l>non v´è pace ma terror. </l>
+<l>Come il mar su cui si posa</l>
+<l>sono immensi i guai d´Italia; </l>
+<l>inesausto il suo dolor. </l>
+</lg>
+<lg>
+<l>Libertà volle; ma stolta! </l>
+<l>credé ai prenci e osò commettere</l>
+<l>ai lor giuri il suo voler. </l>
+<l>I suoi prenci l´han travolta, </l>
+<l>l´han ricinta di perfidie, </l>
+<l>l´han venduta allo stranier. </l>
+</lg>
+<lg>
+<l>Da quest´Alpi infino a Scilla</l>
+<l>la sua legge è il brando barbaro</l>
+<l>che i suoi régoli invocâr. </l>
+<l>Da quest´Alpi infino a Scilla</l>
+<l>è delitto amar la patria, </l>
+<l>è una colpa il sospirar. </l>
+</lg>
+<lg>
+<l>Una ciurma irrequieta</l>
+<l>scosse i cenci, e giù dal Brennero</l>
+<l>corse ai fòri e gli occupò: </l>
+<l>trae le genti alla segreta, </l>
+<l>dove, iroso, quei le giudica</l>
+<l>che bugiardo le accusò. </l>
+</lg>
+<lg>
+<l>Guarda! i figli dell´affanno</l>
+<l>su la marra incurvi sudano: </l>
+<l>va´ ne interroga il sospir. </l>
+<l>- Queste braccia - ti diranno - </l>
+<l>scarne penano onde mietere</l>
+<l>il tributo a un stranio sir. - </l>
+</lg>
+<lg>
+<l>Va´, discendi, e le bandiere</l>
+<l>cerca ai prodi, cerca i lauri</l>
+<l>che all´Italia il pensier die´. </l>
+<l>Son disciolte le sue schiere, </l>
+<l>è compresso il labbro ai savi, </l>
+<l>stretto in ferri ai giusti il piè; </l>
+</lg>
+<lg>
+<l>tolta ai solchi, alle officine, </l>
+<l>delle madri al caro eloquio</l>
+<l>la robusta gioventù, </l>
+<l>data, in ròcche peregrine, </l>
+<l>alla verga del vil téutono</l>
+<l>che l´edùchi a servitù. </l>
+</lg>
+<lg>
+<l>Cerca il brio delle sue genti</l>
+<l>all´Italia, i dì che furono</l>
+<l>alle cento sue città: </l>
+<l>dov´è il flauto che rammenti</l>
+<l>le sue veglie e delle vergini</l>
+<l>la danzante ilarità? </l>
+</lg>
+<lg>
+<l>Va´, ti bea de´ soli suoi, </l>
+<l>godi l´aure, spira vivide</l>
+<l>le fragranze de´ suoi fior. </l>
+<l>Ma che pro de´ gaudi tuoi? </l>
+<l>non avrai con chi dividerli: </l>
+<l>il sospetto ha chiusi i cor. </l>
+</lg>
+<lg>
+<l>Muti intorno degli alari</l>
+<l>vedrai padri ai figli stringersi, </l>
+<l>vedrai nuore impallidir</l>
+<l>su lo strazio de´ lor cari, </l>
+<l>e fratelli membrar invidi</l>
+<l>i fratelli che fuggîr. </l>
+</lg>
+<lg>
+<l>Oh! perché non posso anch´io, </l>
+<l>con la mente ansia, fra gli esuli</l>
+<l>il mio figlio rintracciar? </l>
+<l>o mio Silvio, o figlio mio, </l>
+<l>perché mai nell´incolpabile</l>
+<l>tua coscienza ti fidar? </l>
+</lg>
+<lg>
+<l>Oh, l´improvido! l´han còlto</l>
+<l>come agnello al suo presepio; </l>
+<l>e di mano al percussor</l>
+<l>sol dai perfidi fu tolto</l>
+<l>perché, avvinto in ceppi, il calice</l>
+<l>beva lento del dolor; </l>
+</lg>
+<lg>
+<l>dove un pio mai nol consola, </l>
+<l>dove i giorni non gli numera</l>
+<l>altro mai che l´alternar</l>
+<l>delle scolte... - La parola</l>
+<l>su le labbra qui del misero</l>
+<l>i singulti soffocâr. </l>
+</lg>
+<lg>
+<l>Di conforto lo sovviene, </l>
+<l>la man stende a lui l´estranio. </l>
+<l>Quei sul petto la serrò; </l>
+<l>poi, com´uom che più ´l rattiene</l>
+<l>più gli sgorga il pianto, all´eremo</l>
+<l>col compagno s´avviò. </l>
+</lg>
+<lg>
+<l>Ah! qual alpe sì romita</l>
+<l>può sottrarlo alle memorie, </l>
+<l>può le angosce in lui sopir, </l>
+<l>che dal turbin della vita, </l>
+<l>dalle care consuetudini, </l>
+<l>disperato, il dipartîr? </l>
+</lg>
+<lg>
+<l>Come il voto che la sera</l>
+<l>fe´ il briaco nel convivio, </l>
+<l>rinnegato è al nuovo dì; </l>
+<l>tal su l´itala frontiera, </l>
+<l>dell´Italia il desiderio</l>
+<l>all´estranio in sen morì. </l>
+</lg>
+<lg>
+<l>A´ bei soli, a´ bei vigneti, </l>
+<l>contristati dalle lagrime</l>
+<l>che i tiranni fan versar, </l>
+<l>ei preferse i tetri abeti, </l>
+<l>le sue nebbie ed i perpetui</l>
+<l>aquiloni del suo mar. </l>
+</lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>IV</head>
+<head>IL RIMORSO</head>
+<lg type="romanza">
+<lg>
+<l>Ella è sola dinanzi le genti, </l>
+<l>sola in mezzo dell´ampio convito; </l>
+<l>né alle dolci compagne ridenti</l>
+<l>osa intender lo sguardo avvilito. </l>
+<l>Vede ferver tripudi e carole, </l>
+<l>ma nessuno l´invita a danzar; </l>
+<l>ode intorno cortesi parole, </l>
+<l>ma ver´ lei neppur una volar. </l>
+</lg>
+<lg>
+<l>Un fanciullo che Madre la dice</l>
+<l>s´apre il passo, le corre al ginocchio, </l>
+<l>e co´ baci la lagrima elice</l>
+<l>che a lei gonfia tremava nell´occhio. </l>
+<l>Come rosa è fiorente il fanciullo, </l>
+<l>ma nessuno a mirarlo ristà; </l>
+<l>per quel pargolo un vezzo, un trastullo, </l>
+<l>per la madre un saluto non v´ha. </l>
+</lg>
+<lg>
+<l>Se un ignaro domanda al vicino</l>
+<l>chi sia mai quella mesta pensosa</l>
+<l>che sul ricci del biondo bambino</l>
+<l>la bellissima faccia riposa, </l>
+<l>cento voci risposta gli fanno, </l>
+<l>cento scherni gl´insegnano il ver: </l>
+<l>- È la donna d´un nostro tiranno; </l>
+<l>è la sposa dell´uomo stranier. - </l>
+</lg>
+<lg>
+<l>Ne´ teatri, lunghesso le vie, </l>
+<l>fin nel tempio del Dio che perdona, </l>
+<l>infra un popol ricinto di spie, </l>
+<l>fra una gente crucciata e prigiona, </l>
+<l>serpe l´ira d´un motto sommesso</l>
+<l>che il terrore comprimer non può: </l>
+<l>- Maledetta chi d´italo amplesso</l>
+<l>il tedesco soldato beò! - </l>
+</lg>
+<lg>
+<l>Ella è sola: ma i vedovi giorni</l>
+<l>ha contato il suo cor doloroso; </l>
+<l>e già batte, già esulta che torni</l>
+<l>dal lontano presidio lo sposo. </l>
+<l>Non è vero. Per questa negletta</l>
+<l>è finito il sospiro d´amor: </l>
+<l>altri son i pensier che l´han stretta, </l>
+<l>altri i guai che le ingrossano il cor. </l>
+</lg>
+<lg>
+<l>Quando l´onte che il dì l´han ferita</l>
+<l>la perseguon, fantasmi, all´oscuro; </l>
+<l>quando vagan su l´alma smarrita</l>
+<l>le memorie e il terror del futuro; </l>
+<l>quando sbalza dai sogni e pon mente</l>
+<l>come udisse il suo nato vagir; </l>
+<l>egli è allor che alla veglia inclemente</l>
+<l>costei fida il secreto martir: </l>
+</lg>
+<lg>
+<l>- Trista me! qual vendetta di Dio</l>
+<l>mi cerchiò di caligine il senno, </l>
+<l>quando por la mia patria in obblio</l>
+<l>le straniere lusinghe mi fenno? </l>
+<l>io, la vergin ne´ gaudi cercata, </l>
+<l>festeggiata - fra l´itale un dì, </l>
+<l>or chi sono? L´apostata esosa</l>
+<l>che vogliosa - al suo popol mentì. </l>
+</lg>
+<lg>
+<l>Ho disdetto i comuni dolori, </l>
+<l>ho negato i fratelli, gli oppressi, </l>
+<l>ho sorriso ai superbi oppressori, </l>
+<l>a seder mi son posta con essi. </l>
+<l>Vile! un manto d´infamia hai tessuto, </l>
+<l>l´hai voluto, - sul dosso ti sta; </l>
+<l>né per gemere, o vil, che farai, </l>
+<l>nessun mai - dal tuo dosso il torrà. </l>
+</lg>
+<lg>
+<l>Oh! il dileggio di ch´io son pasciuta</l>
+<l>quei che il versan non san dove scende. </l>
+<l>Inacerban l´umìl ravveduta</l>
+<l>che per odio a lor odio non rende. </l>
+<l>Stolta! il merto, ché il piè non rattengo, </l>
+<l>stolta! e vengo - e rilevo fra lor</l>
+<l>questa fronte che d´erger m´è tolto, </l>
+<l>questo volto - dannato al rossor. </l>
+</lg>
+<lg>
+<l>Vilipeso, da tutti reietto, </l>
+<l>come fosse il figliuol del peccato, </l>
+<l>questo caro, senz´onta concetto, </l>
+<l>è un estranio sul suol dov´è nato. </l>
+<l>Or si salva nel grembo materno</l>
+<l>dallo scherno - che intender non sa; </l>
+<l>ma la madre che il cresce all´insulto</l>
+<l>forse, adulto, - a insultar sorgerà. </l>
+</lg>
+<lg>
+<l>E se avvien che si destin gli schiavi</l>
+<l>a tastar dove stringa il lor laccio, </l>
+<l>se rinasce nel cor degl´ignavi</l>
+<l>la coscienza d´un nerbo nel braccio, </l>
+<l>di che popol dirommi? a che fati</l>
+<l>gli esecrati - miei giorni unirò? </l>
+<l>per chi al cielo drizzar la preghiera? </l>
+<l>qual bandiera - vincente vorrò? </l>
+</lg>
+<lg>
+<l>Cittadina, sorella, consorte, </l>
+<l>madre, ovunque io mi volga ad un fine, </l>
+<l>fuor del retto sentiero distorte</l>
+<l>stampo l´orme fra i vepri e le spine. </l>
+<l>Vile! un manto d´infamia hai tessuto: </l>
+<l>l´hai voluto, - sul dosso ti sta; </l>
+<l>né per gemere, o vil, che farai, </l>
+<l>nessun mai - dal tuo dosso il torrà. </l>
+</lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>V</head>
+<head>MATILDE</head>
+<lg type="romanza">
+<lg>
+<l>La fronte riarsa, </l>
+<l>stravolti gli sguardi, </l>
+<l>la guancia cosparsa</l>
+<l>d´angustia e pallor, </l>
+<l>da sogni bugiardi</l>
+<l>Matilde atterrita, </l>
+<l>Si desta, s´interroga, </l>
+<l>s´affaccia alla vita, </l>
+<l>scongiura i fantasmi</l>
+<l>che stringonla ancor: </l>
+</lg>
+<lg>
+<l>- Cessate dai carmi, </l>
+<l>non ditelo sposo: </l>
+<l>no, padre, non darmi</l>
+<l>all´uomo stranier. </l>
+<l>Sul volto all´esoso, </l>
+<l>nell´aspro linguaggio</l>
+<l>ravvisa la sordida</l>
+<l>prontezza al servaggio, </l>
+<l>l´ignavia, la boria</l>
+<l>dell´austro guerrier. </l>
+</lg>
+<lg>
+<l>Rammenta chi è desso, </l>
+<l>l´Italia, gli affanni; </l>
+<l>non mescer l´oppresso</l>
+<l>col sangue oppressor. </l>
+<l>Fra i servi e i tiranni</l>
+<l>sia l´ira il sol patto. </l>
+<l>A pascersi d´odio</l>
+<l>que´ perfidi han tratto</l>
+<l>fin l´alme più vergini</l>
+<l>create all´amor. - </l>
+</lg>
+<lg>
+<l>E sciolta le chiome, </l>
+<l>riversa nel letto, </l>
+<l>dà in pianti, siccome</l>
+<l>chi speme non ha. </l>
+<l>Serrate sul petto</l>
+<l>le trepide braccia, </l>
+<l>di nozze querelasi</l>
+<l>che niun le minaccia, </l>
+<l>paventa miserie</l>
+<l>che Dio non le dà. </l>
+</lg>
+<lg>
+<l>Tapina! l´altare, </l>
+<l>l´anello è svanito; </l>
+<l>ma innanzi le pare</l>
+<l>quel ceffo tuttor. </l>
+<l>Ha bianco il vestito, </l>
+<l>ha il mirto al cimiero, </l>
+<l>i fianchi gli fasciano</l>
+<l>il giallo ed il nero, </l>
+<l>colori esecrabili</l>
+<l>a un italo cor. </l>
+</lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>VI</head>
+<head>IL TROVATORE</head>
+<lg type="romanza">
+<lg>
+<l>Va per la selva bruna</l>
+<l>solingo il trovator</l>
+<l>domato dal rigor</l>
+<l>della fortuna. </l>
+</lg>
+<lg>
+<l>La faccia sua sì bella</l>
+<l>la disfiorò il dolor; </l>
+<l>la voce del cantor</l>
+<l>non è più quella. </l>
+</lg>
+<lg>
+<l>Ardea nel suo segreto; </l>
+<l>e i voti, i lai, l´ardor</l>
+<l>alla canzon d´amor</l>
+<l>fidò indiscreto. </l>
+</lg>
+<lg>
+<l>Dal talamo inaccesso</l>
+<l>udillo il suo signor: </l>
+<l>l´improvido cantor</l>
+<l>tradì se stesso. </l>
+</lg>
+<lg>
+<l>Pei dì del giovinetto</l>
+<l>tremò alla donna il cor, </l>
+<l>ignara fino allor</l>
+<l>di tanto affetto. </l>
+</lg>
+<lg>
+<l>E supplice al geloso, </l>
+<l>ne contenea il furor: </l>
+<l>bella del proprio onor</l>
+<l>piacque allo sposo. </l>
+</lg>
+<lg>
+<l>Rise l´ingenua. Blando</l>
+<l>l´accarezzò il signor; </l>
+<l>ma il giovin trovator</l>
+<l>cacciato è in bando. </l>
+</lg>
+<lg>
+<l>De´ cari occhi fatali</l>
+<l>più non vedrà il fulgor, </l>
+<l>non berrà più da lor</l>
+<l>l´obblio de´ mali. </l>
+</lg>
+<lg>
+<l>Varcò quegli atri muto</l>
+<l>ch´ei rallegrava ognor</l>
+<l>con gl´inni del valor, </l>
+<l>col suo liuto. </l>
+</lg>
+<lg>
+<l>Scese, varcò le porte; </l>
+<l>stette, guardolle ancor: </l>
+<l>e gli scoppiava il cor</l>
+<l>come per morte. </l>
+</lg>
+<lg>
+<l>Venne alla selva bruna: </l>
+<l>quivi erra il trovator, </l>
+<l>fuggendo ogni chiaror</l>
+<l>fuor che la luna. </l>
+</lg>
+<lg>
+<l>La guancia sua sì bella, </l>
+<l>più non somiglia un fior; </l>
+<l>la voce del cantor</l>
+<l>non è più quella. </l>
+</lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>VII</head>
+<head>GIULIA</head>
+<lg type="romanza">
+<lg>
+<l>La legge è bandita; la squilla s´è intesa. </l>
+<l>È il dì de´ coscritti. Venuti alla chiesa, </l>
+<l>fan cerchio, ed un´urna sta in mezzo di lor. </l>
+<l>Son sette i garzoni richiesti al comune, </l>
+<l>son poste nell´urna le sette fortune; </l>
+<l>ciascun vi s´accosta col tremito in cor. </l>
+</lg>
+<lg>
+<l>- Ma tutti d´Italia non son cittadini? </l>
+<l>perché, se il nemico minaccia ai confini, </l>
+<l>non vanno bramosi la patria a salvar? </l>
+<l>- Non è più la patria che all´armi gli appella: </l>
+<l>son servi a una gente di strania favella, </l>
+<l>sottesso le verghe chiamati a stentar. </l>
+</lg>
+<lg>
+<l>- Che vuol questa turba nel tempio sì spessa</l>
+<l>quest´altra che anela, che all´atrio fa pressa, </l>
+<l>dolente che l´occhio più lunge non va? </l>
+<l>Vuol forse i fratelli strappar dal periglio? </l>
+<l>ai brandi, alle ronche dar tutti di piglio? </l>
+<l>scacciar lo straniero? gridar libertà? </l>
+</lg>
+<lg>
+<l>- Aravan sul monte; sentito han la squilla; </l>
+<l>son corsi alla strada; son scesi alla villa, </l>
+<l>siccome fanciulli traenti al romor. </l>
+<l>Che voglion? Del giorno raccoglier gli eventi, </l>
+<l>attendere ai detti, spiare i lamenti, </l>
+<l>parlarne il domani senz´ira o dolor. </l>
+</lg>
+<lg>
+<l>- Ma sangue, ma vita non è nel lor petto? </l>
+<l>del giogo tedesco non v´arde il dispetto? </l>
+<l>nol punge vergogna del tanto patir? </l>
+<l>- Sudanti alla gleba d´inetti signori, </l>
+<l>n´han tolto l´esempio: ne´ trepidi cuori</l>
+<l>han detto: - Che giova? Siam nati a servir. </l>
+</lg>
+<lg>
+<l>- Gli stolti!... Ma i padri? - S´accoran pensosi, </l>
+<l>s´inoltran cercando con guardi pietosi</l>
+<l>le nuore, le mogli piangenti all´altar. </l>
+<l>Sui figli ridesti coll´alba primiera</l>
+<l>si disser beate... Chi sa se la sera</l>
+<l>sui sonni de´ figli potranno esultar? - </l>
+</lg>
+<lg>
+<l>E mentre che il volgo s´avvolta e bisbiglia, </l>
+<l>chi fia quest´immota che a niun rassomiglia, </l>
+<l>né sai se più sdegno la vinca o pietà? </l>
+<l>Non bassa mai ´l volto, nol chiude nel velo; </l>
+<l>non parla, non piange, non guarda che il cielo; </l>
+<l>non scerne, non cura chi intorno le sta. </l>
+</lg>
+<lg>
+<l>È Giulia, è una madre. Due figli ha cresciuto; </l>
+<l>indarno! l´un dessi già ´l chiama perduto: </l>
+<l>è l´esul che sempre l´è fisso nel cor. </l>
+<l>Penò trafugato per valli deserte; </l>
+<l>si tolse d´Italia nel dì che l´inerte</l>
+<l>di sé, dei suoi fati fu vista minor. </l>
+</lg>
+<lg>
+<l>Che addio lagrimoso per Giulia fu quello! </l>
+<l>Ed or si tormenta dell´altro fratello, </l>
+<l>ché un volger dell´urna rapire gliel può. </l>
+<l>E Carlo dei sgherri soccorrer le file! </l>
+<l>vestirsi la bianca divisa del vile! </l>
+<l>fibbiarsi una spada che l´austro aguzzò! </l>
+</lg>
+<lg>
+<l>Via via, con l´ingegno del duol, la tapina</l>
+<l>travalica il tempo, va incontro indovina</l>
+<l>ai raggi d´un giorno che nato non è; </l>
+<l>tien dietro a un clangore di trombe guerriere, </l>
+<l>pon l´orme su un campo, si abbatte in ischiere</l>
+<l>che alacri dell´Alpi discendono al piè. </l>
+</lg>
+<lg>
+<l>Ed ecco altre insegne con altri guerrieri, </l>
+<l>che sboccano al piano per altri sentieri, </l>
+<l>che il varco ai vegnenti son corsi a tagliar. </l>
+<l>Là gridano: - Italia! redimer l´oppressa! - </l>
+<l>qui giuran protervi serbarla sommessa: </l>
+<l>l´un´oste su l´altra sguaina l´acciar. </l>
+</lg>
+<lg>
+<l>Da ritta spronando si slancia un furente: </l>
+<l>un sprona da manca, lo assal col fendente, </l>
+<l>né svia da sé il colpo che al petto gli vien. </l>
+<l>Bestemmian feriti. Che gesti! che voci! </l>
+<l>La misera guarda, ravvisa i feroci: </l>
+<l>son quei che alla vita portò nel suo sen. </l>
+</lg>
+<lg>
+<l>Ahi! ratto dall´ansie del campo abborrito</l>
+<l>s´arretra il materno pensiero atterrito, </l>
+<l>ricade più assiduo fra l´ansie del dì. </l>
+<l>Più rapido il sangue ne´ polsi a lei batte: </l>
+<l>le schede fatali dall´urna son tratte. </l>
+<l>Qual mai sarà quella che Carlo sortì? </l>
+</lg>
+<lg>
+<l>Di man de´ garzoni le tessere aduna, </l>
+<l>ne scruta un severo la varia fortuna, </l>
+<l>determina i sette che l´urna dannò. </l>
+<l>Susurro più intorno, parola non s´ode; </l>
+<l>ch´ei sorga e li nomi, la plebe già gode, </l>
+<l>già l´avido orecchio l´insulsa levò. </l>
+</lg>
+<lg>
+<l>E Giulia reclina gli attoniti rai</l>
+<l>sul figlio e lo guarda d´un guardo che mai</l>
+<l>con tanto d´amore su lui non risté. </l>
+<l>Oh angoscia! ode un nome... ; non è quel di Carlo</l>
+<l>un altro ed un altro... ; non sente chiamarlo: </l>
+<l>rivelan già il quinto... ; no, Carlo non è. </l>
+</lg>
+<lg>
+<l>Proclamano il sesto... ; ma è figlio d´altrui; </l>
+<l>è un´altra la madre che piange per lui. </l>
+<l>Ah! forse fu invano che Giulia tremò. </l>
+<l>Com´aura che fresca l´infermo ravviva, </l>
+<l>soave una voce dal cor le deriva</l>
+<l>che grazia il suo prego su in cielo trovò. </l>
+</lg>
+<lg>
+<l>Le cresce la fede: nel sen la pressura</l>
+<l>le allevia un sospiro; con men di paura</l>
+<l>la settima sorte sta Giulia ad udir. </l>
+<l>L´han detta...: è il suo figlio...; doman vergognato, </l>
+<l>al cenno insolente d´estranio soldato, </l>
+<l>con l´aquila in fronte vedrallo partir. </l>
+</lg>
+</lg>
+</div1>
+<div1>
+<head>VIII</head>
+<head>LE FANTASIE</head>
+<div2 type="dedica">
+<head>AGLI AMICI MIEI IN ITALIA</head>
+<p>Nell´atto di mandare allo stampatore la presente romanza, mi sento suggerita
+da taluno la convenienza di farle precedere almeno qualche parola di
+prefazione; ov´io m´ostini a non volerla provvedere di note, come a tal altro
+pareva che bisognasse. E nondimeno mi sa male anche dello schiccherare una
+prefazione, massime non occorrendo a me cose da dire in essa che vagliano la
+carta su cui scriverle. Pigliale come vuoi, poco su poco giù, note o prefazione
+m´hanno faccia di pedanteria nel caso mio; né vorrei che si credesse ch´io
+attribuissi al poemetto più d´importanza che non gli si compete. Ma come si può
+egli far netto netto a modo proprio, e ributtare del tutto un consiglio che si
+sa non essere che la parola d´un benevolo? Come trovare quella pertinacia con
+cui resistiamo talvolta alle ragioni; trovarla, dico, per resistere al bisogno
+di parere creanzati? A sbrigarmi in qualche modo da una siffatta perplessità,
+ho afferrato come buon ripiego un suggerimento dell´animo mio, quello di
+rivolgermi a voi, dilettissimi, e d´indirizzarvi, come fo, questa mia lettera
+tutta confidenziale. Scritta come vien viene, come se riassumessi per un
+momento ancora una di quelle tante chiacchierate con voi a cuor largo, senza
+rigore di proposito, senza intento letterario, delle quali componevasi la
+nostra conversazione (perdita questa delle più amare che m´abbia costato
+l´esilio), la lettera mi salva d´ogni mal sussiego d´autore; mi permette di
+parlare in persona prima, di usarlo quell´“ io” che l´etichetta, il
+perché nol so, condanna come più vanitoso del “ noi” ; mi presta
+luogo a dire quel poco che pur si vuole ch´io dica e, quello che val meglio per
+me, mi procaccia il gusto di chiamarvi ancora “ i miei cari” .
+Forse anche a voi non dispiacerà di ricevere impunemente per questa via un
+solenne saluto dall´amico vostro lontano, da colui del quale sarebbe delitto
+per voi l´avere contezza altrimenti; frutto anche questo delle vostre belle
+polizie, che vi strozzano in petto perfino le affezioni private.</p>
+<p>Per poco ch´io ve l´asserisca, lo crederete ben subito, o dilettissimi, che
+nel comporre i versi che oggi vi dedico, voi, voi soli, io sempre aveva dinanzi
+alla mente, come lettori a cui soddisfare, s´io lo potessi. Ora che gli ho
+ricopiati, li rileggo pensando a voi; né parmi che per voi abbiano bisogno di
+schiarimenti. Se mi tocca di pubblicarli in terra straniera, non è per questo
+ch´io mi figuri che stranieri li vogliano leggere. Ove a ciò avessi rivolto la
+speranza, certo è che avrei fatto bene di sparpagliare qua e là alcune note ad
+esporre quel tanto di storia lombarda a cui alludono i versi, dacché non è da
+pretendere che fuori d´Italia s´abbiano comunemente su per la punta dei diti i
+fatti nostri di un tempo remoto. Ma io non ho in mira che l´Italia. Ed in
+Italia, cari miei, come volete ch´io pensi che, col tanto boriare che vi si fa
+d´onore nazionale, s´ignori poi l´epoca più bella, più gloriosa della storia
+italiana, la confederazione de´ lombardi in Pontida, la battaglia di Legnano,
+la pace di Costanza? Questi fatti il dichiararli io a voi, più che superfluo,
+sarebbe ridicolo. E uno scortese complimento parrebbe anche se mi mettessi a
+spiegarli a que´ pochi che, senza onorarmi d´amicizia personale, volessero pure
+onorarmi d´uno sguardo gettato sul mio libretto. - Costui - direbbero - o
+misura dalla propria la parvità dell´intendimento altrui, o ci guarda d´alto in
+basso come tanti scolaretti, a´ quali tutto debba riuscir nuovo. -</p>
+<p>Ché se vi ha costaggiù taluno, - intendo tra le persone nelle quali è
+supponibile una discreta coltura, - taluno, dico, a cui non sia stata rotta la
+sonnolenza incuriosa neppure dal gran rumore fatto pel lungo e pel traverso
+dell´Europa dalla bell´opera del signor Sismondi sulle repubbliche italiane,
+tanto peggio per lui! Se il poveretto non sa che un tempo nelle vene de´ nostri
+antenati non iscorreva poi tutto latte; che un tempo le soperchierie tedesche
+non erano in Italia ingozzate poi tutte come ciambelle calde; che un tempo
+nell´elenco de´ tormentatori dei popoli venne a collocarsi un Federigo
+Hohenstaufen, soprannominato il Barbarossa e facente il mestiere d´imperatore;
+che questo tale Hohenstaufen, superbo e ruvido come Caino, seccafistole per
+eccellenza, calato e ricalato in Italia co´ suoi manigoldi, angariò
+principalmente la Lombardia colla prepotenza d´una volontà feroce, con tutti
+quei soliti bei modi di chi scende di là a padroneggiarci, a raspar quel che è
+nostro; che i lombardi, invece di esercitarsi a cantare <emph>amen</emph>,
+invece d´addestrarsi ad inarcar le schiene, s´addestrarono ad allungar le mani,
+e si collegarono tra di loro; che usciti essi in campo, con le loro buone armi
+salde nel pugno, col loro buon cuore saldo ne´ petti, diedero a
+quell´Hohenstaufen ed a´ suoi tedeschi un rifrusto, una ceffata solenne,
+proprio di quelle gustose che spicciano a un tratto gl´imbrogli, e si
+conquistarono così un più libero vivere civile, e trassero poi i battuti ad
+accettar la pace, e si tolsero di dosso tutta di fatto, e quasiché tutta anche
+di parole, la soggezione a quegli odiosi stranieri...; s´egli non le sa il
+poveretto queste splendide cose, tanto peggio per lui! E che ci ho a fare io?
+Ov´anche principiassi dal dirgli: - Sono fatti che avvennero dagli anni di
+Cristo 1167 fino agli anni di Cristo 1183, - già non ne verrei a capo di nulla:
+oppure ad agevolargli la lettura di due fogli di versi, mi bisognerebbe lavorar
+per lui un volume di prosa. Mancherebbe anche questa! Imporre a me il gastigo
+della pigrizia altrui!</p>
+<p>- Ma le poche note che avresti fatto pei lettori stranieri, perché non farle
+pe´ tuoi paesani? - Perché? La mi spiace questa vostra domanda, né vorrei che
+mi strappasse dal labbro una parola di cui pentirmi dipoi: insomma non ve lo
+voglio dire il perché. E se questa mia reticenza, che pur move da intenzioni
+cortesi riguardo ad altri, a voi per isbaglio sembrasse villania, e voleste
+punirmene; ebbene, negate anche voi risposta ad una interrogazione mia; e le
+parti sieno subito pari. Eccovela: domando a voi, a voi che m´avete mostrato
+tante volte, con parole e con esempio vivo, come le cognizioni umane
+s´incatenino e s´aiutino l´una con l´altra, domando se v´abbia o no differenza
+tra la suscettibilità intellettuale, se cosi è ben detto, dell´uomo che non sa
+i fatti altrui, e quella dell´uomo che non sa neppure i fatti propri.</p>
+<p>D´altronde, per avere coraggio di metter fuori de´ discorsi storici in
+occasione di pochi versi, è mestieri far que´ discorsi come li sa fare un certo
+tale tra di voi, entrando in materia ricco di letture, d´idee, di acume
+critico, di veduta ampia, e di nuove e franche considerazioni; per modo da non
+sapersi se doverlo più ammirare per la tanta bellezza delle sue poesie, o per
+la tanta sagacità delle sue note. Ma allora le note fanno cosa da sé; sono un
+libro a parte, osservazioni storiche indipendenti dai versi. Ma per riuscire al
+quale e al quanto a cui riesce quel certo tale, maliardo benedettissimo, sono,
+almen che sia, requisiti indispensabili abbondanza di tempo e trascendenza
+d´ingegno: due cose queste, delle quali io patisco un pochetto, e più che un
+pochetto, di penuria. Non dirò delle due quale più manchi; né cerco pure di
+avverarmene io stesso: giacché né voglio dar sospetto ch´io parli con quella
+modestia che puzza d´ipocrisia, che sa di convento; né tampoco rovistarmi
+troppo addentro i segreti della coscienza. A questo mondo, per viverci un poco
+meno malcontento, non bisogna poi volere appurar tutto a un puntino.</p>
+<p>Lasciati andare senza corteggio di note i fatti storici eminentemente tali,
+conviene ch´io non usi maggiori cerimonie verso i minuti accidenti di essi.
+Neppur di lontano vorrei parere d´imitare quel fanatico che, a far vedere
+quant´egli abborrisse ogni odore d´aristocrazia, negava con brutto sgarbo il
+saluto a qualsiasi buono o tristo de´ nobili, e profondeva carezze a qualsiasi
+buono o tristo de´ plebei; né mai aveva posto mente che s´egli, alla larga
+d´ogni sorta di canagliume, da quello de´ trivi fino a quello de´ palazzi, si
+fosse tenuto urbano e rispettoso con ogni sorta di rispettabili, non solamente
+sarebbe paruto più democratico, ma anche più galantuomo.</p>
+<p>I minuti particolari di cui parlo, il lettore anche colto può, manco male,
+ignorarli senza il menomo rimorso. E in fatti o non usava egli di cercarli, o
+non li rinveniva spesso ne´ libri che i savi scrivevano per pascolo della
+intelligenza comune. Da qualche tempo in qua i savi hanno cambiato di parere, e
+si sono accorti che il farsi voler bene dalla intelligenza comune è un tantino
+più lusinghiero che non il rendersi accetto ai tarli delle biblioteche. E però
+divenuti vaghi di popolarità, secondano questa crescente smania che la
+moltitudine ha ora di sapere, più che si possa, il vero delle cose; e di questi
+minuti particolari fanno tesoro, come d´indicazioni tutte a meglio raffigurare
+ciaschedun popolo, a meglio definire ciaschedun periodo della vita di esso; né
+se li dicono più tra di loro, savio con savio, all´orecchio; ma li trasfondono
+nei loro libri di storia, e li rivelano, fra una novità d´aspetti infiniti e
+d´interessi sempre vivi, anche a noi povero pubblico, a cui il monotono
+racconto del su e giù delle famiglie reali o metteva sonno, o faceva rinnegar
+la pazienza. Non tocca a me di giudicare se questo scientifico rinverdire, per
+così esprimermi, delle cronache sia un progresso fatto dalla ragione umana. Ma
+siccome ognuno ha diritto d´avere i suoi gusti, e il confessarli, quando
+innocenti, non è poi delitto, confesso che questa moda mi va a genio molto. E
+siccome gli spassi, perché sieno proprio tali, bisogna poterli dividere con chi
+si ama, fo voti onde questa moda pigli piede molto anche in Italia, fosse anche
+in discapito della quistione sulla lingua, o d´altre tali usanze, che vi si
+tirano tanto per le lunghe, e vi si tengono in tanto credito, eppur non sono né
+cosi ingenue, né cosi divertenti.</p>
+<p>Comunque sia, di questi minuti particolari che, non proprio per gli
+stessissimi motivi onde piacciono ora agli storici, ma per motivi molto
+analoghi a quelli, aveva io sentito dire essere gemme pe´ poeti, alcuni pochi
+mi trovai averne raccolti nella memoria, spigolati qua e là alla ventura nello
+scartabellare libri vecchi che parlassero di fatti a cui alludono i versi della
+romanza: e però mi sono ingegnato di sceglierne pochissimi tra quei pochi, e
+d´incastrarli qua e là nel tutto d´invenzione che, secondo l´intendimento mio,
+doveva essere un riverbero rapidissimo del tutto di verità, e quindi conservare
+qualche tratto individuale della fisonomia dell´oggetto riverberato. Di questi
+particolari sono, a modo d´esempio, il volo delle tre colombe venute dalla
+cappelletta de´ santi Sisinnio, Martirio ed Alessandro a poggiarsi sull´alto
+del carroccio quando appunto la battaglia di Legnano pareva voler essere
+perduta pe´ lombardi; lo sgominarsi de´ tedeschi alla vista di quel volo,
+interpretato da essi come portento di sfavore; il rincorarsi invece de´
+lombardi che si pigliarono come indizio dell´aiuto de´ santi il capriccio di
+tre uccelli (cosi i tempi volevano!); il modo della fuga de´ tedeschi;
+l´appiattarsi di Federigo ne´ boschi e il suo non tornare che dopo tre giorni
+alla moglie, Beatrice di Borgogna, la quale già, pensandolo morto, gli
+preparava in Como i funerali...; ed altre inezie di tal fatta che è inutile di
+ripetere, e delle quali alcune anche si riferiscono alla condizione politica e
+civile de´ lombardi in quella età.</p>
+<p>Ora, per rispetto alle note, che non sarebbero più su fatti, ma su lievi
+accidenti di essi, a me sembra che un dilemma qui nasca, dai corni del quale
+sia difficile di scappare. O questi particolari, considerati solo come trovati
+poetici, sono espressi nel poemetto con sufficiente chiarezza, non per certo
+prosaica, ma quale l´ammette la poesia epico-lirica, o non lo sono. Se sì; e a
+che mai servirebbero le note? Se no; il poema è sbagliato, e va buttato subito
+al fuoco senza misericordia, perché il primo dovere di chi canticchia versi è
+di farsi intendere a dirittura co´ mezzi poetici, senza aver d´uopo di
+ricorrere per ciò al sussidio di mezzi estranei affatto all´arte sua, senza
+immischiarsi a farla da letterato.</p>
+<p>Sul primo corno del dilemma credo ch´io possa arrischiar di sedermi,
+qualunque sieno le altre ragioni per cui i miei versi possano meritarsi il
+complimento delle fiamme. E qui seduto, se per altro voi, dilettissimi, non
+m´invidiate il sedile, credo di dovere asseverare non solo che le note non
+servirebbero a nulla, ma ch´elle servirebbero a male. Non facendo esse che
+stemperare in un poco di prosa le immagini recate ne´ versi, e venendo innanzi
+a voi intarsiate di citazioni la più parte in latino, ditemi di grazia quale
+concetto farebbero nascere del loro autore? Quello a un dipresso che,
+passeggiando sul corso, fareste d´uno de´ vostri bellimbusti, il quale, non
+badando alla caldura dell´atmosfera, si portasse indosso il mantello comperato
+ieri, tanto per ostentarlo oggi sotto il naso de´ suoi compagni. Sarebbe come
+un dire io a´ lettori: - Qua qua, signori, contemplate i bei ciottoli preziosi
+che son venuto raccogliendo, frutto delle mie lucubrazioni: qui arrestatevi ad
+osservare come i versi miei sieno un estratto di lambiccata erudizione. -
+Vergogna! Erudizione a proposito di nulla, erudizione che non costa uno zero;
+vanità da ragazzi, polvere per gli occhi. No, no, miei cari; a guarire da
+siffatte ambizioncelle compassionevoli, basta solo il dilungarsi poche
+centinaia di miglia dal campanile della propria parrocchia, e sporger muso a
+fiutare ben altre importanze nella vita umana, a rimpetto alle quali è pure una
+gran miseria lo struggersi a voler comparire quello che non si è.</p>
+<p>Perché ho scritto quattro versi, mi corre forse per questo il debito, come
+allo storico, di provare la verità d´ogni cosa ch´io racconti con essi? Son io
+per questo un avvocato a cui, pena la perdita della sua causa, sia d´uopo non
+indicare circostanze senza l´appoggio d´un´allegazione? Gli accidenti ch´io
+narro tocca al lettore di procurar d´intenderli, recando alla lettura quella
+meno sbadata attenzione che la poesia epico-lirica richiede, la quale, già si
+sa, è una sciagurata che non vuole piegarsi a usare stile da gazzetta; ho detto
+“ epico-lirica” , ma a difinirla questa delle romanze, avrei dovuto
+dire con più di precisione, come fanno parlando de´ venti, poesia “
+epico-lirico-lirica” . Gli accidenti ch´io narro tocca al lettore di
+pigliarseli o come veramente somministrati dalla storia, o come consentanei ad
+essa, e bene o male inventati. A me, nella qualità di poeta, supponendo per
+ipotesi ch´io il fossi, a me non importa, e non deve tampoco importare, che ad
+un modo piuttosto che all´altro il lettore si attenga. L´incumbenza mia,
+secondo l´obbligo che me ne impone l´arte, non è di rappresentargli un fatto
+storico, quale precisamente fu; ma è solo di suscitare in lui qualche cosa di
+simile all´impressione, al sentimento, all´affetto che susciterebbe in lui la
+presenza reale di quel fatto. Quella qualche cosa di simile è risvegliata per
+mezzo d´immagini; e la convenienza di queste è determinata non dalla verità
+loro positiva, ma dalla maggiore attitudine in esse a produrre quella
+impressione, quel sentimento, quell´affetto. Certo è che quasi sempre la verità
+positiva è proprio quella che ha in sé più forte una tale attitudine; e il
+poeta fa benissimo di giovarsene a preferenza d´ogni altra. Ma se ne giova come
+d´un mezzo e non se lo propone come un fine. Guai a lui! s´egli scambia lo
+scopo dell´arte sua con quello dell´arte dello storico! Guai a lui! s´egli si
+dà pensiero del come il lettore piglierà le immagini del racconto poetico,
+piuttosto come verità, o come somiglianti alla verità!</p>
+<p>Li volete voi nondimeno come storici anche i pochi particolari da me
+adoperati? Or bene, dismesso il carattere di poeta, giacché anche questo vostro
+capriccio è al di là dei desideri che l´arte poetica si propone in modo
+diretto, con intenzione immediata, di appagare; or bene vi dico ch´eglino sono
+proprio storici; e riposate per questo sulla parola mia. E se non avete fede in
+me,</p>
+<lg>
+<l>domandatene pur l´istorie vostre.</l>
+</lg>
+<p>E chi vi dice che quest´ultima non sia giusto la mira a cui io tendo co´
+miei sotterfugi? Dio ´l volesse che, curiosi di sapere quanto v´abbia di verità
+storica ne´ versi miei, pigliassero a consultare storie e cronache alcuni degli
+studiosi e bravi giovinetti di cui sento dire non essere scarse le nostre
+scuole pubbliche; merito tutto questo della bontà individuale di qualche
+professori sparsi qua e là per l´Italia, i quali fanno tutto quel che possono
+onde non reprimere, come è cura de´ loro confratelli obbedientissimi a´
+governi, ma bensì aiutare a svilupparsi gl´intelletti affidati alla educazione
+di loro. Altre belle cose, e di ben altro interesse, e di ben altra utilità che
+non i miseri versi miei, raccoglierebbonsi per via da que´ giovinetti,
+ov´eglino, per quanto pur lo permettono le memorie che ci rimangono,
+procurassero d´informarsi ben bene del secolo della lega lombarda. Quante virtù
+da impararvi! Quanti errori da ravvisarvi, onde schivar di ripeterli! Che
+lezioni! che confronti! che speranze! E se non foss´altro, nelle cronache
+tedesche vedrebbero gli studiosi apparire fin da que´ tempi negli inimici
+nostri una propensione al goffo svisare i fatti, alla matta sfrontatezza del
+mentire le intenzioni, al maligno travolgere d´ogni principio morale; una mala
+fede insomma, una malvagità da far tuttavia onore a qualunque Consiglio aulico
+de´ tempi nostri. Dopo tante parole sprecate a dire ch´io non doveva intrigarmi
+in note, dopo d´avere imbrattate più pagine che le note stesse non avrebbero
+probabilmente occupato, bisogna pure, dilettissimi miei, ch´io vi confessi che
+una nota né manco il diavolo m´avrebbe rattenuto dallo scriverla, se mi fosse
+capitato per le mani il testo su cui fondarla: tanto è vero che le azioni
+nostre trascorrono sovente a fare a´ pugni co´ principi che professiamo! Ma la
+è così. Avrei dato direi quasi un mezz´occhio per poter pubblicare i nomi
+degl´illustri italiani che si congregarono a congiura nel convento di Pontida.
+I nomi di quelli che, raccogliendo primi il frutto coltivato dalla congiura,
+maturato dalla battaglia, sottoscrissero in Costanza l´atto di pace, tutti li
+sanno. Alcuni pochi anche de´ nomi de´ combattenti a Legnano ci sono rimasti,
+come a dire quello di un Alberto da Giussano, capo della Compagnia della morte.
+Ma i nomi di coloro che primi parlarono di concordia dove non era che risse,
+che primi concepirono l´alto pensiero dell´indipendenza nazionale, che ne
+spiarono la possibilità, che, ravvisando a fronte a fronte il pericolo di che
+li minacciava il ribellarsi, statuirono di corrergli incontro avvenga quel che
+sa avvenire, e misero le proprie vite sul taglio, per così dire, della spada,
+affine di conseguire quello che il cuore diceva loro: - È giusto, - e volsero
+gli occhi a quella giustizia, e su tutt´altro li chiusero; i nomi di que´
+benemeriti ardimentosi o sono andati perduti, o io non ho saputo rinvenirli.
+Meglio forse così! dacché l´elenco di que´ bei nomi spiegati dinanzi a famiglie
+che in parte forse ancora li portano senza che se n´avveggano, non avrebbe
+fatto altro che prestare una dolorosa illustrazione di più a quella verità
+detta da Dante, ma pensata da mille:</p>
+<lg>
+<l>Rade volte risorge per li rami</l>
+<l>l´umana probitate.</l>
+</lg>
+<p>Io non so d´altri che d´un frate Iacopo da Milano, detto dalle memorie de´
+tempi gran promotore della lega lombarda. La stampa di que´ frati
+sciaguratamente conviene credere che su tutta la terra sia rotta da molti
+secoli.</p>
+<p>In quanto a quella porzione de´ versi che si riferisce al vivere moderno,
+questa noiosa idea che le note sarebbero opportune, non può, grazie a Dio,
+saltare in cervello ad alcuno; sicché torna superfluo il parlarne. Deggio per
+altro servire qui al rispetto che porto a me medesimo, e fare una
+dichiarazione, diversa alcun poco da un´altra fatta non ha guari, ma più
+limpida ancora e severa, diretta, già s´intende, non a voi, miei dilettissimi,
+a´ quali non è la malignità che possa governare mai il pensiero, ma bensi a
+chiunque, non conosciuto da me, non mi conoscesse. Qui in Inghilterra, popolo
+largo, e quindi meno vago di cicalecci da pettegole, una tale dichiarazione
+sarebbe, non che inutile, stravagante a segno da non indovinarsene il
+significato. Ma in Italia ella m´è fatta parere necessaria da qualche poca
+esperienza del passato. Sappiasi dunque che in nessuno di que´ passi ove i
+versi parlano de´ viventi, nessuna mira e nessuno individuo particolare entrò
+per nessun conto a suggerire le immagini. Questa è verità sacrosanta che
+giovami di avere spiattellata una buona volta.</p>
+<p>Dinanzi a me non istavano che il concetto della virtù lombarda nel medio evo
+e il concetto della presente nostra (siamo sinceri) corruttela. Gl´individui
+erano spariti tutti. E che so io d´individui? che ne importa all´uomo in quella
+poca mezz´ora ch´egli si ritira a conversare con le astrazioni della sua mente?
+Se fossi andato in traccia d´individui, quanti e quanti non ne avrei saputo
+trovare, tra´ viventi, ottimi italiani davvero! Ma i due concetti miei erano
+somministrati dalle masse, dal tutto insieme di ciascheduno dei due secoli,
+concetti diffiniti dai fatti in generale, e non dall´inconcludente fissar gli
+occhi in faccia alle persone; concetti che non escludono la contingibilità
+delle eccezioni, non la niegano, ma non ne tengono conto, paghi di porgere
+l´espressione collettiva de´ fenomeni più abbondanti.</p>
+<p>L´ultimo sentimento che risulta nell´animo di chi considera il secolo della
+lega lombarda, è il sentimento d´una tal quale virtù nella massa de´ viventi in
+quel secolo, a malgrado de´ vizi inerenti a quello stato di civiltà, a malgrado
+della particolare cattivezza di moltissimi individui. E di siffatta virtù la
+prova infallibile sta nel loro aver voluto l´indipendenza e la libertà, e nel
+cercarle, come fecero, non con la pietà del guaire, ma co´ nervi e col sangue
+nella battaglia. L´ultimo sentimento che nasca dall´esame di noi adesso
+viventi, non so quale altro esser possa che quello della nostra corruttela
+generale, quando parla a tutta l´Europa il fatto della nostra supina tolleranza
+della servitù. Che giova ripararci dietro la virtù pure esistente in
+moltissimi, rifuggirci alle anomalie, quando trattasi di far giudizio
+dell´intera nazione?</p>
+<p>Ell´è una verità dura (e chi ´l niega?) a sentirsela dire, durissima a dirla
+questa della nostra corruttela. Ma anche Dio, o chi parlava in nome di lui,
+rinfacciava durissime verità al popolo pure prediletto. Ma gli è meno amaro,
+poiché ella non è più un segreto, il dircela quella verità tra di noi, che non
+il sentircela rintronare ogni tratto e in mille guise dalla bocca degli
+stranieri, e rintronare con quella odiosità di paragoni, con quella asprezza di
+modi vanitosi, che ti rende ostico il rimprovero per ciò solo che t´accorgi che
+in esso non è mistura alcuna d´amore. Quando noi avremo detto il fallo nostro,
+sarà già questo un passo verso l´emendarcene; e gli stranieri saranno costretti
+a tacere, se non per altro, per quella cura che gli uomini mettono, non dirò a
+non essere, ma a non parere plagiari.</p>
+<p>Ma rimettiamoci in cammino. I due termini astratti “ virtù” e
+“ corruttela” , i due concetti di “ secolo vecchio” e
+“ secolo presente” , come poteva io esprimerli co´ mezzi poetici
+senza ricorrere a forme concrete, a forme umane che li rappresentassero?</p>
+<p>Lascio a voi, dilettissimi, insieme col merito della pazienza il fastidio di
+spiegare le leggi e´l perché di questa necessità poetica a coloro che non
+l´intendessero da sé e fossero galantuomini da potervi fidar voi a menzionare
+con essi i versi e il nome mio. Ma sopra tutto vi raccomando di mettervi anche
+a dire cose triviali, tanto da farvi meglio comprendere, e conficcare e
+ribadire ben bene nel capo di loro come quelle forme a trovarle non richieggano
+modelli reali da cui ritrarle, a guisa che fanno i pittori quando ritrattisti,
+o quando non accostumati alla franca rappresentazione dell´ideale. Che sarebbe
+questa potenza che la mente umana ha d´immaginare, se per rinvenire il
+verisimile avessimo d´uopo di misurare sempre il vero con la spanna o col
+compasso? Dov´è l´uomo anche meno dotato di questa potenza, il quale, se gli
+dici: - La tale famiglia è viziosa, - non sappia crearsi nel suo pensiero
+l´immagine di qualche azione viziosa de´ componenti quella famiglia?
+Quell´azione da lui immaginata, manco male non sarà avvenuta nella realtà
+materiale delle cose, non sarà vera; ma sarà analoga al vero, ma verisimile:
+sarà nella mente di lui la forma visibile del concetto invisibile, sarà uno de´
+fantasimi rappresentativi della nozione del vizio. Come colui che gli suonò
+all´orecchio la parola “ vizio” , era salito dagli oggetti
+all´astrazione, cosi egli, immaginando un´azione, altro non avrà fatto che
+quello che facciamo d´ordinario noi, turba grossolana, - voi sapienti non so
+come facciate, - sarà ridisceso a cercare negli oggetti un simbolo figurato
+dell´astrazione; ed in mancanza d´oggetti reali, gli sarà bastata la
+rappresentazione di essi nel suo pensiero. Di questo modo parmi che tutti siamo
+più o meno poeti, anche il ciabattino che non ha sentito parlar mai di poesia,
+anche colui che non ha aperto mai bocca a manifestare ad altri un suo pensiero;
+perché la facoltà di crearci oggetti ideali, di arrestarci a contemplare
+fenomeni che non occuparono mai né tempo né spazio, di vagare dietro il
+verisimile sdimenticati del vero, la facoltà poetica insomma in tutti i suoi
+attributi, sia o no che se n´abbia consapevolezza quando la si esercita, sia
+che se ne faccia stima o disprezzo, ell´è pur sempre una delle perpetue
+imprescindibili condizioni che costituiscono lo spirito umano. E chi sa ch´ella
+non sia fors´anche la precipua! Chi sa che l´uomo non sia forse più poeta che
+altro anche allora ch´egli dichiara ad altri e giura a se stesso d´esserlo
+meno, e sei crede!</p>
+<p>E a proposito di ciabattino, per citare due esempi del presente poemetto, la
+risposta a´ quali calza per tutti i casi anche più minuti di esso; vi pregherei
+di far loro osservare come nella battaglia di Legnano sia tratto in iscena un
+solo lombardo ferito a dir cose serie, e tra´ viventi uno solo sia che
+s´ubbriachi e dica cose infami. Sarà per questo che nella vera battaglia di
+Legnano uno solo sia stato il ferito ed abbia proprio profferite quelle parole?
+Sarà per questo che nella realtà de´ viventi uno solo sia il bevone,
+l´impudico, nell´animo del quale si riuniscano proprio tutti i sentimenti
+espressi nella canzoncina? Oibò, oibò, oibò. Di quanta picciolezza d´intelletto
+farebbe mostra chi non ravvisasse, qui e da per tutto altrove nella romanza,
+l´ideale! e nol ravvisasse prevalente ben assai più nelle forme espressive del
+concetto di “ secolo nostro” , che non in quelle rappresentanti
+l´altro concetto dove molte immagini sono anche tolte alla realtà storica!</p>
+<p>Ma il suggerire io queste osservazioni a voi, dilettissimi, gli è davvero un
+portar patate in Irlanda: avrei detto più volentieri “ incenso in
+Arabia” ; ma allora la grandiloquenza sarebbe stata, come spesso avviene,
+in detrimento del senno comune; perché l´incenso, preziosa derrata, riferito a
+voi, andava bene; riferito a me, andava sguaiatamente male.</p>
+<p>Alcuni anni fa avrei dovuto prevedere e combattere più di proposito
+un´altr´accusa già mezzo accennata qui sopra. Ma sarebbe adesso fin anche
+soperchieria il menar colpi contro di una moribonda: voglio dire la taccia di
+poco amore del proprio paese, la metafora obbligata del mordere il seno alla
+propria madre. Vergogna! un italiano sparlar dell´Italia!</p>
+<p>Si, eh! Me li rammento ancora i tempi quando quest´accusa, movendo di
+soppiatto dai pandemoni delle polizie tedesche, usciva fuori allindita il volto
+d´un poco di belletto e d´un poco di gioventù, tanto da potere, quantunque
+ribalda e tutta lercia sotto panni, infinocchiare qualche gonzo. Ma i commessi
+delle polizie, segreti e pubblici, l´hanno poi tramenata cotanto, l´hanno
+cotanto fatta correre su e giù a seminar zizzanie tra di noi, ad adulare una
+falsa boria soporosa nella coscienza di chi, amando la patria, non domandava a
+se stesso in che poi consistesse l´amarla davvero; l´hanno indotta, dico, a
+cotanto scialacquo delle sue forze, che a lei sono rimaste oramai solo le
+grinze e la goffaggine. Scommetto una buona ciocca de´ miei capegli ancora
+neri; il che non è posta tenue per un uomo che se li vede volgere al canuto
+ogni mattino più: e nondimeno vado a scommettere che a nessuno reggerà ora lo
+stomaco di raffazzonare gli stinchi a quell´accusa. Tutti poi i capegli miei e
+neri e bianchi, ed anche il pericraneo scommetto, che nessuno, ove un tristo
+s´ardisse di raffazzonarli, nessuno, possessore sotto il cranio suo d´un
+granello di giudizio, se ne lascerà abbindolare.</p>
+<p>Giacché sono in ballo, contentatevi ch´io faccia un altro saltetto: e sarà
+l´ultimo, ve ne do promessa. Mi pizzica sul labbro qualche parola da dirvi
+anche intorno alla ragion poetica di questa romanzuccia; perché qui sta il
+zoppicare; e se un briciolo d´apologia le potesse raddirizzare l´apparenza,
+sarebbe per me una beatitudine. Non è ch´io mi metta in apprensione dei critici
+di mestiere onde è pieno lo stivale d´Italia: so bene che da loro non ho a
+temere che pubblicamente neppure si fiati de´ versi miei; sono diavolerie che
+scottano i diti, argomento che ne va la pelle a darsene per intesi. Ma tra que´
+critici vi possono anche essere persone che, sicure in segreto del fatto loro,
+fingano di cedere alla smania di trinciare un giudizio letterario, quale che
+sia l´imprudenza che commettano a confessare d´aver lette le mie Fantasie, e
+davvero servano poi ad altro proposito. Già s´intende che la confessione ed il
+giudizio saranno bensì ripetuti sovente, ma sempre con persone diverse onde
+affettar precauzioni, sempre a quattr´occhi, sempre sotto voce, e premessa
+sempre la formola protestatoria che non si tratta d´entrare nella politica, ma
+si parla solo de´ versi come semplicemente versi, come un oltraggio recato alle
+buone lettere, di cui il pigliar le difese è sacro dovere. Alle censure di
+costoro, che saranno tanto più sparse di fiele quanto eglino si troveranno
+essere più vicini a conseguire dai governi un impiego, od a migliorarlo, voi,
+miei dilettissimi, non potrete, né dovrete averla voi l´imprudenza di
+rispondere una sillaba, s´anco pensaste ch´io meritassi da voi qualche
+protezione da quegli assalti. L´amico vostro dunque rimarrebbe a partito
+peggiore che non le illustrissime Buone lettere; sfornito, voglio dire, d´ogni
+difesa. È vero che in Italia, non solo nelle inezie come queste, ma nelle cose
+gravissime, è legale sentir l´accusatore e condannare alle forche l´accusato,
+senz´altra formalità che il beneplacito di chi paga il boia. Ma i rozzi popoli,
+tra cui sono venuto vagando da alcuni anni, m´hanno messo in capo molti
+pregiudizi, e fra i molti quello di associare all´idea di giustizia l´idea di
+difesa, e quel che è peggio, difesa pubblica, a porte spalancate. Guastato dal
+mal esempio, caduto lontano dalla patria in tanta ignoranza, non so tenermi dal
+rispondere io innanzi tratto a quelle censure, dal far pubblica la difesa mia,
+e d´una maniera spiccia, ma, oso dire, persuadentissima. Piglio fiato, ed
+incomincio:</p>
+<p>- Signori, in quanto alla condotta del poemetto, condotta troppo
+evidentemente regolare, troppo ordinata a presentare in grande la simmetria di
+un´antitesi; in quanto alle immagini talvolta troppo prosaiche, talvolta troppo
+noiose; in quanto agli accidenti, alle persone, ed a´ discorsi ch´elle fanno,
+or troppo lunghi, or troppo strampalati; in quanto al tutto insomma che i versi
+rappresentano, è gofferia la vostra se ne parlate. I sogni vengono come
+vogliono essi; godono d´una libertà tanto indomabile, che né da´ critici né dai
+principi, che come i critici mettono naso per tutto, ella è da potersi
+raccorciare di un atomo; sono più liberi perfino del pensiero propriamente
+detto, poiché non solamente a quando a quando, ma sempre, se non m´inganno,
+camminano indipendenti da atto della volontà nostra. Or bene, codesti, ch´io
+v´ho descritti, sono cinque di tali privilegiati fortunatissimi che si ridono
+d´ogni tirannia. E questo basti a chiudervi la bocca, come il papa a´ cardinali
+talvolta. Vorrei vederlo l´uomo che avesse l´arroganza di dire all´uomo: - Hai
+avuto torto di sognare cosi! - Per la quale cosa, o signori, a voi non
+rimangono di questo povero componimento che la verseggiatura, lo stile, la
+lingua, i punti e le virgole su cui esercitare il vostro ministero. Il campo è
+tuttavia assai vasto, chi voglia menare a tondo lo staffile: e ch´esso non
+cadrà sempre immeritato, quasi quasi ve n´assicurerei io medesimo, se nel
+catalogo delle umane stravaganze anche questa fosse registrata: ch´io mi
+brigassi di parlare sul serio con voi. Signori, ho detto. -</p>
+<p>Ma ai lettori ne´ quali il buon gusto va del pari con la buona fede, a
+quelli da cui un cenno di simpatia è tutto ch´io ambisca, e a voi, carissimi, a
+cui principalmente sono dedicati questi versi, quale parola posso io dire che
+valga a stenuarne i difetti?</p>
+<p>Ho veduto dei padri confessare talvolta che non erano belli i loro
+figliuoli; ho veduto quel misto di titubanza, di vergogna, di conoscenza, di
+rincrescimento, di rassegnazione, onde sul volto loro pigliava colore
+l´ingenuità della confessione. Ebbene, quella tinta non l´ho veduta mai
+distendersi sul volto di veruno autore che condiscendesse a dichiararsi mal
+soddisfatto del proprio libro. È d´uopo quindi presumere che nella paternità
+letteraria v´abbia una tendenza più ciecamente amorosa verso la prole, che non
+nella paternità naturale: chi trovò il primo quella metafora della paternità,
+avrebbe forse tirato un po´ più vicino al segno, se, non curando la
+corrispondenza del sesso, avesse detto maternità letteraria; giacché a far più
+intenso l´amore materno concorre anche la memoria della distretta del parto. In
+ogni modo, quel viso cosi male in accordo con la parola, quel viso che ho
+veduto in altri, nol voglio fare io, né dire che i versi miei io li riconosco
+per brutti, e dirlo a detto smentito da me stesso: perché se tali io li
+credessi davvero, li manderei a voi stampati e pubblicati?</p>
+<p>Ma in tutto v´è un di mezzo; e quasi sempre la verità, chi voglia snidarla,
+è in quel di mezzo che è da rintracciarsi. Ciò che a me par vero, lo dirò a voi
+veracemente.</p>
+<p>Già da alcune altre di queste mie inezie poetiche che prima d´ora ho date,
+non posso dire alle stampe, ma a malmenare agli stampatori, voi vi sarete
+accorti ch´io mi sono messo sur una strada la quale non è giusto giusto quella
+indicata dall´estetica come conducente diritto allo scopo ultimo che l´arte
+poetica si prefigge per unico, sur una strada dove spesso fo sagrificio della
+pura intenzione estetica ad un´altra intenzione, dei doveri di poeta ai doveri
+di cittadino. Nel conflitto di queste due sorta di doveri, è da ravvisarsi
+un´angustia per l´uomo che ne sente l´importanza di entrambe; e nella
+prevalenza in lui della devozione civile sulla devozione estetica, è da
+riconoscersi, se non m´inganno, qualche cosa d´onesto, la sottomessione
+dell´amor proprio all´amore della patria. Siamo uomini tutti, e tutti l´abbiamo
+la nostra ambizione, ed è scempiaggine il dir di no: né io pretendo che mi
+crediate non aspirante a qualche fama di poeta, non parziale fors´anche
+nell´estimare i diritti ch´io possa avere ad essa, per quanto deboli me li
+rinfacci la coscienza. Se di una tale ambizione ho fatto dunque olocausto ad
+altre considerazioni, forse anche voi dovreste, nel giudicare i miei versi,
+procedere con qualche riferimento a quelle considerazioni. Per male allora che
+andasse la causa mia dinanzi a voi, questo almeno sareste tratti a dover dire:
+- Ha fatto un cattivo poema, ma una buona azione.</p>
+<p>So che mi si può apporre la stolidità di avere scelto per mezzo a compiere
+quell´azione i versi, quando, se il compierla era quello che più mi premeva, la
+prosa era il mezzo più espediente. Mi porterebbe troppo lontano il rispondere a
+questa obbiezione; basti per ora ch´io accerti, chi la facesse, che non è poi
+tutta stolidità quella scelta: ci pensi, e gli verrà indovinato il perché.</p>
+<p>Proponendo a voi, dilettissimi, come ho fatto, la sentenza da pronunziare, è
+manifesto anche nei termini di essa come io senta benissimo che altro
+galantuomo, posto nelle strette mie, avrebbe potuto servire alla patria con
+meno ripudio dell´estetica. Ma che volete ch´io vi dica? Il tipo del bello l´ho
+in capo talvolta; ma quando si tratta d´imitarlo coi fatti, dàlle dàlle, non mi
+riesce. Insomma non ho saputo far meglio. Questo per altro sia segreto
+confidato a voi soli; di grazia, non ne fate il segreto delle comari, non
+riditelo in piazza.</p>
+<p>Finora, per quanto io abbia detto in difesa od in offesa mia, non ho fatto
+che stare sulle generali; ed è un modo di parlare che non mi piace, poiché egli
+è spesso una gherminella, un trovato astuto onde spacciare per umiltà la
+superbia, un parer di dire e dir nulla. Sbrighiamocene indicando almeno un
+qualche particolare.</p>
+<p>Quantunque si abbia usata la precauzione di fare che l´Esule sognasse verso
+il mattino, quando dicono che i sogni vengono più distinti, più ordinati, più
+conformi all´andamento comune delle associazioni delle idee nostre quando siam
+desti, v´è nondimeno in questi cinque sogni qualche cosa di troppo misurato, di
+troppo ragionevole. In essi poi si fa un gran parlare, quando invece è noto che
+d´ordinario i sogni consistono principalmente d´immagini visibili; dunque poca
+verisimiglianza ne´ cinque sogni. In essi è anche una certa mancanza, diciamo
+cosi, d´intonazione poetica, non solamente qua e là nello stile, ma nel tutto
+insieme della finzione, un non so che inesprimibile di grave che non sa
+trascinarti fuori della realtà della vita più che tanto, un ideale che è bensì
+poetico, ma lo si sente cercato con intendimento prosaico. La forma poi di
+questo componimento, visione o sogno, “ fantasie” che lo si chiami,
+è una forma di poema che ha tanto di barba, una forma usata e riusata fino alla
+nausea, una forma vecchia come la vecchia memoria di Abacuc...</p>
+<p>Sia ringraziata l´esistenza tra noi dell´espressione proverbiale “
+vecchio come Abacuc” , e ringraziato il suo venirmi ora nella penna. Essa
+interrompe l´articolo che, senza avvedermene, io stesso stava facendo su di me;
+fatica malaugurata che gli autori imprendono bensi sovente, per carità del
+libro loro, ma non mai per dirne male, ma sempre serbandosi anonimi. Essa
+richiama anche il pensiero vostro ai profeti, ed a quelle loro visioni nelle
+quali è ben altra poesia che questa della romanza, e nondimeno le parlate non
+sono né poche né brevi. Ezechiele, per modo d´esempio, che se a taluni può
+parere un po´ meno poeta degli altri, e specialmente d´Isaia, è non per tanto
+un gran poeta anch´egli, e, credo, il più abbondante d´immagini visibili,
+Ezechiele non parmi che avesse paura del far parlare a lungo nelle sue visioni
+le immagini alle quali egli attribuiva favella. Ma la verità è che Ezechiele
+aveva per ascoltatori popolo e non critici; e noi, moderne scimie de´ poeti
+antichi, in Italia noi abbiamo critici e non popolo. E chi, cercando consiglio
+ai critici, potrebbe menarmi buono l´avere io fatto parlare cotanto uno vicino
+a morire, il lombardo della battaglia di Legnano? Lo scoprirmi in fallo per
+questa parlata sarebbe la cosa del mondo più facile a farsi, se un´altra non ve
+ne fosse più facile ancora, quella per me di pigliare le cisoie, e tagliar via
+il corpo del delitto, o d´accorciarlo almeno. E sia lode al vero, due volte ho
+portate le mani per eseguirlo il taglio, e due volte - lo dirò con una frase
+tutta di filigrana, rubata al Creso di tali frasi, - due volte “ caddero
+le paterne mani” . E perché? Perché quelle poche ammonizioni contenute
+nella parlata erano le cose appunto che a me più importava di dire; perché
+quelle ammonizioni possono essere come un tocco di campana che svegli altre
+riflessioni nell´animo de´ miei concittadini, un avviamento a pensieri un po´
+sodi sulle condizioni necessarie ond´essere degni della libertà. Né credo
+ch´elle sieno estranee al concetto storico della romanza, dacché in gran parte
+per non avere saputo i lombardi far senno di ammonizioni consimili, perdettero
+poi in séguito la libertà loro.</p>
+<p>Come eglino la perdessero, e perché dovessero necessariamente perderla, voi
+lo sapete, o miei cari; né spetta a me di ridirvi le osservazioni che altri
+hanno già fatte e pubblicate con tanta limpidezza di giudizio, e da ultimo
+anche il signor Guizot con cenno rapido, ma sentito.</p>
+<p>Tengano conto, li scongiuro, di tali osservazioni quelli che amano la nostra
+povera patria. Cerchino di farne anch´essi, studiando la storia nostra, traendo
+dalle memorie del passato una migliore direzione alle speranze del futuro. E se
+mai, e chi ´l sa? usciti del nostro sopore, o sbalzati da qualche accidente
+dell´incivilire che fa ogni di più l´Europa intorno di noi, ci trovassimo
+avvicinati al conseguimento della libertà e della indipendenza nazionale,
+ricordiamoci che ad afferrarle più strette, a ritenerle più sicure varranno
+l´amore tra di noi, e le arti franche della verità e della forza cogli
+estranei, e non già i trovati della diplomazia.</p>
+<p>Non era ancor ridotta ad arte la diplomazia a´ tempi de´ lombardi; ma il
+fondamento di essa esisteva anche allora: il brutto vizio di avere altro sul
+labbro, altro nell´animo, di torcere le parole a dire quello ch´elle non
+debbano significare. In Pontida i lombardi mettevansi in atto di esercitare il
+diritto più santo de´ popoli, pigliavano l´armi per iscacciare gli stranieri e
+l´imperatore straniero; e nondimeno gridavano: “ Salva sempre la fedeltà
+all´imperatore” . In Costanza eglino vedevano consacrato dalla pace il
+fatto della loro indipendenza dall´imperatore; e nondimeno giuravano: “
+Riserbato l´alto dominio ali´ imperatore” . Nel primo caso, le parole
+nulla affatto dovevano dire; nel secondo, ben poco più di nulla. Ma,
+quest´ultime lasciavano aperto uno sportello agli stranieri, e davano loro
+adito a macchinare in Italia discordie che vi rompessero la lega e vi
+rimettessero la debolezza. Quando viene a mancare la forza che ha soggiogate le
+parole e costrettele a dire meno del loro significato, allora le parole
+riprendono tutta quanta la forza loro, e dicono tutto quello ch´elle sanno
+dire. Cosi la sciagurata parola “ alto dominio” somministrò col
+tempo colore di diritto alle angherie de´ successori di Federigo. E però
+qualunque popolo aspira all´indipendenza, guardisi dall´essere corrivo nelle
+parole, e non ponga fiducia in quelle de´ diplomatici. Un celebre di questi
+faccendieri politici, celebre anche per l´acume de´ suoi tanti frizzi, a´ quali
+egli sopravvive come a´ suoi artifici, perché la moda è cambiata, ebbe a dire
+alcuni anni fa, che Dio aveva data la parola all´uomo onde con essa celare il
+nostro pensiero, e non già manifestarlo. Fidinsi dopo questo alle promesse dei
+diplomatici le nazioni, se il possono. </p>
+<p>Amici miei, è detto che l´amore induce taciturnità: bisogna per altro dire
+che metta anche talvolta una parlantina da rimbambiti. Cosi ora avvenne di me.
+Ma è colpa anche vostra, perché non m´avete mai interrotto il discorso. Ed era
+pur vostro costume l´interrompermelo una volta ad ogni istante: questa corda
+non tocchiamola. L´illusione che mi sono creata d´essere e parlare con voi mi
+riuscì tanto consolante, che l´averla tirata in lungo a bella posta è astuzia
+perdonabilissima; e voi, ne son certo, me la perdonerete di buona voglia.
+Pervenuto al punto in cui m´è mestieri congedarla questa illusione,
+scioglierla, sperderla tutta, e far fine e dirvi addio, sento che nella parola
+“ addio” v´è qualche cosa che non m´è dilettevole, e tutt´ad un
+tratto mi trovo essere divenuto taciturno davvero. </p>
+<p>Addio, amici miei; la memoria di me non perisca nel cuor vostro.</p>
+<closer>
+<signed>L´affezionatissimo vostro GIOVANNI BERCHET.</signed>
+<date>Piccadilly, 5 gennaio 1829.</date> </closer>
+</div2>
+<div2 type="poesia">
+<head>I</head>
+<lg type="romanza">
+<lg>
+<l>Per entro i fitti popoli, </l>
+<l>lungo i deserti calli, </l>
+<l>sul monte aspro di gieli, </l>
+<l>nelle inverdite valli, </l>
+<l>infra le nebbie assidue, </l>
+<l>sotto gli azzurri cieli, </l>
+<l>dove che venga, l´Esule</l>
+<l>sempre ha la patria in cor. </l>
+</lg>
+<lg>
+<l>Accolto in meno i liberi</l>
+<l>al conversar fidente, </l>
+<l>ramingo tra gli schiavi, </l>
+<l>chiuso il pensier prudente, </l>
+<l>infra gl´industri unanimi, </l>
+<l>appo i discordi ignavi, </l>
+<l>o fastidito od invido, </l>
+<l>sempre ha la patria in cor. </l>
+</lg>
+<lg>
+<l>Sempre nel cor l´Italia, </l>
+<l>s´ell´anche obblia chi l´ama; </l>
+<l>e carità con cento</l>
+<l>memorie lo richiama</l>
+<l>là sempre a quei che gemono, </l>
+<l>che aggira lo spavento, </l>
+<l>e a quei che trarli ambivano</l>
+<l>di servi a libertà. </l>
+</lg>
+<lg>
+<l>S´ei dorme, i suoi fantasimi</l>
+<l>sono l´Italia; e vanno</l>
+<l>baldi ne´ sogni, o abbietti, </l>
+<l>a suscitargli affanno; </l>
+<l>e le parventi assumono</l>
+<l>forme e gli alterni affetti</l>
+<l>or dai perduti secoli, </l>
+<l>or dalla viva età. </l>
+</lg>
+<lg>
+<l>Era sopito l´Esule; </l>
+<l>era la notte oscura. </l>
+<l>Con lui tacea d´intorno</l>
+<l>l´universal natura</l>
+<l>presso a sentir la gelida</l>
+<l>ora che è innanzi al giorno; </l>
+<l>quando il pensier su l´andito</l>
+<l>un uom gli figurò. </l>
+</lg>
+<lg>
+<l>Dato ha il cappuccio agli omeri, </l>
+<l>indosso ha il lucco antico, </l>
+<l>cinto è di cuoio, e viene</l>
+<l>grave, ma in atto amico; </l>
+<l>trasfuso agli occhi ha il giubilo</l>
+<l>come d´un´alta spene; </l>
+<l>la sua parola è folgore: </l>
+<l>dirla oggimai chi può? </l>
+</lg>
+<lg>
+<l>- L´han giurato. Gli ho visti in Pontida</l>
+<l>convenuti dal monte, dal piano. </l>
+<l>L´han giurato; e si strinser la mano</l>
+<l>cittadini di venti città. </l>
+<l>Oh, spettacol di gioia! I lombardi</l>
+<l>son concordi, serrati a una lega. </l>
+<l>Lo straniero al pennon ch´ella spiega</l>
+<l>col suo sangue la tinta darà. </l>
+</lg>
+<lg>
+<l>Più sul cener dell´arso abituro</l>
+<l>la lombarda scorata non siede. </l>
+<l>Ella è sorta. Una patria ella chiede</l>
+<l>ai fratelli, al marito guerrier. </l>
+<l>L´han giurato. Voi, donne frugali, </l>
+<l>rispettate, contente agli sposi, </l>
+<l>voi che i figli non guardan dubbiosi, </l>
+<l>voi ne´ forti spiraste il voler. </l>
+</lg>
+<lg>
+<l>Perché ignoti che qui non han padri, </l>
+<l>qui staran come in proprio retaggio? </l>
+<l>una terra, un costume, un linguaggio</l>
+<l>Dio lor anco non diede a fruir? </l>
+<l>La sua parte a ciascun fu divisa. </l>
+<l>È tal dono che basta per lui. </l>
+<l>Maladetto chi usurpa l´altrui, </l>
+<l>chi ´l suo dono si lascia rapir! </l>
+</lg>
+<lg>
+<l>Su, lombardi! Ogni vostro comune</l>
+<l>ha una torre, ogni torre una squilla: </l>
+<l>suoni a stormo. Chi ha in feudo una villa</l>
+<l>co´ suoi venga al comun ch´ei giurò. </l>
+<l>Ora il dado è gettato. Se alcuno</l>
+<l>di dubbiezze ancor parla prudente, </l>
+<l>se in suo cor la vittoria non sente, </l>
+<l>in suo core a tradirvi pensò. </l>
+</lg>
+<lg>
+<l>Federigo? egli è un uom come voi, </l>
+<l>come il vostro è di ferro il suo brando. </l>
+<l>Questi scesi con esso predando, </l>
+<l>come voi veston carne mortal. </l>
+<l>- Ma son mille! più mila! - Che monta? </l>
+<l>forse madri qui tante non sono? </l>
+<l>forse il braccio onde ai figli fêr dono, </l>
+<l>quanto il braccio di questi non val? </l>
+</lg>
+<lg>
+<l>Su! nell´irto, increscioso Allemanno, </l>
+<l>su! lombardi, puntate la spada: </l>
+<l>fate vostra la vostra contrada, </l>
+<l>questa bella che il ciel vi sortì. </l>
+<l>Vaghe figlie dal fervido amore, </l>
+<l>chi nell´ora dei rischi è codardo</l>
+<l>più da voi non isperi uno sguardo, </l>
+<l>senza nozze consumi i suoi dì. </l>
+</lg>
+<lg>
+<l>Presto, all´armi! Chi ha un ferro l´affili; </l>
+<l>chi un sopruso patì sel ricordi. </l>
+<l>Via da noi questo branco d´ingordi! </l>
+<l>giù l´orgoglio del fulvo lor sir! </l>
+<l>Libertà non fallisce ai volenti, </l>
+<l>ma il sentier de´ perigli ell´addita; </l>
+<l>ma promessa a chi ponvi la vita, </l>
+<l>non è premio d´inerte desir. </l>
+</lg>
+<lg>
+<l>Gusti anch´ei la sventura e sospiri</l>
+<l>l´Allemanno i paterni suoi fochi</l>
+<l>ma sia invan che il ritorno egli invochi, </l>
+<l>ma qui sconti dolor per dolor. </l>
+<l>Questa terra ch´ei calca insolente, </l>
+<l>questa terra ei la morda caduto; </l>
+<l>a lei volga l´estremo saluto, </l>
+<l>e sia il lagno dell´uomo che muor. </l>
+</lg>
+<lg>
+<head>II</head>
+<l>Era sopito l´Esule; </l>
+<l>era la notte oscura. </l>
+<l>I sogni suoi travolti</l>
+<l>altra pingean figura: </l>
+<l>eran sembianze cognite, </l>
+<l>già discernuti volti, </l>
+<l>gente su cui diffondesi</l>
+<l>vitale ancora il sol. </l>
+</lg>
+<lg>
+<l>Quale il piè lindo esercita</l>
+<l>a danze pellegrine; </l>
+<l>quale allo specchio è intento</l>
+<l>a profumarsi il crine; </l>
+<l>e qual su molle coltrice</l>
+<l>s´adagia, e vinolento</l>
+<l>rattien della fuggevole</l>
+<l>gioia, cantando, il vol: </l>
+</lg>
+<lg>
+<l>- Pèra chi stolido</l>
+<l>mi tedia l´anima, </l>
+<l>querulo, indocile</l>
+<l>a servitù! </l>
+<l>Ebben! che importami</l>
+<l>se omai l´Italia</l>
+<l>nome tra i popoli</l>
+<l>non serba più? </l>
+</lg>
+<lg>
+<l>Forse che sterili</l>
+<l>sul colle i pampini</l>
+<l>ai prandi niegano</l>
+<l>l´ilarità? </l>
+<l>Forse che i rosei</l>
+<l>baci ne mancano, </l>
+<l>e i furti facili</l>
+<l>della beltà? </l>
+</lg>
+<lg>
+<l>Stringan l´imperio</l>
+<l>su noi gli estranei, </l>
+<l>se la mia stringerlo</l>
+<l>destra non può. </l>
+<l>Ma non sia ch´emulo</l>
+<l>con me sollevisi</l>
+<l>chi nella polvere</l>
+<l>finor posò. </l>
+</lg>
+<lg>
+<l>La notte vedila</l>
+<l>tener le tenebre; </l>
+<l>e il giorno limpido</l>
+<l>i bei color: </l>
+<l>tai la progenie</l>
+<l>dell´uom dividono, </l>
+<l>due fati immobili, </l>
+<l>gioia e dolor. </l>
+</lg>
+<lg>
+<l>Se v´ha chi è in lagrime, </l>
+<l>sorga maledico</l>
+<l>contra le viscere</l>
+<l>che il concepîr: </l>
+<l>né lo spregevole</l>
+<l>figliuol del povero</l>
+<l>fra i nati al giubilo</l>
+<l>stenda il sospir. </l>
+</lg>
+<lg>
+<l>Oh, il nappo datemi! </l>
+<l>Beviam! sommergasi</l>
+<l>tutta de´ gemiti</l>
+<l>la vanità! </l>
+<l>Beviam! divampino</l>
+<l>e lombi ed anima! </l>
+<l>gli occhi scintillino</l>
+<l>di voluttà! </l>
+</lg>
+<lg>
+<l>Sul labbro scocchino</l>
+<l>le oblique arguzie, </l>
+<l>i prieghi e il calido</l>
+<l>vghigno d´amor, </l>
+<l>onde le cupide</l>
+<l>mogli m´invocano</l>
+<l>caro dei talami</l>
+<l>trionfator! </l>
+</lg>
+<lg>
+<l>Beviam! ché il domito</l>
+<l>sposo non vigila; </l>
+<l>e anco la timida</l>
+<l>divezzerò; </l>
+<l>lei che il volubile</l>
+<l>fianco e le grazie</l>
+<l>a´ gai spettacoli</l>
+<l>nuova recò. </l>
+</lg>
+<lg>
+<l>Poggiato a un candido</l>
+<l>sen, non m´assalgano</l>
+<l>nenie per l´italo</l>
+<l>defunto onor; </l>
+<l>ma baci fervidi, </l>
+<l>lepide insidie, </l>
+<l>delìri, aneliti</l>
+<l>e baci ancor. </l>
+</lg>
+<lg>
+<head>III</head>
+<l>Era sopito l´Esule; </l>
+<l>era la notte oscura; </l>
+<l>un altro il sogno. - Ei siede</l>
+<l>svagato a una pianura. </l>
+<l>Stirpe di padri adulteri</l>
+<l>quivi trescar non vede, </l>
+<l>ma catafratto un popolo</l>
+<l>dalla battaglia uscir. </l>
+</lg>
+<lg>
+<l>Quel che giurâr l´attennero; </l>
+<l>han combattuto, han vinto. </l>
+<l>Sotto il tallon dei forti</l>
+<l>giace il tedesco estinto. </l>
+<l>Ecco i dispersi accorrere</l>
+<l>che scapigliati e smorti</l>
+<l>cercan ridursi all´aquile, </l>
+<l>chiaman sussidio al sir. </l>
+</lg>
+<lg>
+<l>Egli? - È scampato. Il veggiono</l>
+<l>nel bosco i suoi donzelli</l>
+<l>le man recarsi al mento, </l>
+<l>stracciarne i rossi velli; </l>
+<l>mentre i lombardi cantici</l>
+<l>col trionfal concento</l>
+<l>a lui da tergo intimano</l>
+<l>che qui non dee regnar. </l>
+</lg>
+<lg>
+<l>Preda dei primi a irrompere</l>
+<l>nel padiglion deserto, </l>
+<l>ecco ostentar pel campo</l>
+<l>l´aurea collana e il serto; </l>
+<l>e la superba clamide, </l>
+<l>e delle borchie il lampo, </l>
+<l>ecco, a ludibrio, l´omero</l>
+<l>di vil giumenta ornar. </l>
+</lg>
+<lg>
+<l>Come tra i brandi, mistico</l>
+<l>auspicio d´Israele, </l>
+<l>l´arca del divin patto</l>
+<l>con lor venìa fedele; </l>
+<l>così la croce, indizio</l>
+<l>dell´immortal riscatto, </l>
+<l>cinta dal fior de´ militi, </l>
+<l>qui sul carroccio sta. </l>
+</lg>
+<lg>
+<l>Ecco i lor giachi sciogliere, </l>
+<l>depor le cervelliere, </l>
+<l>e tutte intorno al Cristo</l>
+<l>si riposar le schiere. </l>
+<l>Eccole a Dio, cui temono, </l>
+<l>prostrarsi, ed il conquisto</l>
+<l>gli riferir dell´ardua</l>
+<l>lombarda libertà. </l>
+</lg>
+<lg>
+<l>Per la campagna, orribile</l>
+<l>di morti e di morenti, </l>
+<l>donne van mute in volta, </l>
+<l>cercando impazienti</l>
+<l>quei che han mancato al novero</l>
+<l>quando squillò a raccolta, </l>
+<l>quando le madri accorsero</l>
+<l>festanti ai vincitor. </l>
+</lg>
+<lg>
+<l>E anch´essi han le lor lagrime: </l>
+<l>figli dell´uomo anch´essi, </l>
+<l>che aspira ai gaudi, e interi</l>
+<l>non gli son mai concessi! </l>
+<l>Curve là donne ingegnansi</l>
+<l>d´intorno ad un che i fieri</l>
+<l>spasmi di morte occùpano</l>
+<l>con l´ultimo pallor. </l>
+</lg>
+<lg>
+<l>Sovra i nemici esamini</l>
+<l>ei si languia caduto. </l>
+<l>L´hanno le pie sorretto, </l>
+<l>l´hanno tra´ suoi renduto. </l>
+<l>Per tre ferite sanguina</l>
+<l>rotto al guerriero il petto; </l>
+<l>né tuttavolta il rigido</l>
+<l>pugno l´acciar lentò. </l>
+</lg>
+<lg>
+<l>Ma non han detto al misero</l>
+<l>che più non v´è cui fera? </l>
+<l>che in tutto il campo sola</l>
+<l>sventa la sua bandiera? </l>
+<l>che cui la fuga all´avide</l>
+<l>lance lombarde invola, </l>
+<l>perde il Ticino al valico, </l>
+<l>li dà sommersi al Po? </l>
+</lg>
+<lg>
+<l>Il sa che spose ai liberi, </l>
+<l>madri d´angustia uscite, </l>
+<l>son queste che devote</l>
+<l>bacian le sue ferite? </l>
+<l>Oh, quanta gioia irradia</l>
+<l>le moribonde gote! </l>
+<l>di qual conforto provida</l>
+<l>rimerita il valor! </l>
+</lg>
+<lg>
+<l>Presso a migrar, lo spirito</l>
+<l>si stringe al cor; l´aita, </l>
+<l>l´agita, il riconduce</l>
+<l>al batter della vita. </l>
+<l>Gli occhi virtù ripigliano</l>
+<l>a comportar la luce: </l>
+<l>odi, sul labbro valida</l>
+<l>ferve la voce ancor! </l>
+</lg>
+<lg>
+<l>- Dove son le tre nunzie de´ santi, </l>
+<l>le colombe che uscîr dell´altare? </l>
+<l>con che bello, che fausto aleggiare</l>
+<l>del carroccio all´antenna salîr! </l>
+<l>Fûr le bande nimiche allor viste</l>
+<l>ceder campo, tremar del portento, </l>
+<l>e percosso da miro spavento</l>
+<l>rovesciarsi il cavallo del sir. </l>
+</lg>
+<lg>
+<l>Dio fu nosco. Al <emph>drappel de la morte</emph>, </l>
+<l>alla foga de´ carri falcati</l>
+<l>ei fu guida, per chiane e fossati</l>
+<l>impigliando gli avversi guerrier. </l>
+<l>Sì, Colui che par lento agli afflitti, </l>
+<l>è il Dio vigil che pugna per essi: </l>
+<l>nel suo giorno ei solleva gli oppressi, </l>
+<l>fa sui prenci il disprezzo cader. </l>
+</lg>
+<lg>
+<l>Or, m´udite! Al giaciglio de´ selvi</l>
+<l>questa rissa di sangue vi toglie: </l>
+<l>saldi, eretti, riarsi di voglie, </l>
+<l>vi fa donni del vostro vigor. </l>
+<l>Ma vi affida un destin che v´è nuovo, </l>
+<l>che vi sbalza su ignoti sentieri: </l>
+<l>a percorrerli voi, v´è mestieri</l>
+<l>altro spirto comporvi, altro cor. </l>
+</lg>
+<lg>
+<l>Oh! dannati que´ giorni quand´uomo</l>
+<l>da qual fosse città peregrino, </l>
+<l>per qual porta pigliasse il cammino, </l>
+<l>uscia verso un´esosa città! </l>
+<l>Non la siepe che l´orto v´impruna</l>
+<l>è il confin dell´Italia, o ringhiosi; </l>
+<l>sono i monti il suo lembo: gli esosi</l>
+<l>son le torme che vengon di là. </l>
+</lg>
+<lg>
+<l>Le fiumane dei vostri valloni</l>
+<l>si devian per correnti diverse, </l>
+<l>ma nel mar tutte quante riverse</l>
+<l>perdon nome e si abbraccian tra lor. </l>
+<l>Così voi, come il mar le lor acque, </l>
+<l>tutti accolga un supremo pensiere, </l>
+<l>tutti mesca e confonda un volere, </l>
+<l>l´odio al giogo d´estranio signor. </l>
+</lg>
+<lg>
+<l>Le città, siccom´una con una, </l>
+<l>abbian pace anche dentro: e l´insegni, </l>
+<l>col deporre i profani disegni, </l>
+<l>l´uom che stola e manipol vestì. </l>
+<l>Capitan, valvassor, cittadino, </l>
+<l>cessi ognun dai livori di parte. </l>
+<l>Il lombardo che è scritto ad un´arte, </l>
+<l>non dispetti chi un´altra seguì. </l>
+</lg>
+<lg>
+<l>Al fratel di più forte consiglio</l>
+<l>chi vergogni obbedir non vi sia, </l>
+<l>perché nulla vergogna più ria</l>
+<l>che obbedire al soldato stranier. </l>
+<l>Se un rettor, se un de´ consoli falla, </l>
+<l>tollerate anche i guai dell´errore, </l>
+<l>perché nulla miseria maggiore</l>
+<l>che in dominio d´estranei cader. </l>
+</lg>
+<lg>
+<l>E voi, madri, crescete una prole</l>
+<l>sobria, ingenua, pudica, operosa. </l>
+<l>Libertà mal costume non sposa, </l>
+<l>per sozzure non mette mai piè. </l>
+<l>Addio tutti... Appressate al morente... </l>
+<l>Ch´io mi posi a una destra vittrice. </l>
+<l>Cari miei, non mi dite infelice; </l>
+<l>non piangete, o fratelli, per me. </l>
+</lg>
+<lg>
+<l>Era allor da compiangermi, quando</l>
+<l>a scamparvi, per Dio! dal servaggio, </l>
+<l>vi richiesi un dì sol di coraggio, </l>
+<l>e mi deste litigi e viltà! </l>
+<l>Tutto in gioia or mi torna, fin anco</l>
+<l>se del tanto dolor mi ricordi. </l>
+<l>È il dolor che n´ha fatto concordi: </l>
+<l>la concordia vincenti ne fa. </l>
+</lg>
+<lg>
+<l>Miser quei che in sua vita non colse</l>
+<l>un fior mai dalla speme promesso! </l>
+<l>quei che, senza venirgli mai presso, </l>
+<l>corse anelo, insistente ad un fin! </l>
+<l>Peggio ancor se qui giunto com´io, </l>
+<l>qui sul passo che sganna ogni illuso, </l>
+<l>vòlto indietro, s´accorge confuso</l>
+<l>ch´era iniquo il fornito cammin! </l>
+</lg>
+<lg>
+<l>Ma la via ch´io mi scelsi fu santa, </l>
+<l>ma il dover ch´era il mio l´ho compiuto, </l>
+<l>questo dì ch´io volea, l´ho veduto: </l>
+<l>or clemente m´accolga Chi ´l fe´. </l>
+<l>Qualche volta, pensose la sera, </l>
+<l>mi rammentin le donne ai mariti; </l>
+<l>qualche volta ne´ vostri conviti</l>
+<l>sorga alcuno che dica di me: </l>
+</lg>
+<lg>
+<l>- In parole fu acerbo con noi</l>
+<l>fin che Italia nell´ozio si tenne; </l>
+<l>quando il giorno dell´opre poi venne, </l>
+<l>uno sguardo egli intorno girò. </l>
+<l>Pose in lance il servaggio e la morte: </l>
+<l>eran pari; e a Dio l´alma commise. </l>
+<l>In <emph>PONTIDA</emph> il suo sangue promise; </l>
+<l>il suo sangue a <emph>LEGNANO</emph> versò. </l>
+</lg>
+<lg>
+<head>IV</head>
+<l>Era sopito l´Esule; </l>
+<l>era la notte oscura. </l>
+<l>Il sogno erano agnelle</l>
+<l>vaganti alla pastura; </l>
+<l>campi che leni salgono</l>
+<l>su per colline belle; </l>
+<l>vlontano a dritta ripidi</l>
+<l>monti, e altri monti ancor; </l>
+</lg>
+<lg>
+<l>dinanzi una cerulea</l>
+<l>laguna, un prorompente</l>
+<l>fiume che da quell´onde</l>
+<l>svolve la sua corrente. </l>
+<l>Sovra tant´acque, a specchio, </l>
+<l>una città risponde; </l>
+<l>guglie a cui grigio i secoli</l>
+<l>composero il color; </l>
+</lg>
+<lg>
+<l>ed irte di pinacoli</l>
+<l>case, che sur lor grevi</l>
+<l>denno sentir dei lenti</l>
+<l>verni seder le nevi; </l>
+<l>e finestrette povere, </l>
+<l>a cui ne´ dì tepenti</l>
+<l>la casalinga vergine</l>
+<l>infiora il davanzal. </l>
+</lg>
+<lg>
+<l>È il tempo in cui l´anemone</l>
+<l>intisichisce e muore, </l>
+<l>cedendo i soli adulti</l>
+<l>a più robusto fiore. </l>
+<l>Purpureo ecco il garofano</l>
+<l>sbiecar d´in sui virgulti</l>
+<l>dell´odorato amaraco, </l>
+<l>del dittamo vital. </l>
+</lg>
+<lg>
+<l>Per tutto è moltitudine; </l>
+<l>è un dì come di festa. </l>
+<l>Donne che su i veroni</l>
+<l>sfoggiano in gaia vesta; </l>
+<l>giù tra la folla un séguito</l>
+<l>d´araldi e di baroni, </l>
+<l>che una novella spandono</l>
+<l>come gioconda a udir. </l>
+</lg>
+<lg>
+<l>Ma che parola parlino, </l>
+<l>ma che novella sia, </l>
+<l>ma che risposta renda</l>
+<l>chi grida per la via, </l>
+<l>nol può il sognante cogliere, </l>
+<l>per quant´orecchio intenda: </l>
+<l>è gente che con l´italo</l>
+<l>non ha comune il dir. </l>
+</lg>
+<lg>
+<l>Que´ suoi baroni emergono</l>
+<l>segnal d´un dì vetusto: </l>
+<l>è ferreo il lor cappello, </l>
+<l>è tutto maglia il busto: </l>
+<l>tal fra le vòlte gottiche</l>
+<l>distesa in su l´avello</l>
+<l>gli avi scolpian l´effigie</l>
+<l>del morto cavalier. </l>
+</lg>
+<lg>
+<l>Passan da trivio in trivio, </l>
+<l>dar nelle trombe fanno, </l>
+<l>cennan che il popol taccia, </l>
+<l>parlano. Intente stanno</l>
+<l>le turbe. E plausi e battere</l>
+<l>di palme a quei procaccia</l>
+<l>sempre il bandito annunzio, </l>
+<l>sovra qual trivio il diêr. </l>
+</lg>
+<lg>
+<l>Ma di che fan tripudio? </l>
+<l>ma che parola han detto? </l>
+<l>ma sul cammin la calca</l>
+<l>or di che sta in aspetto? </l>
+<l>La pompa ond´essi ammirano, </l>
+<l>più e più lontan cavalca, </l>
+<l>e anco lontan non s´odono</l>
+<l>trombe oramai squillar. </l>
+</lg>
+<lg>
+<l>Pur non v´è uom che smovasi</l>
+<l>a ceder passo altrui. </l>
+<l>Chi d´usurparlo ardisce</l>
+<l>balza respinto; e lui, </l>
+<l>del suo manchevol impeto, </l>
+<l>chi ´l vantaggiò schernisce. </l>
+<l>Da ciascun gesto il tendere</l>
+<l>de´ curiosi appar. </l>
+</lg>
+<lg>
+<l>All´ondeggiante strepito</l>
+<l>di sì condensa gente, </l>
+<l>ecco, una muta sosta</l>
+<l>or sottentrò repente. </l>
+<l>Pur né le trombe suonano, </l>
+<l>né palafren s´accosta</l>
+<l>che porti del silenzio</l>
+<l>l´araldo intimator. </l>
+</lg>
+<lg>
+<l>È un quietar spontaneo, </l>
+<l>un ripigliar decoro. </l>
+<l>Par anco peritosa</l>
+<l>una sfidanza in loro, </l>
+<l>come di chi con palpito</l>
+<l>s´appresta a veder cosa</l>
+<l>che riverenza insolita</l>
+<l>sa che dee porgli in cor. </l>
+</lg>
+<lg>
+<l>Ecco far ala, e un adito</l>
+<l>schiuder. Chi è mai che vegna? </l>
+<l>Non da milizie scorti, </l>
+<l>non da fastosa insegna, </l>
+<l>son pochi, sol conspicui</l>
+<l>per negri cigli accorti. </l>
+<l>In mezzo il biondo popolo, </l>
+<l>muovono lento il piè, </l>
+</lg>
+<lg>
+<l>a coppia a coppia, in semplici</l>
+<l>prolisse cappe avvolti. </l>
+<l>Che franchi atti discreti! </l>
+<l>che dignità nei volti! </l>
+<l>Tra lor dan voce a un cantico, </l>
+<l>tra lor l´alternan lieti. </l>
+<l>Oh, della cara Italia</l>
+<l>la cara lingua ell´è! </l>
+</lg>
+<lg>
+<l>- Lo stesso evangelo toccato da´ suoi, </l>
+<l>toccammo a vicenda; giurammo anche noi</l>
+<l>quel ch´egli col labbro dei conti giurò. </l>
+<l>Su l´anime nostre, su quella di lui</l>
+<l>sta il patto: la perda, la danni colui</l>
+<l>del quale avran detto che primo il falsò. </l>
+</lg>
+<lg>
+<l>In curia solenne, fra un nugol di sguardi, </l>
+<l>qual pari con pari, coi messi lombardi</l>
+<l>fu d´uopo al superbo legarsi di fé! </l>
+<l>Il popol ch´ei volle punito, soggetto, </l>
+<l>gli sfugge dal piglio; gli siede a rimpetto, </l>
+<l>levata la fronte, sicuro di sé. </l>
+</lg>
+<lg>
+<l>La pace! la pace! Rechiamola ai figli. </l>
+<l>Nunziamo alle spose finiti i perigli</l>
+<l>di ch´elle tant´anni pei cari tremâr. </l>
+<l>L´immune abituro, pregato ai mariti, </l>
+<l>or l´han; né più mogli di servi scherniti, </l>
+<l>ma donne di franchi s´udranno chiamar. </l>
+</lg>
+<lg>
+<l>Addio, belle rive del fiume straniero, </l>
+<l>e tu, mitigato signor dell´impero, </l>
+<l>e tu, pei lombardi la fausta città. </l>
+<l>Tornati a sedere su i fiumi nativi, </l>
+<l>compagno de´ nostri pensier più giulivi, </l>
+<l><emph>COSTANZA</emph>, il tuo nome perpetuo verrà. </l>
+</lg>
+<lg>
+<l>Ma quando da canto le nostre lettiere</l>
+<l>vedrem le sospese labarde guerriere, </l>
+<l>e i grumi del sangue che un dì le bruttò; </l>
+<l>un altro bel nome ricorso alla mente</l>
+<l>diremo alle donne; ciascuna, ridente, </l>
+<l>poggiatasi al braccio che i fieri prostrò. </l>
+</lg>
+<lg>
+<l>Direm lo sbaraglio del campo battuto, </l>
+<l>e il sir di tant´oste tre giorni perduto, </l>
+<l>tre notti fra dumi tentando un sentier. </l>
+<l>La regia consorte tre notti l´aspetta, </l>
+<l>tre giorni lo chiama dall´alta veletta: </l>
+<l>al quarto misviene fra i muti scudier. </l>
+</lg>
+<lg>
+<l>L´han cerco nel greto, nell´ampia boscaglia; </l>
+<l>indarno! Sergenti, valletti in gramaglia</l>
+<l>preparan nell´aula l´esequie del re. </l>
+<l>No, povera afflitta, non metterlo il bruno. </l>
+<l>Giù al ponte v´è gridi; lo passa qualcuno: </l>
+<l>è desso, in castello; domanda di te. </l>
+</lg>
+<lg>
+<l>No, povera afflitta, tu colpa non hai: </l>
+<l>e il ciel te lo rende, né tu le saprai</l>
+<l>le angosce sofferte dall´uom del tuo cor. </l>
+<l>Ma taci, e ti basti che vano è il corrotto: </l>
+<l>nessun di battaglia s´attenti far motto, </l>
+<l>nessun con inchieste gl´irrìti il rossor. </l>
+</lg>
+<lg>
+<l>È altrove, è fra i balli del popol ritroso</l>
+<l>che fervon racconti del dì sanguinoso. </l>
+<l>Là chiede ogni voce: - Guerrieri, che fu? - </l>
+<l>Oh bello! sul campo venir di que´ prodi, </l>
+<l>tracciarne i vestigi, ridirne le lodi, </l>
+<l>membrarne per tutto l´audace virtù! </l>
+</lg>
+<lg>
+<l>Nel dì del Signore, dinanzi gli altari, </l>
+<l>allor che l´uom, netto d´affanni volgari, </l>
+<l>l´origin più intende da cui derivò; </l>
+<l>ignoti al rimorso d´averla smentita, </l>
+<l>oh bello! in sen piena sentirci la vita, </l>
+<l>volenti, possenti, quai Dio ne creò! </l>
+</lg>
+<lg>
+<l>Nel coglier dell´uve, nel mieter del grano, </l>
+<l>dovunque è una gioia, fia sempre “ Legnano” </l>
+<l>l´altera parola che il canto dirà. </l>
+<l>Ma guai pe´ nipoti se, ad essi discesa, </l>
+<l>diventa parola che muor non compresa! </l>
+<l>Quel giorno l´infame dei giorni sarà. </l>
+</lg>
+<lg>
+<l>Snerbato, curante ciascun di se solo, </l>
+<l>qual correr d´estranei! qual onta sul suolo</l>
+<l>che a noi tanto sangue, tant´ansie costò! </l>
+<l>Allor, non distinti dai vili i gementi, </l>
+<l>guardando un tal volgo, diranno le genti: </l>
+<l>- <emph>I RE CHE HA SUL COLLO SON QUEI CHE MERTÒ</emph>. </l>
+</lg>
+<lg>
+<head>V</head>
+<l>Era sopito l´Esule; </l>
+<l>era la notte oscura: </l>
+<l>e nulla più del lago</l>
+<l>e delle grigie mura. </l>
+<l>Ecco ne´ sogni mobili</l>
+<l>una diversa immago, </l>
+<l>ecco un diverso palpito</l>
+<l>del dormiente al cor. </l>
+</lg>
+<lg>
+<l>Pargli aver penne agli omeri, </l>
+<l>e un ciel che l´innamora</l>
+<l>battere, ai rai vermigli</l>
+<l>d´italiana aurora. </l>
+<l>Fiuta dall´alto i balsami</l>
+<l>de´ suoi materni tigli, </l>
+<l>gode in veder la turgida</l>
+<l>foglia de´ gelsi ancor. </l>
+</lg>
+<lg>
+<l>Come la vispa rondine, </l>
+<l>tornata ov´ella nacque</l>
+<l>spazia sul pian, sul fiume, </l>
+<l>scorre a lambir fin l´acque, </l>
+<l>sale, riscende, librasi</l>
+<l>su l´indefesse piume, </l>
+<l>viene a garrir nei portici, </l>
+<l>svola e garrisce in ciel; </l>
+</lg>
+<lg>
+<l>così fidato all´aere, </l>
+<l>ei genial lo spira, </l>
+<l>e cala ognor più il volo, </l>
+<l>più lo raccorcia, e gira</l>
+<l>lento, più lento, a radere</l>
+<l>il vagheggiato suolo; </l>
+<l>com´ape fa indugevole</l>
+<l>circa un fiorito stel. </l>
+</lg>
+<lg>
+<l>L´aia, il pratel, la pergola</l>
+<l>dove gioìa fanciullo; </l>
+<l>l´erte indicate ai bracchi</l>
+<l>nel giovenil trastullo; </l>
+<l>le fratte d´onde al vespero, </l>
+<l>chino a palpar gli stracchi, </l>
+<l>reddia, colmo sul femore</l>
+<l>pendendogli il carnier; </l>
+</lg>
+<lg>
+<l>tutti con l´occhio memore</l>
+<l>i siti egli rifruga, </l>
+<l>i cari siti, ahi lasso! </l>
+<l>che nell´amara fuga</l>
+<l>larve mandar parevano</l>
+<l>a circuirgli il passo, </l>
+<l>a collocargli un tribolo</l>
+<l>sovra ciascun sentier. </l>
+</lg>
+<lg>
+<l>Rinato ai dì che furono, </l>
+<l>il mattin farsi ammira</l>
+<l>più rancio; e la salita</l>
+<l>del sol piena sospira, </l>
+<l>tanto che intorno ei veggasi</l>
+<l>ribrulicar la vita, </l>
+<l>oda il venir degli uomini, </l>
+<l>voli dinanzi a lor. </l>
+</lg>
+<lg>
+<l>Tutta un sorriso è l´anima</l>
+<l>di riversarsi ardente. </l>
+<l>Presago ei si consola</l>
+<l>nelle accoglienze, e sente</l>
+<l>che incontreria, benevolo</l>
+<l>fin anco lei che sola</l>
+<l>sa pur di quale assenzio</l>
+<l>deggia grondargli il cor. </l>
+</lg>
+<lg>
+<l>Eccolo, il sol! Frettevoli</l>
+<l>pestan la guazza, e fuori</l>
+<l>a seminati, a vigne</l>
+<l>traversano i coltori. </l>
+<l>Recan le facce stupide</l>
+<l>che il gramo viver tigne; </l>
+<l>scalzi, cenciosi muovono</l>
+<l>sul suol dell´ubertà. </l>
+</lg>
+<lg>
+<l>Dai fumaiuoli annunziansi</l>
+<l>ridesti a mille a mille</l>
+<l>i fochi dei castelli, </l>
+<l>dei borghi e delle ville. </l>
+<l>Dove più folto è d´uomini, </l>
+<l>a due, a tre, a drappelli</l>
+<l>escono agli ozi, all´opere, </l>
+<l>sparsi per la città. </l>
+</lg>
+<lg>
+<l>Son questi? è questo il popolo</l>
+<l>per cui con affannosa</l>
+<l>veglia ei cercò il periglio, </l>
+<l>perse ogni amata cosa? </l>
+<l>è questo il desiderio</l>
+<l>dell´inquieto esiglio? </l>
+<l>questo il narrato agli ospiti</l>
+<l>nobil nel suo patir? </l>
+</lg>
+<lg>
+<l>Ecco, infra loro il téutono</l>
+<l>dominator passeggia; </l>
+<l>li assal con mano avara, </l>
+<l>insidia, dileggia; </l>
+<l>ed ei tacenti prostransi, </l>
+<l>fidi all´infame gara</l>
+<l>di chi più alacre a opprimere</l>
+<l>o chi ´l sia più a servir. </l>
+</lg>
+<lg>
+<l>In tante fronti vacue</l>
+<l>d´ogni viril concetto</l>
+<l>chi un pensier può ancor vivo</l>
+<l>sperar d´antico affetto? </l>
+<l>chi vorria farvel nascere? </l>
+<l>chi non averlo a schivo</l>
+<l>come il blandir di femmina</l>
+<l>sul trivio al passeggier? </l>
+</lg>
+<lg>
+<l>Lesto da crocchio a crocchio</l>
+<l>il volator trapassa, </l>
+<l>e gl´indaganti sguardi</l>
+<l>su quel, su questo abbassa. </l>
+<l>I bei presagi tornangli</l>
+<l>ad uno ad un bugiardi; </l>
+<l>pur vola e vola, e indocile</l>
+<l>discrede il suo veder. </l>
+</lg>
+<lg>
+<l>Colà una donna? Ah, misera! </l>
+<l>qual caro suo l´è tolto? </l>
+<l>Non è dolor che agguagli</l>
+<l>quel che l´è impresso in volto. </l>
+<l>Par che da forze perfide</l>
+<l>messa quaggiù in travagli, </l>
+<l>sporga ver´ Dio la lagrima</l>
+<l>cui gli uomini insultâr. </l>
+</lg>
+<lg>
+<l>- Patria! .. Spilberga! .. vittime! .. - </l>
+<l>Suona il suo gemer tristo. </l>
+<l>Quel che dir voglia il sanno, </l>
+<l>com´ella pianga han visto; </l>
+<l>e niun con lei partecipa</l>
+<l>tanto solenne affanno, </l>
+<l>niun gl´infelici e il carcere</l>
+<l>osa con lei nomar. </l>
+</lg>
+<lg>
+<l>Chi dietro un flauto gongola, </l>
+<l>che di cadenze il pasca; </l>
+<l>e chi allibbisce ombroso</l>
+<l>d´ogni stormir di frasca: </l>
+<l>come nel buio il pargolo</l>
+<l>sotto la coltre ascoso, </l>
+<l>se il dì la madre, improvida, </l>
+<l>di spettri a lui parlò. </l>
+</lg>
+<lg>
+<l>Altri il pusillo spirito</l>
+<l>onesta d´un vel pio; </l>
+<l>piaggia i tiranni umìle</l>
+<l>e sen fa bello a Dio. </l>
+<l>Come se Dio compiacciasi</l>
+<l>quant´è più l´uom servile, </l>
+<l>l´uom sovra cui la nobile</l>
+<l>immagin sua stampò! </l>
+</lg>
+<lg>
+<l>E quei che fean dell´itale</l>
+<l>trombe sentir lo squillo</l>
+<l>là sulla Raab, soldati</l>
+<l>del tricolor vessillo, </l>
+<l>che a tener fronte, a vincere</l>
+<l>correan, per tutto usati</l>
+<l>l´austro, il boemo, l´unghero</l>
+<l>cacciar dinanzi a sé, </l>
+</lg>
+<lg>
+<l>dove son ei? Già l´inclita</l>
+<l>destra omicida è polve? </l>
+<l>tutte virtù l´argilla</l>
+<l>del cimitero involve? </l>
+<l>o de´ conigli l´indole</l>
+<l>anco il leon sorbilla, </l>
+<l>e dei ruggiti immemore</l>
+<l>lambe a chi ´l calca i piè? </l>
+</lg>
+<lg>
+<l>Al dubbio amaro, l´Esule, </l>
+<l>come una man gli fosse</l>
+<l>posta a oppressar sul core, </l>
+<l>si risentì; si scosse</l>
+<l>a distrigar l´anelito, </l>
+<l>a benedir l´albore</l>
+<l>che dalle vane immagini</l>
+<l>al ver lo ravviò. </l>
+</lg>
+<lg>
+<l>Desto, ammutito, immobile</l>
+<l>il suol com´uomo affisse</l>
+<l>che del suo angor vergogni: </l>
+<l>poi quel che vide ei scrisse. </l>
+<l>Ma quel che ancor l´ingenuo</l>
+<l>soffre pensando ai sogni, </l>
+<l>sol cui la patria è un idolo</l>
+<l>indovinar lo può. </l>
+</lg>
+</lg>
+</div2>
+</div1>
+<div1 type="poesia">
+<head>IX</head>
+<head>ALL´ARMI! ALL´ARMI! </head>
+<argument>
+<head>ODE</head>
+<p>scritta in occasione delle rivoluzioni di Modena e Bologna scoppiate nel
+1831.</p>
+</argument>
+<lg type="romanza">
+<lg>
+<l>Su, figli d´Italia! su, in armi! coraggio! </l>
+<l>Il suolo qui è nostro: del nostro retaggio</l>
+<l>il turpe mercato finisce pei re. </l>
+<l>Un popol diviso per sette destini, </l>
+<l>in sette spezzato da sette confini, </l>
+<l>si fonde in un solo, più servo non è. </l>
+</lg>
+<lg>
+<l>Su Italia! su, in armi! venuto è il tuo dì! </l>
+<l>dei re congiurati la tresca finì! </l>
+</lg>
+<lg>
+<l>Dall´Alpi allo Stretto fratelli siam tutti! </l>
+<l>Su i limiti schiusi, su i troni distrutti</l>
+<l>piantiamo i comuni tre nostri color! </l>
+<l>il verde, la speme tant´anni pasciuta; </l>
+<l>il rosso, la gioia d´averla compiuta; </l>
+<l>il bianco, la fede fraterna d´amor. </l>
+</lg>
+<lg>
+<l>Su, Italia! su, in armi! venuto è il tuo dì! </l>
+<l>dei re congiurati la tresca finì! </l>
+</lg>
+<lg>
+<l>Gli orgogli minuti via tutti all´obblio! </l>
+<l>La gloria è de´ forti. Su, forti, per Dio! </l>
+<l>dall´Alpi allo Stretto, da questo a quel mar! </l>
+<l>Deposte le gare d´un secol disfatto, </l>
+<l>confusi in un nome, legati a un sol patto, </l>
+<l>sommessi a noi soli giuriam di restar. </l>
+</lg>
+<lg>
+<l>Su, Italia! su, in armi! venuto è il tuo dì! </l>
+<l>dei re congiurati la tresca finì! </l>
+</lg>
+<lg>
+<l>Su Italia, novella! su, libera ed una! </l>
+<l>Mal abbia chi a vasta, secura fortuna</l>
+<l>l´angustia prepone d´anguste città! </l>
+<l>Sien tutte le fide d´un solo stendardo! </l>
+<l>Su, tutti da tutte! mal abbia il codardo, </l>
+<l>l´inetto che sogna parzial libertà! </l>
+</lg>
+<lg>
+<l>Su, Italia! su, in armi! venuto è il tuo dì! </l>
+<l>dei re congiurati la tresca finì! </l>
+</lg>
+<lg>
+<l>Voi chiusi ne´ borghi, voi sparsi alla villa, </l>
+<l>udite le trombe, sentite la squilla</l>
+<l>che all´armi vi chiama dal vostro comun! </l>
+<l>Fratelli, a´ fratelli correte in aiuto! </l>
+<l>gridate al Tedesco che guarda sparuto: </l>
+<l>L´Italia è concorde: non serve a nessun! </l>
+</lg>
+</lg>
+</div1>
+<div1 type="poesia">
+<head>X</head>
+<head>SALUTO A MILANO</head>
+<dateline>Il 6 aprile 1848</dateline>
+<lg type="romanza">
+<lg>
+<l>Care terre bagnate dal Po, </l>
+<l>finalmente il cantor vi baciò. </l>
+<l>Ei che anela morire per voi</l>
+<l>vi saluta, o ricetto d´eroi. </l>
+<l>E dicendovi: - Salve!, - nel cor</l>
+<l>sente fremere un canto d´amor. </l>
+</lg>
+<lg>
+<l>Oh! Milano, chi dir ti potrà</l>
+<l>quanta gioia beando mi va, </l>
+<l>quanta arcana virtude mi piova</l>
+<l>nella mente che lena non trova, </l>
+<l>quando penso che adesso mi sto</l>
+<l>sulle terre bagnate dal Po? </l>
+</lg>
+<lg>
+<l> Ma che mai sì dogliosa ti fe´? </l>
+<l>tanto lutto e gramaglia perché? </l>
+<l>perché sovra il vincente stendardo</l>
+<l>bruno un drappo distese il lombardo? </l>
+<l>perché mai della gloria nel dì</l>
+<l>bruno manto i suoi membri coprì? </l>
+</lg>
+<lg>
+<l>Dunque ancora ti tiene il dolor</l>
+<l>dove il sangue ha comprato l´onor? </l>
+<l>o il bicipite augello esecrato</l>
+<l>più ne strazia col rostro spietato? </l>
+<l>di´, Milano: far triste che può</l>
+<l>l´alme terre bagnate dal Po? </l>
+</lg>
+<lg>
+<l>Generosa! tu rendi mercé</l>
+<l>a chi vita morendo ti die´. </l>
+<l>Tu su l´ossa dei padri la mano</l>
+<l>distendendo pietosa, Milano, </l>
+<l>rendi eterna con carmi e con fior</l>
+<l>la memoria diletta di lor. </l>
+</lg>
+<lg>
+<l>Me felice se io pure potrò</l>
+<l>sulle terre bagnate dal Po, </l>
+<l>sotto l´itala cara bandiera, </l>
+<l>pei lombardi veder la mia sera. </l>
+<l>O Milano, s´io muoio per te,</l>
+<l>un tuo pianto m´è troppa mercé. </l>
+</lg>
+</lg>
+</div1>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,1314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://backend.bibliotecaitaliana.it/DTD/bibit.dtd">
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Pompeo in Egitto</title>
+      <author>Giacomo Leopardi</author>
+    </titleStmt>
+    <extent>63 Kb in UTF-8</extent>
+    <publicationStmt>
+      <publisher>Biblioteca Italiana</publisher>
+      <pubPlace>Roma</pubPlace>
+      <date>2004</date>
+      <idno>bibit001666</idno>
+      <availability>
+        <p>Questa risorsa digitale è liberamente accessibile per uso
+              personale o scientifico. Ogni uso commerciale è vietato</p>
+      </availability>
+    </publicationStmt>
+    <seriesStmt>
+      <title>Collezione BibIt</title>
+    </seriesStmt>
+    <sourceDesc>
+      <bibl>
+        <title>Tutte le opere</title>
+        <author>Leopardi, Giacomo</author>
+        <editor id="ed">Felici, Lucio</editor>
+        <publisher>Lexis Progetti Editoriali</publisher>
+        <pubPlace>Roma</pubPlace>
+        <date>1998</date>
+        <note>L'edizione elettronica fa riferimento al testo Giacomo Leopardi, Tutte le opere, a cura di W. Binni-E. Ghidetti, I, Firenze, Sansoni 1989.</note>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+                  <samplingDecl>
+                    <p>Tutti i materiali paratestuali della fonte cartacea non riconducibili alla
+                      responsabilità dell'autore dell'opera sono stati soppressi nella versione
+                      digitale</p>
+                  </samplingDecl>
+                  <editorialDecl>
+                    <correction method="silent" status="medium">
+                      <p>Livello medio: controllo a video con collazione con edizione di
+                      riferimento</p>
+                    </correction>
+                    <quotation form="data" marks="all">
+                      <p>I simboli di citazione e di discorso diretto presenti sulla fonte cartacea
+                        sono stati rappresentati sulla versione digitale</p>
+                    </quotation>
+                    <hyphenation eol="none">
+                      <p>I trattini di sillabazione a fine riga sono stati soppressi e le parole
+                        ricomposte</p>
+                    </hyphenation>
+                  </editorialDecl>
+    <classDecl><taxonomy id="CDD"><bibl>Classificazione Decimale Dewey</bibl></taxonomy><taxonomy id="CGB"><bibl>Classificazione generi BibIt</bibl></taxonomy></classDecl></encodingDesc>
+  <profileDesc>
+    <creation>
+      <date>800</date>
+    </creation>
+    <langUsage><language id="ita">Italiano</language><language id="lat">Latino</language><language id="fre">Francese</language></langUsage>
+    <textClass>
+      <keywords scheme="CDD">
+        <term>858.7 - MISCELLANEA ITALIANA. 1814-1859</term>
+      </keywords>
+      <keywords scheme="CGB">
+        <term>Poesia</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Digitalizzazione</item>
+    </change>
+    <change>
+      <date>Data sconosciuta anteriore al 2000</date>
+      <respStmt>
+        <name>LEXIS</name>
+      </respStmt>
+      <item>Correzione linguistica</item>
+    </change>
+    <change>
+      <date>2004-04-10T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Marta Zanazzi</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Codifica XML - Codifica manuale</item>
+    </change>
+    <change>
+      <date>2004-04-15T00:00:00.000+02:00</date>
+      <respStmt>
+        <name>Carla Deiana</name>
+        <name>BIBIT</name>
+      </respStmt>
+      <item>Validazione</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+<text>
+<front>
+<div1 type="introduzione">
+<head>ARGOMENTO</head>
+<p>Vinto Pompeo a Farsaglia, partì per Larissa, donde s’incamminò per la vallata di Tempe; e, giunto ad Anfipoli, fece pubblicare un editto, col quale comandò a tutta la gioventù della provincia di portarsi armata appresso di lui.<note resp="aut" place="foot">«<quote><foreign lang="lat" rend="italic">Erat edictum Pompeii nomine Amphipoli propositum, uti omnes eius provinciae iuniores, graeci civesque romani iurandi caussa convenirent</foreign></quote>». <bibl><author>CAESAR</author>, <title>Comment. de bello civili</title>, lib. III, cap. 102</bibl>.</note> Avendo però inteso che Cesare, il quale lo inseguiva, non era molto lontano, partì per Mitilene; dove giunto, prese il cammino verso Rodi, ma essendo stato mal ricevuto da’ suoi abitanti, entrò in Attalia nella Pamfilia, e passò quindi nell’isola di Cipro<note resp="aut" place="foot">«<quote><foreign lang="lat" rend="italic">Ipse... cognito Caesaris adventu... Mytilenas paucis diebus venit. Biduum tempestate retentus, navibusque aliis additis actuariis, in Ciliciam atque inde Cyprum pervenit</foreign></quote>». <bibl><author>CAESAR</author> <hi rend="italic">ibidem</hi>.</bibl></note>. Avendo risoluto di cercare un asilo presso il Re di Egitto Tolomeo, il cui padre egli aveva sommamente beneficato, mandò ad avvertirlo della sua venuta<note resp="aut" place="foot">«<quote><foreign lang="lat" rend="italic">Ad eum [Ptolemaeum] Pompeius misit, ut pro hospitio atque amicitia patris Alexandria reciperetur, atque illius opibus in calamitate tegeretur</foreign></quote>». <bibl><author>CAESAR</author>, <hi rend="italic">ibidem</hi>, cap. 103.</bibl></note>. Potino, il quale avea l’autorità di primo ministro, adunò il consiglio, nel quale fu proposto se dovesse o no riceversi Pompeo. Il retorico Teodoto fu di opinione che dovesse a lui permettersi di approdare, e quindi ucciderlo per così obbligarsi Cesare, e non aver di che temere dalla parte di Pompeo. Fu seguito il suo consiglio, ed Achilla, uomo di singolare audacia, incaricossi della esecuzione. Prese egli seco Settimio, di nascita romano, e Salvio con altri sgherri, e postosi in una barca avanzassi verso Pompeo, il quale nel suo vascello stava attendendo la decisione del consiglio<note resp="aut" place="foot">«<quote><foreign lang="lat" rend="italic">His tunc cognitis rebus, amici regis, qui propter aetatem eius in procuratione erant regni, sive timore adducti, ut postea praedicabant, solicitato exercitu regio, ne Pompeius Alexandriam Aegyptumque occuparet; sive despecta eius fortuna, ut plerumque in calamitate ex amicis inimici exsistunt; iis, qui erant ab eo missi, palam liberaliter responderunt, eumque ad regem venire iusserunt. Ipsi clam consilio inito, Achillam praefectum regium, singolari hominem audacia et L. Septimium tribunum militum ad interficiendum Pompeium miserunt. Ab his liberaliter ipse appellatus, et quadam notitia Septimii productus, quod bello praedonum apud eum ordinem duxerat, naviculam parvulam conscendit cum paucis suis; ei ibi ab Achilla et Septimio interficitur</foreign></quote>». <bibl><author>CAESAR</author>, <hi rend="italic">ibidem</hi>, cap. 104</bibl></note>. Invitatolo ad approdare, Pompeo inviossi verso la spiaggia, alla quale essendo giunto, nell’atto che egli si levava appoggiandosi ad un suo liberto, Settimio diedegli un colpo di spada dietro alle spalle. Salvio ed Achilla unironsi a Settimio, e Pompeo vedendosi circondato da questi sicari, gittato un sospiro, prese per coprirsi il volto i lembi della sua veste, e senza dir parola si lasciò trucidare<note resp="aut" place="foot"><bibl>Vedi <author>ROLLIN</author>, <title>Storia romana</title>, t. 17, lib. 44, par. 11.</bibl></note>. Sopra quest’ultimo fatto è fondata precipuamente la presente Tragedia, nella quale si son tolte alcune vere circostanze per sostituirvene delle altre più proprie e più adattate all’intreccio della medesima.</p>
+</div1>
+<castList>
+<head>INTERLOCUTORI</head>
+<castItem><role>TOLOMEO</role> <roleDesc>Re di Egitto.</roleDesc></castItem>
+<castItem><role>TEODOTO</role> <roleDesc>Confidente di Tolomeo. </roleDesc></castItem>
+<castItem><role>ACHILLA</role> <roleDesc>Confidente di Teodoto. </roleDesc></castItem>
+<castItem><role>CNEO POMPEO MAGNO</role></castItem>
+<castItem><role>TEOFANE</role> <roleDesc>Confidente di Pompeo. </roleDesc></castItem>
+<castItem><role>CAIO GIULIO CESARE</role></castItem>
+<castItem><role>FULVIO</role> <roleDesc>Ambasciatore di Giulio Cesare. </roleDesc></castItem>
+<castItem><role>Guardie e Soldati egiziani.</role></castItem>
+<castItem><role>Guardie e Soldati del seguito di Pompeo. </role></castItem>
+<castItem><role>Guardie e Soldati di Giulio Cesare. </role></castItem>
+</castList>
+<set><p>La scena è in Alessandria nella reggia di Tolomeo.</p></set>
+</front>
+<body>
+<div1 type="atto">
+<head>ATTO I</head>
+<div2 type="scena">
+<head>Scena 1</head>
+<stage>Appartamenti reali</stage>
+<stage>Teodoto ed Achilla.</stage>
+<sp><speaker>TEODOTO</speaker><l>Ah quale, amico, a questo regno, a questa</l>
+<l>Città regal periglio è sopra! il forte</l>
+<l>De’ Galli domator, Cesare invitto,</l>
+<l>Su Roma impera e detta leggi al mondo:</l>
+<l>Ei vincitor là di Farsaglia al campo</l>
+<l>Trionfante mirò le schiere avverse</l>
+<l>Volgere il tergo a vil terrore in preda.</l>
+<l>Abbandonato, intimorito, errante</l>
+<l>Sen fugge il gran Pompeo, qua volge i passi,</l>
+<l>Qui cerca asilo, e qui sarà fra poco</l>
+<l>Supplice e mesto al regio piè: l’insegue</l>
+<l>Il fiero vincitor, desia vendetta;</l>
+<l>Non la vuol che dall’armi, e queste mura</l>
+<l>Cinte in breve vedrai da squadre ostili,</l>
+<l>Se al vinto presterem soccorso, aita.</l>
+<l>Or che mai far dobbiam? rispinger forse</l>
+<l>Lungi da noi la supplichevol turba?</l>
+<l>Forse accoglierla amici, ed infra queste</l>
+<l>Mura ad essa apprestar sicuro asilo?</l>
+<l>Odioso al mondo tutto, odioso ai Numi</l>
+<l>Il rifiuto sarà, sarà funesto</l>
+<l>Il ricettarla, che su noi lo sdegno</l>
+<l>Trarrà del forte vincitor guerriero.</l>
+<l>Parla or dunque, consiglia: eh, qual potremo</l>
+<l>Via rinvenir, per cui serbar la pace</l>
+<l>Tra queste mura, in questo regno, e salvo</l>
+<l>Render l’Egitto?</l>
+</sp>
+<sp><speaker>ACHILLA</speaker><l>Ascolta; a noi di troppo</l>
+<l>Periglioso saria l’aver nimico</l>
+<l>Cesare e Roma; l’Universo trema</l>
+<l>Al nome tal, nè temerà l’Egitto?</l>
+<l>Dunque da noi scacciar lungi dovremo</l>
+<l>La supplichevol turba, e in truce aspetto</l>
+<l>I suoi pianti sprezzar, sprezzar le grida?</l>
+<l>No; del vinto Pompeo l’atroce sdegno</l>
+<l>Potriaci un giorno esser funesto; il fato</l>
+<l>È volubile, il sai; forse la sorte</l>
+<l>Un dì vorria, volta l’instabil ruota,</l>
+<l>Cesare oppresso, e vincitor Pompeo.</l>
+<l>Che dunque oprar dovrem? Fallace aspetto</l>
+<l>Ora vestir conviene; il vinto stuolo</l>
+<l>Da noi si accolga, e in Alessandria trovi</l>
+<l>Simulata pietà, mentita fede.</l>
+<l>Del Dittatore ad evitar lo sdegno,</l>
+<l>Cada Pompeo per nostra man trafitto;</l>
+<l>L’estinta salma ei veda; il suo nemico,</l>
+<l>Prosteso a’ piedi suoi, lordi di sangue</l>
+<l>Questo suol, queste mura. Omai si franga</l>
+<l>Delle moleste, inopportune leggi</l>
+<l>La catena servil, sprezzinsi i dritti</l>
+<l>Della fede ospitale; unica via</l>
+<l>Questa è di scampo al minacciato Egitto.</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>I tuoi consigli approvo; altronde invano</l>
+<l>Salute cercheremmo; a noi sol puote</l>
+<l>Scampo arrecar del vinto duce il fato.</l>
+<l>S’armin dunque le turbe; al rege imbelle</l>
+<l>Celar conviene il meditato inganno.</l>
+<l>In giovin cuore<note resp="aut" place="foot"><hi rend="italic">v. 58.</hi> Tolomeo non era ancor giunto alla età di tre lustri, quando Pompeo andò a cercare un asilo in Egitto. Questa circostanza, per maggior comodità dell’intreccio, si è preferita nella presente Tragedia.</note>, il sai, troppo degli avi</l>
+<l>Puote l’esempio; a’ miei disegni opporsi</l>
+<l>Egli potria, potria pur anco il folle</l>
+<l>Quanto debba l’Egitto al vinto Duce<note resp="aut" place="foot"><hi rend="italic">v. 61.</hi> Pompeo aveva sommamente beneficato il padre di Tolomeo. Di più, il Senato avealo dato per tutore al giovine Principe. Queste ragioni furon quelle che determinarono Pompeo a cercare un asilo presso il Re di Egitto.</note></l>
+<l>Rammentare in mal punto: in petto adunque</l>
+<l>A te si celi la tramata frode.</l>
+<l>Vanne: Alessandria omai per le tue cure</l>
+<l>Tra il comune terror viva tranquilla;</l>
+<l>Tu ne assicura libertade e pace.</l>
+<l>Di armati e d’armi questa reggia or cingi;</l>
+<l>Forse potria la fuggitiva turba</l>
+<l>Meditar qualche inganno, e qui raccolti</l>
+<l>E spirti e forze, ad improvviso assalto</l>
+<l>Muover furente, e d’Alessandria alfine</l>
+<l>Con nero inganno reo farsi signora.</l>
+<l>Tu i guerrieri disponi; in ogni dove</l>
+<l>Salda presenti ed inconcussa fronte</l>
+<l>Questa regal cittade ad ogni ostile</l>
+<l>Perfido agguato, ad ogni ascosa trama.</l>
+<l>Vanne: di Egitto in te la speme è posta.</l>
+</sp>
+<sp><speaker>ACHILLA</speaker><l>Quanto m’imponi eseguirò; ben presto</l>
+<l>Veder potrai tranquillo il popol tutto.</l>
+<l>Alessandria sicura, il regno in salvo...</l>
+<l>Che miro, o ciel!... Pompeo s’innoltra.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>Scena 2</head>
+<stage>Pompeo e detti.</stage>
+<sp><speaker>POMPEO</speaker><l>Amici,</l>
+<l>Pur vi riveggo alfin! di mie sventure</l>
+<l>Un tal contento alleggerisce il peso.</l>
+<l>Ah, quale or vi rimiro! un dì temuto</l>
+<l>Dal mondo inter, terror dell’Asia avversa,</l>
+<l>Dell’Affrica spavento, e dell’Europa</l>
+<l>Sostegno e difensor, stender godea</l>
+<l>L’amica destra a sollevar le oppresse</l>
+<l>Nazioni supplichevoli, gementi,</l>
+<l>E spesso con la man pietosa e fida</l>
+<l>Tersi ai Regi dagli occhi il mesto pianto:</l>
+<l>Ora sconfitto, abbandonato, errante</l>
+<l>Lungi dal patrio suol, qui mi ritrovo</l>
+<l>Sotto straniero ciel. Pur non vien meno</l>
+<l>In questo cuore il marzial coraggio,</l>
+<l>Il romano valore; io son Pompeo.</l>
+<l>Il sento, il so, venga il nemico, affronti</l>
+<l>Questa man, questo petto, a mille e mille</l>
+<l>Avverse schiere in faccia, io saldo e forte</l>
+<l>Mantenermi saprò. No che Pompeo</l>
+<l>Non sa che sia timor, se vinto ei cede,</l>
+<l>Colpa del fato è sol, non di viltade.</l>
+<l>Tigrane il dica, e Mitridate altero<note resp="aut" place="foot"><hi rend="italic">v. 104.</hi> Si sa che Pompeo sconfisse Mitridate, Re di Ponto, e Tigrane genero di questo principe; che penetrò vittorioso nella Media e nell’Iberia, e sparse per tutta l’Italia la fama de’ suoi trionfi.</note></l>
+<l>Per me sconfitto; il Medo parli e il forte</l>
+<l>Italo invitto, e il generoso Ibero.</l>
+<l>Tal fui, tal son, che in me non langue estinta</l>
+<l>La romana virtude, il fier valore.</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>Sperar signor, convien: del tutto avversa</l>
+<l>Non ti è la sorte. In questo regno amico</l>
+<l>Tranquillo troverai sicuro asilo;</l>
+<l>Qui, raccolte armi e forze, il tuo nemico</l>
+<l>Sfidare in campo ed affrontar potrai:</l>
+<l>Se è da un Roman guidato, eh, quali prove</l>
+<l>Far non saprà l’Egizian valore?</l>
+<l>Molto resta a sperar; Cesare alfine</l>
+<l>Invincibil non è! Roma t’invita,</l>
+<l>Roma, ed il mondo, che a un tiranno impero</l>
+<l>Mal soffre soggiacer; di libertade</l>
+<l>Sarai tu difensor, tu de’ Romani</l>
+<l>Saldo sostenitor; paventi il fiero</l>
+<l>Orgoglioso tiranno, ei vegga il seggio</l>
+<l>Mal fermo, il trono vacillante, e tremi.</l>
+<l>Ubbidiente al tuo voler l’Egitto</l>
+<l>Ognor sarà: no, che non fugge il saggio</l>
+<l>Di un infelice il volto. Ardue sventure</l>
+<l>Preman Pompeo, mostri la sorte a lui</l>
+<l>Benigno aspetto, a Roma ognor fedele</l>
+<l>Alessandria sarà. Forse all’Egitto</l>
+<l>Dovrà Pompeo la libertà latina.</l>
+<l>Oda i miei voti il cielo, io volo intanto</l>
+<l>Il Rege a prevenir; tra brevi istanti</l>
+<l>Qua ritorno farò; ma ei viene appunto,</l>
+<l>Eccolo a te.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>Scena 3</head>
+<stage>Tolomeo e detti.</stage>
+<sp><speaker>POMPEO</speaker><l>Prence, al tuo piè tu vedi</l>
+<l>Pompeo, già grande un giorno; egli ha con Roma</l>
+<l>Comune il fato; di ribelle spada</l>
+<l>Al fulminar, vinta del Lazio cadde</l>
+<l>La libertà: me pur persegue irato</l>
+<l>L’implacabil destin, la cruda sorte;</l>
+<l>Ma non cadde Pompeo! Ne frema il fiero,</l>
+<l>Scellerato oppressor, Pompeo non cadde;</l>
+<l>No, non fu vinto il suo valor dall’armi:</l>
+<l>Ei spira ancor; forse a suo danno un giorno</l>
+<l>Esso il vedrà fra cento squadre e cento</l>
+<l>Schernire il suo furor, di sangue sparso</l>
+<l>Aprirsi a Roma il varco, e sulle estinte</l>
+<l>Salme di mille e mille empi ribelli</l>
+<l>Di vittoria innalzar lieto il trofeo.</l>
+<l>Qui son frattanto a te dinnanzi, io cerco</l>
+<l>Un asilo in Egitto. Odioso, io spero,</l>
+<l>Ciò non ti fia: supplice qua non sono,</l>
+<l>Non imploro mercè; no, non paventa</l>
+<l>Pompeo di morte il sì temuto aspetto:</l>
+<l>Sol per la patria io vivo, e questo braccio</l>
+<l>Sol per la patria pugnerà; tranquillo</l>
+<l>Tra i perigli n’andrò; se me rigetti,</l>
+<l>No, pregar non saprò. Sdegna un Romano</l>
+<l>Le meste grida e i sconsolati pianti.</l>
+<l>Tra i nemici n’andrò, sol contro l’urto</l>
+<l>Di mille schiere ad affrontar la morte,</l>
+<l>Se da te mi discacci.</l>
+</sp>
+<sp><speaker>TOLOMEO</speaker><l>Amico, invano</l>
+<l>Fingi in me tal viltà. Resti Pompeo;</l>
+<l>Ubbidisca a’ suoi cenni ognor l’Egitto:</l>
+<l>È tale il mio voler, tal la mercede,</l>
+<l>Che a’ benefici tuoi rende il mio regno.</l>
+<l>No, che sol di Quirin tra l’alte mura</l>
+<l>Non fa il valore e la virtù dimora;</l>
+<l>No, che non vede solo il Tebro altero</l>
+<l>Nascer gli Eroi; del Nilo ancor la riva</l>
+<l>Di alcun romano per valore è madre.</l>
+<l>Tu fra poco il vedrai. No, non ignora</l>
+<l>Che sia virtude Tolomeo; di Roma</l>
+<l>Egli il fato compiange, ei di Pompeo</l>
+<l>Sostegno farsi e difensor desia.</l>
+<l>Tu vanne, Achilla: armati ovunque ed armi</l>
+<l>Disponi, aduna. Ad ogni cenno omai</l>
+<l>Sien del Duce roman pronti i guerrieri,</l>
+<l>Al suo coraggio, al suo valor commessa</l>
+<l>Sia d’Alessandria la salvezza; a lui</l>
+<l>Delle adunate, generose schiere</l>
+<l>Il comando si affidi; ei vegga a prova</l>
+<l>Quanto possa l’Egitto, e quale alberghi</l>
+<l>Fede e pietà tra queste avite mura.</l>
+<l>Abbia con Roma omai comun la sorte</l>
+<l>Grata Alessandria, o con lei vinca, o cada</l>
+<l>Vinta con essa dai ribelli acciari.</l>
+</sp>
+<stage>Partono Tolomeo ed Achilla.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 4</head>
+<stage>Teofane, Teodoto e Pompeo.</stage>
+<sp><speaker>POMPEO</speaker><l>Teofane, che rechi? eh quale in volto</l>
+<l>Mostri terror?</l>
+</sp>
+<sp><speaker>TEOFANE</speaker><l>D’infausti annunzi io vengo</l>
+<l>Ingrato apportator. Tra mille schiere</l>
+<l>Ver noi Cesare avvanza: io vidi, io stesso</l>
+<l>Errar da lungi le nemiche insegne,</l>
+<l>Splender gli scudi, e sfolgorar gli acciari.</l>
+<l>Pe’ vasti spazi già spargersi intorno</l>
+<l>Veggonsi igniti lampi, un’alta messe</l>
+<l>D’aste affoltate, un ondeggiar confuso</l>
+<l>D’alteri elmi criniti: i sommi rami</l>
+<l>Somiglian di boscosa ampia foresta,</l>
+<l>Che dall’urlante soffio di Aquilone</l>
+<l>Agitati e commossi, all’acque immense</l>
+<l>Del mar simili fluttuando ondeggiano.</l>
+<l>L’aquile altere minaccianti orrende</l>
+<l>Spiegan ribelli il volo. Ognor più presso</l>
+<l>Fassi il nemico stuol; fra brevi istanti</l>
+<l>Assaliti sarem tra queste mura.</l>
+<l>Nulla resta a sperar, cadrem ben presto</l>
+<l>Sotto il nemico acciar. Miseri! ah, dove</l>
+<l>Ci trasse il rio destin? Sconfitti, erranti</l>
+<l>Non ci volle egli sol; di morte in braccio</l>
+<l>Ci spinge, e vuol del nostro sangue alfine</l>
+<l>L’empia brama saziar...</l>
+</sp>
+<sp><speaker>POMPEO</speaker><l>Vile, ti accheta.</l>
+<l>Qual t’ingombra timor? Sì presto adunque</l>
+<l>Tu cedi alle sventure? Ah! non mostrarti</l>
+<l>Dell’amicizia di un romano indegno.</l>
+<l>Quale insana viltà? Cesare adunque</l>
+<l>Invincibil tu fingi? eh, non rammenti</l>
+<l>I campi di Dirrachio<note resp="aut" place="foot"><hi rend="italic">v. 216.</hi> È noto che il fatto di Dirrachio e la segnalata vittoria riportata in esso da Pompeo sopra di Cesare ritardarono per alcun tempo la totale sconfitta del partito della Repubblica.</note> e il dì felice,</l>
+<l>In cui tremar tu l’oppressor vedesti,</l>
+<l>Fuggir gli empi ribelli, e sotto ai colpi</l>
+<l>Delle romane spade a terra stesi</l>
+<l>Farsi co’ corpi estinti a’ nostri passi</l>
+<l>Orrido inciampo? Ah! se non cadder franti</l>
+<l>Di libertade i lacci, e se in quel giorno</l>
+<l>Non dispiegàr gloriose a Roma il volo</l>
+<l>L’aquile fide al vinto duce in faccia,</l>
+<l>Colpa fu del destin. No, che il valore</l>
+<l>Non mancò ne’ romani: e, vil, tu puoi</l>
+<l>Di Cesare temer, tu in faccia all’empie</l>
+<l>Turbe ribelli inorridirti, e il volto</l>
+<l>Mostrar coperto di pallor? No, ch’io</l>
+<l>I nemici non temo, io più di loro</l>
+<l>Temo il vostro timor. Lieve tempesta</l>
+<l>Al nocchier che dispera è ognor fatale.</l>
+<l>Dunque dovrà Pompeo veder tremanti</l>
+<l>A Cesare d’innanzi i fidi suoi?</l>
+<l>Ah! tolga il ciel tanta viltade. Io volo</l>
+<l>Tutto a dispor per la difesa; in breve</l>
+<l>Alessandria vedrai sicura ovunque</l>
+<l>De’ nemici schernir lo sdegno e l’ira.</l>
+<l>Tu con speme miglior l’alma conforta;</l>
+<l>Desta gli spirti omai; che sei rammenta</l>
+<l>Del fier Pompeo guerrier, seguace, amico.</l>
+</sp>
+<stage>Parte.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 5</head>
+<stage>Teofane e Teodoto.</stage>
+<sp><speaker>TEOFANE</speaker><l>Oimè! che udii? Dunque Pompeo disegna</l>
+<l>D’opporsi armato all’inimico stuolo,</l>
+<l>E del trionfo ancor nutre speranza?</l>
+<l>Folle speranza! Ah, ch’ella, sol di stragi</l>
+<l>Causa sarà, sol di ruine, e solo</l>
+<l>Di spavento e terror; folle è colui</l>
+<l>Che contro il fato a cozzar prende. E dove,</l>
+<l>E in che sperar? Nella difesa forse</l>
+<l>Di nostre squadre indebolite e stanche</l>
+<l>E molli ancora di sudor la fronte?</l>
+<l>Scorra per ogni lato, ei vegga il pianto</l>
+<l>In ogni ciglio, in ogni cor la tema.</l>
+<l>Qual contro lui si adira e quale il cielo</l>
+<l>Malvagio accusa, qual non parla e piange,</l>
+<l>Qual corre, e ove non sa. Come all’estreme</l>
+<l>Fronde d’arida canna accesa fiamma</l>
+<l>Si propaga e si accresce, e appoco appoco</l>
+<l>In vortici fumanti al ciel s’innalza;</l>
+<l>Tal lo spavento ovunque scorre, e fatto</l>
+<l>D’ogni animo signor, confonde e mesce</l>
+<l>La città tutta. Ognun di già vicino</l>
+<l>Teme l’ultimo istante, ognun tremando</l>
+<l>Corre all’amico amplesso e il crede estremo.</l>
+<l>Eh qual difesa mai da tali schiere</l>
+<l>Sperar puote Pompeo? D’Egitto forse</l>
+<l>Nella virtude egli confida? Ah! questa</l>
+<l>Troppo è folle lusinga; e qual dal forte</l>
+<l>Vittorioso nemico oltraggio o danno</l>
+<l>Tolomeo ricevè?...</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>No, mal conosci</l>
+<l>Del nostro Rege il cuor. Si pugni, e cada</l>
+<l>Vinto l’Egitto, e che perciò? si serbi</l>
+<l>La data fè, de’ benefici suoi</l>
+<l>Questa a Pompeo mercè si renda: ei vegga</l>
+<l>Quanto possa Alessandria, e quale alberghi</l>
+<l>Pietade in questa Reggia: i sensi sono</l>
+<l>Questi di Tolomeo. Ma qual del forte</l>
+<l>Invitto Dittator la possa e l’armi</l>
+<l>Quale affrontar vorrà? Dunque l’Egitto</l>
+<l>A un Romano stranier sacrare il sangue</l>
+<l>E la vita dovrà? privo di speme</l>
+<l>Di vittoria e trionfo indarno dunque</l>
+<l>Ei pugnerà, cadran le genti estinte</l>
+<l>Per appagar di un insensato il folle</l>
+<l>Temerario desio? Deh! ceda alfine,</l>
+<l>Ceda al destino il roman Duce. Ognuno</l>
+<l>Il riconosce Eroe; di sua virtude</l>
+<l>Sparso è dovunque il grido: ah! cessi omai</l>
+<l>Di contrastar col fato. Indarno ei spera</l>
+<l>Di servitù togliere a Roma il giogo.</l>
+<l>Vinta ella cadde: di Farsaglia i campi</l>
+<l>Parlan di sue sconfitte; in cielo è fisso;</l>
+<l>Quella che serve tante genti rese</l>
+<l>Serva essa stessa alfin. Tu vanne, amico:</l>
+<l>Del roman Duce in cuor destar procura</l>
+<l>Men fieri sensi, ei ceda un giorno e il sangue</l>
+<l>Risparmi omai sì vanamente sparso.</l>
+</sp>
+<stage>Parte Teofane.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 6</head>
+<stage>Teodoto solo.</stage>
+<sp><speaker>TEODOTO</speaker><l>Il tutto arride a’ miei disegni. Avvanza</l>
+<l>Cesare il prode; ei d’Alessandria in breve</l>
+<l>Signor sarà, ma sol per poco; il capo</l>
+<l>Del fier Pompeo fia tra l’Egitto e Roma</l>
+<l>Di pace mediator; nulla si oppone</l>
+<l>Al mio desir. Forse... ah da me va lungi</l>
+<l>Troppo vana speranza... ah forse un giorno</l>
+<l>Lo stesso acciar che del romano duce</l>
+<l>Il sen passò, di Tolomeo potria</l>
+<l>Farsi uccisor, forse su questa fronte</l>
+<l>Il diadema regal... No, nulla al forte</l>
+<l>Impossibil fu mai: sì, tutto puote</l>
+<l>Magnanimo valor, marziale ardire.</l>
+<l>Questo mio petto del secreto arcano</l>
+<l>Sia geloso custode..., il regno, il trono</l>
+<l>L’aureo scettro regal... gradita immago,</l>
+<l>Ah, qual commuovi i sensi miei!... T’accheta</l>
+<l>Ambizioso mio cor... quanto d’un regno</l>
+<l>Puote la speme! Ah! si fomenti un tale</l>
+<l>Generoso desio, lusinghe e doni,</l>
+<l>Armi, forza, costanza, ardir, valore,</l>
+<l>Tutto s’impieghi al desiato fine.</l>
+<l>Forse non vana la mia speme un giorno</l>
+<l>Veder potrò, forse di morte in braccio</l>
+<l>L’odiato regnator... Basti, se il fato</l>
+<l>Con lieto aspetto a’ miei disegni arride,</l>
+<l>Vedrà l’Egitto un dì quanto di un regno</l>
+<l>Di Teodoto in cuor possa il desio.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>Scena 7</head>
+<stage>Tolomeo e detto.</stage>
+<sp><speaker>TEODOTO</speaker><l>Signor, ver queste mura armate schiere</l>
+<l>Volgono i passi; il vincitor Romano,</l>
+<l>Lor Duce e guida, omai tra brevi istanti</l>
+<l>Assalirci vedrai; signor d’Egitto,</l>
+<l>D’Alessandria tiranno, il forte, il prode</l>
+<l>Cesare or or sarà; trema ciascuno</l>
+<l>All’appressar delle nemiche squadre:</l>
+<l>Inabile ai ripari, ognun si asconde</l>
+<l>Sotto il paterno tetto e al petto stringe</l>
+<l>L’amico, il genitore, il figlio amato;</l>
+<l>Misero! e teme ad ogni istante il fiero</l>
+<l>Duce roman mirarsi appresso, il crudo</l>
+<l>Barbaro acciar de’ suoi più cari in seno</l>
+<l>Veder paventa immerso, e mille morti</l>
+<l>Prova ad un punto sol. Confuso, errante</l>
+<l>Ciascun si aggira, nè sa ben se corra</l>
+<l>In braccio a morte o se fuggirla ei tenti.</l>
+<l>Solo fra tanto orror tranquillo, immoto</l>
+<l>Vedi il fiero Pompeo, de’ nostri mali</l>
+<l>Abborrita cagion. Nulla ei paventa</l>
+<l>Il nemico vicin; di tanto lutto</l>
+<l>Nulla il commuove la funesta immago.</l>
+<l>Imperturbato con feroce aspetto</l>
+<l>Cesare attende, e sol di sangue e stragi,</l>
+<l>Di vendetta e di guerra è sol bramoso.</l>
+<l>Che pensi o Prence? Ah degli Egizi ognuno</l>
+<l>Supplice e mesto a te le mani stende.</l>
+<l>Qual nella guerra aver possiam salute?</l>
+<l>Pace brama ciascun, pace ti chiede<note resp="aut" place="foot">v. 351-3. Parafrasi di quel verso:<quote><foreign lang="lat">Nulla salus bello: pacem te poscimus omnes</foreign></quote>, che trovasi nell’undecimo libro dell’<title>Eneide</title> di Publio Virgilio Marone.</note></l>
+<l>Per bocca mia tutto l’Egitto: ah il tuo</l>
+<l>Popolo deh consola, o Re...</l>
+</sp>
+<sp><speaker>TOLOMEO</speaker><l>T’accheta,</l>
+<l>Non sedurre il mio cuor; lo speri invano.</l>
+<l>Pace Alessandria non avrà; si avvanzi</l>
+<l>Il crudele oppressor; la reggia, il trono</l>
+<l>Atterri, incenerisca, arda, distrugga;</l>
+<l>Si pugnerà, vinca Alessandria o cada</l>
+<l>Vittima infausta del roman tiranno.</l>
+<l>Che se pur anco all’empio Duce in faccia</l>
+<l>Fugga l’infido stuolo, e insegne ed armi</l>
+<l>In preda lasci alle nemiche squadre,</l>
+<l>Sol me vedrà la turba ostile al suo</l>
+<l>Insano empio furor far fronte immoto,</l>
+<l>Me sol pugnar, me sol cadere estinto</l>
+<l>Del fier tiranno appiè: la fede è questa,</l>
+<l>Che al vinto Duce io serbo; il vegga il mondo,</l>
+<l>Cesare il vegga, e l’egizian valore</l>
+<l>Egli apprenda a temer. No, che Pompeo</l>
+<l>Deluso non sarà; di sue sventure</l>
+<l>Non teme Tolomeo l’odiato aspetto.</l>
+<l>Tu vanne intanto, e noti a ognun proccura</l>
+<l>Rendere i sensi miei, vinca l’Egitto,</l>
+<l>O con Pompeo soccomba: invan sedurmi</l>
+<l>Spera ciascuno, il mio volere è questo.</l>
+</sp>
+</div2>
+<trailer>Fine dell’atto primo</trailer>
+</div1>
+<div1 type="atto">
+<head>ATTO II</head>
+<div2 type="scena">
+<head>Scena 1</head>
+<stage>Teodoto, Achilla.</stage>
+<sp><speaker>ACHILLA</speaker><l>Tutto disposi già: del vinto stuolo</l>
+<l>Nulla a temer ci resta; esso atterrito</l>
+<l>Pallido, palpitante, e l’armi obblia,</l>
+<l>E alla fuga sol pensa; in ogni lato</l>
+<l>Prodi guerrieri al cenno mio son pronti.</l>
+<l>Ferree sbarre di già le aenee porte</l>
+<l>Assicuràr, fidi custodi all’uopo</l>
+<l>Disposi ovunque; il mio comando, a un tratto,</l>
+<l>Schiuder le porte al vincitor d’innanzi</l>
+<l>Sarà lor cura: in ogni dove ad arte</l>
+<l>Finsi di guerra marziale aspetto,</l>
+<l>Onde dell’egiziano imbelle Prence</l>
+<l>Deludere così le vane cure.</l>
+<l>Esulta il fier Pompeo, giubila, e crede</l>
+<l>Di stragi sitibondo il crudo acciaro</l>
+<l>Tinger fra poco nel nemico sangue.</l>
+<l>Vana speranza! Egli ben presto il ferro</l>
+<l>Rosso farà nel sangue suo. Già nulla</l>
+<l>S’oppone, amico, a’ tuoi disegni: in breve</l>
+<l>Alessandria vedrem sicura e lieta</l>
+<l>Plauder gioconda all’opre nostre, e alfine</l>
+<l>Quella pace goder, che or mesta e afflitta</l>
+<l>Chiede, e desia. Tu dell’Egitto, amico,</l>
+<l>Lo scudo, il difensor sarai; te solo</l>
+<l>Liberator, sostegno suo fra poco</l>
+<l>Il popol tutto ammirerà.</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>Mio fido,</l>
+<l>Ora al Duce roman conviene i nostri</l>
+<l>Sensi far noti. Il capo invan del fiero</l>
+<l>Pompeo guerrier noi gli offriremo, invano,</l>
+<l>Schiuse le porte con amico aspetto,</l>
+<l>Lo accoglierem tra queste mura, invano,</l>
+<l>S’egli il tutto ignorando avrà le forti</l>
+<l>Turbe feroci ad assalir qua spinte.</l>
+<l>E chi potrà delle romane schiere</l>
+<l>L’impeto trattener? chi opporsi al cieco</l>
+<l>Desio sfrenato di ricchezze e d’oro?</l>
+<l>Qual mai potè di ruinoso fiume</l>
+<l>Vincer la possa, allorchè gonfio il seno</l>
+<l>Per le raccolte immense acque crescenti,</l>
+<l>Ogni argin rotto, ed i natii confini</l>
+<l>Negletti, oltrepassati, i vasti campi</l>
+<l>Ad assalir sen corre, e l’onde altere</l>
+<l>I faggi ombrosi ad atterrar sospinge,</l>
+<l>E a desolar le biade, e insiem travolti</l>
+<l>Via trasportar veloci arbori e belve?</l>
+<l>Fido messaggio or dunque a noi conviene</l>
+<l>Elegger tosto: al Dittatore ei vada,</l>
+<l>Il suo giunger prevenga, a lui del fiero</l>
+<l>Duce roman, dell’egiziano Prence</l>
+<l>Noti faccia i disegni, e a lui le nostre</l>
+<l>Cure discopra, e quanto oprammo ei sappia</l>
+<l>Con arte disvelar; cauto a noi faccia</l>
+<l>Quindi ritorno, e del romano Duce</l>
+<l>I sensi esponga, onde possiam sicuri</l>
+<l>I comandi sprezzar del nostro Prence...</l>
+<l>Ma... che vegg’io?... Fulvio s’appressa.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>Scena 2</head>
+<stage>Fulvio e detti.</stage>
+<sp><speaker>TEODOTO</speaker><l>Oh quanto</l>
+<l>Io godo, amico, in rivederti alfine,</l>
+<l>Dopo sì grave lontananza e tante</l>
+<l>Aspre vicende e impreveduti eventi.</l>
+<l>Già ti conobbi in riva al Tebro un giorno,</l>
+<l>E appoco appoco in noi crebbe l’affetto</l>
+<l>All’avvanzar degli anni, alfin ci volle</l>
+<l>Disgiunti il fato, te di Roma il suolo</l>
+<l>Possiede ancor, me dell’Egitto il regno</l>
+<l>Trasse il destino ad abitare. Eh quale</l>
+<l>Ventura in Alessandria or te condusse?</l>
+<l>Eh qual te, fido amico, il patrio tetto</l>
+<l>Strinse ad abbandonar?</l>
+</sp>
+<sp><speaker>FULVIO</speaker><l>Compagno a mille</l>
+<l>Prodi guerrieri, le paterne mura</l>
+<l>Con la tenda marzial cangiar mi piacque.</l>
+<l>Sfidare in campo le nemiche schiere,</l>
+<l>Dar di fiero valor non dubbie prove</l>
+<l>Fu mio desio. Già brama tal mi punse</l>
+<l>Sin dai verd’anni; d’una spada il lampo,</l>
+<l>Il balenar di un rilucente scudo</l>
+<l>Di marzial valor vive scintille</l>
+<l>Destavanmi nel cuor. Cedetti alfine</l>
+<l>Al fervido desio, men corsi al campo.</l>
+<l>Quivi al fragor delle guerriere pugne</l>
+<l>S’accrebbe il mio valore: abile appena</l>
+<l>A sostener fui d’una spada il peso,</l>
+<l>Di Cesare seguii l’armi e la sorte</l>
+<l>Contro i Galli pugnai, me di Farsaglia</l>
+<l>Vide il campo guerrier, nel giorno in cui</l>
+<l>Dal nemico valor sconfitto e vinto</l>
+<l>Cadde il fiero Pompeo; qua venni alfine,</l>
+<l>L’orme seguendo del Romano Duce,</l>
+<l>Del vinto stuolo in traccia; egli m’invia</l>
+<l>All’egiziano Re nunzio di pace.</l>
+<l>Sol che renda Pompeo, sol che le vinte</l>
+<l>Schiere abbandoni al fato avverso in braccio,</l>
+<l>Nulla tema da noi; tranquillo e lieto</l>
+<l>Viva l’Egitto: al Campidoglio in breve</l>
+<l>Farà ritorno il vincitor guerriero.</l>
+<l>Ma s’egli...</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>Ah! taci, amico: assai compresi,</l>
+<l>Tutto previddi, e dell’egizio Prence</l>
+<l>La mente invano guadagnar cercai.</l>
+<l>Guerra egli brama, e guerra sol desia</l>
+<l>Il fuggitivo Duce. Or tu con arte</l>
+<l>Mostrar sappi i perigli al Rege insano,</l>
+<l>Pingi del fiero Dittator lo sdegno,</l>
+<l>Della guerra i tumulti e le vicende</l>
+<l>Orribili di Marte..</l>
+</sp>
+<sp><speaker>FULVIO</speaker><l>Egli si appressa;</l>
+<l>Nulla in obblio porrò: minacce e preghi</l>
+<l>Tutto impiegar saprò.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>Scena 3</head>
+<stage>Tolomeo e detti.</stage>
+<sp><speaker>FULVIO</speaker><l>Per me, Signore,</l>
+<l>Roma salute e pace oggi t’invia.</l>
+<l>Degli odi antichi e delle risse atroci</l>
+<l>Al lungo corso omai brama por fine.</l>
+<l>Cessin le stragi, o Re, cessin gli sdegni.</l>
+<l>Assai, t’è noto, di romano sangue</l>
+<l>Bebber le greche e le latine arene.</l>
+<l>Torni la pace omai, con saldi nodi</l>
+<l>Di fede e di amistade insiem congiunte</l>
+<l>Siano le genti tutte, e questa alfine</l>
+<l>Gloria coroni le romane imprese,</l>
+<l>Che per coloro sia felice il mondo,</l>
+<l>Per cui più vivo arse di guerra il fuoco.</l>
+<l>Tal di Roma è il desio, tal dell’intero</l>
+<l>Orbe commosso, che alla pace anela.</l>
+<l>Ma come oprar se di Pompeo tuttora</l>
+<l>Vive lo sdegno e l’ambizione insana,</l>
+<l>Se armato ancora e da ribelli squadre</l>
+<l>Cinto e difeso alla vendetta aspira,</l>
+<l>E stragi sol desia, sol morti e sangue?</l>
+<l>Deh tu, che il puoi, tu del superbo Duce</l>
+<l>Vano rendi lo sdegno: a Roma, al mondo</l>
+<l>Ridona alfin la sospirata pace:</l>
+<l>Il brama ognun, Cesare il chiede, e certo</l>
+<l>Egli è che, sol del comun ben bramoso.</l>
+<l>Tu di giustizia e di equità le voci</l>
+<l>Consulterai, Signor, nè quelle leggi</l>
+<l>Trasgredirai, quelle incorrotte leggi,</l>
+<l>Che sacre ognor furo a’ Monarchi ancora.</l>
+</sp>
+<sp><speaker>TOLOMEO</speaker><l>Grato a Cesare io son, grato pur anco</l>
+<l>All’opra tua; sol d’equitade i dritti</l>
+<l>Ognor mi piacque consultar; no, Roma</l>
+<l>Nulla tema da me. Vedrà ben presto</l>
+<l>L’altero vincitor, vedrà se in faccia</l>
+<l>A mille rischi di sue schiere a fronte</l>
+<l>Sappia temer l’egiziano Prence.</l>
+<l>Di questa spada il balenar fra poco</l>
+<l>Le sue pupille ferirà. No, questo</l>
+<l>Non è de’ Galli il suol, nè di Farsaglia</l>
+<l>Potrà l’altero vincitor feroce</l>
+<l>In Alessandria ritrovare il campo.</l>
+<l>Tremi il ribelle stuol: Roma, il ripeto,</l>
+<l>Nulla tema da me; sciolta da’ lacci</l>
+<l>D’infame servitù per me fra poco</l>
+<l>Ella sarà, se pur benigno il fato</l>
+<l>Lieto e propizio a’ miei disegni arride.</l>
+<l>Vanne...</l>
+</sp>
+<sp><speaker>FULVIO</speaker><l>Signor, perdona, ah! questa dunque</l>
+<l>Risposta al Dittator recar degg’io?</l>
+<l>Impaziente egli dall’armi cinto</l>
+<l>Tra mille schiere e mille duci invitti</l>
+<l>Il mio ritorno attende: ah questo fia</l>
+<l>Della ruina d’Alessandria il segno!</l>
+<l>Deh ti commuovi, o Re: se nulla apprezzi</l>
+<l>La tua vita, il tuo sangue, ascolta almeno</l>
+<l>Del popol tuo le meste voci e il pianto.</l>
+<l>Cedi, o Prence, al destino; il vinto Duce</l>
+<l>Abbastanza pugnò: dunque non mai</l>
+<l>L’avida brama di battaglie e sangue</l>
+<l>Paga di esso sarà? Deh! cessi alfine</l>
+<l>Il suo furore insano...</l>
+</sp>
+<sp><speaker>TOLOMEO</speaker><l>Intesi assai:</l>
+<l>Non più. Ritorna al tuo Signore, a lui</l>
+<l>Fa’ noti i sensi miei. Sì, grato, il dissi,</l>
+<l>A Cesare son io, ma i dritti ognora</l>
+<l>D’amistà rispettai. No, quella pace,</l>
+<l>Ch’offre all’Egitto il vincitor Romano,</l>
+<l>Di me degna non è; tranquillo il mondo</l>
+<l>Fia solo allor che d’equitade i dritti</l>
+<l>Rispettati saran. Non odio o sdegno,</l>
+<l>Di vendetta desio, di sangue e stragi</l>
+<l>Me non spinge a pugnar: la fè, le sacre</l>
+<l>Voci sol di giustizia a me la destra</l>
+<l>Arman del ferro a sostenere eletto</l>
+<l>Di libertà, del vinto Duce i dritti.</l>
+<l>Vanne, ritorna al campo: il fier tiranno</l>
+<l>Muova all’assalto, e ferro ed armi e faci</l>
+<l>In opra ponga ad atterrir le schiere</l>
+<l>Fide all’egitto e al vinto Duce: immoto</l>
+<l>Tolomeo resterà; sol quando il ferro</l>
+<l>Avrà l’altero vincitore immerso</l>
+<l>In questo petto, egli potrà sicuro</l>
+<l>D’Alessandria Signor farsi e di Roma.</l>
+</sp>
+<stage>Parte.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 4</head>
+<stage>Fulvio, Teodoto, Achilla.</stage>
+<sp><speaker>FULVIO</speaker><l>Udisti, amico?</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>Udii, tutto previdi;</l>
+<l>Ma non però senza difesa e scampo</l>
+<l>Alessandria sarà. Vano lo sdegno</l>
+<l>Noi renderem del vinto Duce; al prode</l>
+<l>Romano vincitor per noi le porte</l>
+<l>Schiuse saran, fidi custodi ovunque</l>
+<l>Disposti all’uopo, dell’egizio Prence</l>
+<l>Deludere sapran la vigil cura.</l>
+<l>D’Alessandria Signor, sol ch’ei lo brami,</l>
+<l>Sarà fra poco il Dittator guerriero.</l>
+<l>No, che di tanti mali onde l’Egitto</l>
+<l>Minacciato vegg’io, l’aspetto orrendo</l>
+<l>Sostener non potrei: dunque di tante</l>
+<l>Genti Signora, generosa e forte</l>
+<l>Alessandria vedrò, città reina,</l>
+<l>Alle spietate edaci fiamme in preda,</l>
+<l>In cenere ridotta, al suol distesa,</l>
+<l>Abbattuta, distrutta, e in ogni dove</l>
+<l>Fatta albergo d’orror, di lutto e morte?</l>
+<l>Ah! tolga il ciel tanto spavento! E quale</l>
+<l>Danno maggior far ci potrebbe, o Numi,</l>
+<l>Il più spietato, il più crudel nemico?</l>
+<l>Tu vanne, o Fulvio; al tuo Signor sian noti</l>
+<l>Di Teodoro i sensi: ei venga, ei regni</l>
+<l>Su questo suolo, e a suo talento imperi</l>
+<l>Su noi, sul mondo e sulle genti tutte.</l>
+<l>Vivi ei ci serbi sol; questa, sol questa</l>
+<l>Mercè di nostra ubbidienza e fede</l>
+<l>Renda Cesare a noi.</l>
+</sp>
+<sp><speaker>FULVIO</speaker><l>Non più; t’intesi,</l>
+<l>Al Dittator tutto a far noto io volo.</l>
+<l>Tra mille schiere egli verrà fra poco</l>
+<l>De’ tuoi fidi in difesa; io parto, amico.</l>
+<l>Nulla resta a temer. Tranquillo viva</l>
+<l>Omai l’Egitto: ah non è già qual credi</l>
+<l>Un tiranno crudel Cesare il prode<note resp="aut" place="foot"><hi rend="italic">v. 597</hi>. Cesare a molti suoi vizi accoppiò molte virtù. La clemenza da lui usata con i vinti del partito di Pompeo mostra quanto egli sapesse moderare il suo risentimento e la sua collera.</note>.</l>
+<l>Farsaglia il dica, e Italia tutta, e Roma;</l>
+<l>Roma ribelle al Dittatore un giorno,</l>
+<l>Ora a lui fida ed a Pompeo nemica.</l>
+<l>No, non temer: salva Alessandria in breve</l>
+<l>Per l’opra mia sarà, per le tue cure.</l>
+<l>Tu qui rimani, e allor che a questi tetti</l>
+<l>L’aquile altere scorgerai vicine,</l>
+<l>Fa’ che ad un cenno tuo pronti i custodi</l>
+<l>Schiudan le porte al Dittator d’innanzi.</l>
+<l>Al campo io corro. Tu l’arcano intanto</l>
+<l>Custodisci geloso; inutil fora,</l>
+<l>Mio fido, ogni opra se al nemico sguardo</l>
+<l>Giungesse a trasparir l’ordito inganno.</l>
+</sp>
+<stage>Parte.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 5</head>
+<stage>Achilla e Teodoto.</stage>
+<sp><speaker>ACHILLA</speaker><l>L’ora è già presso, o fido amico, in cui</l>
+<l>Di Mitridate il domatore, un tempo</l>
+<l>Invincibil creduto, a quella morte</l>
+<l>Soggiaccia alfine, a cui cotanti ei trasse</l>
+<l>Principi e duci all’armi sue nemici</l>
+<l>E di Roma al poter. L’opra affrettiamo;</l>
+<l>Fugge e sen vola l’opportuno istante.</l>
+<l>Fidi guerrieri a radunare io corro,</l>
+<l>Del roman Duce a prevenir lo scampo:</l>
+<l>Ora convien sacrificarli all’ira</l>
+<l>Del popolo commosso e dell’Egitto</l>
+<l>Alla salvezza.</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>No, l’impresa, Achilla,</l>
+<l>Sarebbe, il credi, intempestiva; a noi</l>
+<l>Celare è d’uopo il meditato inganno,</l>
+<l>Finchè d’armi e d’armati abbia la reggia</l>
+<l>Cinta il romano guerriero.</l>
+<l>Sicuri allor nella difesa invitta</l>
+<l>Delle marziali schiere, il vinto Duce</l>
+<l>Del Dittator sacrificar potremo</l>
+<l>Al giusto sdegno ed al furore. Il Prence,</l>
+<l>Ch’era de’ vinti alla vendetta anela,</l>
+<l>Opra di mano ostil, di avverso acciaro</l>
+<l>Del fier Pompeo riputerà la morte.</l>
+<l>Così salvo l’Egitto e salvi a un tempo</l>
+<l>Noi stessi renderem; così delusa</l>
+<l>Di Tolomeo sarà l’inutil cura,</l>
+<l>Così Cesare avremo amico e Roma.</l>
+<l>Periglioso saria di troppo, amico,</l>
+<l>Privi di scudo e di difesa, all’ira</l>
+<l>Dello sdegnato egizio Prence esporci.</l>
+<l>Chi dal furor...</l>
+</sp>
+<sp><speaker>ACHILLA</speaker><l>Nell’ardir mio confida:</l>
+<l>Nulla a temere avremo: inerme e solo</l>
+<l>Che mai potria l’egiziano Prence</l>
+<l>A nostro danno oprar? Se a noi fedeli</l>
+<l>Le schiere son, che già corrotte i nostri</l>
+<l>Cenni attendono sol, che potrà mai</l>
+<l>Contro noi Tolomeo?</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>Del Duce avverso</l>
+<l>Opporsi all’armi, e le adunate schiere</l>
+<l>Condurre ei stesso a battagliar potria,</l>
+<l>Se prima ancor che d’Alessandria, amico,</l>
+<l>Sia Cesare Signor, l’ordito inganno</l>
+<l>A conoscer giungesse.</l>
+</sp>
+<sp><speaker>ACHILLA</speaker><l>E se frattanto,</l>
+<l>Dalle schiere a lui fide il fier Pompeo</l>
+<l>Cinto e difeso alle nemiche turme</l>
+<l>Isbigottite all’improvviso assalto</l>
+<l>Si fesse incontro; eh, qual saria lo sdegno</l>
+<l>Dell’ingannato Dittatore; eh quale</l>
+<l>Questa regal città sperar salvezza</l>
+<l>Potrebbe, amico, se la fè tradita,</l>
+<l>E la sua speme il Dittator vedesse</l>
+<l>Ingannata e delusa?</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>Io volo il tutto</l>
+<l>A provveder, tutto a disporre. In breve</l>
+<l>Vano il terror che l’alma ora t’ingombra</l>
+<l>Veder potrai, se pur propizio il fato</l>
+<l>Alle mie brame arride; io parto. Intanto</l>
+<l>Tu i miei disegni secondar proccura.</l>
+</sp>
+<stage>Parte.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 6</head>
+<stage>Achilla solo.</stage>
+<sp><speaker>ACHILLA</speaker><l>Già tutto all’Egizian pace promette;</l>
+<l>Tutto tranquilla libertade a questa</l>
+<l>Città regale assicurar vegg’io:</l>
+<l>Nulla a temere abbiam, ma questa pace,</l>
+<l>Questa ch’io stesso ad Alessandria or dono:</l>
+<l>Per me tolta le fia. Non soffre Achilla</l>
+<l>Il giogo vil, che sul suo collo impose</l>
+<l>Un imbelle tiranno; ei cada, e questa</l>
+<l>Fronte sia cinta dal regal diadema.</l>
+<l>Di Teodoto i sensi assai compresi;</l>
+<l>Ei spera invan di Tolomeo sul soglio</l>
+<l>Ascendere e dettar leggi all’Egitto.</l>
+<l>I suoi disegni secondar per poco</l>
+<l>Fingasi ad arte, e allorchè già la destra</l>
+<l>Stenda allo scettro, ei cada, e sull’estinta</l>
+<l>Gelida salma il soglio mio s’innalzi.</l>
+<l>Così dell’armi sue, delle sue frodi</l>
+<l>Io valermi saprò. Ma... dunque... ah! taci</l>
+<l>Troppo vile mio cor; muoia chi puote</l>
+<l>Giovar con la sua morte a’ miei disegni.</l>
+<l>Amicizia, virtù, diritto e fede,</l>
+<l>Nomi vani per me, nè questo cuore</l>
+<l>Suddito a voi non fia: tradirmi invano,</l>
+<l>Alma imbelle, tu vuoi; ben sa chi nato</l>
+<l>È ad alte, inusitate, eccelse imprese</l>
+<l>Quei fulmini sprezzar, quei finti Numi,</l>
+<l>Che solo di terror son vano oggetto</l>
+<l>A vili anime imbelli e al volgo ignaro.</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>Scena 7</head>
+<stage>Tolomeo e detto.</stage>
+<sp><speaker>TOLOMEO</speaker><l>È questo, Achilla, il dì, che pace a Roma</l>
+<l>E libertà, che al vinto Eroe guerriero</l>
+<l>E gloria ridonar deve e trionfo.</l>
+<l>Omai, mio fido, della dubbia sorte</l>
+<l>Sulle tracce corriam; l’egizie schiere</l>
+<l>Pronte siano a pugnar. Prima che il sole</l>
+<l>Nel profondo Ocean tuffi i destrieri,</l>
+<l>Me forse esso vedrà premere il dorso</l>
+<l>Colle vittrici fulminanti spade</l>
+<l>Al fuggitivo avverso stuol, che scampo</l>
+<l>Di Cesare nel nome indarno spera.</l>
+<l>L’opra affrettar convien: fervido in petto</l>
+<l>Sento il valor che mi commuove i sensi.</l>
+<l>Perda il tiranno, empio oppressore, alfine</l>
+<l>D’invincibile il nome; ei vegga a prova</l>
+<l>Quanto di Tolomeo possa nel core</l>
+<l>La fede, la pietà. Dunque il mio regno,</l>
+<l>Dunque la eccelsa di Quirin cittade</l>
+<l>Ad un tiranno impero esser soggetta</l>
+<l>Ognor dovrà? Dunque atterrito il mondo</l>
+<l>Sol di Cesare al nome, a lui d’innanzi</l>
+<l>Piegar dovrà vile il ginocchio, e farsi</l>
+<l>Suddito imbelle a un oppressor superbo?</l>
+<l>Ah no, che ver non fia! cada il tiranno,</l>
+<l>O liberi moriam; questi d’un Prence</l>
+<l>Nato alla gloria e per l’onor nutrito</l>
+<l>Esser debbono i sensi. Io dunque innanzi</l>
+<l>A Cesare depor dovrò lo scettro,</l>
+<l>Ed il regal diadema? ah, non si soffra</l>
+<l>Tal’onta. Achilla, a battagliare io volo;</l>
+<l>Tutto per te disposto or sia.</l>
+</sp>
+<sp><speaker>ACHILLA</speaker><l>Già l’armi</l>
+<l>Indossano i guerrieri: ognuno al campo</l>
+<l>È a seguirti disposto, ovunque, o prence,</l>
+<l>Vive scintille di valor, di sdegno</l>
+<l>Eccitare io cercai; già tutti a gara,</l>
+<l>Paga omai resa la diurna fame,</l>
+<l>Veston gli usberghi, e le fulgenti spade</l>
+<l>Cingono, e al ferreo rilucente scudo</l>
+<l>Stendon la destra marzial: ciascuno</l>
+<l>Squassa l’aste appuntate, ed il piumoso</l>
+<l>Splendente elmo crollando, al fiero stuolo,</l>
+<l>Che d’Alessandria alla rovina anela,</l>
+<l>Strage, eccidio minaccia, e a te promette</l>
+<l>Marzial coraggio e generoso ardire.</l>
+</sp>
+<sp><speaker>TOLOMEO</speaker><l>Non più si tarda. Andiam, mio fido; omai</l>
+<l>Il regal cocchio ad apprestar ten vola.</l>
+<l>Impaziente di pugnar io sono;</l>
+<l>Vanne, eseguisci i miei comandi, e tutto</l>
+<l>Disposto e pronto alla battaglia or sia.</l>
+</sp>
+</div2>
+<trailer>Fine dell’atto secondo</trailer>
+</div1>
+<div1 type="atto">
+<head>ATTO III</head>
+<div2 type="scena">
+<head>Scena 1</head>
+<stage>Teofane, Achilla.</stage>
+<sp><speaker>ACHILLA</speaker><l>Di libertade e di vittoria omai</l>
+<l>Con certa speme il cuor consola, amico;</l>
+<l>Oggi dell’empio stuol spenta la schiatta</l>
+<l>Vedrai, lo spero, e la memoria e il nome.</l>
+<l>Già quel terror, che all’egiziane schiere</l>
+<l>L’alma e il core ingombrò cedette alfine</l>
+<l>Al coraggio, al valor che in ogni petto</l>
+<l>Destar cercai; già corre all’armi ognuno;</l>
+<l>Già tutto è pronto alla battaglia. In breve</l>
+<l>Lungi da questi tetti al campo ostile</l>
+<l>Muover disegna Tolomeo: del sangue</l>
+<l>Forse dell’empio stuol ribelle infido</l>
+<l>Tinti, di libertade i franti lacci</l>
+<l>Ei deporrà del tuo Signore al Piede.</l>
+<l>Tutto alle vinte schiere, a Roma e al mondo</l>
+<l>Pace promette; al generoso Duce,</l>
+<l>Ch’alla nemica sorte or geme in braccio,</l>
+<l>Ognor sarà fido l’Egitto; invano</l>
+<l>Volle il ribelle vincitor feroce</l>
+<l>Sedurre il cuor dell’egiziano Prence;</l>
+<l>Egli di pace le insidiose offerte</l>
+<l>Rigettò generoso, e in campo omai</l>
+<l>Sfidar dispone le nemiche schiere.</l>
+<l>Fausto destin le fide turme attende.</l>
+<l>Molto a sperar abbiamo.</l>
+</sp>
+<sp><speaker>TEOFANE</speaker><l>Ah, taci, amico!</l>
+<l>Questo mio cor non lusingare. Invano</l>
+<l>Tenti quest’alma confortar, del prode</l>
+<l>Egiziano stuol troppo m’è noto</l>
+<l>Il coraggio, il valor; ma qual col fato</l>
+<l>Audacia o forza è a contrastar possente?</l>
+<l>In cielo è scritto; al Dittator romano</l>
+<l>Il Campidoglio ceda e il mondo intero.</l>
+<l>Egli sicuro nel favor del fato</l>
+<l>Ogni periglio sprezza, e in mezzo all’armi</l>
+<l>Si lancia audace ad incontrar la morte,</l>
+<l>O de’ nemici a trionfare; ei sembra</l>
+<l>Dalle nubi scagliata, orrida, ignita</l>
+<l>Folgore spaventosa. Elmo non havvi,</l>
+<l>Usbergo o scudo, che resister sappia</l>
+<l>Della sua spada alla terribil possa;</l>
+<l>Urta, rovescia ogni suo colpo, atterra,</l>
+<l>Piaga, squarcia, trafigge; in brevi istanti</l>
+<l>Intorno a sè di estinti corpi un monte</l>
+<l>Alzar il vedi; ognun, che il mira, il guardo</l>
+<l>Ne paventa e l’acciar; fuggon le schiere</l>
+<l>Da un sol cacciate. Eh qual mai resta or dunque</l>
+<l>Di libertà speranza e di trionfo</l>
+<l>Al vinto stuol, se di spavento e tema</l>
+<l>Cagione è ad ogni schiera il nome solo</l>
+<l>Del fiero Dittator?</l>
+</sp>
+<sp><speaker>ACHILLA</speaker><l>No, sì funesta</l>
+<l>Non fia qual credi di Pompeo la sorte;</l>
+<l>Con speranza miglior conforta, amico,</l>
+<l>L’abbattuto tuo cor; tra brevi istanti</l>
+<l>Vinto il ribelle stuol, salva l’eccelsa</l>
+<l>Di Quirino città forse vedrai.</l>
+<l>Io parto, e tu frattanto all’alma afflitta</l>
+<l>L’audacia antica richiamar proccura.</l>
+</sp>
+<stage>Parte.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 2</head>
+<stage>Teofane e Tolomeo</stage>
+<sp><speaker>TOLOMEO</speaker><l>Che n’arrechi, o guerrier? di’, questi tetti</l>
+<l>Abbandonò di Cesare il messaggio?</l>
+</sp>
+<sp><speaker>TEOFANE</speaker><l>Il vidi io stesso in sul lucente cocchio</l>
+<l>Ascendere fremendo: in ogni dove</l>
+<l>Armi disporsi e generose schiere</l>
+<l>Egli mirò; con minaccioso aspetto</l>
+<l>Il tergo volse a queste mura. In breve</l>
+<l>Cinta d’armati e di ribelli turbe</l>
+<l>Alessandria sarà; già l’inimico</l>
+<l>Esercito guerrier mosse all’assalto.</l>
+<l>Più presso ognor fassi l’infido stuolo:</l>
+<l>Il nitrir de’ destrieri e delle trombe</l>
+<l>Il nemico squillar, gli urli e le grida</l>
+<l>Delle ribelli schiere insiem confuse</l>
+<l>Formano orribil suon nunzio di guerra.</l>
+<l>Chiuso nell’armi Cesare s’avvanza,</l>
+<l>Con truce aspetto su destrier feroce</l>
+<l>Scorre di schiera in schiera, e il fier valore</l>
+<l>Co’ detti accresce delle squadre ostili.</l>
+<l>Tutto è tumulto, ma del fido stuolo</l>
+<l>Non langue in petto il marzial coraggio</l>
+<l>Il generoso ardir...</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>Scena 3</head>
+<stage>Pompeo e detti.</stage>
+<sp><speaker>POMPEO</speaker><l>Prence, già tutto</l>
+<l>Alla battaglia è pronto; al campo io volo</l>
+<l>Le schiere infide ad affrontar. Fia questo</l>
+<l>Il dì fatal, cui di Pompeo la morte,</l>
+<l>O la vittoria renderà famoso:</l>
+<l>Prence, io parto: non più...</l>
+</sp>
+<sp><speaker>TOLOMEO</speaker><l>T’arresta, amico.</l>
+<l>Di Tolomeo degno è il periglio. Al campo</l>
+<l>Le fide schiere io condurrò: fra poco</l>
+<l>Trionfator delle ribelli squadre,</l>
+<l>O del nemico al piè pallido, esangue</l>
+<l>Me rivedrai. Tu queste mura intanto,</l>
+<l>Questa reggia difendi e questi tetti;</l>
+<l>Qui, se il destin de’ mali tuoi non pago</l>
+<l>Vinta vuol Roma ancor, le fide schiere</l>
+<l>Raccogli, aduna, del nemico stuolo</l>
+<l>All’ira insana il tuo valore opponi;</l>
+<l>Qui de’ trionfi suoi la meta estrema</l>
+<l>Ritrovi il fiero vincitor superbo;</l>
+<l>Qui cada estinto, e l’egiziane arene</l>
+<l>Tinga dell’empio sangue, o stretto il piede</l>
+<l>Da duri ceppi all’ambizione insana</l>
+<l>Ei ponga fine, e di regnar la folle</l>
+<l>Speme abbandoni. Al tuo valor commessa</l>
+<l>Sia d’Alessandria la salvezza. Io parto;</l>
+<l>A morir vado o delle schiere avverse</l>
+<l>A trionfar.</l>
+</sp>
+<sp><speaker>POMPEO</speaker><l>No che il periglio, o Prence,</l>
+<l>Di te degno non è; no, che il tuo sangue</l>
+<l>Sparger non dei d’uno straniero Duce</l>
+<l>I dritti a sostenere; a me commesso</l>
+<l>Sia le guerriere generose squadre</l>
+<l>Condurre a battagliar. La vita, il sangue</l>
+<l>A Roma io debbo, e potrei dunque allora,</l>
+<l>Che per me pugnan generose schiere,</l>
+<l>Che il destino del Lazio incerto pende,</l>
+<l>Tra il fulminar delle minaci spade,</l>
+<l>Tranquillo star fra queste mura, e il brando</l>
+<l>Cheto mirare al fianco imbelle appeso?</l>
+<l>Ah ver non sia. Corro a pugnar, l’infido</l>
+<l>Duce ribelle e alter di questa destra</l>
+<l>L’opre vegga, e ne tremi. Ah se pietoso</l>
+<l>A’ miei disegni arride il ciel, fatale</l>
+<l>Fia questo giorno all’oppressor tiranno.</l>
+<l>Tu qui rimani, o Re, la vita, il sangue</l>
+<l>All’Egitto tu dei: sii d’Alessandria</l>
+<l>Tu difensore io pugnerò nel campo.</l>
+<l>Troppo al tuo regno, al popol tuo fatale</l>
+<l>Fora, o Signore, il tuo perir. Pompeo</l>
+<l>Estinto cada, e che perciò? fecondo</l>
+<l>Fia di Romani il sangue mio. No, meco</l>
+<l>Non perirà la libertà latina;</l>
+<l>Il feroce Caton, Metello il prode,<note resp="aut" place="foot"><hi rend="italic">v. 874.</hi> Catone di Utica e Metello Scipione non lasciarono di verificare la predizione che fa in questi versi Pompeo sostenendo contro di Cesare la guerra d’Affrica, la quale, sebbene tornasse in loro disavvantaggio, non diede piccolo impaccio, e non costò poco sangue al vincitore di Pompeo.</note></l>
+<l>Anime eccelse e a libertà sol nate,</l>
+<l>No, non caddero ancor: del sangue mio</l>
+<l>Essi ritrar sapran vendetta...</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>Scena 4</head>
+<stage>Achilla e detti.</stage>
+<sp><speaker>ACHILLA</speaker><stage>a Tolomeo</stage><l>Il cocchio,</l>
+<l>Signor, t’attende, del regal palagio</l>
+<l>Pronto alle soglie; a’ cenni tuoi disposte</l>
+<l>Son le guerriere squadre, in ogni volto</l>
+<l>Un bellicoso ardir sfavilla, e sembra</l>
+<l>Dell’inimico stuol chieder vendetta.</l>
+</sp>
+<sp><speaker>TOLOMEO</speaker><l>Andiamo adunque, un tal desir si compia.</l>
+<l>Pugniam da forti, e pria che cada il sole</l>
+<l>Egli ci vegga o vincitori o estinti.</l>
+</sp>
+<stage>Trae la spada e parte insieme con Achilla.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 5</head>
+<stage>Pompeo e Teofane</stage>
+<sp><speaker>POMPEO</speaker><l>Si parta: omai dell’egiziano Prence</l>
+<l>Si secondi il valor; già tutto arride,</l>
+<l>Amico, a’ voti miei, forse in Egitto</l>
+<l>Fia che dell’oppressor superbo il nome</l>
+<l>E la gloria e la possa abbian la tomba.</l>
+<l>Andiam, vedrai di questa il lampo</l>
+<stage>trae la spada</stage>
+<l>Balenar del tiranno innanzi agli occhi.</l>
+<l>Non più: si segua della sorte il corso,</l>
+<l>O vincitori il Ciel ci voglia o vinti.</l>
+</sp>
+<sp><speaker>TEOFANE</speaker><l>Deh voi del retto ognor, del giusto amanti,</l>
+<l>Ci difendete in tal periglio, o Numi.</l>
+<stage>trae la spada e s’incammina per partire insieme con Pompeo</stage>
+<l>Ma...</l>
+<stage>trattenendosi</stage>
+<l>Ciel, che ascolto mai? quai grida! e quale</l>
+<l>Improvviso tumulto?</l>
+</sp>
+<stage>S’ode strepito d’armi, e si vedono alcune guardie del sèguito di Pompeo, che fuggono attraverso il teatro.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 6</head>
+<stage>Teodoto e detti.</stage>
+<sp><speaker>TEODOTO</speaker><l>Amici... oh Dei!...</l>
+</sp>
+<sp><speaker>POMPEO</speaker><l>Quale spavento?...</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>Ahi! che già tutta inonda</l>
+<l>Questa regal città lo stuol nemico.</l>
+<l>No, più speme non v’è; Cesare il fiero</l>
+<l>Scellerato tiranno, a questa reggia</l>
+<l>È presso omai: le ignude spade ovunque</l>
+<l>Scintillar vedi de’ nemici, è chiuso</l>
+<l>Ogni adito alla fuga, il popol tutto</l>
+<l>Gemente palpitante i Numi invoca</l>
+<l>E il cielo avverso; il Rege istesso è cinto</l>
+<l>Dalle squadre nemiche. A lui dintorno</l>
+<l>Mille scintillar vedi ostili acciari;</l>
+<l>Ei pugna ancora invano, invano il ferro</l>
+<l>Intorno ruota, invan di sangue il suolo</l>
+<l>E di nemici estinti corpi ingombra:</l>
+<l>A lui ceder fia forza, e questa reggia</l>
+<l>Delle fiamme sarà non dubbia preda.</l>
+</sp>
+<sp><speaker>TEOFANE</speaker><l>Miseri noi!</l>
+</sp>
+<sp><speaker>POMPEO</speaker><l>Corrasi amici, il forte</l>
+<l>Prence si salvi: a lui la vita, il sangue</l>
+<l>Si doni: il merta il suo valor, la fede,</l>
+<l>La pietà, la virtù... Ma... che vegg’io?...</l>
+</sp>
+</div2>
+<div2 type="scena">
+<head>Scena 7</head>
+<stage>Achilla con spada nuda, seguìto da alcune guardie egiziane, e detti.</stage>
+<sp><speaker>POMPEO</speaker><l>Achilla... eterni Dei!... tu dunque ancora?...</l>
+</sp>
+<stage>Le guardie circondano Pompeo.</stage>
+<sp><speaker>TEOFANE</speaker><l>Olà fermate, oh ciel!... così rispetta</l>
+<l>Della fede ospitale Achilla i dritti?</l>
+<l>Miseri noi!... dunque l’amico ancora</l>
+<l>Ci tradisce, ci assal?... ma questo petto</l>
+<l>Passar dovrete in pria... barbari!... Ah! questa</l>
+<l>Al gran Pompeo de’ benefici suoi</l>
+<l>Mercè si rende?... Ma il mio braccio, infidi...</l>
+</sp>
+<stage>Si scaglia contro le guardie.</stage>
+<sp><speaker>POMPEO</speaker><l>Ah no, fermate. È a questo suol dovuto</l>
+<l>Il mio sangue, o guerrier, di pace, ah! fosse</l>
+<l>Cotesto il mediator! Vana difesa</l>
+<l>Sdegno, e non curo... Ah! il Prence egizio adunque</l>
+<stage>getta la spada</stage>
+<l>Deludermi così... No, Tolomeo</l>
+<l>Mentir non sa, viva in Egitto io lascio</l>
+<l>La fede, la virtù: deh possa il cielo</l>
+<l>Del sangue mio non ricercar vendetta<note resp="aut" place="foot"><hi rend="italic">v. 941.</hi> Il desiderio che mostra in questo luogo Pompeo di non esser cagione colla sua morte di alcuna sventura all’Egitto non fu adempito. Questo regno sottomesso da Cesare pagò con la vita di non pochi de’ suoi abitanti il fio del suo tradimento. Achilla, fatto uccidere da Arsinoe, sorella di Cleopatra, e Teodoto, fatto morire da Bruto tra i più crudeli tormenti, segnalarono ancor essi la vendetta del cielo contro l’empietà.</note>.</l>
+</sp>
+<stage>Le guardie, secondate da Achilla, spingono con impeto Pompeo dentro la scena ove esse pure l’accompagnano, e s’ode da quella parte uno strepito d’armi e un dibattimento di spade.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 8</head>
+<stage>Teofane e Teodoto.</stage>
+<sp><speaker>TEOFANE</speaker><l>Implacabil destin vincesti alfine!</l>
+<l>Aimè!... qual giorno!... il roman Duce al suolo</l>
+<l>Dunque cadrà da infida man trafitto!</l>
+<l>Ed io pur son qui neghittoso, e in tanto</l>
+<l>Periglio il Duce abbandonar m’è forza?</l>
+<l>Sventurato Pompeo! Roma infelice!</l>
+<l>Eh qual tra queste ingannatrici mura</l>
+<l>Sperar salute io posso?... Ah tronchi alfine</l>
+<l>Questa spada i miei dì... Si muora. Io cedo</l>
+<l>Al fato avverso omai; deh sorga, o Numi,</l>
+<l>Alcun vendicator dal sangue mio.<note resp="aut" place="foot"><hi rend="italic">v. 952.</hi> Parafrasi di quel verso di Publio Virgilio Marone che il famoso Filippo Strozzi scrisse prima di uccidersi colla punta del suo stocco nella camera ov’era rinchiuso, cioè: <quote><l lang="lat">Exoriare aliquis nostris ex ossibus ultor</l></quote>.</note></l>
+</sp>
+<stage>Si uccide entrando con impeto dentro la scena.</stage>
+</div2>
+<div2 type="scena">
+<head>Scena 9</head>
+<stage>Cesare preceduto e seguito da alcune guardie, e Teodoto.</stage>
+<sp><speaker>CESARE</speaker><l>Olà! guerrieri, il fido acciar posate;</l>
+<l>Si risparmino i vinti: ognuno in traccia</l>
+<l>Corra del Duce avverso; alcun non osi</l>
+<l>Spargerne il sangue, egli di mia clemenza</l>
+<l>Vivo si serbi all’immortal trionfo:</l>
+<l>Andiam...</l>
+</sp>
+<sp><speaker>TEODOTO</speaker><l>No, più di tua pietade, o Duce,</l>
+<l>Uopo non have il fier Pompeo superbo;</l>
+<l>Egli per man fedel cadde trafitto</l>
+<l>Vittima all’ira tua: da tal nemico</l>
+<l>Libero alfin tu puoi stender la destra</l>
+<l>Allo scettro regal, prezzo di tante</l>
+<l>Vittorie, in tua possanza omai sicuro</l>
+<l>Regnar su Roma e sovra il mondo intero.</l>
+<l>Soggetto ognora a’ cenni tuoi l’Egitto...</l>
+</sp>
+<sp><speaker>CESARE</speaker><l>Oimè!... che ascolto?... Ah! m’invidiaste, o cieli,</l>
+<l>Di perdonare al gran Pompeo la sorte<note resp="aut" place="foot"><hi rend="italic">v. 968.</hi> Parole simili a quelle che pronunziò Giulio Cesare, allorchè udì narrarsi la morte di Catone di Utica, uccisosi da se medesimo per non sopravvivere alla rovina della Repubblica, e per non cadere nelle mani del vincitore.</note>!</l>
+<l>Misero me! dunque Signor del mondo,</l>
+<l>Dunque trionfator di mille schiere,</l>
+<l>Tu mi persegui ancor barbaro fato?</l>
+<l>Inumani, crudeli!... Ah! se cotanto</l>
+<l>Costar mi dee lo scettro, il soglio, il regno,</l>
+<l>Riprendetevi, o Numi, il vostro dono<note resp="aut" place="foot"><p><hi rend="italic">v. 974.</hi> Allorchè il retorico Teodoto presentò a Giulio Cesare il capo e l’anello di Pompeo, egli fece comparire il suo sdegno contro i traditori e compianse la morte del suo nemico. Dicesi ancora che egli versasse delle lacrime. Dione asserisce che queste erano finte; e, sebbene Cesare conservasse sempre le apparenze esteriori di mestizia per la morte di Pompeo, ed ordinasse che il corpo di questo infelice Generale fosse abbruciato co’ più preziosi profumi, e che le sue ceneri fossero onorevolmente deposte in un tempio, quasi tutti però s’accordano nel creder finto il suo dolore.</p>
+<l lang="fre">O soupirs! ô respect! ô qu’il est doux de plaindre</l>
+<l lang="fre">Le sort d’un ennemi, quand il n’est plus à craindre.</l></note>.</l>
+</sp>
+</div2>
+<trailer>Fine dell’atto terzo ed ultimo.</trailer>
+</div1>
+</body>
+</text>
+</TEI.2>
