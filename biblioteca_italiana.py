@@ -27,32 +27,31 @@ def main():
             author_text = "unknown"
             if author is not None:
                 author_text = author.text
-            poem_list = root.findall(f".//div1[@type='poesia']")
-            poem_list2 = root.findall(f".//div2[@type='poesia']")
+            poem_list = root.findall(f".//div1[@type]")
+            poem_list2 = root.findall(f".//div2[@type]")
             poem_list.extend(poem_list2)
             for poem_number, poem in enumerate(poem_list):
-                poem_dict = {}
-                if author_text == "unknown":
-                    poem_parent_head = poem.getparent().find("head")
-                    if poem_parent_head is not None:
-                        author_text = poem_parent_head.text
-                        # all poems with 'unknown' author are from bibit000818 file
-                if author_text not in authors_works:
-                    authors_works[author_text] = []
-                poem_head = poem.find("head")
-                poem_title = poem_number
-                if poem_head is not None:
-                    if poem_head.text is not None:
-                        poem_title = poem_head.text
-                #poem_type = poem.find(f"lg").attrib["type"]
-                stanzas = []
-                poem_lg = poem.find(f"lg")
+                poem_lg = poem.find("lg")
                 if poem_lg is not None:
+                    poem_dict = {}
+                    if author_text == "unknown":
+                        poem_parent_head = poem.getparent().find("head")
+                        if poem_parent_head is not None:
+                            author_text = ''.join(poem_parent_head.itertext())
+                            # all poems with 'unknown' author are from bibit000818 file
+                    if author_text not in authors_works:
+                        authors_works[author_text] = []
+                    poem_head = poem.find("head")
+                    poem_title = poem_number
+                    if poem_head is not None:
+                        if poem_head.text is not None:
+                            poem_title = poem_head.text
+                    stanzas = []
                     for stanza in poem_lg.findall("lg"):
                         lines = []
                         for l in stanza.findall("l"):
                             if l.text is not None:
-                                text = l.text
+                                text = ''.join(l.itertext())
                                 lines.append({
                                     "verse": text,
                                     "words": text.split()
@@ -60,22 +59,44 @@ def main():
                                 line_counter += 1
                                 word_counter += len(text.split())
                                 char_counter += len(text)
-                        if len(lines)>0:
+                        if len(lines) > 0:
                             stanzas.append(lines)
-                    if len(stanzas)>0:
-                        authors_works[author_text].append({
-                            "url": f"https://github.com/linhd-postdata/biblioteca_italiana/blob/master/{xml_file}",
-                            "author": author_text,
-                            "collection": collection_title,
-                            "title": poem_title,
-                            "manually_checked": manually_checked,
-                            "text": stanzas,
-                        })
-                        work_list.append(f"{author_text} - {collection_title} - {poem_title}")
+                    if len(stanzas) == 0:
+                        for stanza in poem.findall("lg"):
+                            lines = []
+                            for l in stanza.findall("l"):
+                                if l.text is not None:
+                                    text = ''.join(l.itertext())
+                                    lines.append({
+                                        "verse": text,
+                                        "words": text.split()
+                                    })
+                                    line_counter += 1
+                                    word_counter += len(text.split())
+                                    char_counter += len(text)
+                            if len(lines) > 0:
+                                stanzas.append(lines)
+                    authors_works[author_text].append({
+                        "url": f"https://github.com/linhd-postdata/biblioteca_italiana/blob/master/{xml_file}",
+                        "author": author_text,
+                        "collection": collection_title,
+                        "title": poem_title,
+                        "manually_checked": manually_checked,
+                        "text": stanzas,
+                    })
+                    poem_dict.update({
+                        "author": author_text,
+                        "collection": collection_title,
+                        "title": poem_title,
+                        # "text": stanzas
+                    })
+                    work_list.append(
+                        f"{author_text} - {collection_title} - {poem_title}")
     all_works = []
     for author_name, author_works in authors_works.items():
         author_slug = slugify(author_name, separator="_")
-        with open(Path("json") / f"{author_slug}.json", "w", encoding='utf-8') as author_json:
+        with open(Path("json") / f"{author_slug}.json", "w",
+                  encoding='utf-8') as author_json:
             json.dump(author_works, author_json, ensure_ascii=False, indent=4)
             all_works += author_works
     with open("biblitaliana.json", "w", encoding='utf-8') as all_authors:

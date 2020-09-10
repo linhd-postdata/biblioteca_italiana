@@ -5,11 +5,11 @@ It contains more than 18000 works from over 159 authors
 
 ## XML folder statistics
 
-- Authors: 183
-- Works: 18689
-- Verses: 429969
-- Words: 2797182
-- Characters: 14910102
+- Authors: 214
+- Works: 25341
+- Verses: 1068284
+- Words: 7107260
+- Characters: 38030425
 
 The file [`biblitaliana.zip`](./biblitaliana.zip) contains the compressed JSON corpus. The format of each entry is as follows:
 ```json
