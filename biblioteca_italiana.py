@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # !pip install lxml python-slugify
+import re
 from lxml import etree
 import json
 from pathlib import Path
@@ -33,7 +34,6 @@ def main():
             for poem_number, poem in enumerate(poem_list):
                 poem_lg = poem.find("lg")
                 if poem_lg is not None:
-                    poem_dict = {}
                     if author_text == "unknown":
                         poem_parent_head = poem.getparent().find("head")
                         if poem_parent_head is not None:
@@ -47,35 +47,22 @@ def main():
                         if poem_head.text is not None:
                             poem_title = poem_head.text
                     stanzas = []
-                    for stanza in poem_lg.findall("lg"):
+                    line_group_list = poem_lg.findall("lg")
+                    if len(line_group_list) == 0:
+                        line_group_list = poem.findall("lg")
+                    for stanza in line_group_list:
                         lines = []
-                        for l in stanza.findall("l"):
-                            if l.text is not None:
-                                text = ''.join(l.itertext())
+                        for line in stanza.findall("l"):
+                            if line.itertext() is not None:
+                                text = re.sub("\s\s+", " ", ''.join(line.itertext()))
                                 lines.append({
                                     "verse": text,
-                                    "words": text.split()
                                 })
                                 line_counter += 1
                                 word_counter += len(text.split())
                                 char_counter += len(text)
                         if len(lines) > 0:
                             stanzas.append(lines)
-                    if len(stanzas) == 0:
-                        for stanza in poem.findall("lg"):
-                            lines = []
-                            for l in stanza.findall("l"):
-                                if l.text is not None:
-                                    text = ''.join(l.itertext())
-                                    lines.append({
-                                        "verse": text,
-                                        "words": text.split()
-                                    })
-                                    line_counter += 1
-                                    word_counter += len(text.split())
-                                    char_counter += len(text)
-                            if len(lines) > 0:
-                                stanzas.append(lines)
                     authors_works[author_text].append({
                         "url": f"https://github.com/linhd-postdata/biblioteca_italiana/blob/master/{xml_file}",
                         "author": author_text,
@@ -83,12 +70,6 @@ def main():
                         "title": poem_title,
                         "manually_checked": manually_checked,
                         "text": stanzas,
-                    })
-                    poem_dict.update({
-                        "author": author_text,
-                        "collection": collection_title,
-                        "title": poem_title,
-                        # "text": stanzas
                     })
                     work_list.append(
                         f"{author_text} - {collection_title} - {poem_title}")
