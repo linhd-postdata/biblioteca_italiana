@@ -8,6 +8,51 @@ from pathlib import Path
 from slugify import slugify
 
 
+def indexed2binary(indexed):
+    splits = indexed.split(" ")
+    binary = ["-" for i in range(int(splits[-1]) + 1)]
+    for pos in splits:
+        binary[int(pos) - 1] = "+"
+    return "".join(binary)
+
+
+def ami2bi():
+    annotated_info = {}
+    for file in Path("./AMI").glob('*.csv'):
+        with open(file) as tsvfile:
+            for line in tsvfile.readlines():
+                info = line.split("\t")
+                annotated_text = slugify(info[0])
+                metrical_pattern = info[1].strip()
+                annotated_info.update({annotated_text: metrical_pattern})
+    json_folder = Path("./json")
+    corpus = []
+    authors = ["dante", "petrarca"]
+    for author in authors:
+        for json_file in list(json_folder.rglob(f"*{author}*.json")):
+            corpus.extend(json.loads(json_file.open().read()))
+    authors_works = {}
+    for poem in corpus:
+        for stanza in poem["text"]:
+            for line in stanza:
+                automatic_text = slugify(line["verse"])
+                for annotated_text, metrical_pattern in annotated_info.items():
+                    if annotated_text in automatic_text:
+                        line.update({"indexed_metrical_pattern": metrical_pattern,
+                                     "metrical_pattern": indexed2binary(metrical_pattern)})
+                        poem.update({"manually_checked": True})
+        author_text = poem["author"]
+        if author_text not in authors_works:
+            authors_works[author_text] = []
+        authors_works[author_text].append(poem)
+    for author_name, author_works in authors_works.items():
+        author_slug = slugify(author_name, separator="_")
+        with open(Path("json") / f"{author_slug}.json", "w",
+                  encoding='utf-8') as author_json:
+            json.dump(author_works, author_json, ensure_ascii=False, indent=4)
+    return authors_works
+
+
 def main():
     authors_works = {}
     work_list = []
@@ -73,17 +118,20 @@ def main():
                     })
                     work_list.append(
                         f"{author_text} - {collection_title} - {poem_title}")
-    all_works = []
     for author_name, author_works in authors_works.items():
         author_slug = slugify(author_name, separator="_")
         with open(Path("json") / f"{author_slug}.json", "w",
                   encoding='utf-8') as author_json:
             json.dump(author_works, author_json, ensure_ascii=False, indent=4)
-            all_works += author_works
+    manual_annotations = ami2bi()
+    final_dict = dict(authors_works, **manual_annotations)
+    all_works = []
+    for author_name, author_works in final_dict.items():
+        all_works += author_works
     with open("biblitaliana.json", "w", encoding='utf-8') as all_authors:
         json.dump(all_works, all_authors, ensure_ascii=False, indent=4)
     print("Statistics\n----------")
-    print("- Authors:", len(authors_works))
+    print("- Authors:", len(final_dict))
     print("- Works:", len(work_list))
     print("- Verses:", line_counter)
     print("- Words:", word_counter)
